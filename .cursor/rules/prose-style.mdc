@@ -1,0 +1,54 @@
+---
+description: Straightforward story prose style and POV
+alwaysApply: true
+---
+
+# Prose Style
+
+Write clear, direct prose. Subject first. Plain verbs. No flowery language. No ornamental description for mood.
+
+## Detail
+
+- Aim for solid coverage of the beat. Too sparse is wrong. Padding is also wrong.
+- Give enough detail to track what happened and what he did. Do not add justifying color.
+- No extraneous explanation. Do not tell why a fact matters unless the plot needs it.
+- No comparisons used as flavor.
+- Bad padding: "the room was already warm" "potatoes that did not look soft" "before the day got hotter" and similar extra judgments.
+
+## Sentences
+
+- Keep wording straightforward. Say who did what and when.
+- Prefer subject-first lines like "D woke up when the sunlight hit his eyes."
+- Do not invert into sensory-first or stylish openings like "Light cut across his eyes so he sat up."
+- Do not swap plain words for prettier ones. Prefer "hit" over "cut across." Prefer "woke up" over ornamental wake phrasing.
+- Never end a beat with a two-word sentence. "He paid." "He woke." "He waited." are banned.
+- A subject-verb line is fine when it carries real attached content: object, place, time or linked next step.
+- Prefer short to medium sentences. Long sentences are rare and usually only when the user writes them that way on purpose.
+
+```
+# Bad (flowery / inverted)
+Light cut across his eyes so he sat up.
+
+# Bad (bare two-word beat)
+D woke. He paid.
+
+# Bad (padded)
+D woke up when the sunlight hit his eyes and the room was already warm.
+
+# Good
+D woke up when the sunlight hit his eyes. He sat up, checked that he had cash and a bag and walked to the market two streets over. The shelves were half stocked so he took bread, eggs, milk and a sack of potatoes. He paid for the groceries and then carried them home.
+```
+
+## Point of View
+
+- Use third person.
+- When in the main character's point of view, stay close to what he knows, notices, wants and decides.
+- Do not drift into other characters' private thoughts during his POV scenes.
+- Narration can report what he observes about others but not what they feel unless he has reason to infer it.
+
+## Tone
+
+- Concrete over poetic.
+- Functional over pretty.
+- Clarity over style tricks.
+- Straightforward subject-first beats over rearranged "literary" order.

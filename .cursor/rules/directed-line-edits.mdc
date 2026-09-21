@@ -1,0 +1,46 @@
+---
+description: Directed line edits; prompt ellipses locate and finish
+alwaysApply: true
+---
+
+# Directed Line Edits
+
+## Use the user's exact words
+
+When the user points at a line and gives replacement wording:
+
+1. Change only the line or clause they marked.
+2. Paste their wording into the story exactly as they wrote it.
+3. Keep their commas, periods and question marks as they wrote them.
+4. Do not rewrite their wording to match other style rules.
+5. Do not flip the line back and forth after the edit is done.
+
+## What `...` means in an edit prompt
+
+`...` in the user's prompt is a locate marker. It is not story text.
+
+- Use the words around the `...` to find the matching stretch in the chapter
+- Apply the edit there
+- Do not paste the prompt's `...` into the story as a truncated ending
+- Finish the sentence with complete wording
+- Do not treat the `...` as a blank list of missing scenes to invent
+
+Example:
+
+User says: `he's never hit me before, but will he...`
+
+Find that clause. Put their words in. Finish the sentence. Do not leave `will he...` in the story.
+
+Wrong: `He's never hit me before, but will he...`
+Right: `He's never hit me before, but will he hit me if I annoy him?`
+
+Example with a locate line:
+
+User says:
+```
+i really need to get home
+
+he grabbed the umbrella to try to fix and headed...
+```
+
+The first line is the new wording. The second line with `...` only marks where to edit. Find that stretch and apply the change. Do not paste `headed...` into the story.

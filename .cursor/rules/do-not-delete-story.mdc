@@ -1,0 +1,18 @@
+---
+description: Never strip or wipe Story/Chapters content
+alwaysApply: true
+---
+
+# Story Edit Rules
+
+## 1. Never strip chapter text when filing elsewhere
+
+If the user says put text in Notes or References:
+- Copy it there
+- Leave the chapter text in place
+- Filing is a copy, never a move
+- Never erase chapter content to put it in a reference file
+
+## 2. Never wipe chapter files
+
+Do not blank, reverse or overwrite a whole `Story/Chapters/` file. Edit with targeted replacements only.

@@ -1,0 +1,559 @@
+# Skills
+
+Roland's skills by chapter. Traits stay in `Traits.md`. Follow `CrossCheck.md`.
+
+**Rewrite rules:** skill technique ranks by age in `References/Progression.md`. Attribute bonus from a skill = **+1 × current skill level** per favored attribute (`References/Levels.md`). Sheet buckets in `StatusBreakdown.md`.
+
+### Early attribute map (rewrite)
+
+| Skill | Favored attributes |
+|---|---|
+| Debugger | Intelligence |
+| Technology | Dexterity, Intelligence |
+| Tinkerer | Dexterity |
+| Cooking | Dexterity, Agility |
+| Marksmanship | Dexterity |
+| Acting | Charisma |
+| Hastened Reading | Intelligence |
+| Mana Sense | Intelligence |
+| Reading Proficiency | Intelligence |
+| Basic Running | Endurance |
+| Basic Sprint | Endurance, Agility |
+| Basic Hand to Hand Combat | Strength |
+| Basic Climbing | Strength, Agility |
+| Basic Throwing | Dexterity |
+| Basic Sneaking | Agility |
+| Basic One-Handed Swordsmanship | Strength |
+| Basic Leather Armor Proficiency | Endurance |
+| Identify, Analyze, Sleep Resistance, Basic Mathematics, Map Reading | none listed |
+
+Basic Mana Shaping lists Int/Will bonuses in chapter text; per-level amounts TBD.
+
+## Chapter 1
+
+No skill menu yet. Status name only.
+
+## Chapter 2
+
+Boy's original skills before transfer: Identify, Mana Sense.
+Brought from previous life: Debugger, Technology, Sleep Resistance, Tinkerer, Cooking, Marksmanship, Acting, Basic Mathematics, Map Reading, Hastened Reading.
+Also learned: Analyze (from reverse-engineering the status formulas).
+
+```
+════════ SKILLS ════════
+Debugger L8          Passive
+Allows the user to find and resolve defects.
+Bonus to Intelligence +8
+
+Technology L7        Passive
+Bonus to repair and creation of technology or technological equivalents.
+Bonus to Dexterity +7 and Intelligence +7
+Ch 4: conceptual / understanding side of the clock (with Tinkerer).
+
+Sleep Resistance L4  Passive
+Require less sleep and feel less tired.
+
+Tinkerer L8          Passive
+Increased proficiency in the creation and repair of various crafts.
+Bonus to Dexterity +8
+Ch 4: physical / mechanical side of the clock (with Technology).
+
+Cooking L3           Passive
+Increased proficiency in preparing food.
+Bonus to Dexterity +3 and Agility +3
+
+Marksmanship L7      Passive
+Increased proficiency with aimed projectile weapons.
+Bonus to Dexterity +7
+
+Acting L4            Passive
+Increased proficiency in assuming roles and controlling expression.
+Bonus to Charisma +4
+
+Basic Mathematics L7 Passive
+Indicates proficiency with mathematics.
+
+Map Reading L4       Passive
+Increased proficiency with maps, paths and spatial layouts.
+
+Hastened Reading L2  Passive
+Speeds reading while taking in knowledge.
+Bonus to Intelligence +2
+
+Identify L1          Passive
+Used for identifying names and basic properties of the world.
+
+Analyze L1           Passive
+Used for analyzing systems, formulas and how things work.
+
+Mana Sense L1        Passive
+Allows you to sense mana.
+════════════════════════
+```
+
+Transfer skill attribute total: Int +17, Dex +25, Agi +3, Cha +4. Traits add Int +13, Will +10 (`Traits.md`).
+
+## Chapter 3
+
+No new skills listed. Mana Sense is the dinner reveal. Library reading begins; Roland Reading track starts around L7 / ~270 wpm (`Progression.md`).
+
+## Chapter 4
+
+Mana Sense reaches L4 (Intelligence +4). Continues toward max for mage path (maxed before ascension in Chapter 5). Books say **L10** guarantees Mage; rewrite hard cap is **L9** then evolve (`Levels.md`).
+
+Early physical training unlocks (named in chapter):
+- Basic Running (after running) → Endurance
+- Basic Sprint (after sprints) → Endurance, Agility
+- Basic punching / Basic Hand to hand combat (after hand-to-hand drills) → Strength
+
+Leveling those Basics: he runs faster, jumps higher and punches harder (technique), and gets Endurance / Strength attribute bonuses.
+
+**Climbing experiment (~half year in):** same tree. L1 on first successful climb. L2 after ~10 more. L3 after ~50 total. Roland treats this as an achievement-threshold curve (harder each rank). See `Levels.md` practice thresholds.
+
+**Unlock rules shown:**
+- Toy ball against a wall: no throwing skill. Rock + training dummy: Basic Throwing.
+- Stick does not unlock spear-throwing; a real spear would.
+- Most pre-ascension skills are Basics and combat-leaning.
+- Hitting heated horseshoes / forge work: **no** smithing skills without Blacksmith class. Combat hammer skills possible in theory; Baron forbids forge work.
+
+Later also: Climbing (Str/Agi), Throwing (Dex), closet/basement Sneaking tests (Agi), One-handed Swordsmanship from house drills (Str). Leather armor worn in bravery test; proficiency by Ch 4–7 (End). Reading Proficiency on transmigrator table (Int). Debugger still unclear. Clock rearrange: **Tinkerer** = physical/mechanical parts fit; **Technology** = conceptual/understanding. Both likely involved.
+Identify rises with reading and appraisal. Sleep Resistance self-explanatory. Ambient mana absorb blocked until Mage/Acolyte (mana poisoning).
+Age 9: short sword Identify shows Common steel with ???? attack and defense.
+
+Age-9 technique targets and attribute piles: `Progression.md` / `StatusBreakdown.md`.
+
+## Chapter 5
+
+Mana Sense maxed before the ritual (rewrite: L9). Used in the ascension tutorial to watch the clone form Mana Bolt.
+
+Pre-class skills menu on-page: transfer set (Marksmanship **L7**) + Mana Sense **L9** (+Int/Will) + Reading **L9** (+Int/Will) + age-10 Basics (Running/Sprint/Climbing/Throwing/Leather **L9**; H2H/Sneak/Sword **L8**). Status: Str/Agi/Vit/End **40**, Dex **50**, Int **66**, Will **53**. HP 520 / MP 872 / SP 640.
+
+Class: Tier 1 Mage (chosen Yes/No on the PC sprite). Unlocked mid-tutorial when the immaterial clone touches him:
+
+- Basic Mana Shaping (shapes spells; chapter later lists Int/Will bonuses; per-level amounts TBD)
+- Basic Mana Regulation (regulate body mana; ambient absorption / regen)
+- Mana Bolt Spell L1 (chanted; Int-scaled damage)
+- Basic Incantation L1 (chant speed / proficiency)
+
+Prose: he feels the skills and the spell land; stats rise slightly (Mage L1 package). Crystal dusts after return.
+
+## Chapter 6
+
+Class: Mage L3. Full skills menu from the chapter (Blessed by Mana appears on this screen but is a **trait**; file under `Traits.md`).
+
+```
+════════ SKILLS ════════
+Mana Bolt            Spell
+A focused bolt of mana energy that deals mana damage to one target.
+The damage done depends on the user's intelligence.
+
+Basic Mana Shaping   Skill
+Lets the mage shape mana into spells, gives bonuses to intelligence and willpower.
+The higher the skill the better the user is at forming spells.
+
+Basic Mana Regulation Skill
+Helps regulate the mana in the user's body.
+Increases mana regeneration by helping absorb ambient mana from the environment.
+
+Mage Class           Class
+Increases mana by 20% and increases mana regeneration by 15%.
+
+Blessed by Mana      Trait
+Unlocked if a person has more than 40 intelligence after reaching the mage class
+at the first ascension ritual, gives bonuses to MP after each level up.
+
+Basic Incantation    Skill
+Increases spell chanting speed and proficiency.
+════════════════════════
+```
+
+Book path locked this chapter: Mage → Blacksmith + Mana Scrybe (Calligraphy required) → Runesmith (rune skill from study). Enchantsmith is the easier alternate.
+
+## Chapter 7
+
+Opens with Mana Bolt + short sword vs two estate training goblins (chant required). Pockets a tiny mana stone. Takes calligraphy books for the Scrybe path.
+
+Basic combat skills on the train screen. **Rewrite:** L9 is the hard skill-name max then evolution (`Levels.md`), not a Mage lock. On-page targets from `Progression.md` age-10 technique table:
+
+| Skill | Level | Attribute bonus |
+|---|---|---|
+| Basic One-handed Swordsmanship | L8 | Str +8 |
+| Basic Hand to hand combat | L8 | Str +8, Vit +8 |
+| Basic Running | L9 | End +9 |
+| Basic Sprint | L9 | Vit +9, End +9 |
+| Basic Climbing | L9 | Str +9, Agi +9 |
+| Basic Throwing | L9 | Dex +9 |
+| Basic Sneaking | L8 | Agi +8 |
+| Basic Leather Armor proficiency | L9 | Vit +9, End +9 |
+| Reading Proficiency (Roland) | L9 from age 7; ~640 wpm | Int +9, Will +9 |
+| Mana Sense | L9 | Int +9, Will +9 |
+
+Sneaking ground at night around the estate. Opponent-gated Basics (H2H, Sword, Sneak) stop at L8 until varied field sparring.
+
+```
+════════ SKILLS ════════
+Basic One-handed Swordsmanship L8
+Gives a bonus to one-handed swordsmanship combat along with the basic knowledge.
+Bonus to Strength +8
+
+Basic Hand to hand combat L8
+Gives a bonus to hand to hand combat along with the basic knowledge.
+Bonus to Strength +8 and Vitality +8
+
+Basic Running L9
+A skill that lets a person run slightly faster and use less stamina while running.
+Bonus to Endurance +9
+
+Basic Sprint L9
+A skill that lets a person sprint faster and use less stamina while sprinting.
+Bonus to Vitality +9 and Endurance +9
+
+Basic Climbing L9
+A skill that helps you climb surfaces.
+Bonus to Strength +9 and Agility +9
+
+Basic Throwing L9
+A skill that helps you throw objects accurately.
+Bonus to Dexterity +9
+
+Basic Sneaking L8
+A skill that allows the user to blend with the environment and avoid detection, lowers the noise produced by the user's footsteps.
+Bonus to Agility +8
+
+Basic Leather Armor proficiency L9
+A person with this skill can move better in leather armor.
+Bonus to Vitality +9 and Endurance +9
+════════════════════════
+```
+
+## Chapter 8
+
+No new named skills on screen. Arithmetic helps count the coin pile (hovering total). Uses Mana Bolt and sword work as bronze adventurer. Holds a buried class-up crystal for later Blacksmith or Mana Scrybe respec.
+
+## Chapter 9
+
+No new named skills. Field use:
+
+- **Mana Bolt** + **Basic Incantation**: full chant required to finish shaping; whisper chant lowers power; panting/running collapses the cast.
+- **Mana Sense**: detects mana stones in corpses without butchering.
+- **Climbing** + **Sneaking**: tree ambush after tribal alarm chase.
+- **Identify**: levels from reading / general knowledge (library note).
+- Shortsword + hunting knife (ears). Mage levels to L6.
+
+## Chapter 10
+
+Title: Goblin Hunter (monster-hunt title; fear chance vs lower-level goblins).
+
+Spells after three months (class grants Bolt / Arrow / Shield; Ember + Mana Hands from an Arden spell book):
+
+```
+════════ SPELLS ════════
+Mana Bolt L7         Spell
+A focused bolt of mana energy that deals mana damage to one target.
+The damage done depends on the user's intelligence.
+
+Mana Arrow L5        Spell
+An arrow made purely from mana. Has increased speed and penetrative power compared to the Mana Bolt spell.
+
+Mana Shield L3       Spell
+A mana shield that shields the caster or their allies from harm.
+
+Ember L6             Spell
+By causing friction with mana the caster can create a small fire.
+
+Mana Hands L5        Spell
+The caster can create hands made from mana. The weight and distance this spell can be used for is dependent on the intelligence stat.
+════════════════════════
+```
+
+Cast method: imagine the spell circle + shape mana + chant together. Spell/skill level-ups grant XP (often more than trash goblins). Some Basic combat skills evolved toward non-Basic forms via guerrilla forest grind. Still Mage L20 on first class. Plans Mana Scrybe next.
+
+## Chapter 11
+
+No new named skills. Uses Mana Arrow (entrance rat; notes higher mana cost and longer cast than Bolt), Mana Shield (full chant on Sahildr vs spiked boar), Basic Incantation (levels with spell use) and Mana Sense (chest stone locate). Party combat on Emerald Wilderness floor 1.
+
+## Chapter 12
+
+Gained: Basic Alcohol Resistance (forced tavern drinking; notes hangover potions exist; theorises other exposure resistances).
+Uses Mana Arrow, Mana Bolt and Identify (Needle Worm). First clear look at a lesser impact rune on Sahildr's hammer (glowing pathway lines).
+
+## Chapter 13
+
+Gained: Basic Calligraphy L9 (Mana Scrybe requirement; months of nightly grind).
+Basic combat skills evolving into regular versions (Running, Sprint, Sneaking, Swordsmanship and related); free attribute points on evolve (Sneaking→Agi, Swordsmanship→Str). Still Mage L25. Class-change crystal recovered. No class change yet. Plans lesser sharpness knife as study piece.
+
+## Chapter 14
+
+Gained: Dodging L2 (mid-chase popup).
+Uses Mana Shield (extra mana into bubble on Reyna vs Gale Step thrust; still pierced but buys the parry), Mana Arrow and Mana Bolt in the Tier 2 fencer fight. Party kill (+479 XP). Still Mage L25.
+
+## Chapter 15
+
+No new combat skills. Debugger (and possibly Technology) on runic pathways: red/green/blue traces, zoom, mana drain while viewing. Calligraphy redraw of improved circuit. Created Lesser Detonation Rune [Highest] schematic (+1000 XP). Title: Runic Scholar. Still Mage L25. Class stone deferred.
+
+## Chapter 16
+
+Class: Runic Mana Scrybe (title-gated; timed fire-orb trial).
+Gained (permanent after pass):
+- Basic Mana Scribing L1 (scribe basic spells to paper)
+- Basic Rune Scribing L1 (scribe runes to paper)
+- Basic Rune Mastery L1 (rune comprehension; small MP cut to use runes)
+
+Reading proficiency from Arden library aids the trial book. Temporary versions mid-trial. Debugger blank during inscribing; scores the finished diagram. Technology helps parse rune components as circuit/logic parts. First attempt fails (red); second succeeds on last sand.
+
+## Chapter 17
+
+No new named skills. Basic Rune Mastery tested (~1% rune activation cost on detonation rapier). Secondary Mage keeps mana bonuses. Still needs **Runecraft** after Blacksmith for Runesmith (skill books); else Enchantsmith path. Asks for Sahildr's hammer to farm more schematics.
+
+## Chapter 18
+
+Gained: Drawing L1 (from Basic Drawing L9 breakthrough via Runic Mana Scrybe diagrams).
+Created Lesser Impact Rune [Highest] schematic (Debugger overlay; Sahildr present). Two Highest lesser schematics now (Detonation + Impact). Fire Orb schematic still pending.
+
+## Chapter 19
+
+Created Lesser Fire Orb Rune [Highest] schematic from class-trial memory (~1 hour; +1000 XP). Three Highest lesser schematics. Debugger fails on cut-paper overlays (needs whole sheet). Sleep Resistance noted on the long train. Still Runic Mana Scrybe. Plans circuit-module experiments.
+
+## Chapter 20
+
+No new skills. Hides Runic Mana Scrybe while job hunting as Mana Scrybe. Still has not scribed paid scrolls on-page. Buys blanks/ink/pencil for later work.
+
+## Chapter 21
+
+First on-page Mana Scribing: Mana Arrow scroll (~10 min, +20 XP; Identify = name only). First practice Fire Orb runic scroll (~45 min, +50 XP; Debugger red). Debugger blank on regular scrolls. Runic scrolls work at 0% elemental affinity. Plans auction practice grind.
+
+## Chapter 22
+
+Basic Rune Scribing L5. Understanding of runic scroll making L2. Basic Rune Mastery leveled slightly. Perfect Common Runic Fire Arrow schematic (**2× XP** vs lesser). Auction set: 8 High + 2 Highest Common Fire Arrow scrolls (comet logo). Cover: robed/masked servant of a runesmith.
+
+## Chapter 23
+
+Basic Mana Scribing L2. Basic Rune Scribing L5. Basic Rune Mastery L3 (combat use via scrap Fire Arrow grimoire). Basic Mana Shaping L6. Basic Mana Regulation L7 (full regen in a few hours; faster when still / more skin bare). Sleep Resistance +1 (half-year grind). Stealth Basic → regular. Common runes manageable from Rune Scribing L4+ (less mana burn while crafting). Scrap Low/Lowest Fire Arrow grimoire: page crumbles on cast; no chant.
+
+## Chapter 24
+
+No new Roland skills. Fire Arrow grimoire combat (five headshots). Mana Sense stone locate for Helci. Helci: Scout L1 (ascension); late bloomer ~16.
+
+## Chapter 25
+
+No new skills. Class exposed: high Identify reads **Runic Mana Scrybe L10** without a block enchantment. Plans Orb of Light, Aqua Ball and Frost Bolt runic samples for schematics after signing.
+
+## Chapter 26
+
+Debugger maps Common Frost/Gale Arrow [Highest] (+2000 XP each) and grafts Lesser Smoke Arrow [Lowest]. Status-hide armband (reads as Mana Scrybe). Circuit research: shared arrow rune; power-input plug; series/parallel; resistor swap dims Orb of Light. Hides Debugger from boss. Min 10 common Fire Arrows/week (~1 hour each).
+
+## Chapter 27
+
+Basic Rune Mastery L4 (levels only via combat use of runic gear/scrolls; aims L9 before Blacksmith for possible special class). Elemental grafts on lesser Mana Arrow / Bolt / Shield (fire/water/wind/earth). Rune Scribing compaction: envelope-size commons (aim playing-card); smaller overload cap. Fire Arrow throughput 5–6/day. No new named skill unlocks.
+
+## Chapter 28
+
+No new Roland skills. Pack of compact Mana Bolt / Mana Arrow scrolls. Helci: Scout L10; trapfinding; dagger/short sword/short bow training.
+
+## Chapter 29
+
+Uses Ember (friction ignition), Hush (30-min sound dome) and mana sphere light. Fire Arrow plus lesser runic Mana Arrow / Mana Bolt scrolls for Rune Mastery grind.
+
+## Chapter 30
+
+Map Reading used in mine. Mana Sense finds cores. Scroll Mana Bolt / Mana Arrow combat (feigns casting). Mana Shield on Orson vs acid spit. Rune Mastery grinding on Myrmeke kills.
+
+## Chapter 31
+
+Conserves scrolls. Casts Mana Blast and barrier with incantation. Scroll Fire Bolt + Fire Arrow drop Myrmeke Soldier L53. Identify reads soldier name/HP. Skills leveling in combat (no numbers shown).
+
+## Chapter 32
+
+Scroll frost/water/whirlwind/gale/rock arrows simulate blizzard. Explosive detonation scrolls open sealed wall. Smoke Arrow. Monster-pelt multi Fire Arrow array wounds Queen. Rune Mastery rising fast.
+
+## Chapter 33
+
+Basic Rune Mastery maxed (mine scroll combat). Debugger used on overloaded fire-pelt scroll (recap). Plans barrier add-on for next overload scroll. Combat skills noted as stagnant.
+
+## Chapter 34
+
+Basic Rune Mastery, Basic Mana Scribing and Basic Rune Scribing at max. Hastened Reading used on smithing books. Offered Advanced Mana Scrybe / Advanced Runic Mana Scrybe, Blacksmith, Runic Blacksmith, Runic Archer, Runic Warrior. Selects Runic Blacksmith trial.
+
+## Chapter 35
+
+Gained permanent: Basic Forging, Basic Smithing Mastery, Basic Runecraft. Class: Runic Blacksmith (+15% SP, +10% MP, lower rune inscription cost). Temporary versions during trial.
+
+## Chapter 36
+
+Basic Smithing Mastery L1 → L2 (+1 Strength). Basic Forging unchanged. Iron Nail [Lesser: Low] practice (1 XP). Runecraft test: hand-inscribe on cold bronze is too slow; hammer + heat works. Bronze Plate of the Fire Orb [Lesser: Lowest, High] (reusable).
+
+## Chapter 37
+
+Bronze Mana Bolt paddle wands field-tested (~75 MP/cast; ~10 uses before rune fail; repairable). Pressure-trigger detonation scrolls (mine-wall upgrade). No new named skill unlock. Title evolves to Goblin Slaughterer.
+
+## Chapter 38
+
+Basic Forging, Basic Smithing Mastery and Basic Runecraft all at L2. Runic Blacksmith class L2. Uses Detect Life (nightly) and Shadow Veil (common). Enchanted rapier with internal-explosion function. Gale arrow scroll finish.
+
+## Chapter 39
+
+No new Roland skills. Zilyana / Ziron use shadow travel / shadow walking. Manager uses crystal communication mirror.
+
+## Chapter 40
+
+No new combat skills. Title: Manslayer (human kill credit from Rawson).
+
+## Chapter 41
+
+Receives Runecraft skill book (already has skill; boosts progress) and Runic Ethereal Pathways skill book (not learned on-page yet). Manager aware of Runic Blacksmith / Runecraft path.
+
+## Chapter 42
+
+Basic Runecraft L2 → L3 (skill book). Ethereal Pathways L1 learned (+1 Intelligence). Lesser Fortitude rune schematic from Runecraft book. Lesser mana regeneration ring (~15% production).
+
+## Chapter 43
+
+Smithing practice: Crude Steel Utility Knife [Intermediate]. Ten iron bodkin arrowheads (6 Low / 4 Intermediate). Has Lesser Sharpness rune (not yet fitted). Still hides Runecraft from Helci.
+
+## Chapter 44
+
+Basic Forging L4. Basic Smithing Mastery L4. Runic Blacksmith class L3. Lesser Scorch Rune schematic [Low] via Debugger + Knowledge Retention. Bronze Leaf Sword of Lesser Scorching [Intermediate, High]. Ethereal Pathways used for wooden hilt.
+
+## Chapter 45
+
+Blacksmith Identify on Helci's Steel Shortsword. Plans Mana Slash schematic borrow. Starts Lesser Sharpness on company steel longsword. Arrow lesser runes theorized around Runecraft L7.
+
+## Chapter 46
+
+Sharp Runic Steel Longsword [Intermediate, High] (Lesser Sharpness). Mana Slash schematic borrowed via Debugger (Helci distraction). Continues steel Runecraft grind; scribing deprioritized with boss approval.
+
+## Chapter 47
+
+Gained: Basic Rune Compression (book), Runic Blacksmith's Eyes (class ~L13), Blacksmith's Heat Sense (class ~L7). Dual Mana Slash/Thrust sword [Highest] lesser runes. Skill list as in chapter status block. Technology (not Circuitry) L7.
+
+## Chapter 48
+
+Debugger used on new Slot socket design. Sleep Resistance mentioned (near limit). No new skill unlocks. Title: Runic Scholar II.
+
+## Chapter 49
+
+First working mana-stone Slot weapon. Temporary Mana Slash / Mana Thrust appear on status while sword is held. Identify shows Slot: Common Mana Stone (+3 Strength). Ethereal Pathways links pommel to blade.
+
+## Chapter 50
+
+No new Roland skill unlocks. Identify on slotted sword triggers cliffhanger anomaly.
+
+## Chapter 51
+
+Debugger used to map greater illusion pathways and locate prime rune. Runecraft mana touch used to sever/repair-race pathways. Fire Arrow condensed magic paddle used in illusion and as planned real-world shot at device. No new skill unlock.
+
+## Chapter 52
+
+Fire Arrow steel paddle (~10 charges via Compression; repairable paddle form). Multi common elemental shield scrolls (fire/wind/water/earth). No new skill unlock. Status: poisoned, paralyzed, cursed, bleeding (paralyze fades when dagger withdrawn).
+
+## Chapter 53
+
+Debugger + Mana Sense on Solaria healing: no runic diagram. Workshop electro trap runes (activate/deactivate); under-bed illusion rune stash. Slot/mana-stone recharge idea for traps noted. No new skill unlock.
+
+## Chapter 54
+
+Receives Mana Reinforcement skill book (not learned on-page). No new skill unlock this chapter.
+
+## Chapter 55
+
+No new skill unlock. Travels with runic wrist guards/greaves (no Slots yet); brigandine in bag.
+
+## Chapter 56
+
+Learns Basic Mana Reinforcement L1 (lotus ambient-mana drill). Hastened Reading + Mana Sense aid. Reaches L2 before caravan departure. Rewrite: +10% max MP / level to base stats while active; 90% Basic cap; drops when MP empty.
+
+## Chapter 57
+
+Mana Reinforcement practiced toward L3 (not confirmed unlocked). Common detection runic ball (sonar, ~50m). No new skill unlock.
+
+## Chapter 58
+
+Runic grenades (Compression + Ethereal Pathways + scroll core). Water/freeze extinguish combo. Fire Blast (mana-empowered). Detection ball (low mana). Identify on farmer/cook family. No new skill unlock.
+
+## Chapter 59
+
+Fire Arrow paddle (deteriorating). Mana Arrow / Mana Bolt wand barrage. Debugger on arming sword + slave collar runes. No new skill unlock.
+
+## Chapter 60
+
+Debugger + Runecraft destroy collar prime runes. Fire Arrow paddle repaired and used. Mana Thrust on slotted arming sword vs Bocanach. Identify: Adolescent Bocanach L46. No new skill unlock.
+
+## Chapter 61
+
+Identify usable in combat (Greater Mantodea L57). Incanted mage stall spells + Fire Blast. Mana Arrow. No new skill unlock.
+
+## Chapter 62
+
+Runecraft wand repair XP. Combat skills noted: One-handed Swordsmanship L4; Hand to hand / Spearmanship / Blunt L1. Mana Reinforcement L3. No new unlock.
+
+## Chapter 63
+
+Night-vision goggles. Shadow-cloak scroll. Detonation scrolls. Stone Arrow. Heavy rapier runic blast (Logon). No new skill unlock.
+
+## Chapter 64
+
+Shadow veil scroll spent. Most mine/detonation scrolls spent. Detection orb used. No new skill unlock.
+
+## Chapter 65
+
+Debugger/Identify on deep-metal loot. Plans Compression for common rune on dagger. No new skill unlock.
+
+## Chapter 66
+
+Debugger on ship cannons (common runes + mana stones; detonation-like propellant). Cannon schematic sketched. Considers T2 hybrid / Runic Weaponsmith / Armorsmith. No new skill unlock.
+
+## Chapter 67
+
+Sleep Resistance noted (still tired after voyage). Wand repairs + more runic scrolls. Plans helmet enchantments (FOV / dark vision / IR ideas). Trap runes on inn door/window. No new skill unlock.
+
+## Chapter 68
+
+Status-hide pendant (from Marlo) vs guild measuring orb. No new skill unlock. Runic Blacksmith now L21 on sheet.
+
+## Chapter 69
+
+Plans armor cooling / heat-resistance runes (Edelgard lesser armor schematics already banked: fire/cold/poison/curse etc.). No new skill unlock.
+
+## Chapter 70
+
+Crafts crude Poison Cloud wand (slow mist; ~10 min linger in jar). Pressurized water wand for porch cleaning. Mana Shield to contain poison gas. Knows Poison Spray + Poison Cloud. No new skill unlock.
+
+## Chapter 71
+
+Chilling armor rune (buff-like MP drain while active). Runecrafted shield. Debugger on dungeon gate (no runes). Close-combat grind plan (sword/block/dodge). Mana-imbued sword vs Fire Slime. No new skill unlock.
+
+## Chapter 72
+
+Shield/armor proficiency grind via Fiery Skeleton blocks. Multi-structure shield: Mana Shield + lesser fire resist + 3 lesser stones. Ethereal Pathways house-wiring ideas. No new skill unlock.
+
+## Chapter 73
+
+Runic Blacksmith's Eyes on deep iron mace. Crafts Impact + Hardening dual runes (no forge; deep iron hard). Plans max One-handed Swordsmanship L9 before class change. Cooking noted as unlevelable without class. No new skill unlock.
+
+## Chapter 74
+
+Mana Sense on auction music box (ambient absorption pathways). Engine/generator theory (detonation/impact timing; heating steam). No new skill unlock.
+
+## Chapter 75
+
+Debugger on High-grade deep-iron music-box plate (slime-core battery + siphon). Mana Thrust vs Baby Salamander. Shield Mana Shield + fire resist vs breath. Multi-enemy / shield-bash practice. No new skill unlock.
+
+## Chapter 76
+
+Ice Arrow volley; ice-shard gauntlet; earth-spike boot/greave runes; Impact mace finishers. Dark-red runic armor + glowing glass-visor helmet shown. No new skill unlock.
+
+## Chapter 77
+
+Many combat/craft Basics at L9 (listed on sheet). Mana bicycle. Runic steam engine + electricity→mana battery (music-box slime core). Shock door trap. Class crystal from Solaria church. No new skill unlock (pre-trial).
+
+## Chapter 78
+
+Runesmith Lord trial crafting under hourglass (deep-steel hammer; steel mace shaft + molded spiked head; tower shield). No scrolls/mana stones in trial. No new skill unlock yet.
+
+## Chapter 79
+
+Hardening on mace; Mana Shield on tower shield; Sharpness knife; common Mana Bolt/Arrow wands. Incanted Mana Bolt. Imp-skin + blood as crude scroll media. Grease puddle + fire combo. Detonation mine runes. No new skill unlock.
+
+## Chapter 80
+
+Arena-wide linked lightning/electric shock trap (lesser lightning runes + control plate; generator experience). Heat/flame weld wand. Greaves save vs Hell Hound bite. No permanent skill unlock yet (library next).

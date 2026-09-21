@@ -1,0 +1,10 @@
+---
+description: Dialogue, thought, and sound effect formatting
+alwaysApply: true
+---
+
+# Dialogue and Thought Formatting
+
+- Speech uses quotation marks and italics: `"*Like this.*"`
+- Thoughts use italics only: `*Like this.*`
+- Sound effects use bold: `**SPLAT!**`

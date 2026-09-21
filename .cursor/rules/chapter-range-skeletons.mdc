@@ -1,0 +1,27 @@
+---
+description: Undone holds empty skeletons only; filled story goes in Chapters
+alwaysApply: true
+---
+
+# Chapter Range Skeletons
+
+Empty chapter-heading skeletons for unfinished ranges live under `Story/Undone/` (for example `# Chapter 61` through `# Chapter 70`). The user already made these. Do not create new ones.
+
+## Where story goes
+
+- **Filled prose belongs in `Story/Chapters/` only.**
+- As soon as a range file has any chapter body, it must be in `Story/Chapters/NN-MM.md`, not `Story/Undone/`.
+- `Story/Undone/` is empty markers only. Never leave story text there.
+
+## Fill workflow
+
+1. If the range is still only a skeleton in Undone, move (or copy then delete) that skeleton into `Story/Chapters/` when you start writing the first chapter of that range, then splice under the existing `# Chapter N` markers
+2. Or: copy the Undone skeleton into Chapters first, then write there, then delete the Undone copy for that range
+3. Do not create a second stub file. Use the existing markers
+4. When a whole range is finished in Chapters, delete that range's Undone skeleton if it is still sitting around empty
+
+## Do not
+
+- Leave story in `Story/Undone/`
+- Create new `Story/Chapters/NN-MM.md` stubs from scratch when Undone already has the skeleton
+- Recreate Undone skeletons that were removed after a range moved to Chapters

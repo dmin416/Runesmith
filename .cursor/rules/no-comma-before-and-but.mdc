@@ -1,0 +1,20 @@
+---
+description: No commas before coordinating and or but
+alwaysApply: true
+---
+
+# No Comma Before And or But
+
+Do not put a comma before `and` or `but`.
+
+```
+# Bad
+He left the city, and the gates closed behind him.
+She wanted to stay, but the road called.
+
+# Good
+He left the city and the gates closed behind him.
+She wanted to stay but the road called.
+```
+
+This applies to prose, notes, chapters, and other project writing.

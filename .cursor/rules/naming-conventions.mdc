@@ -1,0 +1,25 @@
+---
+description: Proper PascalCase naming for folders and files
+alwaysApply: true
+---
+
+# Naming Conventions
+
+All new folders and files must use proper PascalCase names. Never create lowercase, snake_case, or kebab-case names unless matching an existing numbered Source range pattern.
+
+## Folders
+
+- Use PascalCase: `Story`, `Notes`, `Chapters`, `References`, `Source`
+- Bad: `story`, `notes`, `chapters`
+
+## Files
+
+- Use PascalCase for content files: `Races.md`, `Mounts.md`, `Creatures.md`
+- Bad: `races.md`, `chapter-01.md`, `story_notes.md`
+- Keep extensions lowercase: `.md`, `.py`, `.txt`
+- Numbered Source ranges are allowed as-is: `1-10.md`, `101-110.md`
+
+## When Creating or Renaming
+
+- Match existing project casing exactly (Windows paths are case-insensitive; wrong casing still matters in the repo)
+- To fix casing on Windows, rename via a temporary name first, then to the final PascalCase name
