@@ -25,9 +25,10 @@ Roland's skills by chapter. Traits stay in `Traits.md`. Follow `CrossCheck.md`.
 | Basic Sneaking | Agility |
 | Basic One-Handed Swordsmanship | Strength |
 | Basic Leather Armor Proficiency | Endurance |
+| Basic Mana Shaping | Intelligence, Willpower (Int-heavy: +2 Int / +1 Will per level) |
+| Basic Mana Regulation | Intelligence, Willpower (Will-heavy: +1 Int / +2 Will per level) |
+| Basic Incantation | Intelligence, Willpower (even: +1 / +1 per level) |
 | Identify, Analyze, Sleep Resistance, Basic Mathematics, Map Reading | none listed |
-
-Basic Mana Shaping lists Int/Will bonuses in chapter text; per-level amounts TBD.
 
 ## Chapter 1
 
@@ -130,16 +131,18 @@ Pre-class skills menu on-page: transfer set (Marksmanship **L7**) + Mana Sense *
 
 Class: Tier 1 Mage (chosen Yes/No on the PC sprite). Unlocked mid-tutorial when the immaterial clone touches him:
 
-- Basic Mana Shaping (shapes spells; chapter later lists Int/Will bonuses; per-level amounts TBD)
-- Basic Mana Regulation (regulate body mana; ambient absorption / regen)
+- Basic Mana Shaping L1 (**Intelligence +2**, **Willpower +1**)
+- Basic Mana Regulation L1 (**Intelligence +1**, **Willpower +2**)
 - Mana Bolt Spell L1 (chanted; Int-scaled damage)
-- Basic Incantation L1 (chant speed / proficiency)
+- Basic Incantation L1 (**Intelligence +1**, **Willpower +1**)
 
-Prose: he feels the skills and the spell land; stats rise slightly (Mage L1 package). Crystal dusts after return.
+Prose: he feels the skills and the spell land; stats rise (Mage L1 package +1 Int/+1 Will, plus the three skill pads: +4 Int / +4 Will total from grants). Crystal dusts after return.
+
+**Mage L1 displayed:** Int **71**, Will **58**, MP **1140** (see `Status.md`). All seven **40** attribute perks active (Blessed by Mana with Mage; others from age-10 Basics).
 
 ## Chapter 6
 
-Class: Mage L3. Full skills menu from the chapter (Blessed by Mana appears on this screen but is a **trait**; file under `Traits.md`).
+Class: Mage L3. Full skills menu from the chapter. Mage grants all give Int and Will: Shaping Int-heavy (+2/+1), Regulation Will-heavy (+1/+2), Incantation even (+1/+1). All seven **40** attribute perks listed with the skills menu (Blessed by Mana + six others).
 
 ```
 ════════ SKILLS ════════
@@ -149,11 +152,13 @@ The damage done depends on the user's intelligence.
 
 Basic Mana Shaping   Skill
 Lets the mage shape mana into spells, gives bonuses to intelligence and willpower.
+Intelligence gains more than willpower.
 The higher the skill the better the user is at forming spells.
 
 Basic Mana Regulation Skill
 Helps regulate the mana in the user's body.
 Increases mana regeneration by helping absorb ambient mana from the environment.
+Gives bonuses to intelligence and willpower. Willpower gains more than intelligence.
 
 Mage Class           Class
 Increases mana by 20% and increases mana regeneration by 15%.
@@ -162,8 +167,12 @@ Blessed by Mana      Trait
 Unlocked if a person has more than 40 intelligence after reaching the mage class
 at the first ascension ritual, gives bonuses to MP after each level up.
 
+Titan's Back / Sure Footing / Exacting Motion / Defiance of Years / Rapid Renewal / Unbroken Focus
+(Strength / Agility / Dexterity / Vitality / Endurance / Willpower 40 perks)
+
 Basic Incantation    Skill
 Increases spell chanting speed and proficiency.
+Gives equal bonuses to intelligence and willpower.
 ════════════════════════
 ```
 

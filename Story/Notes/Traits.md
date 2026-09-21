@@ -43,21 +43,49 @@ No new traits named. Achievement: **First Kill** (+200 XP on top of the goblin k
 
 ## Chapter 5
 
-No new traits on the affinity screen. Affinities are a hidden sheet unlocked after first class, not a trait card.
+**40 attribute perks** all present once Mage L1 lands (physicals/Will already at or above 40 from Basics; Blessed by Mana needs Mage + Int > 40):
+
+- Titan's Back (Strength)
+- Sure Footing (Agility)
+- Exacting Motion (Dexterity)
+- Defiance of Years (Vitality)
+- Rapid Renewal (Endurance)
+- Blessed by Mana (Intelligence)
+- Unbroken Focus (Willpower)
+
+Affinities are a hidden sheet unlocked after first class, not a trait card.
 
 ## Chapter 6
 
-Blessed by Mana unlocked (shown on the Mage skills menu).
+All seven **40** perks shown with the Mage skills menu (Blessed by Mana plus the six body/focus perks).
 
 ```
 ════════ TRAITS ════════
 Blessed by Mana      Trait
 Unlocked if a person has more than 40 intelligence after reaching the mage class
 at the first ascension ritual, gives bonuses to MP after each level up (+10 MP per Mage level on the sheet).
+
+Titan's Back         Trait
+Strength 40. Carry capacity.
+
+Sure Footing         Trait
+Agility 40. Balance.
+
+Exacting Motion      Trait
+Dexterity 40. Accuracy of body movement.
+
+Defiance of Years    Trait
+Vitality 40. Reduced aging.
+
+Rapid Renewal        Trait
+Endurance 40. Recovery speed.
+
+Unbroken Focus       Trait
+Willpower 40. Focus.
 ════════════════════════
 ```
 
-Active set now: Logical Thinker, Fast Learning, Knowledge Retention, Blessed by Mana.
+Active set now: Logical Thinker, Fast Learning, Knowledge Retention, plus all seven 40 perks.
 
 House lore this chapter: battle classes raise Vitality and slow aging; pure housekeeping skills do not.
 

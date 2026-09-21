@@ -72,14 +72,14 @@ Applies on top of attribute MP. Blessed by Mana adds flat MP per Mage level on t
 
 ## Attribute perks
 
-Rewrite map of one perk theme per core attribute. Full list and notes: `Traits.md` (Attribute perks).
+Rewrite map of one perk per core attribute at **40**. Full list and notes: `Traits.md` (Attribute perks).
 
-| Stat | Perk name | Perk theme |
-|---|---|---|
-| Strength | Titan's Back | Carry capacity |
-| Dexterity | Exacting Motion | Accuracy of body movement |
-| Intelligence | Blessed by Mana | Mana pool growth per Mage level |
-| Willpower | Unbroken Focus | Focus |
-| Agility | Sure Footing | Balance |
-| Vitality | Defiance of Years | Reduced aging |
-| Endurance | Rapid Renewal | Recovery speed |
+| Stat | Perk name | Perk theme | Threshold |
+|---|---|---|---|
+| Strength | Titan's Back | Carry capacity | 40 |
+| Dexterity | Exacting Motion | Accuracy of body movement | 40 |
+| Intelligence | Blessed by Mana | Mana pool growth per Mage level | 40 + Mage |
+| Willpower | Unbroken Focus | Focus | 40 |
+| Agility | Sure Footing | Balance | 40 |
+| Vitality | Defiance of Years | Reduced aging | 40 |
+| Endurance | Rapid Renewal | Recovery speed | 40 |

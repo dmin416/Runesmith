@@ -204,15 +204,15 @@ Listed on the skills menu with Mage grants. **+20%** mana and **+15%** mana rege
 
 ### Basic Mana Shaping
 First seen: Chapter 5
-Shape mana into spells; scales with skill. Chapter text: bonuses to Intelligence and Willpower (per-level amounts TBD). Granted with Mage via clone tutorial dump.
+Shape mana into spells; scales with skill. **Intelligence +2 per level**, **Willpower +1 per level** (Int-heavy). Granted with Mage via clone tutorial dump.
 
 ### Basic Mana Regulation
 First seen: Chapter 5
-Helps regulate body mana; ambient absorption and regen. Granted with Mage. Chapter 23: full regen in a couple of hours; faster when still and with more skin uncovered.
+Helps regulate body mana; ambient absorption and regen. **Intelligence +1 per level**, **Willpower +2 per level** (Will-heavy). Granted with Mage. Chapter 23: full regen in a couple of hours; faster when still and with more skin uncovered.
 
 ### Basic Incantation
 First seen: Chapter 5
-Faster, better chanting. Granted with Mage at L1 alongside Mana Bolt L1.
+Faster, better chanting. **Intelligence +1 per level**, **Willpower +1 per level** (even). Granted with Mage at L1 alongside Mana Bolt L1.
 
 ### Basic Mana Scribing
 First seen: Chapter 16

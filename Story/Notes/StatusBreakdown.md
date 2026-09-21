@@ -82,7 +82,7 @@ Redesign: Running → Endurance. Sprint → Vitality (+ Endurance). Hand to Hand
 | Reading Proficiency | INT, WILL | 9 | INT +9, WILL +9 | 9 | INT +9, WILL +9 |
 | Mana Sense | INT, WILL | 9 | INT +9, WILL +9 | 9 | INT +9, WILL +9 |
 
-Identify: no attribute line. Basic Mana Shaping / Regulation / Incantation: attribute lines TBD.
+Identify: no attribute line. Basic Mana Shaping → Int +2 / Will +1 per level. Basic Mana Regulation → Int +1 / Will +2 per level. Basic Incantation → Int +1 / Will +1 per level.
 
 Leather reaches **L9 by age 10** (daily armor wear on the drill loop; was L6).
 
@@ -140,16 +140,31 @@ Str/Agi/Vit/End even at **40**. Dex **50**, Will **53**, Int **66** (highest).
 
 HP = 40×10 + 40×3 = **520**. SP = 40×10 + 40×3 + 40×3 = **640**. MP = 66×10 + 53×4 = **872**.
 
+### Mage L1 (Ch 5, post-tutorial) — full stack
+
+Same age-10 body and Basics as pre-class. Class +1 Int / +1 Will. Mage grants L1: Shaping +2 Int/+1 Will; Regulation +1 Int/+2 Will; Incantation +1 Int/+1 Will (= +4 Int / +4 Will).
+
+| Bucket | STR | AGI | DEX | VIT | END | INT | WILL | CHA | LUCK |
+|---|---|---|---|---|---|---|---|---|---|
+| Body | 15 | 20 | 16 | 14 | 13 | 18 | 25 | 3 | 7 |
+| Class | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 |
+| Skills/Traits | 25 | 20 | 34 | 26 | 27 | 52 | 32 | 4 | 0 |
+| **Total** | **40** | **40** | **50** | **40** | **40** | **71** | **58** | **7** | **7** |
+
+MP = ((71×10)+(58×4))×1.2 + 10 Blessed = 942×1.2 + 10 = **1140**.
+
+All seven **40** attribute perks active.
+
 ### Mage L3 (Ch 6) — full stack
 
 | Bucket | STR | AGI | DEX | VIT | END | INT | WILL | CHA | LUCK |
 |---|---|---|---|---|---|---|---|---|---|
 | Body | 15 | 20 | 16 | 14 | 13 | 18 | 25 | 3 | 7 |
 | Class | 0 | 0 | 0 | 0 | 0 | 3 | 3 | 0 | 0 |
-| Skills/Traits | 25 | 20 | 34 | 26 | 27 | 48 | 28 | 4 | 0 |
-| **Total** | **40** | **40** | **50** | **40** | **40** | **69** | **56** | **7** | **7** |
+| Skills/Traits | 25 | 20 | 34 | 26 | 27 | 52 | 32 | 4 | 0 |
+| **Total** | **40** | **40** | **50** | **40** | **40** | **73** | **60** | **7** | **7** |
 
-MP = ((69×10)+(56×4))×1.2 + 30 Blessed = 914×1.2 + 30 = **1127** (1096.8→1097+30 if rounding; use **(914×1.2)=1096.8→1097 +30 = 1127**).
+MP = ((73×10)+(60×4))×1.2 + 30 Blessed = 970×1.2 + 30 = **1194**.
 
 ### Mage L5 (Ch 8) — full stack, still age-10 body
 
@@ -157,10 +172,10 @@ MP = ((69×10)+(56×4))×1.2 + 30 Blessed = 914×1.2 + 30 = **1127** (1096.8→1
 |---|---|---|---|---|---|---|---|---|---|
 | Body | 15 | 20 | 16 | 14 | 13 | 18 | 25 | 3 | 7 |
 | Class | 0 | 0 | 0 | 0 | 0 | 5 | 5 | 0 | 0 |
-| Skills/Traits | 25 | 20 | 34 | 26 | 27 | 48 | 28 | 4 | 0 |
-| **Total** | **40** | **40** | **50** | **40** | **40** | **71** | **58** | **7** | **7** |
+| Skills/Traits | 25 | 20 | 34 | 26 | 27 | 52 | 32 | 4 | 0 |
+| **Total** | **40** | **40** | **50** | **40** | **40** | **75** | **62** | **7** | **7** |
 
-MP = ((71×10)+(58×4))×1.2 + 50 Blessed = 942×1.2 + 50 = **1180** (1130.4→1130+50).
+MP = ((75×10)+(62×4))×1.2 + 50 Blessed = 998×1.2 + 50 = **1248**.
 
 ---
 

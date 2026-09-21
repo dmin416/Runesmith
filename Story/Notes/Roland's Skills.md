@@ -38,10 +38,10 @@ Age-10 technique targets (not all L9): see `Progression.md` / Ch 7 note in `Skil
 
 ## Tier 1 Mage (Ch 5)
 
-24. Basic Mana Shaping – Ch 5 – Mage grant (clone tutorial dump)
-25. Basic Mana Regulation – Ch 5 – Mage grant
+24. Basic Mana Shaping – Ch 5 – Mage grant; Intelligence +2 / Willpower +1 per level
+25. Basic Mana Regulation – Ch 5 – Mage grant; Intelligence +1 / Willpower +2 per level
 26. Mana Bolt (Spell) – Ch 5 – Mage grant L1
-27. Basic Incantation – Ch 5 – Mage grant L1
+27. Basic Incantation – Ch 5 – Mage grant L1; Intelligence +1 / Willpower +1 per level
 
 ## Runic Mana Scribe (Ch 16)
 

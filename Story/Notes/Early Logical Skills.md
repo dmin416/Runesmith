@@ -30,8 +30,9 @@ Attribute growth from these skills follows **+1 × skill level** (`Levels.md`). 
 
 | Skill / unlock | Why early | Source delay to avoid |
 |---|---|---|
-| **Basic Mana Regulation** (full) | Class grant, but he already practiced ambient pull. | — |
-| **Basic Mana Shaping** | Class grant. He approaches it like tooling, not mysticism. Int/Will bonuses TBD per level. | — |
+| **Basic Mana Regulation** (full) | Class grant, but he already practiced ambient pull. **Int +1 / Will +2** per level. | — |
+| **Basic Mana Shaping** | Class grant. He approaches it like tooling, not mysticism. **Int +2 / Will +1** per level. | — |
+| **Basic Incantation** | Class grant with Mana Bolt. **Int +1 / Will +1** per level (even). | — |
 | **Basic Blueprint Fabrication** (proto / diagrams) | Engineers sketch systems. Paper diagrams of spells and gear before formal Engineer class. | Ch 253 |
 | **Basic Rapid Assembly** mindset | Hobby builds and lab repair: plan parts, assemble fast. Formal skill can wait; behavior and partial unlock early. | Ch 251 |
 | **Marksmanship** (already transfer in rewrite) | Keep and use at **L7**. Ranged identity starts here, not sword main. Dexterity +level. See `Progression.md` firearms justification. | — |

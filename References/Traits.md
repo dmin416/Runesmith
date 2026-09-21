@@ -17,24 +17,24 @@ First seen: Chapter 2
 Retain more information and at a faster rate. Bonus to Intelligence +3 and Willpower +5. Original boy trait kept after transfer. Also called memory retention in prose.
 
 ### Blessed by Mana
-First seen: Chapter 6
-Unlocked if a person has more than 40 intelligence after reaching the mage class at the first ascension ritual. Gives **+10 MP per Mage level** on top of the Mage class’s +20% mana (see Chapter 6 status math in `Status.md`). Also described in prose as bonuses to MP after each level up. Intelligence row of the attribute perk table below.
+First seen: Chapter 5
+Unlocked if a person has more than **40** Intelligence after reaching the Mage class at the first ascension ritual. Gives **+10 MP per Mage level** on top of the Mage class’s +20% mana (see Chapter 5–6 status math in `Status.md`). Also described in prose as bonuses to MP after each level up. Intelligence row of the attribute perk table below.
 
 ## Attribute perks (rewrite)
 
-One named perk theme per core attribute. Thresholds and full effects TBD except **Blessed by Mana** (live). Cha/Luck out unless a later trait says otherwise.
+One named perk per core attribute at **40**. Cha/Luck out unless a later trait says otherwise. Physical and Willpower perks unlock when that displayed attribute first hits 40. **Blessed by Mana** also needs the Mage class.
 
-| Stat | Perk name | Perk theme |
-|---|---|---|
-| Strength | Titan's Back | Carry capacity |
-| Dexterity | Exacting Motion | Accuracy of body movement |
-| Intelligence | Blessed by Mana | Mana pool growth per Mage level |
-| Willpower | Unbroken Focus | Focus |
-| Agility | Sure Footing | Balance |
-| Vitality | Defiance of Years | Reduced aging |
-| Endurance | Rapid Renewal | Recovery speed |
+| Stat | Perk name | Perk theme | Threshold |
+|---|---|---|---|
+| Strength | Titan's Back | Carry capacity | 40 |
+| Dexterity | Exacting Motion | Accuracy of body movement | 40 |
+| Intelligence | Blessed by Mana | Mana pool growth per Mage level | 40 + Mage |
+| Willpower | Unbroken Focus | Focus | 40 |
+| Agility | Sure Footing | Balance | 40 |
+| Vitality | Defiance of Years | Reduced aging | 40 |
+| Endurance | Rapid Renewal | Recovery speed | 40 |
 
-Also listed under `Attributes.md`.
+Also listed under `Attributes.md`. Roland holds all seven from Chapter 5 (age-10 Basics put Str/Agi/Vit/End at 40; Dex/Will/Int already above; Blessed unlocks with Mage L1).
 
 ### Parallel Thinking / Multiple Mind(s)
 First seen: Chapter 148

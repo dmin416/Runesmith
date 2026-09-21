@@ -71,7 +71,7 @@ Other notes:
 - Monster kills (solo or party). Party share needs members close enough in **overall level** and **same tier band**; a Tier 2 cannot power-level a Tier 1 (even crippling a monster so a lower-tier finishes it grants that lower-tier nothing). Idle spectating still pays a tiny share (Chapter 11: **5 XP** on a spiked boar Roland did not fight). Active contribution raises his cut.
 - Leveling skills and spells. Leveling a spell (e.g. Mana Bolt rank-up) can grant a popup XP award; Chapter 10 notes this is often **more** than trash goblin kills. Craft classes also gain XP by making items.
 - Crafting / item creation. **First** successful schematic discovery pays the big 1000. Copying the same rune again does not.
-- **Pre-class XP** (Chapter 4–5): kills and achievements before first ascension bank with a **penalty** when the class finally applies. Estate bravery totals **250** (50 + 200) into that bank. After age 9, **weekly** estate goblin fights add more. The bank applies **once** at the first ascension (Chapter 6: Roland wakes as Mage L3). It does **not** refill for later class changes.
+- **Pre-class XP** (Chapter 4–6): kills and achievements before first ascension bank with a **½ penalty** when the class finally applies. Estate bravery **250** + **55** more L1 goblins (**2750**) = bank **3000** → **1500** applied. Ascension starts Mage L1 empty; bank lands **Mage L3** empty. The bank applies **once** at the first ascension only. It does **not** refill for later class changes. See `Experience.md`.
 - **Second Tier 1 class** (Chapter 10 talk): most people do not ascend at age 10. Taking a second T1 after the first has an XP gain debuff. Combat second T1s take the heaviest hit; lighter crafting second T1s level faster but grant weaker packages.
 
 ### Kill XP formula
@@ -150,60 +150,60 @@ Source payouts were smaller (goblin ~15–20 XP, same **1000** first schematic).
 2. Formula is **linear** in L (Source’s late “exponential” talk is not used).
 3. One shared XP pool. Class packages fire when the bar rolls.
 
-### Formula (draft from Source pace + rewrite awards)
+### Formula (locked: pre-class L3 + half bank)
 
-Scale Source’s ~125 XP at L5 by rewrite forest goblins (~**53** for L4, i.e. `49 + 4`):
+Anchor: bank **3000** (Ch 4 bravery 250 + **55** estate L1×50), half on apply = **1500**, Mage L1 empty → L3 empty. See `Experience.md`.
 
 ```
-XP_to_next(L) = 75 × L
+XP_to_next(L) = 500 × L
 ```
 
-At L5: **375 XP** ≈ **7 × L4 goblins** (empty bar). Matches Source’s first-day kill count.
+At L5: **2500 XP** ≈ **47 × L4 goblins** (empty bar). First-day forest kills alone are a small slice; spell/skill XP and denser hunting carry the early adventurer grind (Chapter 9–10).
 
 | Current L | XP to reach L+1 | Goblins @ 53 (empty bar) | First schematic 1000 |
 |---|---|---|---|
-| 1 | 75 | 1.4 | ~13 levels |
-| 5 | 375 | **7** | ~2.7 levels |
-| 10 | 750 | 14 | ~1.3 levels |
-| 20 | 1500 | 28 | ~0.67 level |
-| 25 | 1875 | 35 | ~0.53 level |
-| 28 | 2100 | 40 | ~0.48 level |
-| 50 | 3750 | 71 | ~0.27 level |
-| 75 | 5625 | 106 | ~0.18 level |
-| 100 | 7500 | 142 | ~0.13 level |
-| 125 | 9375 | 177 | ~0.11 level |
+| 1 | 500 | 9.4 | 2 levels |
+| 5 | 2500 | **47** | 0.4 level |
+| 10 | 5000 | 94 | 0.2 level |
+| 20 | 10000 | 189 | 0.1 level |
+| 25 | 12500 | 236 | 0.08 level |
+| 28 | 14000 | 264 | 0.07 level |
+| 50 | 25000 | 472 | 0.04 level |
+| 75 | 37500 | 708 | 0.03 level |
+| 100 | 50000 | 943 | 0.02 level |
+| 125 | 62500 | 1179 | 0.02 level |
 
-**Schematic check:** after class change at low overall L (e.g. L2–L3), **1000 XP** is still multiple levels. At Mage L25 it is about half a level by itself. Spell/skill XP still carries early forest grinding (Chapter 10: spell rank-ups often beat trash goblin kills).
+**Schematic check:** after class change at low overall L (e.g. L2–L3), **1000 XP** is about **two levels**. At Mage L25 it is a small fraction of a level. Spell/skill XP still matters early (Chapter 10: spell rank-ups often beat trash goblin kills).
 
 ### Cumulative XP (from L1 up to level N)
 
 ```
-XP_total_to_reach(N) = 75 × (1 + 2 + … + (N−1))
-                     = 37.5 × (N−1) × N
+XP_total_to_reach(N) = 500 × (1 + 2 + … + (N−1))
+                     = 250 × (N−1) × N
 ```
 
 | Reach overall | Total XP from L1 | Rough goblin-equivalents (÷53) |
 |---|---|---|
-| 25 (one T1 maxed) | **22,500** | ~425 |
-| 50 | **91,875** | ~1,734 |
-| 75 (25+50) | **208,125** | ~3,927 |
-| 125 (25+50+50) | **581,250** | ~10,967 |
+| 25 (one T1 maxed) | **150,000** | ~2,830 |
+| 50 | **612,500** | ~11,557 |
+| 75 (25+50) | **1,387,500** | ~26,179 |
+| 125 (25+50+50) | **3,875,000** | ~73,113 |
 
 XP already spent stays spent. Goblin-counts are a yardstick only. Real paths mix dungeon mobs, skill XP, schematics and quests.
 
-**L5→L20 only** (15 steps, costs 75×(5+…+19) = 75×180): **13,500 XP** ≈ **255 goblins**. Over ~90 days that is ~3 goblins/day if empty-bar pure grind. Source also banks spell/skill XP and denser hunting days, so the three-month L5→L20 arc still fits.
+**L5→L20 only** (15 steps, costs 500×(5+…+19) = 500×180): **90,000 XP** ≈ **1,698 goblins**. Over ~90 days that is ~19 goblins/day if empty-bar pure grind. Source banks spell/skill XP and denser hunting, so the three-month L5→L20 arc still needs those non-kill sources.
 
 ### Sample grind checks
 
-| Action | XP | At L5 (need 375) | At L25 (need 1875) | At L50 (need 3750) |
+| Action | XP | At L5 (need 2500) | At L25 (need 12500) | At L50 (need 25000) |
 |---|---|---|---|---|
 | Goblin L1 (49+1) | 50 | tiny | tiny | tiny |
-| Goblin L4 (49+4) | 53 | ~1/7 level | ~1/35 level | ~1/71 level |
-| First basic/lesser rune schematic | 1000 | ~2.7 levels | ~0.53 level | ~0.27 level |
-| First Common rune schematic (e.g. Fire Arrow) | **2000** (2× lesser) | ~5.3 levels | ~1.1 levels | ~0.53 level |
+| Goblin L4 (49+4) | 53 | ~1/47 level | ~1/236 level | ~1/472 level |
+| First basic/lesser rune schematic | 1000 | 0.4 level | 0.08 level | 0.04 level |
+| First Common rune schematic (e.g. Fire Arrow) | **2000** (2× lesser) | 0.8 level | 0.16 level | 0.08 level |
 | Mana Arrow scroll (repeat craft) | 20 | tiny | tiny | tiny |
 | Fire Orb runic scroll (repeat) | 50 | tiny | tiny | tiny |
-| Tier 2 fencer (party share) | 479 | ~1.3 levels | ~0.26 level | ~0.13 level |
+| Tier 2 fencer (party share) | 479 | ~0.19 level | ~0.04 level | ~0.02 level |
 
 Chapter 26 schematic stacking: Intermediate common = **1000 XP**; then perfecting to Highest adds another **1000** (total 2000). Going straight to Highest also pays 2000. No further XP for redoing the same schematic past that cap.
 
@@ -214,7 +214,7 @@ Chapter 14 narration: common Tier 2 packages grow about **×1.5** vs Tier 1 (for
 ### Optional later tweaks (not locked)
 
 - Monster XP scaled by level gap can sit on top of flat base values.
-- If the curve still feels fast or slow after a few written arcs, change only the constant **75** (keep linear). Doubling to **150 × L** would double every cost.
+- If the curve still feels fast or slow after a few written arcs, change only the constant **500** (keep linear). Halving to **250 × L** would cut every cost in half.
 
 ## Skill levels
 
@@ -281,6 +281,9 @@ Favored attributes for skills Roland trains in Chapters 4–7. Same +1 × level 
 | Basic Leather Armor Proficiency | Vitality +1, Endurance +1 |
 | Reading Proficiency | Intelligence +1, Willpower +1 |
 | Mana Sense | Intelligence +1, Willpower +1 |
+| Basic Mana Shaping | Intelligence +2, Willpower +1 |
+| Basic Mana Regulation | Intelligence +1, Willpower +2 |
+| Basic Incantation | Intelligence +1, Willpower +1 |
 | Identify | none |
 
 Chapter 4 prose: leveling physical Basics also makes him “run faster, jump higher and punch harder” via technique, and “bonuses to endurance and strength” when those skills get high enough. Rewrite pads: Running → Endurance; Sprint → Vitality + Endurance; Hand to Hand → Strength + Vitality; Leather → Vitality + Endurance; Reading / Mana Sense → Intelligence + Willpower. Age-10 goal: Str/Agi/Vit/End **40**; Dex/Will higher; Int highest (`StatusBreakdown.md`).
@@ -463,4 +466,4 @@ Real sheets also add childhood base, skills and traits on top.
 6. Skill L9 → evolve. Do not write L10 on the same skill name.
 7. When a chapter shows numbers, copy them into `Story/Notes/Status.md` and keep this file as the rule layer.
 8. If Source text says the sheet jumps at class-up, rewrite it to growth-rate talk instead.
-9. XP_to_next = **75 × overall level**. Kill XP = **(49 + monster level) × RaceMult** (common goblin = 49 + level). Change constants only if arcs feel wrong.
+9. XP_to_next = **500 × overall level**. Kill XP = **(49 + monster level) × RaceMult** (common goblin = 49 + level). Pre-class bank half-penalty lands Mage L3 from bravery + **55** estate L1s (`Experience.md`). Change constants only if arcs feel wrong.

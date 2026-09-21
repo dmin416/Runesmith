@@ -169,7 +169,34 @@ HP = 40×10 + 40×3 = 520. SP = 40×10 + 40×3 + 40×3 = 640. MP = 66×10 + 53×
 
 Skills menu in chapter: transfer set (Marksmanship **L7**) + Mana Sense **L9** (+Int/Will) + Reading **L9** (+Int/Will) + Basics at age-10 targets (Running/Sprint/Climbing/Throwing/Leather **L9**; H2H/Sneak/Sword **L8**). Str/Agi/Vit/End even at **40**; Dex **50**; Will **53**; Int **66** highest.
 
-Class gained mid-chapter: **Tier 1 Mage L1**. Prose: stats slightly raised (Mage L1 package +1 Int / +1 Will). Banked pre-class XP not applied on-page until Chapter 6 (L3). Crystal used for the ritual turns to dust.
+Class gained mid-chapter: **Tier 1 Mage L1**. Unlocks: Basic Mana Shaping L1 (**Int +2 / Will +1**), Basic Mana Regulation L1 (**Int +1 / Will +2**), Mana Bolt Spell L1, Basic Incantation L1 (**Int +1 / Will +1**). Mage package +1 Int / +1 Will. Mage +20% MP. All seven **40** attribute perks on sheet. Banked pre-class XP not applied on-page until Chapter 6 (L3). Crystal used for the ritual turns to dust.
+
+**Live (chapter) Mage L1** (right after tutorial dump):
+
+Pre-class Int **66** / Will **53** → + class (+1/+1) + mage-grant skill pads (+4 Int / +4 Will) → Int **71** / Will **58**.
+
+MP check: ((71 × 10) + (58 × 4)) = 942; ×1.2 = 1130.4 → 1130; +10 Blessed = **1140**.
+
+```
+════════ STATUS ════════
+Name:       Roland Arden
+Class:      Mage L1
+
+HP               520/520
+MP              1140/1140
+SP               640/640
+
+Strength              40
+Agility               40
+Dexterity             50
+Vitality              40
+Endurance             40
+Intelligence          71
+Willpower             58
+Charisma               7
+Luck                   7
+════════════════════════
+```
 
 **Affinities** unlock after first class (hidden before). Measuring orb used; sheet shows all zeros. House treats this as unprecedented.
 
@@ -192,9 +219,9 @@ Mage L3 after pre-ascension XP applies. Runesmith plan approved with conditions 
 
 Weekly estate goblin fights after the age-9 bravery test filled the pre-class XP bank. That bank applies **once** at first ascension only.
 
-**Live (chapter):** Mage L3 on age-10 full stack. Class +3 Int / +3 Will. Mage +20% MP and +15% regen. Blessed by Mana +10 MP × 3 Mage levels.
+**Live (chapter):** Mage L3 on age-10 full stack. Class +3 Int / +3 Will. Mage grants still L1: +4 Int / +4 Will from Shaping/Regulation/Incantation. Mage +20% MP and +15% regen. Blessed by Mana +10 MP × 3 Mage levels. All seven 40 perks.
 
-MP check: ((69 × 10) + (56 × 4)) = 914; ×1.2 = 1096.8 → 1097; +30 Blessed = **1127**.
+MP check: ((73 × 10) + (60 × 4)) = 970; ×1.2 = 1164; +30 Blessed = **1194**.
 
 ```
 ════════ STATUS ════════
@@ -202,7 +229,7 @@ Name:       Roland Arden
 Class:      Mage L3
 
 HP               520/520
-MP              1127/1127
+MP              1194/1194
 SP               640/640
 
 Strength              40
@@ -210,14 +237,14 @@ Agility               40
 Dexterity             50
 Vitality              40
 Endurance             40
-Intelligence          69
-Willpower             56
+Intelligence          73
+Willpower             60
 Charisma               7
 Luck                   7
 ════════════════════════
 ```
 
-Prose compare: specialized L1 field stats sit near **20**; physicals even at **40**; Int near **seventy**.
+Prose compare: specialized L1 field stats sit near **30-40**; physicals even at **40**; Int near **seventy**.
 
 ## Chapter 7
 
@@ -232,9 +259,9 @@ No new full attribute status screen. Still Mage (levels rise off-page toward Ch 
 
 Bronze Adventurer. Guild measuring crystal reads full sheet (confidential to guild). Registers first name **Roland** only on the card. Looks ~**4'11"** / ~12–13 to staff.
 
-**Live (chapter):** Mage L5 on age-10 full stack. Class +5 Int / +5 Will. Mage ×1.2 MP. Blessed +10 MP × 5.
+**Live (chapter):** Mage L5 on age-10 full stack. Class +5 Int / +5 Will. Mage grants still L1 pads (+4 Int / +4 Will). Mage ×1.2 MP. Blessed +10 MP × 5.
 
-MP check: ((71 × 10) + (58 × 4)) = 942; ×1.2 = 1130.4 → 1130; +50 Blessed = **1180**.
+MP check: ((75 × 10) + (62 × 4)) = 998; ×1.2 = 1197.6 → 1198; +50 Blessed = **1248**.
 
 ```
 ════════ STATUS ════════
@@ -242,7 +269,7 @@ Name:       Roland Arden
 Class:      Mage L5
 
 HP               520/520
-MP              1180/1180
+MP              1248/1248
 SP               640/640
 
 Strength              40
@@ -250,8 +277,8 @@ Agility               40
 Dexterity             50
 Vitality              40
 Endurance             40
-Intelligence          71
-Willpower             58
+Intelligence          75
+Willpower             62
 Charisma               7
 Luck                   7
 ════════════════════════
