@@ -305,17 +305,16 @@ XP shown matches `49 + monster level` (L2=51 … L5=54). Source used ~15–20 pe
 
 ## Chapter 9.5
 
-Not written yet.
-
+Three-month rewrite grind (Source has no separate chapter; Ch 10 opens already at L20). Field-use curve in `Levels.md`; end ranks in `Skills.md` Ch 9.5. **L9 hard cap until first T2.** Absorption / Reinforcement cycle whenever mana is spent → both **L9** (Reinforcement self-taught from ambient→body store, not a book). Also: Shaping **L6**, Regulation **L7**, Incantation **L6**, Bolt **L7**, Arrow **L5**, Shield **L3**, Sword / Sneak / Hand to Hand / Marksmanship **L9**. Ember **L6** / Hands **L5** (evenings). End **Mage L20** → rewrite Int **129** / Will **126** / MP **~2353**. Physicals **42/40/52/41/40**. Month beats: ~L11–12 + Arrow; ~L16–17 + Shield + nickname; L20 + Goblin Hunter.
 ## Chapter 10
 
-**Timeskip:** three months of goblin grinding after Ch 9. Title **Goblin Hunter**. Nickname Little Goblin Slayer. Mage L20 sheet at the inn (beef jerky). Rents upstairs room at the Chapter 9 inn. Armor/sword repairs ongoing. Plans Mana Scrybe first, then Blacksmith; next city **Edelgard**. Clumsy Arden watcher in town. Joins Becky / Sahildr / Reyna for dungeon (claims age 12).
+**Timeskip end / present day.** Title **Goblin Hunter**. Nickname Little Goblin Slayer. Mage L20 sheet at the inn (beef jerky). **Live sheet below is still Source-era** (Int 78 / Will 50 / MP 1380); rewrite target is the Ch 10 block in `StatusBreakdown.md`. Rents upstairs room at the Chapter 9 inn. Armor/sword repairs ongoing. Plans Mana Scrybe first, then Blacksmith; next city **Edelgard**. Clumsy Arden watcher in town. Joins Becky / Sahildr / Reyna for dungeon (claims age 12).
 
 ```
 ════════ TITLE ═════════
 Goblin Hunter
 
-A person with this title is feared by goblins. Goblins might suffer a fear debuff while fighting with a person with this title. Works only on goblins below the title holder's level.
+All goblins are hostile toward the title holder. Goblins below the holder's level exert less force and sometimes become afraid. The holder has an innate sense for the location of nearby goblins.
 ════════════════════════
 ```
 

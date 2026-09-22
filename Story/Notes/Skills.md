@@ -342,11 +342,49 @@ No new traits. First paid hunt. Ending: adventure / meal / rest steps (not Sourc
 
 ## Chapter 9.5
 
-Not written yet.
+Three-month Carwen grind. Goblins track Roland’s overall level. Field-use curve: `Levels.md` (Climbing anchors + `35×L` steps; technique clean-rate ~**40%**; Absorption/Reinforcement ~**70%** on mana-spend cycles). **All skills hard-cap at L9 until first T2 class.**
+
+**Unlock path (prose):** outside-body mana hold → Willpower. Ambient pull → **Mana Absorption** + **Mana Regulation**. Same breath forced into blood/bone as a store → **Mana Reinforcement** (self-taught; free; harder than common dealer books). Inn-room Arrow chalk-line and Shield sticks/pillow once those spells unlock. Ember / Mana Hands stay evening Arden-book drills.
+
+### Combat end ranks (~70 hunt days, ~700 kills; mana cycled all day)
+
+| Skill / spell | Start (Ch 9) | Combat end | Why |
+|---|---|---|---|
+| **Mana Bolt** | L1 | **L7** | ~1100 finished casts; primary kill tool |
+| **Mana Arrow** | unlock ~end month 1 | **L5** | ~380 casts as nest opener |
+| **Mana Shield** | unlock ~month 2 | **L3** | ~130 real casts; lag behind offense |
+| **Basic Mana Shaping** | L1 | **L6** | ~1690 spell attempts ×0.4 clean ≈ 676 → hold **L6** under fatigue |
+| **Basic Incantation** | L1 | **L6** | same cast pool |
+| **Basic Mana Regulation** | L1 | **L7** | every drain/refill beside Absorption |
+| **Mana Absorption** | — | **L9** | constant ambient pull whenever mana is spent; ~980 clean cycles → L9 cap |
+| **Mana Reinforcement** | — | **L9** | held up whenever the pool is working; same cycle count → L9 cap |
+| **Basic One-handed Swordsmanship** | L8 | **L9** | ~350 finishes ×0.4 ≈ 140 clean toward the L8→L9 step; field variety finishes it |
+| **Basic Sneaking** | L8 | **L9** | daily live eyes; stays Basic until evolve (still L9-capped name) |
+| **Basic Climbing** | L9 | **L9** | already capped |
+| **Basic Hand to Hand** | L8 | **L9** | closes and grapples when a goblin gets inside the sword; field variety finishes the last step |
+| **Basic Throwing** | L9 | **L9** | rare spear return only |
+| **Basic Running / Sprint** | L9 | **L9** | cabin commute dropped |
+| **Basic Leather Armor** | L9 | **L9** | worn every hunt |
+| **Marksmanship** | L7 | **L9** | constant aim; hits L9 cap |
+| **Mana Sense** | L9 | **L9** | already capped |
+| **Identify / Analyze** | low | **+0–1** | occasional peeks |
+| **Ember / Mana Hands** | book L1 | **L2–L3** from rare field use; evenings push Ember **L6** / Hands **L5** | cook-pot / room drills |
+
+Month story beats stay: Month 1 ≈ Mage L11–12 + Arrow unlock; Month 2 ≈ L16–17 + Shield + nickname; Month 3 → **L20** + **Goblin Hunter**.
+
+### Future to gain (not yet on sheet)
+
+Pure-mana T1 utilities. Book / academy / self-shape later. Not gained in Ch 9–10.
+
+| Spell | Role |
+|---|---|
+| **Detection** (name TBD) | Sense living things / mana signatures in a radius. Nest clears, ambush watch, dungeon corners. |
+| **Sound Barrier** (name TBD) | Softens sound leaving (or entering) a small bubble. Quiet camp, muffles loud casts, party whispers. Not true Stealth. |
+| **Light** (Orb of Light / Mana Light) | Handheld or stuck glow for night forest, caves, reading. Ember’s light cousin without needing fire. |
 
 ## Chapter 10
 
-**Timeskip** (~3 months). Title: Goblin Hunter (monster-hunt title; fear chance vs lower-level goblins).
+Present day after the Ch 9.5 timeskip. Title: Goblin Hunter (all goblins hostile; lower-level ones hit softer and sometimes fear; innate sense for nearby goblin locations).
 
 Spells after three months (class grants Bolt / Arrow / Shield; Ember + Mana Hands from an Arden spell book):
 
@@ -370,7 +408,7 @@ The caster can create hands made from mana. The weight and distance this spell c
 ════════════════════════
 ```
 
-Cast method: imagine the spell circle + shape mana + chant together. Spell/skill level-ups grant XP (often more than trash goblins). Some Basic combat skills evolved toward non-Basic forms via guerrilla forest grind. Still Mage L20 on first class. Plans Mana Scrybe next.
+Cast method: imagine the spell circle + shape mana + chant together. Spell/skill level-ups grant XP (often more than trash goblins). Absorption / Reinforcement stay up as mana is spent. Basics that were L8 (Sword, Sneak, Hand to Hand) and Marksmanship hit **L9** (hard cap until T2). Still Mage L20 on first class. Plans Mana Scrybe next.
 
 ### Traits
 
@@ -378,11 +416,11 @@ Cast method: imagine the spell circle + shape mana + chant together. Spell/skill
 ════════ TITLE ═════════
 Goblin Hunter
 
-A person with this title is feared by goblins. Goblins might suffer a fear debuff while fighting with a person with this title. Works only on goblins below the title holder's level.
+All goblins are hostile toward the title holder. Goblins below the holder's level exert less force and sometimes become afraid. The holder has an innate sense for the location of nearby goblins.
 ════════════════════════
 ```
 
-Monster-hunt title (chance-based fear). Some titles also grant attack/defense bonuses (general lore). Nickname Little Goblin Slayer is guild talk, not the title card.
+Monster-hunt title. Hostility is universal. Softened force and occasional fear only vs goblins below his level. Innate sense for nearby goblin locations. Some titles also grant attack/defense bonuses (general lore). Nickname Little Goblin Slayer is guild talk, not the title card.
 
 ## Chapter 11
 
@@ -588,7 +626,7 @@ Debugger + Mana Sense on Solaria healing: no runic diagram. Workshop electro tra
 
 ## Chapter 54
 
-Receives Mana Reinforcement skill book (not learned on-page). No new skill unlock this chapter.
+Source: receives Mana Reinforcement skill book. **Rewrite debt:** Roland already self-taught the store skill during Ch 9.5 Carwen town absorb drills (stronger than the common book). Skip or reframe the book purchase; no first learn here.
 
 ## Chapter 55
 
@@ -596,7 +634,7 @@ No new skill unlock. Travels with runic wrist guards/greaves (no Slots yet); bri
 
 ## Chapter 56
 
-Learns Basic Mana Reinforcement L1 (lotus ambient-mana drill). Hastened Reading + Mana Sense aid. Reaches L2 before caravan departure. Rewrite: +10% max MP / level to base stats while active; 90% Basic cap; drops when MP empty.
+Source: learns Basic Mana Reinforcement L1 from the book (lotus ambient drill) → L2 before caravan. **Rewrite:** already has it from Ch 9.5; practice ranks only if the sheet still needs them. Effect stays rewrite law: **+10% max MP / level** to base stats while active; **90%** Basic cap; drops when MP empty.
 
 ## Chapter 57
 

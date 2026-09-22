@@ -238,7 +238,13 @@ Cooling spell for environment or body.
 
 ### Light
 First seen: Chapter 1
-Simple light orb.
+Simple light orb. **Roland:** not on sheet yet; listed under Future to gain in `Story/Notes/Skills.md` (with Detection and Sound Barrier).
+
+### Detection (planned)
+Not gained yet. Sense living things / mana signatures in a radius. See `Story/Notes/Skills.md` Future to gain.
+
+### Sound Barrier (planned)
+Not gained yet. Softens sound leaving or entering a small bubble. See `Story/Notes/Skills.md` Future to gain.
 
 ### Gravity magic / gravity field
 First seen: Chapter 642

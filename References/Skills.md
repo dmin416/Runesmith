@@ -219,9 +219,15 @@ First seen: Chapter 16
 Scribe basic spells onto paper. Temporary in the Runic Mana Scrybe trial, then permanent at L1. Chapter 21: write the spell's incantation in the correct language while pushing mana through quill and ink (no runic pathways). First Mana Arrow scroll ~10 min, **+20 XP**. Identify on his own scroll returns name only until scribing levels.
 
 ### Mana Reinforcement
-First seen: Chapter 54
-Reinforce body with mana; Source adds a % of mana to base stats (1% per level, 9% Basic max).
-Rewrite (see TempRolandSkillChanges): **+10% of max MP per level** as bonus base stats while reinforced, **capped at 90%** (same ladder as Rune Mastery). Bonus fails when MP is empty. Source 1% line discarded. Early mana relief still comes from Regulation and Rune Mastery, not from this skill alone.
+First seen: Chapter 9.5 (rewrite self-teach); Source Chapter 56 (skill book)
+Reinforce body / stretch mana store by bathing vessels in ambient mana. Source: shop skill book (lotus drill) adds a % of mana to base stats (1% per level, 9% Basic max).
+Rewrite: unlocked early in Carwen by the same air-absorb path as recovery work, without the gnome-sold book. Levels whenever mana is spent and restored (combat and rest). Effect: **+10% of max MP per level** as bonus base stats while reinforced, **capped at 90%**. Bonus fails when MP is empty. Source 1% line discarded.
+**Attribute bonus:** **Intelligence +1 per level**, **Willpower +1 per level** (same shape as **Basic Incantation**). Hard cap **L9** until first T2 class.
+
+### Mana Absorption
+First seen: Chapter 9.5
+Ambient pull for recovery (meditation / mana-recover track). Pairs with **Mana Regulation** (pool stability / ready-cast fill). Distinct from the store drill that becomes **Mana Reinforcement**. Levels whenever the pool is spent and refilled in combat or rest, not only in seated drills.
+**Attribute bonus:** **Willpower +2 per level**, **Intelligence +1 per level** (Will-heavy, same shape as Regulation). Hard cap **L9** until first T2 class. Both Absorption and Reinforcement can sit on the sheet together.
 
 ### Mana Overflow
 First seen: Chapter 318
@@ -656,7 +662,8 @@ Titles are status cards separate from traits. Some give combat bonuses.
 
 ### Goblin Hunter
 First seen: Chapter 10
-Earned by goblin hunting. Lower-level goblins **might** take a fear debuff vs the holder. Nickname talk: Little Goblin Slayer. Later evolves to Goblin Slaughterer (Chapter 37).
+Earned by goblin hunting. **All** goblins are hostile toward the holder. Goblins **below** the holder's level exert less force and sometimes become afraid. Innate sense for the location of nearby goblins. Nickname talk: Little Goblin Slayer. Later evolves to Goblin Slaughterer (Chapter 37).
+**Future idea:** unlock at **1000 goblin kills** (`Ideas.md` Open). Not locked in chapter math yet.
 
 ### Runic Scholar
 First seen: Chapter 15

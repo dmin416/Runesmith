@@ -33,9 +33,9 @@ Per-level packages from `Classes.md` / `Levels.md`. Mage: **+1 Intelligence and 
 | Ch 1–5 | none | 0 | 0 | |
 | Ch 6 | Mage L3 | +3 | +3 | |
 | Ch 8 | Mage L3 | +3 | +3 | Guild read; still L3 |
-| Ch 9 | Mage L4 | +4 | +4 | First paid hunt |
-| Ch 9.5 | — | — | — | Not written yet |
-| Ch 10 | Mage L20 | (timeskip) | (timeskip) | ~3 months Carwen grind |
+| Ch 9 | Mage L4 | +4 | +4 | First paid hunt; skills still Mage-grant L1 |
+| Ch 9.5 | Mage → L20 | climbing | climbing | Town mana grind levels Shaping / Regulation / Incantation / Absorption / Reinforcement |
+| Ch 10 | Mage L20 | +20 | +20 | Inn sheet after timeskip |
 
 Blessed by Mana adds **MP only** (+10 MP per Mage level), not attributes.
 
@@ -85,7 +85,7 @@ Redesign: Running → Endurance. Sprint → Vitality (+ Endurance). Hand to Hand
 | Reading Proficiency | INT, WILL | 9 | INT +9, WILL +9 | 9 | INT +9, WILL +9 |
 | Mana Sense | INT, WILL | 9 | INT +9, WILL +9 | 9 | INT +9, WILL +9 |
 
-Identify: no attribute line. Basic Mana Shaping → Int +2 / Will +1 per level. Basic Mana Regulation → Int +1 / Will +2 per level. Basic Incantation → Int +1 / Will +1 per level.
+Identify: no attribute line. Basic Mana Shaping → Int +2 / Will +1 per level. Basic Mana Regulation → Int +1 / Will +2 per level. Basic Incantation → Int +1 / Will +1 per level. **Mana Absorption** → Int +1 / Will +2 per level (Will-heavy recover grind). **Mana Reinforcement** → Int +1 / Will +1 per level (same as Incantation) plus the % max-MP → base-stats while active. Spells (Bolt / Arrow / Shield / Ember / Hands) → **no** attribute pads.
 
 Leather reaches **L9 by age 10** (daily armor wear on the drill loop; was L6).
 
@@ -192,6 +192,44 @@ MP = ((74×10)+(61×4))×1.2 + 40 Blessed = 984×1.2 + 40 = **1220.8 → 1221**.
 | **Total** | **40** | **40** | **50** | **40** | **40** | **75** | **62** | **7** | **7** |
 
 MP = ((75×10)+(62×4))×1.2 + 50 Blessed = 998×1.2 + 50 = **1248**.
+
+### Mage L20 (Ch 10) — skill ranks after Ch 9.5
+
+Combat math: `Levels.md` field-use curve; table in `Skills.md` Ch 9.5. **L9 hard cap until first T2.**
+
+Physical Basics: Sword / Sneak / Hand to Hand / Marksmanship → **L9**. Others already L9. Mana skills:
+
+| Skill | Ch 9 | Ch 10 | Source of levels |
+|---|---|---|---|
+| Basic Mana Shaping | L1 | **L6** | combat casts |
+| Basic Mana Regulation | L1 | **L7** | drain/refill with every fight |
+| Basic Incantation | L1 | **L6** | combat casts |
+| Mana Absorption | — | **L9** | constant pull as mana is spent (combat) |
+| Mana Reinforcement | — | **L9** | held while the pool is working (combat) |
+| Mana Bolt / Arrow / Shield | L1 / — / — | **L7 / L5 / L3** | combat casts |
+| Ember / Mana Hands | book | **L6 / L5** | evenings + light field use |
+| Reading / Mana Sense | L9 | L9 | unchanged |
+
+Skills/Traits Int = pre-mage pile **48** + Shaping **12** + Regulation **7** + Incantation **6** + Absorption **9** + Reinforcement **9** = **91**.
+Skills/Traits Will = pre-mage pile **28** + **6** + **14** + **6** + **18** + **9** = **81**.
+
+Marksmanship L9 → Dex pad **+9** (was +7): Skills/Traits Dex **36**.
+Sword L9 + Hand to Hand L9 → Skills/Traits Str **27** (was 25), Vit **27** (was 26).
+
+| Bucket | STR | AGI | DEX | VIT | END | INT | WILL | CHA | LUCK |
+|---|---|---|---|---|---|---|---|---|---|
+| Body | 15 | 20 | 16 | 14 | 13 | 18 | 25 | 3 | 7 |
+| Class | 0 | 0 | 0 | 0 | 0 | 20 | 20 | 0 | 0 |
+| Skills/Traits | 27 | 20 | 36 | 27 | 27 | 91 | 81 | 4 | 0 |
+| **Total** | **42** | **40** | **52** | **41** | **40** | **129** | **126** | **7** | **7** |
+
+MP = ((129×10)+(126×4))×1.2 + 200 Blessed = 1794×1.2 + 200 = **2353**.
+
+Reinforcement while active: **+90%** of max MP as bonus base stats (L9 × 10%, 90% cap). Drops when MP is empty.
+
+**Class-only check:** mana skills stuck at L1 → Int **90** / Will **77**. Absorption / Reinforcement at L9 are what push Int/Will into the **129 / 126** band.
+
+**Live Ch 10 inn sheet** (Int 78 / Will 50 / MP 1380) is still Source-era body and must be retconned to this block when that chapter's status is rewritten.
 
 ---
 

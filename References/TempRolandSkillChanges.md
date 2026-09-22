@@ -95,6 +95,7 @@ World law: **Basic X** maxes at L9 → evolves to non-Basic form. Chapter 7 alre
 
 ### Basic Mana Shaping
 **Change:** Spell form stability and reshape options. L1: hold bolt shape. Higher: modify spread, pierce profile. L9 evolve → **Mana Shaping**: restructure spells (bridge to Runic Restructuring). +Int/Will only as secondary.
+**Above Shaping (Ideas):** separate **passive** telekinesis / mage-hand skill (name TBD), unlockable only after a **Tier 2** class. Not a normal L9 evolve. Distinct from the Ch 10 **Mana Hands** spell. See `Ideas.md` Systems.
 
 ### Basic Mana Regulation
 **Change:** Ambient absorption rate and pool stability. Hard regen % or MP/min per level. L9: fight without sitting. Evolve → **Mana Regulation**: combat regen / overflow control. Early practice before class still allowed.
@@ -144,6 +145,8 @@ World law: **Basic X** maxes at L9 → evolves to non-Basic form. Chapter 7 alre
 
 ### Basic Mana Reinforcement
 **Source:** skill book after abyss assassination (~Ch 54–56). Breathing drill. Adds a % of mana to base stats: **1% per level, 9% at Basic max**; Source T2 ~25%, T3 ~50%.
+**Rewrite unlock:** self-taught in Ch 9.5 Carwen town absorb drills (no gnome/shop book).
+**Sheet pads:** **Intelligence +1 / Willpower +1 per level** (same as Basic Incantation).
 **Early-story constraint (Ch 1–70):** fights and basic runecraft still burn the pool. Reinforcement does not replace Regulation / Rune Mastery for staying in the fight; it only answers “how hard is my body while I still have mana.”
 **Change (same scaling as Rune Mastery):** While reinforced, convert mana into bonus base stats (Str/Agi/Dex/Vit/End; not Luck).
 - **+10% of max MP per skill level**, **capped at 90%** (L9). Same ladder as filtration bypass: L1 = 10%, L9 = 90%. Never 100%.

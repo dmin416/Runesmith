@@ -221,9 +221,10 @@ Chapter 14 narration: common Tier 2 packages grow about **×1.5** vs Tier 1 (for
 Rewrite law (also in `Ideas.md`):
 
 - Skills rank **L1 through L9**. L9 is the hard max for that skill name.
-- Next step is **evolution** (Basic X → X → Advanced / Expert), not L10 on the same name.
+- **Until the first Tier 2 class is gained**, no skill may exceed **L9**. There is no L10 on any name in the T1 span.
+- Next step at L9 is **evolution** (Basic X → X → Advanced / Expert), not L10 on the same name. The new name starts at L1 and is also hard-capped at L9 while he is still T1-only.
+- **Advanced / Expert** skill tracks that sit above ordinary evolved forms wait on Tier 2 (or later) class gates unless a chapter locks an earlier exception.
 - Effects and skill-tied stat bonuses scale with the current skill’s level.
-- Evolved skills start at L1 again and apply to higher-tier work.
 - Evolving a Basic skill can grant a free attribute point (e.g. Basic Sneaking → Agility) **in addition to** the ongoing +level bonus of the new skill form if it still lists attribute bonuses.
 - **Technique only:** level is form / efficiency / timing / decisions, not body power. L5 = dedicated adult amateur, L7 = competitive or professional, L9 = pinnacle of normal human technique. Early Basic ranks by age: `Progression.md`.
 - Chapter 4 books say max Mana Sense at **L10** for Mage. Treat that as in-world rounding / old wording. Rewrite sheet max is **L9**.
@@ -232,7 +233,40 @@ Chapter 7: Roland thinks Basics stop at L9 from **class restrictions**. Rewrite 
 
 ### Practice thresholds (Chapter 4 Climbing test)
 
-Roland’s Climbing grind on one tree: **L1** on first success, **L2** after about **10** repeats, **L3** after about **50**. He reads this as an achievement curve (each rank needs more clean reps). Exact counts vary by skill and conditions (taller tree, real opponents). Not a universal XP table yet; use as early-arc flavor until a fuller curve is locked.
+Roland’s Climbing grind on one tree: **L1** on first success, **L2** after about **10** repeats, **L3** after about **50**. He reads this as an achievement curve (each rank needs more clean reps). Exact counts vary by skill and conditions (taller tree, real opponents).
+
+### Field-use curve (locked for Ch 9.5 combat math)
+
+Extend the Climbing anchors with a steady climb after L3. Counts are **cumulative clean uses** to *reach* that level (not XP).
+
+| Reach | Cum clean uses | Step from prior |
+|---|---|---|
+| L1 | **1** | first success |
+| L2 | **10** | +9 |
+| L3 | **50** | +40 |
+| L4 | **155** | +105 (= 35×3) |
+| L5 | **295** | +140 (= 35×4) |
+| L6 | **470** | +175 (= 35×5) |
+| L7 | **680** | +210 (= 35×6) |
+| L8 | **925** | +245 (= 35×7) |
+| L9 | **1205** | +280 (= 35×8) |
+
+After L3: `reps_to_next(L) = 35 × L` where L is the level you are leaving.
+
+**What counts**
+- **Spells:** every finished cast (chant completes, spell leaves the hand).
+- **Technique skills** (Shaping, Incantation, Sword, Sneak, etc.): only **clean** reps. Misses, panics and interrupted casts do not. Field rule of thumb: about **40%** of raw attempts are clean.
+- **Mana Absorption / Mana Reinforcement:** every time the pool is spent down and topped back up. Cast → drain → absorb refill and reinforce hold count as uses. These run **constantly in combat** as mana is used, not only in town meditation. Clean-rate is higher than attack technique (~**70%**) because the loop is deliberate.
+- **Already high Basics (L8–L9):** do not restart the table at 0. Only the step to the next rank (or evolve) counts. Opponent/variety gates still apply (`Progression.md`: H2H / Sword / Sneak need real field work for the last tick / evolve). Hard cap remains **L9** until first T2 class.
+- **Evening utility** (Ember cook-pot, Mana Hands mug lifts) can add uses outside the forest. Absorption / Reinforcement do **not** need a town-only track; hunts already cycle them hard.
+
+### Ch 9.5 combat volume (yardstick)
+
+~**70** hunt days in **90** calendar days. ~**10** kills/day average → ~**700** goblins. Class need L4→L20 ≈ **94k XP**; kills at ~53 ≈ **37k**; remaining ≈ **57k** from spell/skill rank-ups (matches “spell XP beats trash kills”).
+
+Raw combat actions (order-of-magnitude): Mana Bolt ~**1100** casts, Mana Arrow ~**380** (from late month 1), Mana Shield ~**130** (from month 2), short-sword finishes ~**350**, aimed shots (Bolt+Arrow) ~**1480**. Absorption / Reinforcement cycles ~**20**/hunt day × 70 ≈ **1400** raw (mana spent and restored under Reinforcement) → ~**980** clean at 70%.
+
+Apply the curve → end ranks in `Story/Notes/Skills.md` Chapter 9.5. No skill past **L9** before T2.
 
 ### Pre-ascension unlock rules (Chapter 4)
 
@@ -284,6 +318,8 @@ Favored attributes for skills Roland trains in Chapters 4–7. Same +1 × level 
 | Basic Mana Shaping | Intelligence +2, Willpower +1 |
 | Basic Mana Regulation | Intelligence +1, Willpower +2 |
 | Basic Incantation | Intelligence +1, Willpower +1 |
+| Mana Absorption | Intelligence +1, Willpower +2 |
+| Mana Reinforcement | Intelligence +1, Willpower +1 |
 | Identify | none |
 
 Chapter 4 prose: leveling physical Basics also makes him “run faster, jump higher and punch harder” via technique, and “bonuses to endurance and strength” when those skills get high enough. Rewrite pads: Running → Endurance; Sprint → Vitality + Endurance; Hand to Hand → Strength + Vitality; Leather → Vitality + Endurance; Reading / Mana Sense → Intelligence + Willpower. Age-10 goal: Str/Agi/Vit/End **40**; Dex/Will higher; Int highest (`StatusBreakdown.md`).

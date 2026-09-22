@@ -85,6 +85,108 @@ Optional extras on the same skill later: comprehension gates for that rank, fewe
 
 Same bar for **build** skills: Marksmanship changes hit chance and kit design. Analyze shows real formulas. Hastened Reading cuts real grind time. If the number is too small to matter at L1–L9, raise it or change the effect. **Flavor skills** (Sleep Resistance, Cooking, Technology, Acting, Basic Mathematics, Map Reading, and similar) stay soft and behind the scenes; do not force combat math onto them.
 
+### Mana tree: Telekinesis / Mage Hand (passive, Tier 2+)
+
+Idea only. Not on early sheets.
+
+- **Mana Hands** (Ch 10 spell from the Arden book) stays an **active cast**: make temporary mana hands, lift light objects, short range. Spell ranks L1–L9 like other spells.
+- Above **Basic Mana Shaping** / **Mana Shaping** sits a separate **passive** telekinesis / mage-hand skill (name TBD: e.g. **Mana Telekinesis**, **Telekinetic Grip**, **Silent Hands**).
+- **Gate:** unlockable only after Roland holds a **Tier 2** class. Maxing Basic Mana Shaping at Tier 1 is not enough. No T1 evolve path into this skill.
+- **Feel:** always-on fine force at short range without a full chant. Hold tools, catch dropped parts, brace a shield rim, pluck a fuse, steady a launcher while both hands are busy. Costs a thin ambient MP trickle or spikes when he pushes weight / speed. Levels raise mass, range, precision and multitask count.
+- **Pads (draft):** Int-heavy like Shaping, or Int +1 / Will +1 even. Lock when the skill is written into `Skills.md`.
+- **Anti-pad:** if he can already do the same job with Mana Hands + Shaping and never feels the new skill, cut it or raise the numbers until T2 craft / combat scenes change.
+
+### Tier 1 Mage: foundational applications
+
+Idea map for what a common **Class / Tier 1 Mage** is expected to learn besides raw combat spam. Split **skills** (passive / always-training) from **spells** (chants). Roland’s **0% elemental affinity** blocks true fire/water/wind/earth schools; he can still take pure-mana and friction tricks (Ember already). Academy or book paths teach more than the class dump.
+
+#### Already locked (Roland early kit)
+
+| Kind | Name | Role |
+|---|---|---|
+| Skill | Mana Sense | See ambient mana |
+| Skill | Basic Mana Shaping | Form spells |
+| Skill | Basic Mana Regulation | Pool stability + ambient fill |
+| Skill | Basic Incantation | Chant speed / stability |
+| Skill | Mana Absorption | Recover grind (rewrite Ch 9.5) |
+| Skill | Mana Reinforcement | Store / reinforce (rewrite Ch 9.5) |
+| Spell | Mana Bolt → Arrow | Ranged attack tree |
+| Spell | Mana Shield | Barrier |
+| Spell | Ember | Tiny friction fire (book) |
+| Spell | Mana Hands | Active telekinetic hands (book) |
+
+#### Foundations a T1 mage might still learn
+
+Group by job, not by flashy name. Prefer small spells or skill drills that change camp, craft, travel or a fight plan.
+
+**1. Light and signal**
+- **Orb of Light / Mana Light:** handheld or stuck glow. Night camps, caves, reading without a torch.
+- **Flare / Signal Spark:** short bright ping for party distance. Ember’s louder cousin.
+- **Dim / Shade:** thin mana veil that softens glare or hides a candle from far eyes (not true invisibility).
+
+**2. Force and motion (still T1-active, not the T2 passive)**
+- **Mana Hands** (already): lift, fetch, hold.
+- **Mana Push / Shove:** blunt knockback on a body or door. Low damage, high positioning.
+- **Mana Pull / Tether:** yank a light object or trip a small foe. Bridge to later guided shots.
+- **Hover Disc / Platform (lesser):** stand or set a pack on a short-lived plate. Slow travel only. Heavy MP.
+- **Mana Thread / Filament:** thin cutting or binding line. Trap tripwires, stitch a wound closed temporarily, trip ankles.
+
+**3. Barrier family beyond the bubble**
+- **Mana Shield** (already): personal / ally bubble.
+- **Mana Wall / Pane:** flat hard plane for a doorway or trench lip. Less wrap, more cover.
+- **Mana Skin / Film:** thin coat on skin or leather. Stops drizzle, grit, weak acid splash. Not real armor.
+- **Quiet Ward:** softens sound leaving a small radius (whisper camp). Weak vs real Stealth skills.
+
+**4. Sense and analysis (mage side of Identify)**
+- **Mana Sense** (already) → optional evolve toward finer bands.
+- **Mana Trace / Afterimage:** see where a spell was cast recently.
+- **Attune / Resonance Ping:** tap an object to feel if it holds a charge or stone (Roland already fakes some of this with Sense on corpses).
+- Book/academy: basic **Analyze** synergy for spell formulas (Roland has Analyze from status work; most mages buy or grind a weaker form).
+
+**5. Utility campcraft**
+- **Ember** (already): light tinder.
+- **Dry / Wick:** pull moisture off cloth or powder. Pure-mana version is slow; water mages cheat.
+- **Chill Touch (mana):** draw heat into the pool for a cool patch. Not ice magic. Preserve meat a few hours.
+- **Cleanse Spot:** scrub dirt or weak residue off a surface. Holy lines do disease; this is scrubbing only.
+- **Mend Soft:** press torn cloth or leather edges. Not metal. Stops a boot flap until a cobbler.
+
+**6. Body and stamina assists**
+- **Mana Reinforcement** (already, rewrite): bath store + % stats while active.
+- **Focus Breath / Steady Mind:** short Will drill to cut fumble chance on the next cast (could be Incantation tech, not a separate spell).
+- **Numb / Ease:** local pain dull for a cut. Weak. Real healing stays Acolyte / potions.
+- **Sprint Coat (mana):** thin film that cuts wind drag for a few seconds. Overlaps Sprint skill; keep tiny or cut.
+
+**7. Communication and marking**
+- **Whisper Line:** two-person short-range mind-touch or ear-whisper. Easy to jam. Party toy.
+- **Mark / Beacon:** leave a mana blot only Sense users notice. Trail crumbs in a dungeon.
+- **Alarm Thread:** trip filament that pings the caster. Camp perimeter.
+
+**8. Craft-adjacent (why mages become Scrybes)**
+- Hold a stable **spell circle** in air long enough to copy it (Shaping + Incantation).
+- Push mana through ink / quill (leads to **Mana Scribing**).
+- Soft **heat / pressure** on a small point (Ember + Hands) for sealing wax, glue, soft annealing. Not a forge.
+
+#### Roland filter (0% affinity)
+
+Teach or buy only what works as **pure mana**, **friction**, **force**, **light**, **sense** or **thin film**. Skip school fireballs, water jets, wind blades, earth spikes until runes fake the element. Academy kids with affinity finish the same list faster and add one element track on top.
+
+#### Suggested Carwen / early pickup order (idea)
+
+1. Light orb (night forest + inn study)
+2. Push / Pull (nest doors, trip space)
+3. Mana Wall pane (tree perch cover)
+4. Alarm thread + Mark (nest clears)
+5. Dry / Chill (food and wet leather)
+6. Whisper Line if party forms (Ch 11+)
+
+Class dumps Bolt / Arrow / Shield on level gates. Books and practice fill the utility row. Do not dump all of this on-page in Ch 9.5; pick two or three that change a scene.
+
+#### Open
+
+- Which of these become named spells vs unnamed Shaping tricks.
+- Whether Light / Push / Wall are class grants at set Mage levels or book-only.
+- Exact MP costs and L1–L9 feel when a spell is locked into `Spells.md`.
+
 ## Predicted story at large
 
 Same height as Source, tighter path, crew-based instead of lonely craftsman.
@@ -134,6 +236,10 @@ Original after ~Ch 70 loops craft → dungeon → politics → craft while escal
 
 See `Story/Notes/Early Logical Skills.md`. Short version: Basic Mathematics and Map Reading already had at transfer; Analyze is the first in-Terra unlock from the status analysis; Hastened Reading and Parallel Thinking early; ambient mana absorption practice before Mage; strong Reading proficiency in childhood. Class-gated runecraft stays gated.
 
+## Scene seeds
+
+- **Ch 9.5 Carwen food hunt:** Town cooking is generally horrendous (ashy bread, sour stew, burnt spit, worse second tavern). Roland tastes a few stalls and dumps them. The cheap inn's mediocre porridge+meat is reliably the same every night and never worse than the first tray. He stops shopping and eats there. Done in chapter.
+
 ## Open
 
 - One-page keep / cut / replace list for arcs after Ch 69.
@@ -142,3 +248,5 @@ See `Story/Notes/Early Logical Skills.md`. Short version: Basic Mathematics and 
 - How much Armand / Lobelia stay attached to that thread.
 - Finalize Early Logical Skills naming (Ambient Mana Absorption vs early Regulation; Parallel Thinking trait vs skill).
 - Temp skill rewrite pass: `References/TempRolandSkillChanges.md` (merge then delete).
+- Name and lock the Tier 2+ passive telekinesis / mage-hand skill above Mana Shaping (`Ideas.md` Systems).
+- **Goblin Hunter** unlock threshold: **1000 goblin kills** (idea). Align Ch 9.5 kill count / month-3 grant when locked. Later Goblin Slaughterer may need its own kill or boss gate.
