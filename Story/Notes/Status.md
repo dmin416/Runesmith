@@ -250,8 +250,8 @@ Prose compare: specialized L1 field stats sit near **30-40**; physicals even at 
 
 No new full attribute status screen. No class level shown this chapter. Still Mage L3. **~3 months** of post-Mage weekly **2× L1** estate fights (incl. this finale) bank **1250 / 1500** toward L4 (`Experience.md`). Two estate pen goblins cleared on-page; no XP line; no level-up.
 
-- Last estate goblin clears + rice-grain mana stone pocketed.
-- Letter: lodging only, no further monetary aid; army enlistment as return option. Crumpled; not burned.
+- Last estate goblin clears (**2**, level not shown) + rice-grain mana stone pocketed. See `Items.md` / `Experience.md`.
+- Letter: lodging only, no further monetary aid; army enlistment as return option. Kept in bag; not burned.
 - Cabin kit: straw mattress, stove, chairs, desk, pelts; well east; spring west (wildlife).
 - Coin pouch counted on-page; amount not given.
 - Train skills screen (live, age-10 `Progression.md`): H2H / Sword / Sneak **L8**; Running / Sprint / Climbing / Throwing / Leather **L9**. Sprint pads Vit+End; Leather pads Vit+End; Hand to Hand pads Str+Vit. Full skill block in `Skills.md`.
@@ -297,15 +297,19 @@ XP bar: enter **1250 / 1500** (estate Mage doubles). Kills **52 / 53 / 51 / 53 /
 
 Class package at L4: +4 Int / +4 Will vs L3’s +3. Blessed +10 MP × 4. No on-page attribute sheet.
 
-**Coin (LC):** enter **795** (after Ch 8 gate + card). Spend meal **7** + map **10**. Income ears **35** + stones **120** (= **155** turn-in). End **933 LC**.
+**Coin (LC):** enter **795** (after Ch 8 gate + card). Spend meal **7** + map **10**. Income ears **35** + stones **60** (= **95** turn-in). End **875 LC**.
 
-Costs quoted not paid: lodging 2 SS/night (+5 LC breakfast; ~10% monthly).
+Costs quoted not paid: lodging 1 SS/night (+5 LC breakfast; ~10% monthly = 270 LC).
 
 XP shown matches `49 + monster level` (L2=51 … L5=54). Source used ~15–20 per kill and leveled from Mage L5.
 
+## Chapter 9.5
+
+Not written yet.
+
 ## Chapter 10
 
-Three months of goblin grinding. Title **Goblin Hunter**. Nickname Little Goblin Slayer. Mage L20 sheet at the inn (beef jerky). Rents upstairs room at the Chapter 9 inn. Armor/sword repairs ongoing. Plans Mana Scrybe first, then Blacksmith; next city **Edelgard**. Clumsy Arden watcher in town. Joins Becky / Sahildr / Reyna for dungeon (claims age 12).
+**Timeskip:** three months of goblin grinding after Ch 9. Title **Goblin Hunter**. Nickname Little Goblin Slayer. Mage L20 sheet at the inn (beef jerky). Rents upstairs room at the Chapter 9 inn. Armor/sword repairs ongoing. Plans Mana Scrybe first, then Blacksmith; next city **Edelgard**. Clumsy Arden watcher in town. Joins Becky / Sahildr / Reyna for dungeon (claims age 12).
 
 ```
 ════════ TITLE ═════════
@@ -695,11 +699,11 @@ Full sheet (guild orb, name/classes garbled by status-hide pendant): L71. Mage L
 
 ## Chapter 69
 
-No full sheet. Still L71 band / Wayland. Funds: enough for farmhouse >100 SG plus renovation. Card still pending for ownership signing.
+No full sheet. Still L71 band / Wayland. Funds: enough for farmhouse >30 SG plus renovation. Card still pending for ownership signing.
 
 ## Chapter 70
 
-No full sheet. Still L71 band. Wayland Bronze card issued (Steel claim unverified). Paid >100 SG for farmhouse (+key/contract). Mana mostly spent on Poison Cloud house cleanse.
+No full sheet. Still L71 band. Wayland Bronze card issued (Steel claim unverified). Paid >30 SG for farmhouse (+key/contract). Mana mostly spent on Poison Cloud house cleanse.
 
 ## Chapter 71
 

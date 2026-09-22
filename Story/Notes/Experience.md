@@ -18,6 +18,8 @@ Running XP log. Kill formula and curve: `References/Levels.md`. Status screens: 
 | **7** | Last estate-pen pair (already Mage; counted in the 25) | Still L3; bar **1250 / 1500** |
 | **8** | Guild registration; no fights | Still Mage L3; bar unchanged |
 | **9** | Forest hunt; levels on the **54** kill | **1250 + 263** → L4 overflow **13**; +**105** → **118 / 2000** |
+| **9.5** | Not written yet | — |
+| **10** | **Timeskip** ~3 months of Carwen goblin grind → **Mage L20** | Off-page levels; live sheet at the inn |
 
 Ch 6: weekly one-on-ones after the 9th birthday. Locked count **55** estate L1s after bravery (year of weeks plus a few extras) so the half-bank lands L3 empty under `500 × L`. After Mage, weekly continues and turns to **two** L1s at a time for ~**3 months** (**25** kills including the Ch 7 finale) so the first Carwen hunt can finish L3→L4.
 
@@ -51,7 +53,9 @@ Curve tables: `Levels.md`.
 | Ch | Source | XP | Notes |
 |---|---|---|---|
 | 6→7 | Estate weekly **2× Goblin L1** over ~3 months (**25** kills incl. Ch 7 pair) | **1250** | Fills L3 bar to **1250 / 1500**; no level-up yet |
-| 7 | Last estate training pair (Mana Bolt eye + sword throat) | in the 1250 | Already Mage; clears the pen; no level-up line |
+| 7 | Last estate training pair (Mana Bolt eye + sword throat) | in the 1250 | Already Mage; clears the pen; no level-up line. **+1** rice-grain mana stone from the second |
 | 9 | Forest goblins L3/L4/L2 then L4/L5 then L3/L4 | 52 / 53 / 51 / 53 / 54 / 52 / 53 | On-page; **1250 + 263** crosses 1500 on the **54** (Mage **L3→L4**, overflow **13 / 2000**); +**105** noise kills → **118 / 2000** |
+| 9.5 | Not written yet | — | — |
+| 10 | Carwen goblin grind timeskip (~3 months) | off-page | Ends **Mage L20** on the inn sheet |
 
 `XP_to_next(3) = 1500`. Entering Ch 9 with **1250** keeps the level-up on the **54** XP kill. Overflow after level-up is **(1250 + 263) − 1500 = 13** into the L4 bar (`XP_to_next(4) = 2000`).

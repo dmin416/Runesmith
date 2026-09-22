@@ -34,6 +34,8 @@ Per-level packages from `Classes.md` / `Levels.md`. Mage: **+1 Intelligence and 
 | Ch 6 | Mage L3 | +3 | +3 | |
 | Ch 8 | Mage L3 | +3 | +3 | Guild read; still L3 |
 | Ch 9 | Mage L4 | +4 | +4 | First paid hunt |
+| Ch 9.5 | — | — | — | Not written yet |
+| Ch 10 | Mage L20 | (timeskip) | (timeskip) | ~3 months Carwen grind |
 
 Blessed by Mana adds **MP only** (+10 MP per Mage level), not attributes.
 

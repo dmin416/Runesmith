@@ -92,14 +92,14 @@ When updating status, skills or traits from chapters, follow `CrossCheck.md`.
 ## Chapter 7
 
 - **~3 months** after Mage. Weekly estate fights escalated to **two Goblin L1s** at a time once he could cast Mana Bolt. Locked: **25** L1 kills as Mage (pairs over those months, Ch 7 finale included) = **1250 XP** toward L4 (`Experience.md`). Bar **1250 / 1500**; still Mage L3.
-- Last estate dungeon clears: two training goblins. Mana Bolt chant (*Source of all magic… / Gather before me… Mana Bolt!*) into an eye; short sword finishes the second. No hesitation vs the age-9 bravery fight. Trainer absent.
+- Last estate dungeon clears: two training goblins (level not Identified). Mana Bolt chant (*Source of all magic… / Gather before me… Mana Bolt!*) into an eye; short sword finishes the second. No hesitation vs the age-9 bravery fight. Trainer absent.
 - Opening rewrite vs Source: sword arm ready and chant spoken clear (Source had arm lowered and mumbling). Dialogue/thought formatting to project rules.
-- Mana Bolt limits: so-so power, weak-spot aim, no rapid fire, chant slows casts → backline thoughts. Pockets a rice-grain **mana stone** / monster core (low goblin drop; servants stole the last one he turned in).
+- Mana Bolt limits: so-so power, weak-spot aim, Marksmanship helps; ~5 s per cast if spoken quickly; chant slows casts → backline thoughts. Pockets a rice-grain **mana stone** / monster core (**~1 in 5** goblins; servants stole an earlier turn-in). Leaves with stones that become the **2** estate leftovers sold in Ch 9 (`Items.md`).
 - Hedge hideout by the ladies’ flower garden. Martha sandwiches. **Lucienne** (~3, golden hair, green eyes) finds him; Francine forbids contact; birthday in a couple of weeks; he won’t be there. Secret between them.
 - Martha packs and weeps; denied permission to go. Tells him to write. He takes blank paper and **calligraphy books** (Scrybe grind ahead). Coach → **mana-stone train** (steam-like; airships exist but above Baron pay). Multi-day ride to Carwen (mid-kingdom; dungeon town).
 - Wentworth/Adam after departure: leave accepted; estate monster performance “satisfactory”; brothers needed rescue on first fights; could make a knight but wants smithing; expects he’ll ask for help or fail into the army; cigar. Cabin is the pressure test.
 - Train skill scroll **live** (`Progression.md` age-10): Sword / H2H / Sneak **L8**; Running / Sprint / Climbing / Throwing / Leather **L9**. Source had all combat Basics at L9, no Throwing on the scroll, Leather **L4**, and a “class restriction” L9 wall thought. Rewrite thought: opponent-gated skills stall at L8; repetition Basics hit L9 then evolve. Night sneaking grind noted. L9 = hard max then evolve, not a Mage lock.
-- Arrival: mustache coachman; passes Adventurer’s Guild; ~30 min outside city to rundown forest cabin. Letter (Arden seal): lodging only, **no more money**, army return if too hard. Crumples the letter (does **not** burn it; Source burned it). Lights stove kindling with mana friction/pressure. Well east (~10 min toward city); spring west deeper (animals). Straw bed, stove, desk, pelts. Counts coin pouch; plans Adventurer’s Guild. Closing army read softened vs Source (asks for help, not “come back crying”).
+- Arrival: mustache coachman; passes Adventurer’s Guild; ~30 min outside city to rundown forest cabin. Letter (Arden seal): lodging only, **no more money**, army return if too hard. Puts the letter away in his bag (does **not** burn it; Source burned it). Lights stove kindling with mana friction/pressure. Well east (~10 min toward city); spring west deeper (animals). Straw bed, stove, desk, pelts. Counts coin pouch; plans Adventurer’s Guild. Closing army read softened vs Source (asks for help, not “come back crying”).
 
 ## Chapter 8
 
@@ -116,18 +116,23 @@ When updating status, skills or traits from chapters, follow `CrossCheck.md`.
 ## Chapter 9
 
 - Carwen is a small walled town (monster defense). Walls/off-limits terrain keep some land unlivable even in large kingdoms.
-- Inn: lute bard; large waitress; one-eyed scarred bartender. Orders porridge (bland grain gruel) + dried jerky. **7 large copper**. Lodging quote **2 small silver**/night; +**5 large copper** breakfast; monthly ~**10%** off (quoted, not paid this chapter). Coin runway slightly over a month of lodging if careful.
+- Inn: lute bard; large waitress; one-eyed scarred bartender. Orders porridge **and** grilled meat to test the place. Bartender “shitty gruel” joke; he almost walks out, then smells the tray and eats. Thin unseasoned oat porridge + meat grilled dry as jerky, not salty enough. **5 large copper**. Lodging quote **1 small silver**/night; +**5 large copper** breakfast; monthly ~**10%** off (quoted, not paid this chapter). Coin runway about three months of lodging if careful.
 - Budget math: ~2 goblin ears per meal; aims ≥5 kills/day; one meal/day to start; sword repairs coming. Still **Mage L3**; needs **22** more levels to L25 (Source was L5 / 20). Class-up crystal already buried.
 - Library: local map for **1 small silver**. Identify rises with reading/general knowledge (he finds that odd). Adventurer card skips gate fee on exit.
 - Farm-forest goblins: tribal hierarchy (chief = soldier or shaman evolve; fears Hobgoblin). Waves at farmers (Source skipped them).
-- **Fight rewrite vs Source:** first group is **three** (L2 / L3 / L4 clubs), not two (L3 / L4). Opens with **mental** ear-canal Mana Bolt (Source: spoken face bolt). Then aloud face bolt while they panic, then melee on the L2. Whisper weakens; mental weaker still; shaping alone evaporates. Aim helped by Dex / FPS. Returns thrown spear into a chaser (Source: just runs). Tree Climbing + Sneaking + loud bolts; no hour-long run before climb. Swearing cut (*Nice, no need to look for more* vs Source *Shit!*). XP uses `49 + level` (Source used ~15–20).
+- **Fight rewrite vs Source:** first group is **three** (L2 / L3 / L4 clubs), not two (L3 / L4). Opens with **mental** ear-canal Mana Bolt (Source: spoken face bolt). Then aloud face bolt while they panic, then melee on the L2. Whisper weakens; mental weaker still; shaping alone evaporates (two-password: chant + shape). Aim helped by Dex / FPS. Returns thrown spear into a chaser (Source: just runs). Tree Climbing + Sneaking + loud bolts; no hour-long run before climb. Swearing cut (*Nice, no need to look for more* vs Source *Shit!*). Loud shout supercharges cost (~**>10%** MP on one heavy bolt). XP uses `49 + level` (Source used ~15–20).
 - Levels **Mage L3 → L4** on the **54** XP kill. Entering bar **1250 / 1500** from estate Mage doubles. Hunt: **52 / 53 / 51 / 53 / 54** (**263**) → overflow **13 / 2000** at L4; two noise-drawn tree kills **52 / 53** (**+105**) → **118 / 2000**. Blast zone: 2 chase + 2 noise-drawn = **4** bodies / ears (+ stone); first three already looted at clearing (**7** ears total). Source blast zone said five plus scattered leftovers.
-- Turn-in income: **35 LC** (7×5) + **3 tiny mana stones** at **4 SS** each (1 new + 2 estate leftovers) = **+155 LC** (income only; “richer” line). Vows not to return to cabin or Arden house.
-- **Coin tally** (LC units; 1 SS = 10 LC; 1 LS = 100 LC; start pouch Ch 8 = **1000 LC**): Ch 8 spent gate **5** + registration **200** → enter Ch 9 with **795**. Ch 9 spend meal **7** + map **10** = **17**. Income **155**. End Ch 9 pouch **933 LC** (= **9 LS + 3 SS + 3 LC**, or **93 SS + 3 LC**).
+- Turn-in income: **35 LC** (7×5) + **3 tiny mana stones** at **2 SS** each (1 new + 2 estate leftovers) = **+95 LC** (income only; “richer” line).
+- **Ending rewrite vs Source:** Source clenched for money and vowed never to return to cabin / noble house. Story keeps the pay-fist moment but closes on **adventure + little things**: one fight, one meal, one night’s rest at a time (crappy beds / bland food as motivators, not the whole point).
+- **Coin tally** (LC units; 1 SS = 10 LC; 1 LS = 100 LC; start pouch Ch 8 = **1000 LC**): Ch 8 spent gate **5** + registration **200** → enter Ch 9 with **795**. Ch 9 spend meal **5** + map **10** = **15**. Income **95**. End Ch 9 pouch **875 LC**.
+
+## Chapter 9.5
+
+- Not written yet. Heading only in `Story/Chapters/1-10.md`.
 
 ## Chapter 10
 
-- ~**3 months** later. Tree snipes a darker-green nest leader with **Mana Arrow** (~100 m), then cleans the camp. Guild nickname **Little Goblin Slayer**; mascot teasing.
+- **Timeskip** (~**3 months** after first paid hunt), same pattern as Ch 7’s post-Mage skip. Tree snipes a darker-green nest leader with **Mana Arrow** (~100 m), then cleans the camp. Guild nickname **Little Goblin Slayer**; mascot teasing.
 - Title **Goblin Hunter**: lower-level goblins may take a fear debuff (chance-based). Titles come from monster hunting; some give attack/defense bonuses.
 - Inn upstairs room (same cheap inn). Live sheet **Mage L20**. Spells: Mana Bolt L7, Mana Arrow L5, Mana Shield L3, Ember L6, Mana Hands L5.
 - Spell lore: class grants Bolt/Arrow/Shield at level thresholds (knowledge dump). Ember + Mana Hands from an Arden estate book (spellbooks costly). Cast = imagine **spell circle** + shape mana + chant in sequence; fail any step and it sizzles. Int helps visualize circles. Spell/skill leveling grants XP (often more than trash kills); craft classes level by making items.
@@ -159,7 +164,7 @@ When updating status, skills or traits from chapters, follow `CrossCheck.md`.
 - **Basic Calligraphy L9** after months of nightly writing (Mana Scrybe gate). Plans to leave Carwen for craft training / scroll sales (needs established company + selling permit; street peddling dismissed).
 - Gear wear eats savings: shortsword fails ~month 5; armor torn; boots replaced. Bronze/Steel pay is low until Silver (needs T2). Rank ladder talk: Bronze/Steel = T1; Silver/Gold = T2; Platinum+ = T3; Adamantium maybe T4/5; most stop at Silver.
 - Scroll strength scales with mana infused. Crafting classes earn less XP from monster fights. Sahildr won't lend the hammer (arm-wrestle / drink tease). Regular enchantments cheaper/weaker and cover more surface (fewer per item); only runic items draw his pathway sense. Plans cheapest study piece: knife with **lesser sharpness**. Avoid dungeon until class change (XP banks with heavy loss like first ascension).
-- Innkeepers **Hilde** and **Boris** named; monthly stay ~**5%** off. Digs buried class-change crystal (~**2 small gold** market; commoner household ~**1 SG**/month; he has barely half saved). Basic skills evolving to regular (Running/Sprint/Sneaking/Swordsmanship); free attr points on evolve (e.g. Sneaking→Agi, Swordsmanship→Str).
+- Innkeepers **Hilde** and **Boris** named; monthly stay ~**5%** off. Digs buried class-change crystal (~**2 small gold** market; commoner household ~**4 LS**/month; he has barely half saved). Basic skills evolving to regular (Running/Sprint/Sneaking/Swordsmanship); free attr points on evolve (e.g. Sneaking→Agi, Swordsmanship→Str).
 - Ambush on the return path: throwing knives, hooded man ~183 cm, heavy rapier. Calls him **bastard son**; implies Baron. Reveals as the forgotten Carden watcher. Cliffhangs mid-fight.
 
 ## Chapter 14
@@ -511,12 +516,12 @@ When updating status, skills or traits from chapters, follow `CrossCheck.md`.
 
 ## Chapter 69
 
-- Town hall for land. Prefers buy over rent (workshop freedom; Abyss flee tradeoff). Halfling clerk room 3b; five leftover listings (merchants bought best). Shacks/tool sheds near square; last: abandoned red-brick farmhouse + log shack ~40 min out, large cellar, >100 SG.
+- Town hall for land. Prefers buy over rent (workshop freedom; Abyss flee tradeoff). Halfling clerk room 3b; five leftover listings (merchants bought best). Shacks/tool sheds near square; last: abandoned red-brick farmhouse + log shack ~40 min out, large cellar, >30 SG.
 - Decides to buy farmhouse (smithy in cellar or cabin; trap freedom). Needs Wayland card tomorrow then ownership contract.
 
 ## Chapter 70
 
-- Guild issues Wayland Bronze card (Steel claim unverified); locket storage. Dungeon unmapped free-for-all. Signs farmhouse deed (>100 SG; skips triple-price extra farmland; ~half acre). Renovation wait ≥3 weeks.
+- Guild issues Wayland Bronze card (Steel claim unverified); locket storage. Dungeon unmapped free-for-all. Signs farmhouse deed (>30 SG; skips triple-price extra farmland; ~half acre). Renovation wait ≥3 weeks.
 - Layout: porch/foyer/main room/kitchen/pantry/bedroom/bath (rusted tub); well; attic rats; cellar ~3 m for real runic workshop; log shed as dummy smithy + illusion hide.
 - Spring clean: pressurized water wand on porch; crafts Poison Cloud rod; gases house behind thin mana shield (detox potions + mask); camps in shed. Solo dungeon next.
 

@@ -338,11 +338,15 @@ No new named skills. Field use:
 
 ### Traits
 
-No new traits. First paid hunt and vow not to return to cabin or Arden house.
+No new traits. First paid hunt. Ending: adventure / meal / rest steps (not Source’s cabin-and-house rejection vow).
+
+## Chapter 9.5
+
+Not written yet.
 
 ## Chapter 10
 
-Title: Goblin Hunter (monster-hunt title; fear chance vs lower-level goblins).
+**Timeskip** (~3 months). Title: Goblin Hunter (monster-hunt title; fear chance vs lower-level goblins).
 
 Spells after three months (class grants Bolt / Arrow / Shield; Ember + Mana Hands from an Arden spell book):
 
