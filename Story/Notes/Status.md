@@ -248,28 +248,29 @@ Prose compare: specialized L1 field stats sit near **30-40**; physicals even at 
 
 ## Chapter 7
 
-No new full attribute status screen. Still Mage (levels rise off-page toward Ch 8 L5). Location ends at Carwen forest cabin.
+No new full attribute status screen. No class level shown this chapter. Still Mage L3. **~3 months** of post-Mage weekly **2× L1** estate fights (incl. this finale) bank **1250 / 1500** toward L4 (`Experience.md`). Two estate pen goblins cleared on-page; no XP line; no level-up.
 
 - Last estate goblin clears + rice-grain mana stone pocketed.
-- Letter: no further monetary aid; army enlistment as return option.
+- Letter: lodging only, no further monetary aid; army enlistment as return option. Crumpled; not burned.
 - Cabin kit: straw mattress, stove, chairs, desk, pelts; well east; spring west (wildlife).
-- Train skills screen uses age-10 technique targets (`Progression.md`): H2H/Sword/Sneak **L8**; Running/Sprint/Climbing/Throwing/Leather **L9**. Sprint pads Vit+End; Leather pads Vit+End; Hand to Hand pads Str+Vit.
+- Coin pouch counted on-page; amount not given.
+- Train skills screen (live, age-10 `Progression.md`): H2H / Sword / Sneak **L8**; Running / Sprint / Climbing / Throwing / Leather **L9**. Sprint pads Vit+End; Leather pads Vit+End; Hand to Hand pads Str+Vit. Full skill block in `Skills.md`.
 
 ## Chapter 8
 
-Bronze Adventurer. Guild measuring crystal reads full sheet (confidential to guild). Registers first name **Roland** only on the card. Looks ~**4'11"** / ~12–13 to staff.
+Bronze Adventurer. Guild measuring crystal reads full sheet (confidential to guild). Registers first name **Roland** only on the card. Looks ~**150 cm** / ~12–13 to staff.
 
-**Live (chapter):** Mage L5 on age-10 full stack. Class +5 Int / +5 Will. Mage grants still L1 pads (+4 Int / +4 Will). Mage ×1.2 MP. Blessed +10 MP × 5.
+**Live (chapter):** same Mage L3 rewrite stack as Ch 6. Class +3 Int / +3 Will. Mage grants still L1 pads (+4 Int / +4 Will). Mage ×1.2 MP. Blessed +10 MP × 3. Source orb was Mage L5 on the old low sheet. Off-page bar still **1250 / 1500** from estate Mage doubles (not shown on the orb block).
 
-MP check: ((75 × 10) + (62 × 4)) = 998; ×1.2 = 1197.6 → 1198; +50 Blessed = **1248**.
+MP check: ((73 × 10) + (60 × 4)) = 970; ×1.2 = 1164; +30 Blessed = **1194**.
 
 ```
 ════════ STATUS ════════
 Name:       Roland Arden
-Class:      Mage L5
+Class:      Mage L3
 
 HP               520/520
-MP              1248/1248
+MP              1194/1194
 SP               640/640
 
 Strength              40
@@ -277,25 +278,30 @@ Agility               40
 Dexterity             50
 Vitality              40
 Endurance             40
-Intelligence          75
-Willpower             62
+Intelligence          73
+Willpower             60
 Charisma               7
 Luck                   7
 ════════════════════════
 ```
 
-Receptionist lingers on Intelligence. Road aging bumps go into Body when age advances.
+Receptionist lingers on Intelligence (young for those skill-grind stats).
 
-Funds: about **1 small gold** equivalent in copper/silver. Registration costs **2 large silver**. Gate entry **5 large copper**. Class-up crystal buried unmarked near the cabin.
+Funds: **1 small gold** equivalent in copper/silver. Gate entry **5 large copper**. Registration **2 large silver**. Class-up crystal buried unmarked near the cabin.
 
 ## Chapter 9
 
-No full status screen. First adventurer hunt levels Mage **L5 → L6**.
+No full status screen. First adventurer hunt levels Mage **L3 → L4** on the **54** XP kill.
 
-Costs: inn meal 7 LC; map 1 SS; lodging quote 2 SS/night (+5 LC breakfast; ~10% monthly discount).
-Payout: 7 goblin ears × 5 LC = **35 LC**; 3 tiny mana stones × 4 SS = **12 SS** (= 120 LC); net **+155 LC**.
+XP bar: enter **1250 / 1500** (estate Mage doubles). Kills **52 / 53 / 51 / 53 / 54** (**263**) → level-up; overflow **13 / 2000**. Two more tree kills **52 / 53** (**+105**) → **118 / 2000**.
 
-XP shown: Goblin L3 **52**, L4 **53**, later kills **53** / **54** (matches `49 + monster level` with RaceMult 1.0; 54 = L5).
+Class package at L4: +4 Int / +4 Will vs L3’s +3. Blessed +10 MP × 4. No on-page attribute sheet.
+
+**Coin (LC):** enter **795** (after Ch 8 gate + card). Spend meal **7** + map **10**. Income ears **35** + stones **120** (= **155** turn-in). End **933 LC**.
+
+Costs quoted not paid: lodging 2 SS/night (+5 LC breakfast; ~10% monthly).
+
+XP shown matches `49 + monster level` (L2=51 … L5=54). Source used ~15–20 per kill and leveled from Mage L5.
 
 ## Chapter 10
 

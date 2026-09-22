@@ -8,7 +8,7 @@ Reanimated patrol skeletons.
 
 ### Goblin
 First seen: Chapter 4
-Common early foe. Roland’s first kill is a **Goblin L1** (HP 117/117) in the Arden mansion dungeon bravery test. About **120 cm** tall, green, rusty short blade. Estate training stock for age-9 tests and later weekly clears (Chapter 7 still uses the pen). Kill XP **50** (49+1; RaceMult 1.0); First Kill achievement adds **+200**. Low chance of a tiny **mana stone** / monster core (rice-grain size in Chapter 7). Live in groups with a strength hierarchy; chiefs are often evolved soldiers or shamans. Chapter 9 Carwen farm-forest: L3–L5 trash with clubs/spears; tribal alarm screams; Hobgoblin chiefs feared. Chapter 10: darker-green nest leaders; Roland snipes from ~100 m with Mana Arrow; guerrilla lure tactics clear many nests over three months. Bounty proof: left ear.
+Common early foe. Roland’s first kill is a **Goblin L1** (HP 117/117) in the Arden mansion dungeon bravery test. About **120 cm** tall, green, rusty short blade. Estate training stock for age-9 tests, weekly **1v1** clears into the pre-class bank, then weekly **2× L1** clears for ~3 months after Mage (Chapter 7 finale still uses the pen). Kill XP **50** (49+1; RaceMult 1.0); First Kill achievement adds **+200**. Low chance of a tiny **mana stone** / monster core (rice-grain size in Chapter 7). Live in groups with a strength hierarchy; chiefs are often evolved soldiers or shamans. Chapter 9 Carwen farm-forest: L2–L5 trash with clubs/spears; tribal alarm screams; Hobgoblin chiefs feared. Chapter 10: darker-green nest leaders; Roland snipes from ~100 m with Mana Arrow; guerrilla lure tactics clear many nests over three months. Bounty proof: left ear.
 
 ### Dragon (egg)
 First seen: Chapter 7

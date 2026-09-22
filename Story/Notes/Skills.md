@@ -1,8 +1,10 @@
 # Skills
 
-Roland's skills by chapter. Traits stay in `Traits.md`. Follow `CrossCheck.md`.
+Roland's skills, traits and titles by chapter. Follow `CrossCheck.md`.
 
 **Rewrite rules:** skill technique ranks by age in `References/Progression.md`. Attribute bonus from a skill = **+1 × current skill level** per favored attribute (`References/Levels.md`). Sheet buckets in `StatusBreakdown.md`.
+
+Trait Int/Will bonuses are flat cards. They sit in the Skills/Traits bucket with skill level bonuses (`StatusBreakdown.md`). Body Int/Will come from `Progression.md` adult-mind track (age 5: Int 12, Will 15).
 
 ### Early attribute map (rewrite)
 
@@ -32,7 +34,7 @@ Roland's skills by chapter. Traits stay in `Traits.md`. Follow `CrossCheck.md`.
 
 ## Chapter 1
 
-No skill menu yet. Status name only.
+No skill menu yet. Status name only. No trait menu yet.
 
 ## Chapter 2
 
@@ -92,7 +94,32 @@ Allows you to sense mana.
 ════════════════════════
 ```
 
-Transfer skill attribute total: Int +17, Dex +25, Agi +3, Cha +4. Traits add Int +13, Will +10 (`Traits.md`).
+Transfer skill attribute total: Int +17, Dex +25, Agi +3, Cha +4. Traits add Int +13, Will +10 (this file).
+
+### Traits
+
+Boy's original traits before transfer: Fast Learning, Knowledge Retention.
+Brought from previous life: Logical Thinker.
+
+Without passives and traits, Intelligence would be **12** and Willpower **15** on the adult-mind body track. With the boy’s two traits alone Int would be 20. Dexterity without skill bonuses would be 4. Live Chapter 2 sheet still shows the old bare Int 11 / Will 8 totals until retconned (rewrite display: Int **42**, Will **25**).
+
+```
+════════ TRAITS ════════
+Logical Thinker      Trait
+Thinks calmly, can analyze problems and come to a rational conclusion.
+Bonus to Intelligence +5 and Willpower +5
+
+Fast Learning        Trait
+Absorb knowledge at an increased rate.
+Bonus to Intelligence +5
+
+Knowledge Retention  Trait
+Retain more information and at a faster rate.
+Bonus to Intelligence +3 and Willpower +5
+════════════════════════
+```
+
+Trait total at transfer: Intelligence +13, Willpower +10.
 
 ## Chapter 3
 
@@ -123,6 +150,10 @@ Age 9: short sword Identify shows Common steel with ???? attack and defense.
 
 Age-9 technique targets and attribute piles: `Progression.md` / `StatusBreakdown.md`.
 
+### Traits
+
+No new traits named. Achievement: **First Kill** (+200 XP on top of the goblin kill; banked with pre-class penalty). Not a permanent trait card.
+
 ## Chapter 5
 
 Mana Sense maxed before the ritual (rewrite: L9). Used in the ascension tutorial to watch the clone form Mana Bolt.
@@ -139,6 +170,20 @@ Class: Tier 1 Mage (chosen Yes/No on the PC sprite). Unlocked mid-tutorial when 
 Prose: he feels the skills and the spell land; stats rise (Mage L1 package +1 Int/+1 Will, plus the three skill pads: +4 Int / +4 Will total from grants). Crystal dusts after return.
 
 **Mage L1 displayed:** Int **71**, Will **58**, MP **1140** (see `Status.md`). All seven **40** attribute perks active (Blessed by Mana with Mage; others from age-10 Basics).
+
+### Traits
+
+**40 attribute perks** all present once Mage L1 lands (physicals/Will already at or above 40 from Basics; Blessed by Mana needs Mage + Int > 40):
+
+- Titan's Back (Strength)
+- Sure Footing (Agility)
+- Exacting Motion (Dexterity)
+- Defiance of Years (Vitality)
+- Rapid Renewal (Endurance)
+- Blessed by Mana (Intelligence)
+- Unbroken Focus (Willpower)
+
+Affinities are a hidden sheet unlocked after first class, not a trait card.
 
 ## Chapter 6
 
@@ -178,11 +223,45 @@ Gives equal bonuses to intelligence and willpower.
 
 Book path locked this chapter: Mage → Blacksmith + Mana Scrybe (Calligraphy required) → Runesmith (rune skill from study). Enchantsmith is the easier alternate.
 
+### Traits
+
+All seven **40** perks shown with the Mage skills menu (Blessed by Mana plus the six body/focus perks).
+
+```
+════════ TRAITS ════════
+Blessed by Mana      Trait
+Unlocked if a person has more than 40 intelligence after reaching the mage class
+at the first ascension ritual, gives bonuses to MP after each level up (+10 MP per Mage level on the sheet).
+
+Titan's Back         Trait
+Strength 40. Carry capacity.
+
+Sure Footing         Trait
+Agility 40. Balance.
+
+Exacting Motion      Trait
+Dexterity 40. Accuracy of body movement.
+
+Defiance of Years    Trait
+Vitality 40. Reduced aging.
+
+Rapid Renewal        Trait
+Endurance 40. Recovery speed.
+
+Unbroken Focus       Trait
+Willpower 40. Focus.
+════════════════════════
+```
+
+Active set now: Logical Thinker, Fast Learning, Knowledge Retention, plus all seven 40 perks.
+
+House lore this chapter: battle classes raise Vitality and slow aging; pure housekeeping skills do not.
+
 ## Chapter 7
 
-Opens with Mana Bolt + short sword vs two estate training goblins (chant required). Pockets a tiny mana stone. Takes calligraphy books for the Scrybe path.
+Opens ~**3 months** after Mage. Weekly estate fights had escalated to **two** L1s (`Experience.md` **1250 / 1500** toward L4). On-page: Mana Bolt + short sword vs the last training pair (chant required; spoken clear, sword arm ready). Pockets a tiny mana stone. Takes calligraphy books for the Scrybe path.
 
-Basic combat skills on the train screen. **Rewrite:** L9 is the hard skill-name max then evolution (`Levels.md`), not a Mage lock. On-page targets from `Progression.md` age-10 technique table:
+Basic combat skills on the train screen are **live** now (Source had all L9 combat Basics, no Throwing, Leather L4, “class restriction” wall). L9 is the hard skill-name max then evolution (`Levels.md`), not a Mage lock. On-page targets from `Progression.md` age-10 technique table:
 
 | Skill | Level | Attribute bonus |
 |---|---|---|
@@ -235,19 +314,31 @@ Bonus to Vitality +9 and Endurance +9
 ════════════════════════
 ```
 
+### Traits
+
+No new traits. Departure beat only.
+
 ## Chapter 8
 
-No new named skills on screen. Arithmetic helps count the coin pile (hovering total). Uses Mana Bolt and sword work as bronze adventurer. Holds a buried class-up crystal for later Blacksmith or Mana Scrybe respec.
+No new named skills on screen. **Basic Mathematics** (arithmetic) gives a hovering total on the coin pile. Guild orb shows the status sheet only (no skills menu). Buried class-up crystal reserved for later Blacksmith or Mana Scrybe.
+
+### Traits
+
+No new traits. Becomes Bronze adventurer (card / rank, not a trait).
 
 ## Chapter 9
 
 No new named skills. Field use:
 
-- **Mana Bolt** + **Basic Incantation**: full chant required to finish shaping; whisper chant lowers power; panting/running collapses the cast.
+- **Mana Bolt** + **Basic Incantation**: full chant required to finish shaping; whisper lowers power; **mental chant** weaker still (rewrite; Source only had whisper). Panting/running collapses the cast. Loud shout supercharges cost (~**>10%** MP pool on one heavy bolt).
 - **Mana Sense**: detects mana stones in corpses without butchering.
-- **Climbing** + **Sneaking**: tree ambush after tribal alarm chase.
+- **Climbing** + **Sneaking**: tree ambush after tribal alarm chase (sooner than Source’s long run).
 - **Identify**: levels from reading / general knowledge (library note).
-- Shortsword + hunting knife (ears). Mage levels to L6.
+- Shortsword + hunting knife (ears). First group **L2 / L3 / L4**. Mage **L3 → L4**.
+
+### Traits
+
+No new traits. First paid hunt and vow not to return to cabin or Arden house.
 
 ## Chapter 10
 
@@ -277,6 +368,18 @@ The caster can create hands made from mana. The weight and distance this spell c
 
 Cast method: imagine the spell circle + shape mana + chant together. Spell/skill level-ups grant XP (often more than trash goblins). Some Basic combat skills evolved toward non-Basic forms via guerrilla forest grind. Still Mage L20 on first class. Plans Mana Scrybe next.
 
+### Traits
+
+```
+════════ TITLE ═════════
+Goblin Hunter
+
+A person with this title is feared by goblins. Goblins might suffer a fear debuff while fighting with a person with this title. Works only on goblins below the title holder's level.
+════════════════════════
+```
+
+Monster-hunt title (chance-based fear). Some titles also grant attack/defense bonuses (general lore). Nickname Little Goblin Slayer is guild talk, not the title card.
+
 ## Chapter 11
 
 No new named skills. Uses Mana Arrow (entrance rat; notes higher mana cost and longer cast than Bolt), Mana Shield (full chant on Sahildr vs spiked boar), Basic Incantation (levels with spell use) and Mana Sense (chest stone locate). Party combat on Emerald Wilderness floor 1.
@@ -300,6 +403,10 @@ Uses Mana Shield (extra mana into bubble on Reyna vs Gale Step thrust; still pie
 
 No new combat skills. Debugger (and possibly Technology) on runic pathways: red/green/blue traces, zoom, mana drain while viewing. Calligraphy redraw of improved circuit. Created Lesser Detonation Rune [Highest] schematic (+1000 XP). Title: Runic Scholar. Still Mage L25. Class stone deferred.
 
+### Traits
+
+Title: Runic Scholar (gained with Lesser Detonation Rune [Highest] schematic; unlocks Runic Mana Scrybe).
+
 ## Chapter 16
 
 Class: Runic Mana Scrybe (title-gated; timed fire-orb trial).
@@ -309,6 +416,10 @@ Gained (permanent after pass):
 - Basic Rune Mastery L1 (rune comprehension; small MP cut to use runes)
 
 Reading proficiency from Arden library aids the trial book. Temporary versions mid-trial. Debugger blank during inscribing; scores the finished diagram. Technology helps parse rune components as circuit/logic parts. First attempt fails (red); second succeeds on last sand.
+
+### Traits
+
+No new traits. Runic Scholar title still active (unlocks Runic Mana Scrybe).
 
 ## Chapter 17
 
@@ -395,6 +506,10 @@ Basic Smithing Mastery L1 → L2 (+1 Strength). Basic Forging unchanged. Iron Na
 
 Bronze Mana Bolt paddle wands field-tested (~75 MP/cast; ~10 uses before rune fail; repairable). Pressure-trigger detonation scrolls (mine-wall upgrade). No new named skill unlock. Title evolves to Goblin Slaughterer.
 
+### Traits
+
+Title: Goblin Slaughterer (evolved from Goblin Hunter). Lesser goblins flee; +10% damage vs any goblin type.
+
 ## Chapter 38
 
 Basic Forging, Basic Smithing Mastery and Basic Runecraft all at L2. Runic Blacksmith class L2. Uses Detect Life (nightly) and Shadow Veil (common). Enchanted rapier with internal-explosion function. Gale arrow scroll finish.
@@ -406,6 +521,10 @@ No new Roland skills. Zilyana / Ziron use shadow travel / shadow walking. Manage
 ## Chapter 40
 
 No new combat skills. Title: Manslayer (human kill credit from Rawson).
+
+### Traits
+
+Title: Manslayer (gained for killing a human; Rawson). Assassin fencer earlier did not grant it (not last hit).
 
 ## Chapter 41
 
@@ -438,6 +557,10 @@ Gained: Basic Rune Compression (book), Runic Blacksmith's Eyes (class ~L13), Bla
 ## Chapter 48
 
 Debugger used on new Slot socket design. Sleep Resistance mentioned (near limit). No new skill unlocks. Title: Runic Scholar II.
+
+### Traits
+
+Title: Runic Scholar II (evolved from Runic Scholar). Small bonus to every skill related to runes.
 
 ## Chapter 49
 
@@ -475,6 +598,10 @@ Learns Basic Mana Reinforcement L1 (lotus ambient-mana drill). Hastened Reading 
 
 Mana Reinforcement practiced toward L3 (not confirmed unlocked). Common detection runic ball (sonar, ~50m). No new skill unlock.
 
+### Traits
+
+No new traits. World lore: Slave title (criminal / war / debt); collars noted.
+
 ## Chapter 58
 
 Runic grenades (Compression + Ethereal Pathways + scroll core). Water/freeze extinguish combo. Fire Blast (mana-empowered). Detection ball (low mana). Identify on farmer/cook family. No new skill unlock.
@@ -487,9 +614,17 @@ Fire Arrow paddle (deteriorating). Mana Arrow / Mana Bolt wand barrage. Debugger
 
 Debugger + Runecraft destroy collar prime runes. Fire Arrow paddle repaired and used. Mana Thrust on slotted arming sword vs Bocanach. Identify: Adolescent Bocanach L46. No new skill unlock.
 
+### Traits
+
+No new traits. Slave title lore: Judge class removal; ~100 year timer on these three.
+
 ## Chapter 61
 
 Identify usable in combat (Greater Mantodea L57). Incanted mage stall spells + Fire Blast. Mana Arrow. No new skill unlock.
+
+### Traits
+
+No new Roland traits. Note: high Charisma can charm (Aredhel 24).
 
 ## Chapter 62
 
@@ -566,3 +701,4 @@ Hardening on mace; Mana Shield on tower shield; Sharpness knife; common Mana Bol
 ## Chapter 80
 
 Arena-wide linked lightning/electric shock trap (lesser lightning runes + control plate; generator experience). Heat/flame weld wand. Greaves save vs Hell Hound bite. No permanent skill unlock yet (library next).
+

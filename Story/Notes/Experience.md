@@ -14,9 +14,12 @@ Running XP log. Kill formula and curve: `References/Levels.md`. Status screens: 
 | **4→5** | Off-page (named in Ch 6): estate one-on-one Goblin L1 fights after age 9 (**55** kills) | **55 × 50 = 2750** |
 | **5** | Ascension → **Mage L1**. Bank not applied on-page yet | Still banked |
 | **6** | Bank applied (½) → **Mage L3** empty | **1500** spent |
-| **7** | Last estate-pen goblins (already Mage; not pre-class) | Post-ascension |
+| **6→7** | Post-Mage estate weeks: fights escalate to **2× L1**; ~**3 months** | **25 × 50 = 1250** toward L4 |
+| **7** | Last estate-pen pair (already Mage; counted in the 25) | Still L3; bar **1250 / 1500** |
+| **8** | Guild registration; no fights | Still Mage L3; bar unchanged |
+| **9** | Forest hunt; levels on the **54** kill | **1250 + 263** → L4 overflow **13**; +**105** → **118 / 2000** |
 
-Ch 6: weekly one-on-ones after the 9th birthday. Locked count **55** estate L1s after bravery (year of weeks plus a few extras) so the half-bank lands L3 under `500 × L`.
+Ch 6: weekly one-on-ones after the 9th birthday. Locked count **55** estate L1s after bravery (year of weeks plus a few extras) so the half-bank lands L3 empty under `500 × L`. After Mage, weekly continues and turns to **two** L1s at a time for ~**3 months** (**25** kills including the Ch 7 finale) so the first Carwen hunt can finish L3→L4.
 
 ## Pre-class bank
 
@@ -47,5 +50,8 @@ Curve tables: `Levels.md`.
 
 | Ch | Source | XP | Notes |
 |---|---|---|---|
-| 7 | Last estate training goblins (Mana Bolt + sword) | not shown | Already Mage; clears the pen |
-| 9 | Forest goblins L3/L4/L5 | 52 / 53 / 53 / 54 | On-page; Mage L5→L6 |
+| 6→7 | Estate weekly **2× Goblin L1** over ~3 months (**25** kills incl. Ch 7 pair) | **1250** | Fills L3 bar to **1250 / 1500**; no level-up yet |
+| 7 | Last estate training pair (Mana Bolt eye + sword throat) | in the 1250 | Already Mage; clears the pen; no level-up line |
+| 9 | Forest goblins L3/L4/L2 then L4/L5 then L3/L4 | 52 / 53 / 51 / 53 / 54 / 52 / 53 | On-page; **1250 + 263** crosses 1500 on the **54** (Mage **L3→L4**, overflow **13 / 2000**); +**105** noise kills → **118 / 2000** |
+
+`XP_to_next(3) = 1500`. Entering Ch 9 with **1250** keeps the level-up on the **54** XP kill. Overflow after level-up is **(1250 + 263) − 1500 = 13** into the L4 bar (`XP_to_next(4) = 2000`).

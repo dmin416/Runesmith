@@ -52,6 +52,8 @@ First worked out by Roland in Chapter 2. Checked against later status sheets.
 - SP = (Endurance x 10) + (Strength x 3) + (Agility x 3)
 - MP = (Intelligence x 10) + (Willpower x 4)
 
+**1 mana ≈ 10 J** for physics checks (Mana Bolt budgets and similar). See `Science.md`.
+
 Skill, trait and class bonuses can raise displayed MP above the bare attribute total. Chapter 23: low mana → dizzy/sleepy; **zero MP** → splitting headache and possible pass-out, plus a next-day mana-regen debuff.
 
 ## Elemental affinities
@@ -72,7 +74,7 @@ Applies on top of attribute MP. Blessed by Mana adds flat MP per Mage level on t
 
 ## Attribute perks
 
-Rewrite map of one perk per core attribute at **40**. Full list and notes: `Traits.md` (Attribute perks).
+Rewrite map of one perk per core attribute at **40**. Full list and notes: `Skills.md` (Attribute perks under Traits).
 
 | Stat | Perk name | Perk theme | Threshold |
 |---|---|---|---|

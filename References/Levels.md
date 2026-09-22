@@ -50,7 +50,7 @@ Awards are **straightforward**: flat or simple by action. Class does **not** cha
 |---|---|
 | Monster kill (solo, full credit) | **(49 + monster level) × RaceMult** |
 | Goblin L1 (estate bravery) | **50** (49+1) |
-| Goblin L3 / L4 (first Carwen pair) | **52 / 53** |
+| Goblin L2 / L3 / L4 (first Carwen group) | **51 / 52 / 53** |
 | Typical early forest goblin (~L4) | **53** (RaceMult 1.0) |
 | First Kill achievement (on top of the kill) | **+200** (Chapter 4; not every kill) |
 | First-time basic / lesser rune schematic (drawing it into the system) | **1000** |
@@ -62,8 +62,8 @@ Awards are **straightforward**: flat or simple by action. Class does **not** cha
 |---|---|---|
 | Arden bravery test (age 9) | **Goblin L1** (HP 117) | Explicit status screen; XP **50** = 49+1 |
 | Weekly estate training | L1-tier training stock | Same pen as bravery test; **50** each |
-| First Carwen forest pair | **L3 and L4** | Roland’s Identify/read in thought; XP **52 / 53** |
-| Later same-day chase kills | **L4 / L5** (inferred) | XP **53 / 54**; triggers Mage L5→L6 (bar was not empty; spell XP also feeds) |
+| First Carwen forest group | **L2, L3 and L4** | Thought-ID; XP **51 / 52 / 53**; opens with mental ear bolt |
+| Later same-day chase kills | **L4 / L5** then **L3 / L4** | XP **53 / 54** (level-up) then **52 / 53**; Mage **L3→L4** when estate Mage doubles left the bar at **1250 / 1500** (`Experience.md`) |
 | Later Carwen forest nests | higher than estate, still common goblins | Levels not always shown; treat as low single digits unless the chapter names them |
 
 Other notes:
@@ -138,7 +138,7 @@ Source payouts were smaller (goblin ~15–20 XP, same **1000** first schematic).
 
 | Source beat | What happened | Implied cost (Source XP) |
 |---|---|---|
-| First adventurer day, Mage L5 | ~7 goblin ears; leveled once during the hunt | ~7 × 18 ≈ **125 XP** for L5→L6 (bar may not have been empty) |
+| First adventurer day, Mage L3 | ~7 goblin ears; leveled once during the hunt | estate Mage doubles left **1250 / 1500**; hunt **263** finishes L3→L4 |
 | ~3 months forest grind | L5 → ~L20 | many goblins/day plus spell/skill XP |
 | Party dungeon arc | ~half a year more toward Mage L25 cap | higher XP/fight than forest goblins |
 | First lesser schematic | **1000 XP**; “couple of levels” if spent right after a fresh class (low L) | 1000 ≈ 1–2 levels near overall L2–L3 |
@@ -331,7 +331,7 @@ Applies to **basic attributes except Luck and Charisma** unless a specific trait
 
 **Pure craft note:** plain Blacksmith / Weaponsmith / Armorsmith lines often have **no growth-rate trait** (stay at ×1 packages even at higher craft tiers). Hybrid prestige (Runesmith Lord, Overlord, Rune Arch-Knight) does get a rate. Matches Source’s “craft has no multiplier” talk without nerfing Roland’s prestige path.
 
-See `Traits.md` and `RolandClasses.md` for named traits.
+See `Skills.md` (Traits section) and `RolandClasses.md` for named traits.
 
 ---
 

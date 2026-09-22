@@ -8,9 +8,13 @@ Named magic and commonly referenced spell effects. Runic scroll versions are not
 First seen: Chapter 5
 Focused mana projectile; early core mage spell. Tutorial clone demonstrates chant + palm form before the skill dump. Damage scales with Intelligence. Chapter 7–9 field use: egg-sized bolt after a full chant (*Source of all magic, heed my call!* / *Gather before me and strike down my enemies, Mana Bolt!* or shortened closing *Mana Bolt!*). Fine vs eyes and other weak spots; not rapid-fire. **Must chant while shaping**; shaping alone evaporates. Whisper chant works but lowers power. Panting or running collapses the cast. Aim can track with Dexterity / prior FPS habit. Chapter 27: lesser elemental grafts (same research track as Mana Arrow). Chapter 37: inscribed on bronze paddle wands (~75 MP per cast through the item).
 
+**Speaking levels (rewrite physics):** shared `E(INT) = 118.9 × ln(1 + INT/100)` with Mana Arrow. Normal: pop = kinetic = E; speed = √(2E / 0.084). Other levels use shares of the INT 73 / 65 J anchor. Costs: Mental **15**, Whisper **15**, Quiet **20**, Normal **25**, Overcharged **40**, Overcharged max **50**. **1 mana ≈ 10 J.** Eye burst ~INT **70**; whisper vault kill ~INT **100+**. Full tables: `Science.md`.
+
 ### Mana Arrow
 First seen: Chapter 10
 Faster, more penetrating mana projectile than Mana Bolt. Costs more mana and needs a longer cast. Roland’s nest-opener from ~100 m trees; Chapter 11 entrance dungeon-rat one-shot. Class-granted with Mage progression (knowledge dump at level thresholds). Chapter 20 shop scroll: **1 small silver**. Chapter 27: Roland grafts lesser elemental variants (wind / fire / water) onto Mana Arrow base via Debugger research.
+
+**Rewrite physics:** pure kinetic (no pop), 4 mm × 400 mm, 40 g. `Kinetic = E(INT) × (mana/25)` with shared E. Punch `1.5 × R × A × t` (A = 0.1257 cm²). Hardness gate `H ≥ 1.5 R` before joules count: INT 40 clears mail, not brigandine/iron/steel. Hidden razor vanes slice on through-shots only. Full tables: `Science.md` (Mana Arrow).
 
 ### Magic Bolt
 First seen: Chapter 9

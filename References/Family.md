@@ -31,10 +31,10 @@ Ages at Chapter 3 dinner when Roland is about 5:
 | Sophia | 1st daughter | Tabitha | Older sister. |
 | Robert | 3rd son | Francine | Age 8 at the dinner. Mistress-born but still has standing because Francine lives in-house. Hostile to Roland. |
 | Dianna | Younger daughter | Francine | Younger sister relative to Sophia. |
-| Roland | 4th son | Unnamed commoner | Illegitimate. Mage L5 by Chapter 8. Leaves for Carwen at 10. |
+| Roland | 4th son | Unnamed commoner | Illegitimate. Mage L3 on the Chapter 8 guild read (rewrite stack). Leaves for Carwen at 10. |
 | Lucienne | Younger sister | Francine | About age 3 near Roland's departure (Chapter 7). Golden hair, green eyes. Seeks Roland’s hedge hideout in secret; Francine forbids contact. Birthday ~2 weeks after he leaves. Later Institute student. |
 
-At age 9 the boys take a bravery test against a dungeon goblin. **Weekly** goblin fights continue until ascension and feed the one-time pre-class XP bank.
+At age 9 the boys take a bravery test against a dungeon goblin. **Weekly** goblin fights continue until ascension and feed the one-time pre-class XP bank (**1v1** L1s). After Mage, weekly continues and escalates to **two** L1s at a time for ~**3 months** before Carwen (`Experience.md`).
 
 ## Household
 

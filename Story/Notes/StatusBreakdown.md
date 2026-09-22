@@ -32,7 +32,8 @@ Per-level packages from `Classes.md` / `Levels.md`. Mage: **+1 Intelligence and 
 |---|---|---|---|---|
 | Ch 1–5 | none | 0 | 0 | |
 | Ch 6 | Mage L3 | +3 | +3 | |
-| Ch 8 | Mage L5 | +5 | +5 | |
+| Ch 8 | Mage L3 | +3 | +3 | Guild read; still L3 |
+| Ch 9 | Mage L4 | +4 | +4 | First paid hunt |
 
 Blessed by Mana adds **MP only** (+10 MP per Mage level), not attributes.
 
@@ -155,7 +156,7 @@ MP = ((71×10)+(58×4))×1.2 + 10 Blessed = 942×1.2 + 10 = **1140**.
 
 All seven **40** attribute perks active.
 
-### Mage L3 (Ch 6) — full stack
+### Mage L3 (Ch 6–8) — full stack
 
 | Bucket | STR | AGI | DEX | VIT | END | INT | WILL | CHA | LUCK |
 |---|---|---|---|---|---|---|---|---|---|
@@ -166,7 +167,20 @@ All seven **40** attribute perks active.
 
 MP = ((73×10)+(60×4))×1.2 + 30 Blessed = 970×1.2 + 30 = **1194**.
 
-### Mage L5 (Ch 8) — full stack, still age-10 body
+Guild measuring crystal (Ch 8) uses this block. Estate Mage weekly doubles leave the XP bar at **1250 / 1500**. First paid hunt (Ch 9) levels **L3 → L4** (overflow **13 / 2000**, then **118 / 2000** after two more kills).
+
+### Mage L4 (Ch 9 end) — full stack, still age-10 body
+
+| Bucket | STR | AGI | DEX | VIT | END | INT | WILL | CHA | LUCK |
+|---|---|---|---|---|---|---|---|---|---|
+| Body | 15 | 20 | 16 | 14 | 13 | 18 | 25 | 3 | 7 |
+| Class | 0 | 0 | 0 | 0 | 0 | 4 | 4 | 0 | 0 |
+| Skills/Traits | 25 | 20 | 34 | 26 | 27 | 52 | 32 | 4 | 0 |
+| **Total** | **40** | **40** | **50** | **40** | **40** | **74** | **61** | **7** | **7** |
+
+MP = ((74×10)+(61×4))×1.2 + 40 Blessed = 984×1.2 + 40 = **1220.8 → 1221**.
+
+### Mage L5 — full stack, still age-10 body (later hunt levels)
 
 | Bucket | STR | AGI | DEX | VIT | END | INT | WILL | CHA | LUCK |
 |---|---|---|---|---|---|---|---|---|---|

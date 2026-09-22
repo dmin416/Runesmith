@@ -59,7 +59,8 @@ Offered beside it at T3: Advanced Runesmith, Master Runesmith, Master Runesmith 
 ## Early rewrite notes (Chapters 1–10)
 
 - Chapter 5: Tier 1 Mage via memory-apartment PC confirm. Affinities all 0%. Crystal dusts. Banked pre-class XP still pending Chapter 6 application.
-- Chapter 6: Mage L3 from one-time pre-class XP bank. Affinity dead-end. Plans Runesmith via Blacksmith and Mana Scrybe. Lustile denied. Must earn keep as low-level mage; hide Arden name from crafting.
-- Chapter 7: Sent to Carwen cabin (pressure toward army). Packs calligraphy books. Live Basic skill screen is legacy L9 cluster.
-- Chapter 8: Bronze adventurer (first name only). Mage L5 on guild read. Class-up crystal buried for Blacksmith / Mana Scrybe.
+- Chapter 6: Mage L3 from one-time pre-class XP bank. Affinity dead-end. Plans Runesmith via Blacksmith and Mana Scrybe. Lustile denied. Must earn keep as low-level mage; hide Arden name from crafting. Weekly goblin fights continue after class.
+- Chapter 7: ~3 months of weekly **2× L1** estate clears fill **1250 / 1500** toward L4. Last pen pair on-page. Sent to Carwen cabin (pressure toward army). Packs calligraphy books. Live Basic skill screen uses age-10 `Progression.md` targets (Sword/H2H/Sneak L8; Running/Sprint/Climbing/Throwing/Leather L9).
+- Chapter 8: Bronze adventurer (first name only). Guild orb **Mage L3** on the rewrite stack (Source was Mage L5 old sheet). Class-up crystal buried for Blacksmith / Mana Scrybe.
+- Chapter 9: First Carwen hunt finishes Mage **L3→L4**. End pouch **933 LC**.
 - Chapter 10: Mage L20; Goblin Hunter title; prefers Mana Scrybe before Blacksmith; Edelgard goal; joins Becky / Sahildr / Reyna.

@@ -26,7 +26,7 @@ Human-majority kingdom. Roland wakes here as a son of House Arden. Fairly large 
 
 ### Arden estate / mansion
 First seen: Chapter 2
-Baron Arden's home. Roland's room starts on the top floor in a side wing. After Mana Sense standing rises (Chapter 4), he moves into better quarters in the family inner circle. Servants bow; brothers resent him. Fields outside use Trox for plowing. Mansion **dungeon** holds training goblins for the age-9 bravery test and weekly clears. Hedge gap near the ladies’ flower garden is Roland’s sandwich hideout (Chapter 7; Lucienne finds it).
+Baron Arden's home. Roland's room starts on the top floor in a side wing. After Mana Sense standing rises (Chapter 4), he moves into better quarters in the family inner circle. Servants bow; brothers resent him. Fields outside use Trox for plowing. Mansion **dungeon** holds training goblins for the age-9 bravery test, weekly **1v1** clears into the pre-class bank, then weekly **2×** clears for ~3 months after Mage. Hedge gap near the ladies’ flower garden is Roland’s sandwich hideout (Chapter 7; Lucienne finds it).
 
 ### Arden library
 First seen: Chapter 3

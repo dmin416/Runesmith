@@ -17,13 +17,12 @@ Update these together when a chapter changes his sheet. Keep history by chapter.
 |---|---|
 | Status / HP MP SP / attributes / class / effects / affinities / rank | `Status.md` |
 | Attribute bucket math (Body / Class / Skills-Traits) | `StatusBreakdown.md` |
-| Skills (Passive, Active, Spell, Class bonuses listed as skills) | `Skills.md` |
-| Traits | `Traits.md` |
+| Skills, traits, titles (Passive, Active, Spell, Class bonuses, trait cards) | `Skills.md` |
 | Gear / carried items / Identify item blocks | `Items.md` |
 | First-clear skill index / Source delay list | `Roland's Skills.md`, `Early Logical Skills.md` |
 | Rewrite intent, plot beats, companion type, formatting rules | `Notes.md` |
 
-Skills and traits often share one chapter menu. Split them in the notes files anyway.
+Skills and traits often share one chapter menu. File both under that chapter in `Skills.md` (use a Traits subsection when useful).
 
 Current note coverage: Chapters 1 through 80.
 
@@ -33,8 +32,7 @@ Also update the matching reference when a named thing is new, renamed or its des
 
 | Topic | File |
 |---|---|
-| Skills | `References/Skills.md` |
-| Traits | `References/Traits.md` |
+| Skills and traits | `References/Skills.md` |
 | Attributes and resource formulas | `References/Attributes.md` |
 | Body / mental age tracks, technique ranks, daily loop | `References/Progression.md` |
 | Spells | `References/Spells.md` |
@@ -64,11 +62,11 @@ Displayed = Body + Class levels + Skills/Traits (+ Other if needed)
 - Never rewrite older chapter entries when something levels later. Append the new level under the chapter where it happens. Leave transfer and prior snapshots alone (add rewrite-target notes beside them).
 - Chapter text shows what the scene shows. System level-up lines in prose do not have to list every stat bonus. **Stat bonuses still go in Notes** (`Skills.md`, `Status.md`, `Roland's Skills.md`, `Notes.md`) under that chapter. Do not drop the bonus from notes because it was removed from chapter wording.
 - Skill rename in rewrite (example: Technology vs old Circuitry). Fix chapter, Story/Notes and References.
-- Trait listed under the Skills menu in chapter text. Still file it under Traits in notes and References.
+- Trait listed under the Skills menu in chapter text. Still file it under the Traits subsection in `Skills.md` (Notes and References).
 - Class bonuses and affinity screens. Put them in Status for that chapter, and Spells or Skills if they unlock named abilities.
 - Resource math. If formulas change, update `References/Attributes.md` and any Status note that quotes them.
 - Later chapters. When filing a new status block, keep earlier chapter entries. Append. Do not overwrite the history.
-- Do not treat Ch 7 “all Basics L9” as canon. Use `Progression.md` age-10 technique targets.
+- Do not treat Source Ch 7 “all Basics L9” / Leather L4 as canon. Live Story Ch 7 uses `Progression.md` age-10 technique targets.
 
 ## Quick pass after an edit
 

@@ -31,10 +31,10 @@ Excludes Agni, Millie, Bernir, Lucille, Robert, Arthur skills and traits.
 19. Basic Throwing – Ch ~4 – Dexterity +level
 20. Basic Sneaking – Ch ~4 – Agility +level
 21. Basic One-handed Swordsmanship – Ch ~4 – Strength +level
-22. Basic Leather Armor proficiency – Ch ~4–7 – Endurance +level
+22. Basic Leather Armor proficiency – Ch ~4–7 – Vitality +level, Endurance +level; **L9** on Ch 7 train screen
 23. Reading Proficiency – early Arden library (Roland track: L7 at age 5, L9 by age 7) – Intelligence +level
 
-Age-10 technique targets (not all L9): see `Progression.md` / Ch 7 note in `Skills.md`. Chapter 7: packs calligraphy books (Basic Calligraphy grind starts; L9 by Ch 13). Live train skill list is legacy L9 cluster.
+Age-10 technique targets: see `Progression.md` / Ch 7 note in `Skills.md`. Chapter 7 train screen is **live** at those targets (Sword/H2H/Sneak L8; Running/Sprint/Climbing/Throwing/Leather L9). Packs calligraphy books (Basic Calligraphy grind starts; L9 by Ch 13).
 
 ## Tier 1 Mage (Ch 5)
 
