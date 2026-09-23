@@ -306,9 +306,12 @@ XP shown matches `49 + monster level` (L2=51 … L5=54). Source used ~15–20 pe
 ## Chapter 9.5
 
 Three-month rewrite grind (Source has no separate chapter; Ch 10 opens already at L20). **1,481** goblin kills; lifetime **1,569**. Field-use curve in `Levels.md`; end ranks in `Skills.md` Ch 9.5. **L9 hard cap until first T2.** Absorption / Reinforcement cycle whenever mana is spent → both **L9** (Reinforcement self-taught from ambient→body store, not a book). Also: Shaping **L6**, Regulation **L7**, Incantation **L6**, Bolt **L7**, Arrow **L5**, Shield **L3**, Hand to Hand / Leather / Sprint stay **Basic L9**; Running / Climbing / Sneaking / Throwing / Swordsmanship → **plain L1**; Marksmanship → **Expert Marksmanship L1**; **Basic Dodging L6**. Ember **L6** / Hands **L5** (evenings). End **Mage L20** → Int **129** / Will **127** / MP **2358**; physicals **46/50/56/41/42**; HP **536** / SP **708**. Evolve pads **additive** (Basic L9 stay + Level 2 L1 + free points). Month beats: ~L11–12 + Arrow + Dodging; ~L16–17 + Shield + nickname; L20 + Goblin Hunter (past **1000** kills). Coin end **6,000 LC**; stones gathered **296** (kept after Ch 9 day one). Food: inn breakfast+dinner; **3** jerky bought; other lunches = goblin prey. Cloak **300 LC**. Ledger: `Experience.md`.
+
 ## Chapter 10
 
 **Present day after Ch 9.5.** Title **Goblin Hunter**. Nickname Little Goblin Slayer (grins through mascot ribbing). Nest opener then guild turn-in before the inn sheet. Mage L20 live sheet at the inn (beef jerky) matches rewrite Ch 10 block in `StatusBreakdown.md` (Int **129** / Will **127** / MP **2358**; physicals **46/50/56/41/42**; HP **536**; SP **708**; Cha **11** / Luck **7**). Rents upstairs room at the Chapter 9 inn. Armor/sword already long repaired. Plans Mana Scribe first (magic-track lean; no elemental path for pure Mage), then Blacksmith; next city **Edelgard**. Clumsy Arden watcher in town. Joins Becky / Sahildr / Reyna for dungeon (age dodge: answers **Roughly** to 11-or-12; will not admit **10**).
+
+**Coin / stones:** enter **6,000 LC** / **296** stones → nest ears **+35 LC** / stones **+2** → end **6,035 LC** / **298** stones (`Experience.md`).
 
 ```
 ════════ TITLE ═════════
@@ -343,7 +346,7 @@ Rewrite stack applied: HP = Vit×10+End×3; SP = End×10+Str×3+Agi×3; MP = ((I
 
 ## Chapter 11
 
-No full status screen. First Carwen Dungeon day: entrance dungeon rat (Mana Arrow) then Emerald Wilderness spiked boars. Idle party share **5 XP** on the first boar; higher share when he casts Mana Shield and helps. Mana Sense locates dungeon stones. Equal money split after material sales. No new attribute sheet.
+No full status screen. First Carwen Dungeon day: entrance dungeon rat (Mana Arrow) then Emerald Wilderness spiked boars. Idle party share **5 XP** on the first boar; higher share when he casts Mana Shield and helps. Mana Sense locates dungeon stones. Equal money split after material sales. Enter from Ch 10: pouch **6,035 LC**, stones **298**. No new attribute sheet.
 
 ## Chapter 12
 

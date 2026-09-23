@@ -86,3 +86,13 @@ Curve tables: `Levels.md`.
 | Repairs / spare robe / early food-hunt tastes | **−264 LC** |
 | **End pouch (into Ch 10)** | **6,000 LC** (**6 SG**) |
 | Stones on person | **296** rice-grain |
+
+## Ch 10 money / stones (nest opener)
+
+| Item | Amount |
+|---|---|
+| Enter pouch (end Ch 9.5) | **6,000 LC** |
+| Nest ear bounty (**7 × 5 LC**) | **+35 LC** |
+| Nest rice-grain stones | **+2** (kept) |
+| **End pouch (into Ch 11)** | **6,035 LC** |
+| Stones on person | **298** rice-grain |

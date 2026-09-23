@@ -108,5 +108,6 @@ Still needs attention when touching these beats:
 | Mana Bolt joule / Int curve | `References/Science.md`, chapter fight beats | Keep formula and on-page damage language aligned when editing fights. |
 | Meal / lodging quotes | `Economy.md`, `Places.md`, Ch 9 Notes | Meal **5 LC**; lodging **1 SS**/night + **5 LC** breakfast; monthly ~**10%**. |
 | Goblin Hunter title | `Skills.md` / `Status.md` Ch 9.5–10 | Past **1000** kills into the skip; card text matches chapter. |
-| Source delay skills | `Roland's Skills.md`, `Early Logical Skills.md` | Absorption/Reinforcement already owned in rewrite; later book chapters = rank practice only. |
+| Ch 10 nest ledger | `Experience.md`, `Items.md`, `Status.md`, `Notes.md` | **+7** kills → **1,576**; pouch **6,035 LC**; stones **298**. |
+| Source delay skills | `Roland's Skills.md`, `Early Logical Skills.md` | Absorption/Reinforcement already owned in rewrite; Ember/Hands self-taught Ch 9.5; later book chapters = rank practice only. |
 | Search Scrybe | Story / Notes / References / `.cursor` | Must stay empty. `Source/` may keep Scrybe. |

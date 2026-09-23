@@ -126,3 +126,5 @@ Three-month Carwen grind (rewrite bridge; Source has no separate chapter).
 ## Chapter 10
 
 **Present day after Ch 9.5.** Same Carwen kit plus thick wool cloak and spare robe from the grind; upstairs inn room rented. Goblin Hunter title. Nest opener: **7** kills (**1** at level, **6** slightly lower), **2** stones, underseasoned gamey boar leg. Guild ear turn-in **+35 LC**. Armor and sword already long repaired. Party invite with Becky / Sahildr / Reyna at chapter end. Pouch **6,000 LC** into chapter → **6,035 LC** after guild; stones **296→298**.
+
+**Still carrying into Ch 11:** leather (repaired), shortsword (repaired), hunting knife, thick wool cloak, spare robe, small mirror, adventurer card, local map, calligraphy stock, coin pouch (**6,035 LC**), **298** rice-grain mana stones, buried class-up crystal.

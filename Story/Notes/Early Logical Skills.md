@@ -72,12 +72,12 @@ These should stay behind class, pain, or politics even if he is clever:
 
 1. **Transfer:** Debugger, Technology, Tinkerer, Sleep Resistance, Marksmanship, Cooking, Acting, Logical Thinker, Fast Learning, Knowledge Retention, Hastened Reading L2, Parallel Thinking, Basic Mathematics, Map Reading, strong Reading Proficiency (L7+).
 2. **First in-Terra unlock:** Analyze L1 from the status analysis. Identify stays boy-tier until Analyze eats the deep work.
-3. **First mana week:** deliberate ambient absorption drills → Mana Regulation comes natural at Mage; Mana Sense climbs fast (Int +level).
+3. **First mana week:** deliberate ambient absorption drills seed the later **Mana Absorption** / Regulation path at Mage; Mana Sense climbs fast (Int +level). Full Absorption + Reinforcement land in Ch 9.5.
 4. **Library:** Hastened Reading + Analyze + Reading Proficiency level off books. Body Int/Will also rise on the adult-mind age track from daily reading.
 5. **Combat basics:** unlock by doing; ranks follow `Progression.md`; attribute bonuses stack in `StatusBreakdown.md`.
 
 ## Open naming
 
-- Call ambient pull **Basic Mana Regulation** early, or a weaker **Ambient Mana Absorption** that merges into Regulation at Mage.
+- **Mana Absorption** and **Mana Reinforcement** are separate store skills unlocked in Ch 9.5 (self-taught ambient pull / body store). Do not merge Absorption into Regulation.
 - Parallel Thinking as **trait** vs **skill**: trait fits transfer; skill fits if the system rewards multitasking practice.
 - Analyze vs Identify: Identify = name/tag; Analyze = formulas, rates, failure points, “how does this work.”

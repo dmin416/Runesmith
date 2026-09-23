@@ -154,7 +154,7 @@ Rewrite-only timeskip (~3 months). Source folds this into the opening of Ch 10 a
 
 ## Chapter 11
 
-- First dungeon day with Becky / Sahildr / Reyna. Entrance corridor: dungeon rat weaker than a goblin; Roland one-shots it with Mana Arrow (more mana and longer cast than Bolt). Incantation levels with spell use. Girls treat it as a test.
+- First dungeon day with Becky / Sahildr / Reyna. Entrance corridor: dungeon rat weaker than a goblin; Roland one-shots it with Mana Arrow (more mana and longer cast than Bolt). Incantation levels with spell use. Girls treat it as a test. Enter kit from Ch 10: pouch **6,035 LC**, **298** rice-grain stones. Live look: **black hair**, green eyes (short party member).
 - Formation: Sahildr + Reyna front, Becky + Roland back. Reyna is Scout + Thief; sniffs air; rarely speaks (sleepy high voice). Beast race tribes mostly stay apart (feline, ursine, lizardlike and variants within).
 - Floor 1: Emerald Wilderness (Steel hunting ground). Maze corridors open into a kilometers-wide jungle under an artificial sun; mana feels peculiar. Floors go to a 10th-floor boss (guild appointment; week respawn; strong parties/guilds hog the room).
 - Spiked boar: Sahildr two-handed hammer tanks; Reyna dagger; Becky eye-shot; Sahildr finish. Spectating gives Roland **5 XP**. Party share needs close overall level and same tier; T1 gets nothing in a T2 party (anti power-level even if the higher tier cripples and the lower tier finishes). Active participation pays more XP.

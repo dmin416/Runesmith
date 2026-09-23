@@ -14,6 +14,8 @@ Focused mana projectile; early core mage spell. Tutorial clone demonstrates chan
 First seen: Chapter 10
 Faster, more penetrating mana projectile than Mana Bolt. Costs more mana and needs a longer cast. Roland’s nest-opener from ~100 m trees; Chapter 11 entrance dungeon-rat one-shot. Class-granted with Mage progression (knowledge dump at level thresholds). Chapter 20 shop scroll: **1 small silver**. Chapter 27: Roland grafts lesser elemental variants (wind / fire / water) onto Mana Arrow base via Debugger research.
 
+**Locked chant:** *Source of all magic, heed my call. Gather before me and form an arrow to pierce through my enemies. Mana Arrow.* Short fight close: *Mana Arrow!*
+
 **Rewrite physics:** pure kinetic (no pop), 4 mm × 400 mm, 40 g. Same cast law as Mana Bolt at **2× voice mana** (Mental **20**, Whisper **30**, Quiet **40**, Normal **50**, Loud **80**, Very loud **100**). Overcharge = mana used. Punch `1.5 × R × A × t` (A = 0.1257 cm²). Hardness gate `H ≥ 1.5 R` before joules count: INT 40 clears mail, not brigandine/iron/steel. Hidden razor vanes slice on through-shots only. Full tables: `Science.md` (Mana Arrow).
 
 ### Magic Bolt

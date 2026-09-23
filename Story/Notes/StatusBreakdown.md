@@ -247,6 +247,7 @@ Reinforcement while active: **+90%** of max MP as bonus base stats (L9 × 10%, 9
 | Ch 2 | Int 41 / Will 18 | Int **42** / Will **25** (new mental body) |
 | Ch 4–5 | Body physicals + transfer Dex + old mental seeds | + Basic STR/AGI/DEX/END pile + rising Int/Will body |
 | Ch 6–8 | Above + Mage packages | Same debts |
+| Ch 10 | Inn sheet **matches** Mage L20 block above | Synced (HP **536** / MP **2358** / SP **708**) |
 
 Partial path without Basics (body mental + transfer skills/traits only):
 
