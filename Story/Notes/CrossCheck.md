@@ -97,13 +97,12 @@ Displayed = Body + Class levels + Skills/Traits (+ Other if needed)
 
 ## Open checks (Ch 1–10 rewrite pass)
 
-Synced for the live Ch 1–9.5 rewrite: estate doubles → Ch 9 L3→L4, Ch 9.5 kill/coin/stone ledger (**1,481** / end **6,000 LC** / **296** stones), Absorption/Reinforcement self-taught, Scribe spelling, Ch 9.5 destination = research only.
+Synced for the live Ch 1–10 rewrite: estate doubles → Ch 9 L3→L4, Ch 9.5 kill/coin/stone ledger (**1,481** / end **6,000 LC** / **296** stones), Ch 10 nest (**+7** / stones **298** / pouch **6,035 LC**), rewrite L20 inn sheet, Absorption/Reinforcement self-taught, Scribe spelling, Ch 9.5 destination = research only, Ch 10 picks **Edelgard**.
 
 Still needs attention when touching these beats:
 
 | Item | Where | Check |
 |---|---|---|
-| Ch 10 live inn sheet | `Status.md`, chapter prose | Still Source-era numbers; rewrite target is `StatusBreakdown.md` Ch 10. Retcon sheet when rewriting Ch 10 stats on-page. |
 | Ch 10 Edelgard goal | `Notes.md`, `Status.md`, `RolandClasses.md`, chapter | OK for Ch 10+. Must stay out of Ch 9.5 close. |
 | Ch 10+ party / dungeon notes | Notes 11–80 | Written to Source plot. Re-audit when those chapters are rewritten. |
 | Mana Bolt joule / Int curve | `References/Science.md`, chapter fight beats | Keep formula and on-page damage language aligned when editing fights. |

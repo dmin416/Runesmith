@@ -36,7 +36,7 @@ Lower-tier shield spell.
 
 ### Mana Hands / Mana Hand / Mage Hand
 First seen: Chapter 10
-Telekinetic mana hands. Weight and range scale with Intelligence. Learned from an Arden estate spell book (not a free class grant). Mage Hand is the common cast name later. Lift / throw / hold energy tables: `Science.md` (Mana Hands).
+Move objects with mana (lift, fetch, hold, shove). Visible hands are optional; the name stuck. Weight and range scale with Intelligence. Self-discovered early (not a free class grant). Mage Hand is the common cast name later. Lift / throw / hold energy tables: `Science.md` (Mana Hands).
 
 ### Lesser Mana Burst
 First seen: Chapter 437
@@ -50,7 +50,7 @@ Large destructive projectile spell.
 
 ### Ember
 First seen: Chapter 10
-Small fire via mana friction. Learned from an Arden estate spell book with Mana Hands. Utility ignite. Ignition energy table: `Science.md` (Ember).
+Small fire via mana friction. Self-discovered early with Mana Hands. Utility ignite. Ignition energy table: `Science.md` (Ember).
 
 ### Fire Bolt / Firebolt
 First seen: Chapter 31

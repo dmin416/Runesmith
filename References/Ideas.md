@@ -41,11 +41,28 @@ Rewrite directions for this project. Source is loot, not a script. Reader stop p
 
 ### World laws: skill levels
 
-- Every skill ranks **L1 through L9**. **L9 is the hard max** for that skill name.
-- Crossing the next threshold does not show L10. The skill **evolves** into a more advanced skill (Basic X → X → Advanced/Expert form, naming per tree).
-- Stat bonuses and numeric effects scale with the current skill’s level. Evolved skills start at L1 again and apply to a higher tier of work.
+- Every skill name ranks **L1 through L9**. **L9 is the hard max** for that name.
+- Crossing the next threshold does not show L10. The skill **evolves** into the next prefix form. The new name starts at L1 again and covers a higher band of work.
+- Stat bonuses and numeric effects scale with the current skill’s level.
 - Source L10 “past the wall” wording becomes evolution events, not a tenth level on the same skill.
-- **Technique scale:** levels measure form / efficiency / timing / decisions, not body power. L5 = dedicated adult amateur, L7 = competitive or professional, L9 = pinnacle of normal human technique. Early Basic skill ranks by age: see `Progression.md`.
+- **Technique scale:** levels measure form / efficiency / timing / decisions, not body power. L5 = dedicated adult amateur, L7 = competitive or professional, L9 = pinnacle of normal human technique on that prefix. Early Basic ranks by age: see `Progression.md`.
+
+**Skill evolution prefixes (full scheme, rough convention):**
+
+| Evolution tier | Prefix | Example |
+|---|---|---|
+| 1 | **Basic** / **Lesser** | Basic Forging, Lesser Rune Duplication |
+| 2 | *(none)* | Forging, Rune Duplication |
+| 3 | **Expert** / **High** | Expert Forging, High Analyze |
+| 4 | **Overlord** / **Master** | Overlord's Might, Master Forging |
+| 5 | **Legendary** / **Grandmaster** | Legendary Runecraft, Grandmaster Forging |
+
+Each prefix is its own skill name with its own L1–L9 bar. Trees pick one naming style per branch (Basic→plain→Expert→Master→Grandmaster, or Lesser→plain→High→…, or Overlord-flavored names). Exact display names can tune per skill; the five-step ladder is the law.
+
+**Special skills (outside the evolution track):**
+- Some skills are **not** on the Basic→…→Legendary ladder at all.
+- Examples: **Technology**, Source-era **Circuitry**, and similar transfer / category skills.
+- They are gained once (or under their own rules), do not evolve through the prefix scheme, and may not level by the standard tier ladder. Treat as their own category when writing sheets and upgrades.
 
 ### World laws: rune ranks (5)
 
@@ -89,7 +106,7 @@ Same bar for **build** skills: Marksmanship changes hit chance and kit design. A
 
 Idea only. Not on early sheets.
 
-- **Mana Hands** (Ch 10 spell from the Arden book) stays an **active cast**: make temporary mana hands, lift light objects, short range. Spell ranks L1–L9 like other spells.
+- **Mana Hands** (Ch 10 spell, self-discovered) stays an **active cast**: move objects with mana (lift, fetch, hold, shove). Visible hands optional. Spell ranks L1–L9 like other spells.
 - Above **Basic Mana Shaping** / **Mana Shaping** sits a separate **passive** telekinesis / mage-hand skill (name TBD: e.g. **Mana Telekinesis**, **Telekinetic Grip**, **Silent Hands**).
 - **Gate:** unlockable only after Roland holds a **Tier 2** class. Maxing Basic Mana Shaping at Tier 1 is not enough. No T1 evolve path into this skill.
 - **Feel:** always-on fine force at short range without a full chant. Hold tools, catch dropped parts, brace a shield rim, pluck a fuse, steady a launcher while both hands are busy. Costs a thin ambient MP trickle or spikes when he pushes weight / speed. Levels raise mass, range, precision and multitask count.
@@ -113,7 +130,7 @@ Idea map for what a common **Class / Tier 1 Mage** is expected to learn besides 
 | Spell | Mana Bolt → Arrow | Ranged attack tree |
 | Spell | Mana Shield | Barrier |
 | Spell | Ember | Tiny friction fire (book) |
-| Spell | Mana Hands | Active telekinetic hands (book) |
+| Spell | Mana Hands | Active mana-move / telekinesis (hands optional) |
 
 #### Foundations a T1 mage might still learn
 
@@ -311,4 +328,5 @@ See `Story/Notes/Early Logical Skills.md`. Short version: Basic Mathematics and 
 - Finalize Early Logical Skills naming (Ambient Mana Absorption vs early Regulation; Parallel Thinking trait vs skill).
 - Temp skill rewrite pass: `References/TempRolandSkillChanges.md` (merge then delete).
 - Name and lock the Tier 2+ passive telekinesis / mage-hand skill above Mana Shaping (`Ideas.md` Systems).
-- **Goblin Hunter** unlock threshold: **1000** goblin kills (locked). Ch 9.5 grants it in month 3 once past **1000** into the skip; end skip at **1,481** Carwen kills / **1,569** lifetime (`Experience.md`). Later Goblin Slaughterer may need its own kill or boss gate.
+- **Goblin Hunter** unlock threshold: **1000** goblin kills (locked). Ch 9.5 grants it in month 3 once past **1000** into the skip; end skip at **1,481** Carwen kills / **1,569** lifetime; Ch 10 nest → **1,576** lifetime (`Experience.md`). Later Goblin Slaughterer may need its own kill or boss gate.
+- Ordinary-person skill list + L9 training times: `References/NormalPersonSkills.md` (through Expert; no system acceleration).

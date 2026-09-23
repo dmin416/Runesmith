@@ -4,7 +4,9 @@ Temporary pass. Apply world laws from `Ideas.md`: skills **L1–L9 then evolve**
 
 **Global rules for every skill below**
 
-- Cap at L9. No L10 on the same name. Evolution starts the next form at L1 (unless noted as higher-order or tier-gated).
+- Cap at L9. No L10 on the same name. Evolution starts the next prefix form at L1 (unless noted as higher-order, special, or tier-gated).
+- **Prefix ladder:** Basic/Lesser → *(none)* → Expert/High → Overlord/Master → Legendary/Grandmaster (`Ideas.md` / `Levels.md`).
+- **Special skills** (Technology and similar) are outside that ladder.
 - For **build skills** (combat, runes, perception, core craft): numbers big enough that L1 matters and L9 changes plans. Soft “slightly faster / small bonus” text is banned.
 - **Flavor / behind-the-scenes skills** (Sleep Resistance, Cooking, Technology, Acting, Basic Mathematics, Map Reading, and similar): keep light. They help in the background and justify scenes; do not redesign into combat math or heavy % tables.
 - Stat bonuses tied to level stay fine.
@@ -33,7 +35,7 @@ Temporary pass. Apply world laws from `Ideas.md`: skills **L1–L9 then evolve**
 **Flavor skill.** Keep soft food proficiency and small Dex/Agi. No meal-buff combat system. Background life and camp color only.
 
 ### Marksmanship L7
-**Change:** Core combat identity. Transfer at **L7** (see `Progression.md` firearms justification). Aim bonus, drop compensation, reload discipline. Concrete: hit chance / grouping tightens per level; L9 reliable aimed shots under stress. Evolve → **Sharpshooting** / **Runic Marksmanship**: guided or rune-assisted projectiles. Priority over sword trees.
+**Change:** Core combat identity. Transfer at **L7** (see `Progression.md` firearms justification). Aim bonus, drop compensation, reload discipline. Concrete: hit chance / grouping tightens per level; L9 reliable aimed shots under stress. Evolve → **Expert Marksmanship** (Dex +level, Will +level). Later optional: Runic Marksmanship for guided / rune-assisted projectiles. Priority over sword trees.
 
 ### Acting L4
 **Flavor skill.** Keep soft role/expression proficiency and +Cha. Background for cover and social color; no Infiltration evolution or anti-Identify combat system required.

@@ -15,6 +15,7 @@ Running XP log. Kill formula and curve: `References/Levels.md`. Status screens: 
 | Ch 6→7 estate Mage pairs | **25** | **81** |
 | Ch 9 forest day | **7** | **88** |
 | Ch 9.5 Carwen grind | **1,481** | **1,569** |
+| Ch 10 nest opener | **7** | **1,576** |
 
 Ch 9.5 = L4→L20 kill volume at matched-goblin pace (~**16–17**/day over ~**90** days). Spell/skill rank XP still lands (~**13.4k** after kill XP) but does **not** cut the kill count.
 
@@ -31,7 +32,7 @@ Ch 9.5 = L4→L20 kill volume at matched-goblin pace (~**16–17**/day over ~**9
 | **8** | Guild registration; no fights | Still Mage L3; bar unchanged |
 | **9** | Forest hunt; levels on the **54** kill | **1250 + 263** → L4 overflow **13**; +**105** → **118 / 2000** |
 | **9.5** | **1,481** matched goblins → **Mage L20** | Month beats **M1 ~L11–12**, **M2 ~L16–17**, **M3 → L20**. Kill XP ~**78.5k**; spell/skill ranks fill the rest (~**13.4k**) |
-| **10** | Present day after timeskip → **Mage L20** | Live sheet at the inn; nest opener already mid-grind form |
+| **10** | Nest opener + present day → **Mage L20** | **+7** kills (**1** matched / **6** slightly lower); **+2** stones; ear turn-in **+35 LC** → pouch **6,035**; inn sheet |
 
 Ch 6: weekly one-on-ones after the 9th birthday. Locked count **55** estate L1s after bravery (year of weeks plus a few extras) so the half-bank lands L3 empty under `500 × L`. After Mage, weekly continues and turns to **two** L1s at a time for ~**3 months** (**25** kills including the Ch 7 finale) so the first Carwen hunt can finish L3→L4.
 
@@ -68,7 +69,7 @@ Curve tables: `Levels.md`.
 | 7 | Last estate training pair (Mana Bolt eye + sword throat) | in the 1250 | Already Mage; clears the pen; no level-up line. **+1** rice-grain mana stone from the second |
 | 9 | Forest goblins L3/L4/L2 then L4/L5 then L3/L4 | 52 / 53 / 51 / 53 / 54 / 52 / 53 | On-page; **1250 + 263** crosses 1500 on the **54** (Mage **L3→L4**, overflow **13 / 2000**); +**105** noise kills → **118 / 2000** |
 | 9.5 | **1,481** matched forest goblins | ~**78,493** kill XP (×53 avg) | Enter **118 / 2000** at L4; need ~**91,882** to L20; spell/skill ranks supply ~**13,389**. Month beats M1 ~L11–12 / M2 ~L16–17 / **L20**. Goblin Hunter in M3 (past **1000** kills into the skip). Named late kill: **Goblin Shaman L23** (inside the 1,481) |
-| 10 | Present after timeskip | at **L20** | Nest opener: **7** kills (**1** matched level, **6** slightly lower); **+2** stones (**296→298**); boar leg (underseasoned, gamey). Inn sheet; plans last five to Mage cap then Mana Scribe |
+| 10 | Nest opener then inn sheet | at **L20** | **7** kills: **1×** matched (**69** XP) + **6×** slightly lower (~**L18–19**, ~**67–68** each) → ~**471–477** XP into the L20 bar. **+2** stones (**296→298**); ears **+35 LC** → pouch **6,035 LC**; boar leg (underseasoned, gamey). Plans last five to Mage cap then Mana Scribe |
 
 `XP_to_next(3) = 1500`. Entering Ch 9 with **1250** keeps the level-up on the **54** XP kill. Overflow after level-up is **(1250 + 263) − 1500 = 13** into the L4 bar (`XP_to_next(4) = 2000`).
 

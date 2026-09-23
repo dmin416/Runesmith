@@ -197,7 +197,7 @@ MP = ((75×10)+(62×4))×1.2 + 50 Blessed = 998×1.2 + 50 = **1248**.
 
 Combat math: `Levels.md` field-use curve; table in `Skills.md` Ch 9.5. **L9 hard cap until first T2.**
 
-Physical Basics: Sword / Sneak / Hand to Hand / Marksmanship → **L9**. Others already L9. Mana skills:
+**Evolves in the skip (plain / Expert start at L1):** Running, Climbing, Sneaking, Throwing, One-Handed Swordsmanship; Marksmanship → **Expert Marksmanship**. Free evolve points: Run→End, Climb→Str, Sneak→Agi, Throw→Dex, Sword→Str, Marks→Dex. **Stay Basic L9:** Sprint, Hand to Hand, Leather. **Basic Dodging** ends **L6**. Mana skills:
 
 | Skill | Ch 9 | Ch 10 | Source of levels |
 |---|---|---|---|
@@ -208,28 +208,35 @@ Physical Basics: Sword / Sneak / Hand to Hand / Marksmanship → **L9**. Others 
 | Mana Reinforcement | — | **L9** | held while the pool is working (combat) |
 | Mana Bolt / Arrow / Shield | L1 / — / — | **L7 / L5 / L3** | combat casts |
 | Ember / Mana Hands | self | **L6 / L5** | evenings + light field use |
+| Basic Dodging | — | **L6** | live clears vs clubs/spears/rocks |
 | Reading / Mana Sense | L9 | L9 | unchanged |
 
 Skills/Traits Int = pre-mage pile **48** + Shaping **12** + Regulation **7** + Incantation **6** + Absorption **9** + Reinforcement **9** = **91**.
-Skills/Traits Will = pre-mage pile **28** + **6** + **14** + **6** + **18** + **9** = **81**.
+Skills/Traits Will = pre-mage pile **28** + **6** + **14** + **6** + **18** + **9** + Expert Marks **1** = **82**.
 
-Marksmanship L9 → Dex pad **+9** (was +7): Skills/Traits Dex **36**.
-Sword L9 + Hand to Hand L9 → Skills/Traits Str **27** (was 25), Vit **27** (was 26).
+**Physical Skills/Traits after evolve (additive: Basic L9 pads stay + Level 2 L1 + free points):**
+- Str: H2H **9** + Climb baked **9** + Sword baked **9** + Climbing L1 **1** + Swordsmanship L1 **1** + free Climb/Sword **2** = **31**
+- Agi: Climb baked **9** + Sneak baked **9** + Cooking **3** + Dodging **6** + Climbing L1 **1** + Sneaking L1 **1** + free Sneak **1** = **30**
+- Dex: Throw baked **9** + Tech **7** + Tinker **8** + Cooking **3** + Marks baked **9** + Throwing L1 **1** + Expert Marks L1 **1** + free Throw/Marks **2** = **40**
+- Vit: H2H **9** + Sprint **9** + Leather **9** = **27**
+- End: Run baked **9** + Sprint **9** + Leather **9** + Running L1 **1** + free Run **1** = **29**
 
 | Bucket | STR | AGI | DEX | VIT | END | INT | WILL | CHA | LUCK |
 |---|---|---|---|---|---|---|---|---|---|
 | Body | 15 | 20 | 16 | 14 | 13 | 18 | 25 | 7 | 7 |
 | Class | 0 | 0 | 0 | 0 | 0 | 20 | 20 | 0 | 0 |
-| Skills/Traits | 27 | 20 | 36 | 27 | 27 | 91 | 81 | 4 | 0 |
-| **Total** | **42** | **40** | **52** | **41** | **40** | **129** | **126** | **11** | **7** |
+| Skills/Traits | 31 | 30 | 40 | 27 | 29 | 91 | 82 | 4 | 0 |
+| **Total** | **46** | **50** | **56** | **41** | **42** | **129** | **127** | **11** | **7** |
 
-MP = ((129×10)+(126×4))×1.2 + 200 Blessed = 1794×1.2 + 200 = **2353**.
+HP = Vit×10 + End×3 = 410 + 126 = **536**.
+MP = ((129×10)+(127×4))×1.2 + 200 Blessed = 1798×1.2 + 200 = **2358**.
+SP = End×10 + Str×3 + Agi×3 = 420 + 138 + 150 = **708**.
 
 Reinforcement while active: **+90%** of max MP as bonus base stats (L9 × 10%, 90% cap). Drops when MP is empty.
 
-**Class-only check:** mana skills stuck at L1 → Int **90** / Will **77**. Absorption / Reinforcement at L9 are what push Int/Will into the **129 / 126** band.
+**Class-only check:** mana skills stuck at L1 → Int **90** / Will **77**. Absorption / Reinforcement at L9 are what push Int/Will into the **129 / 127** band.
 
-**Live Ch 10 inn sheet** matches this block (chapter + `Status.md` retconned).
+**Live Ch 10 inn sheet** matches this block (chapter + `Status.md`).
 
 ---
 

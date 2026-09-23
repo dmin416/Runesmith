@@ -14,6 +14,8 @@ Roland's gear and carried items by chapter. Follow `CrossCheck.md`. Chapter text
 | Ch 9 forest day | **7** | Bounty + stones |
 | Ch 9.5 timeskip (~3 months) | **1,481** | Locked; ~16–17/day over ~90 days; ends Mage **L20** |
 | **Lifetime through Ch 9.5** | **1,569** | 81 estate + 7 + 1,481 |
+| Ch 10 nest opener | **7** | **1** at level + **6** slightly lower; **+2** stones |
+| **Lifetime through Ch 10** | **1,576** | |
 
 **Mana stones (goblin ~1 in 5, rice-grain, 2 SS each):**
 - Pre-class 56 L1s → ~11 expected if every corpse checked. At least **1** turned in and **snatched** by servants (Baron property excuse). After that he pockets them.
@@ -21,6 +23,7 @@ Roland's gear and carried items by chapter. Follow `CrossCheck.md`. Chapter text
 - Leaves estate / arrives Carwen with **2** training-day stones still on him (Ch 9 sale).
 - Ch 9: **+1** forest stone. Sells **3** total at **2 SS** each (1 new + 2 estate).
 - Ch 9.5: **296** gathered (**1,481 ÷ 5**). **Kept** after Ch 9 day one (ears fund living; stones banked). End pouch **6,000 LC** (**6 SG**). **296** stones on person into Ch 10. Ledger: `Experience.md`.
+- Ch 10 nest: **+2** → **298** on person (still kept; ears fund the turn-in).
 ## Chapter 4
 
 Ninth birthday bravery test kit:
@@ -122,4 +125,4 @@ Three-month Carwen grind (rewrite bridge; Source has no separate chapter).
 
 ## Chapter 10
 
-**Present day after Ch 9.5.** Same Carwen kit plus thick wool cloak and spare robe from the grind; upstairs inn room rented. Goblin Hunter title. Nest opener: **7** kills (**1** at level, **6** slightly lower), **2** stones, underseasoned gamey boar leg. Armor/sword repairs ongoing. Party invite with Becky / Sahildr / Reyna at chapter end. Pouch **6,000 LC**; stones **296** into chapter → **298** after nest.
+**Present day after Ch 9.5.** Same Carwen kit plus thick wool cloak and spare robe from the grind; upstairs inn room rented. Goblin Hunter title. Nest opener: **7** kills (**1** at level, **6** slightly lower), **2** stones, underseasoned gamey boar leg. Guild ear turn-in **+35 LC**. Armor and sword already long repaired. Party invite with Becky / Sahildr / Reyna at chapter end. Pouch **6,000 LC** into chapter → **6,035 LC** after guild; stones **296→298**.

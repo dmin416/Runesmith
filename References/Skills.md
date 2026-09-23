@@ -11,6 +11,7 @@ Passive. Finds and resolves defects; +Intelligence equal to skill level. Roland�
 ### Technology
 First seen: Chapter 2
 Passive. Bonus to repair and creation of technology or technological equivalents. +Dexterity and +Intelligence equal to skill level. Roland’s transferred skill at L7 (was Circuitry in older wording). Chapter 4 clock: supplies the **conceptual and understanding** side (with Tinkerer on physical/mechanical fit). Chapter 15: possible co-culprit with Debugger when reading runes as tech/circuit hybrids.
+**Special skill:** outside the Basic→…→Legendary evolution ladder (`Ideas.md`). No prefix evolve track.
 
 ### Cooking
 First seen: Chapter 2
@@ -18,7 +19,12 @@ Passive. Increased proficiency in preparing food. +Dexterity and +Agility equal 
 
 ### Marksmanship
 First seen: Chapter 2
-Passive. Increased proficiency with aimed projectile weapons. +Dexterity equal to skill level. Roland’s transferred skill at **L7** from Earth firearms practice (monthly range + dry fire over ~10 years; see `Progression.md`). Analogue weapons in Caldris still unclear.
+Passive. Increased proficiency with aimed projectile weapons. +Dexterity equal to skill level. Roland’s transferred skill at **L7** from Earth firearms practice (monthly range + dry fire over ~10 years; see `Progression.md`). Analogue weapons in Caldris still unclear. Caps at L9 then evolves (not a forever single-track special).
+
+### Expert Marksmanship
+First seen: Chapter 10 (Carwen grind evolve)
+Evolution of **Marksmanship** after L9. Aimed fire under stress, hold, lead and shot discipline at the next band.
+**Attribute bonus:** **Dexterity +1 per level**, **Willpower +1 per level**.
 
 ### Acting
 First seen: Chapter 2
@@ -148,9 +154,9 @@ Passive. Blend in; quieter footsteps. **Agility +level**. Chapter 23: evolves Ba
 First seen: Chapter 4
 Passive. Thrown projectile. **Dexterity +level**. Unlocked with a rock and training dummy (toy ball does not count).
 
-### Dodging
-First seen: Chapter 14
-Passive. Helps evade attacks. Roland reaches L2 during the Arden watcher's ambush.
+### Dodging / Basic Dodging
+First seen: Chapter 9.5 (Source first clear was Chapter 14 ambush)
+Passive. Helps evade attacks. **Agility +level**. Unlocks when he starts clearing swings on purpose in live fights. Climbs through Carwen goblin work (clubs, spears, lobbed rocks).
 
 ### Basic One-handed Swordsmanship / Swordsmanship
 First seen: Chapter 3–4
@@ -662,7 +668,7 @@ Titles are status cards separate from traits. Some give combat bonuses.
 
 ### Goblin Hunter
 First seen: Chapter 9.5 (month 3; on-sheet Chapter 10)
-Earned by goblin hunting. Unlock threshold **1000** goblin kills (locked; `Ideas.md` / `Experience.md`). Ch 9.5 grants it once past **1000** into the Carwen skip; end skip **1,481** Carwen / **1,569** lifetime. **All** goblins are hostile toward the holder. Goblins **below** the holder's level exert less force and sometimes become afraid. Innate sense for the location of nearby goblins. Nickname talk: Little Goblin Slayer. Later evolves to Goblin Slaughterer (Chapter 37).
+Earned by goblin hunting. Unlock threshold **1000** goblin kills (locked; `Ideas.md` / `Experience.md`). Ch 9.5 grants it once past **1000** into the Carwen skip; end skip **1,481** Carwen / **1,569** lifetime; Ch 10 nest → **1,576** lifetime. **All** goblins are hostile toward the holder. Goblins **below** the holder's level exert less force and sometimes become afraid. Innate sense for the location of nearby goblins. Nickname talk: Little Goblin Slayer. Later evolves to Goblin Slaughterer (Chapter 37).
 
 ### Runic Scholar
 First seen: Chapter 15

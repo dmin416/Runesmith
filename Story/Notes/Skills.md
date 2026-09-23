@@ -15,22 +15,41 @@ Trait Int/Will bonuses are flat cards. They sit in the Skills/Traits bucket with
 | Tinkerer | Dexterity |
 | Cooking | Dexterity, Agility |
 | Marksmanship | Dexterity |
+| Expert Marksmanship | Dexterity, Willpower |
 | Acting | Charisma |
 | Hastened Reading | Intelligence |
-| Mana Sense | Intelligence |
-| Reading Proficiency | Intelligence |
+| Mana Sense | Intelligence, Willpower |
+| Reading Proficiency | Intelligence, Willpower |
 | Basic Running | Endurance |
-| Basic Sprint | Endurance, Agility |
-| Basic Hand to Hand Combat | Strength |
+| Basic Sprint | Vitality, Endurance |
+| Basic Hand to Hand Combat | Strength, Vitality |
 | Basic Climbing | Strength, Agility |
 | Basic Throwing | Dexterity |
 | Basic Sneaking | Agility |
+| Basic Dodging | Agility |
 | Basic One-Handed Swordsmanship | Strength |
-| Basic Leather Armor Proficiency | Endurance |
+| Basic Leather Armor Proficiency | Vitality, Endurance |
 | Basic Mana Shaping | Intelligence, Willpower (Int-heavy: +2 Int / +1 Will per level) |
 | Basic Mana Regulation | Intelligence, Willpower (Will-heavy: +1 Int / +2 Will per level) |
 | Basic Incantation | Intelligence, Willpower (even: +1 / +1 per level) |
+| Mana Absorption | Intelligence, Willpower (Will-heavy: +1 Int / +2 Will per level) |
+| Mana Reinforcement | Intelligence, Willpower (even: +1 / +1 per level) |
 | Identify, Analyze, Sleep Resistance, Basic Mathematics, Map Reading | none listed |
+
+### Level 2 (plain name) after Basic L9 evolve
+
+Same favored attributes as the Basic form. New skill starts at **L1**. One free attribute point into a favored attr on evolve (Running→End, Climbing→Str, Sneaking→Agi, Throwing→Dex, Swordsmanship→Str, Marksmanship→Dex).
+
+**Additive:** Basic L9 pads stay baked in. Level 2 (and Expert) pads stack on top from L1. Free evolve point stacks too. Not a pad reset.
+
+| Skill | Favored attributes |
+|---|---|
+| Running | Endurance |
+| Climbing | Strength, Agility |
+| Throwing | Dexterity |
+| Sneaking | Agility |
+| One-Handed Swordsmanship | Strength |
+| Expert Marksmanship (Level 3) | Dexterity, Willpower |
 
 ## Chapter 1
 
@@ -344,7 +363,7 @@ No new traits. First paid hunt. Ending: adventure / meal / rest steps (not Sourc
 
 Three-month Carwen grind. Goblins track Roland’s overall level. Field-use curve: `Levels.md` (Climbing anchors + `35×L` steps; technique clean-rate ~**40%**; Absorption/Reinforcement ~**70%** on mana-spend cycles). **All skills hard-cap at L9 until first T2 class.**
 
-**Unlock path (prose):** outside-body mana hold → Willpower. Ambient pull → **Mana Absorption** + **Mana Regulation**. Same breath forced into blood/bone as a store → **Mana Reinforcement** (self-taught; takes longer than a book buy; same store skill as common dealer books). **Mana Arrow** sticks/pillow drills after late month-1 unlock. **Mana Shield** chalk-line circle drills after month-2 unlock. Ember / Mana Hands stay evening self-discovery drills.
+**Unlock path (prose):** outside-body mana hold → Willpower. Ambient pull → **Mana Absorption** + **Mana Regulation**. Same breath forced into blood/bone as a store → **Mana Reinforcement** (self-taught; takes longer than a book buy; same store skill as common dealer books). **Basic Dodging** unlocks month 1 when he clears clubs/spears on purpose. **Mana Arrow** sticks/pillow drills after late month-1 unlock. **Mana Shield** chalk-line circle drills after month-2 unlock. Ember / Mana Hands stay evening self-discovery drills.
 
 ### Combat end ranks (~90 days, **1,481** kills; mana cycled all day)
 
@@ -358,14 +377,15 @@ Three-month Carwen grind. Goblins track Roland’s overall level. Field-use curv
 | **Basic Mana Regulation** | L1 | **L7** | every drain/refill beside Absorption |
 | **Mana Absorption** | — | **L9** | constant ambient pull whenever mana is spent → L9 cap |
 | **Mana Reinforcement** | — | **L9** | held up whenever the pool is working → L9 cap |
-| **Basic One-handed Swordsmanship** | L8 | **L9** | ~740 finishes; field variety finishes L8→L9 |
-| **Basic Sneaking** | L8 | **L9** | daily live eyes; stays Basic until evolve (still L9-capped name) |
-| **Basic Climbing** | L9 | **L9** | already capped |
-| **Basic Hand to Hand** | L8 | **L9** | closes and grapples when a goblin gets inside the sword |
-| **Basic Throwing** | L9 | **L9** | rare spear return only |
-| **Basic Running / Sprint** | L9 | **L9** | cabin commute dropped |
-| **Basic Leather Armor** | L9 | **L9** | worn every hunt |
-| **Marksmanship** | L7 | **L9** | constant aim; hits L9 cap |
+| **Basic One-handed Swordsmanship** | L8 | **L9 → One-Handed Swordsmanship L1** | ~740 finishes; magic-heavy but steel still evolves |
+| **Basic Sneaking** | L8 | **L9 → Sneaking L1** | daily live eyes; brush ambush; evolve |
+| **Basic Climbing** | L9 | **→ Climbing L1** | tree sits every hunt; evolve |
+| **Basic Hand to Hand** | L8 | **L9** | closes and grapples; stays Basic L9 (not in evolve set) |
+| **Basic Dodging** | — | **L6** | unlock month 1 on purposeful clear; clubs/spears/lobbed rocks |
+| **Basic Throwing** | L9 | **→ Throwing L1** | spear returns / lobbed clears; evolve |
+| **Basic Running / Sprint** | L9 | **Running L1** (Sprint stays Basic L9) | lure pulls and nest moves; Running evolves |
+| **Basic Leather Armor** | L9 | **L9** | worn every hunt; stays Basic |
+| **Marksmanship** | L7 | **L9 → Expert Marksmanship L1** | constant aimed casts; Expert pads **Dex +1 / Will +1** per level |
 | **Mana Sense** | L9 | **L9** | already capped |
 | **Identify / Analyze** | low | **+0–1** | occasional peeks |
 | **Ember / Mana Hands** | self L1 | Ember **L6** / Hands **L5** | evening self-discovery drills; light field use |
@@ -384,7 +404,7 @@ Pure-mana T1 utilities. Book / academy / self-shape later. Not gained in Ch 9–
 
 ## Chapter 10
 
-Present day after the Ch 9.5 timeskip. Title: Goblin Hunter (all goblins hostile; lower-level ones hit softer and sometimes fear; innate sense for nearby goblin locations).
+Present day after the Ch 9.5 timeskip. Title: Goblin Hunter (all goblins hostile; lower-level ones hit softer and sometimes fear; innate sense for nearby goblin locations). Nest opener uses Mana Arrow from ~100 m then melee finishes; no new skill unlocks on-page.
 
 Spells after three months (class grants Bolt / Arrow / Shield; Ember + Mana Hands discovered on his own):
 
@@ -404,11 +424,11 @@ Ember L6             Spell
 By causing friction with mana the caster can create a small fire.
 
 Mana Hands L5        Spell
-The caster can create hands made from mana. The weight and distance this spell can be used for is dependent on the intelligence stat.
+The caster moves objects with mana. Weight and range scale with Intelligence. Visible hands are optional.
 ════════════════════════
 ```
 
-Cast method: imagine the spell circle + shape mana + chant together. Spell/skill level-ups grant XP (often more than trash goblins). Absorption / Reinforcement stay up as mana is spent. Basics that were L8 (Sword, Sneak, Hand to Hand) and Marksmanship hit **L9** (hard cap until T2). Still Mage L20 on first class. Plans Mana Scribe next.
+Cast method (rewrite): chant makes the circle appear in the mind and easy to trace; mana almost guides itself while chanting (**on the move** ok). Mangled chant interrupts unless he already controls every part of the mana along the circle. Silent draw possible but so far always fails without some chant present. Even T1 circles are moderately complex. Int holds/follows the appeared circle. Spell/skill level-ups grant XP (often more than trash goblins). Absorption / Reinforcement stay up as mana is spent. **Evolves named on-page (from the skip):** Running, Climbing, Sneaking, Throwing (Basic → plain L1); Marksmanship L9 → **Expert Marksmanship L1** (Dex +level, Will +level); Swordsmanship Basic → plain L1 despite magic doing most kills. Pads are **additive** (Basic L9 stay baked + new L1 + free points). Sprint, Hand to Hand and Leather stay Basic L9. **Basic Dodging** unlocked in Ch 9.5 and ends **L6**. Still Mage L20 on first class. Plans Mana Scribe next.
 
 ### Traits
 
@@ -434,11 +454,11 @@ Uses Mana Arrow, Mana Bolt and Identify (Needle Worm). First clear look at a les
 ## Chapter 13
 
 Gained: Basic Calligraphy L9 (Mana Scribe requirement; months of nightly grind).
-Basic combat skills evolving into regular versions (Running, Sprint, Sneaking, Swordsmanship and related); free attribute points on evolve (Sneaking→Agi, Swordsmanship→Str). Still Mage L25. Class-change crystal recovered. No class change yet. Plans lesser sharpness knife as study piece.
+Ch 9.5–10 already evolved Running, Climbing, Sneaking, Throwing, Swordsmanship (Basic → plain) and Marksmanship → **Expert Marksmanship**. Free attribute points on evolve where locked (Sneaking→Agi, Swordsmanship→Str; Marksmanship evolve may add a free Dex or Will once). Still Mage L25. Class-change crystal recovered. No class change yet. Plans lesser sharpness knife as study piece.
 
 ## Chapter 14
 
-Gained: Dodging L2 (mid-chase popup).
+Dodging mid-chase popup (rank-up; **Basic Dodging** already unlocked Ch 9.5, ends skip at **L6**. Source first clear was here).
 Uses Mana Shield (extra mana into bubble on Reyna vs Gale Step thrust; still pierced but buys the parry), Mana Arrow and Mana Bolt in the Tier 2 fencer fight. Party kill (+479 XP). Still Mage L25.
 
 ## Chapter 15

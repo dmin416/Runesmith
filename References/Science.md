@@ -603,7 +603,7 @@ Ignition energy needed at the target. Ember pays Useful joules into heat at a po
 
 ## Mana Hands
 
-Work done by a telekinetic lift, push or throw. Hold rows use continuous drain (J/s).
+Move objects with mana. Visible hands are optional. Work done by a telekinetic lift, push or throw. Hold rows use continuous drain (J/s).
 
 | Action | Energy |
 |---|---|

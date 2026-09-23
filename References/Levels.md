@@ -72,7 +72,7 @@ Other notes:
 - Leveling skills and spells. Leveling a spell (e.g. Mana Bolt rank-up) can grant a popup XP award; Chapter 10 notes this is often **more** than trash goblin kills. Craft classes also gain XP by making items.
 - Crafting / item creation. **First** successful schematic discovery pays the big 1000. Copying the same rune again does not.
 - **Pre-class XP** (Chapter 4–6): kills and achievements before first ascension bank with a **½ penalty** when the class finally applies. Estate bravery **250** + **55** more L1 goblins (**2750**) = bank **3000** → **1500** applied. Ascension starts Mage L1 empty; bank lands **Mage L3** empty. The bank applies **once** at the first ascension only. It does **not** refill for later class changes. See `Experience.md`.
-- **Second Tier 1 class** (Chapter 10 talk): most people do not ascend at age 10. Taking a second T1 after the first has an XP gain debuff. Combat second T1s take the heaviest hit; lighter crafting second T1s level faster but grant weaker packages.
+- **Second Tier 1 class** (Chapter 10 talk): most people do not ascend at age 10. There is **no XP gain debuff**. Kill XP stays the same. More classes means you need **more total experience** because overall level keeps climbing on the shared bar to raise each class. Combat second T1s take longest to push through that climb; lighter crafting second T1s level faster but grant weaker packages.
 
 ### Kill XP formula
 
@@ -222,11 +222,22 @@ Rewrite law (also in `Ideas.md`):
 
 - Skills rank **L1 through L9**. L9 is the hard max for that skill name.
 - **Until the first Tier 2 class is gained**, no skill may exceed **L9**. There is no L10 on any name in the T1 span.
-- Next step at L9 is **evolution** (Basic X → X → Advanced / Expert), not L10 on the same name. The new name starts at L1 and is also hard-capped at L9 while he is still T1-only.
-- **Advanced / Expert** skill tracks that sit above ordinary evolved forms wait on Tier 2 (or later) class gates unless a chapter locks an earlier exception.
+- Next step at L9 is **evolution** to the next prefix form, not L10 on the same name. The new name starts at L1 and is also hard-capped at L9 while he is still T1-only.
+- **Evolution prefix ladder (rough convention):**
+
+| Tier | Prefix | Example |
+|---|---|---|
+| 1 | Basic / Lesser | Basic Forging, Lesser Rune Duplication |
+| 2 | *(none)* | Forging, Rune Duplication |
+| 3 | Expert / High | Expert Forging, High Analyze |
+| 4 | Overlord / Master | Overlord's Might, Master Forging |
+| 5 | Legendary / Grandmaster | Legendary Runecraft, Grandmaster Forging |
+
+- Higher prefix tracks (Expert / High and above) usually wait on Tier 2+ class gates unless a chapter locks an earlier exception.
+- **Special skills** (Technology, Circuitry-type, and similar) sit **outside** this ladder. No Basic→Expert→Overlord path. Separate rules; see `Ideas.md`.
 - Effects and skill-tied stat bonuses scale with the current skill’s level.
 - Evolving a Basic skill can grant a free attribute point (e.g. Basic Sneaking → Agility) **in addition to** the ongoing +level bonus of the new skill form if it still lists attribute bonuses.
-- **Technique only:** level is form / efficiency / timing / decisions, not body power. L5 = dedicated adult amateur, L7 = competitive or professional, L9 = pinnacle of normal human technique. Early Basic ranks by age: `Progression.md`.
+- **Technique only:** level is form / efficiency / timing / decisions, not body power. L5 = dedicated adult amateur, L7 = competitive or professional, L9 = pinnacle of normal human technique on that prefix. Early Basic ranks by age: `Progression.md`.
 - Chapter 4 books say max Mana Sense at **L10** for Mage. Treat that as in-world rounding / old wording. Rewrite sheet max is **L9**.
 
 Chapter 7: Roland thinks Basics stop at L9 from **class restrictions**. Rewrite reason is the L9 hard max (then evolve), not Mage locking physical Basics.
@@ -266,7 +277,7 @@ After L3: `reps_to_next(L) = 35 × L` where L is the level you are leaving.
 
 Class need L4→L20 from enter bar **118 / 2000** ≈ **91,882 XP**. Kill XP at ~53 ≈ **78,493**. Spell/skill rank-ups supply the remaining ≈ **13,389**. Kill count is **not** cut by spell XP.
 
-Raw combat actions (order-of-magnitude, scaled to **1,481** kills): Mana Bolt ~**2,300** casts, Mana Arrow ~**800** (from late month 1), Mana Shield ~**270** (from month 2), short-sword finishes ~**740**, aimed shots (Bolt+Arrow) ~**3,100**. Absorption / Reinforcement cycles track mana spend across that volume → both hit **L9**.
+Raw combat actions (order-of-magnitude, scaled to **1,481** kills): Mana Bolt ~**2,300** casts, Mana Arrow ~**800** (from late month 1), Mana Shield ~**270** (from month 2), short-sword finishes ~**740**, aimed shots (Bolt+Arrow) ~**3,100**, Basic Dodging clears ~**470** clean (clubs/spears/rocks; unlock month 1 → **L6**). Absorption / Reinforcement cycles track mana spend across that volume → both hit **L9**.
 
 Apply the curve → end ranks in `Story/Notes/Skills.md` Chapter 9.5. No skill past **L9** before T2.
 
@@ -298,6 +309,7 @@ Not every skill grants attributes. Identify, Analyze, Sleep Resistance, Map Read
 | Tinkerer | 8 | Dex +8 |
 | Cooking | 3 | Dex +3, Agi +3 |
 | Marksmanship | 7 | Dex +7 |
+| Expert Marksmanship | level | Dex +level, Will +level |
 | Acting | 4 | Cha +4 |
 | Hastened Reading | 2 | Int +2 |
 
@@ -313,8 +325,9 @@ Favored attributes for skills Roland trains in Chapters 4–7. Same +1 × level 
 | Basic Climbing | Strength +1, Agility +1 |
 | Basic Throwing | Dexterity +1 |
 | Basic Sneaking | Agility +1 |
+| Basic Dodging | Agility +1 |
 | Basic One-Handed Swordsmanship | Strength +1 |
-| Basic Leather Armor Proficiency | Vitality +1, Endurance +1 |
+| Basic Leather Armor | Vitality +1, Endurance +1 |
 | Reading Proficiency | Intelligence +1, Willpower +1 |
 | Mana Sense | Intelligence +1, Willpower +1 |
 | Basic Mana Shaping | Intelligence +2, Willpower +1 |
@@ -324,9 +337,23 @@ Favored attributes for skills Roland trains in Chapters 4–7. Same +1 × level 
 | Mana Reinforcement | Intelligence +1, Willpower +1 |
 | Identify | none |
 
-Chapter 4 prose: leveling physical Basics also makes him “run faster, jump higher and punch harder” via technique, and “bonuses to endurance and strength” when those skills get high enough. Rewrite pads: Running → Endurance; Sprint → Vitality + Endurance; Hand to Hand → Strength + Vitality; Leather → Vitality + Endurance; Reading / Mana Sense → Intelligence + Willpower. Age-10 goal: Str/Agi/Vit/End **40**; Dex/Will higher; Int highest (`StatusBreakdown.md`).
+**Level 2 (plain name) map** after Basic L9 evolve. Same favored attributes as the Basic form. New skill starts at L1. Evolving also grants **one free attribute point** into a favored attr of that tree (Sneaking→Agi, Swordsmanship→Str, Running→End, Climbing→Str, Throwing→Dex, Marksmanship→Dex).
 
-Evolution (Basic → non-Basic) can grant an extra free point once, then the new skill’s own +level line takes over if it has one.
+| Skill | Bonus per level |
+|---|---|
+| Running | Endurance +1 |
+| Climbing | Strength +1, Agility +1 |
+| Throwing | Dexterity +1 |
+| Sneaking | Agility +1 |
+| One-Handed Swordsmanship | Strength +1 |
+
+**Level 3 example (locked):** Expert Marksmanship → Dexterity +1, Willpower +1 per level (evolve from Marksmanship; Marksmanship itself was Dex-only).
+
+Sprint, Hand to Hand, Leather and Dodging stay on Basic forms until they evolve.
+
+**Evolve pads are additive, not subtractive.** On evolve, the Basic form’s attribute bonuses stay baked in (permanent). The new skill starts at L1 and adds its own +level line on top. The free evolve point is also permanent. Example: Basic Climbing L9 (Str +9, Agi +9) → Climbing L1 adds Str +1, Agi +1 plus free Str +1 → Climbing tree contributes Str +11, Agi +10 at evolve.
+
+Chapter 4 prose: leveling physical Basics also makes him “run faster, jump higher and punch harder” via technique, and “bonuses to endurance and strength” when those skills get high enough. Rewrite pads: Running → Endurance; Sprint → Vitality + Endurance; Hand to Hand → Strength + Vitality; Leather → Vitality + Endurance; Reading / Mana Sense → Intelligence + Willpower. Age-10 goal: Str/Agi/Vit/End **40**; Dex/Will higher; Int highest (`StatusBreakdown.md`).
 
 ### Sheet buckets
 
@@ -350,7 +377,7 @@ Tier 1 cast loop: imagine the **spell circle** (formula) + shape mana + chant, i
 
 - Class level thresholds can dump a spell into the mind (incantation + construction).
 - Books / teachers / self-experimentation for extras. Spellbooks are expensive.
-- Mage’s three basics: Mana Bolt, Mana Arrow, Mana Shield. Ember and Mana Hands can come from a low-grade book.
+- Mage’s three basics: Mana Bolt, Mana Arrow, Mana Shield. Ember and Mana Hands are self-discovered early in the rewrite (trial and error; Source used a low-grade Arden book).
 
 ## Tier multipliers
 

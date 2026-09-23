@@ -305,10 +305,10 @@ XP shown matches `49 + monster level` (L2=51 … L5=54). Source used ~15–20 pe
 
 ## Chapter 9.5
 
-Three-month rewrite grind (Source has no separate chapter; Ch 10 opens already at L20). **1,481** goblin kills; lifetime **1,569**. Field-use curve in `Levels.md`; end ranks in `Skills.md` Ch 9.5. **L9 hard cap until first T2.** Absorption / Reinforcement cycle whenever mana is spent → both **L9** (Reinforcement self-taught from ambient→body store, not a book). Also: Shaping **L6**, Regulation **L7**, Incantation **L6**, Bolt **L7**, Arrow **L5**, Shield **L3**, Sword / Sneak / Hand to Hand / Marksmanship **L9**. Ember **L6** / Hands **L5** (evenings). End **Mage L20** → rewrite Int **129** / Will **126** / MP **~2353**. Physicals **42/40/52/41/40**. Month beats: ~L11–12 + Arrow; ~L16–17 + Shield + nickname; L20 + Goblin Hunter (past **1000** kills). Coin end **6,000 LC**; stones gathered **296** (kept after Ch 9 day one). Food: inn breakfast+dinner; **3** jerky bought; other lunches = goblin prey. Cloak **300 LC**. Ledger: `Experience.md`.
+Three-month rewrite grind (Source has no separate chapter; Ch 10 opens already at L20). **1,481** goblin kills; lifetime **1,569**. Field-use curve in `Levels.md`; end ranks in `Skills.md` Ch 9.5. **L9 hard cap until first T2.** Absorption / Reinforcement cycle whenever mana is spent → both **L9** (Reinforcement self-taught from ambient→body store, not a book). Also: Shaping **L6**, Regulation **L7**, Incantation **L6**, Bolt **L7**, Arrow **L5**, Shield **L3**, Hand to Hand / Leather / Sprint stay **Basic L9**; Running / Climbing / Sneaking / Throwing / Swordsmanship → **plain L1**; Marksmanship → **Expert Marksmanship L1**; **Basic Dodging L6**. Ember **L6** / Hands **L5** (evenings). End **Mage L20** → Int **129** / Will **127** / MP **2358**; physicals **46/50/56/41/42**; HP **536** / SP **708**. Evolve pads **additive** (Basic L9 stay + Level 2 L1 + free points). Month beats: ~L11–12 + Arrow + Dodging; ~L16–17 + Shield + nickname; L20 + Goblin Hunter (past **1000** kills). Coin end **6,000 LC**; stones gathered **296** (kept after Ch 9 day one). Food: inn breakfast+dinner; **3** jerky bought; other lunches = goblin prey. Cloak **300 LC**. Ledger: `Experience.md`.
 ## Chapter 10
 
-**Timeskip end / present day.** Title **Goblin Hunter**. Nickname Little Goblin Slayer. Mage L20 sheet at the inn (beef jerky). Live sheet matches rewrite Ch 10 block in `StatusBreakdown.md` (Int **129** / Will **126** / MP **2353**; physicals **42/40/52/41/40**; Cha **11** / Luck **7**). Rents upstairs room at the Chapter 9 inn. Armor/sword repairs ongoing. Plans Mana Scribe first, then Blacksmith; next city **Edelgard**. Clumsy Arden watcher in town. Joins Becky / Sahildr / Reyna for dungeon (claims age 12).
+**Present day after Ch 9.5.** Title **Goblin Hunter**. Nickname Little Goblin Slayer (grins through mascot ribbing). Nest opener then guild turn-in before the inn sheet. Mage L20 live sheet at the inn (beef jerky) matches rewrite Ch 10 block in `StatusBreakdown.md` (Int **129** / Will **127** / MP **2358**; physicals **46/50/56/41/42**; HP **536**; SP **708**; Cha **11** / Luck **7**). Rents upstairs room at the Chapter 9 inn. Armor/sword already long repaired. Plans Mana Scribe first (magic-track lean; no elemental path for pure Mage), then Blacksmith; next city **Edelgard**. Clumsy Arden watcher in town. Joins Becky / Sahildr / Reyna for dungeon (age dodge: answers **Roughly** to 11-or-12; will not admit **10**).
 
 ```
 ════════ TITLE ═════════
@@ -323,17 +323,17 @@ All goblins are hostile toward the title holder. Goblins below the holder's leve
 Name:       Roland Arden
 Class:      Mage L20
 
-HP               530/530
-MP              2353/2353
-SP               646/646
+HP               536/536
+MP              2358/2358
+SP               708/708
 
-Strength              42
-Agility               40
-Dexterity             52
+Strength              46
+Agility               50
+Dexterity             56
 Vitality              41
-Endurance             40
+Endurance             42
 Intelligence         129
-Willpower            126
+Willpower            127
 Charisma              11
 Luck                   7
 ════════════════════════
@@ -378,7 +378,7 @@ Class-change crystal recovered. Ambush unfinished. (Rewrite debt: if Hastened Re
 
 ## Chapter 14
 
-No full status screen. Damage **8** (cheek) + **31** (calf) + **46** (shoulder) before low-grade potion recovery (drink + pour; slow tick). Gains Dodging L2 and **479 XP** from Tier 2 fencer party kill. Class-change crystal still on him. Confession to party unfinished.
+No full status screen. Damage **8** (cheek) + **31** (calf) + **46** (shoulder) before low-grade potion recovery (drink + pour; slow tick). Dodging rank-up mid-chase (**Basic Dodging** owned since Ch 9.5) and **479 XP** from Tier 2 fencer party kill. Class-change crystal still on him. Confession to party unfinished.
 
 ## Chapter 15
 

@@ -64,4 +64,4 @@ Offered beside it at T3: Advanced Runesmith, Master Runesmith, Master Runesmith 
 - Chapter 8: Bronze adventurer (first name only). Guild orb **Mage L3** on the rewrite stack (Source was Mage L5 old sheet). Class-up crystal buried for Blacksmith / Mana Scribe.
 - Chapter 9: First Carwen hunt finishes Mage **L3→L4**. End pouch **875 LC**.
 - Chapter 9.5: ~3 months Carwen grind → Mage **L20**; Goblin Hunter (past **1000** kills); Mana Absorption / Reinforcement self-taught to **L9**; end pouch **6,000 LC** (**6 SG**) / **296** rice-grain stones; thick wool cloak **300 LC**.
-- Chapter 10: present day after timeskip; prefers Mana Scribe before Blacksmith; Edelgard goal; joins Becky / Sahildr / Reyna.
+- Chapter 10: present day after timeskip; nest **+7** / stones **298** / pouch **6,035 LC**; rewrite L20 sheet; Mana Scribe before Blacksmith (magic-track lean); Edelgard goal; joins Becky / Sahildr / Reyna (age dodge **Roughly**).
