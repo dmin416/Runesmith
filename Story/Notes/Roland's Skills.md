@@ -43,86 +43,92 @@ Age-10 technique targets: see `Progression.md` / Ch 7 note in `Skills.md`. Chapt
 26. Mana Bolt (Spell) – Ch 5 – Mage grant L1
 27. Basic Incantation – Ch 5 – Mage grant L1; Intelligence +1 / Willpower +1 per level
 
+## Carwen grind (Ch 9–9.5)
+
+28. Mana Arrow (Spell) – Ch 9.5 late month 1 – Mage class grant
+29. Mana Shield (Spell) – Ch 9.5 month 2 – Mage class grant
+30. Mana Absorption – Ch 9.5 – self-taught ambient pull between hunts; **L9** by end of skip
+31. Mana Reinforcement – Ch 9.5 – self-taught body store from the same drills; **L9** by end; same skill as common dealer books (discovery takes longer). Source delayed to book Ch 54 / learn Ch 56 (rewrite: already owned; skip or reframe that purchase)
+
 ## Runic Mana Scribe (Ch 16)
 
-28. Basic Mana Scribing
-29. Basic Rune Scribing
-30. Basic Rune Mastery
+32. Basic Mana Scribing
+33. Basic Rune Scribing
+34. Basic Rune Mastery
 
 ## Runic Blacksmith era (~Ch 35–80)
 
-31. Basic Forging – Ch 35 – class grant; L2 Ch 38; L4 Ch 44; near max by Ch 47
-32. Basic Smithing Mastery – Ch 35 – class grant; L2 Ch 36 (+1 Str); L4 Ch 44; L8 Ch 47
-33. Basic Runecraft – Ch 35 – class grant; L2 Ch 38; L3 Ch 42; L7 Ch 47
-34. Ethereal Pathways – book Ch 41; L1 Ch 42 (+1 Int); L6 Ch 47
-35. Blacksmith’s Heat Sense – class ~L7 of Blacksmith (~Ch 45–47); L6 on Ch 47 sheet
-36. Runic Blacksmith’s Eyes – class ~L13 (~Ch 47); L5 on sheet; unlocks Highest lesser runes
-37. Basic Rune Compression – Ch 47 – skill book; L3 on sheet
-38. Basic Mana Reinforcement – book Ch 54; learned Ch 56 (L2 before caravan)
-39. Spearmanship – ~Ch 61–70
-40. Blunt Weapon Proficiency – ~Ch 61–70
-41. Heavy Armor Proficiency – ~Ch 72
-42. Shield Proficiency – ~Ch 72
+35. Basic Forging – Ch 35 – class grant; L2 Ch 38; L4 Ch 44; near max by Ch 47
+36. Basic Smithing Mastery – Ch 35 – class grant; L2 Ch 36 (+1 Str); L4 Ch 44; L8 Ch 47
+37. Basic Runecraft – Ch 35 – class grant; L2 Ch 38; L3 Ch 42; L7 Ch 47
+38. Ethereal Pathways – book Ch 41; L1 Ch 42 (+1 Int); L6 Ch 47
+39. Blacksmith’s Heat Sense – class ~L7 of Blacksmith (~Ch 45–47); L6 on Ch 47 sheet
+40. Runic Blacksmith’s Eyes – class ~L13 (~Ch 47); L5 on sheet; unlocks Highest lesser runes
+41. Basic Rune Compression – Ch 47 – skill book; L3 on sheet
+42. Spearmanship – ~Ch 61–70
+43. Blunt Weapon Proficiency – ~Ch 61–70
+44. Heavy Armor Proficiency – ~Ch 72
+45. Shield Proficiency – ~Ch 72
 
 ## Runesmith Lord (Ch 81+)
 
-43. Mana Shaping – Ch 81 – Basic upgrade
-44. Mana Regulation – Ch 81 – Basic upgrade
-45. Rune Mastery – Ch 81 – Basic upgrade
-46. Runecraft – Ch 81 – Basic upgrade
-47. Runesmith Lord’s Eyes – Ch 81 – eyes upgrade
-48. Basic Rune Mending – Ch 81 – class grant
-49. Heat Resistance – Ch 81 – class grant
-50. Basic Rune Overload – Ch 129 – Lord L10
-51. Runic Cleansing – Ch 141
-52. Lesser Rune Duplication – ~Ch 150–170 (on sheet by Ch 171)
-53. Upgrade Rune – ~Ch 150–170 (on sheet by Ch 171)
-54. Basic Empower Rune – ~Ch 150–170 (on sheet by Ch 171)
-55. High Analyze – before Ch 171 – Analyze evolution
-56. Expert Tinkerer – ~Ch 171 – past L9 threshold
-57. Runic Eye of Truth – Ch 188 – Lord max grant
+46. Mana Shaping – Ch 81 – Basic upgrade
+47. Mana Regulation – Ch 81 – Basic upgrade
+48. Rune Mastery – Ch 81 – Basic upgrade
+49. Runecraft – Ch 81 – Basic upgrade
+50. Runesmith Lord’s Eyes – Ch 81 – eyes upgrade
+51. Basic Rune Mending – Ch 81 – class grant
+52. Heat Resistance – Ch 81 – class grant
+53. Basic Rune Overload – Ch 129 – Lord L10
+54. Runic Cleansing – Ch 141
+55. Lesser Rune Duplication – ~Ch 150–170 (on sheet by Ch 171)
+56. Upgrade Rune – ~Ch 150–170 (on sheet by Ch 171)
+57. Basic Empower Rune – ~Ch 150–170 (on sheet by Ch 171)
+58. High Analyze – before Ch 171 – Analyze evolution
+59. Expert Tinkerer – ~Ch 171 – past L9 threshold
+60. Runic Eye of Truth – Ch 188 – Lord max grant
 
 ## Runic Engineer (Ch 196+)
 
-58. Stress Resistance – Ch 196 – class grant
-59. Runic Restructuring – Ch 196 – class grant
-60. Resilience – Ch 196 – class grant
-61. Pain Resistance – Ch 197
-62. Basic Machinery Affinity – Ch 251
-63. Basic Rapid Assembly – Ch 251
-64. Basic Runic Region – Ch 253
-65. Basic Blueprint Fabrication – Ch 253
-66. Basic Machinery Salvage – Ch 289
-67. Rapid Machine Reassembly – Ch 302 – Engineer L50
+61. Stress Resistance – Ch 196 – class grant
+62. Runic Restructuring – Ch 196 – class grant
+63. Resilience – Ch 196 – class grant
+64. Pain Resistance – Ch 197
+65. Basic Machinery Affinity – Ch 251
+66. Basic Rapid Assembly – Ch 251
+67. Basic Runic Region – Ch 253
+68. Basic Blueprint Fabrication – Ch 253
+69. Basic Machinery Salvage – Ch 289
+70. Rapid Machine Reassembly – Ch 302 – Engineer L50
 
 ## Tier 3 trial → Runesmith Overlord (Ch 314–318+)
 
-68. Runic Suppression – Ch 314 – mid trial
-69. Lordly Articulation – Ch 315 – mid trial
-70. Overlords Might – Ch 318 – Overlord grant
-71. Forgefire Control – Ch 318 – Overlord grant
-72. Expert Forging – Ch 318 – Overlord grant
-73. Rune Authority – Ch 318 – Overlord grant
-74. Mana Overflow – Ch 318 – Overlord grant
-75. Manaflow Authority – Ch 318 – Overlord grant
-76. True Runic Sight – Ch 318 – Eye of Truth upgrade
-77. Expert Runecrafting – Ch 318 – Runecraft upgrade
-78. Eyes of Mana – Ch 330
-79. Overlord’s Aura – Ch 357
-80. Abyssal Corruption Resistance – Ch 398
-81. Overlord’s Intimidation – Ch 403
-82. Imbued Rune – Ch 403
-83. Overlords Resilience – Ch 444
+71. Runic Suppression – Ch 314 – mid trial
+72. Lordly Articulation – Ch 315 – mid trial
+73. Overlords Might – Ch 318 – Overlord grant
+74. Forgefire Control – Ch 318 – Overlord grant
+75. Expert Forging – Ch 318 – Overlord grant
+76. Rune Authority – Ch 318 – Overlord grant
+77. Mana Overflow – Ch 318 – Overlord grant
+78. Manaflow Authority – Ch 318 – Overlord grant
+79. True Runic Sight – Ch 318 – Eye of Truth upgrade
+80. Expert Runecrafting – Ch 318 – Runecraft upgrade
+81. Eyes of Mana – Ch 330
+82. Overlord’s Aura – Ch 357
+83. Abyssal Corruption Resistance – Ch 398
+84. Overlord’s Intimidation – Ch 403
+85. Imbued Rune – Ch 403
+86. Overlords Resilience – Ch 444
 
 ## Late Tier 3 (~Ch 532–684)
 
-84. Mighty Bash – Ch 532
-85. Mighty Throw – Ch 532
-86. Overlord’s Regal Resilience – Ch 537 – ~L200 milestone
-87. Overlord’s Indomitable Will – Ch 587 – Overlord L50
-88. Rune Concealment – Ch 587 – Overlord L50
-89. Rune Brand – Ch 684
-90. Runic Mimicry – Ch 684
+87. Mighty Bash – Ch 532
+88. Mighty Throw – Ch 532
+89. Overlord’s Regal Resilience – Ch 537 – ~L200 milestone
+90. Overlord’s Indomitable Will – Ch 587 – Overlord L50
+91. Rune Concealment – Ch 587 – Overlord L50
+92. Rune Brand – Ch 684
+93. Runic Mimicry – Ch 684
 
 ## After Ch 684 to ~709
 

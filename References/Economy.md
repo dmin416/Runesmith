@@ -1,4 +1,4 @@
-﻿# World Economy Reference
+# World Economy Reference
 
 ## Rewrite price lock
 
@@ -8,7 +8,10 @@ Use these rewrite anchors first. Prefer them over older Source-era numbers when 
 |---|---|
 | Commoner household income | **~4 LS / month** |
 | Rice-grain mana stone | **2 SS** |
-| Inn meal (porridge + jerky) | **5 LC** |
+| Inn breakfast | **5 LC** |
+| Inn dinner (porridge + meat) | **5 LC** |
+| Forest lunch jerky | **~2 LC**/stick (Ch 9.5: **3** bought; other lunches = goblin prey) |
+| Thick wool cloak (nice-ish, mattress/comforter) | **300 LC** |
 | Lodging / night | **1 SS** |
 | Monthly lodging (10% off, 30 nights) | **270 LC** |
 | Better inn / night | **2 SS** |
@@ -343,7 +346,7 @@ Independent scribe income: roughly 10 scrolls/week ~ 1 SG. Platform/shop cuts va
 - Roland's first Libra Fire Arrow boxes (2x5): **4L+5S** and **4L+7S** (~1 SG gross; **25%** first-timer fee).
 - Seller #64 payout (Ch 23): gross **9L+2S** -> net **6L+9S** after 25%.
 - Ongoing Fire Arrow deposits: ~10 scrolls/week ~ **1 SG**.
-- Ch 21 Edelgard scrybe shops: price mats so only intermediate scrolls profit for independents; academy students get softer contracts; solo acts face multi-year cursed deals (**-60% mana** on breach until term ends). Libra entry **2 SS**.
+- Ch 21 Edelgard Scribe shops: price mats so only intermediate scrolls profit for independents; academy students get softer contracts; solo acts face multi-year cursed deals (**-60% mana** on breach until term ends). Libra entry **2 SS**.
 - Ch 25 Exeor offer: exclusive sell-to-store, **15%** commission, **3 years**, workspace + cheaper mats, **-30%** mana breach curse (not instant); facilities can cover later Blacksmith needs. Merchant council of top owners meets every **3 months** (recruit upstarts, then crush holdouts).
 - Ch 26 signed: mana signature (not name); identity secret; **min price** vs auction / no undersell; status-hide **armband**; basement office free rent; basic mats supplied; min **10 common scrolls/week** (+ bonus); Fire Arrow ~1 hour with mana left for a second.
 - Ch 27: weekends + **25** leave days/year (can batch mins early); brand nicknames **Crimson Comet / Red Star / Scarlet Runesmith**; High/Highest only; shipped to other cities; affordable vs regular scrolls for support casters; schematic sale price huge (kept private); Fire Arrow **5-6**/day compacted.
@@ -469,7 +472,7 @@ First seen: Chapter 7. Gem-like crystals that form inside some monsters. Used as
 
 ---
 
-## 24. Early Coin Ledger (through Chapter 9)
+## 24. Early Coin Ledger (through Chapter 9.5)
 
 Currency first detailed Chapter 8. Roland's starting pouch after departure counts as exactly **1 SG** (mixed copper and silver). Basic Mathematics / arithmetic can show a hovering total over a coin pile.
 
@@ -484,8 +487,15 @@ Units in large copper. **1 SS = 10 LC**, **1 LS = 100 LC**, **1 SG = 1000 LC**.
 | Ch 9 library map (1 SS) | -10 | **780** |
 | Ch 9 ear bounty (7x5) | +35 | 815 |
 | Ch 9 mana stones (3x2 SS) | +60 | **875** |
+| Ch 9.5 ear bounty (1,481×5) | +7,405 | 8,280 |
+| Ch 9.5 lodging (270×3) | -810 | 7,470 |
+| Ch 9.5 food (breakfast 5 + dinner 5 × 90; jerky ×3 @ ~2) | -906 | 6,564 |
+| Ch 9.5 thick wool cloak (nice-ish) | -300 | 6,264 |
+| Ch 9.5 repairs / spare robe / food-hunt tastes | -264 | **6,000** |
 
-Chapter 9 turn-in "**95 LC** richer" is income only (35+60), before meal/map already spent. Monthly lodging quote in Ch 9 is ~**10%** off (30 x 1 SS = 300 -> **270 LC**); Ch 13 quote is ~**5%** off.
+Chapter 9 turn-in "**95 LC** richer" is income only (35+60), before meal/map already spent. Monthly lodging quote in Ch 9 is ~**10%** off (30 × 1 SS = 300 → **270 LC**); Ch 13 quote is ~**5%** off. Breakfast is **+5 LC** on the lodging quote; dinner is the **5 LC** inn tray. Forest lunch: **3** jerky sticks (~**2 LC** each); other midday meals are rabbits and other prey taken from goblin camps (no coin).
+
+After Ch 9 day one he **keeps** rice-grain stones (no further stone sales in Ch 9.5). End Ch 9.5 / into Ch 10: pouch **6,000 LC** (**6 SG**); stones on person **296**. Full kill/stone notes: `Experience.md`, `Items.md`.
 
 ---
 

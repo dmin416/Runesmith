@@ -35,7 +35,7 @@ Each level in that class grants **+1** to each listed attribute at Tier 1 (growt
 
 Chapter 4 prose also notes Mage leans on Intelligence (attack / mana) and Willpower (concentration / mana regen), which matches the package. Ascension stones can be bought after the first freebie; later uses need a trial. Tier 2 unlocks need at least one maxed Tier 1 (among other requirements). Books claim the first class is auto-assigned from stats/skills; Roland’s Chapter 5 space still lets him confirm Mage. Used first-ascension crystal turns to dust.
 
-More Tier 1 classes exist. World talk groups them as **combat**, **production** and **support**, then into specialized lines. Other T1 packages (e.g. Mana Scrybe) are in `Levels.md`.
+More Tier 1 classes exist. World talk groups them as **combat**, **production** and **support**, then into specialized lines. Other T1 packages (e.g. Mana Scribe) are in `Levels.md`.
 
 ### Combat basics
 - **Warrior** – First seen: Chapter 4–5. Common T1; feeds many knight paths.
@@ -63,8 +63,8 @@ More Tier 1 classes exist. World talk groups them as **combat**, **production** 
 
 ### Craft and support
 - **Blacksmith** – First seen: Chapter 4–5. Common craft; Bamur/Dunan/Bernir paths.
-- **Mana Scrybe / Mana Scribe** – First seen: Chapter 6. Story often Scrybe; Source often Scribe. Scroll craft. Requires **Calligraphy** plus **Mage**. Makes one-use magic scrolls. Weak class package / leveling; treated as a side job that sells to adventurers. Gate for Runesmith and Enchantsmith. Common second T1 for mages before an elemental mage at T2. Trial (book): inscribe a basic spell to paper with temporary scribing skill; fail and the skill knowledge is forgotten. Chapter 21 Edelgard: academy kids get soft shop contracts; solo scrybes get harsh multi-year cursed deals.
-- **Runic Mana Scrybe / Runic Mana Scribe** – First seen: Chapter 16. Roland prestige scrybe (Runic Scholar title unlock; not in the Arden books). Story spelling Scrybe. Class card: increases mana regen and lowers mana consumption while scribing spells and runes. Trial: timed lesser fire orb **rune** scroll (harder than plain Scrybe word-scroll). Grants Basic Mana Scribing, Basic Rune Scribing and Basic Rune Mastery. Chapter 25: treated as a rare unique class; Exeor manager Invests after Identifying L10. Chapter 27: **L20** main (overall L45; Mage L25 secondary); ~half year estimated to Blacksmith threshold.
+- **Mana Scribe** – First seen: Chapter 6. Scroll craft. Requires **Calligraphy** plus **Mage**. Makes one-use magic scrolls. Weak class package / leveling; treated as a side job that sells to adventurers. Gate for Runesmith and Enchantsmith. Common second T1 for mages before an elemental mage at T2. Trial (book): inscribe a basic spell to paper with temporary scribing skill; fail and the skill knowledge is forgotten. Chapter 21 Edelgard: academy kids get soft shop contracts; solo Scribes get harsh multi-year cursed deals.
+- **Runic Mana Scribe** – First seen: Chapter 16. Roland prestige Scribe (Runic Scholar title unlock; not in the Arden books). Class card: increases mana regen and lowers mana consumption while scribing spells and runes. Trial: timed lesser fire orb **rune** scroll (harder than plain Scribe word-scroll). Grants Basic Mana Scribing, Basic Rune Scribing and Basic Rune Mastery. Chapter 25: treated as a rare unique class; Exeor manager invests after Identifying L10. Chapter 27: **L20** main (overall L45; Mage L25 secondary); ~half year estimated to Blacksmith threshold.
 - **Runic Blacksmith** – First seen: Chapter 34–35. Roland prestige smith.
 - **Runic Archer / Runic Warrior** – First seen: Chapter 34. Offered to Roland; not taken.
 - **Herbalist / Brewer** – First seen: ~Chapter 361. Alchemy path.
@@ -78,8 +78,8 @@ More Tier 1 classes exist. World talk groups them as **combat**, **production** 
 ## Tier 2
 
 ### Runes and enchanting
-- **Runesmith** – First seen: Chapter 6. Core craft goal; Hasim/Brylvia path. Places runes (symbol language) on weapons and armor. Harder than Enchantsmith; better results. Needs Blacksmith path plus Mana Scrybe plus **Runecraft** (inscribe a rune on an item; skill books exist; Chapter 17: Rune Mastery from Runic Mana Scrybe is not a substitute). Chapter 27: Roland notes Runecraft only becomes learnable in later Blacksmith stages; paper Impact tests are nearly useless. Craft quality leans on Intelligence and Dexterity; mana helps make and use runes.
-- **Enchantsmith** – First seen: Chapter 6 / status ~Chapter 151. Bamur; common alternate to Runesmith. Word-language enchantments (easier than runes). Same Scrybe gate.
+- **Runesmith** – First seen: Chapter 6. Core craft goal; Hasim/Brylvia path. Places runes (symbol language) on weapons and armor. Harder than Enchantsmith; better results. Needs Blacksmith path plus Mana Scribe plus **Runecraft** (inscribe a rune on an item; skill books exist; Chapter 17: Rune Mastery from Runic Mana Scribe is not a substitute). Chapter 27: Roland notes Runecraft only becomes learnable in later Blacksmith stages; paper Impact tests are nearly useless. Craft quality leans on Intelligence and Dexterity; mana helps make and use runes.
+- **Enchantsmith** – First seen: Chapter 6 / status ~Chapter 151. Bamur; common alternate to Runesmith. Word-language enchantments (easier than runes). Same Scribe gate.
 - **Runesmith Lord** – First seen: Chapter 77–81. Roland prestige. Chapter 77: appears above other T2 options as armored runesmith sprite (hammer + sword). Chapter 78–80: hybrid craft+combat trial (coliseum arena, forge rise, hourglass, craft gear then fight gates); no temporary class skills; no instruction books. Waves: Pale Imps → Spiked Devils → Hell Hounds → Chain Devil L65. Arena lightning web; post-clear heal + library skill/knowledge dump (*Secrets of Rune Smithing*).
 - **Runic Engineer** – First seen: Chapter 191–196. Roland second T2.
 - **Rune Mage** – Wanted ~Chapter 191; status ~Chapter 481. Arion, Lucille.

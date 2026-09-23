@@ -52,7 +52,7 @@ First worked out by Roland in Chapter 2. Checked against later status sheets.
 - SP = (Endurance x 10) + (Strength x 3) + (Agility x 3)
 - MP = (Intelligence x 10) + (Willpower x 4)
 
-**1 mana ≈ 10 J** for physics checks (Mana Bolt budgets and similar). See `Science.md`.
+**Cast law:** `Useful (J) = mana × 10 × η(L) × μ(INT)` with `η(1)=0.3`, `η(L)=1+(L-2)×2/7` (L2=1 … L9=3), `μ=(INT/15)^0.8`. See `Science.md`.
 
 Skill, trait and class bonuses can raise displayed MP above the bare attribute total. Chapter 23: low mana → dizzy/sleepy; **zero MP** → splitting headache and possible pass-out, plus a next-day mana-regen debuff.
 

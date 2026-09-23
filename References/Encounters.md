@@ -38,7 +38,7 @@ All-women party after their fourth left with a man. Distrust men at night camps.
 | 13 | Half year; Mage L25; floor 3 Wereboars; Calligraphy L9; digs class crystal; watcher ambush starts. |
 | 14 | Watcher fight: Gale Step, detonation rapier; party kill (+479 XP); confession starts. |
 | 15 | Partial confession; dump body to Wereboars; Roland keeps rapier; [Highest] Detonation schematic + Runic Scholar. |
-| 16 | Class change: Runic Mana Scrybe (fire-orb trial). |
+| 16 | Class change: Runic Mana Scribe (fire-orb trial). |
 | 17 | L28 sheet; loot split; quits party for craft path; asks for Sahildr's hammer. |
 | 18 | Impact [Highest] schematic; Bronze→Steel; parting bag; farewell (girls cry after). Girls take Steel/Silver caravan escort elsewhere. |
 | 19 | Roland arrives Edelgard; meets Helci at Singing Crow; Fire Orb [Highest] from memory. |

@@ -297,7 +297,7 @@ XP bar: enter **1250 / 1500** (estate Mage doubles). Kills **52 / 53 / 51 / 53 /
 
 Class package at L4: +4 Int / +4 Will vs L3’s +3. Blessed +10 MP × 4. No on-page attribute sheet.
 
-**Coin (LC):** enter **795** (after Ch 8 gate + card). Spend meal **7** + map **10**. Income ears **35** + stones **60** (= **95** turn-in). End **875 LC**.
+**Coin (LC):** enter **795** (after Ch 8 gate + card). Spend meal **5** + map **10**. Income ears **35** + stones **60** (= **95** turn-in). End **875 LC**.
 
 Costs quoted not paid: lodging 1 SS/night (+5 LC breakfast; ~10% monthly = 270 LC).
 
@@ -305,10 +305,10 @@ XP shown matches `49 + monster level` (L2=51 … L5=54). Source used ~15–20 pe
 
 ## Chapter 9.5
 
-Three-month rewrite grind (Source has no separate chapter; Ch 10 opens already at L20). Field-use curve in `Levels.md`; end ranks in `Skills.md` Ch 9.5. **L9 hard cap until first T2.** Absorption / Reinforcement cycle whenever mana is spent → both **L9** (Reinforcement self-taught from ambient→body store, not a book). Also: Shaping **L6**, Regulation **L7**, Incantation **L6**, Bolt **L7**, Arrow **L5**, Shield **L3**, Sword / Sneak / Hand to Hand / Marksmanship **L9**. Ember **L6** / Hands **L5** (evenings). End **Mage L20** → rewrite Int **129** / Will **126** / MP **~2353**. Physicals **42/40/52/41/40**. Month beats: ~L11–12 + Arrow; ~L16–17 + Shield + nickname; L20 + Goblin Hunter.
+Three-month rewrite grind (Source has no separate chapter; Ch 10 opens already at L20). **1,481** goblin kills; lifetime **1,569**. Field-use curve in `Levels.md`; end ranks in `Skills.md` Ch 9.5. **L9 hard cap until first T2.** Absorption / Reinforcement cycle whenever mana is spent → both **L9** (Reinforcement self-taught from ambient→body store, not a book). Also: Shaping **L6**, Regulation **L7**, Incantation **L6**, Bolt **L7**, Arrow **L5**, Shield **L3**, Sword / Sneak / Hand to Hand / Marksmanship **L9**. Ember **L6** / Hands **L5** (evenings). End **Mage L20** → rewrite Int **129** / Will **126** / MP **~2353**. Physicals **42/40/52/41/40**. Month beats: ~L11–12 + Arrow; ~L16–17 + Shield + nickname; L20 + Goblin Hunter (past **1000** kills). Coin end **6,000 LC**; stones gathered **296** (kept after Ch 9 day one). Food: inn breakfast+dinner; **3** jerky bought; other lunches = goblin prey. Cloak **300 LC**. Ledger: `Experience.md`.
 ## Chapter 10
 
-**Timeskip end / present day.** Title **Goblin Hunter**. Nickname Little Goblin Slayer. Mage L20 sheet at the inn (beef jerky). **Live sheet below is still Source-era** (Int 78 / Will 50 / MP 1380); rewrite target is the Ch 10 block in `StatusBreakdown.md`. Rents upstairs room at the Chapter 9 inn. Armor/sword repairs ongoing. Plans Mana Scrybe first, then Blacksmith; next city **Edelgard**. Clumsy Arden watcher in town. Joins Becky / Sahildr / Reyna for dungeon (claims age 12).
+**Timeskip end / present day.** Title **Goblin Hunter**. Nickname Little Goblin Slayer. Mage L20 sheet at the inn (beef jerky). Live sheet matches rewrite Ch 10 block in `StatusBreakdown.md` (Int **129** / Will **126** / MP **2353**; physicals **42/40/52/41/40**; Cha **11** / Luck **7**). Rents upstairs room at the Chapter 9 inn. Armor/sword repairs ongoing. Plans Mana Scribe first, then Blacksmith; next city **Edelgard**. Clumsy Arden watcher in town. Joins Becky / Sahildr / Reyna for dungeon (claims age 12).
 
 ```
 ════════ TITLE ═════════
@@ -323,23 +323,23 @@ All goblins are hostile toward the title holder. Goblins below the holder's leve
 Name:       Roland Arden
 Class:      Mage L20
 
-HP               289/289
-MP              1380/1380
-SP               368/368
+HP               530/530
+MP              2353/2353
+SP               646/646
 
-Strength              21
-Agility               25
-Dexterity             36
-Vitality              22
-Endurance             23
-Intelligence          78
-Willpower             50
+Strength              42
+Agility               40
+Dexterity             52
+Vitality              41
+Endurance             40
+Intelligence         129
+Willpower            126
 Charisma              11
-Luck                   8
+Luck                   7
 ════════════════════════
 ```
 
-Intelligence keeps Hastened Reading +2 and Mana Sense L4 +4 vs Source 72. Luck held at 8 from prior sheets (Source listed 6). Full rewrite stack (Basics + adult-mind body) still not applied on live sheets.
+Rewrite stack applied: HP = Vit×10+End×3; SP = End×10+Str×3+Agi×3; MP = ((Int×10)+(Will×4))×1.2 + 200 Blessed. Cha body rises with age (seed **3** through childhood → **7** by Ch 10 / ~age 10–11); Acting still **+4**.
 
 ## Chapter 11
 
@@ -386,11 +386,11 @@ No full status screen. Gains **1000 XP** from Lesser Detonation Rune [Highest] s
 
 ## Chapter 16
 
-Class change to **Runic Mana Scrybe** (Runic Scholar unlock). No full attribute sheet. Mage L25 becomes inactive / replaced as current class. XP partial carry (~half of banked XP lost, including schematic chunk). Class text: increases mana regen and lowers mana consumption while scribing spells and runes. Skills gained: Basic Mana Scribing L1, Basic Rune Scribing L1, Basic Rune Mastery L1.
+Class change to **Runic Mana Scribe** (Runic Scholar unlock). No full attribute sheet. Mage L25 becomes inactive / replaced as current class. XP partial carry (~half of banked XP lost, including schematic chunk). Class text: increases mana regen and lowers mana consumption while scribing spells and runes. Skills gained: Basic Mana Scribing L1, Basic Rune Scribing L1, Basic Rune Mastery L1.
 
 ## Chapter 17
 
-Overall L28. Mage secondary. Runic Mana Scrybe main L3. Live sheet:
+Overall L28. Mage secondary. Runic Mana Scribe main L3. Live sheet:
 
 ```
 ════════ STATUS ════════
@@ -399,7 +399,7 @@ Level:      28
 
 Classes:
 T1 Mage L25              [Secondary]
-T1 Runic Mana Scrybe L3  [Main]
+T1 Runic Mana Scribe L3  [Main]
 
 HP               338/338
 MP              1554/1554
@@ -429,7 +429,7 @@ No full status screen. Parting bag confirmed at **10 small gold**. Gains **1000 
 
 ## Chapter 20
 
-No full status screen. Spends **9 small silver** on blank monster-skin scrolls plus ink/pencil/paper. Scroll retail math looks bad for solo sales. Exeor offers a 6-year cursed scrybe contract; he declines for now. No class or XP change.
+No full status screen. Spends **9 small silver** on blank monster-skin scrolls plus ink/pencil/paper. Scroll retail math looks bad for solo sales. Exeor offers a 6-year cursed Scribe contract; he declines for now. No class or XP change.
 
 ## Chapter 21
 
@@ -441,7 +441,7 @@ No full status screen. Class a few levels up (off-page). Skills: Basic Rune Scri
 
 ## Chapter 23
 
-Overall L35. Mage L25 secondary. Runic Mana Scrybe L10 main. Seller #64 net **6L+9S**. Weekly ~**1 SG** from ten Fire Arrow scrolls. Live sheet (mid-hunt MP spent):
+Overall L35. Mage L25 secondary. Runic Mana Scribe L10 main. Seller #64 net **6L+9S**. Weekly ~**1 SG** from ten Fire Arrow scrolls. Live sheet (mid-hunt MP spent):
 
 ```
 ════════ STATUS ════════
@@ -450,7 +450,7 @@ Level:      35
 
 Classes:
 T1 Mage L25               [Secondary]
-T1 Runic Mana Scrybe L10  [Main]
+T1 Runic Mana Scribe L10  [Main]
 
 HP               374/374
 MP              1701/1751
@@ -472,11 +472,11 @@ Skills shown: Basic Mana Scribing L2, Basic Rune Scribing L5, Basic Rune Mastery
 
 ## Chapter 24
 
-No full status screen. Still L35 / Scrybe L10. Fire Arrow grimoire clears five Mountain Goblins; Helci climbs rope with one mana stone. No XP numbers shown. Inn sausage "thanks."
+No full status screen. Still L35 / Scribe L10. Fire Arrow grimoire clears five Mountain Goblins; Helci climbs rope with one mana stone. No XP numbers shown. Inn sausage "thanks."
 
 ## Chapter 25
 
-No full status screen. Still Runic Mana Scrybe **L10** (Identified by Exeor's manager; no status-hide gear yet). Contract pending: **3 years**, exclusive sell-to-Exeor, **15%** commission, workspace + cheaper mats, **−30%** mana breach curse (negotiable). Wants comet brand + identity hide in the deal.
+No full status screen. Still Runic Mana Scribe **L10** (Identified by Exeor's manager; no status-hide gear yet). Contract pending: **3 years**, exclusive sell-to-Exeor, **15%** commission, workspace + cheaper mats, **−30%** mana breach curse (negotiable). Wants comet brand + identity hide in the deal.
 
 ## Chapter 26
 
@@ -484,7 +484,7 @@ No full status screen. Contract signed (identity hide + min price + status-hide 
 
 ## Chapter 27
 
-Overall L45. Mage L25 secondary. Runic Mana Scrybe L20 main. Basic Rune Mastery L4 (combat-only; aims L9 before Blacksmith). Live sheet: Int **102**, MP **2014**. Luck 8. Steel rank still. Signs Manstos Grotto expedition. (Rewrite debt: Hastened Reading / Mana Sense skill bonuses may push Int/MP higher than this live block.)
+Overall L45. Mage L25 secondary. Runic Mana Scribe L20 main. Basic Rune Mastery L4 (combat-only; aims L9 before Blacksmith). Live sheet: Int **102**, MP **2014**. Luck 8. Steel rank still. Signs Manstos Grotto expedition. (Rewrite debt: Hastened Reading / Mana Sense skill bonuses may push Int/MP higher than this live block.)
 
 ```
 ════════ STATUS ════════
@@ -493,7 +493,7 @@ Level:      45
 
 Classes:
 T1 Mage L25               [Secondary]
-T1 Runic Mana Scrybe L20  [Main]
+T1 Runic Mana Scribe L20  [Main]
 
 HP               390/390
 MP              2014/2014
@@ -513,7 +513,7 @@ Luck                   8
 
 ## Chapter 28
 
-No Roland status screen. Still L45 / Scrybe L20 off-page. Helci Scout L10 status shown. Cover story for scrolls: high-level runesmith friend.
+No Roland status screen. Still L45 / Scribe L20 off-page. Helci Scout L10 status shown. Cover story for scrolls: high-level runesmith friend.
 
 ## Chapter 29
 
@@ -537,7 +537,7 @@ No full status screen. Overall ~L47 (+2 from mine). Basic Rune Mastery maxed. Ha
 
 ## Chapter 34
 
-Overall L50. Mage L25 secondary. Runic Mana Scrybe L25 main (cap). Intelligence keeps Hastened Reading +2 vs Source 105. Luck held at 8. Starts Runic Blacksmith class trial (ladle). Fail cost 2 SG.
+Overall L50. Mage L25 secondary. Runic Mana Scribe L25 main (cap). Intelligence keeps Hastened Reading +2 vs Source 105. Luck held at 8. Starts Runic Blacksmith class trial (ladle). Fail cost 2 SG.
 
 ```
 ════════ STATUS ════════
@@ -546,7 +546,7 @@ Level:      50
 
 Classes:
 T1 Mage L25               [Secondary]
-T1 Runic Mana Scrybe L25  [Main]
+T1 Runic Mana Scribe L25  [Main]
 
 HP               413/413
 MP              2144/2144
@@ -566,7 +566,7 @@ Luck                   8
 
 ## Chapter 35
 
-Class change: Runic Blacksmith. No full attribute sheet. MP drops to 1% then +200 from mana potion. Secondary class swap available once/day. Lost Scrybe mana-regen bonus when Blacksmith is main. Ladle of Lesser Fire Resistance [Lesser: Lowest, High].
+Class change: Runic Blacksmith. No full attribute sheet. MP drops to 1% then +200 from mana potion. Secondary class swap available once/day. Lost Scribe mana-regen bonus when Blacksmith is main. Ladle of Lesser Fire Resistance [Lesser: Lowest, High].
 
 ## Chapter 36
 
@@ -614,7 +614,7 @@ No full attribute sheet. First store Sharp Runic Steel Longsword sold via Exeor.
 
 ## Chapter 47
 
-Full sheet: L69. Mage L25 [Secondary], Runic Mana Scrybe L25 [X], Runic Blacksmith L19 [Main]. HP 700. MP 2538 (338). SP 1003 (326). Str 53 Agi 38 Dex 80 Vit 52 End 60 Int 116 Will 100 Cha 16 Luck 8. Height ~**6'0"**. ~2 years as smith; Helci gone ~2 months.
+Full sheet: L69. Mage L25 [Secondary], Runic Mana Scribe L25 [X], Runic Blacksmith L19 [Main]. HP 700. MP 2538 (338). SP 1003 (326). Str 53 Agi 38 Dex 80 Vit 52 End 60 Int 116 Will 100 Cha 16 Luck 8. Height ~**6'0"**. ~2 years as smith; Helci gone ~2 months.
 
 ## Chapter 48
 
@@ -674,7 +674,7 @@ Alias Carmine. Aredhel Charisma 24 analyzed. +2 Common (green) Mantodea mana sto
 
 ## Chapter 62
 
-Full sheet: L70. Mage L25 [Secondary], Runic Mana Scrybe L25 [X], Runic Blacksmith L20 [Main]. HP 713. MP 2099/2599. SP 526/1019. Str 54 Agi 38 Dex 81 Vit 53 End 61 Int 116 (Hastened Reading +2 vs Source 114) Will 101 Cha 16 Luck 8. Technology not Circuitry. Mana Reinforcement L3.
+Full sheet: L70. Mage L25 [Secondary], Runic Mana Scribe L25 [X], Runic Blacksmith L20 [Main]. HP 713. MP 2099/2599. SP 526/1019. Str 54 Agi 38 Dex 81 Vit 53 End 61 Int 116 (Hastened Reading +2 vs Source 114) Will 101 Cha 16 Luck 8. Technology not Circuitry. Mana Reinforcement L3.
 
 ## Chapter 64
 
@@ -694,7 +694,7 @@ No full sheet. On Dragnis Island; overnight at port then caravan toward Albrook.
 
 ## Chapter 68
 
-Full sheet (guild orb, name/classes garbled by status-hide pendant): L71. Mage L25 [Secondary], Runic Mana Scrybe L25 [X], Runic Blacksmith L21 [Main]. HP 726. MP 2626. SP 1034. Str 55 Agi 38 Dex 82 Vit 54 End 61 Int 117 (Hastened Reading +2 vs Source 115) Will 102 Cha 16 Luck 8. Alias Wayland; Steel card pending tomorrow. Forms list regular Mage / Mana Scrybe / Blacksmith.
+Full sheet (guild orb, name/classes garbled by status-hide pendant): L71. Mage L25 [Secondary], Runic Mana Scribe L25 [X], Runic Blacksmith L21 [Main]. HP 726. MP 2626. SP 1034. Str 55 Agi 38 Dex 82 Vit 54 End 61 Int 117 (Hastened Reading +2 vs Source 115) Will 102 Cha 16 Luck 8. Alias Wayland; Steel card pending tomorrow. Forms list regular Mage / Mana Scribe / Blacksmith.
 
 ## Chapter 69
 
@@ -730,7 +730,7 @@ No full sheet. Still L71+ / Wayland. Floor 7 rescue; ice/earth runic kit on disp
 
 ## Chapter 77
 
-Full sheet: L75. Mage L25 [Secondary], Runic Mana Scrybe L25 [X], Runic Blacksmith L25 [Main]. HP 794. MP 2824. SP 1124. Str 59 Agi 40 Dex 87 Vit 59 End 68 Int 120 (Hastened Reading +2 vs Source 118) Will 107 Cha 17 Luck 8 (Source listed 10). Technology not Circuitry. Basics/combat: many L9 (Runecraft, Smithing, Rune Compression, Ethereal Pathways, Mana Reinforcement, One-handed Swordsmanship, Heavy Armor, Shield, Blunt). Ready for T2; sees Runesmith Lord.
+Full sheet: L75. Mage L25 [Secondary], Runic Mana Scribe L25 [X], Runic Blacksmith L25 [Main]. HP 794. MP 2824. SP 1124. Str 59 Agi 40 Dex 87 Vit 59 End 68 Int 120 (Hastened Reading +2 vs Source 118) Will 107 Cha 17 Luck 8 (Source listed 10). Technology not Circuitry. Basics/combat: many L9 (Runecraft, Smithing, Rune Compression, Ethereal Pathways, Mana Reinforcement, One-handed Swordsmanship, Heavy Armor, Shield, Blunt). Ready for T2; sees Runesmith Lord.
 
 ## Chapter 78
 

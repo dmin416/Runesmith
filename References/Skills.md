@@ -82,7 +82,7 @@ Already had at transfer from maps, GPS habits and diagrams at L4.
 
 ### Basic Calligraphy
 First seen: Chapter 7 (books packed for grind); L9 on status Chapter 13
-Writing skill. Roland takes calligraphy books when leaving Arden. Grinds months of nightly writing to L9 as a requirement for Mana Scrybe (popup Chapter 13). Scroll work later: more mana infused into the writing makes a stronger spell.
+Writing skill. Roland takes calligraphy books when leaving Arden. Grinds months of nightly writing to L9 as a requirement for Mana Scribe (popup Chapter 13). Scroll work later: more mana infused into the writing makes a stronger spell.
 
 ## Resistance and recovery
 
@@ -216,7 +216,7 @@ Faster, better chanting. **Intelligence +1 per level**, **Willpower +1 per level
 
 ### Basic Mana Scribing
 First seen: Chapter 16
-Scribe basic spells onto paper. Temporary in the Runic Mana Scrybe trial, then permanent at L1. Chapter 21: write the spell's incantation in the correct language while pushing mana through quill and ink (no runic pathways). First Mana Arrow scroll ~10 min, **+20 XP**. Identify on his own scroll returns name only until scribing levels.
+Scribe basic spells onto paper. Temporary in the Runic Mana Scribe trial, then permanent at L1. Chapter 21: write the spell's incantation in the correct language while pushing mana through quill and ink (no runic pathways). First Mana Arrow scroll ~10 min, **+20 XP**. Identify on his own scroll returns name only until scribing levels.
 
 ### Mana Reinforcement
 First seen: Chapter 9.5 (rewrite self-teach); Source Chapter 56 (skill book)
@@ -258,7 +258,7 @@ Inscribe magical runes on items. Runic Blacksmith grant (temporary in trial, the
 
 ### Basic Rune Scribing
 First seen: Chapter 16
-Scribe runes to paper. Temporary in the Runic Mana Scrybe trial, then permanent at L1. Runes have a max working size; the trial forces a compressed fire-orb schematic onto scroll parchment. Chapter 22: Common Fire Arrow grind to **L5**; understanding of runic scroll making noted at **L2** (separate progress line in prose). Chapter 27: can compact commons onto **envelope**-size paper (aim: playing-card); power holds but overload headroom drops; Fire Arrow throughput **5–6**/day.
+Scribe runes to paper. Temporary in the Runic Mana Scribe trial, then permanent at L1. Runes have a max working size; the trial forces a compressed fire-orb schematic onto scroll parchment. Chapter 22: Common Fire Arrow grind to **L5**; understanding of runic scroll making noted at **L2** (separate progress line in prose). Chapter 27: can compact commons onto **envelope**-size paper (aim: playing-card); power holds but overload headroom drops; Fire Arrow throughput **5–6**/day.
 
 ### Basic Rune Mending / Rune Mending
 First seen: Chapter 81
@@ -390,7 +390,7 @@ Fast assembly or reassembly of machines.
 
 ### Basic Penmanship / Basic Copy Writing / Basic Drawing / Drawing
 First seen: Chapter 18
-Writing and copy skills for scroll work. Roland's Basic Drawing L9 breaks through to Drawing L1 while copying the Lesser Impact schematic with Debugger overlay (Chapter 18; credits Runic Mana Scrybe). Painting is a separate skill.
+Writing and copy skills for scroll work. Roland's Basic Drawing L9 breaks through to Drawing L1 while copying the Lesser Impact schematic with Debugger overlay (Chapter 18; credits Runic Mana Scribe). Painting is a separate skill.
 
 ### Basic Steady Hand Inscription
 First seen: Chapter 686
@@ -661,13 +661,12 @@ Lucille. Temporary bond trait. About +15% mana capacity and regen; Overlord can 
 Titles are status cards separate from traits. Some give combat bonuses.
 
 ### Goblin Hunter
-First seen: Chapter 10
-Earned by goblin hunting. **All** goblins are hostile toward the holder. Goblins **below** the holder's level exert less force and sometimes become afraid. Innate sense for the location of nearby goblins. Nickname talk: Little Goblin Slayer. Later evolves to Goblin Slaughterer (Chapter 37).
-**Future idea:** unlock at **1000 goblin kills** (`Ideas.md` Open). Not locked in chapter math yet.
+First seen: Chapter 9.5 (month 3; on-sheet Chapter 10)
+Earned by goblin hunting. Unlock threshold **1000** goblin kills (locked; `Ideas.md` / `Experience.md`). Ch 9.5 grants it once past **1000** into the Carwen skip; end skip **1,481** Carwen / **1,569** lifetime. **All** goblins are hostile toward the holder. Goblins **below** the holder's level exert less force and sometimes become afraid. Innate sense for the location of nearby goblins. Nickname talk: Little Goblin Slayer. Later evolves to Goblin Slaughterer (Chapter 37).
 
 ### Runic Scholar
 First seen: Chapter 15
-Gained with the first [Highest] lesser rune schematic (Lesser Detonation Rune). Status text: knowledgeable in the runic language; has created and/or understands runes. Unlocks **Runic Mana Scrybe** at class change (Chapter 16). Later evolves to Runic Scholar II (Chapter 48; small bonus to rune-related skills).
+Gained with the first [Highest] lesser rune schematic (Lesser Detonation Rune). Status text: knowledgeable in the runic language; has created and/or understands runes. Unlocks **Runic Mana Scribe** at class change (Chapter 16). Later evolves to Runic Scholar II (Chapter 48; small bonus to rune-related skills).
 
 ## Notes
 

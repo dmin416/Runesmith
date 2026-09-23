@@ -11,15 +11,16 @@ Roland's gear and carried items by chapter. Follow `CrossCheck.md`. Chapter text
 | **Pre-class L1 total** | **56** | Bank **3000** XP before half |
 | Ch 6→7 estate Mage | **25× Goblin L1** (pairs) | Already Mage; bar toward L4 |
 | Ch 7 last pen | in the **25** | Level not shown on-page |
-| Ch 9 forest day | **7** ears (L3–L5 band) | Bounty + stones |
-| Ch 9.5 timeskip (~3 months) | **~1100–1200** working (spell XP + matched goblins); **1481** if kill-only L4→L20; **≥1000** if Goblin Hunter locks at 1000 kills (`Ideas.md`) | Ends Mage **L20** |
+| Ch 9 forest day | **7** | Bounty + stones |
+| Ch 9.5 timeskip (~3 months) | **1,481** | Locked; ~16–17/day over ~90 days; ends Mage **L20** |
+| **Lifetime through Ch 9.5** | **1,569** | 81 estate + 7 + 1,481 |
 
 **Mana stones (goblin ~1 in 5, rice-grain, 2 SS each):**
 - Pre-class 56 L1s → ~11 expected if every corpse checked. At least **1** turned in and **snatched** by servants (Baron property excuse). After that he pockets them.
 - Ch 7: **+1** from the second pen goblin (kept).
 - Leaves estate / arrives Carwen with **2** training-day stones still on him (Ch 9 sale).
 - Ch 9: **+1** forest stone. Sells **3** total at **2 SS** each (1 new + 2 estate).
-- Ch 9.5: **~220–250** expected gathered (working kill band × 1/5). Kill-only 1481 → **~296**. Title-at-1000 floor → **~200** then more while finishing L20. Most sold for lodging / meals / repairs / robe; pocket leftovers not fixed on-page.
+- Ch 9.5: **296** gathered (**1,481 ÷ 5**). **Kept** after Ch 9 day one (ears fund living; stones banked). End pouch **6,000 LC** (**6 SG**). **296** stones on person into Ch 10. Ledger: `Experience.md`.
 ## Chapter 4
 
 Ninth birthday bravery test kit:
@@ -47,7 +48,7 @@ Departure / cabin kit (carries forward the estate short sword and leather from e
 - **Dagger** – side weapon. Clutched when he fears the mustache coachman is a robber; not drawn.
 - **Rice-grain mana stone / monster core** – from the second estate goblin (**~1 in 5** drop). Pocketed after servants stole a prior turn-in.
 - **Martha sandwich box** – cheese and meat sandwiches; shared with Lucienne at the hedge hideout.
-- **Blank paper** + **calligraphy books** – packed for the Mana Scrybe / writing grind.
+- **Blank paper** + **calligraphy books** – packed for the Mana Scribe / writing grind.
 - **Luggage / bags** – coach then train then cabin; coachman helps unload.
 - **Coin pouch** – counted at the cabin; amount not itemized.
 - **Father's letter** (Arden seal) – lodging only, no more money, army return option. Kept in bag (not burned; Source burned it).
@@ -57,7 +58,7 @@ Departure / cabin kit (carries forward the estate short sword and leather from e
 
 Cabin morning / guild registration kit:
 
-- **Class-up crystal** – stolen from the Baron's estate (ascension-like). Buried unmarked near the cabin for later Blacksmith or Mana Scrybe respec.
+- **Class-up crystal** – stolen from the Baron's estate (ascension-like). Buried unmarked near the cabin for later Blacksmith or Mana Scribe respec.
 - **Coin pouch** – pile totals exactly **1 small gold** (copper + silver mix). Arithmetic hover count.
 - **Small mirror** – taken from the noble house.
 - **Black leather armor** – chest, pauldrons, sword belt, armguards, pouch belt, boots, knee pads. Worn into town / guild (looks second-hand; ~150 cm).
@@ -98,24 +99,27 @@ Three-month Carwen grind (rewrite bridge; Source has no separate chapter).
 
 **Lodging / kit**
 - Upstairs room at the Ch 9 inn (cabin commute dropped).
+- First major purchase: nice-ish thick wool cloak (**300 LC**, mattress/comforter).
 - Spare robe bought when the old one reeks of smoke / goblin blood.
 - Leather and shortsword repairs from turn-in leftovers.
 - Local map, adventurer card, buried class-up crystal, calligraphy stock carried forward.
 
 **Food**
 - Street/stall hunt fails (ash bread, sour stew, burnt spit, fishy second tavern).
-- Settles on inn porridge + dry meat as reliably mediocre.
+- Settles on inn porridge + dry meat as reliably mediocre for **breakfast and dinner**.
+- Forest lunch: **3** jerky sticks bought; otherwise rabbits / goblin-camp prey.
 
 **Gained during the skip (not a single shop day)**
-- **Goblin left ears** – steady steel-board turn-ins (~5 LC each). Volume tracks kill count above.
-- **Rice-grain mana stones ~220–250** gathered (working; ~1 in 5). Gross sale value if all sold: **~440–500 SS** (**~4400–5000 LC**). Lived off ears + stone sales (lodging, meals, repairs, robe); leftover pocket count not locked.
+- **Goblin left ears** – **1,481** steel-board turn-ins (**5 LC** each → **+7,405 LC**). Funds lodging, meals, repairs and robe.
+- **Rice-grain mana stones ×296** gathered (~1 in 5); **kept** after Ch 9 day one (no stone sales in the skip).
+- Enter pouch **875 LC** → end pouch **6,000 LC** (**6 SG**) after lodging / breakfast+dinner / **3** jerky / cloak **300** / repairs / robe / food-hunt tastes. Full ledger: `Experience.md`.
 - **Mana Arrow** (late month 1 class grant) then **Mana Shield** (month 2).
-- **Mana Absorption** and **Mana Reinforcement** self-taught from ambient → body-store drills (Reinforcement stronger than common skill books).
-- Title **Goblin Hunter** (month 3; idea unlock **1000** kills). Nickname Little Goblin Slayer (guild hall).
-- End of skip: Mage **L20**; spell/skill ranks in `Skills.md` Ch 9.5.
+- **Mana Absorption** and **Mana Reinforcement** self-taught from ambient → body-store drills (same skill as common books; discovery just takes longer).
+- Title **Goblin Hunter** (month 3; past **1000** kills into the skip). Nickname Little Goblin Slayer (guild hall).
+- End of skip: Mage **L20**; lifetime goblin kills **1,569**; spell/skill ranks in `Skills.md` Ch 9.5.
 
-**Still carrying into Ch 10:** leather (repaired), shortsword (repaired), hunting knife, spare robe, small mirror, adventurer card, local map, calligraphy stock, coin pouch (amount floating with sales/spend; not a fixed ledger yet), buried class-up crystal, any unsold rice-grain stones.
+**Still carrying into Ch 10:** leather (repaired), shortsword (repaired), hunting knife, thick wool cloak, spare robe, small mirror, adventurer card, local map, calligraphy stock, coin pouch (**6,000 LC**), **296** rice-grain mana stones, buried class-up crystal.
 
 ## Chapter 10
 
-**Present day after Ch 9.5.** Same Carwen kit plus robe bought during the grind; upstairs inn room rented. Goblin Hunter title. Armor/sword repairs ongoing. Party invite with Becky / Sahildr / Reyna at chapter end.
+**Present day after Ch 9.5.** Same Carwen kit plus thick wool cloak and spare robe from the grind; upstairs inn room rented. Goblin Hunter title. Nest opener: **7** kills (**1** at level, **6** slightly lower), **2** stones, underseasoned gamey boar leg. Armor/sword repairs ongoing. Party invite with Becky / Sahildr / Reyna at chapter end. Pouch **6,000 LC**; stones **296** into chapter → **298** after nest.

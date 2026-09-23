@@ -4,7 +4,7 @@ Rune ranks, named rune types, and runic crafting concepts. Character skills that
 
 ## Rune vs enchantment (Chapter 6 book)
 
-Both place lasting effects on gear. **Enchantments** use a word-like language (Earth analogy: English). **Runes** use a symbol language (Earth analogy: Japanese / Chinese characters). Runes are harder to master and considered better. Chapter 13 shop talk: regular enchantments are cheaper and weaker and cover more surface area so fewer fit on one item; only runic pieces trigger Roland's pathway attraction. Runesmith and Enchantsmith are the matching Tier 2 craft classes; both need Mana Scrybe first. Rune quality leans on the crafter’s Intelligence and Dexterity; mana helps making and using them.
+Both place lasting effects on gear. **Enchantments** use a word-like language (Earth analogy: English). **Runes** use a symbol language (Earth analogy: Japanese / Chinese characters). Runes are harder to master and considered better. Chapter 13 shop talk: regular enchantments are cheaper and weaker and cover more surface area so fewer fit on one item; only runic pieces trigger Roland's pathway attraction. Runesmith and Enchantsmith are the matching Tier 2 craft classes; both need Mana Scribe first. Rune quality leans on the crafter’s Intelligence and Dexterity; mana helps making and using them.
 
 ## Ranks and grades
 
@@ -34,7 +34,7 @@ Active common rune. Coats the weapon in a thin mana layer that absorbs physical 
 
 ### Lesser Fire Orb Rune
 First seen: Chapter 16
-Fire orb projection rune. Roland's Runic Mana Scrybe trial scroll: fire core + orb shape + mana regulation / control "program" (logic-gate feel). Needs magical ink and mana-retaining parchment (often monster skin). Max rune size; must compress the schematic. Recreated as [Highest] schematic from **memory** in Chapter 19 (~1 hour; +1000 XP; no Debugger source item). Chapter 21 first practice scroll ~45 min / +50 XP (still red under Debugger); activates fine at **0%** fire affinity. Chapter 36: first reusable metal form, Bronze Plate of the Fire Orb [Lesser: Lowest, High].
+Fire orb projection rune. Roland's Runic Mana Scribe trial scroll: fire core + orb shape + mana regulation / control "program" (logic-gate feel). Needs magical ink and mana-retaining parchment (often monster skin). Max rune size; must compress the schematic. Recreated as [Highest] schematic from **memory** in Chapter 19 (~1 hour; +1000 XP; no Debugger source item). Chapter 21 first practice scroll ~45 min / +50 XP (still red under Debugger); activates fine at **0%** fire affinity. Chapter 36: first reusable metal form, Bronze Plate of the Fire Orb [Lesser: Lowest, High].
 
 ### Lesser Fire Rune
 First seen: Chapter 194

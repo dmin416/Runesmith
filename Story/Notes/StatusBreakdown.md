@@ -12,7 +12,7 @@ Displayed = Body + Class levels + Skills/Traits + Other
 
 ### 1. Body
 
-Age + daily training from `Progression.md`. Physicals from the trained body table. Mentals from the **adult-mind** Int/Will table (4 hours reading daily). Cha/Luck stay as personal seeds until named growth.
+Age + daily training from `Progression.md`. Physicals from the trained body table. Mentals from the **adult-mind** Int/Will table (4 hours reading daily). Luck stays a personal seed until named growth. **Charisma body** stays a low childhood seed (**3**) through age ~10, then rises with adolescence and social life (Ch 10 body **7** → displayed **11** with Acting **+4**).
 
 | | STR | AGI | DEX | VIT | END | INT | WILL | CHA | LUCK |
 |---|---|---|---|---|---|---|---|---|---|
@@ -207,7 +207,7 @@ Physical Basics: Sword / Sneak / Hand to Hand / Marksmanship → **L9**. Others 
 | Mana Absorption | — | **L9** | constant pull as mana is spent (combat) |
 | Mana Reinforcement | — | **L9** | held while the pool is working (combat) |
 | Mana Bolt / Arrow / Shield | L1 / — / — | **L7 / L5 / L3** | combat casts |
-| Ember / Mana Hands | book | **L6 / L5** | evenings + light field use |
+| Ember / Mana Hands | self | **L6 / L5** | evenings + light field use |
 | Reading / Mana Sense | L9 | L9 | unchanged |
 
 Skills/Traits Int = pre-mage pile **48** + Shaping **12** + Regulation **7** + Incantation **6** + Absorption **9** + Reinforcement **9** = **91**.
@@ -218,10 +218,10 @@ Sword L9 + Hand to Hand L9 → Skills/Traits Str **27** (was 25), Vit **27** (wa
 
 | Bucket | STR | AGI | DEX | VIT | END | INT | WILL | CHA | LUCK |
 |---|---|---|---|---|---|---|---|---|---|
-| Body | 15 | 20 | 16 | 14 | 13 | 18 | 25 | 3 | 7 |
+| Body | 15 | 20 | 16 | 14 | 13 | 18 | 25 | 7 | 7 |
 | Class | 0 | 0 | 0 | 0 | 0 | 20 | 20 | 0 | 0 |
 | Skills/Traits | 27 | 20 | 36 | 27 | 27 | 91 | 81 | 4 | 0 |
-| **Total** | **42** | **40** | **52** | **41** | **40** | **129** | **126** | **7** | **7** |
+| **Total** | **42** | **40** | **52** | **41** | **40** | **129** | **126** | **11** | **7** |
 
 MP = ((129×10)+(126×4))×1.2 + 200 Blessed = 1794×1.2 + 200 = **2353**.
 
@@ -229,7 +229,7 @@ Reinforcement while active: **+90%** of max MP as bonus base stats (L9 × 10%, 9
 
 **Class-only check:** mana skills stuck at L1 → Int **90** / Will **77**. Absorption / Reinforcement at L9 are what push Int/Will into the **129 / 126** band.
 
-**Live Ch 10 inn sheet** (Int 78 / Will 50 / MP 1380) is still Source-era body and must be retconned to this block when that chapter's status is rewritten.
+**Live Ch 10 inn sheet** matches this block (chapter + `Status.md` retconned).
 
 ---
 

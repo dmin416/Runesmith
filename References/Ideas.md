@@ -161,7 +161,7 @@ Group by job, not by flashy name. Prefer small spells or skill drills that chang
 - **Mark / Beacon:** leave a mana blot only Sense users notice. Trail crumbs in a dungeon.
 - **Alarm Thread:** trip filament that pings the caster. Camp perimeter.
 
-**8. Craft-adjacent (why mages become Scrybes)**
+**8. Craft-adjacent (why mages become Scribes)**
 - Hold a stable **spell circle** in air long enough to copy it (Shaping + Incantation).
 - Push mana through ink / quill (leads to **Mana Scribing**).
 - Soft **heat / pressure** on a small point (Ember + Hands) for sealing wax, glue, soft annealing. Not a forge.
@@ -186,6 +186,68 @@ Class dumps Bolt / Arrow / Shield on level gates. Books and practice fill the ut
 - Which of these become named spells vs unnamed Shaping tricks.
 - Whether Light / Push / Wall are class grants at set Mage levels or book-only.
 - Exact MP costs and L1–L9 feel when a spell is locked into `Spells.md`.
+
+### Mana Abilities (draft tree)
+
+Idea map. Overlaps the T1 table above; keep both until names lock.
+
+#### Foundational abilities
+
+- **Sense Mana** - The ability to see mana in the air, within the body and eventually within the bodies of others.
+- **Regulate Mana** - The ability to regulate mana within the body to store it safely.
+- **Manipulate Mana** - Root skill for shaping mana; prerequisite for all applications.
+
+#### Applications
+
+- **Movement** - Moving mana itself from one place to another.
+- **Compression** - Condensing mana into a dense point; precursor to piercing or explosive effects.
+- **Friction Fire** - Rubbing mana together to generate heat and fire.
+
+#### Spells
+
+- **Mana Bolt** - Low-cost, fast, low-damage bolt of raw mana.
+- **Mana Arrow** - Higher-cost, more precise, higher-damage projectile than Mana Bolt.
+- **Mana Shield** - Barrier that absorbs damage, draining mana per hit or per turn sustained.
+
+#### Future applications
+
+- **Mana Thrust** - Compress and release mana in a directed burst for a dash or jump.
+- **Mana Jet** - Sustained directed release of mana for continuous propulsion or flight.
+- **Oscillation** - Vibrating mana rapidly to produce sonic effects.
+- **Mana Bomb** - Compress and release mana for an area-of-effect explosion.
+- **Vacuum** - Compress mana to displace surrounding air or mana, creating a void that implodes or pulls objects inward.
+- **Sound Waves** - Directed oscillation used as a pulse or wave, causing disorientation, knockback or shattering effects.
+- **Static Charge** - Friction building an electrical charge instead of heat, producing a lightning-adjacent effect.
+
+#### Potential spells (from future applications)
+
+**Mana Thrust**
+- **Burst Step** - A sudden short-range dash powered by a directed thrust of mana.
+- **Repulsion Palm** - A close-range thrust released as a shockwave to knock a target back.
+
+**Mana Jet**
+- **Flight** - Sustained jets of mana beneath the body for continuous airborne travel.
+- **Jet Boost** - A short burst of sustained thrust layered onto a jump or dash for extended air time.
+
+**Oscillation**
+- **Sonic Lance** - A tightly focused vibration used as a piercing attack.
+- **Vibration Pulse** - A wide burst of vibration used to disrupt or shatter brittle objects.
+
+**Mana Bomb**
+- **Mana Grenade** - A compressed charge shaped and thrown before detonating.
+- **Fragmentation Burst** - A compressed charge that splits into multiple smaller explosions on impact.
+
+**Vacuum**
+- **Void Pull** - A vacuum effect that draws targets or objects toward its center before collapsing.
+- **Suffocate** - A sustained vacuum used to deny air in a contained area.
+
+**Sound Waves**
+- **Sonic Boom** - A concentrated wave released in a single directional strike.
+- **Disorient Wave** - A wide wave tuned to disrupt balance and focus rather than deal damage.
+
+**Static Charge**
+- **Shock Touch** - A static charge delivered through direct contact.
+- **Chain Static** - A charge that arcs from the initial target to nearby targets.
 
 ## Predicted story at large
 
@@ -249,4 +311,4 @@ See `Story/Notes/Early Logical Skills.md`. Short version: Basic Mathematics and 
 - Finalize Early Logical Skills naming (Ambient Mana Absorption vs early Regulation; Parallel Thinking trait vs skill).
 - Temp skill rewrite pass: `References/TempRolandSkillChanges.md` (merge then delete).
 - Name and lock the Tier 2+ passive telekinesis / mage-hand skill above Mana Shaping (`Ideas.md` Systems).
-- **Goblin Hunter** unlock threshold: **1000 goblin kills** (idea). Align Ch 9.5 kill count / month-3 grant when locked. Later Goblin Slaughterer may need its own kill or boss gate.
+- **Goblin Hunter** unlock threshold: **1000** goblin kills (locked). Ch 9.5 grants it in month 3 once past **1000** into the skip; end skip at **1,481** Carwen kills / **1,569** lifetime (`Experience.md`). Later Goblin Slaughterer may need its own kill or boss gate.

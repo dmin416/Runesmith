@@ -8,13 +8,13 @@ Named magic and commonly referenced spell effects. Runic scroll versions are not
 First seen: Chapter 5
 Focused mana projectile; early core mage spell. Tutorial clone demonstrates chant + palm form before the skill dump. Damage scales with Intelligence. Chapter 7–9 field use: egg-sized bolt after a full chant (*Source of all magic, heed my call!* / *Gather before me and strike down my enemies, Mana Bolt!* or shortened closing *Mana Bolt!*). Fine vs eyes and other weak spots; not rapid-fire. **Must chant while shaping**; shaping alone evaporates. Whisper chant works but lowers power. Panting or running collapses the cast. Aim can track with Dexterity / prior FPS habit. Chapter 27: lesser elemental grafts (same research track as Mana Arrow). Chapter 37: inscribed on bronze paddle wands (~75 MP per cast through the item).
 
-**Speaking levels (rewrite physics):** shared `E(INT) = 118.9 × ln(1 + INT/100)` with Mana Arrow. Normal: pop = kinetic = E; speed = √(2E / 0.084). Other levels use shares of the INT 73 / 65 J anchor. Costs: Mental **15**, Whisper **15**, Quiet **20**, Normal **25**, Overcharged **40**, Overcharged max **50**. **1 mana ≈ 10 J.** Eye burst ~INT **70**; whisper vault kill ~INT **100+**. Full tables: `Science.md`.
+**Cast law (rewrite physics):** `Useful = mana × 10 × η(L) × μ(INT)` with `η(1)=0.3`, `η(L)=1+(L-2)×2/7` for L2–L9 (L2=1.0 … L9=3.0), and `μ=(INT/15)^0.8`. Voice sets mana: Mental **10**, Whisper **15**, Quiet **20**, Normal **25**, Loud **40**, Very loud **50**. **Overcharging a spell is equal to the mana used.** **1 mana ≈ 10 J** paid. Goblin skull/eye clear on L1 normal from mid INT; hardness and aim still gate armor. Full tables: `Science.md`.
 
 ### Mana Arrow
 First seen: Chapter 10
 Faster, more penetrating mana projectile than Mana Bolt. Costs more mana and needs a longer cast. Roland’s nest-opener from ~100 m trees; Chapter 11 entrance dungeon-rat one-shot. Class-granted with Mage progression (knowledge dump at level thresholds). Chapter 20 shop scroll: **1 small silver**. Chapter 27: Roland grafts lesser elemental variants (wind / fire / water) onto Mana Arrow base via Debugger research.
 
-**Rewrite physics:** pure kinetic (no pop), 4 mm × 400 mm, 40 g. `Kinetic = E(INT) × (mana/25)` with shared E. Punch `1.5 × R × A × t` (A = 0.1257 cm²). Hardness gate `H ≥ 1.5 R` before joules count: INT 40 clears mail, not brigandine/iron/steel. Hidden razor vanes slice on through-shots only. Full tables: `Science.md` (Mana Arrow).
+**Rewrite physics:** pure kinetic (no pop), 4 mm × 400 mm, 40 g. Same cast law as Mana Bolt at **2× voice mana** (Mental **20**, Whisper **30**, Quiet **40**, Normal **50**, Loud **80**, Very loud **100**). Overcharge = mana used. Punch `1.5 × R × A × t` (A = 0.1257 cm²). Hardness gate `H ≥ 1.5 R` before joules count: INT 40 clears mail, not brigandine/iron/steel. Hidden razor vanes slice on through-shots only. Full tables: `Science.md` (Mana Arrow).
 
 ### Magic Bolt
 First seen: Chapter 9
@@ -28,13 +28,15 @@ Guided or homing mana arrow variants.
 First seen: Chapter 10
 Mana barrier for caster or allies. One of Mage’s three basic class spells with Bolt and Arrow. Chapter 11 party cast on Sahildr vs a spiked boar: *Source of all magic, heed my call. Let your strength be mine and protect which I deem worthy.* / *Mana Shield!* Blue bubble barrier. Chapter 14: extra mana poured into the bubble around Reyna vs a T2 fencer thrust; still pierced but bought the parry. Chapter 27: can reshape lesser shield into a tight earth wall (and other elemental variants) via surface rune edits.
 
+**Rewrite physics:** `N = floor(20 × M × η × μ × S × R / J)` with shared η/μ. **Baseline M = 100.** Focused disk A = 0.2 m² (S = 1, R = 1); semicircle A = 6.28 m² (S ≈ 0.178, R = 1 - 0.628 t / M). Threat J table and hit counts: `Science.md` (Mana Shield).
+
 ### Lesser Shield
 First seen: Chapter 167
 Lower-tier shield spell.
 
 ### Mana Hands / Mana Hand / Mage Hand
 First seen: Chapter 10
-Telekinetic mana hands. Weight and range scale with Intelligence. Learned from an Arden estate spell book (not a free class grant). Mage Hand is the common cast name later.
+Telekinetic mana hands. Weight and range scale with Intelligence. Learned from an Arden estate spell book (not a free class grant). Mage Hand is the common cast name later. Lift / throw / hold energy tables: `Science.md` (Mana Hands).
 
 ### Lesser Mana Burst
 First seen: Chapter 437
@@ -48,7 +50,7 @@ Large destructive projectile spell.
 
 ### Ember
 First seen: Chapter 10
-Small fire via mana friction. Learned from an Arden estate spell book with Mana Hands. Utility ignite.
+Small fire via mana friction. Learned from an Arden estate spell book with Mana Hands. Utility ignite. Ignition energy table: `Science.md` (Ember).
 
 ### Fire Bolt / Firebolt
 First seen: Chapter 31

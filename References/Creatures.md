@@ -10,6 +10,10 @@ Reanimated patrol skeletons.
 First seen: Chapter 4
 Common early foe. Roland’s first kill is a **Goblin L1** (HP 117/117) in the Arden mansion dungeon bravery test. About **120 cm** tall, green, rusty short blade. Estate training stock for age-9 tests, weekly **1v1** clears into the pre-class bank, then weekly **2× L1** clears for ~3 months after Mage (Chapter 7 finale still uses the pen). Kill XP **50** (49+1; RaceMult 1.0); First Kill achievement adds **+200**. **Mana stone** / monster core drop about **1 in 5** (rice-grain size in Chapter 7). Live in groups with a strength hierarchy; chiefs are often evolved soldiers or shamans. Chapter 9 Carwen farm-forest: L2–L5 trash with clubs/spears; tribal alarm screams; Hobgoblin chiefs feared. Chapter 10: darker-green nest leaders; Roland snipes from ~100 m with Mana Arrow; guerrilla lure tactics clear many nests over three months. Bounty proof: left ear.
 
+### Goblin Shaman
+First seen: Chapter 10 (guild gossip; kill in late Ch 9.5)
+Evolved goblin chief type. Named rewrite kill: **Goblin Shaman L23** (above Roland’s Mage L20 when he took it; counts inside the Ch 9.5 **1,481**). Guild hall talk in Chapter 10 references it as “last time.”
+
 ### Dragon (egg)
 First seen: Chapter 7
 Unhatched dungeon dragon egg Roland incubates. Full dragons are rare and hard to tame.

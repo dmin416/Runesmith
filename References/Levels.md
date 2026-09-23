@@ -7,10 +7,10 @@ How class levels, skill levels and tier multipliers work. Physical training time
 | Track | Example | Raises from | Does |
 |---|---|---|---|
 | **Overall level** | Level 28 | XP (shared pool) | Pure level total. XP cost to advance uses the linear curve below. Not class-based. |
-| **Class level** | Mage L5, Scrybe L3 | Same XP pool, applied to the **main** class | Grows attributes via class package. Hits a class cap before the next class. |
+| **Class level** | Mage L5, Scribe L3 | Same XP pool, applied to the **main** class | Grows attributes via class package. Hits a class cap before the next class. |
 | **Skill level** | Debugger L8, Basic Climbing L3 | Practice / use | Improves that action and often adds flat attribute bonuses. |
 
-**Overall level ≈ sum of class levels** on the sheet (Mage L25 + Scrybe L3 → Level 28). XP fills one bar. When it rolls over, overall level and main class level both go up by 1 (until that class is capped).
+**Overall level ≈ sum of class levels** on the sheet (Mage L25 + Scribe L3 → Level 28). XP fills one bar. When it rolls over, overall level and main class level both go up by 1 (until that class is capped).
 
 Dungeon **floors** are also called levels in prose. Those are places, not this system.
 
@@ -36,7 +36,7 @@ Chapter screens stay truth when numbers appear. Packages below are the rewrite p
 
 Multiple past classes can sit on the sheet (primary / secondary / tertiary). Maxed lower-tier classes often go inactive once higher ones take the front.
 
-**Secondary class (Chapter 17):** unlocking a second class lets you keep **one** prior class as secondary to retain its special effects (e.g. Mage mana pool / regen). Switch secondary **once per day**; no item required. Overall level is shared (Scrybe L3 at overall L28 means L25→L28 on the same bar). Extra Tier 1 classes slow the shared bar further; most people avoid a third T1.
+**Secondary class (Chapter 17):** unlocking a second class lets you keep **one** prior class as secondary to retain its special effects (e.g. Mage mana pool / regen). Switch secondary **once per day**; no item required. Overall level is shared (Scribe L3 at overall L28 means L25→L28 on the same bar). Extra Tier 1 classes slow the shared bar further; most people avoid a third T1.
 
 **Reclass rules (Chapter 5 book talk):** no hard limit on how many classes a person can hold over a life. You cannot leave a class for another until you have at least **25 levels** in the current one. Tier 1 classes must be finished to their **L25** cap. First ascension crystal use awards a class (Roland’s space still required a Yes/No confirm). Later crystal uses need a **trial** (battle, craft or puzzle). Used first-ascension crystal turns to dust.
 
@@ -139,7 +139,7 @@ Source payouts were smaller (goblin ~15–20 XP, same **1000** first schematic).
 | Source beat | What happened | Implied cost (Source XP) |
 |---|---|---|
 | First adventurer day, Mage L3 | ~7 goblin ears; leveled once during the hunt | estate Mage doubles left **1250 / 1500**; hunt **263** finishes L3→L4 |
-| ~3 months forest grind | L5 → ~L20 | many goblins/day plus spell/skill XP |
+| ~3 months forest grind | L4 → **L20** | **1,481** matched goblins + spell/skill XP (`Experience.md`) |
 | Party dungeon arc | ~half a year more toward Mage L25 cap | higher XP/fight than forest goblins |
 | First lesser schematic | **1000 XP**; “couple of levels” if spent right after a fresh class (low L) | 1000 ≈ 1–2 levels near overall L2–L3 |
 | Late Source | bar called “exponential” and stubborn | rewrite stays **linear**; high constant makes late levels slow without a second curve |
@@ -191,7 +191,7 @@ XP_total_to_reach(N) = 500 × (1 + 2 + … + (N−1))
 
 XP already spent stays spent. Goblin-counts are a yardstick only. Real paths mix dungeon mobs, skill XP, schematics and quests.
 
-**L5→L20 only** (15 steps, costs 500×(5+…+19) = 500×180): **90,000 XP** ≈ **1,698 goblins**. Over ~90 days that is ~19 goblins/day if empty-bar pure grind. Source banks spell/skill XP and denser hunting, so the three-month L5→L20 arc still needs those non-kill sources.
+**L4→L20 (Ch 9.5, locked):** enter **118 / 2000**; need ≈**91,882 XP**. **1,481** matched kills ≈**78,493 XP**; spell/skill ranks ≈**13,389**. See `Experience.md`. Empty-bar **L5→L20** alone is **90,000 XP** ≈ **1,698** goblins if kill-only with no overflow credit.
 
 ### Sample grind checks
 
@@ -260,11 +260,13 @@ After L3: `reps_to_next(L) = 35 × L` where L is the level you are leaving.
 - **Already high Basics (L8–L9):** do not restart the table at 0. Only the step to the next rank (or evolve) counts. Opponent/variety gates still apply (`Progression.md`: H2H / Sword / Sneak need real field work for the last tick / evolve). Hard cap remains **L9** until first T2 class.
 - **Evening utility** (Ember cook-pot, Mana Hands mug lifts) can add uses outside the forest. Absorption / Reinforcement do **not** need a town-only track; hunts already cycle them hard.
 
-### Ch 9.5 combat volume (yardstick)
+### Ch 9.5 combat volume (locked)
 
-~**70** hunt days in **90** calendar days. ~**10** kills/day average → ~**700** goblins. Class need L4→L20 ≈ **94k XP**; kills at ~53 ≈ **37k**; remaining ≈ **57k** from spell/skill rank-ups (matches “spell XP beats trash kills”).
+**1,481** goblin kills over ~**90** calendar days (~**16–17**/day). Lifetime through end of skip: **1,569**.
 
-Raw combat actions (order-of-magnitude): Mana Bolt ~**1100** casts, Mana Arrow ~**380** (from late month 1), Mana Shield ~**130** (from month 2), short-sword finishes ~**350**, aimed shots (Bolt+Arrow) ~**1480**. Absorption / Reinforcement cycles ~**20**/hunt day × 70 ≈ **1400** raw (mana spent and restored under Reinforcement) → ~**980** clean at 70%.
+Class need L4→L20 from enter bar **118 / 2000** ≈ **91,882 XP**. Kill XP at ~53 ≈ **78,493**. Spell/skill rank-ups supply the remaining ≈ **13,389**. Kill count is **not** cut by spell XP.
+
+Raw combat actions (order-of-magnitude, scaled to **1,481** kills): Mana Bolt ~**2,300** casts, Mana Arrow ~**800** (from late month 1), Mana Shield ~**270** (from month 2), short-sword finishes ~**740**, aimed shots (Bolt+Arrow) ~**3,100**. Absorption / Reinforcement cycles track mana spend across that volume → both hit **L9**.
 
 Apply the curve → end ranks in `Story/Notes/Skills.md` Chapter 9.5. No skill past **L9** before T2.
 
@@ -384,7 +386,7 @@ World name is **Willpower**, not Wisdom.
 | **Archer** | Agility +1, Dexterity +1 | 2 |
 | **Thief** | Agility +1, Dexterity +1 | 2 |
 | **Blacksmith** | Strength +1, Endurance +1, Dexterity +1 | 3 |
-| **Mana Scrybe / Runic Mana Scrybe** | Intelligence +1, Dexterity +1, Willpower +1 | 3 |
+| **Mana Scribe / Runic Mana Scribe** | Intelligence +1, Dexterity +1, Willpower +1 | 3 |
 | **Acolyte** | Willpower +1, Vitality +1 | 2 |
 
 **Scaled package** = each favored gain × current growth rate, then **round to nearest** (0.5 rounds up). Example: Mage at normal Tier 2 (×1.5) → Int +2, Will +2 (1.5 rounds to 2). Lord / Overlord use ×2 / ×4.5 before rounding.
@@ -425,12 +427,12 @@ Forward-only. Round ×1.5 and ×4.5 as above.
 
 ### Roland-shaped split (planning sketch)
 
-Assume: Mage 25 → Runic Mana Scrybe 25 → Runic Blacksmith 25 (all T1 ×1) → Runesmith Lord 50 (×2) → later Overlord levels separate.
+Assume: Mage 25 → Runic Mana Scribe 25 → Runic Blacksmith 25 (all T1 ×1) → Runesmith Lord 50 (×2) → later Overlord levels separate.
 
 | Stretch | Package | Levels | Int | Will | Dex | Str | End |
 |---|---|---|---|---|---|---|---|
 | Mage | Int/Will | 25 | +25 | +25 | — | — | — |
-| Runic Mana Scrybe | Int/Dex/Will | 25 | +25 | +25 | +25 | — | — |
+| Runic Mana Scribe | Int/Dex/Will | 25 | +25 | +25 | +25 | — | — |
 | Runic Blacksmith | Str/End/Dex | 25 | — | — | +25 | +25 | +25 |
 | Runesmith Lord | use Lord hybrid: Int/Dex/Will/Str/End or craft-combat mix TBD | 50 | TBD ×2 | TBD | TBD | TBD | TBD |
 

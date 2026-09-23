@@ -221,7 +221,7 @@ Gives equal bonuses to intelligence and willpower.
 ════════════════════════
 ```
 
-Book path locked this chapter: Mage → Blacksmith + Mana Scrybe (Calligraphy required) → Runesmith (rune skill from study). Enchantsmith is the easier alternate.
+Book path locked this chapter: Mage → Blacksmith + Mana Scribe (Calligraphy required) → Runesmith (rune skill from study). Enchantsmith is the easier alternate.
 
 ### Traits
 
@@ -259,7 +259,7 @@ House lore this chapter: battle classes raise Vitality and slow aging; pure hous
 
 ## Chapter 7
 
-Opens ~**3 months** after Mage. Weekly estate fights had escalated to **two** L1s (`Experience.md` **1250 / 1500** toward L4). On-page: Mana Bolt + short sword vs the last training pair (chant required; spoken clear, sword arm ready). Pockets a tiny mana stone. Takes calligraphy books for the Scrybe path.
+Opens ~**3 months** after Mage. Weekly estate fights had escalated to **two** L1s (`Experience.md` **1250 / 1500** toward L4). On-page: Mana Bolt + short sword vs the last training pair (chant required; spoken clear, sword arm ready). Pockets a tiny mana stone. Takes calligraphy books for the Scribe path.
 
 Basic combat skills on the train screen are **live** now (Source had all L9 combat Basics, no Throwing, Leather L4, “class restriction” wall). L9 is the hard skill-name max then evolution (`Levels.md`), not a Mage lock. On-page targets from `Progression.md` age-10 technique table:
 
@@ -320,7 +320,7 @@ No new traits. Departure beat only.
 
 ## Chapter 8
 
-No new named skills on screen. **Basic Mathematics** (arithmetic) gives a hovering total on the coin pile. Guild orb shows the status sheet only (no skills menu). Buried class-up crystal reserved for later Blacksmith or Mana Scrybe.
+No new named skills on screen. **Basic Mathematics** (arithmetic) gives a hovering total on the coin pile. Guild orb shows the status sheet only (no skills menu). Buried class-up crystal reserved for later Blacksmith or Mana Scribe.
 
 ### Traits
 
@@ -344,33 +344,33 @@ No new traits. First paid hunt. Ending: adventure / meal / rest steps (not Sourc
 
 Three-month Carwen grind. Goblins track Roland’s overall level. Field-use curve: `Levels.md` (Climbing anchors + `35×L` steps; technique clean-rate ~**40%**; Absorption/Reinforcement ~**70%** on mana-spend cycles). **All skills hard-cap at L9 until first T2 class.**
 
-**Unlock path (prose):** outside-body mana hold → Willpower. Ambient pull → **Mana Absorption** + **Mana Regulation**. Same breath forced into blood/bone as a store → **Mana Reinforcement** (self-taught; free; harder than common dealer books). Inn-room Arrow chalk-line and Shield sticks/pillow once those spells unlock. Ember / Mana Hands stay evening Arden-book drills.
+**Unlock path (prose):** outside-body mana hold → Willpower. Ambient pull → **Mana Absorption** + **Mana Regulation**. Same breath forced into blood/bone as a store → **Mana Reinforcement** (self-taught; takes longer than a book buy; same store skill as common dealer books). **Mana Arrow** sticks/pillow drills after late month-1 unlock. **Mana Shield** chalk-line circle drills after month-2 unlock. Ember / Mana Hands stay evening self-discovery drills.
 
-### Combat end ranks (~70 hunt days, ~700 kills; mana cycled all day)
+### Combat end ranks (~90 days, **1,481** kills; mana cycled all day)
 
 | Skill / spell | Start (Ch 9) | Combat end | Why |
 |---|---|---|---|
-| **Mana Bolt** | L1 | **L7** | ~1100 finished casts; primary kill tool |
-| **Mana Arrow** | unlock ~end month 1 | **L5** | ~380 casts as nest opener |
-| **Mana Shield** | unlock ~month 2 | **L3** | ~130 real casts; lag behind offense |
-| **Basic Mana Shaping** | L1 | **L6** | ~1690 spell attempts ×0.4 clean ≈ 676 → hold **L6** under fatigue |
+| **Mana Bolt** | L1 | **L7** | ~2300 finished casts; primary kill tool |
+| **Mana Arrow** | unlock ~end month 1 | **L5** | ~800 casts as nest opener |
+| **Mana Shield** | unlock ~month 2 | **L3** | ~270 real casts; lag behind offense |
+| **Basic Mana Shaping** | L1 | **L6** | heavy cast pool ×0.4 clean → hold **L6** under fatigue |
 | **Basic Incantation** | L1 | **L6** | same cast pool |
 | **Basic Mana Regulation** | L1 | **L7** | every drain/refill beside Absorption |
-| **Mana Absorption** | — | **L9** | constant ambient pull whenever mana is spent; ~980 clean cycles → L9 cap |
-| **Mana Reinforcement** | — | **L9** | held up whenever the pool is working; same cycle count → L9 cap |
-| **Basic One-handed Swordsmanship** | L8 | **L9** | ~350 finishes ×0.4 ≈ 140 clean toward the L8→L9 step; field variety finishes it |
+| **Mana Absorption** | — | **L9** | constant ambient pull whenever mana is spent → L9 cap |
+| **Mana Reinforcement** | — | **L9** | held up whenever the pool is working → L9 cap |
+| **Basic One-handed Swordsmanship** | L8 | **L9** | ~740 finishes; field variety finishes L8→L9 |
 | **Basic Sneaking** | L8 | **L9** | daily live eyes; stays Basic until evolve (still L9-capped name) |
 | **Basic Climbing** | L9 | **L9** | already capped |
-| **Basic Hand to Hand** | L8 | **L9** | closes and grapples when a goblin gets inside the sword; field variety finishes the last step |
+| **Basic Hand to Hand** | L8 | **L9** | closes and grapples when a goblin gets inside the sword |
 | **Basic Throwing** | L9 | **L9** | rare spear return only |
 | **Basic Running / Sprint** | L9 | **L9** | cabin commute dropped |
 | **Basic Leather Armor** | L9 | **L9** | worn every hunt |
 | **Marksmanship** | L7 | **L9** | constant aim; hits L9 cap |
 | **Mana Sense** | L9 | **L9** | already capped |
 | **Identify / Analyze** | low | **+0–1** | occasional peeks |
-| **Ember / Mana Hands** | book L1 | **L2–L3** from rare field use; evenings push Ember **L6** / Hands **L5** | cook-pot / room drills |
+| **Ember / Mana Hands** | self L1 | Ember **L6** / Hands **L5** | evening self-discovery drills; light field use |
 
-Month story beats stay: Month 1 ≈ Mage L11–12 + Arrow unlock; Month 2 ≈ L16–17 + Shield + nickname; Month 3 → **L20** + **Goblin Hunter**.
+Month story beats stay: Month 1 ≈ Mage L11–12 + Arrow unlock; Month 2 ≈ L16–17 + Shield + nickname; Month 3 → **L20** + **Goblin Hunter** (past **1000** kills). Kill / coin / stone ledger: `Experience.md`.
 
 ### Future to gain (not yet on sheet)
 
@@ -386,7 +386,7 @@ Pure-mana T1 utilities. Book / academy / self-shape later. Not gained in Ch 9–
 
 Present day after the Ch 9.5 timeskip. Title: Goblin Hunter (all goblins hostile; lower-level ones hit softer and sometimes fear; innate sense for nearby goblin locations).
 
-Spells after three months (class grants Bolt / Arrow / Shield; Ember + Mana Hands from an Arden spell book):
+Spells after three months (class grants Bolt / Arrow / Shield; Ember + Mana Hands discovered on his own):
 
 ```
 ════════ SPELLS ════════
@@ -408,7 +408,7 @@ The caster can create hands made from mana. The weight and distance this spell c
 ════════════════════════
 ```
 
-Cast method: imagine the spell circle + shape mana + chant together. Spell/skill level-ups grant XP (often more than trash goblins). Absorption / Reinforcement stay up as mana is spent. Basics that were L8 (Sword, Sneak, Hand to Hand) and Marksmanship hit **L9** (hard cap until T2). Still Mage L20 on first class. Plans Mana Scrybe next.
+Cast method: imagine the spell circle + shape mana + chant together. Spell/skill level-ups grant XP (often more than trash goblins). Absorption / Reinforcement stay up as mana is spent. Basics that were L8 (Sword, Sneak, Hand to Hand) and Marksmanship hit **L9** (hard cap until T2). Still Mage L20 on first class. Plans Mana Scribe next.
 
 ### Traits
 
@@ -433,7 +433,7 @@ Uses Mana Arrow, Mana Bolt and Identify (Needle Worm). First clear look at a les
 
 ## Chapter 13
 
-Gained: Basic Calligraphy L9 (Mana Scrybe requirement; months of nightly grind).
+Gained: Basic Calligraphy L9 (Mana Scribe requirement; months of nightly grind).
 Basic combat skills evolving into regular versions (Running, Sprint, Sneaking, Swordsmanship and related); free attribute points on evolve (Sneaking→Agi, Swordsmanship→Str). Still Mage L25. Class-change crystal recovered. No class change yet. Plans lesser sharpness knife as study piece.
 
 ## Chapter 14
@@ -447,11 +447,11 @@ No new combat skills. Debugger (and possibly Technology) on runic pathways: red/
 
 ### Traits
 
-Title: Runic Scholar (gained with Lesser Detonation Rune [Highest] schematic; unlocks Runic Mana Scrybe).
+Title: Runic Scholar (gained with Lesser Detonation Rune [Highest] schematic; unlocks Runic Mana Scribe).
 
 ## Chapter 16
 
-Class: Runic Mana Scrybe (title-gated; timed fire-orb trial).
+Class: Runic Mana Scribe (title-gated; timed fire-orb trial).
 Gained (permanent after pass):
 - Basic Mana Scribing L1 (scribe basic spells to paper)
 - Basic Rune Scribing L1 (scribe runes to paper)
@@ -461,7 +461,7 @@ Reading proficiency from Arden library aids the trial book. Temporary versions m
 
 ### Traits
 
-No new traits. Runic Scholar title still active (unlocks Runic Mana Scrybe).
+No new traits. Runic Scholar title still active (unlocks Runic Mana Scribe).
 
 ## Chapter 17
 
@@ -469,16 +469,16 @@ No new named skills. Basic Rune Mastery tested (~1% rune activation cost on deto
 
 ## Chapter 18
 
-Gained: Drawing L1 (from Basic Drawing L9 breakthrough via Runic Mana Scrybe diagrams).
+Gained: Drawing L1 (from Basic Drawing L9 breakthrough via Runic Mana Scribe diagrams).
 Created Lesser Impact Rune [Highest] schematic (Debugger overlay; Sahildr present). Two Highest lesser schematics now (Detonation + Impact). Fire Orb schematic still pending.
 
 ## Chapter 19
 
-Created Lesser Fire Orb Rune [Highest] schematic from class-trial memory (~1 hour; +1000 XP). Three Highest lesser schematics. Debugger fails on cut-paper overlays (needs whole sheet). Sleep Resistance noted on the long train. Still Runic Mana Scrybe. Plans circuit-module experiments.
+Created Lesser Fire Orb Rune [Highest] schematic from class-trial memory (~1 hour; +1000 XP). Three Highest lesser schematics. Debugger fails on cut-paper overlays (needs whole sheet). Sleep Resistance noted on the long train. Still Runic Mana Scribe. Plans circuit-module experiments.
 
 ## Chapter 20
 
-No new skills. Hides Runic Mana Scrybe while job hunting as Mana Scrybe. Still has not scribed paid scrolls on-page. Buys blanks/ink/pencil for later work.
+No new skills. Hides Runic Mana Scribe while job hunting as Mana Scribe. Still has not scribed paid scrolls on-page. Buys blanks/ink/pencil for later work.
 
 ## Chapter 21
 
@@ -498,11 +498,11 @@ No new Roland skills. Fire Arrow grimoire combat (five headshots). Mana Sense st
 
 ## Chapter 25
 
-No new skills. Class exposed: high Identify reads **Runic Mana Scrybe L10** without a block enchantment. Plans Orb of Light, Aqua Ball and Frost Bolt runic samples for schematics after signing.
+No new skills. Class exposed: high Identify reads **Runic Mana Scribe L10** without a block enchantment. Plans Orb of Light, Aqua Ball and Frost Bolt runic samples for schematics after signing.
 
 ## Chapter 26
 
-Debugger maps Common Frost/Gale Arrow [Highest] (+2000 XP each) and grafts Lesser Smoke Arrow [Lowest]. Status-hide armband (reads as Mana Scrybe). Circuit research: shared arrow rune; power-input plug; series/parallel; resistor swap dims Orb of Light. Hides Debugger from boss. Min 10 common Fire Arrows/week (~1 hour each).
+Debugger maps Common Frost/Gale Arrow [Highest] (+2000 XP each) and grafts Lesser Smoke Arrow [Lowest]. Status-hide armband (reads as Mana Scribe). Circuit research: shared arrow rune; power-input plug; series/parallel; resistor swap dims Orb of Light. Hides Debugger from boss. Min 10 common Fire Arrows/week (~1 hour each).
 
 ## Chapter 27
 
@@ -534,7 +534,7 @@ Basic Rune Mastery maxed (mine scroll combat). Debugger used on overloaded fire-
 
 ## Chapter 34
 
-Basic Rune Mastery, Basic Mana Scribing and Basic Rune Scribing at max. Hastened Reading used on smithing books. Offered Advanced Mana Scrybe / Advanced Runic Mana Scrybe, Blacksmith, Runic Blacksmith, Runic Archer, Runic Warrior. Selects Runic Blacksmith trial.
+Basic Rune Mastery, Basic Mana Scribing and Basic Rune Scribing at max. Hastened Reading used on smithing books. Offered Advanced Mana Scribe / Advanced Runic Mana Scribe, Blacksmith, Runic Blacksmith, Runic Archer, Runic Warrior. Selects Runic Blacksmith trial.
 
 ## Chapter 35
 
@@ -626,7 +626,7 @@ Debugger + Mana Sense on Solaria healing: no runic diagram. Workshop electro tra
 
 ## Chapter 54
 
-Source: receives Mana Reinforcement skill book. **Rewrite debt:** Roland already self-taught the store skill during Ch 9.5 Carwen town absorb drills (stronger than the common book). Skip or reframe the book purchase; no first learn here.
+Source: receives Mana Reinforcement skill book. **Rewrite debt:** Roland already self-taught the same store skill during Ch 9.5 Carwen town absorb drills (took longer than a book buy; not a stronger version). Skip or reframe the book purchase; no first learn here.
 
 ## Chapter 55
 
