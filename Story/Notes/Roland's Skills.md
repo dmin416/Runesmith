@@ -49,16 +49,19 @@ Age-10 technique targets: see `Progression.md` / Ch 7 note in `Skills.md`. Chapt
 29. Mana Arrow (Spell) – Ch 9.5 late month 1 – Mage class grant
 30. Mana Shield (Spell) – Ch 9.5 month 2 – Mage class grant
 31. Ember (Spell) – Ch 9.5 – self-discovered evening drills (cook-pot spark); **L6** by end of skip; on-page Ch 10. Source used an Arden book
-32. Mana Hands (Spell) – Ch 9.5 – self-discovered evening drills (mug lifts); **L5** by end of skip; on-page Ch 10. Trial weeks (Ch 11→12): idle waiting casts in dungeon → **L6**. Ch 12 cook (eight concurrent Hands) → at least **L7** (unnoticed). Move objects with mana; visible hands optional. Source used an Arden book
+32. Mana Hands (Spell) – Ch 9.5 – self-discovered evening drills (mug lifts); **L5** by end of skip; on-page Ch 10. Trial weeks (Ch 11→12): idle waiting casts in dungeon → **L6**. Ch 12 cook (eight concurrent Hands) → at least **L7** (unnoticed). Ch 13 half-year → **L9**. Move objects with mana; visible hands optional. Source used an Arden book
 33. Mana Absorption – Ch 9.5 – self-taught ambient pull between hunts; **L9** by end of skip
 34. Mana Reinforcement – Ch 9.5 – self-taught body store from the same drills; **L9** by end; same skill as common dealer books (discovery takes longer). Source delayed to book Ch 54 / learn Ch 56 (rewrite: already owned; skip or reframe that purchase)
-35. Basic Alcohol Resistance – Ch 12 – Iron Flagon binge; exposure unlock at **L1**; **Endurance +1** per level; other resistances possible the same way
+35. Basic Alcohol Resistance – Ch 12 – Iron Flagon binge; exposure unlock at **L1**; Ch 13 party drinks → **L4**; **Endurance +1** per level; other resistances possible the same way
 36. Dance – Ch 12 – tavern-table dance; **L1**; **Agility +1** per level
 37. Pain Resistance – Ch 12 – hangover / force-feed night; **L1**; **Willpower +1**, **Endurance +1** per level (later Ch 197 deepens)
+37a. Temperature Resistance – Ch 13 – cold bare inn / cloak+Ned period; unlock **L1**; eases pauper lodging
 38. Sleep Resistance – Ch 12 – climbs **L4 → L5** (**Vitality +1**, **Endurance +1** that tick)
 39. Poison Resistance – Ch 12 – Needle Worm blood / needle crunch; popup ignored; **L1**; **Vitality +1**, **Endurance +1** per level
 40. Multitasking – Ch 12 – eight Mana Hands on cook skewers; unlock unnoticed; **L1**; **Intelligence +1**, **Dexterity +1** per level
 41. Basic Taming – Ch 12 – core Needle Worm bind (food, shield stall, Will stare); **L1**; **Charisma +1** per level; worm worn as green scarf
+
+Ch 13 combat/technique ranks (half-year slate): Mana Shield **L3→L6**; Mana Arrow **L5→L8**; Mana Bolt **L7→L9**; Basic Incantation **L6→L8**; Basic Dodging **L6→L8**; One-Handed Swordsmanship **L1→L4**; Sneaking **L1→L3**; Throwing **L1→L3**; Basic Calligraphy **L4→L9**; Alcohol **L1→L4**; Mana Hands **L7→L9**; Temperature Resistance **L1**. Rewrite sheet: Str **49** / Agi **55** / Dex **59** / Vit **47** / End **53** / Int **137** / Will **135** / Cha **12** / Luck **7**; HP **629** / MP **2542** / SP **842**. Full table: `Skills.md` Ch 13 / `StatusBreakdown.md`.
 
 ## Runic Mana Scribe (Ch 16)
 

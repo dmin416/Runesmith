@@ -86,7 +86,11 @@ XP_from_kill = (49 + MonsterLevel) × RaceMult
 
 **Needle Worm** (floor-2 ambusher): **24 + level**. Own vermin-ambusher base (above dungeon rat). Tiny **½ rice-grain** mana stone when it drops.
 
+**Needle Moth** (floor-3 Needle Worm adult/elite): **99 + level**. Own base; not RaceMult. **L1** solo **100**. Rice-grain stone (**2 SS**) when it drops.
+
 **Spiked Boar** (low-level Emerald Wilderness trash): **499 + level**. Own base; not RaceMult. Early Floor 1 day (Ch 11): locked **L1** solo **500** (idle **5 XP = 1%**; full contribution share **125 = 1/4**).
+
+**Wereboar** (floor-3 Carwen elite): **999 + level**. Own base; not RaceMult. About **2×** a Spiked Boar. **L1** solo **1000** (idle **10 XP = 1%**; full party share **250 = 1/4**).
 
 #### Race / species multipliers
 
@@ -96,6 +100,7 @@ Use the creature’s **family**, not every cosmetic variant name. Evolved or nam
 |---|---|---|---|
 | **Dungeon rat** (vermin) | — | Entrance corridor rats; use **9 + level** | **13** |
 | **Needle Worm** (floor-2 ambusher) | — | Spiky caterpillar; use **24 + level**; stone **½ rice** | **28** |
+| **Needle Moth** (floor-3 adult/elite) | — | Winged Needle Worm line; use **99 + level**; stone **rice** | **103** |
 | **Goblin** (common) | **1.0** | Green lowland goblin, estate training stock | **53** |
 | Mountain / gray goblin | 1.25 | Edelgard mountain goblin, gray forest goblin | 66 |
 | Goblin leader / elite goblin | 1.5 | Goblin Leader (not full king) | 80 |
@@ -104,7 +109,8 @@ Use the creature’s **family**, not every cosmetic variant name. Evolved or nam
 | Gray Hobgoblin Berserker | 2.25 | Rage / berserk hob | 119 |
 | **Spiked Boar** (low-level dungeon beast) | — | Emerald Wilderness floor-1 trash; use **499 + level** (Ch 11 day-one **L1 = 500**) | **503** |
 | Needle Worm / lesser ambusher | — | Floor-2 caterpillar; **24 + level** | **28** |
-| Wereboar / floor elite beast | 2.0 | Floor-3 Carwen target | 106 |
+| **Needle Moth** (floor-3) | — | Adult/elite winged form; **99 + level** (**L1 = 100**) | **103** |
+| **Wereboar** (floor-3 elite) | — | Gorilla body + boar head; use **999 + level** (**L1 = 1000**) | **1,003** |
 | **Myrmeke Worker** (giant ant) | **1.5** | Dog-sized mine ants | 80 |
 | Myrmeke Soldier | 2.5 | Horse-sized L50+ soldiers | 133 |
 | Myrmeke Queen | 4.0 | Nest boss | 212 |
@@ -127,7 +133,9 @@ Add new rows when a chapter names a repeat family. Prefer a band over inventing 
 | Estate bravery goblin | 1 | 1.0 | **50** (49+1) |
 | Dungeon rat (Ch 11 entrance) | low | — | **9 + level** (Roland **full solo**; party test) |
 | Needle Worm (Ch 12 floor 2) | low | — | **24 + level**; stone **½ rice** (**1 SS**) |
+| Needle Moth (Ch 13 floor 3) | low | — | **99 + level**; stone **rice** (**2 SS**) |
 | Spiked Boar (Ch 11 Emerald Wilderness) | **1** | — | Solo **500**; idle **+5 (1%)**; active **+125 (1/4)** each |
+| Wereboar (Ch 13 floor 3) | **1** | — | Solo **1000**; idle **+10 (1%)**; active **+250 (1/4)** each |
 | Carwen forest goblin | 3 | 1.0 | **52** |
 | Carwen forest goblin | 4 | 1.0 | **53** |
 | Same level hobgoblin | 4 | 1.75 | **93** |
@@ -549,4 +557,4 @@ Real sheets also add childhood base, skills and traits on top.
 6. Skill L9 → evolve. Do not write L10 on the same skill name.
 7. When a chapter shows numbers, copy them into `Story/Notes/Status.md` and keep this file as the rule layer.
 8. If Source text says the sheet jumps at class-up, rewrite it to growth-rate talk instead.
-9. XP_to_next = **500 × overall level**. Kill XP = **(49 + monster level) × RaceMult** (common goblin = 49 + level). Dungeon rat = **9 + level**. Needle Worm = **24 + level**. Spiked Boar = **499 + level**. Pre-class bank half-penalty lands Mage L3 from bravery + **55** estate L1s (`Experience.md`). Change constants only if arcs feel wrong.
+9. XP_to_next = **500 × overall level**. Kill XP = **(49 + monster level) × RaceMult** (common goblin = 49 + level). Dungeon rat = **9 + level**. Needle Worm = **24 + level**. Needle Moth = **99 + level**. Spiked Boar = **499 + level**. Wereboar = **999 + level**. Pre-class bank half-penalty lands Mage L3 from bravery + **55** estate L1s (`Experience.md`). Change constants only if arcs feel wrong.

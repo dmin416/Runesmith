@@ -362,48 +362,64 @@ No full status screen. Still **Mage L20** band (no level-up line). First Carwen 
 
 No full status screen. Gains **Basic Alcohol Resistance** L1 (**Endurance +1**) after forced tavern drinking; morning: **Sleep Resistance** **L4→L5** (**Vit +1**, **End +1**), **Dance** L1 (**Agility +1**), **Pain Resistance** L1 (**Willpower +1**, **Endurance +1**). Night pad total **Agi +1 / Vit +1 / End +3 / Will +1**. Floor-2 cook: **Poison Resistance** L1 (**Vit +1**, **End +1**; ignored) + **Multitasking** L1 (**Int +1**, **Dex +1**; unnoticed); **Mana Hands** ranks (enters **L6**, at least **L7** after eight-skewer cook). Needle Worm pocket clear **+492 XP** then **Basic Taming** L1 (**Charisma +1**) on the core worm (green-scarf pet). Chapter pad total **Agi +1 / Vit +2 / End +4 / Will +1 / Int +1 / Dex +1 / Cha +1**. Bar **~3,266 / 10,000**; still **Mage L20**. Pouch **~6,818 → ~6,773 LC** after Iron Flagon first round. First clear look at Sahildr's lesser impact rune (glowing pathway lines). No new attribute numbers shown.
 
+**Ned:** tamed at overall **1** / **1x**. Sheet: `NedStatus.md`.
+
 ## Chapter 13
 
-Mage L25 at cap. Basic Calligraphy L9 reached. Live sheet:
+Mage L25 at cap. Basic Calligraphy L9 reached. Half-year Floor-3 slate: `Experience.md` (**1,102** kills; **51,734 XP**; pouch **11,641 LC** at Not bad). Skill ranks: `Skills.md` Ch 13.
+
+**Live (chapter)** — rewrite Mage L25 sheet (`StatusBreakdown.md`):
 
 ```
 ════════ STATUS ════════
 Name:       Roland Arden
 Class:      Mage L25
 
-HP               328/328
-MP              1503/1503
-SP               419/419
+HP               629/629
+MP              2542/2542
+SP               842/842
 
-Strength              25
-Agility               28
-Dexterity             40
-Vitality              25
-Endurance             26
-Intelligence          82
-Willpower             57
+Strength              49
+Agility               55
+Dexterity             59
+Vitality              47
+Endurance             53
+Intelligence         137
+Willpower            135
 Charisma              12
-Luck                   8
+Luck                   7
 ════════════════════════
 ```
 
-Class-change crystal recovered. Ambush unfinished. (Rewrite debt: if Hastened Reading / Mana Sense skill bonuses are on-sheet, Int may read higher than this live block.)
+Class-change crystal recovered. Ambush unfinished.
+
+**Coin / stones:** pouch **11,641 LC**; personal bank still **288** rice + **16** leader (`Experience.md`).
+
+**Ned:** overall **~25** / **~3x**, still Needle Worm (Greater at **26**). Sheet: `NedStatus.md`.
 
 ## Chapter 14
 
 No full status screen. Damage **8** (cheek) + **31** (calf) + **46** (shoulder) before low-grade potion recovery (drink + pour; slow tick). Dodging rank-up mid-chase (**Basic Dodging** owned since Ch 9.5) and **479 XP** from Tier 2 fencer party kill. Class-change crystal still on him. Confession to party unfinished.
 
+**Rewrite:** still **Mage L25** rewrite sheet from Ch 13 (Str **49** / Int **137** / HP **629** / MP **2542** / SP **842**; pouch **11,641 LC**). No attribute package this chapter.
+
 ## Chapter 15
 
 No full status screen. Gains **1000 XP** from Lesser Detonation Rune [Highest] schematic. Title: **Runic Scholar**. Rapier tip blast ~100 MP. Class-change crystal still unused.
+
+**Rewrite:** inherits Ch 13 / Ch 14 Mage L25 rewrite sheet. Schematic XP banks toward class change (half cut on switch).
 
 ## Chapter 16
 
 Class change to **Runic Mana Scribe** (Runic Scholar unlock). No full attribute sheet. Mage L25 becomes inactive / replaced as current class. XP partial carry (~half of banked XP lost, including schematic chunk). Class text: increases mana regen and lowers mana consumption while scribing spells and runes. Skills gained: Basic Mana Scribing L1, Basic Rune Scribing L1, Basic Rune Mastery L1.
 
+**Rewrite:** class swap starts Scribe packages (**Int/Dex/Will +1** per level). Mage may sit inactive until Ch 17 secondary restore. Full sheet next at Ch 17.
+
 ## Chapter 17
 
-Overall L28. Mage secondary. Runic Mana Scribe main L3. Live sheet:
+Overall L28. Mage secondary. Runic Mana Scribe main L3.
+
+**Live (chapter)** — Source block still on-page:
 
 ```
 ════════ STATUS ════════
@@ -430,31 +446,70 @@ Luck                   8
 ════════════════════════
 ```
 
-Secondary Mage keeps mana bonuses (switch once/day). Rapier test drops MP to **1455/1554** (~1% Rune Mastery discount). Funds: ~15 SG personal plus loot share. (Rewrite debt: skill bonuses may push Int/MP higher than this live block.)
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana + Blessed **+250** MP; Luck seed **7**):
+
+```
+════════ STATUS ════════
+Name:       Roland Arden
+Level:      28
+
+Classes:
+T1 Mage L25              [Secondary]
+T1 Runic Mana Scribe L3  [Main]
+
+HP               639/639
+MP              2592/2592
+SP               845/845
+
+Strength              49
+Agility               56
+Dexterity             62
+Vitality              48
+Endurance             53
+Intelligence         140
+Willpower            138
+Charisma              12
+Luck                   7
+════════════════════════
+```
+
+Secondary Mage keeps mana bonuses (switch once/day). Rapier test drops MP to **1455/1554** on Live (~1% Rune Mastery discount). Funds: ~15 SG personal plus loot share.
 
 ## Chapter 18
 
 No full status screen. Gains **1000 XP** from Lesser Impact [Highest] schematic. Basic Drawing → **Drawing L1**. Adventurer rank **Bronze → Steel** (Miss Cellica; second T1 + missions + half-year). Parting spatial bag with coin (party keeps the larger watcher bag). Leaves Carwen for Edelgard by magic train (≥1 week, switches/carriages).
 
+**Rewrite:** inherits Ch 17 rewrite sheet + Drawing L1 (no attr line locked). Overall still **L28** band until next full sheet.
+
 ## Chapter 19
 
 No full status screen. Parting bag confirmed at **10 small gold**. Gains **1000 XP** from Lesser Fire Orb [Highest] (memory redraw, ~1 hour). Three Highest lesser schematics now. Lodging: The Singing Crow Inn, Edelgard. Meets Helci.
 
+**Rewrite:** inherits Ch 17 rewrite. Pouch framing: parting bag **10 SG** (`Status.md` lock).
+
 ## Chapter 20
 
-No full status screen. Spends **9 small silver** on blank monster-skin scrolls plus ink/pencil/paper. Scroll retail math looks bad for solo sales. Exeor offers a 6-year cursed Scribe contract; he declines for now. No class or XP change.
+No full status screen. Spends **9 small silver** on blank monster-skin scrolls plus ink/pencil/paper. Exeor offers a 6-year cursed Scribe contract; he declines for now. No class or XP change.
+
+**Rewrite:** inherits Ch 17 rewrite. Coin −**9 SS**.
 
 ## Chapter 21
 
 No full status screen. Gains **20 XP** (Mana Arrow scroll, ~10 min) and **50 XP** (Fire Orb runic scroll, ~45 min, imperfect). Debugger works on runic only. Auction plan set (bundles of ten). Runway ~half year on party gold. Refuses cursed shop contracts (−60% mana).
 
+**Rewrite:** inherits Ch 17 rewrite; Mana Scribing / Rune Scribing climbing off-page toward Ch 22–23 ranks.
+
 ## Chapter 22
 
 No full status screen. Class a few levels up (off-page). Skills: Basic Rune Scribing L5; runic-scroll understanding L2; Rune Mastery slight up. Last cash: **1 SS** before auction. Gross sale ~**1 SG** (4L+5S and 4L+7S); **25%** first-timer fee. Party 10 SG lasted ~half year of mats. Comet brand launched.
 
+**Rewrite:** climbing toward Ch 23 full sheet (Scribe toward **L10** / overall **L35**).
+
 ## Chapter 23
 
 Overall L35. Mage L25 secondary. Runic Mana Scribe L10 main. Seller #64 net **6L+9S**. Weekly ~**1 SG** from ten Fire Arrow scrolls. Live sheet (mid-hunt MP spent):
+
+**Live (chapter)** — Source block still on-page:
 
 ```
 ════════ STATUS ════════
@@ -481,23 +536,58 @@ Luck                   8
 ════════════════════════
 ```
 
-Skills shown: Basic Mana Scribing L2, Basic Rune Scribing L5, Basic Rune Mastery L3; also Mana Shaping L6, Mana Regulation L7. (Rewrite debt: skill bonuses may push Int/MP higher than this live block.) Helci cliff rescue unfinished.
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana + Blessed **+250** MP; Luck seed **7**):
+
+```
+════════ STATUS ════════
+Name:       Roland Arden
+Level:      35
+
+Classes:
+T1 Mage L25               [Secondary]
+T1 Runic Mana Scribe L10  [Main]
+
+HP               675/675
+MP              2710/2710
+SP               871/871
+
+Strength              50
+Agility               57
+Dexterity             71
+Vitality              51
+Endurance             55
+Intelligence         147
+Willpower            145
+Charisma              13
+Luck                   7
+════════════════════════
+```
+
+Skills shown: Basic Mana Scribing L2, Basic Rune Scribing L5, Basic Rune Mastery L3; also Mana Shaping L6, Mana Regulation L7. Helci cliff rescue unfinished.
 
 ## Chapter 24
 
 No full status screen. Still L35 / Scribe L10. Fire Arrow grimoire clears five Mountain Goblins; Helci climbs rope with one mana stone. No XP numbers shown. Inn sausage "thanks."
 
+**Rewrite:** inherits Ch 23 rewrite sheet.
+
 ## Chapter 25
 
 No full status screen. Still Runic Mana Scribe **L10** (Identified by Exeor's manager; no status-hide gear yet). Contract pending: **3 years**, exclusive sell-to-Exeor, **15%** commission, workspace + cheaper mats, **−30%** mana breach curse (negotiable). Wants comet brand + identity hide in the deal.
+
+**Rewrite:** inherits Ch 23 rewrite sheet.
 
 ## Chapter 26
 
 No full status screen. Contract signed (identity hide + min price + status-hide armband). **+2000 XP** each for Common Frost Arrow and Gale Arrow [Highest]. Intermediate common schematic **1000 XP**; perfecting adds another **1000** (no stack past Highest). Levels rising off-page from commons. Creates Lesser Smoke Arrow [Lowest] via graft.
 
+**Rewrite:** climbing toward Ch 27 full sheet (Scribe toward **L20** / overall **L45**).
+
 ## Chapter 27
 
-Overall L45. Mage L25 secondary. Runic Mana Scribe L20 main. Basic Rune Mastery L4 (combat-only; aims L9 before Blacksmith). Live sheet: Int **102**, MP **2014**. Luck 8. Steel rank still. Signs Manstos Grotto expedition. (Rewrite debt: Hastened Reading / Mana Sense skill bonuses may push Int/MP higher than this live block.)
+Overall L45. Mage L25 secondary. Runic Mana Scribe L20 main. Basic Rune Mastery L4 (combat-only; aims L9 before Blacksmith). Luck Live **8**. Steel rank still. Signs Manstos Grotto expedition.
+
+**Live (chapter)** — Source block still on-page:
 
 ```
 ════════ STATUS ════════
@@ -524,33 +614,74 @@ Luck                   8
 ════════════════════════
 ```
 
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana + Blessed **+250** MP; Luck seed **7**):
+
+```
+════════ STATUS ════════
+Name:       Roland Arden
+Level:      45
+
+Classes:
+T1 Mage L25               [Secondary]
+T1 Runic Mana Scribe L20  [Main]
+
+HP               691/691
+MP              2873/2873
+SP               897/897
+
+Strength              51
+Agility               58
+Dexterity             84
+Vitality              52
+Endurance             57
+Intelligence         157
+Willpower            154
+Charisma              14
+Luck                   7
+════════════════════════
+```
+
 ## Chapter 28
 
 No Roland status screen. Still L45 / Scribe L20 off-page. Helci Scout L10 status shown. Cover story for scrolls: high-level runesmith friend.
+
+**Rewrite:** inherits Ch 27 rewrite sheet.
 
 ## Chapter 29
 
 No full status screen. Still L45. Uses Ember, Hush and mana sphere light. Four belt spellbooks ready. No XP or money changes.
 
+**Rewrite:** inherits Ch 27 rewrite sheet.
+
 ## Chapter 30
 
 No full status screen. Still L45. Scroll Mana Bolts/Arrows vs Myrmekes for Rune Mastery grind. Finds 5 mana stones on first swarm. Helci gains 1 level. Exit sealed by cave-in.
+
+**Rewrite:** inherits Ch 27 rewrite sheet; Rune Mastery climbing.
 
 ## Chapter 31
 
 No full status screen. Still L45. Conserves scrolls; casts Mana Blast and barriers. Identifies Myrmeke Soldier L53 (HP 1108/1146). Kills it with Fire Bolt and fire arrow scrolls. More mana stones from evolved ants.
 
+**Rewrite:** inherits Ch 27 rewrite sheet.
+
 ## Chapter 32
 
 No full status screen. Rune Mastery levels rapidly off scroll combat (no number). Helci +5 levels since entering mine (Scout ~L15). Over half of Roland's scrolls spent. Right hand mangled/charred after multi Fire Arrow pelt vs Queen L163. Passes out.
+
+**Rewrite:** inherits Ch 27 rewrite sheet; Rune Mastery toward max.
 
 ## Chapter 33
 
 No full status screen. Overall ~L47 (+2 from mine). Basic Rune Mastery maxed. Hand priest-healed (faint burns remain). Helci Scout L23. Plans ~3 more levels then Blacksmith; worries which secondary bonus to drop.
 
+**Rewrite:** between Ch 27 and Ch 34 sheets (~overall **L47**); Rune Mastery / Mana Scribing / Rune Scribing at max by Ch 34.
+
 ## Chapter 34
 
-Overall L50. Mage L25 secondary. Runic Mana Scribe L25 main (cap). Intelligence keeps Hastened Reading +2 vs Source 105. Luck held at 8. Starts Runic Blacksmith class trial (ladle). Fail cost 2 SG.
+Overall L50. Mage L25 secondary. Runic Mana Scribe L25 main (cap). Intelligence Live notes Hastened Reading +2 vs Source 105. Luck Live **8**. Starts Runic Blacksmith class trial (ladle). Fail cost 2 SG.
+
+**Live (chapter)** — Source block still on-page:
 
 ```
 ════════ STATUS ════════
@@ -577,182 +708,521 @@ Luck                   8
 ════════════════════════
 ```
 
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana + Blessed **+250** MP; Luck seed **7**):
+
+```
+════════ STATUS ════════
+Name:       Roland Arden
+Level:      50
+
+Classes:
+T1 Mage L25               [Secondary]
+T1 Runic Mana Scribe L25  [Main]
+
+HP               714/714
+MP              2952/2952
+SP               919/919
+
+Strength              53
+Agility               60
+Dexterity             91
+Vitality              54
+Endurance             58
+Intelligence         162
+Willpower            158
+Charisma              14
+Luck                   7
+════════════════════════
+```
+
 ## Chapter 35
 
 Class change: Runic Blacksmith. No full attribute sheet. MP drops to 1% then +200 from mana potion. Secondary class swap available once/day. Lost Scribe mana-regen bonus when Blacksmith is main. Ladle of Lesser Fire Resistance [Lesser: Lowest, High].
+
+**Rewrite:** Scribe caps at **L25 [X]**; Blacksmith starts **L1** main. Packages switch to **Str/End/Dex +1** per Blacksmith level. Mage secondary may stay for mana ×1.2 + Blessed. Full sheet next major checkpoint Ch 47.
 
 ## Chapter 36
 
 No full attribute sheet. Basic Smithing Mastery L2 grants +1 Strength. Still overall L50 band / Runic Blacksmith early. Larger spatial bag. MP regen noted: ~2h from 10% MP; faster above 50–70%.
 
+**Rewrite:** Ch 34 rewrite + Blacksmith early levels + Smithing Mastery Str pads; climbing toward Ch 47.
+
 ## Chapter 37
 
 No full attribute sheet. +950 XP from Gray Hobgoblin Berserker L59. Down to ~30% MP after wand volleys. Height ~**5'7"**. Title: Goblin Slaughterer.
+
+**Rewrite:** inherits Ch 36 band / climbing to Ch 47.
 
 ## Chapter 38
 
 No full attribute sheet. Runic Blacksmith L2. Age given as thirteen by thieves. Survives Southtown home invasion.
 
+**Rewrite:** inherits prior; Blacksmith **L2**.
+
 ## Chapter 39
 
 No full attribute sheet. Held overnight at guard post. Manager notes he is not even 13 yet and already dropped a T2 Rogue.
+
+**Rewrite:** inherits prior.
 
 ## Chapter 40
 
 No full attribute sheet. In guard cell overnight (~4 am). Title: Manslayer.
 
+**Rewrite:** inherits prior.
+
 ## Chapter 41
 
 No full attribute sheet. Released from guard post via Exeor voucher. Status-hide armband back on. Prestige class known to manager. Contract renegotiation starts.
+
+**Rewrite:** inherits prior.
 
 ## Chapter 42
 
 No full attribute sheet. Intelligence +1 (Ethereal Pathways). Contract extended +1 year. New workshop. Lesser mana-regen ring.
 
+**Rewrite:** prior + **Int +1** (Ethereal Pathways).
+
 ## Chapter 43
 
 No full attribute sheet. Continues Runic Blacksmith grind. Helci as workshop assistant (Hunter T1).
+
+**Rewrite:** climbing toward Ch 47.
 
 ## Chapter 44
 
 No full attribute sheet. Runic Blacksmith L3. Craft skills L4. First working runic weapon (bronze leaf scorching sword).
 
+**Rewrite:** Blacksmith **L3**; craft skills **L4**.
+
 ## Chapter 45
 
 No full attribute sheet. Helci knows he can Runecraft (cover: young Enchantsmith). Promised Mana Slash shortsword (~1–2 weeks).
+
+**Rewrite:** inherits prior.
 
 ## Chapter 46
 
 No full attribute sheet. First store Sharp Runic Steel Longsword sold via Exeor. Time skip toward ~1.5 years in Edelgard smith arc.
 
+**Rewrite:** long skip into Ch 47 full sheet (**L69** / Blacksmith **L19**).
+
 ## Chapter 47
 
-Full sheet: L69. Mage L25 [Secondary], Runic Mana Scribe L25 [X], Runic Blacksmith L19 [Main]. HP 700. MP 2538 (338). SP 1003 (326). Str 53 Agi 38 Dex 80 Vit 52 End 60 Int 116 Will 100 Cha 16 Luck 8. Height ~**6'0"**. ~2 years as smith; Helci gone ~2 months.
+Full sheet: L69. Mage L25 [Secondary], Runic Mana Scribe L25 [X], Runic Blacksmith L19 [Main]. Height ~**6'0"**. ~2 years as smith; Helci gone ~2 months.
+
+**Live (chapter)** — Source block still on-page:
+
+```
+════════ STATUS ════════
+Name:       Roland Arden
+Level:      69
+
+Classes:
+T1 Mage L25               [Secondary]
+T1 Runic Mana Scribe L25  [X]
+T1 Runic Blacksmith L19   [Main]
+
+HP               700/700
+MP              2538/2538
+SP              1003/1003
+
+Strength              53
+Agility               38
+Dexterity             80
+Vitality              52
+Endurance             60
+Intelligence         116
+Willpower            100
+Charisma              16
+Luck                   8
+════════════════════════
+```
+
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana + Blessed **+250** MP; Luck seed **7**):
+
+```
+════════ STATUS ════════
+Name:       Roland Arden
+Level:      69
+
+Classes:
+T1 Mage L25               [Secondary]
+T1 Runic Mana Scribe L25  [X]
+T1 Runic Blacksmith L19   [Main]
+
+HP               1001/1001
+MP              3156/3156
+SP               1296/1296
+
+Strength              77
+Agility               65
+Dexterity             99
+Vitality              74
+Endurance             87
+Intelligence         171
+Willpower            178
+Charisma              16
+Luck                   7
+════════════════════════
+```
+
+Live also shows MP/SP pool notes (338)/(326) mid-use variants in older filing; rewrite uses full-pool formula.
 
 ## Chapter 48
 
 No full attribute sheet. Title: Runic Scholar II (small bonus to all rune-related skills). +200 XP from slotted dual-rune schematic.
 
+**Rewrite:** inherits Ch 47 rewrite sheet.
+
 ## Chapter 49
 
 No full attribute sheet. Holding slotted sword grants Temporary Mana Slash and Mana Thrust. Hobgoblin Common Mana Stone: +3 Strength (mana reduction amount not shown on Identify yet).
+
+**Rewrite:** inherits Ch 47; stone Str bonus is item, not sheet (unless equipped and counted later).
 
 ## Chapter 50
 
 No full attribute sheet. Roland still L69 band. Visits Exeor with slotted Mana sword; chapter ends on Identify anomaly.
 
+**Rewrite:** inherits Ch 47 rewrite sheet.
+
 ## Chapter 51
 
 No full attribute sheet. Trapped in greater-rune illusion; chest pierce is illusion damage. Cliffhanger at Exeor vs cult pair.
+
+**Rewrite:** inherits Ch 47 rewrite sheet.
 
 ## Chapter 52
 
 No full attribute sheet. HP drops ~1/3 from cursed dagger; ticks down from poison/bleed/curse. Antidote + heals stabilize poison/bleed; black curse wound and neck veins remain. Still T1-looking to assassins (they miss Runic Blacksmith tiering).
 
+**Rewrite:** inherits Ch 47 sheet; HP temporarily reduced on-page.
+
 ## Chapter 53
 
 Curse removed by T3 High Priest (9 small gold). Shoulder restored. Plans contract break + leave Edelgard after manager payout.
+
+**Rewrite:** full Ch 47 rewrite pool restored after heal.
 
 ## Chapter 54
 
 No full attribute sheet. Funds: +150 small gold (+50 over contract). Mana Reinforcement book acquired. Contract with Exeor ended.
 
+**Rewrite:** inherits Ch 47; Mana Reinforcement book ready (ranks in Ch 56+).
+
 ## Chapter 55
 
 Leaves Edelgard by train for Albrook / Dragnis Island. Adventurer card destroyed (re-register Steel planned).
+
+**Rewrite:** inherits Ch 47 rewrite sheet.
 
 ## Chapter 56
 
 Basic Mana Reinforcement L1 then L2. Still no new adventurer card (wait for Albrook). En route to Luden by caravan.
 
+**Rewrite:** Ch 47 + Reinforcement **L1→L2** (**Int +2 / Will +2** if counted from L0; book start). Climbing to Ch 62.
+
 ## Chapter 57
 
 Still tourist (no guild card). Caravan mountain ambush cliffhanger. Mana Reinforcement grinding toward L3.
+
+**Rewrite:** inherits prior; Reinforcement toward **L3**.
 
 ## Chapter 58
 
 Survives rockslide fall via layered shields. Bruises + head wound; potion. Arming sword with Logon. Cave cliffhanger vs mountain goblins.
 
+**Rewrite:** inherits prior.
+
 ## Chapter 59
 
 No full sheet. Recovers arming sword. Fire Arrow paddle one-cast from scrap. Party of convenience forming with Aredhel, Logon, Golgrim.
+
+**Rewrite:** inherits prior.
 
 ## Chapter 60
 
 Still ~L70 band / pre-T2. Alias Carmine with improvised party. +2 Common hobgoblin mana stones. Deep steel collar scrap banked.
 
+**Rewrite:** climbing to Ch 62 (**L70**).
+
 ## Chapter 61
 
 Alias Carmine. Aredhel Charisma 24 analyzed. +2 Common (green) Mantodea mana stones. Wand charges depleted mid-travel.
 
+**Rewrite:** inherits prior.
+
 ## Chapter 62
 
-Full sheet: L70. Mage L25 [Secondary], Runic Mana Scribe L25 [X], Runic Blacksmith L20 [Main]. HP 713. MP 2099/2599. SP 526/1019. Str 54 Agi 38 Dex 81 Vit 53 End 61 Int 116 (Hastened Reading +2 vs Source 114) Will 101 Cha 16 Luck 8. Technology not Circuitry. Mana Reinforcement L3.
+Full sheet: L70. Mage L25 [Secondary], Runic Mana Scribe L25 [X], Runic Blacksmith L20 [Main]. Technology not Circuitry. Mana Reinforcement L3.
+
+**Live (chapter)** — Source block still on-page:
+
+```
+════════ STATUS ════════
+Name:       Roland Arden
+Level:      70
+
+Classes:
+T1 Mage L25               [Secondary]
+T1 Runic Mana Scribe L25  [X]
+T1 Runic Blacksmith L20   [Main]
+
+HP               713/713
+MP              2599/2599
+SP              1019/1019
+
+Strength              54
+Agility               38
+Dexterity             81
+Vitality              53
+Endurance             61
+Intelligence         116
+Willpower            101
+Charisma              16
+Luck                   8
+════════════════════════
+```
+
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana + Blessed **+250** MP; Luck seed **7**):
+
+```
+════════ STATUS ════════
+Name:       Roland Arden
+Level:      70
+
+Classes:
+T1 Mage L25               [Secondary]
+T1 Runic Mana Scribe L25  [X]
+T1 Runic Blacksmith L20   [Main]
+
+HP               1014/1014
+MP              3161/3161
+SP               1309/1309
+
+Strength              78
+Agility               65
+Dexterity             100
+Vitality              75
+Endurance             88
+Intelligence         171
+Willpower            179
+Charisma              16
+Luck                   7
+════════════════════════
+```
+
+Live mid-fight MP **2099/2599** / SP **526/1019** variants exist; rewrite shows full pools. Hastened Reading +2 is already inside Live Int vs older Source.
 
 ## Chapter 64
 
 L71 (one level from bandit fight). Still 4 levels to tier 2. Temporary party with Aredhel/Logon/Golgrim ends.
 
+**Rewrite:** between Ch 62 and Ch 68 (**L71** band).
+
 ## Chapter 65
 
 Still L71 band. Funds up from loot sales. Passage quote: 1 small gold (+food) to Dragnis/Albrook.
+
+**Rewrite:** inherits L71 band.
 
 ## Chapter 66
 
 No full sheet. En route; arrives in sight of Dragnis port. Still L71 band.
 
+**Rewrite:** inherits L71 band.
+
 ## Chapter 67
 
 No full sheet. On Dragnis Island; overnight at port then caravan toward Albrook. Still L71 band. No guild card yet (re-register at Albrook).
 
+**Rewrite:** inherits L71 band.
+
 ## Chapter 68
 
-Full sheet (guild orb, name/classes garbled by status-hide pendant): L71. Mage L25 [Secondary], Runic Mana Scribe L25 [X], Runic Blacksmith L21 [Main]. HP 726. MP 2626. SP 1034. Str 55 Agi 38 Dex 82 Vit 54 End 61 Int 117 (Hastened Reading +2 vs Source 115) Will 102 Cha 16 Luck 8. Alias Wayland; Steel card pending tomorrow. Forms list regular Mage / Mana Scribe / Blacksmith.
+Full sheet (guild orb, name/classes garbled by status-hide pendant): L71. Mage L25 [Secondary], Runic Mana Scribe L25 [X], Runic Blacksmith L21 [Main]. Alias Wayland; Steel card pending tomorrow. Forms list regular Mage / Mana Scribe / Blacksmith.
+
+**Live (chapter)** — Source block still on-page:
+
+```
+════════ STATUS ════════
+Name:       Roland Arden
+Level:      71
+
+Classes:
+T1 Mage L25               [Secondary]
+T1 Runic Mana Scribe L25  [X]
+T1 Runic Blacksmith L21   [Main]
+
+HP               726/726
+MP              2626/2626
+SP              1034/1034
+
+Strength              55
+Agility               38
+Dexterity             82
+Vitality              54
+Endurance             61
+Intelligence         117
+Willpower            102
+Charisma              16
+Luck                   8
+════════════════════════
+```
+
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana + Blessed **+250** MP; Luck seed **7**):
+
+```
+════════ STATUS ════════
+Name:       Roland Arden
+Level:      71
+
+Classes:
+T1 Mage L25               [Secondary]
+T1 Runic Mana Scribe L25  [X]
+T1 Runic Blacksmith L21   [Main]
+
+HP               1024/1024
+MP              3178/3178
+SP               1312/1312
+
+Strength              79
+Agility               65
+Dexterity             101
+Vitality              76
+Endurance             88
+Intelligence         172
+Willpower            180
+Charisma              16
+Luck                   7
+════════════════════════
+```
 
 ## Chapter 69
 
 No full sheet. Still L71 band / Wayland. Funds: enough for farmhouse >30 SG plus renovation. Card still pending for ownership signing.
 
+**Rewrite:** inherits Ch 68 rewrite sheet.
+
 ## Chapter 70
 
 No full sheet. Still L71 band. Wayland Bronze card issued (Steel claim unverified). Paid >30 SG for farmhouse (+key/contract). Mana mostly spent on Poison Cloud house cleanse.
+
+**Rewrite:** inherits Ch 68 rewrite sheet.
 
 ## Chapter 71
 
 No full sheet. Still L71 band / Wayland Bronze. Height noted over **6'1"**. +1 XP from Fire Slime L2 (mana sword; core kept). Chilling armor rune drains MP while active.
 
+**Rewrite:** inherits Ch 68 rewrite sheet.
+
 ## Chapter 72
 
 No full sheet. Still L71 band. +2 XP Fiery Skeleton L10. Shield grind (block/armor). Mana mostly conserved (melee day).
+
+**Rewrite:** inherits Ch 68 rewrite sheet.
 
 ## Chapter 73
 
 No full sheet. Still L71 band. Deep Iron Mace runed (Impact High + Hardening Intermediate). MP emptied several times over 2-day craft. Aim: weapon skill L9 then T2 within a year.
 
+**Rewrite:** inherits Ch 68 rewrite sheet.
+
 ## Chapter 74
 
 No full sheet. Still L71 band / Wayland. ~1 month in Albrook. Auction paddle 1 SS; music box bid from 4 LS (no competing paddles on page).
+
+**Rewrite:** inherits Ch 68 rewrite sheet.
 
 ## Chapter 75
 
 No full sheet. Still L71+ band (goal L75 / T2). XP: Crimson Giant Rats 7/8/6; Baby Salamanders 18/17/15. Stocking slime cores; skipping low-value loot.
 
+**Rewrite:** climbing toward Ch 77 (**L75**).
+
 ## Chapter 76
 
 No full sheet. Still L71+ / Wayland. Floor 7 rescue; ice/earth runic kit on display (party mistakes him for Silver/Gold). Mana stones harvested from Troglodytes.
 
+**Rewrite:** climbing toward Ch 77.
+
 ## Chapter 77
 
-Full sheet: L75. Mage L25 [Secondary], Runic Mana Scribe L25 [X], Runic Blacksmith L25 [Main]. HP 794. MP 2824. SP 1124. Str 59 Agi 40 Dex 87 Vit 59 End 68 Int 120 (Hastened Reading +2 vs Source 118) Will 107 Cha 17 Luck 8 (Source listed 10). Technology not Circuitry. Basics/combat: many L9 (Runecraft, Smithing, Rune Compression, Ethereal Pathways, Mana Reinforcement, One-handed Swordsmanship, Heavy Armor, Shield, Blunt). Ready for T2; sees Runesmith Lord.
+Full sheet: L75. Mage L25 [Secondary], Runic Mana Scribe L25 [X], Runic Blacksmith L25 [Main]. Technology not Circuitry. Basics/combat: many L9 (Runecraft, Smithing, Rune Compression, Ethereal Pathways, Mana Reinforcement, One-handed Swordsmanship, Heavy Armor, Shield, Blunt). Ready for T2; sees Runesmith Lord.
+
+**Live (chapter)** — Source block still on-page:
+
+```
+════════ STATUS ════════
+Name:       Roland Arden
+Level:      75
+
+Classes:
+T1 Mage L25               [Secondary]
+T1 Runic Mana Scribe L25  [X]
+T1 Runic Blacksmith L25   [Main]
+
+HP               794/794
+MP              2824/2824
+SP              1124/1124
+
+Strength              59
+Agility               40
+Dexterity             87
+Vitality              59
+Endurance             68
+Intelligence         120
+Willpower            107
+Charisma              17
+Luck                   8
+════════════════════════
+```
+
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana + Blessed **+250** MP; Luck seed **7**):
+
+```
+════════ STATUS ════════
+Name:       Roland Arden
+Level:      75
+
+Classes:
+T1 Mage L25               [Secondary]
+T1 Runic Mana Scribe L25  [X]
+T1 Runic Blacksmith L25   [Main]
+
+HP               1095/1095
+MP              3238/3238
+SP               1400/1400
+
+Strength              83
+Agility               67
+Dexterity             106
+Vitality              81
+Endurance             95
+Intelligence         175
+Willpower            185
+Charisma              17
+Luck                   7
+════════════════════════
+```
+
+Live Luck listed **8** (Source once listed 10). Rewrite Luck seed **7**.
 
 ## Chapter 78
 
 No full sheet change (in trial). Still L75 / RB L25 pending T2. Selected Runesmith Lord trial. No trial temp skills granted.
 
+**Rewrite:** inherits Ch 77 rewrite sheet.
+
 ## Chapter 79
 
 No full sheet. Still in Runesmith Lord trial. MP ~50% after first craft; recovers via lotus ambient mana (~70% target). No XP from trial kills. Gear breaks/repairs mid-waves.
 
+**Rewrite:** inherits Ch 77 rewrite sheet (MP temporarily spent).
+
 ## Chapter 80
 
 No full sheet. Still in trial until library. Lightning web drops MP below 5% (nose/ear blood). Full heal after Chain Devil kill; generic clothes restored. Skills not yet granted (reading phase cliff).
+
+**Rewrite:** inherits Ch 77 rewrite sheet after heal.

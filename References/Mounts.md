@@ -34,9 +34,9 @@ Large deer-looking animals with four sets of eyes. Kept in the Albrook market-sq
 First seen: Chapter 92
 Roland’s imprinted sacred companion. Rewrite: mustelid, starting as a weasel or similar, not a dog or wolf. Source path was Ruby Wolf → Sunlight Wolf → Solar Wolf; keep sacred-beast treatment and tamer bond, swap species line to mustelid when rewritten.
 
-### Needle Worm (tamed)
+### Needle Worm (tamed) / Ned
 First seen: Chapter 12
-Roland’s first **Basic Taming** bind. Core-bearing Floor-2 worm; worn as a green scarf after food offer, Mana Shield stall and Willpower stare-down. Separate path from Agni’s later egg imprint.
+Roland’s first **Basic Taming** bind. Core-bearing Floor-2 worm; worn as a green scarf after food offer, Mana Shield stall and Willpower stare-down. Separate path from Agni’s later egg imprint. Named **Ned**. Wild line would become **Needle Moth**; Roland steers him **Needle Worm → Greater Needle Worm → King Worm → Wyrm → Ormr** with launched needles, silk, poison (not powder), and physical strength / resilience. Levels add up (max overall **525**). Full design: `Ned.md`.
 
 ### Six-legged lizard
 First seen: Chapter 408

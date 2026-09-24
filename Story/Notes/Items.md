@@ -181,3 +181,15 @@ Iron Flagon first round **−45 LC**. Floor-2 Needle Worm cook + tame run. Party
 | Becky lock-repair toss | +? (small; not counted) | **~6,773** |
 
 **Still carrying into Ch 13:** leather (repaired), shortsword (repaired), hunting knife, thick wool cloak, spare robe, small mirror, adventurer card, local map, calligraphy stock, coin pouch (**~6,773 LC** after drink; later Floor-2 sale share not itemized on-page), **288** rice-grain + **16** leader mana stones, buried class-up crystal, **tamed Needle Worm** (green scarf).
+
+## Chapter 13
+
+Half-year Floor-3 run. Companion named **Ned**. Kill / XP / haul / pouch locks: `Experience.md` Ch 13 (**1,102** kills; **Mage L25**; pouch **11,641 LC** at `"*Not bad.*"`).
+
+**Gained / kept (Ned harvest)**
+- **Ned** (named) – same core-bearing Needle Worm; carried as companion / green scarf.
+- **Parsleaves** (dried stockpile) – leaves Ned hides on and eats; mild poison source (weaker than spikes); vibrant refreshing **parsley** aroma. Roland samples one afternoon and starts drying/stockpiling.
+- **Ned needles** – occasional harvest from ever-growing spikes (spice / materials; still sell poorly if sold).
+- **Ned blood** – occasional harvest (cumin-like paralytic seasoning stock from Ch 12 use).
+
+**Still carrying (mid Ch 13 before watcher fight):** kit after half-year wear (sword repairs; boots wore down; leather cracked), **Ned**, dried **parsleaves**, occasional needle/blood stocks, coin pouch (**11,641 LC**), **288** rice-grain + **16** leader mana stones, buried class-up crystal.

@@ -157,6 +157,7 @@ Overlaps with the Rewrite price lock (armor, repairs, farm, household income, cr
 | Goblin ear bounty (steel board, each - vermin-tier, no corpse value beyond this) | 5 LC | 5 | established rate |
 | Goblin magic core (rice-grain sized) | **20 LC (2 SS)** | 20 | Locked Ch 9 |
 | Needle Worm tiny core (**½** rice) | **10 LC (1 SS)** | 10 | Locked Ch 12 |
+| Needle Moth core (rice-grain) | **20 LC (2 SS)** | 20 | Same price as goblin rice; Ch 13 lock |
 | Mountain-goblin core (larger regional variant) | 30-60 LC | 30-60 | "a few small silvers" |
 | Dungeon-beast / goblin-leader core (**5×** rice) | **100 LC (10 SS = 1 LS)** | 100 | Locked; spiked-boar chest matches |
 | Larger monster component (rarer material, each) | 60-120 LC | 60-120 | man-at-arms to knight day-rate |
@@ -208,6 +209,17 @@ Per beast, guild/tanner/alchemist buy (no stone):
 | **Hide + tusks** | **40–75** (mid **58**) | What Becky names first |
 | **All mats (hide + tusks + spikes)** | **55–100** (mid **78**) | Full butcher without stone |
 | Mana stone (when present) | **100** | Leader-sized; separate |
+
+### Wereboar mat sale (locked, Ch 13)
+
+**2×** Spiked Boar mid band. Per beast, no stone:
+
+| Piece | Fair LC | Notes |
+|---|---|---|
+| **All mats (hide + tusks + bone/spike)** | mid **156** | Floor-3 denser carcass |
+| Mana stone (when present) | **100** | Leader-sized; same as Spiked Boar chest |
+
+Ch 13 half-year drop pace: stones **~50%** of Wereboar / Spiked Boar kills; Needle Moth rice and Needle Worm tiny **~1/5** of those kills. Full slate: `Experience.md` Ch 13.
 
 | Haul | Mid mats only | Mats + stone |
 |---|---|---|
@@ -454,7 +466,7 @@ Rule of thumb: **double the volume → about 4× the price**. Trade down used ba
 ### Chapter notes
 
 - Becky's party bag (Ch 11): slightly under **2 m³**; bought second-hand from a retiring adventurer for **5 SG** (a steal vs typical **7–10 SG**). Steel party **skimped on drinks** about a **year** to scrape that buy (~**110** skipped ~**45 LC** three-pitcher weak-spirit rounds; Source said “year of work”). That sits fine against Floor-1 gross (**~17–33 SG**/person/year): soft living, repairs, and kit eat most of a cautious year, so a **5 SG** bag still feels like a long scrape. Bigger bags ~**10×** (≈ **6 m³** on the scale above). House Arden higher-status servants carried similar bags.
-- Needle Worm spikes sell poorly (Ch 12). Needle Worm core: **½ rice-grain** (**1 SS**).
+- Needle Worm spikes sell poorly (Ch 12). Needle Worm core: **½ rice-grain** (**1 SS**). Needle Moth core: **rice-grain** (**2 SS**).
 - Ch 15: living beings cannot enter; **dead** bodies can (watcher stuffed in; dumped to floor-3 Wereboars). Watcher's bag goes to the girls with the armor sale.
 - Ch 18 parting gift: party's smaller spatial bag with starter coin (they keep the watcher's bag, about twice as large ≈ **4 m³**). Ch 19: bag holds **10 SG** (more than the 5 he wanted of their ~20).
 - Ch 36: Roland exchanges for a larger model that holds **three times** as much (≈ **6 m³** if prior was ~2 m³).
@@ -566,6 +578,7 @@ Overall: rice-grain ≈ **(29/30)×(1/5) ≈ 1 in 5.2** kills. Leader stone ≈ 
 | Size / source | Volume vs rice | Price | Rule |
 |---|---|---|---|
 | Needle Worm / sand-size tiny | **½×** | **1 SS = 10 LC** | Linear; larger than a sand grain, half a rice-grain; Ch 12 |
+| Needle Moth | **1×** | **2 SS = 20 LC** | Same band as goblin rice; Ch 13 |
 | Rice-grain (common goblin) | **1×** | **2 SS = 20 LC** | Linear; rewrite Ch 9 |
 | Mountain-goblin / "few small silvers" | **~1.5–3×** | **30–60 LC (3–6 SS)** | Linear band; locked with §9 |
 | Fingernail (worker ant / similar) | **~2–4×** | **~40–80 LC (4–8 SS)** | Linear; between rice and leader |
@@ -598,7 +611,7 @@ Units in large copper. **1 SS = 10 LC**, **1 LS = 100 LC**, **1 SG = 1000 LC**.
 | Ch 9.5 thick wool cloak (nice-ish) | -300 | 6,318 |
 | Ch 9.5 repairs / spare robe / food-hunt tastes | -318 | **6,000** |
 
-Chapter 9 turn-in "**95 LC** richer" is income only (35+60), before meal/map already spent. Monthly lodging quote in Ch 9 is ~**10%** off (**28** × 1 SS = **280** → **252 LC**); Ch 13 quote ~**5%** off (**~266 LC**). Breakfast is **+5 LC** on the lodging quote; dinner is the **5 LC** inn tray. Forest lunch: **3** jerky sticks (~**2 LC** each); other midday meals are rabbits and other prey taken from goblin camps (no coin).
+Chapter 9 turn-in "**95 LC** richer" is income only (35+60), before meal/map already spent. Monthly lodging quote in Ch 9 is ~**10%** off (**28** × 1 SS = **280** → **252 LC**). Same rate through Ch 13 (Hilde's advertised monthly discount; Source **5%** discarded). Breakfast is **+5 LC** on the lodging quote; dinner is the **5 LC** inn tray. Forest lunch: **3** jerky sticks (~**2 LC** each); other midday meals are rabbits and other prey taken from goblin camps (no coin).
 
 After Ch 9 day one he **keeps** stones (no further stone sales in Ch 9.5). End Ch 9.5 / into Ch 10: pouch **6,000 LC** (**6 SG**); stones **286** rice-grain + **16** leader. Full kill/stone notes: `Experience.md`, `Items.md`.
 
@@ -681,7 +694,7 @@ Hard numbers only, with chapter cites. Prefer the **Rewrite price lock** when a 
 | Inn meal (porridge + jerky) | **5 LC** | 9 |
 | Lodging / night | **1 SS**; breakfast **+5 LC** | 9 |
 | Better inn / night | **2 SS** | lock |
-| Monthly lodging discount | ~**10%** (Ch 9 quote); ~**5%** (Ch 13 after haggling) | 9, 13 |
+| Monthly lodging discount | **10%** → **252 LC** (Hilde advertised; Ch 9–13) | 9, 13 |
 | Library map | **1 SS** | 9 |
 | Rice-grain mana stone | **2 SS** | 9 |
 | Class-change crystal | **2 SG** | 13, 34 |
@@ -744,7 +757,8 @@ Hard numbers only, with chapter cites. Prefer the **Rewrite price lock** when a 
 
 - Helci day-to-day: often **no LS** in pouch; lives meal to meal (Ch 47).
 - Bronze/Steel adventuring: not high pay; real money opens at **Silver** (needs T2) (Ch 14).
-- Shortsword dead by ~month 5; leather and boots need replacement; repair eats savings (Ch 14).
+- Mage backline kit: not regular frontline hits; shortsword still needs repairs; boots wore down; leather cracked; Ch 13 half-year kit **−790 LC** (sword **480** + boots **60** + leather **250**). Frontline sword death ~month 5 is not his case.
+- Ch 13 half-year Floor-3 slate locked in `Experience.md` (**1,102** kills; pouch **11,641 LC**). Wereboar mats mid **156 LC**.
 - Sell permit in town "costs quite the penny" (Ch 14).
 - Weaker adventurers taxed **more** at dungeon gates than stronger ranks (Ch 68; no %).
 - Skill books: "many golden coins"; Basic Rune Compression ~**half a year** of his work (Ch 41-47).

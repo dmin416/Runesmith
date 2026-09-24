@@ -28,6 +28,28 @@ Increases an individual's stamina, stamina regeneration and health points slight
 HP: +3 per point of Endurance.
 SP: +10 per point of Endurance.
 
+### Blood restore (human / Roland)
+
+Earth baseline for a **5 L** adult, then speed by Vit/End.
+
+```
+M = ((Vitality + Endurance) / 2) / 15
+```
+
+Adult Vit/End **15/15** → **M = 1.0**. Rate × M; times ÷ M.
+
+- **Plasma (~2.75 L):** **100–150 mL/h** at M = 1 (fluid intake + internal shifts); full volume **24–48 h**.
+- **Red cells (~2.25 L of that 5 L):** **15–25 mL/day** at M = 1 (marrow; faster if erythropoietin ramps after loss). Replacing **1 L** RBCs takes **4–6 weeks** at M = 1.
+
+Use **rewrite** sheets for continuity (`Status.md` / `StatusBreakdown.md`). Live Ch 13 Source block (Vit **25** / End **26**) is not the math lock.
+
+| Snapshot | Vit | End | M | Plasma rate | Full plasma | RBC rate | 1 L RBCs |
+|---|---|---|---|---|---|---|---|
+| Adult baseline | 15 | 15 | **1.00** | 100–150 mL/h | 24–48 h | 15–25 mL/day | 4–6 weeks |
+| Roland Ch 13 rewrite | 47 | 53 | **3.33** | **333–500 mL/h** | **~7–14 h** | **50–83 mL/day** | **~1.2–1.8 weeks** |
+
+Small Mana Hands drips to Ned are a trivial plasma hit at Roland’s M; marrow lag still owns any real bleed. Ned hemolymph (mass-scaled caterpillar): `Ned.md`.
+
 ## Intelligence
 Increases an individual's mana points, magic attack and learning speed. Helps visualize and recall spell circles (Chapter 10).
 

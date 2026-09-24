@@ -23,6 +23,7 @@ Update these together when a chapter changes his sheet. Keep history by chapter.
 | Kill XP, bars, level-ups, kill totals, grind ledgers (coin tied to kills) | `Experience.md` |
 | First-clear skill index / Source delay list | `Roland's Skills.md`, `Early Logical Skills.md` |
 | Rewrite intent, plot beats, companion type, formatting rules | `Notes.md` |
+| Ned companion level / form / attributes / skills by chapter | `NedStatus.md` |
 
 Skills and traits often share one chapter menu. File both under that chapter in `Skills.md` (use a Traits subsection when useful). There is no separate `Traits.md`.
 
@@ -98,7 +99,9 @@ Displayed = Body + Class levels + Skills/Traits (+ Other if needed)
 
 ## Open checks (Ch 1–12 rewrite pass)
 
-Synced for the live Ch 1–12 rewrite: estate doubles → Ch 9 L3→L4, Ch 9.5 kill/coin/stone ledger (**1,481** / end **6,000 LC** / **286** rice + **16** leader), Ch 10 nest (**+7** / **288** rice + **16** leader / pouch **6,035 LC**), rewrite L20 inn sheet, Ch 11 first dungeon day + trial weeks (bar **~2,774/10k** / pouch **~6,818 LC**), Ch 12 Iron Flagon (**−45** → **~6,773 LC**) + Needle Worm cook/tame (**+492 XP** → bar **~3,266/10k**; **Basic Taming** pet scarf), Absorption/Reinforcement self-taught, Scribe spelling, Ch 9.5 destination = research only, Ch 10 picks **Edelgard**.
+Synced for the live Ch 1–13 rewrite: estate doubles → Ch 9 L3→L4, Ch 9.5 kill/coin/stone ledger (**1,481** / end **6,000 LC** / **286** rice + **16** leader), Ch 10 nest (**+7** / **288** rice + **16** leader / pouch **6,035 LC**), rewrite L20 inn sheet, Ch 11 first dungeon day + trial weeks (bar **~2,774/10k** / pouch **~6,818 LC**), Ch 12 Iron Flagon (**−45** → **~6,773 LC**) + Needle Worm cook/tame (**+492 XP** → bar **~3,266/10k**; **Basic Taming** pet scarf), Ch 13 half-year Floor-3 (**1,102** kills / **51,734 XP** → **Mage L25** / pouch **11,641 LC**; rewrite sheet Str **49** / Int **137** / MP **2542**), Absorption/Reinforcement self-taught, Scribe spelling, Ch 9.5 destination = research only, Ch 10 picks **Edelgard**.
+
+**Post–Ch 13 status:** every chapter through **80** now has a rewrite line or full Live+Rewrite sheet in `Status.md`. Full-sheet rewrite checkpoints: Ch **17 / 23 / 27 / 34 / 47 / 62 / 68 / 77** (`StatusBreakdown.md` delta table). Method: Ch 13 rewrite baseline + Source growth deltas; Luck seed **7**; Mage secondary mana bonuses kept.
 
 Still needs attention when touching these beats:
 
@@ -108,6 +111,7 @@ Still needs attention when touching these beats:
 | Ch 13+ party / dungeon notes | Notes 13–80 | Written to Source plot. Re-audit when those chapters are rewritten. |
 | Ch 11 day haul lock | `Experience.md`, `Economy.md`, `Items.md`, `Notes.md` | Prose says “more” boars; lock stays **4** / **2** stones / **+128 LC** unless chapter names a count. |
 | Ch 12 drink / worm ledger | `Experience.md`, `Items.md`, `Notes.md`, `Skills.md` | First round **45 LC**; pocket **12** worms **+492 XP**; pet worm kept; Hands ≥**L7**. |
+| Ch 13 half-year Floor-3 | `Experience.md`, `Items.md`, `Skills.md`, `Status.md`, `StatusBreakdown.md`, `Economy.md` | **1,102** kills; **51,734 XP** → L25; haul **+9,116**; pouch **11,641 LC**; Wereboar mats **156**. Rewrite sheet Str **49** / Int **137** / MP **2542**; Live Source block still on-page. |
 | Mana Bolt joule / Int curve | `References/Science.md`, chapter fight beats | Keep formula and on-page damage language aligned when editing fights. |
 | Meal / lodging quotes | `Economy.md`, `Places.md`, Ch 9 Notes | Meal **5 LC**; lodging **1 SS**/night + **5 LC** breakfast; monthly ~**10%** on **28** nights → **252 LC**. Year = **13×28**. |
 | Goblin Hunter title | `Skills.md` / `Status.md` Ch 9.5–10 | Past **1000** kills into the skip; card text matches chapter. |

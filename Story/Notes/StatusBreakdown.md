@@ -241,6 +241,31 @@ Reinforcement while active: **+90%** of max MP as bonus base stats (L9 × 10%, 9
 
 **Ch 12 binge pads (on rewrite stack):** Sleep **L5** (+1 Vit/+1 End vs L4), Alcohol L1 (**End +1**), Dance L1 (**Agi +1**), Pain L1 (**Will +1**, **End +1**) → night **Agi +1 / Vit +1 / End +3 / Will +1**. Floor-2 cook/tame: **Multitasking** L1 (**Int +1**, **Dex +1**); **Poison Resistance** L1 (**Vit +1**, **End +1**); **Basic Taming** L1 (**Cha +1**); **Mana Hands** at least **L7**. Chapter pad total **Agi +1 / Vit +2 / End +4 / Will +1 / Int +1 / Dex +1 / Cha +1**.
 
+### Mage L25 (Ch 13 half-year end) — rewrite target
+
+Enter Ch 13 as post–Ch 12 stack still **Mage L20**, then **+5** Mage packages (L21–L25) and Floor-3 skill ranks (`Skills.md` Ch 13). Spells still grant **no** attribute pads. **Basic Calligraphy** and **Temperature Resistance** have no attr line. Alcohol **L1→L4** adds **End +3** on top of the Ch 12 L1.
+
+**Post–Ch 12 (still L20):** Str **46** Agi **51** Dex **57** Vit **47** End **50** Int **130** Will **128** Cha **12** Luck **7**.
+
+**Class L20→L25:** Int **+5**, Will **+5**.
+
+**Ch 13 skill pads:** Sword **L1→L4** Str **+3**; Dodging **L6→L8** Agi **+2**; Sneaking **L1→L3** Agi **+2**; Throwing **L1→L3** Dex **+2**; Incantation **L6→L8** Int **+2** Will **+2**; Alcohol **L1→L4** End **+3**.
+
+| Bucket | STR | AGI | DEX | VIT | END | INT | WILL | CHA | LUCK |
+|---|---|---|---|---|---|---|---|---|---|
+| Body | 15 | 20 | 16 | 14 | 13 | 18 | 25 | 7 | 7 |
+| Class (Mage L25) | 0 | 0 | 0 | 0 | 0 | 25 | 25 | 0 | 0 |
+| Skills/Traits | 34 | 35 | 43 | 33 | 40 | 94 | 85 | 5 | 0 |
+| **Total** | **49** | **55** | **59** | **47** | **53** | **137** | **135** | **12** | **7** |
+
+HP = 470 + 159 = **629**.
+MP = ((137×10)+(135×4))×1.2 + 250 Blessed = 2292 + 250 = **2542**.
+SP = 530 + 147 + 165 = **842**.
+
+Pouch at `"*Not bad.*"`: **11,641 LC** (`Experience.md`). Skill ranks and kill slate: `Skills.md` / `Experience.md`.
+
+**Live Ch 13 sheet** in chapter / `Status.md` matches this rewrite block.
+
 ---
 
 ## Gap vs current Status.md
@@ -250,7 +275,26 @@ Reinforcement while active: **+90%** of max MP as bonus base stats (L9 × 10%, 9
 | Ch 2 | Int 41 / Will 18 | Int **42** / Will **25** (new mental body) |
 | Ch 4–5 | Body physicals + transfer Dex + old mental seeds | + Basic STR/AGI/DEX/END pile + rising Int/Will body |
 | Ch 6–8 | Above + Mage packages | Same debts |
-| Ch 10 | Inn sheet **matches** Mage L20 block above | Synced (HP **536** / MP **2358** / SP **708**) |
+| Ch 10 | Inn sheet **matches** Mage L20 block above | Synced (HP **536** / MP **2358** / SP **708**; Vit/End live still pre–Sleep retcon) |
+| Ch 13 | Mage L25 rewrite (**49/55/59/47/53/137/135/12/7**; HP **629** / MP **2542** / SP **842**) | Synced (chapter + `Status.md`) |
+
+### Post–Ch 13 rewrite checkpoints (delta method)
+
+Method: Source live growth from Ch 13 Source sheet → later live full sheet, applied to the **Ch 13 rewrite** baseline. Luck stays rewrite seed **7**. Mage secondary keeps **×1.2** mana + Blessed **+250** MP. Full Live + Rewrite blocks: `Status.md`.
+
+| Ch | Overall | Main | Rewrite (Str/Agi/Dex/Vit/End/Int/Will/Cha/Luck) | HP / MP / SP |
+|---|---|---|---|---|
+| 13 | L25 | Mage L25 | **49/55/59/47/53/137/135/12/7** | **629 / 2542 / 842** |
+| 17 | L28 | Scribe L3 | **49/56/62/48/53/140/138/12/7** | **639 / 2592 / 845** |
+| 23 | L35 | Scribe L10 | **50/57/71/51/55/147/145/13/7** | **675 / 2710 / 871** |
+| 27 | L45 | Scribe L20 | **51/58/84/52/57/157/154/14/7** | **691 / 2873 / 897** |
+| 34 | L50 | Scribe L25 | **53/60/91/54/58/162/158/14/7** | **714 / 2952 / 919** |
+| 47 | L69 | Blacksmith L19 | **77/65/99/74/87/171/178/16/7** | **1001 / 3156 / 1296** |
+| 62 | L70 | Blacksmith L20 | **78/65/100/75/88/171/179/16/7** | **1014 / 3161 / 1309** |
+| 68 | L71 | Blacksmith L21 | **79/65/101/76/88/172/180/16/7** | **1024 / 3178 / 1312** |
+| 77 | L75 | Blacksmith L25 | **83/67/106/81/95/175/185/17/7** | **1095 / 3238 / 1400** |
+
+Chapters without full sheets inherit the prior rewrite checkpoint (see `Status.md`). Retcon Live blocks when those chapters are rewritten.
 
 Partial path without Basics (body mental + transfer skills/traits only):
 

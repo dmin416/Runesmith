@@ -471,7 +471,27 @@ Uses Mana Arrow, Mana Bolt and Identify (Needle Worm). Floor-2 cook: Needle Worm
 
 ## Chapter 13
 
-Gained: Basic Calligraphy L9 (Mana Scribe requirement; months of nightly grind).
+Half-year Floor-3 grind → **Mage L25**. Kill/XP/loot/pouch: `Experience.md` (**1,102** kills; skill XP **3,008**; pouch **11,641 LC**).
+
+**Rewrite attribute pads from these ranks** (spells no attr; Calligraphy / Temperature Resistance no attr line): Sword **+3 Str**; Dodging **+2 Agi**; Sneaking **+2 Agi**; Throwing **+2 Dex**; Incantation **+2 Int/+2 Will**; Alcohol **+3 End**. Full sheet: `StatusBreakdown.md` / `Status.md`.
+
+Skill ranks (enter → exit; **30** ranks × **100** XP + **8** overflow = **3,008**):
+
+| Skill | Change |
+|---|---|
+| Basic Calligraphy | **L4 → L9** |
+| Temperature Resistance | unlock **L1** |
+| Basic Alcohol Resistance | **L1 → L4** |
+| Mana Shield | **L3 → L6** |
+| Mana Hands | **L7 → L9** |
+| Mana Arrow | **L5 → L8** |
+| Mana Bolt | **L7 → L9** |
+| Basic Incantation | **L6 → L8** |
+| Basic Dodging | **L6 → L8** |
+| One-Handed Swordsmanship | **L1 → L4** |
+| Sneaking | **L1 → L3** |
+| Throwing | **L1 → L3** |
+
 Ch 9.5–10 already evolved Running, Climbing, Sneaking, Throwing, Swordsmanship (Basic → plain) and Marksmanship → **Expert Marksmanship**. Free attribute points on evolve where locked (Sneaking→Agi, Swordsmanship→Str; Marksmanship evolve may add a free Dex or Will once). Still Mage L25. Class-change crystal recovered. No class change yet. Plans lesser sharpness knife as study piece.
 
 ## Chapter 14

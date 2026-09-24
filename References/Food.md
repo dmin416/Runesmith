@@ -2,6 +2,8 @@
 
 **Earth research anchors** for medieval / early Renaissance tables. Use when writing common inns, estate meals or feast scenes. Map flavor to Caldris; do not paste Earth month names or trade cities into prose as if they are local.
 
+**Adventure cooking:** cuts, camp methods and pairings live in `EssentialIngredients.md`. Flavorings and the core ten live in `EssentialFlavorings.md`. Skewer techniques (chuan'r / yakitori) sit under Dungeon meat and spice notes below.
+
 **Caldris calendar:** **13 months × 28 days** (`Economy.md`). Earth month labels below (e.g. November / Martinmas) are anchors only.
 
 **Caldris seasoning lock:** common tables = **salt** (+ local herbs/onion). **Pepper** is middle-class / merchant luxury (thin use can still show up and raise a restaurant bill). **Sugar** is rare spice / medicine / feast (nobility); honey does ordinary sweetening. Do not write commoner kitchens as “mostly sugar, pepper and salt.”
@@ -171,6 +173,10 @@ Everything needed was common by the 1850s: cane sugar, cream, brandy, whiskey, r
 - **Smell:** distinctive; party banter compares it to armpits.
 - **Blood:** **paralytic**, but on-page Roland uses it as a **cumin-like seasoning** on Spiked Boar skewers (numb/spicy / toasted-seed aroma). Broken needles also release poison (Reyna warns while he plucks). Not safe food for normals; he ignores the **Poison Resistance** popup and keeps cooking/eating.
 - Spikes sell poorly (`Economy.md`). Flesh is not a loot focus. Core-bearing worm can be tamed (`Mounts.md`).
+
+### Parsleaves (Ch 13)
+
+Dungeon leaves Ned prefers to hide on and eat. Mild poison source (**weaker than Needle Worm spikes**). Vibrant refreshing aroma like **parsley**. Roland tastes one, then **dries and stockpiles** them alongside occasional Ned **needles** and **blood**. Seasoning / mild toxin stock; not a shop crop name unless a later beat sells them.
 
 ### Why cumin works with gamey meat
 
