@@ -34,7 +34,11 @@ Trait Int/Will bonuses are flat cards. They sit in the Skills/Traits bucket with
 | Basic Incantation | Intelligence, Willpower (even: +1 / +1 per level) |
 | Mana Absorption | Intelligence, Willpower (Will-heavy: +1 Int / +2 Will per level) |
 | Mana Reinforcement | Intelligence, Willpower (even: +1 / +1 per level) |
-| Identify, Analyze, Sleep Resistance, Basic Mathematics, Map Reading | none listed |
+| Basic Alcohol Resistance | Endurance |
+| Dance | Agility |
+| Pain Resistance | Willpower, Endurance |
+| Sleep Resistance | Vitality, Endurance |
+| Identify, Analyze, Basic Mathematics, Map Reading | none listed |
 
 ### Level 2 (plain name) after Basic L9 evolve
 
@@ -113,7 +117,7 @@ Allows you to sense mana.
 ════════════════════════
 ```
 
-Transfer skill attribute total: Int +17, Dex +25, Agi +3, Cha +4. Traits add Int +13, Will +10 (this file).
+Transfer skill attribute total: Int +17, Dex +25, Agi +3, Cha +4, Vit +4, End +4 (Sleep L4). Traits add Int +13, Will +10 (this file).
 
 ### Traits
 
@@ -444,12 +448,25 @@ Monster-hunt title. Hostility is universal. Softened force and occasional fear o
 
 ## Chapter 11
 
-No new named skills. Uses Mana Arrow (entrance rat; notes higher mana cost and longer cast than Bolt), Mana Shield (full chant on Sahildr vs spiked boar), Basic Incantation (levels with spell use) and Mana Sense (chest stone locate). Party combat on Emerald Wilderness floor 1.
+No new named skills. Field use:
+
+- **Mana Arrow**: entrance dungeon-rat one-shot (higher mana / longer cast than Bolt).
+- **Mana Shield**: full chant on Sahildr vs spiked boar; bubble → **hard disk** on her front (rewrite vs Source bubble-only).
+- **Basic Incantation**: levels with spell use.
+- **Mana Sense**: chest-stone locate (~goblin-leader size).
+
+Party combat on Emerald Wilderness floor 1. Still Mage L20 band.
+
+**Trial weeks (~2 weeks, 7 more days):** Mana Shield **~+14** casts → stays **L3**. Basic Incantation stays **L6**. While waiting (butcher / travel): **Mana Hands** fiddling, **Mana Absorption**, **Mana Sense**. Sense + Absorption stay **L9** (capped). Mana Hands **L5 → L6** (~**175** waiting casts ≈ step from L5). Hands rank **~+100 XP**.
+
+### Traits
+
+No new traits.
 
 ## Chapter 12
 
-Gained: Basic Alcohol Resistance (forced tavern drinking; notes hangover potions exist; theorises other exposure resistances).
-Uses Mana Arrow, Mana Bolt and Identify (Needle Worm). First clear look at a lesser impact rune on Sahildr's hammer (glowing pathway lines).
+Gained: **Basic Alcohol Resistance** L1 (**Endurance +1**); forced tavern drinking; hangover potions exist; theorises other exposure resistances. On-page: `**You have gained the Basic Alcohol Resistance skill.**` Morning check: **Sleep Resistance** **L4→L5** (**Vitality +1**, **Endurance +1**); **Dance** L1 (**Agility +1**); **Pain Resistance** L1 (**Willpower +1**, **Endurance +1**). Night pad total: **Agi +1**, **Vit +1**, **End +3**, **Will +1**.
+Uses Mana Arrow, Mana Bolt and Identify (Needle Worm). First clear look at a lesser impact rune on Sahildr's hammer (glowing pathway lines). Still Mage L20 (trial-week XP only; L25 is Ch 13 half-year). Mana Hands at **L6**.
 
 ## Chapter 13
 

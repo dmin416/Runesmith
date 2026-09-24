@@ -20,7 +20,7 @@ Age + daily training from `Progression.md`. Physicals from the trained body tabl
 | Age 9 | 13 | 16 | 16 | 13 | 12 | 17 | 23 | 3 | 7 |
 | Age 10 | 15 | 20 | 16 | 14 | 13 | 18 | 25 | 3 | 7 |
 
-Age-10 **Agility body 20** (Progression table lists 17): +3 evenness fudge so Str/Agi/Vit/End display at **40** with the Basic pad redesign below. Vit/End hit 40 from skill pads alone.
+Age-10 **Agility body 20** (Progression table lists 17): +3 evenness fudge so Str/Agi display at **40** with the Basic pad redesign below. Vit/End hit **44** once **Sleep Resistance** Vit/End pads are counted (L4).
 
 Willpower **15** at age 5 is the adult mind’s full experience floor (30 years). Intelligence **12** is under the adult 15 because working memory waits on brain hardware.
 
@@ -56,17 +56,18 @@ Blessed by Mana: MP only.
 
 #### Transfer skills (levels held constant unless the story levels them)
 
-| Skill | Level | STR | AGI | DEX | INT | CHA |
-|---|---|---|---|---|---|---|
-| Debugger | 8 | | | | +8 | |
-| Technology | 7 | | | +7 | +7 | |
-| Tinkerer | 8 | | | +8 | | |
-| Cooking | 3 | | +3 | +3 | | |
-| Marksmanship | 7 | | | +7 | | |
-| Acting | 4 | | | | | +4 |
-| Hastened Reading | 2 | | | | +2 | |
-| Sleep Resistance, Basic Mathematics, Map Reading, Identify, Analyze | * | | | | | |
-| **Transfer skill total** | | **0** | **+3** | **+25** | **+17** | **+4** |
+| Skill | Level | STR | AGI | DEX | INT | CHA | VIT | END |
+|---|---|---|---|---|---|---|---|---|
+| Debugger | 8 | | | | +8 | | | |
+| Technology | 7 | | | +7 | +7 | | | |
+| Tinkerer | 8 | | | +8 | | | | |
+| Cooking | 3 | | +3 | +3 | | | | |
+| Marksmanship | 7 | | | +7 | | | | |
+| Acting | 4 | | | | | +4 | | |
+| Hastened Reading | 2 | | | | +2 | | | |
+| Sleep Resistance | 4 | | | | | | +4 | +4 |
+| Basic Mathematics, Map Reading, Identify, Analyze | * | | | | | | | |
+| **Transfer skill total** | | **0** | **+3** | **+25** | **+17** | **+4** | **+4** | **+4** |
 
 #### Early Basics (Progression age targets, +1 × level)
 
@@ -100,9 +101,9 @@ Leather reaches **L9 by age 10** (daily armor wear on the drill loop; was L6).
 
 | Age | STR | AGI | DEX | VIT | END | INT | WILL | CHA |
 |---|---|---|---|---|---|---|---|---|
-| 5 (transfer only) | 0 | +3 | +25 | 0 | 0 | +30 | +10 | +4 |
-| 9 | +23 | +19 | +33 | +23 | +24 | +48 | +28 | +4 |
-| 10 | +25 | +20 | +34 | +26 | +27 | +48 | +28 | +4 |
+| 5 (transfer only) | 0 | +3 | +25 | +4 | +4 | +30 | +10 | +4 |
+| 9 | +23 | +19 | +33 | +27 | +28 | +48 | +28 | +4 |
+| 10 | +25 | +20 | +34 | +30 | +31 | +48 | +28 | +4 |
 
 ---
 
@@ -114,8 +115,8 @@ Leather reaches **L9 by age 10** (daily armor wear on the drill loop; was L6).
 |---|---|---|---|---|---|---|---|---|---|
 | Body | 4 | 5 | 4 | 4 | 4 | 12 | 15 | 3 | 7 |
 | Class | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Skills/Traits | 0 | 3 | 25 | 0 | 0 | 30 | 10 | 4 | 0 |
-| **Total** | **4** | **8** | **29** | **4** | **4** | **42** | **25** | **7** | **7** |
+| Skills/Traits | 0 | 3 | 25 | 4 | 4 | 30 | 10 | 4 | 0 |
+| **Total** | **4** | **8** | **29** | **8** | **8** | **42** | **25** | **7** | **7** |
 
 Old live sheet used Int **41** / Will **18** (bare 11 / 8). New body row is Int **12** / Will **15**.
 
@@ -127,8 +128,8 @@ Height **4'7"** (ninth birthday; chapter prose, not a status-screen field).
 |---|---|---|---|---|---|---|---|---|---|
 | Body | 13 | 16 | 16 | 13 | 12 | 17 | 23 | 3 | 7 |
 | Class | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Skills/Traits | 23 | 19 | 33 | 23 | 24 | 48 | 28 | 4 | 0 |
-| **Total** | **36** | **35** | **49** | **36** | **36** | **65** | **51** | **7** | **7** |
+| Skills/Traits | 23 | 19 | 33 | 27 | 28 | 48 | 28 | 4 | 0 |
+| **Total** | **36** | **35** | **49** | **40** | **40** | **65** | **51** | **7** | **7** |
 
 ### Age 10 pre-class (Ch 5) — full stack with Basics
 
@@ -136,12 +137,12 @@ Height **4'7"** (ninth birthday; chapter prose, not a status-screen field).
 |---|---|---|---|---|---|---|---|---|---|
 | Body | 15 | 20 | 16 | 14 | 13 | 18 | 25 | 3 | 7 |
 | Class | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Skills/Traits | 25 | 20 | 34 | 26 | 27 | 48 | 28 | 4 | 0 |
-| **Total** | **40** | **40** | **50** | **40** | **40** | **66** | **53** | **7** | **7** |
+| Skills/Traits | 25 | 20 | 34 | 30 | 31 | 48 | 28 | 4 | 0 |
+| **Total** | **40** | **40** | **50** | **44** | **44** | **66** | **53** | **7** | **7** |
 
-Str/Agi/Vit/End even at **40**. Dex **50**, Will **53**, Int **66** (highest).
+Str/Agi even at **40**. Vit/End **44** after **Sleep Resistance** Vit/End pads (L4). Dex **50**, Will **53**, Int **66** (highest).
 
-HP = 40×10 + 40×3 = **520**. SP = 40×10 + 40×3 + 40×3 = **640**. MP = 66×10 + 53×4 = **872**.
+HP = 44×10 + 44×3 = **572**. SP = 44×10 + 40×3 + 40×3 = **680**. MP = 66×10 + 53×4 = **872**.
 
 ### Mage L1 (Ch 5, post-tutorial) — full stack
 
@@ -151,12 +152,12 @@ Same age-10 body and Basics as pre-class. Class +1 Int / +1 Will. Mage grants L1
 |---|---|---|---|---|---|---|---|---|---|
 | Body | 15 | 20 | 16 | 14 | 13 | 18 | 25 | 3 | 7 |
 | Class | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 |
-| Skills/Traits | 25 | 20 | 34 | 26 | 27 | 52 | 32 | 4 | 0 |
-| **Total** | **40** | **40** | **50** | **40** | **40** | **71** | **58** | **7** | **7** |
+| Skills/Traits | 25 | 20 | 34 | 30 | 31 | 52 | 32 | 4 | 0 |
+| **Total** | **40** | **40** | **50** | **44** | **44** | **71** | **58** | **7** | **7** |
 
 MP = ((71×10)+(58×4))×1.2 + 10 Blessed = 942×1.2 + 10 = **1140**.
 
-All seven **40** attribute perks active.
+All seven **40** attribute perks active (Vit/End already past 40 from Sleep pads).
 
 ### Mage L3 (Ch 6–8) — full stack
 
@@ -164,8 +165,8 @@ All seven **40** attribute perks active.
 |---|---|---|---|---|---|---|---|---|---|
 | Body | 15 | 20 | 16 | 14 | 13 | 18 | 25 | 3 | 7 |
 | Class | 0 | 0 | 0 | 0 | 0 | 3 | 3 | 0 | 0 |
-| Skills/Traits | 25 | 20 | 34 | 26 | 27 | 52 | 32 | 4 | 0 |
-| **Total** | **40** | **40** | **50** | **40** | **40** | **73** | **60** | **7** | **7** |
+| Skills/Traits | 25 | 20 | 34 | 30 | 31 | 52 | 32 | 4 | 0 |
+| **Total** | **40** | **40** | **50** | **44** | **44** | **73** | **60** | **7** | **7** |
 
 MP = ((73×10)+(60×4))×1.2 + 30 Blessed = 970×1.2 + 30 = **1194**.
 
@@ -177,8 +178,8 @@ Guild measuring crystal (Ch 8) uses this block. Estate Mage weekly doubles leave
 |---|---|---|---|---|---|---|---|---|---|
 | Body | 15 | 20 | 16 | 14 | 13 | 18 | 25 | 3 | 7 |
 | Class | 0 | 0 | 0 | 0 | 0 | 4 | 4 | 0 | 0 |
-| Skills/Traits | 25 | 20 | 34 | 26 | 27 | 52 | 32 | 4 | 0 |
-| **Total** | **40** | **40** | **50** | **40** | **40** | **74** | **61** | **7** | **7** |
+| Skills/Traits | 25 | 20 | 34 | 30 | 31 | 52 | 32 | 4 | 0 |
+| **Total** | **40** | **40** | **50** | **44** | **44** | **74** | **61** | **7** | **7** |
 
 MP = ((74×10)+(61×4))×1.2 + 40 Blessed = 984×1.2 + 40 = **1220.8 → 1221**.
 
@@ -188,8 +189,8 @@ MP = ((74×10)+(61×4))×1.2 + 40 Blessed = 984×1.2 + 40 = **1220.8 → 1221**.
 |---|---|---|---|---|---|---|---|---|---|
 | Body | 15 | 20 | 16 | 14 | 13 | 18 | 25 | 3 | 7 |
 | Class | 0 | 0 | 0 | 0 | 0 | 5 | 5 | 0 | 0 |
-| Skills/Traits | 25 | 20 | 34 | 26 | 27 | 52 | 32 | 4 | 0 |
-| **Total** | **40** | **40** | **50** | **40** | **40** | **75** | **62** | **7** | **7** |
+| Skills/Traits | 25 | 20 | 34 | 30 | 31 | 52 | 32 | 4 | 0 |
+| **Total** | **40** | **40** | **50** | **44** | **44** | **75** | **62** | **7** | **7** |
 
 MP = ((75×10)+(62×4))×1.2 + 50 Blessed = 998×1.2 + 50 = **1248**.
 
@@ -218,25 +219,27 @@ Skills/Traits Will = pre-mage pile **28** + **6** + **14** + **6** + **18** + **
 - Str: H2H **9** + Climb baked **9** + Sword baked **9** + Climbing L1 **1** + Swordsmanship L1 **1** + free Climb/Sword **2** = **31**
 - Agi: Climb baked **9** + Sneak baked **9** + Cooking **3** + Dodging **6** + Climbing L1 **1** + Sneaking L1 **1** + free Sneak **1** = **30**
 - Dex: Throw baked **9** + Tech **7** + Tinker **8** + Cooking **3** + Marks baked **9** + Throwing L1 **1** + Expert Marks L1 **1** + free Throw/Marks **2** = **40**
-- Vit: H2H **9** + Sprint **9** + Leather **9** = **27**
-- End: Run baked **9** + Sprint **9** + Leather **9** + Running L1 **1** + free Run **1** = **29**
+- Vit: H2H **9** + Sprint **9** + Leather **9** + Sleep **4** = **31**
+- End: Run baked **9** + Sprint **9** + Leather **9** + Running L1 **1** + free Run **1** + Sleep **4** = **33**
 
 | Bucket | STR | AGI | DEX | VIT | END | INT | WILL | CHA | LUCK |
 |---|---|---|---|---|---|---|---|---|---|
 | Body | 15 | 20 | 16 | 14 | 13 | 18 | 25 | 7 | 7 |
 | Class | 0 | 0 | 0 | 0 | 0 | 20 | 20 | 0 | 0 |
-| Skills/Traits | 31 | 30 | 40 | 27 | 29 | 91 | 82 | 4 | 0 |
-| **Total** | **46** | **50** | **56** | **41** | **42** | **129** | **127** | **11** | **7** |
+| Skills/Traits | 31 | 30 | 40 | 31 | 33 | 91 | 82 | 4 | 0 |
+| **Total** | **46** | **50** | **56** | **45** | **46** | **129** | **127** | **11** | **7** |
 
-HP = Vit×10 + End×3 = 410 + 126 = **536**.
+HP = Vit×10 + End×3 = 450 + 138 = **588**.
 MP = ((129×10)+(127×4))×1.2 + 200 Blessed = 1798×1.2 + 200 = **2358**.
-SP = End×10 + Str×3 + Agi×3 = 420 + 138 + 150 = **708**.
+SP = End×10 + Str×3 + Agi×3 = 460 + 138 + 150 = **748**.
 
 Reinforcement while active: **+90%** of max MP as bonus base stats (L9 × 10%, 90% cap). Drops when MP is empty.
 
 **Class-only check:** mana skills stuck at L1 → Int **90** / Will **77**. Absorption / Reinforcement at L9 are what push Int/Will into the **129 / 127** band.
 
-**Live Ch 10 inn sheet** matches this block (chapter + `Status.md`).
+**Live Ch 10 inn sheet** still shows Vit **41** / End **42** / HP **536** / SP **708** (pre–Sleep-pad retcon). Rewrite target above. Retcon the inn sheet when that chapter is rewritten.
+
+**Ch 12 binge pads (on rewrite stack):** Sleep **L5** (+1 Vit/+1 End vs L4), Alcohol L1 (**End +1**), Dance L1 (**Agi +1**), Pain L1 (**Will +1**, **End +1**) → night **Agi +1 / Vit +1 / End +3 / Will +1**.
 
 ---
 
@@ -266,8 +269,8 @@ Partial path without Basics (body mental + transfer skills/traits only):
 | Strength | 38% (15) | 0% | 62% (25) |
 | Agility | 50% (20) | 0% | 50% (20) |
 | Dexterity | 32% (16) | 0% | 68% (34) |
-| Vitality | 35% (14) | 0% | 65% (26) |
-| Endurance | 32% (13) | 0% | 68% (27) |
+| Vitality | 32% (14) | 0% | 68% (30) |
+| Endurance | 30% (13) | 0% | 70% (31) |
 | Intelligence | 26% (18) | 4% (3) | 70% (48) |
 | Willpower | 45% (25) | 5% (3) | 50% (28) |
 | Charisma | 43% (3) | 0% | 57% (4) |

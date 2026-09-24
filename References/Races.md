@@ -42,9 +42,9 @@ Unnamed plant-affiliated elf type. Headmistress Yavenna Arvandus has green or mo
 First seen: Chapter 8
 Sometimes called smaller giants. Prefer mountains; rare in warm climates. Massive frames and warrior reputation; book talk: strong but lower intelligence, solve problems by fighting. Roland’s first sighting is at the Carwen guild. Chapter 10 party: **Sahildr** (~2 m, brown skin, shield warrior). Named later: Aurdhan, Agthak, Kabir, and various knights or wardens.
 
-## Dragon-kin
-First seen: Chapter 8
-Lizard-like people said to carry dragon blood. Can be confused with lesser lizardman monsters. Roland sees them in the Carwen Adventurer’s Guild.
+## Dragon-kin (Dracs)
+First seen: Chapter 8 (Carwen guild); broader Chapter 67 (Dragnis Island port)
+Lizard-like people said to carry dragon blood (also called **Dracs**). Slightly taller than humans; eloquent. Can be confused with lesser lizardman / mindless lizard-men monsters; calling them lizards risks a fight. Roland’s first sighting is at the Carwen Adventurer’s Guild; more appear in the Dragnis Island port town.
 
 ## Beastmen / Beast Race
 First seen: Chapter 10 (animal-eared adventurers at Carwen guild); broader Chapter 11
@@ -104,7 +104,3 @@ Strong orc-blooded people, often stereotyped as brutes. Korgak, Golgrim, and oth
 ### Quarter-Orc
 First seen: Chapter 650
 Thinner orc blood than half-orcs; still large and muscular. Example: the quarter-orc man who confronts Millie’s father.
-
-## Dracs / Dragon-kin
-First seen: Chapter 67
-Lizard-like people rumored related to dragons. Slightly taller than humans; eloquent. Distinct from mindless lizard-men monsters. Seen in the Dragnis Island port town. Calling them lizards risks a fight.

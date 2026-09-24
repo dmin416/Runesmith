@@ -94,19 +94,23 @@ Writing skill. Roland takes calligraphy books when leaving Arden. Grinds months 
 
 ### Sleep Resistance
 First seen: Chapter 2
-Passive. Needs less sleep; less fatigue. Chapter 19: keeps him awake through a week-long train ride. Chapter 23: levels once during ~half year of inn-room scribing (one meal/day routine).
+Passive. Needs less sleep; less fatigue. **Vitality +1 per level**, **Endurance +1 per level.** Transfer **L4** → Vit **+4** / End **+4**. Chapter 12: climbs **L4 → L5** after the Iron Flagon binge. Chapter 19: keeps him awake through a week-long train ride. Chapter 23: levels once during ~half year of inn-room scribing (one meal/day routine).
 
 ### Alcohol Resistance / Basic Alcohol Resistance
 First seen: Chapter 12
-Passive. First gained as Basic Alcohol Resistance after forced tavern drinking with Becky / Sahildr / Reyna. Suggests other resistances can unlock via similar exposure (Roland considers mild poison later). Hangover potions exist in town; he skips them as too costly. Party girls recover overnight (built-up Alcohol Resistance).
+Passive. First gained as Basic Alcohol Resistance after forced tavern drinking with Becky / Sahildr / Reyna. **Endurance +1 per level.** Suggests other resistances can unlock via similar exposure (Roland considers mild poison later). Hangover potions exist in town; he skips them as too costly. Party girls recover overnight (built-up Alcohol Resistance).
+
+### Dance
+First seen: Chapter 12
+Technique. Shirtless tavern-table dance during the Iron Flagon binge (Little Goblin Slayer cheers). **Agility +1 per level.**
 
 ### Stress Resistance
 First seen: Chapter 196
 Resist stressful pressure; scales with willpower.
 
 ### Pain Resistance
-First seen: Chapter 197
-Reduces felt pain; hard to unlock without sustained suffering.
+First seen: Chapter 12 (deepened Chapter 197)
+Passive. Reduces felt pain; hard to unlock without sustained suffering. Early unlock from hangover / force-feed night. **Willpower +1 per level**, **Endurance +1 per level.**
 
 ### Resilience
 First seen: Chapter 30

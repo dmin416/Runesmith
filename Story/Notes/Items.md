@@ -17,13 +17,11 @@ Roland's gear and carried items by chapter. Follow `CrossCheck.md`. Chapter text
 | Ch 10 nest opener | **7** | **1** at level + **6** slightly lower; **+2** stones |
 | **Lifetime through Ch 10** | **1,576** | |
 
-**Mana stones (goblin ~1 in 5, rice-grain, 2 SS each):**
-- Pre-class 56 L1s → ~11 expected if every corpse checked. At least **1** turned in and **snatched** by servants (Baron property excuse). After that he pockets them.
-- Ch 7: **+1** from the second pen goblin (kept).
-- Leaves estate / arrives Carwen with **2** training-day stones still on him (Ch 9 sale).
-- Ch 9: **+1** forest stone. Sells **3** total at **2 SS** each (1 new + 2 estate).
-- Ch 9.5: **296** gathered (**1,481 ÷ 5**). **Kept** after Ch 9 day one (ears fund living; stones banked). End pouch **6,000 LC** (**6 SG**). **296** stones on person into Ch 10. Ledger: `Experience.md`.
-- Ch 10 nest: **+2** → **298** on person (still kept; ears fund the turn-in).
+**Mana stones (goblin drop law):** leaders **1/30** of kills; leader stone **1/3** of leaders (**5×** rice, **10 SS**); common rice-grain **1/5** of non-leaders (**2 SS**).
+- Pre-class / estate leftovers: Ch 9 sells **3** rice-grain at **2 SS** (1 forest + 2 estate).
+- Ch 7: **+1** rice-grain from the second pen goblin (kept into the Ch 9 sale pile).
+- Ch 9.5 (**1,481** kills): leaders **49** → leader stones **16**; non-leaders **1,432** → rice-grain **286**. All **kept**. End pouch **6,000 LC**. Ledger: `Experience.md`.
+- Ch 10 nest: **+2** rice-grain → **288** rice + **16** leader on person.
 ## Chapter 4
 
 Ninth birthday bravery test kit:
@@ -114,17 +112,54 @@ Three-month Carwen grind (rewrite bridge; Source has no separate chapter).
 
 **Gained during the skip (not a single shop day)**
 - **Goblin left ears** – **1,481** steel-board turn-ins (**5 LC** each → **+7,405 LC**). Funds lodging, meals, repairs and robe.
-- **Rice-grain mana stones ×296** gathered (~1 in 5); **kept** after Ch 9 day one (no stone sales in the skip).
+- **Rice-grain mana stones ×286** + **leader stones ×16** (**5×** rice; **10 SS** each) gathered in Ch 9.5; **kept** after Ch 9 day one.
 - Enter pouch **875 LC** → end pouch **6,000 LC** (**6 SG**) after lodging / breakfast+dinner / **3** jerky / cloak **300** / repairs / robe / food-hunt tastes. Full ledger: `Experience.md`.
 - **Mana Arrow** (late month 1 class grant) then **Mana Shield** (month 2).
 - **Mana Absorption** and **Mana Reinforcement** self-taught from ambient → body-store drills (same skill as common books; discovery just takes longer).
 - Title **Goblin Hunter** (month 3; past **1000** kills into the skip). Nickname Little Goblin Slayer (guild hall).
 - End of skip: Mage **L20**; lifetime goblin kills **1,569**; spell/skill ranks in `Skills.md` Ch 9.5.
 
-**Still carrying into Ch 10:** leather (repaired), shortsword (repaired), hunting knife, thick wool cloak, spare robe, small mirror, adventurer card, local map, calligraphy stock, coin pouch (**6,000 LC**), **296** rice-grain mana stones, buried class-up crystal.
+**Still carrying into Ch 10:** leather (repaired), shortsword (repaired), hunting knife, thick wool cloak, spare robe, small mirror, adventurer card, local map, calligraphy stock, coin pouch (**6,000 LC**), **286** rice-grain + **16** leader mana stones, buried class-up crystal.
 
 ## Chapter 10
 
-**Present day after Ch 9.5.** Same Carwen kit plus thick wool cloak and spare robe from the grind; upstairs inn room rented. Goblin Hunter title. Nest opener: **7** kills (**1** at level, **6** slightly lower), **2** stones, underseasoned gamey boar leg. Guild ear turn-in **+35 LC**. Armor and sword already long repaired. Party invite with Becky / Sahildr / Reyna at chapter end. Pouch **6,000 LC** into chapter → **6,035 LC** after guild; stones **296→298**.
+**Present day after Ch 9.5.** Same Carwen kit plus thick wool cloak and spare robe from the grind; upstairs inn room rented. Goblin Hunter title. Nest opener: **7** kills (**1** at level, **6** slightly lower), **2** rice-grain stones, underseasoned gamey boar leg. Guild ear turn-in **+35 LC**. Armor and sword already long repaired. Party invite with Becky / Sahildr / Reyna at chapter end. Pouch **6,000 LC** into chapter → **6,035 LC** after guild; stones **286→288** rice + **16** leader.
 
-**Still carrying into Ch 11:** leather (repaired), shortsword (repaired), hunting knife, thick wool cloak, spare robe, small mirror, adventurer card, local map, calligraphy stock, coin pouch (**6,035 LC**), **298** rice-grain mana stones, buried class-up crystal.
+**Still carrying into Ch 11:** leather (repaired), shortsword (repaired), hunting knife, thick wool cloak, spare robe, small mirror, adventurer card, local map, calligraphy stock, coin pouch (**6,035 LC**), **288** rice-grain + **16** leader mana stones, buried class-up crystal.
+
+## Chapter 11
+
+First dungeon day with Becky / Sahildr / Reyna. Carry-in from Ch 10 unchanged until sale split.
+
+**Gained / used (party haul; sold and split)**
+- Spiked Boar mats: tusks, spine spikes, leather (meat skipped). Design lock **4** boars mid mats **~312 LC**.
+- Dungeon chest stones **×2** (leader-sized; Mana Sense finds first; “another” on the shield fight) sold **200 LC**.
+- Team **~512 LC** → equal 4-way → Roland **+128 LC**.
+
+**Party gear noted (not his)**
+- Spatial bag ~**<2 m³** (girls’; **5 SG** used; drinks skimmed ~1 year).
+
+**Coin ledger**
+
+| Step | Change (LC) | Running |
+|---|---|---|
+| Enter from Ch 10 | | **6,035** |
+| Equal 4-way party share | +128 | **6,163** |
+
+**Still carrying after Ch 11 day 1:** leather (repaired), shortsword (repaired), hunting knife, thick wool cloak, spare robe, small mirror, adventurer card, local map, calligraphy stock, coin pouch (**6,163 LC**), **288** rice-grain + **16** leader mana stones, buried class-up crystal.
+
+### Ch 11→12 trial weeks (~2 weeks, **7** more Floor-1 days)
+
+Equal-split haul locked in `Experience.md`: mats **~2,184** + **15** stones **1,500** → team **~3,684** → Roland **+921 LC**. Lodging **−126** + food **−140** over **14** days. Pouch **6,163 → ~6,818 LC**. Personal stone bank unchanged.
+
+**Coin ledger**
+
+| Step | Change (LC) | Running |
+|---|---|---|
+| After Ch 11 day 1 | | **6,163** |
+| Trial-week party share | +921 | **7,084** |
+| Lodging (14 days) | −126 | **6,958** |
+| Food (14 days) | −140 | **6,818** |
+| Iron Flagon first round (Ch 12) | −45 | **6,773** |
+
+**Still carrying into Ch 12 binge:** leather (repaired), shortsword (repaired), hunting knife, thick wool cloak, spare robe, small mirror, adventurer card, local map, calligraphy stock, coin pouch (**~6,818 LC** before drink / **~6,773** after first round), **288** rice-grain + **16** leader mana stones, buried class-up crystal.

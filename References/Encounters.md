@@ -150,4 +150,10 @@ First seen Chapter 58 (cave after rockslide).
 
 | Chapter | Encounter |
 |---|---|
-| 58 | Moon-elf Lady Aredhel and Logon (collar; Logon took Roland's sword); Half-Orc Golgrim with club. Fight mountain goblins/hobgoblin outside cave. |`r`n| 59 | Bolia backstory. Roland melts hobgoblin with Fire Arrow; clears goblins; Debugger on collar runes; asks to examine collar. |`r`n| 60 | Collars off; alias Carmine; party toward river village; Bocanach L46 fight (coordination fails). |`r`n| 61 | Formation lecture; Greater Mantodea L57; Golgrim dual scythes; Charisma 24 noted. |`r`n| 62 | Reach village; bandits hold it with hostages; Carmine party scouts from trees. |`r`n| 63 | Night raid; Logon kills boss with runic rapier; Golgrim cleans up. |`r`n| 64 | Part ways; Aredhel offers Irithyl (Bolia); Golgrim keeps boss ax; Roland continues to port. |
+| 58 | Moon-elf Lady Aredhel and Logon (collar; Logon took Roland's sword); Half-Orc Golgrim with club. Fight mountain goblins/hobgoblin outside cave. |
+| 59 | Bolia backstory. Roland melts hobgoblin with Fire Arrow; clears goblins; Debugger on collar runes; asks to examine collar. |
+| 60 | Collars off; alias Carmine; party toward river village; Bocanach L46 fight (coordination fails). |
+| 61 | Formation lecture; Greater Mantodea L57; Golgrim dual scythes; Charisma 24 noted. |
+| 62 | Reach village; bandits hold it with hostages; Carmine party scouts from trees. |
+| 63 | Night raid; Logon kills boss with runic rapier; Golgrim cleans up. |
+| 64 | Part ways; Aredhel offers Irithyl (Bolia); Golgrim keeps boss ax; Roland continues to port. |

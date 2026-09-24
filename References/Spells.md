@@ -28,7 +28,7 @@ Guided or homing mana arrow variants.
 
 ### Mana Shield
 First seen: Chapter 10
-Mana barrier for caster or allies. One of Mage’s three basic class spells with Bolt and Arrow. Chapter 11 party cast on Sahildr vs a spiked boar: *Source of all magic, heed my call. Let your strength be mine and protect which I deem worthy.* / *Mana Shield!* Blue bubble barrier. Chapter 14: extra mana poured into the bubble around Reyna vs a T2 fencer thrust; still pierced but bought the parry. Chapter 27: can reshape lesser shield into a tight earth wall (and other elemental variants) via surface rune edits.
+Mana barrier for caster or allies. One of Mage’s three basic class spells with Bolt and Arrow. Chapter 11 party cast on Sahildr vs a spiked boar: *Source of all magic, heed my call. Let your strength be mine and protect which I deem worthy.* / *Mana Shield!* Blue bubble forms then shrinks to a **hard disk** over the target’s front (Source: bubble aid only). Chapter 14: extra mana poured into the bubble around Reyna vs a T2 fencer thrust; still pierced but bought the parry. Chapter 27: can reshape lesser shield into a tight earth wall (and other elemental variants) via surface rune edits.
 
 **Rewrite physics:** `N = floor(20 × M × η × μ × S × R / J)` with shared η/μ. **Baseline M = 100.** Focused disk A = 0.2 m² (S = 1, R = 1); semicircle A = 6.28 m² (S ≈ 0.178, R = 1 - 0.628 t / M). Threat J table and hit counts: `Science.md` (Mana Shield).
 

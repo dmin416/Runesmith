@@ -2,13 +2,11 @@
 
 ## Sphere flight randomness
 
-The randomness in flight comes from three effects and they matter far more than the arc shape at this velocity.
+The randomness in flight comes from two main effects plus wind and they matter far more than the arc shape at this velocity.
 
-### Boundary-layer knuckling (the biggest one)
+### Transonic Cd rise (primary)
 
-For a 9.5mm bearing at Mach 0.99, Reynolds number at the muzzle is ~2.17×10⁵. That sits inside the sphere's critical drag-crisis band (roughly 2×10⁵–4×10⁵), where the boundary layer flips unpredictably between laminar and turbulent separation on the two hemispheres of the ball. Each flip produces a lateral force that is not tied to spin, wind or release quality. It is the same mechanism that makes a knuckleball erratic.
-
-A polished, smooth ball bearing actually makes this worse, not better: roughness (like golf-ball dimples) forces an early, repeatable transition, while a smooth surface keeps the transition point sensitive and twitchy. This is flight-path randomness with no correlation to anything the shooter controls and it repeats differently shot to shot even with identical release conditions.
+Launching right at Mach 0.99 puts the shot on the steepest part of the drag-coefficient curve (Cd roughly doubles between Mach 0.9 and 1.0). A ~1% variation in release velocity, normal for a hand-drawn slingshot or bow, shifts Mach enough to meaningfully change Cd, which changes the whole deceleration profile and therefore range and drop, well beyond what the same velocity variance would cause at a slower, subsonic launch speed.
 
 ### Magnus drift from uncontrolled spin
 
@@ -21,9 +19,7 @@ Neither a slingshot pouch nor a bow has rifling, so any spin imparted at release
 
 Since the spin axis is not fixed shot to shot (unlike a rifled bullet, where drift is at least predictable and correctable), this drift changes direction randomly between shots rather than being a consistent, zeroable bias.
 
-### Transonic velocity sensitivity
-
-Launching right at Mach 0.99 puts the shot on the steepest part of the drag-coefficient curve (Cd roughly doubles between Mach 0.9 and 1.0). A ~1% variation in release velocity, normal for a hand-drawn slingshot or bow, shifts Mach enough to meaningfully change Cd, which changes the whole deceleration profile and therefore range and drop, well beyond what the same velocity variance would cause at a slower, subsonic launch speed.
+Reynolds number at the muzzle for a 9.5 mm bearing at Mach 0.99 is ~2.17×10⁵, inside the subsonic sphere drag-crisis band. At near-Mach-1 that crisis is largely suppressed by compressibility, so do not lean on knuckleball-style boundary-layer flips as the main scatter source here. Transonic Cd and random spin already carry the argument.
 
 ### Crosswind and atmospheric turbulence
 
@@ -31,7 +27,7 @@ A small sphere has poor ballistic coefficient, so wind drift accumulates quickly
 
 ### What helps consistency
 
-A sphere has no yaw-of-repose or tumbling instability the way a stone or a non-spherical pellet would, since drag does not depend on orientation. Strip out spin and the Re-crisis zone and the flight would be quite repeatable. With them in play, the knuckling effect and the uncontrolled spin are the two dominant, genuinely random contributors, with the transonic velocity sensitivity a close third.
+A sphere has no yaw-of-repose or tumbling instability the way a stone or a non-spherical pellet would, since drag does not depend on orientation. With uncontrolled spin and a Mach 0.99 release, the random Magnus axis and the steep Cd curve are the two dominant scatter sources, with wind a close third on long flights.
 
 ## Arrow speed and Mach 0.99 evasion
 
@@ -159,10 +155,8 @@ KE_ball = ½ × 0.145 × v²
 Worked example: AGI 15 man, W = 45 kg (matched street STR≈15), v_s = 15 m/s.
 
 - E_throw = 375 × 0.2 = **75 J**
-- ω ≈ 28.2 rad/s → exit after losses ≈ **31 m/s** (~69 mph)
+- ω ≈ 27.3 rad/s → exit after losses ≈ **31 m/s** (~69 mph)
 - KE_ball ≈ **69 J** ≈ 0.92 × E_throw (nearly fills the AGI budget)
-
-Old W = 100 kg + v_s = 9 m/s demo (≈87 mph, ~109 J) is a strong press with a weak pivot add. Against an AGI 15 budget of 75 J it **overshoots**; that combo is STR-rich / AGI-poor and fails Step 4 unless AGI is higher.
 
 Matched STR ≈ AGI (adult tube, OHP = 0.5 × deadlift, v_s from AGI):
 
@@ -207,7 +201,6 @@ Projectile KE = ½ × 0.145 × v². Compare to the AGI throw budget `E_throw = 2
 | Matched AGI 15 (street) | 31 m/s (~69 mph) | ~69 J | ≈ 92% of 75 J budget |
 | Matched AGI 48 (Bolt power) | 55 m/s (~124 mph) | ~222 J | ≈ 93% of 240 J budget |
 | Forearm band after losses | ~40 m/s (~90 mph) | ~116 J | needs ~AGI 25+ budget (E ≥ 116 J) |
-| Old W = 100 kg demo after losses | 38.7 m/s (~87 mph) | ~109 J | overshoots AGI 15's 75 J |
 
 A hard throw puts on the order of **70–220 J** into a baseball when stats are matched: a few percent of a sprinting man's **body** KE (1,440 J), but almost all of the **throw-window** AGI energy. The tube converts that small joule budget into high v on 0.145 kg; it does not mint energy past AGI.
 
@@ -235,13 +228,9 @@ Inputs from `Progression.md` and `StatusBreakdown.md`:
 - From age 8 on, STR and AGI are nearly matched and ball KE fills ~90%+ of the AGI throw budget. Projectile math closes from AGI.
 - Age 10 lands in soft-cesta / hard-sling territory (~113 mph) with budget headroom, not an energy violation.
 - Ages 5–6 are STR-poor relative to AGI (or just weak): exit speed is low and KE / E is well under 1.
-
-**Caveats**
-
-1. Constant-ω slide and finite swing energy still disagree inside the ω step; the AGI budget cap is the external sanity check.
-2. Peak press is not constant torque through 1.5 rad.
-3. Do not feed sprint into v_s. That was the bug that starved the tangential term and made tube speeds look too slow vs sling expectations.
-4. The age 5→6 jump is mostly Basics unlocking on the sheet.
+- Peak press is not constant torque through the full 1.5 rad swing; the AGI budget cap is the external sanity check.
+- Do not feed sprint speed into v_s. Sprint is locomotion only; throw pivot uses the AGI formula above.
+- The age 5→6 jump is mostly Basics unlocking on the sheet.
 
 **How to use it**
 
@@ -309,7 +298,7 @@ Mana per gram uses `mana = joules / (10 × η × μ)`.
 | Melt ice at 0 °C | 334 J | 51 | 24 | 7 | 5 | 2 |
 | Heat water 20→100 °C | 334 J | 51 | 24 | 7 | 5 | 2 |
 | Boil water at 100 °C | 2,257 J | 343 | 165 | 46 | 34 | 16 |
-| Ice at 0 °C → steam | 2,925 J | 445 | 214 | 59 | 44 | 21 |
+| Ice at 0 °C → steam | 3,009 J | 457 | 220 | 61 | 46 | 22 |
 | Melt iron from 20 °C | ~1,160 J | 176 | 85 | 23 | 18 | 8 |
 | Vaporize iron from 20 °C | ~8,300 J | 1,262 | 606 | 167 | 126 | 61 |
 | Fully ionize air (plasma) | ~134,000 J | 20,380 | 9,792 | 2,702 | 2,038 | 979 |
@@ -325,6 +314,61 @@ Mana per gram uses `mana = joules / (10 × η × μ)`.
 2. **Latent heat is the wall.** Heating a solid to its melting point is often cheaper than the melt itself and boiling costs about seven times as much as melting for water. Casters who "almost" melt something are realistic. Steam magic should be rare and prestigious.
 3. **Targeting efficiency.** A separate thermal efficiency, such as half of the kinetic path because heat spreads, would make fire mages specialists. A school or talent could restore the missing share.
 4. **Phase shortcuts.** A spell that rearranges bonds without supplying the full latent heat, such as "unbinding" a solid, sidesteps the budget with a fixed mana cost per gram. That keeps physics intact for brute heating and gives skilled mages a way around it.
+
+## Reference anchors (100 J and 10 kJ)
+
+Feel guides for elemental and force effects. Match cast Useful energy to these rows.
+
+### Reference anchors
+
+| Energy | Real-world equivalent |
+|---|---|
+| 100 J | A hard punch; a .22 LR bullet (~140 J); lifting 10 kg 1 m |
+| 10 kJ | ~2/3 of a .50 BMG round; 2.4 food calories; lifting an 80 kg person ~13 m |
+
+### Classical and derived elements
+
+| Element | 100 J | 10 kJ |
+|---|---|---|
+| **Fire** | A lighter flame for 1 to 2 seconds; a tenth of a match | ~10 matches burned at once; ~0.2 g of gasoline; a hand-sized 2nd/3rd degree burn if dumped fast |
+| **Water** (kinetic) | 1 L of water at 14 m/s; a hard shove from a hose blast | 10 L at 45 m/s or 100 L at 14 m/s; knocks a person off their feet into a wall |
+| **Ice** (freezing) | Freezes ~0.3 g of water; a frosted fingertip | Freezes ~25 g of room-temp water; an ice cube or a frostbitten patch of skin |
+| **Ice** (shard) | 10 g shard at 140 m/s; roughly an arrow hit | 1 kg spike at 140 m/s; punches through a torso |
+| **Lightning** | About half a defibrillator shock; can stop a heart | ~1/100,000 of a real bolt; lethal arc with burns, a loud crack and flash |
+| **Earth/Stone** | 1 kg rock at 14 m/s; a hard-thrown brick | 100 kg boulder at 14 m/s; like being hit by a car at low speed |
+| **Air/Wind** | 1 m³ of air at 13 m/s; a gust that staggers | 1 m³ of air at 130 m/s; a focused blast that throws a person flat |
+| **Metal** | A .22 LR round | A heavy rifle round or ~3 hunting rifle shots |
+| **Steam** | Boils off ~0.04 g of water; a painful puff | ~4 g of scalding steam; a face-scalding blast |
+| **Magma** | The heat of ~0.08 g of lava | The heat of ~8 g of lava; a marble-sized glowing blob |
+| **Sound** (over 1 second) | ~129 dB at 1 m; painful, like a gunshot at arm's length | ~149 dB at 1 m; ruptured eardrums, jet engine up close |
+| **Light** (laser/flash) | A camera flash; a focused pulse blinds or burns a spot | A 10 kW laser for 1 second; burns through thin sheet metal |
+| **Wood/Nature** (growth) | Grows ~6 mg of dry wood; a sprout twitches | Grows ~0.6 g of dry wood; a small twig. Growing plants is extremely energy expensive |
+| **Wood/Nature** (lash) | A whip-like vine strike | A vine or root slamming with car-impact force |
+
+### Light, dark, life and death
+
+| Element | 100 J | 10 kJ |
+|---|---|---|
+| **Light/Holy** (radiant heat) | A brief searing flash | A burst that chars skin and blinds |
+| **Dark/Shadow** (draining heat) | Chills a spot of skin; a cold touch | Pulls enough heat to frostbite a limb segment |
+| **Life/Healing** | 1 second of a resting human's metabolism | ~100 seconds of metabolism; enough raw energy to build roughly 1 to 2 g of new tissue. Closes a cut but not a wound |
+| **Death/Necrotic** | Destroys a coin-sized patch of cells | Kills a fist-sized mass of tissue; necrotic wound |
+
+### Force and cosmic elements
+
+| Element | 100 J | 10 kJ |
+|---|---|---|
+| **Force/Arcane** | A punch-strength invisible shove | A telekinetic hit with rifle-round energy spread across a body; breaks bones |
+| **Gravity** | Lift a 10 kg object 1 m; drop a person 13 cm | Lift a person ~4 stories; slam them down from that height (often lethal) |
+| **Space** (teleport via lift-equivalent) | Moves 10 kg a meter "uphill" | Moves a person ~13 m of vertical displacement |
+| **Time, Mind, Fate, Dream, Illusion** | No physical energy analog; use Force or Gravity numbers as a casting-cost baseline | Same approach at 100× scale |
+
+### Scaling rule of thumb
+
+- 100 J: an injury or a trick. Matches a punch or light gunfire.
+- 10 kJ: a kill shot on an unarmored person or a serious wound on an armored one.
+- 1 MJ: about 100× beyond 10 kJ; destroys a car or collapses a room.
+- 1 GJ: a real lightning bolt; levels a house.
 
 ## Mana Bolt speaking levels
 
@@ -448,7 +492,7 @@ R in MPa, t in cm, E in J. Cost scales with diameter squared (4 mm = 25% of an 8
 | Hobgoblin skin | 30 MPa | 4 mm | 2.2 J | 0.3 | 0.1 |
 | Cow hide | 40 MPa | 4 mm | 3.0 J | 0.5 | 0.1 |
 | Hardened leather | 60 MPa | 5 mm | 5.6 J | 0.9 | 0.3 |
-| Mail | 350 MPa | 1.5 mm | 9.6 J | 1.5 | 0.4 |
+| Mail | 350 MPa | 1.5 mm | 9.9 J | 1.5 | 0.5 |
 | Dog-sized ant | 180 MPa | 3 mm | 10.2 J | 1.6 | 0.5 |
 | Dog-sized mantis | 250 MPa | 3 mm | 14.1 J | 2.1 | 0.6 |
 | Brigandine | 500 MPa plate + ~40 MPa backing | 1.5 mm + 3 mm | 16 J | 2.4 | 0.7 |
@@ -485,7 +529,7 @@ Max R cleared = H / 1.5
 
 Minimum INT to clear R: goblin skin **2** / hardened leather **6** / dog ant **17** / dog mantis **24** / mail **35** / brigandine plate **53** / iron **81** / steel **225** / mithril **1,800**.
 
-At **INT 40** (max R 400 MPa): leather and mail are open; **brigandine plate, iron, steel and mithril are closed** even if joules would allow them. Example: 50 mana at INT 40 gives 80 J, enough joules for steel, but the hardness gate still blocks steel until INT ~225.
+At **INT 40** (max R 400 MPa): leather and mail are open; **brigandine plate, iron, steel and mithril are closed** even if joules would allow them. Example: 50 mana at INT 40 gives ~328 J, enough joules for steel, but the hardness gate still blocks steel until INT ~225.
 
 ### Slicing fletchings
 
@@ -521,7 +565,7 @@ A rib in the path adds roughly **20 J**.
 | Armor | Punch | Vane slit | Total | Mana L1 INT 40 | Mana L2 INT 40 | Gate |
 |---|---|---|---|---|---|---|
 | Hardened leather | 5.6 J | 9 J | 14.6 J | 2.2 | 0.7 | open from INT 6 |
-| Mail | 9.6 J | 16 J | 25.6 J | 3.9 | 1.2 | open from INT 35 |
+| Mail | 9.9 J | 16 J | 25.9 J | 3.9 | 1.2 | open from INT 35 |
 | Steel (1 mm) | 26 J | 42 J | 68 J | 10.3 | 3.1 | **closed until INT ~225** |
 
 If the vanes stall, the arrow lodges with vanes outside and no slicing happens.
@@ -551,15 +595,15 @@ One arrow clears ant plate at **61 J** (~9 mana at L1 INT 40, or ~3 mana at L2) 
 
 ### Elemental versions
 
-Element takes share **f** of kinetic K; punch keeps `(1 − f) × K`. At L1 INT 40 a normal Arrow (50 mana) is ~328 J; a 4 mm shaft can put a large elemental share into fire/cold/wind and still punch mail (9.6 J).
+Element takes share **f** of kinetic K; punch keeps `(1 − f) × K`. At L1 INT 40 a normal Arrow (50 mana) is ~328 J; a 4 mm shaft can put a large elemental share into fire/cold/wind and still punch mail (9.9 J).
 
-| Element | Mechanism | Effect at 80 J |
+| Element | Mechanism | Effect at 328 J |
 |---|---|---|
-| Fire | Momentum becomes heat | Ignites cloth and hair at about 10 J. Coagulates about 1 cm³ of tissue. Seared cuts seal and reduce bleeding |
-| Cold | Momentum becomes heat removal | Freezes about 0.2 g of tissue. Suits a brittle wound rim or a slowed limb |
-| Wind | Wide slash | Cuts a 30 cm slash about 12 cm deep in flesh. Armor stops it completely |
+| Fire | Momentum becomes heat | Ignites cloth and hair at about 10 J. Coagulates about 4 cm³ of tissue. Seared cuts seal and reduce bleeding |
+| Cold | Momentum becomes heat removal | Freezes about 0.8 g of tissue. Suits a brittle wound rim or a slowed limb |
+| Wind | Wide slash | Cuts a ~60 cm slash about 25 cm deep in flesh. Armor stops it completely |
 | Water | Pressure sheet | Needs v above √(2R / 1,000) with R in MPa and water density 1,000 kg/m³: skin **173 m/s**, leather **346 m/s**, mail **837 m/s**. Sheet volume = E / R |
-| Stone | Spike | 40 g becomes a 15 cm³ spike. Tip yields near 150 MPa. Passes hide and leather; shatters on carapace and harder |
+| Stone | Spike | 40 g spike carries the share as KE. Tip yields near 150 MPa. Passes hide and leather; shatters on carapace and harder |
 
 ### Katana comparison
 
@@ -855,6 +899,8 @@ See also `Spells.md` (Ember, Mana Hands, Mana Shield).
 | Stone | Capacity | Output (mana/s) | Input (mana/min) | Sustainable (mana/s) |
 |---|---|---|---|---|
 | Rice grain | 19 | 42 | 42 | 0.7 |
+| Needle Worm tiny (**½** rice) | **~9.5** | ~26 | ~26 | ~0.4 |
+| Goblin leader (5× rice volume) | **95** | ~123 | ~123 | ~2.0 |
 | Pea (7 mm) | 180 | 154 | 154 | 2.6 |
 | Cube (10 mm) | 1,000 | 600 | 600 | 10 |
 | Marble (16 mm) | 2,145 | 804 | 804 | 13 |
@@ -890,17 +936,17 @@ See also `Spells.md` (Ember, Mana Hands, Mana Shield).
 **Quality does not raise capacity.** Size owns the tank. Grade speeds output and input, with dump ahead of refill:
 
 ```
-Output = Q × SA              mana/s
-Input  = (Q / 2) × SA        mana/min
-Sustainable = Input / 60     mana/s
+Output = Q × SA                 mana/s
+Input  = ((Q + 1) / 2) × SA     mana/min
+Sustainable = Input / 60        mana/s
 ```
 
-So a **10×** (dragon-grade) stone dumps **10×** harder and takes input **5×** faster. Capacity stays volume-only.
+At **Q = 1** this matches the baseline rates (1 mana/s and 1 mana/min per mm²). A **10×** (dragon-grade) stone dumps **10×** harder and takes input **5.5×** faster. Capacity stays volume-only.
 
 | Fist core | Capacity | Output (mana/s) | Input (mana/min) | Sustainable (mana/s) |
 |---|---|---|---|---|
 | 1× common | 268,080 | 20,110 | 20,110 | 335 |
-| 10× dragon grade | 268,080 | 201,100 | 100,550 | 1,676 |
+| 10× dragon grade | 268,080 | 201,100 | 110,605 | 1,843 |
 
 High-grade stones are high-amp feeds that also top off faster, not bigger batteries. Size owns capacity. Grade owns output and input.
 
@@ -929,10 +975,26 @@ Q  = ρ / ρ₀                        from weigh + size (or Identify)
 
 Same outer size, heavier stone → higher Q. Same mass, smaller stone → denser → higher Q.
 
-**Market (guild buy):** size still dominates the sticker (see `Economy.md`). Quality is a multiplier on that size band:
+**Market (guild buy):** size still dominates the sticker through the **leader** band (linear with volume; see `Economy.md`). **Above leader**, guilds use **stepped size bands** (not linear mm³): a Common **16 mm** marble (~113× rice volume) sells around **1.5–4 LS** (mid **~2 LS**), not the ~2.3 SG a pure volume rule would imply. Quality is a multiplier on that size band:
 
 ```
 Price ≈ Price_size(V) × Q
 ```
 
 So a Common marble at ~**2 LS** mid-band becomes ~**20 LS** at dragon Q **10**, same volume. Rates still follow the dump/refill formulas above.
+
+## Extra limb nerves and brain cost
+
+Reference for Mana Hands, golem limbs, grafted arms and similar.
+
+### Nerves
+
+The arm has 5 major named nerves (median, ulnar, radial, musculocutaneous, axillary), all branching from the brachial plexus. Together they carry roughly 100,000 or more individual nerve fibers, about a third motor and the rest sensory. Median, ulnar and radial each hold tens of thousands.
+
+### Brain cost
+
+- **Raw territory:** The hand and arm take up roughly a quarter of the primary motor and sensory strips, which are only a few percent of the cortex. One extra arm's hardware footprint is low single digits percent of the brain.
+- **Real bottleneck:** Attention and coordination. An independent third arm competes for the same planning networks (premotor, parietal, cerebellum) already used by the two natural arms. Bimanual control is near the limit of what most people manage so a third arm running its own task would demand heavy executive focus at first.
+- **Practice effect:** In Makin lab studies of an extra robotic thumb, users controlled it while doing other tasks after a few days. Their hand cortex remapped in the process. That points to the cost dropping from near-full concentration to mostly automatic with training.
+
+No fixed percentage exists. The cost starts high in attention and falls sharply as the control becomes learned.

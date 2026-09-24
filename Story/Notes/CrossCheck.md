@@ -44,6 +44,7 @@ Also update the matching reference when a named thing is new, renamed or its des
 | Coin peg, wages, prices, ledgers | `References/Economy.md` |
 | Food / meal flavor anchors | `References/Food.md` |
 | Places (inns, towns, shops) | `References/Places.md` |
+| Dungeon layouts / floor patterns | `References/DungeonDesign.md` |
 | Adventurer ranks | `References/AdventurerRanks.md` |
 | Family / house people | `References/Family.md` |
 | Runes / schematics | `References/Runes.md` |
@@ -66,7 +67,7 @@ Displayed = Body + Class levels + Skills/Traits (+ Other if needed)
 
 ## XP / coin quick rules
 
-- Kill XP: `(49 + MonsterLevel) × RaceMult`. Common goblin RaceMult **1.0**.
+- Kill XP: `(49 + MonsterLevel) × RaceMult`. Common goblin RaceMult **1.0**. Dungeon rat: **`9 + level`**. Needle Worm: **`24 + level`**. Spiked Boar: **`499 + level`**.
 - Class bar: `XP_to_next(L) = 500 × L`.
 - Pre-class bank: half penalty, **one-time** on first ascension only (`Experience.md`).
 - Skill / spell rank XP can fill a bar but must not silently cut a locked kill count.
@@ -95,19 +96,20 @@ Displayed = Body + Class levels + Skills/Traits (+ Other if needed)
 5. No leftover old name in rewrite files (search the old term; ignore `Source/`).
 6. If kills, XP bars or pouch changed: `Experience.md` totals, chapter Notes beat and any Economy/Places quote still match.
 
-## Open checks (Ch 1–10 rewrite pass)
+## Open checks (Ch 1–11 rewrite pass)
 
-Synced for the live Ch 1–10 rewrite: estate doubles → Ch 9 L3→L4, Ch 9.5 kill/coin/stone ledger (**1,481** / end **6,000 LC** / **296** stones), Ch 10 nest (**+7** / stones **298** / pouch **6,035 LC**), rewrite L20 inn sheet, Absorption/Reinforcement self-taught, Scribe spelling, Ch 9.5 destination = research only, Ch 10 picks **Edelgard**.
+Synced for the live Ch 1–11 rewrite: estate doubles → Ch 9 L3→L4, Ch 9.5 kill/coin/stone ledger (**1,481** / end **6,000 LC** / **286** rice + **16** leader), Ch 10 nest (**+7** / **288** rice + **16** leader / pouch **6,035 LC**), rewrite L20 inn sheet, Ch 11 first dungeon day (party XP rewrite; Mana Shield hard disk; day haul lock **4** boars / **+128 LC** → **6,163 LC**), Absorption/Reinforcement self-taught, Scribe spelling, Ch 9.5 destination = research only, Ch 10 picks **Edelgard**.
 
 Still needs attention when touching these beats:
 
 | Item | Where | Check |
 |---|---|---|
 | Ch 10 Edelgard goal | `Notes.md`, `Status.md`, `RolandClasses.md`, chapter | OK for Ch 10+. Must stay out of Ch 9.5 close. |
-| Ch 10+ party / dungeon notes | Notes 11–80 | Written to Source plot. Re-audit when those chapters are rewritten. |
+| Ch 12+ party / dungeon notes | Notes 12–80 | Re-audit when those chapters are rewritten. |
+| Ch 11 day haul lock | `Experience.md`, `Economy.md`, `Items.md`, `Notes.md` | Prose says “more” boars; lock stays **4** / **2** stones / **+128 LC** unless chapter names a count. |
 | Mana Bolt joule / Int curve | `References/Science.md`, chapter fight beats | Keep formula and on-page damage language aligned when editing fights. |
-| Meal / lodging quotes | `Economy.md`, `Places.md`, Ch 9 Notes | Meal **5 LC**; lodging **1 SS**/night + **5 LC** breakfast; monthly ~**10%**. |
+| Meal / lodging quotes | `Economy.md`, `Places.md`, Ch 9 Notes | Meal **5 LC**; lodging **1 SS**/night + **5 LC** breakfast; monthly ~**10%** on **28** nights → **252 LC**. Year = **13×28**. |
 | Goblin Hunter title | `Skills.md` / `Status.md` Ch 9.5–10 | Past **1000** kills into the skip; card text matches chapter. |
-| Ch 10 nest ledger | `Experience.md`, `Items.md`, `Status.md`, `Notes.md` | **+7** kills → **1,576**; pouch **6,035 LC**; stones **298**. |
+| Ch 10 nest ledger | `Experience.md`, `Items.md`, `Status.md`, `Notes.md` | **+7** kills → **1,576**; pouch **6,035 LC**; stones **288** rice + **16** leader. |
 | Source delay skills | `Roland's Skills.md`, `Early Logical Skills.md` | Absorption/Reinforcement already owned in rewrite; Ember/Hands self-taught Ch 9.5; later book chapters = rank practice only. |
 | Search Scrybe | Story / Notes / References / `.cursor` | Must stay empty. `Source/` may keep Scrybe. |

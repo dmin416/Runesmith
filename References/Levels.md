@@ -68,7 +68,7 @@ Awards are **straightforward**: flat or simple by action. Class does **not** cha
 
 Other notes:
 
-- Monster kills (solo or party). Party share needs members close enough in **overall level** and **same tier band**; a Tier 2 cannot power-level a Tier 1 (even crippling a monster so a lower-tier finishes it grants that lower-tier nothing). Idle spectating still pays a tiny share (Chapter 11: **5 XP** on a spiked boar Roland did not fight). Active contribution raises his cut.
+- Monster kills (solo or party). Party XP ties to **ability and contribution**. Teaming with higher-tier people is allowed; a low cut still pays something. Idle spectating on the Chapter 11 spiked boar: Roland **5 XP** (**~1%** of the kill for being in the group; he could kill it alone if he tried). Active contribution raises his cut. People still prefer same-tier parties.
 - Leveling skills and spells. Leveling a spell (e.g. Mana Bolt rank-up) can grant a popup XP award; Chapter 10 notes this is often **more** than trash goblin kills. Craft classes also gain XP by making items.
 - Crafting / item creation. **First** successful schematic discovery pays the big 1000. Copying the same rune again does not.
 - **Pre-class XP** (Chapter 4–6): kills and achievements before first ascension bank with a **½ penalty** when the class finally applies. Estate bravery **250** + **55** more L1 goblins (**2750**) = bank **3000** → **1500** applied. Ascension starts Mage L1 empty; bank lands **Mage L3** empty. The bank applies **once** at the first ascension only. It does **not** refill for later class changes. See `Experience.md`.
@@ -82,20 +82,28 @@ XP_from_kill = (49 + MonsterLevel) × RaceMult
 
 **Common goblin** (RaceMult 1.0): **49 + level**. Chapter 4 L1 → **50**. Round to nearest whole XP after RaceMult. No class modifier. Party contribution then splits that total.
 
+**Dungeon rat** (vermin-tier): **9 + level**. Weaker than a common goblin; uses its own base, not `(49 + level) × RaceMult`.
+
+**Needle Worm** (floor-2 ambusher): **24 + level**. Own vermin-ambusher base (above dungeon rat). Tiny **½ rice-grain** mana stone when it drops.
+
+**Spiked Boar** (low-level Emerald Wilderness trash): **499 + level**. Own base; not RaceMult. Early Floor 1 day (Ch 11): locked **L1** solo **500** (idle **5 XP = 1%**; full contribution share **125 = 1/4**).
+
 #### Race / species multipliers
 
-Use the creature’s **family**, not every cosmetic variant name. Evolved or named bosses can stack a boss tag later; until then pick the closest row. L4 column uses `(49 + 4) × RaceMult`.
+Use the creature’s **family**, not every cosmetic variant name. Evolved or named bosses can stack a boss tag later; until then pick the closest row. L4 column uses `(49 + 4) × RaceMult` unless the row notes its own base.
 
 | Race / family | RaceMult | Examples | L4 solo XP |
 |---|---|---|---|
+| **Dungeon rat** (vermin) | — | Entrance corridor rats; use **9 + level** | **13** |
+| **Needle Worm** (floor-2 ambusher) | — | Spiky caterpillar; use **24 + level**; stone **½ rice** | **28** |
 | **Goblin** (common) | **1.0** | Green lowland goblin, estate training stock | **53** |
 | Mountain / gray goblin | 1.25 | Edelgard mountain goblin, gray forest goblin | 66 |
 | Goblin leader / elite goblin | 1.5 | Goblin Leader (not full king) | 80 |
 | Goblin King / king-tier | 2.0 | Cull-trigger king variants | 106 |
 | **Hobgoblin** | **1.75** | Wild hobgoblin, lab subjects | 93 |
 | Gray Hobgoblin Berserker | 2.25 | Rage / berserk hob | 119 |
-| Spiked Boar / common dungeon beast | 1.25 | Emerald Wilderness boar, similar floor trash | 66 |
-| Needle Worm / lesser ambusher | 1.25 | Floor-2 caterpillar | 66 |
+| **Spiked Boar** (low-level dungeon beast) | — | Emerald Wilderness floor-1 trash; use **499 + level** (Ch 11 day-one **L1 = 500**) | **503** |
+| Needle Worm / lesser ambusher | — | Floor-2 caterpillar; **24 + level** | **28** |
 | Wereboar / floor elite beast | 2.0 | Floor-3 Carwen target | 106 |
 | **Myrmeke Worker** (giant ant) | **1.5** | Dog-sized mine ants | 80 |
 | Myrmeke Soldier | 2.5 | Horse-sized L50+ soldiers | 133 |
@@ -117,6 +125,9 @@ Add new rows when a chapter names a repeat family. Prefer a band over inventing 
 | Kill | Level | RaceMult | XP |
 |---|---|---|---|
 | Estate bravery goblin | 1 | 1.0 | **50** (49+1) |
+| Dungeon rat (Ch 11 entrance) | low | — | **9 + level** (Roland **full solo**; party test) |
+| Needle Worm (Ch 12 floor 2) | low | — | **24 + level**; stone **½ rice** (**1 SS**) |
+| Spiked Boar (Ch 11 Emerald Wilderness) | **1** | — | Solo **500**; idle **+5 (1%)**; active **+125 (1/4)** each |
 | Carwen forest goblin | 3 | 1.0 | **52** |
 | Carwen forest goblin | 4 | 1.0 | **53** |
 | Same level hobgoblin | 4 | 1.75 | **93** |
@@ -298,7 +309,7 @@ Attribute bonus from a skill = +1 × current skill level
 
 per favored attribute listed on that skill. When the skill gains a level, that attribute goes up by 1. Bonus equals the level on the skill card (Debugger L8 → Intelligence +8).
 
-Not every skill grants attributes. Identify, Analyze, Sleep Resistance, Map Reading and Basic Mathematics show no attribute line at transfer. Mana Sense gains Intelligence (Chapter 4; L4 → +4 Int).
+Not every skill grants attributes. Identify, Analyze, Map Reading and Basic Mathematics show no attribute line at transfer. Mana Sense gains Intelligence (Chapter 4; L4 → +4 Int). **Sleep Resistance** grants **Vitality +1** and **Endurance +1** per level. **Basic Alcohol Resistance** grants **Endurance +1** per level. **Dance** grants **Agility +1**. **Pain Resistance** grants **Willpower +1** and **Endurance +1**.
 
 **Transfer examples (bonus = level)**
 
@@ -335,6 +346,10 @@ Favored attributes for skills Roland trains in Chapters 4–7. Same +1 × level 
 | Basic Incantation | Intelligence +1, Willpower +1 |
 | Mana Absorption | Intelligence +1, Willpower +2 |
 | Mana Reinforcement | Intelligence +1, Willpower +1 |
+| Basic Alcohol Resistance | Endurance +1 |
+| Dance | Agility +1 |
+| Pain Resistance | Willpower +1, Endurance +1 |
+| Sleep Resistance | Vitality +1, Endurance +1 |
 | Identify | none |
 
 **Level 2 (plain name) map** after Basic L9 evolve. Same favored attributes as the Basic form. New skill starts at L1. Evolving also grants **one free attribute point** into a favored attr of that tree (Sneaking→Agi, Swordsmanship→Str, Running→End, Climbing→Str, Throwing→Dex, Marksmanship→Dex).
@@ -531,4 +546,4 @@ Real sheets also add childhood base, skills and traits on top.
 6. Skill L9 → evolve. Do not write L10 on the same skill name.
 7. When a chapter shows numbers, copy them into `Story/Notes/Status.md` and keep this file as the rule layer.
 8. If Source text says the sheet jumps at class-up, rewrite it to growth-rate talk instead.
-9. XP_to_next = **500 × overall level**. Kill XP = **(49 + monster level) × RaceMult** (common goblin = 49 + level). Pre-class bank half-penalty lands Mage L3 from bravery + **55** estate L1s (`Experience.md`). Change constants only if arcs feel wrong.
+9. XP_to_next = **500 × overall level**. Kill XP = **(49 + monster level) × RaceMult** (common goblin = 49 + level). Dungeon rat = **9 + level**. Needle Worm = **24 + level**. Spiked Boar = **499 + level**. Pre-class bank half-penalty lands Mage L3 from bravery + **55** estate L1s (`Experience.md`). Change constants only if arcs feel wrong.

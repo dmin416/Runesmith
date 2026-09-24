@@ -22,7 +22,7 @@ World with **two moons** (one red, one blue). First noted: Chapter 4 night sky.
 
 ### Kingdom of Caldris
 First seen: Chapter 2
-Human-majority kingdom. Roland wakes here as a son of House Arden. Fairly large by Earth comparison. Bordered by four other countries on the continental map he finds. Chapter 24: **24-hour** day cycle; calendar has **13 months** (not 12).
+Human-majority kingdom. Roland wakes here as a son of House Arden. Fairly large by Earth comparison. Bordered by four other countries on the continental map he finds. Chapter 24: **24-hour** day cycle; calendar has **13 months** of **28 days** each (**364** days / year; not Earth 12×~30).
 
 ### Arden estate / mansion
 First seen: Chapter 2
@@ -65,11 +65,11 @@ Chapter 8–9: small walled town (monster defense). Gate fee 5 large copper; adv
 
 ### Carwen inn
 First seen: Chapter 9
-Cheap inn where Roland eats his first town meal and later rents a room upstairs during the Ch 9.5 goblin grind (present day in Chapter 10). Large waitress in festival-style wench dress; muscular one-eyed scarred bartender. Bard with lute. First meal: porridge + grilled meat for **5 large copper** (bland; porridge alone would be **2 LC**). Lodging quote **1 small silver**/night; +**5 large copper** breakfast; monthly ~**10%** off in Ch 9 (→ **270 LC**); Ch 13 quote ~**5%** after haggling. Keepers named Hilde (bar lady) and Boris (bartender husband).
+Cheap inn where Roland eats his first town meal and later rents a room upstairs during the Ch 9.5 goblin grind (present day in Chapter 10). Large waitress in festival-style wench dress; muscular one-eyed scarred bartender. Bard with lute. First meal: porridge + grilled meat for **5 large copper** (bland; porridge alone would be **2 LC**). Lodging quote **1 small silver**/night; +**5 large copper** breakfast; monthly ~**10%** off in Ch 9 (**28** × 1 SS = **280** → **252 LC**); Ch 13 quote ~**5%** after haggling (**~266 LC**). Keepers named Hilde (bar lady) and Boris (bartender husband).
 
 ### Carwen dungeon
 First seen: Chapter 10 (entry planned; first delve Chapter 11)
-Active dungeon near town. Bronze rank cannot enter alone. Roland joins Rebecca's party to go in. Entrance: torch-lit stone corridors (truck-wide) with low dungeon rats before the real floors. Floor 1 is the Emerald Wilderness, a Steel-rank jungle hunting ground under an artificial sun (kilometers-wide open space; peculiar mana density). Floor 2 is similar forest with higher group-spawn chance and Needle Worms. Floor 3: more vicious multi-type fights; Wereboars are the standout (gorilla body, boar head). Stairs between floors are about **5 m** wide and monster-safe (retreat zone; torches may be magical). Floors continue to a 10th-floor boss with guild appointment and a week respawn; strong parties or guilds often hog the boss room for materials. Chapter 15 lore: dungeons may be living (dungeon core); they absorb dead monsters and humans as nourishment and spawn more foes. West woods outside Carwen have few scavenger monsters for body disposal.
+Active dungeon near town. Full layout: `DungeonDesign.md` (Carwen). Bronze rank cannot enter alone. Roland joins Rebecca's party to go in. Entry: truck-wide torch-lit stone maze corridors with low dungeon rats. Floor 1 is the **Emerald Wilderness**, a Steel-rank jungle hunting ground under an artificial sun (kilometers-wide). Stairs between floors: gated, ~**5 m** wide, torch-lit (possibly magical), monsters cannot enter (safe retreat). Floor 2 is the same forest vibe with higher group-spawn chance and Needle Worms. Floor 3: more vicious multi-type fights; Wereboars are the standout. Floors continue to a 10th-floor boss with guild appointment and a week respawn. Chapter 15 lore: dungeons may be living (dungeon core). West woods outside Carwen have few scavenger monsters for body disposal.
 
 ### The Iron Flagon
 First seen: Chapter 12 (party binge); named Chapter 17
@@ -137,7 +137,7 @@ Large southern Caldris island under an aristocrat Duke. Central volcano + S-rank
 
 ### Albrook
 First seen: Chapter 55 (named; destination); Chapter 68 (arrived)
-Small town in a Dragnis Island valley by a new volcanic dungeon (smoke from a mountain that burst through recently; ~6 months old by Chapter 71). Early boom: wall under construction; south gate fee; poor quarter → traders' street → market square. Red-brick buildings; glass windows rarer toward the edges. Absentee noble; commoner mayor/manager. Adventurer guild renovating a large house (sign going up). Roland registers as Wayland (Chapter 68: claims Steel; Chapter 70: issued Bronze for lack of prior-card info; dungeon free entry). Chapter 69–70: buys abandoned red-brick farmhouse + log shack ~40 min outside town (>100 SG; large cellar; skips triple-price extra farmland; ~half acre). Plans cellar runic workshop + dummy shed smithy; renovation firm booked ≥3 weeks out. Chapter 77 (~1 year later): log+barbed wall; thieves hit dummy shed; Solaria church; dungeon entrance card checks after a farmer dies; potion cart → fixed store; Roland known as crimson-armored craftsman / "disciple."
+Small town in a Dragnis Island valley by a new volcanic dungeon (smoke from a mountain that burst through recently; ~6 months old by Chapter 71). Early boom: wall under construction; south gate fee; poor quarter → traders' street → market square. Red-brick buildings; glass windows rarer toward the edges. Absentee noble; commoner mayor/manager. Adventurer guild renovating a large house (sign going up). Roland registers as Wayland (Chapter 68: claims Steel; Chapter 70: issued Bronze for lack of prior-card info; dungeon free entry). Chapter 69–70: buys abandoned red-brick farmhouse + log shack ~40 min outside town (**~30 SG** rewrite lock; large cellar; skips triple-price extra farmland; ~half acre). Boom-town plot pricing: `Economy.md` §15 (not quiet-frontier dirt rates). Plans cellar runic workshop + dummy shed smithy; renovation firm booked ≥3 weeks out. Chapter 77 (~1 year later): log+barbed wall; thieves hit dummy shed; Solaria church; dungeon entrance card checks after a farmer dies; potion cart → fixed store; Roland known as crimson-armored craftsman / "disciple."
 
 ### Albrook Dungeon
 First seen: Chapter 71 (entered)
@@ -145,7 +145,7 @@ Labyrinth-type volcanic dungeon believed linked to the main Dragnis Infernal Dra
 
 ### Happy Rooster
 First seen: Chapter 73
-Albrook poultry restaurant. Commoner seasoning mostly sugar, pepper and salt. Roland eats here while waiting on city build-out.
+Albrook poultry restaurant. Commoner kitchens lean on **salt** (and cheap local herbs if any). **Pepper** is a thin merchant-tier luxury that bumps the bill; **sugar** stays rare (noble / medicine / feast), not commoner stock. Roland eats here while waiting on city build-out.
 
 ### Albrook auction house
 First seen: Chapter 73 (under renovation)

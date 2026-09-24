@@ -299,19 +299,19 @@ Class package at L4: +4 Int / +4 Will vs L3’s +3. Blessed +10 MP × 4. No on-p
 
 **Coin (LC):** enter **795** (after Ch 8 gate + card). Spend meal **5** + map **10**. Income ears **35** + stones **60** (= **95** turn-in). End **875 LC**.
 
-Costs quoted not paid: lodging 1 SS/night (+5 LC breakfast; ~10% monthly = 270 LC).
+Costs quoted not paid: lodging 1 SS/night (+5 LC breakfast; ~10% monthly on **28** nights = **252 LC**).
 
 XP shown matches `49 + monster level` (L2=51 … L5=54). Source used ~15–20 per kill and leveled from Mage L5.
 
 ## Chapter 9.5
 
-Three-month rewrite grind (Source has no separate chapter; Ch 10 opens already at L20). **1,481** goblin kills; lifetime **1,569**. Field-use curve in `Levels.md`; end ranks in `Skills.md` Ch 9.5. **L9 hard cap until first T2.** Absorption / Reinforcement cycle whenever mana is spent → both **L9** (Reinforcement self-taught from ambient→body store, not a book). Also: Shaping **L6**, Regulation **L7**, Incantation **L6**, Bolt **L7**, Arrow **L5**, Shield **L3**, Hand to Hand / Leather / Sprint stay **Basic L9**; Running / Climbing / Sneaking / Throwing / Swordsmanship → **plain L1**; Marksmanship → **Expert Marksmanship L1**; **Basic Dodging L6**. Ember **L6** / Hands **L5** (evenings). End **Mage L20** → Int **129** / Will **127** / MP **2358**; physicals **46/50/56/41/42**; HP **536** / SP **708**. Evolve pads **additive** (Basic L9 stay + Level 2 L1 + free points). Month beats: ~L11–12 + Arrow + Dodging; ~L16–17 + Shield + nickname; L20 + Goblin Hunter (past **1000** kills). Coin end **6,000 LC**; stones gathered **296** (kept after Ch 9 day one). Food: inn breakfast+dinner; **3** jerky bought; other lunches = goblin prey. Cloak **300 LC**. Ledger: `Experience.md`.
+Three-month rewrite grind (Source has no separate chapter; Ch 10 opens already at L20). **1,481** goblin kills; lifetime **1,569**. Field-use curve in `Levels.md`; end ranks in `Skills.md` Ch 9.5. **L9 hard cap until first T2.** Absorption / Reinforcement cycle whenever mana is spent → both **L9** (Reinforcement self-taught from ambient→body store, not a book). Also: Shaping **L6**, Regulation **L7**, Incantation **L6**, Bolt **L7**, Arrow **L5**, Shield **L3**, Hand to Hand / Leather / Sprint stay **Basic L9**; Running / Climbing / Sneaking / Throwing / Swordsmanship → **plain L1**; Marksmanship → **Expert Marksmanship L1**; **Basic Dodging L6**. Ember **L6** / Hands **L5** (evenings). End **Mage L20** → Int **129** / Will **127** / MP **2358**; physicals **46/50/56/41/42**; HP **536** / SP **708**. Evolve pads **additive** (Basic L9 stay + Level 2 L1 + free points). Month beats: ~L11–12 + Arrow + Dodging; ~L16–17 + Shield + nickname; L20 + Goblin Hunter (past **1000** kills). Coin end **6,000 LC**; stones **286** rice-grain + **16** leader (kept after Ch 9 day one). Food: inn breakfast+dinner; **3** jerky bought; other lunches = goblin prey. Cloak **300 LC**. Ledger: `Experience.md`.
 
 ## Chapter 10
 
 **Present day after Ch 9.5.** Title **Goblin Hunter**. Nickname Little Goblin Slayer (grins through mascot ribbing). Nest opener then guild turn-in before the inn sheet. Mage L20 live sheet at the inn (beef jerky) matches rewrite Ch 10 block in `StatusBreakdown.md` (Int **129** / Will **127** / MP **2358**; physicals **46/50/56/41/42**; HP **536**; SP **708**; Cha **11** / Luck **7**). Rents upstairs room at the Chapter 9 inn. Armor/sword already long repaired. Plans Mana Scribe first (magic-track lean; no elemental path for pure Mage), then Blacksmith; next city **Edelgard**. Clumsy Arden watcher in town. Joins Becky / Sahildr / Reyna for dungeon (age dodge: answers **Roughly** to 11-or-12; will not admit **10**).
 
-**Coin / stones:** enter **6,000 LC** / **296** stones → nest ears **+35 LC** / stones **+2** → end **6,035 LC** / **298** stones (`Experience.md`).
+**Coin / stones:** enter **6,000 LC** / **286** rice + **16** leader → nest ears **+35 LC** / **+2** rice → end **6,035 LC** / **288** rice + **16** leader (`Experience.md`).
 
 ```
 ════════ TITLE ═════════
@@ -346,11 +346,21 @@ Rewrite stack applied: HP = Vit×10+End×3; SP = End×10+Str×3+Agi×3; MP = ((I
 
 ## Chapter 11
 
-No full status screen. First Carwen Dungeon day: entrance dungeon rat (Mana Arrow) then Emerald Wilderness spiked boars. Idle party share **5 XP** on the first boar; higher share when he casts Mana Shield and helps. Mana Sense locates dungeon stones. Equal money split after material sales. Enter from Ch 10: pouch **6,035 LC**, stones **298**. No new attribute sheet.
+No full status screen. Still **Mage L20** band (no level-up line). First Carwen Dungeon day.
+
+**On-page**
+- Entrance dungeon rat: Mana Arrow one-shot (no XP popup shown).
+- First Spiked Boar (idle): **+5 XP**. Narration: **1%** cut; he could kill it alone if he tried. Party XP = ability + contribution (Source T1-in-T2 zero-XP block dropped).
+- Mana Sense: chest stone ≈ goblin-leader size. Later active fight: Mana Shield hard disk on Sahildr; “another” stone.
+- Equal money split after sales (no on-page coin total).
+
+**Day lock** (`Levels.md` / `Economy.md` / `Experience.md`): Spiked Boar solo pool **500** (idle **5 = 1%**; full share **125 = 1/4**). Day haul **4** boars / **2** stones sold → team **~512 LC** → Roland **+128 LC**. Enter pouch **6,035 LC** → after day 1 **6,163 LC**. Personal stones stay **288** rice + **16** leader. L20 bar after day **~854 / 10,000**.
+
+**Trial weeks (into Ch 12):** **7** more Floor-1 days / **28** boars. Kill XP **+1,820** (half active / half low). Idle waits: **Mana Hands**, Absorption, Sense → Hands **L5→L6** (**~+100** skill XP) → bar **~2,774 / 10,000**; still **Mage L20**. Share **+921 LC**; lodging+food **−266** → pouch **~6,818 LC**. Shield L3 / Incantation L6 unchanged.
 
 ## Chapter 12
 
-No full status screen. Gains **Basic Alcohol Resistance** after forced tavern drinking. Still near Mage L25 class cap. First clear look at Sahildr's lesser impact rune (glowing pathway lines). No new attribute numbers shown.
+No full status screen. Gains **Basic Alcohol Resistance** L1 (**Endurance +1**) after forced tavern drinking; morning: **Sleep Resistance** **L4→L5** (**Vit +1**, **End +1**), **Dance** L1 (**Agility +1**), **Pain Resistance** L1 (**Willpower +1**, **Endurance +1**). Night pad total **Agi +1 / Vit +1 / End +3 / Will +1**. Still **Mage L20** (**~2,774 / 10,000**; not near L25 yet). First clear look at Sahildr's lesser impact rune (glowing pathway lines). No new attribute numbers shown.
 
 ## Chapter 13
 

@@ -1,5 +1,5 @@
 ---
-description: Directed line edits; prompt ellipses locate and finish
+description: Directed line edits; prompt ellipses locate and finish; fix spelling
 alwaysApply: true
 ---
 
@@ -10,10 +10,30 @@ alwaysApply: true
 When the user points at a line and gives replacement wording:
 
 1. Change only the line or clause they marked.
-2. Paste their wording into the story exactly as they wrote it.
+2. Paste their wording into the story as they wrote it.
 3. Keep their commas, periods and question marks as they wrote them.
 4. Do not rewrite their wording to match other style rules.
 5. Do not flip the line back and forth after the edit is done.
+
+## Always correct spelling
+
+Clear typos in the user's wording must be fixed when pasting into the story.
+
+- Fix misspellings: `knwo` → `know`, `hapened` → `happened`, `couldnb't` → `couldn't`, `pat` → `past` when they meant past
+- Capitalize sentence starts when integrating their lines
+- Do **not** leave obvious spelling errors in chapter prose because the prompt had them
+- Do **not** change word choice, tone or meaning beyond spelling / capitalization for sentence starts
+
+```
+# Prompt
+he had to knwo what to look out for
+
+# Wrong
+he had to knwo what to look out for
+
+# Right
+he had to know what to look out for
+```
 
 ## What `...` means in an edit prompt
 

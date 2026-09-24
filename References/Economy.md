@@ -1,22 +1,30 @@
-# World Economy Reference
+﻿# World Economy Reference
 
 ## Rewrite price lock
 
 Use these rewrite anchors first. Prefer them over older Source-era numbers when a scene needs a hard price.
 
+**Calendar (locked):** **1 month = 28 days**; **1 year = 13 months = 364 days** (**52** weeks). Lodging monthly quotes are **28** nights.
+
 | Item | Locked rewrite price |
 |---|---|
 | Commoner household income | **~4 LS / month** |
 | Rice-grain mana stone | **2 SS** |
+| Needle Worm tiny mana stone (**½** rice) | **1 SS** |
 | Inn breakfast | **5 LC** |
 | Inn dinner (porridge + meat) | **5 LC** |
 | Forest lunch jerky | **~2 LC**/stick (Ch 9.5: **3** bought; other lunches = goblin prey) |
 | Thick wool cloak (nice-ish, mattress/comforter) | **300 LC** |
 | Lodging / night | **1 SS** |
-| Monthly lodging (10% off, 30 nights) | **270 LC** |
+| Monthly lodging (10% off, **28** nights) | **252 LC** |
 | Better inn / night | **2 SS** |
-| Tavern: 3 large pitchers | **~24 LC** |
-| Tavern share (Roland) | **8 LC** |
+| Tavern: 3 half-gallon pitchers (weak spirits, ~40 proof) | **~45 LC** |
+| Tavern share (Roland, 1/3 of round) | **15 LC** |
+| Tavern first round (Roland pays all 3, Ch 12) | **45 LC** |
+| Half-gallon pitcher (weak spirits) | **~15 LC** |
+| Tavern dram / shot (poor spirit, ~80 proof) | **3-5 LC** |
+| Gallon poor spirit / tavern rotgut | **50-70 LC** |
+| Gallon better distillate / aged brandy | **1-2 LS** |
 | Run-down farm / workshop plot | **~30 SG** |
 | Ship passage (one-way, below deck) | **5 LS** |
 | Family living reserve (**100 SG**) | **~25-30 years** tax+food |
@@ -63,16 +71,16 @@ Three metals, each with a small and large coin. Each tier is x10 the one below i
 
 ---
 
-## 3. Lodging & Food
+## 3. Lodging
 
 | Item | Cost | LC value | Real-value equivalent |
 |---|---|---|---|
-| Inn meal (porridge + jerky) | 5 LC | 5 | 1d |
-| Breakfast add-on | +5 LC | 5 | 1d |
 | Lodging (nightly) | 1 SS | 10 | 2d |
 | Better inn (nightly) | 2 SS | 20 | 4d |
-| Monthly lodging (10% off, 30 nights at 1 SS) | 270 LC | 270 | 4s 6d |
+| Monthly lodging (10% off, **28** nights at 1 SS) | 252 LC | 252 | 4s 2d |
 | Cabin (Arden) | free | 0 | - |
+
+Inn meals are under §11 and the Rewrite price lock.
 
 ---
 
@@ -88,20 +96,12 @@ Three metals, each with a small and large coin. Each tier is x10 the one below i
 
 ## 5. Milestone Purchases
 
+Overlaps with the Rewrite price lock (armor, repairs, farm, household income, crystal ball, black market). Unique early milestones only:
+
 | Item | Cost | LC value | Real-value equivalent |
 |---|---|---|---|
 | Starting pouch | 1 SG | 1,000 | 16s 8d |
 | Class-change crystal | **2 SG** (canon Ch 13) | 2,000 | £1 13s 4d |
-| Commoner household (monthly income) | **~4 LS** (rewrite Ch 13) | 400 | 6s 8d |
-| Family living reserve | **100 SG ~ 25-30 years** tax+food (rewrite Ch 53) | 100,000 | £83 6s 8d |
-| Run-down farm / workshop plot | **~30 SG** (rewrite Ch 69-70) | ~30,000 | ~£25 |
-| Leather armor (new, basic) | **~3 LS** | 300 | 5s |
-| Cheap shortsword (new, floor) | **~30 LC**; working **~360 LC+** | 30 / 360+ | 6d / 6s+ |
-| Mundane light repair (sword + leather) | **~40-80 LC** | 40-80 | 8d-1s 4d |
-| Mundane heavy repair (both) | **~1-2 LS** | 100-200 | 1s 8d-3s 4d |
-| Runic repair (simple) | **~3 LS** | 300 | 5s |
-| Crystal ball | **4 SG / 8 SG** | 4,000 / 8,000 | £3 6s 8d / £6 13s 4d |
-| Black market purchase (reference) | **2 SG** | 2,000 | £1 13s 4d |
 
 ---
 
@@ -155,24 +155,69 @@ Three metals, each with a small and large coin. Each tier is x10 the one below i
 | Vermin culling (rats, corvids; bronze board, per unit) | 2-5 LC | 2-5 | below one day's unskilled wage |
 | Livestock predator culling (wolves, wild dogs; per head) | 15-25 LC | 15-25 | ~1-2 days' unskilled wage |
 | Goblin ear bounty (steel board, each - vermin-tier, no corpse value beyond this) | 5 LC | 5 | established rate |
-| Goblin magic core (rice-grain sized, low drop rate) | 40 LC | 40 | established rate |
+| Goblin magic core (rice-grain sized) | **20 LC (2 SS)** | 20 | Locked Ch 9 |
+| Needle Worm tiny core (**½** rice) | **10 LC (1 SS)** | 10 | Locked Ch 12 |
 | Mountain-goblin core (larger regional variant) | 30-60 LC | 30-60 | "a few small silvers" |
-| Dungeon-beast core (spiked-boar tier, larger than goblin cores) | 100-200 LC | 100-200 | scales with stone size, not danger alone |
+| Dungeon-beast / goblin-leader core (**5×** rice) | **100 LC (10 SS = 1 LS)** | 100 | Locked; spiked-boar chest matches |
 | Larger monster component (rarer material, each) | 60-120 LC | 60-120 | man-at-arms to knight day-rate |
 | Route/ruin scouting (day-rate, paid regardless of kills) | 20-40 LC | 20-40 | skilled tradesman to master craftsman |
 | Dungeon/lair reconnaissance for the guild (day-rate) | 60-100 LC | 60-100 | approaching knight tier |
 
 Stone value tracks physical size (mana density), not rarity or danger. A tiny goblin core stays cheap even though the drop rate is low; a dungeon beast's larger core is worth more mainly because it's bigger, not because the monster was harder to kill.
 
+**Steel floor-1 haul (Emerald Wilderness, locked):**
+
+Drop rate from Ch 11: **~2 stones / 4 Spiked Boars** (**~50%**). Design stone pace stays **5–10** leader-sized stones/week → kills needed **~10–20** boars/week.
+
+| Pace | Boars / week | Stones / week | Mats/week (mid **78**) | Stones/week (**100**) | Team / week | Per person / year (4-way) |
+|---|---|---|---|---|---|---|
+| Low | **10** | **5** | **~780 LC** | **500 LC** | **~1.28 SG** | **~16.6 SG** |
+| High | **20** | **10** | **~1,560 LC** | **1,000 LC** | **~2.56 SG** | **~33.3 SG** |
+
+| Piece | Per person / year (4-way) |
+|---|---|
+| Stones only | **6.5–13 SG** |
+| Mats only | **~10.1–20.3 SG** |
+| **Full haul** | **~16.6–33.3 SG** |
+
+Mats are **not** a top-up. On Floor 1 they usually match or beat stone pay. Commoner household income is **~4 LS/month (~5.2 SG/year** at **13** months). Full Steel Floor-1 share sits well above that.
+
+**Living peg (13×28 calendar):** inn room (**252 LC**/month × **13** = **3,276 LC**) + breakfast and dinner (**10 LC**/day × **364** = **3,640 LC**) ≈ **6.9 SG**/year. Trail rations instead of inn food land closer to **~10–12 SG**/year all-in. Stone-only **6.5–13** barely covers soft inn living at the high end and fails at the low end. **Full haul** covers living with room left for repairs, kit, and saves.
+
+**Design check (locked):** Steel floor-1 money is **reasonable** on the **full** stones+mats band (**~17–33 SG**/person/year gross). Soft living, repairs, and gear eat most of a cautious year; a used **5 SG** bag is a real save, not pocket change. Going full force every day (more stones, deeper floors, luck and risk) is how you **deserve** faster wealth. Soft living stays nearer commoner; hard dangerous living climbs.
+
 **Monster corpse materials** (real monsters - wolves, boars, and larger beasts; goblins yield none of this, only the occasional core)
 
 | Material | LC value | Notes |
 |---|---|---|
 | Hide/pelt | 20-40 LC | tanner/leatherworker market |
-| Meat | usually worthless; 40-100 LC for "good" species | most monster meat is tough and bad-tasting and gets left behind; boar-type and deer-type monsters are the exception and sell like genuine game meat, to butchers or inns |
+| Meat | usually worthless; 40-100 LC for "good" species | most monster meat is tough and bad-tasting and gets left behind; wild boar/deer are the exception; **dungeon Spiked Boar meat is skipped** (dense/bad; Ch 11) |
 | Bone/tooth/claw | 15-30 LC | crafting material; some species (e.g. needle worm spikes) sell poorly regardless |
 | Venom gland or rare organ | 40-80 LC | alchemist/apothecary market |
 | Full corpse, sold whole to a buyer who processes it | 60-120 LC | same tier as "larger monster component" above |
+
+### Spiked Boar mat sale (locked, Ch 11)
+
+Per beast, guild/tanner/alchemist buy (no stone):
+
+| Part | Fair LC | Notes |
+|---|---|---|
+| Hide / leather | **20–40** (mid **30**) | Armor / leatherworker |
+| Tusks (pair) | **20–35** (mid **28**) | Thicker/longer than wild boar; armor & alchemy |
+| Spine spikes | **15–25** (mid **20**) | Armor & alchemy; better than Needle Worm spikes |
+| **Hide + tusks** | **40–75** (mid **58**) | What Becky names first |
+| **All mats (hide + tusks + spikes)** | **55–100** (mid **78**) | Full butcher without stone |
+| Mana stone (when present) | **100** | Leader-sized; separate |
+
+| Haul | Mid mats only | Mats + stone |
+|---|---|---|
+| **1** boar (no stone) | **~78 LC** | — |
+| **1** boar + stone | **~78 LC** | **~178 LC** |
+| Ch 11 day (**4** boars / **2** stones) | **~312 LC** mats | **+200** stones → **~512 LC** team |
+| Week low (**10** boars / **5** stones) | **~780 LC** mats | **+500** → **~1.28 SG** team |
+| Week high (**20** boars / **10** stones) | **~1,560 LC** mats | **+1,000** → **~2.56 SG** team |
+
+4-way split on mid mats alone: **~20 LC** per person per boar → **~10–20 SG**/person/year at **10–20** kills/week. Mats are a **co-wage** with stones on Floor 1, not a small top-up.
 
 ---
 
@@ -193,16 +238,26 @@ Stone value tracks physical size (mana density), not rarity or danger. A tiny go
 
 | Item | Historical price | LC value |
 |---|---|---|
+| Inn meal (porridge + jerky) | rewrite lock | **5 LC** |
+| Breakfast add-on | rewrite lock | **+5 LC** |
+| Forest lunch jerky (per stick) | rewrite lock | **~2 LC** |
 | Ale (gallon) | ~1d | 5 LC |
+| Wine, cheap (gallon) | ~4d | 20 LC |
 | Wine, good (gallon) | ~8d | 40 LC |
+| Fortified / ~40 proof (20% ABV), gallon | ~1.5× cheap wine | **~30 LC** |
+| Half-gallon pitcher (weak spirits, ~40 proof) | Iron Flagon / Ch 12 | **~15 LC** |
+| Three half-gallon pitchers (weak spirits) | Ch 12 first round | **~45 LC** |
+| Poor spirit / tavern rotgut (~80 proof, 40% ABV), gallon | steam-age still commodity | **50-70 LC** |
+| Better distillate / aged brandy, gallon | clean cuts or wood age | **1-2 LS** |
+| Tavern dram / shot (~30-40 ml poor spirit) | impulse pour | **3-5 LC** |
+| Tavern double / small glass | two shots neat | **6-8 LC** |
+| Quart bottle (~1 L) poor spirit | takeaway jug | **15-25 LC** |
 | Cheese (2 lb) | 1d | 5 LC |
 | Eggs (2 dozen) | 1d | 5 LC |
-| Chicken | 1-2d | 5-10 LC |
-| Goose | 6d | 30 LC |
-| Sheep (live) | 10-17d | 50-85 LC |
-| Pig (live) | 24d | 120 LC |
-| Cow (live) | 10-20s | 600-1,200 LC |
-| Tallow candle (1 lb) | 1.5d | ~7-8 LC |
+
+Live animals are under §14. Cloth and candles are under §12 / §22.
+
+**Spirits tech note:** Caldris has magic steam trains and noble airships, so copper boilers, condensers and stills exist. Adventurer towns sell **poorly distilled** firewater (harsh, bad heads/tails cuts, sometimes watered). It is common, not rare alchemy. Nobles drink cleaner or aged stock. Iron Flagon / Ch 12: **weak spirits (~40 proof, ≥20% ABV)**, half-gallon pitchers **~15 LC** each, three-pitcher round **~45 LC**. Roland pays the full first round (**45 LC** = **9** goblin ears) to celebrate. Full ~80 proof rotgut is **50-70 LC**/gallon (dram **3-5 LC**). Distill / liqueur process: `Food.md` (Steam-era spirits and liqueurs).
 
 ---
 
@@ -214,6 +269,7 @@ Stone value tracks physical size (mana density), not rarity or danger. A tiny go
 | Best wool (per yard) | 5s | 300 LC |
 | Silk (per yard) | 10-12s | 600-720 LC |
 | Furs added to a garment | £2-3 | 2,400-3,600 LC |
+| Tallow candle (1 lb) | 1.5d | ~7-8 LC |
 
 ---
 
@@ -246,7 +302,9 @@ Stone value tracks physical size (mana density), not rarity or danger. A tiny go
 
 ## 15. Land & Property
 
-**Core rule:** land sells for 10-20 years' annual rent in settled regions. Location sets the rent; city plots price by frontage, not acreage, and run far higher per acre than any field. Frontier land is nearly free per acre because the real cost is labor and risk, not ground.
+**Core rule:** land sells for 10-20 years' annual rent in settled regions. Location sets the rent; city plots price by frontage, not acreage, and run far higher per acre than any field. Quiet frontier land is nearly free per acre because the real cost is labor and risk, not ground.
+
+**Boom-town multiplier (locked):** when a new dungeon or export boom hits a frontier town (Albrook), habitable plots near the walls, road, or dungeon approach stop pricing like empty frontier. Buyers pay for access, safety of a growing market, and any standing structure. Bare scrub can stay cheap a walk farther out; a usable house + cellar on ~half an acre locks around **~30 SG**. Extra cleared farmland on top can run about **triple** the house plot. Do not use quiet-frontier “under 25 LC/acre” for boom-adjacent homes.
 
 | Item | Historical price | LC value |
 |---|---|---|
@@ -357,18 +415,49 @@ Independent scribe income: roughly 10 scrolls/week ~ 1 SG. Platform/shop cuts va
 
 | Item | Cost | LC value |
 |---|---|---|
-| Small-to-mid bag (~2 m³), used/discount | 5 SG | 5,000 |
-| Same size, typical market price | 7-10 SG | 7,000-10,000 |
-| Larger bag | ~10x the above | ~70,000-100,000 |
+| ~**2 m³** spatial bag, second-hand | **5 SG** | 5,000 |
+| Same size, typical market (new / fair) | **7–10 SG** | 7,000–10,000 |
+| Larger / expedition bag (~**6 m³**) | ~**70–100 SG** (~**10×**) | ~70,000–100,000 |
 
-Dungeon materials (tusks, spikes, leather, herbs) are worth carrying out; most monster meat isn't (tough, bad taste, usually left behind) - boar-type and deer-type monsters are the exception and are worth hauling out like real game. Only dead bodies can go in a bag; living beings cannot.
+Dungeon materials (tusks, spikes, leather, herbs) are worth carrying out; most monster meat isn't (tough, bad taste, usually left behind) - boar-type and deer-type monsters are the exception and are worth hauling out like real game. Only dead bodies can go in a bag; living beings cannot. Bags do not nest (repel).
+
+### Cost ↔ capacity scale (locked)
+
+Canon anchors (Ch 11):
+- Party bag **≈ 2 m³** → market **7–10 SG** (mid **8.5 SG**); second-hand steal **5 SG** (~**60%** of market)
+- “Bigger ones” cost about **10×** → **~70–100 SG**
+- Watcher bag (Ch 18) **≈ 2×** party volume → **≈ 4 m³**
+- Roland’s workshop upgrade (Ch 36) **≈ 3×** his prior bag → **≈ 6 m³** if he started from the ~2 m³ parting gift
+
+**Formula** (market / fair price):
+
+```
+V₀ = 2 m³
+P₀ = 8.5 SG          mid of the 7–10 band
+Price(V) = P₀ × (V / V₀)²
+SecondHand ≈ 0.6 × Price(V)
+```
+
+Price scales with **volume squared** (bigger pocket = harder spatial enchantment). That makes **3× volume ≈ 9× price**, which matches Becky’s “about ten times” for the next real step up (~**6 m³**).
+
+| Capacity | Market (formula) | Second-hand (~0.6×) | Notes |
+|---|---|---|---|
+| **1 m³** | **~2.1 SG** | **~1.3 SG** | Small satchel / starter |
+| **2 m³** | **7–10 SG** (use **8.5**) | **5 SG** steal | Ch 11 party bag |
+| **4 m³** | **~34 SG** | **~20 SG** | Watcher bag (~2× party) |
+| **6 m³** | **~76 SG** (~**70–100**) | **~46 SG** | Ch 11 “10×” band; Ch 36 3× upgrade |
+| **10 m³** | **~210 SG** | **~130 SG** | Porter / mule insert |
+| **20 m³** | **~850 SG** | **~510 SG** | Rare expedition / workshop stock |
+
+Rule of thumb: **double the volume → about 4× the price**. Trade down used bags near **60%** of fair unless the seller is desperate.
 
 ### Chapter notes
 
-- Becky's party bag (Ch 11): slightly under **2 m³**; bought used from a retiring adventurer for **5 SG** (a steal vs typical **7-10 SG**). Larger bags ~**10x**. House Arden higher-status servants carried similar bags.
-- Needle Worm spikes sell poorly (Ch 12).
+- Becky's party bag (Ch 11): slightly under **2 m³**; bought second-hand from a retiring adventurer for **5 SG** (a steal vs typical **7–10 SG**). Steel party **skimped on drinks** about a **year** to scrape that buy (~**110** skipped ~**45 LC** three-pitcher weak-spirit rounds; Source said “year of work”). That sits fine against Floor-1 gross (**~17–33 SG**/person/year): soft living, repairs, and kit eat most of a cautious year, so a **5 SG** bag still feels like a long scrape. Bigger bags ~**10×** (≈ **6 m³** on the scale above). House Arden higher-status servants carried similar bags.
+- Needle Worm spikes sell poorly (Ch 12). Needle Worm core: **½ rice-grain** (**1 SS**).
 - Ch 15: living beings cannot enter; **dead** bodies can (watcher stuffed in; dumped to floor-3 Wereboars). Watcher's bag goes to the girls with the armor sale.
-- Ch 18 parting gift: party's smaller spatial bag with starter coin (they keep the watcher's bag, about twice as large). Ch 19: bag holds **10 SG** (more than the 5 he wanted of their ~20).
+- Ch 18 parting gift: party's smaller spatial bag with starter coin (they keep the watcher's bag, about twice as large ≈ **4 m³**). Ch 19: bag holds **10 SG** (more than the 5 he wanted of their ~20).
+- Ch 36: Roland exchanges for a larger model that holds **three times** as much (≈ **6 m³** if prior was ~2 m³).
 
 ---
 
@@ -457,18 +546,34 @@ Present in canon as a legal institution, not currently assigned a market value. 
 
 ## 23. Mana Stones (monster cores)
 
-First seen: Chapter 7. Gem-like crystals that form inside some monsters. Used as crafting / fuel ingredients (mana-stone trains, later runic slots). Goblins have a **low** drop rate (~1 in 5); estate training kill yields a **rice-grain** stone. Servants at Arden claimed cores as Baron property; Roland starts pocketing them. Mana Sense can detect a stone in a corpse without cutting. Evolved monsters (one+ evolution) always have a core; more evolutions -> larger/denser. Size is not always quality; stones can rate lesser->legendary like runes. Chapter 11: dungeon beasts drop stones more often and larger (spiked-boar ~goblin-leader size); floor density is the stated reason. Value tracks physical size (mana density), not rarity or danger.
+First seen: Chapter 7. Gem-like crystals that form inside some monsters. Used as crafting / fuel ingredients (mana-stone trains, later runic slots). Servants at Arden claimed cores as Baron property; Roland starts pocketing them. Mana Sense can detect a stone in a corpse without cutting. Evolved monsters (one+ evolution) always have a core; more evolutions -> larger/denser. Size is not always quality; stones can rate lesser->legendary like runes. Chapter 11: dungeon spiked-boar chest stone ≈ **goblin-leader** size. Value tracks physical size (mana density), not rarity or danger.
+
+### Goblin drop rates (locked)
+
+| Band | Share of kills | Stone chance | Stone size |
+|---|---|---|---|
+| Common goblin | **29/30** | **1 in 5** | Rice-grain |
+| Goblin leader (nest chief / darker leader) | **1 in 30** | **1 in 3** | **5×** rice-grain volume |
+
+Overall: rice-grain ≈ **(29/30)×(1/5) ≈ 1 in 5.2** kills. Leader stone ≈ **1 in 90** kills.
 
 ### Size -> price ladder
 
-| Size / source | Price | Basis |
-|---|---|---|
-| Rice-grain (common goblin) | **2 SS = 20 LC** | Rewrite Ch 9 |
-| Mountain-goblin / "few small silvers" | **~20-40 LC (2-4 SS)** | Ch 24 phrasing; scales from rice-grain 2 SS |
-| Fingernail (worker ant / similar) | **~40-80 LC (4-8 SS)** | Extrapolated: between rice-grain and marble |
-| Goblin-leader / spiked-boar dungeon | **~50-100 LC (5 SS-1 LS)** | Extrapolated from §9 + Ch 11 size note |
-| Marble (hobgoblin, soldier ant) | **~150-400 LC (1.5-4 LS)** | Extrapolated: "nice price" Ch 34; marble >> rice-grain |
-| Larger / multi-evolution cores | **1- few LS+** | Extrapolated; scales with size/density |
+**Linear band (rice → leader only):** same Common Q, price ∝ volume. Rice-grain = **2 SS = 20 LC**. Leader / Spiked Boar chest = **5×** volume → **10 SS = 1 LS = 100 LC**.
+
+**Above leader (stepped, not linear):** guild street prices do **not** keep scaling with raw mm³. A **16 mm** marble is ~**113×** rice volume (~**2.3 SG** if linear) but Common market settles at **1.5–4 LS** (mid **~2 LS**): harder to move whole, buyers prefer shards for recharge, guilds soft-cap large-core stickers. Quality still multiplies the size band (`Science.md`: `Price ≈ Price_size(V) × Q`).
+
+| Size / source | Volume vs rice | Price | Rule |
+|---|---|---|---|
+| Needle Worm / sand-size tiny | **½×** | **1 SS = 10 LC** | Linear; larger than a sand grain, half a rice-grain; Ch 12 |
+| Rice-grain (common goblin) | **1×** | **2 SS = 20 LC** | Linear; rewrite Ch 9 |
+| Mountain-goblin / "few small silvers" | **~1.5–3×** | **30–60 LC (3–6 SS)** | Linear band; locked with §9 |
+| Fingernail (worker ant / similar) | **~2–4×** | **~40–80 LC (4–8 SS)** | Linear; between rice and leader |
+| Goblin-leader / Spiked Boar dungeon | **5×** | **10 SS = 1 LS = 100 LC** | Linear cap of this band; Ch 11 |
+| Marble (hobgoblin, soldier ant; ~**16 mm**) | **~113×** | **1.5–4 LS** (mid **~2 LS**) | **Stepped** above leader; not linear |
+| Larger / multi-evolution cores | — | **few LS → SG** | Stepped size bands + Q |
+
+Capacity at Q1: Needle Worm tiny **~9–10** mana → rice-grain **19** → leader **~95** → marble **~2,145** (`Science.md`).
 
 ---
 
@@ -488,14 +593,14 @@ Units in large copper. **1 SS = 10 LC**, **1 LS = 100 LC**, **1 SG = 1000 LC**.
 | Ch 9 ear bounty (7x5) | +35 | 815 |
 | Ch 9 mana stones (3x2 SS) | +60 | **875** |
 | Ch 9.5 ear bounty (1,481×5) | +7,405 | 8,280 |
-| Ch 9.5 lodging (270×3) | -810 | 7,470 |
-| Ch 9.5 food (breakfast 5 + dinner 5 × 90; jerky ×3 @ ~2) | -906 | 6,564 |
-| Ch 9.5 thick wool cloak (nice-ish) | -300 | 6,264 |
-| Ch 9.5 repairs / spare robe / food-hunt tastes | -264 | **6,000** |
+| Ch 9.5 lodging (252×3) | -756 | 7,524 |
+| Ch 9.5 food (breakfast 5 + dinner 5 × 90; jerky ×3 @ ~2) | -906 | 6,618 |
+| Ch 9.5 thick wool cloak (nice-ish) | -300 | 6,318 |
+| Ch 9.5 repairs / spare robe / food-hunt tastes | -318 | **6,000** |
 
-Chapter 9 turn-in "**95 LC** richer" is income only (35+60), before meal/map already spent. Monthly lodging quote in Ch 9 is ~**10%** off (30 × 1 SS = 300 → **270 LC**); Ch 13 quote is ~**5%** off. Breakfast is **+5 LC** on the lodging quote; dinner is the **5 LC** inn tray. Forest lunch: **3** jerky sticks (~**2 LC** each); other midday meals are rabbits and other prey taken from goblin camps (no coin).
+Chapter 9 turn-in "**95 LC** richer" is income only (35+60), before meal/map already spent. Monthly lodging quote in Ch 9 is ~**10%** off (**28** × 1 SS = **280** → **252 LC**); Ch 13 quote ~**5%** off (**~266 LC**). Breakfast is **+5 LC** on the lodging quote; dinner is the **5 LC** inn tray. Forest lunch: **3** jerky sticks (~**2 LC** each); other midday meals are rabbits and other prey taken from goblin camps (no coin).
 
-After Ch 9 day one he **keeps** rice-grain stones (no further stone sales in Ch 9.5). End Ch 9.5 / into Ch 10: pouch **6,000 LC** (**6 SG**); stones on person **296**. Full kill/stone notes: `Experience.md`, `Items.md`.
+After Ch 9 day one he **keeps** stones (no further stone sales in Ch 9.5). End Ch 9.5 / into Ch 10: pouch **6,000 LC** (**6 SG**); stones **286** rice-grain + **16** leader. Full kill/stone notes: `Experience.md`, `Items.md`.
 
 ---
 
@@ -562,7 +667,7 @@ Prices stayed close to flat through most of the medieval period then climbed sha
 
 ## 26. Canon Story Prices (compiled from chapters)
 
-Hard numbers only. Soft phrases without amounts omitted here (see §27 for extrapolations).
+Hard numbers only, with chapter cites. Prefer the **Rewrite price lock** when a row here matches a lock item. Soft phrases without amounts omitted here (see §27 for extrapolations).
 
 ### Early loop (Ch 8-13)
 
@@ -586,9 +691,9 @@ Hard numbers only. Soft phrases without amounts omitted here (see §27 for extra
 
 | Item | Price | Ch |
 |---|---|---|
-| Spatial bag ~2 m³ | used **5 SG**; typical **7-10 SG**; larger ~**10x** | 11 |
-| Three large tavern pitchers | **~24 LC** | 12 |
-| Roland's share of that round | **8 LC** (~1.6 goblin bounties) | 12 |
+| Spatial bag ~2 m³ | second-hand **5 SG**; typical **7–10 SG**; scale `Price ∝ V²` → ~6 m³ ≈ **10×** | 11 |
+| Three half-gallon tavern pitchers (weak spirits, ~40 proof) | **~45 LC** | 12 |
+| Roland pays first round (3 half-gal) | **45 LC** (**9** goblin ears) | 12 |
 | Mana Arrow scroll (shop) | **1 SS** | 20 |
 | Fire Arrow scroll (shop, T2) | **3 SS** | 20 |
 | Fireball scroll (shop talk) | **~6 SS** | 20 |
@@ -653,9 +758,10 @@ Marked **extrapolated**. Prefer §26 if a later chapter contradicts.
 
 ### Household budgets (from Ch 13 + Ch 53)
 
+Commoner income (**~4 LS / month**) and family reserve (**100 SG ~ 25-30 years**) are in the Rewrite price lock.
+
 | Budget | Amount | Notes |
 |---|---|---|
-| Commoner household income | **~4 LS / month** (400 LC) | Rewrite |
 | Frugal family living (tax + food) | **~280-350 LC / month** | From "100 SG ~ 25-30 years": ~3.3-4 SG/year; under ~4 LS income with little surplus |
 | Single latrine-wage earner | **~150-250 LC / month** (15-25 days x 10 LC) | Below household 4 LS; household needs multiple earners, farm share, or better work |
 | Skilled town tradesman day | **20 LC** (§8) -> **~400-500 LC / month** if steady | Near commoner household alone if steady |
@@ -671,9 +777,11 @@ Rough commoner monthly split of **400 LC** (extrapolated):
 | Clothes / tools / misc | 40-60 | ~10-15% |
 | Buffer / salt / repairs | remainder |
 
-Inn living is **not** a peasant budget: 1 SS lodging + 5 LC meal = **15 LC/day** = **450 LC / 30 nights** before breakfast -> more than a full commoner month on room+one meal alone. Commoners cook at home.
+Inn living is **not** a peasant budget: 1 SS lodging + 5 LC meal = **15 LC/day** = **420 LC / 28 nights** before breakfast -> more than a full commoner month on room+one meal alone. Commoners cook at home.
 
 ### Staple food (extrapolated vs inn meal 5 LC and street food "few LC")
+
+Tavern weak-spirit pitcher prices are locked in the Rewrite price lock and §11.
 
 | Item | Estimated | Peg |
 |---|---|---|
@@ -681,8 +789,6 @@ Inn living is **not** a peasant budget: 1 SS lodging + 5 LC meal = **15 LC/day**
 | Home loaf / porridge day (1 person) | **1-3 LC** | Below inn meal; historical bread peg |
 | Home meals day (1 person) | **3-5 LC** | Still under inn 5 LC+ |
 | Trail rations day | **10-15 LC** | §22 |
-| Cheap tavern drink share | **~5-8 LC** | From 8 LC share of a 24 LC pitcher round |
-| Full tavern blowout (group pitchers) | **~24 LC** | Rewrite Ch 12 |
 
 ### Travel (canon + extrapolated)
 
@@ -723,7 +829,8 @@ Inn living is **not** a peasant budget: 1 SS lodging + 5 LC meal = **15 LC/day**
 | Rank | Rough monthly if working | Notes |
 |---|---|---|
 | Bronze / Steel vermin + inn living | **break-even to slight save** | Ears 5 LC; need cores or dungeon stones to get ahead |
-| Steel dungeon helper (party share) | **~0.5-2 SG** variable | Soft; repair eats it |
+| Steel Emerald Wilderness party (full haul) | **~1.3–2.6 SG / week** team; **~17–33 SG / year** each (4-way) | **10–20** boars/week; **5–10** stones @ **1 LS** + mid mats **~78**/boar |
+| Steel dungeon helper (party share, soft) | **~0.5-2 SG** variable monthly | Repair eats it; stones + tusks/leather |
 | Silver (T2 jobs open) | **clearly above commoner 4 LS** | Canon "real money" threshold |
 | Contract crafter (Roland early Exeor) | **>=1 SG / week** scroll side | Canon; company takes cut |
 | Gold-rank / workshop owner | **SG to LG** scale | Property and mithril at LG floor |
@@ -734,7 +841,7 @@ Inn living is **not** a peasant budget: 1 SS lodging + 5 LC meal = **15 LC/day**
 
 **Peasant / commoner year:** use **~4 LS/month** income and §27 food split. Do **not** put them in inns every night. Latrine wage alone is poverty; assume farm share, spouse work, or town trade.
 
-**Early adventurer month:** lodging **270 LC** monthly (10% off) or camp; food 100-200 LC if cooking/trail; ears+stones as variable income; mundane repair **~40-80 LC** light / **1-2 LS** heavy (merchants may upcharge).
+**Early adventurer month:** lodging **252 LC** monthly (10% off, **28** nights) or camp; food 100-200 LC if cooking/trail; ears+stones as variable income; mundane repair **~40-80 LC** light / **1-2 LS** heavy (merchants may upcharge).
 
 **Break-even goblin day (no stone):** 7 ears = 35 LC = 7 inn meals or 3.5 lodging nights. **One rice-grain stone (20 LC)** = 4 ears. Cores still help; ears alone can cover basic room+meal if volume is high.
 

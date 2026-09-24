@@ -8,11 +8,13 @@ Reanimated patrol skeletons.
 
 ### Goblin
 First seen: Chapter 4
-Common early foe. Roland’s first kill is a **Goblin L1** (HP 117/117) in the Arden mansion dungeon bravery test. About **120 cm** tall, green, rusty short blade. Estate training stock for age-9 tests, weekly **1v1** clears into the pre-class bank, then weekly **2× L1** clears for ~3 months after Mage (Chapter 7 finale still uses the pen). Kill XP **50** (49+1; RaceMult 1.0); First Kill achievement adds **+200**. **Mana stone** / monster core drop about **1 in 5** (rice-grain size in Chapter 7). Live in groups with a strength hierarchy; chiefs are often evolved soldiers or shamans. Chapter 9 Carwen farm-forest: L2–L5 trash with clubs/spears; tribal alarm screams; Hobgoblin chiefs feared. Chapter 10: darker-green nest leaders; Roland snipes from ~100 m with Mana Arrow; guerrilla lure tactics clear many nests over three months. Bounty proof: left ear.
+Common early foe. Roland’s first kill is a **Goblin L1** (HP 117/117) in the Arden mansion dungeon bravery test. About **120 cm** tall, green, rusty short blade. Estate training stock for age-9 tests, weekly **1v1** clears into the pre-class bank, then weekly **2× L1** clears for ~3 months after Mage (Chapter 7 finale still uses the pen). Kill XP **50** (49+1; RaceMult 1.0); First Kill achievement adds **+200**. Live in groups with a strength hierarchy; chiefs are often evolved soldiers or shamans. Chapter 9 Carwen farm-forest: L2–L5 trash with clubs/spears; tribal alarm screams; Hobgoblin chiefs feared. Chapter 10: darker-green nest leaders; Roland snipes from ~100 m with Mana Arrow; guerrilla lure tactics clear many nests over three months. Bounty proof: left ear.
+
+**Mana stones:** about **1 in 30** goblins is a **leader**. Common kills drop a **rice-grain** stone about **1 in 5**. Leaders drop a **5× rice-grain** stone about **1 in 3** (overall leader stone ≈ **1 in 90** kills). Prices: rice-grain **2 SS**; leader **10 SS** (`Economy.md`).
 
 ### Goblin Shaman
 First seen: Chapter 10 (guild gossip; kill in late Ch 9.5)
-Evolved goblin chief type. Named rewrite kill: **Goblin Shaman L23** (above Roland’s Mage L20 when he took it; counts inside the Ch 9.5 **1,481**). Guild hall talk in Chapter 10 references it as “last time.”
+Evolved goblin chief type. Named rewrite kill: **Goblin Shaman L23** (above Roland’s Mage L20 when he took it; counts inside the Ch 9.5 **1,481**). Guild hall talk in Chapter 10 references it as “last time.” Counts as a **leader** for stone size when a core drops.
 
 ### Dragon (egg)
 First seen: Chapter 7
@@ -28,15 +30,15 @@ Smarter evolved goblin. Used as lab subjects and wild dungeon foes.
 
 ### Dungeon Rat
 First seen: Chapter 11
-Giant rat in Carwen dungeon entrance corridors. Weaker than a common goblin. Roland one-shots one with Mana Arrow on his first party delve.
+Giant rat in Carwen dungeon entrance corridors. Weaker than a common goblin. Roland one-shots one with Mana Arrow on his first party delve and takes **full solo XP** (party test kill; no share split). Kill XP **9 + level** (vermin-tier base; not the goblin **49 + level** line).
 
 ### Spiked Boar
 First seen: Chapter 11
-Large muscular boar with thick tusks and bone spikes on the spine. Common floor-1 Emerald Wilderness foe. Charges tanks; party loot includes tusks, spine spikes and leather (meat skipped: tough and bad tasting). Mana stones often sit in the chest and run larger than common goblin stones (closer to goblin-leader size) because of dungeon mana density.
+Low-level Emerald Wilderness floor-1 trash. Large muscular boar with thick tusks and bone spikes on the spine. Extremely strong and durable; face shots far less effective than on goblins. Not very agile; limb/joint hits help slow them. Charges tanks; party loot includes tusks, spine spikes and leather (meat skipped: tough and bad tasting). Chest mana stone ≈ **goblin-leader** size (**5×** rice-grain; guild price **10 SS**). Kill XP **499 + level** (own base; not RaceMult). Ch 11 day-one lock: **L1** solo **500**. Idle spectate **5 XP (1%)**; full party contribution share **125 XP (1/4)**.
 
 ### Needle Worm
 First seen: Chapter 12
-Leaf-green spiky caterpillar ambusher on Carwen Dungeon floor 2. Camouflages in trees; flings itself headfirst. Green blood and strong smell. Tiny mana stones; spikes sell poorly. One-trick ambush threat, especially while the party is busy with boars.
+Leaf-green spiky caterpillar ambusher on Carwen Dungeon floor 2. Camouflages in trees; flings itself headfirst. Looks like a normal fuzzy caterpillar scaled up; fine hairs as thick as thin knitting needles. Green blood is **paralytic** (Reyna warns Roland after he tastes a drop; Ch 12). Taste/smell: tingling numbness and spiciness plus **cumin** aroma. Distinctive scent (armpit comparison in party banter). Spikes sell poorly. One-trick ambush threat, especially while the party is busy with boars. Mana stone: **tiny** (larger than a grain of sand; locked **½ rice-grain** volume). Kill XP **24 + level** (own base; above dungeon rat **9 + level**; not RaceMult).
 
 ### Wereboar
 First seen: Chapter 12 (named as floor-3 target); fought Chapter 13
