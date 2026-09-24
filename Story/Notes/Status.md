@@ -360,7 +360,7 @@ No full status screen. Still **Mage L20** band (no level-up line). First Carwen 
 
 ## Chapter 12
 
-No full status screen. Gains **Basic Alcohol Resistance** L1 (**Endurance +1**) after forced tavern drinking; morning: **Sleep Resistance** **L4→L5** (**Vit +1**, **End +1**), **Dance** L1 (**Agility +1**), **Pain Resistance** L1 (**Willpower +1**, **Endurance +1**). Night pad total **Agi +1 / Vit +1 / End +3 / Will +1**. Still **Mage L20** (**~2,774 / 10,000**; not near L25 yet). First clear look at Sahildr's lesser impact rune (glowing pathway lines). No new attribute numbers shown.
+No full status screen. Gains **Basic Alcohol Resistance** L1 (**Endurance +1**) after forced tavern drinking; morning: **Sleep Resistance** **L4→L5** (**Vit +1**, **End +1**), **Dance** L1 (**Agility +1**), **Pain Resistance** L1 (**Willpower +1**, **Endurance +1**). Night pad total **Agi +1 / Vit +1 / End +3 / Will +1**. Floor-2 cook: **Poison Resistance** L1 (**Vit +1**, **End +1**; ignored) + **Multitasking** L1 (**Int +1**, **Dex +1**; unnoticed); **Mana Hands** ranks (enters **L6**, at least **L7** after eight-skewer cook). Needle Worm pocket clear **+492 XP** then **Basic Taming** L1 (**Charisma +1**) on the core worm (green-scarf pet). Chapter pad total **Agi +1 / Vit +2 / End +4 / Will +1 / Int +1 / Dex +1 / Cha +1**. Bar **~3,266 / 10,000**; still **Mage L20**. Pouch **~6,818 → ~6,773 LC** after Iron Flagon first round. First clear look at Sahildr's lesser impact rune (glowing pathway lines). No new attribute numbers shown.
 
 ## Chapter 13
 

@@ -27,6 +27,7 @@ Trait Int/Will bonuses are flat cards. They sit in the Skills/Traits bucket with
 | Basic Throwing | Dexterity |
 | Basic Sneaking | Agility |
 | Basic Dodging | Agility |
+| Basic Taming | Charisma |
 | Basic One-Handed Swordsmanship | Strength |
 | Basic Leather Armor Proficiency | Vitality, Endurance |
 | Basic Mana Shaping | Intelligence, Willpower (Int-heavy: +2 Int / +1 Will per level) |
@@ -465,8 +466,8 @@ No new traits.
 
 ## Chapter 12
 
-Gained: **Basic Alcohol Resistance** L1 (**Endurance +1**); forced tavern drinking; hangover potions exist; theorises other exposure resistances. On-page: `**You have gained the Basic Alcohol Resistance skill.**` Morning check: **Sleep Resistance** **L4→L5** (**Vitality +1**, **Endurance +1**); **Dance** L1 (**Agility +1**); **Pain Resistance** L1 (**Willpower +1**, **Endurance +1**). Night pad total: **Agi +1**, **Vit +1**, **End +3**, **Will +1**.
-Uses Mana Arrow, Mana Bolt and Identify (Needle Worm). First clear look at a lesser impact rune on Sahildr's hammer (glowing pathway lines). Still Mage L20 (trial-week XP only; L25 is Ch 13 half-year). Mana Hands at **L6**.
+Gained: **Basic Alcohol Resistance** L1 (**Endurance +1**); forced tavern drinking; hangover potions exist; theorises other exposure resistances. On-page: `**You have gained the Basic Alcohol Resistance skill.**` Morning check: **Sleep Resistance** **L4→L5** (**Vitality +1**, **Endurance +1**); **Dance** L1 (**Agility +1**); **Pain Resistance** L1 (**Willpower +1**, **Endurance +1**). Night pad total: **Agi +1**, **Vit +1**, **End +3**, **Will +1**. Floor-2 cook also unlocks **Poison Resistance** L1 (**Vitality +1**, **Endurance +1**; popup ignored).
+Uses Mana Arrow, Mana Bolt and Identify (Needle Worm). Floor-2 cook: Needle Worm blood as cumin seasoning on boar skewers; eight Mana Hands over the coals. **Mana Hands** levels on-page (he does not notice; enters cook at **L6**, at least **L7** after). Gains **Multitasking** L1 (**Intelligence +1**, **Dexterity +1**; he does not notice). Crunches a needle for the spice; ignores **Poison Resistance** unlock popup; Mana Sense hunt for a core-bearing Needle Worm to tame as a pet (party gapes). Clears **12** nearby worms (**L16–L18**, **+492 XP**) then tames the core worm (offer meat/leaves, Mana Shield stall ~100 hits then stacked shields, Willpower stare-down; worm bows and passes out; he wears it as a green scarf). Gains **Basic Taming** L1 (**Charisma +1**). First clear look at a lesser impact rune on Sahildr's hammer (glowing pathway lines). Still Mage L20 (bar **~3,266 / 10,000** after the pocket; L25 is Ch 13 half-year). Chapter pad total **Agi +1 / Vit +2 / End +4 / Will +1 / Int +1 / Dex +1 / Cha +1**.
 
 ## Chapter 13
 

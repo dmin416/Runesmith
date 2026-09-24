@@ -43,6 +43,75 @@
 - Late winter and early spring were the leanest stretch, the **hungry gap** before new crops came in, when households lived on whatever had been preserved (salted meat, dried peas, stored grain, hard cheese). Map to the cold / lean stretch of the **13×28** year, not an Earth month name.
 - **Martinmas** *(Earth, ~November)* was traditionally when surplus livestock was slaughtered before winter feed ran out, with the meat salted or smoked to last through the cold months. **Caldris equivalent:** a late-autumn / pre-winter slaughter festival or farm custom before the lean months; do not use the Earth saint name unless a church parallel is established.
 
+## Cooking without a pot
+
+Earth technique for trail / camp meals (Roland forest lunches, goblin-camp prey, Ember drills). In Caldris prose: prefer leaves, clay, green sticks and ash over foil; potatoes and other New World crops only if already imported (`Renaissance shift` above).
+
+### Fire setup
+
+- **Cook on coals, not flames.** Burn hardwood (oak, hickory, maple, birch, fruitwood) for 30 to 45 minutes until it glows under a layer of white ash. Resinous softwoods leave soot and a bitter taste.
+- **Build two zones.** Rake deep coals to one side for searing and leave a thin layer on the other for gentle cooking.
+- **Hand test at 6 inches above the coals:** 2 to 3 seconds is high heat, 4 to 5 is medium and 6 to 8 is low.
+- **Revive coals** by fanning with a hat or blowing through a hollow stick.
+
+### Roast potatoes
+
+- **Ash-baked:** Rake a pocket into the coals, bury whole potatoes and cover with coals and ash. Bake 30 to 60 minutes depending on size and turn once by digging them up. They are done when a stick slides in with no resistance. Brush off the ash and split them open. Sweet potatoes, beets, onions, garlic bulbs and squash halves work the same way.
+- **Clay-wrapped:** Coat each potato in a finger-thick layer of wet clay or mud before burying. The clay bakes into a shell that steams the inside and peels away cleanly.
+- **Sliced:** Thread thick slices onto a stick and roast beside the coals, or sear them on a hot flat rock with a smear of fat.
+- **Finish** by splitting them and mashing fat and salt into the hot flesh.
+
+### Greens
+
+- **Leaf packet:** Wrap chopped greens with fat, garlic and salt in a large leaf or foil. Set it at the edge of the coals for 5 to 10 minutes so the greens steam in their own moisture.
+- **Direct char:** Hold hardy greens (kale, collards, cabbage wedges, bok choy, ramps, wild onions) on a stick or grate over medium coals for 1 to 3 minutes until the edges blacken and wilt. Dress with oil, acid and salt.
+- **Whole cabbage:** Bury a whole head in coals for 30 to 40 minutes and peel off the charred outer layers to reach the tender interior.
+- **Hot stone:** Wilt tender greens on a heated flat rock with a little fat.
+
+### Roasted meat
+
+- **Spit roast:** Set two forked sticks on either side of the fire with a peeled green spit across them. Keep the meat 18 to 24 inches from the coals and rotate every few minutes. A small bird or rabbit takes 1 to 2 hours.
+- **Tripod hang:** Suspend a bird or joint from a tripod on cord or wire over the coals. Twist it periodically so it turns.
+- **Clay or ash crust:** Encase birds, fish or small game in clay (feathers and scales can stay on) and bury in coals for 45 to 90 minutes. Crack the shell open and the skin comes away with it.
+- **Coal-buried:** Wrap meat in wet leaves or foil and bury it in the coal bed with more coals on top.
+- **Doneness:** 165°F (74°C) for poultry and 160°F (71°C) for pork and boar. Fish is done at 145°F (63°C).
+
+### Grilled meat
+
+- **Green-stick grate:** Lay thick green sticks side by side across two logs or rocks. Green wood chars slowly and holds a full cook.
+- **Flat rock griddle:** Heat a flat, dry, dense stone in the fire for 30 to 45 minutes. Use it to sear thin steaks, sliced meat, eggs and flatbread. Avoid wet river rock because trapped water can make it burst.
+- **Directly on the coals:** Fan the ash off glowing hardwood coals and lay the steak straight on them for 2 to 4 minutes per side. Brush off the ash before serving. This gives the deepest crust.
+- **Fat management:** Fatty cuts go at the edge of the hot zone to avoid flare-ups. Thin cuts go over the hottest coals.
+- **Split-stick clamp:** Split a green stick partway and sandwich a fish or thin cut in it for easy turning.
+
+### Skewers
+
+- **Sticks:** Peel green hazel, willow, birch or maple to about a pencil's thickness and sharpen one end. Green wood needs no soaking. Avoid conifer and laurel.
+- **Threading:** Cut meat into 1.5 to 2 cm cubes and alternate lean pieces with fat. Pack them snugly. A flat stick or two parallel sticks keeps the meat from spinning.
+- **Hands-free cooking:** Push the skewer into the ground at an angle leaning over the coals, or rest it across two rocks. Turn every 30 to 45 seconds.
+- **Cumin-mala method:** Carry a small tin of toasted cumin, dried chili, ground Sichuan pepper and salt. Dust twice, once when the fat starts sizzling and again just before pulling.
+- **Dough twist:** Wind a strip of bread dough around a peeled stick and rotate over low coals for 8 to 12 minutes.
+
+### BBQ and slow cooking
+
+- **Earth oven (pit BBQ):**
+  1. Dig a pit about 2 feet deep and line it with dry stones.
+  2. Burn hardwood in it for 2 to 3 hours.
+  3. Rake the coals level and lay wet leaves or green branches over them.
+  4. Add meat wrapped in leaves or foil, then another layer of leaves.
+  5. Cover with 6 or more inches of soil.
+  6. Cook 4 to 8 hours and dig it up. Shoulders, ribs and whole small animals come out fall-apart tender.
+- **Smoke rack:** Build a green-stick platform about 3 feet above a low coal bed. Add damp hardwood for smoke and hold 225 to 250°F (107 to 121°C) for 3 to 5 hours.
+- **Jerky:** Slice meat 1/4 inch thick, salt it and hang it on the rack in thin smoke for 4 to 8 hours until it bends and cracks without snapping.
+- **Mopping:** Baste with vinegar, salted water or melted fat using a bundle of rosemary or a leafy twig.
+
+### Extras
+
+- **Eggs:** Bury in warm ash for 10 to 15 minutes or fill a hollowed orange half and set it on coals.
+- **Salt-crust fish:** Pack a whole fish in a thick coat of wet salt and coals for 15 to 20 minutes.
+- **Bamboo tubes:** Fill green bamboo with rice or vegetables and water, plug the end and lean it over coals.
+- **Minimal kit:** Salt, a spice tin, cooking fat, foil, a sharp knife and cord cover nearly every method above.
+
 ## Steam-era spirits and liqueurs
 
 Caldris has magic steam trains and noble airships so copper stills and boiler craft are common. Tavern prices live in `Economy.md`. Process anchors below are Earth/steam technique, not brand names for Caldris shelves.
@@ -100,8 +169,8 @@ Everything needed was common by the 1850s: cane sugar, cream, brandy, whiskey, r
 
 - **Look:** oversized fuzzy caterpillar; fine hairs as thick as thin knitting needles.
 - **Smell:** distinctive; party banter compares it to armpits.
-- **Blood:** **paralytic**. Roland tastes a drop before Reyna warns him (Ch 12). Do not treat as food.
-- Spikes still sell poorly (`Economy.md`). Flesh is not a loot focus.
+- **Blood:** **paralytic**, but on-page Roland uses it as a **cumin-like seasoning** on Spiked Boar skewers (numb/spicy / toasted-seed aroma). Broken needles also release poison (Reyna warns while he plucks). Not safe food for normals; he ignores the **Poison Resistance** popup and keeps cooking/eating.
+- Spikes sell poorly (`Economy.md`). Flesh is not a loot focus. Core-bearing worm can be tamed (`Mounts.md`).
 
 ### Why cumin works with gamey meat
 
@@ -155,7 +224,7 @@ Skin-on or trimmed backfat cut into small cubes and threaded every second or thi
 - Very hot charcoal with turning every 30 to 45 seconds gives the best crust.
 - Wild boar should reach 160°F (71°C) internally. Small cubes reach this in a few minutes and the fat keeps them moist past that point.
 
-**Dungeon Spiked Boar** meat is usually skipped (dense / bad; Ch 11). If someone still experiments, neck/collar and thin belly strips are the least-bad skewer cuts. Needle Worm blood is **paralytic** (Ch 12), not food.
+**Dungeon Spiked Boar** meat is usually skipped (dense / bad; Ch 11). Ch 12 cooks neck/collar and thin belly strips anyway, brushed with Needle Worm blood as cumin seasoning (paralytic spice; party still eats and likes it).
 
 ### Cumin skewers (chuan'r, Xinjiang style) — Earth technique
 

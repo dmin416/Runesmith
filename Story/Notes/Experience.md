@@ -34,6 +34,7 @@ Ch 9.5 = L4→L20 kill volume at matched-goblin pace (~**16–17**/day over ~**9
 | **9.5** | **1,481** matched goblins → **Mage L20** | Month beats **M1 ~L11–12**, **M2 ~L16–17**, **M3 → L20**. Kill XP ~**78.5k**; spell/skill ranks fill the rest (~**13.4k**) |
 | **10** | Nest opener + present day → **Mage L20** | **+7** kills (**1** matched / **6** slightly lower); **+2** rice-grain stones; ear turn-in **+35 LC** → pouch **6,035**; inn sheet |
 | **11** | First dungeon day + trial weeks | On-page idle Spiked Boar **+5 XP** (**1%**). Day lock: **4** boars → **380** XP; share **+128** → pouch **6,163**. Trial **7** days: kill **+1,820** + Hands **L5→L6** (**~+100**) → bar **~2,774/10k** / pouch **~6,818** |
+| **12** | Floor-2 Needle Worm pocket clear before tame | **12** worms **L16–L18** → **+492 XP** (**24 + level**); bar **~3,266 / 10,000**; still L20. Core worm kept alive for tame |
 
 Ch 6: weekly one-on-ones after the 9th birthday. Locked count **55** estate L1s after bravery (year of weeks plus a few extras) so the half-bank lands L3 empty under `500 × L`. After Mage, weekly continues and turns to **two** L1s at a time for ~**3 months** (**25** kills including the Ch 7 finale) so the first Carwen hunt can finish L3→L4.
 
@@ -72,6 +73,7 @@ Curve tables: `Levels.md`.
 | 9.5 | **1,481** matched forest goblins | ~**78,493** kill XP (×53 avg) | Enter **118 / 2000** at L4; need ~**91,882** to L20; spell/skill ranks supply ~**13,389**. Month beats M1 ~L11–12 / M2 ~L16–17 / **L20**. Goblin Hunter in M3 (past **1000** kills into the skip). Named late kill: **Goblin Shaman L23** (inside the 1,481) |
 | 10 | Nest opener then inn sheet | at **L20** | **7** kills: **1×** matched (**69** XP) + **6×** slightly lower (~**L18–19**, ~**67–68** each) → ~**471–477** XP into the L20 bar. **+2** rice-grain stones (**286→288**; leaders stay **16**); ears **+35 LC** → pouch **6,035 LC**; boar leg (underseasoned, gamey). Plans last five to Mage cap then Mana Scribe |
 | 11 | Dungeon rat + Spiked Boars (Emerald Wilderness) | at **L20** | On-page: idle first boar **+5 XP** (**1%**). Rat XP popup not shown. **Lock:** day **4** boars → **380** XP; share **+128 LC** → **6,163 LC**. Trial weeks (**7** more days / **28** boars): kill **+1,820 XP**; idle **Mana Hands** + Absorption + Sense while waiting → Hands **L5→L6** (**~+100** skill XP) → bar **~2,774 / 10,000**; share **+921** − living **266** → pouch **~6,818 LC**. Still L20. Shield L3 / Incantation L6 unchanged |
+| 12 | Needle Worm pocket clear (before tame) | at **L20** | **12×** Floor-2 worms **L16–L18**; formula **24 + level**. On-page pops **41 / 42 / 40**; pocket total **+492 XP** → bar **~3,266 / 10,000**. One core-bearing worm left alive; taming begins |
 
 `XP_to_next(3) = 1500`. Entering Ch 9 with **1250** keeps the level-up on the **54** XP kill. Overflow after level-up is **(1250 + 263) − 1500 = 13** into the L4 bar (`XP_to_next(4) = 2000`).
 
@@ -150,3 +152,17 @@ On-page: equal money split after sales (no total printed). Locked with `Economy.
 | Stones on person | **288** rice + **16** leader (unchanged) |
 
 **Skills:** While waiting on butcher / travel beats he keeps working mana: **Mana Hands** casts, **Mana Absorption**, **Mana Sense**. Shield stays **L3** (~**+14** combat casts; need **~105** for L4). Incantation stays **L6**. Sense and Absorption already **L9** (capped; still used). Mana Hands: idle waiting ~**25**/day × **7** ≈ **175** finished → **L5 → L6** (need **35×5 = 175** from L5). Hands rank popup **~+100 XP** (spell ranks beat trash goblins) → L20 bar **~2,774 / 10,000**. Combat acting still light vs solo goblins; idle mana practice is the real skill tick.
+
+## Ch 12 money / XP (Iron Flagon + Floor-2 pocket)
+
+| Item | Amount |
+|---|---|
+| Enter pouch (tavern) | **~6,818 LC** |
+| Iron Flagon first round | **−45 LC** |
+| **End pouch (after drink; into dungeon)** | **~6,773 LC** |
+| Enter L20 bar | **~2,774 / 10,000** |
+| Needle Worm pocket (**12× L16–L18**, **24 + level**) | **+492 XP** |
+| **End L20 bar (after pocket / into tame)** | **~3,266 / 10,000** |
+| Class | Still **Mage L20** |
+| Stones on person | **288** rice + **16** leader (party bag takes tiny worm stones; personal bank unchanged on-page) |
+| Pet | Core-bearing Needle Worm kept alive (**Basic Taming** L1) |

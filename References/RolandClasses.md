@@ -56,7 +56,7 @@ Offered beside it at T3: Advanced Runesmith, Master Runesmith, Master Runesmith 
 | Advanced Runic Mana Scribe, Runic Armorsmith, Runic Weaponsmith, Runic Battlesmith | T2 | Chapter 77 |
 | Advanced Runesmith, Master Runesmith, Master Runesmith High-Lord and related engineer upgrades | T3 | ~Chapter 303–305 class screen. Picked Runic Battlemaster Overlord |
 
-## Early rewrite notes (Chapters 1–11)
+## Early rewrite notes (Chapters 1–12)
 
 - Chapter 5: Tier 1 Mage via memory-apartment PC confirm. Affinities all 0%. Crystal dusts. Banked pre-class XP still pending Chapter 6 application.
 - Chapter 6: Mage L3 from one-time pre-class XP bank. Affinity dead-end. Plans Runesmith via Blacksmith and Mana Scribe. Lustile denied. Must earn keep as low-level mage; hide Arden name from crafting. Weekly goblin fights continue after class.
@@ -65,4 +65,5 @@ Offered beside it at T3: Advanced Runesmith, Master Runesmith, Master Runesmith 
 - Chapter 9: First Carwen hunt finishes Mage **L3→L4**. End pouch **875 LC**.
 - Chapter 9.5: ~3 months Carwen grind → Mage **L20**; Goblin Hunter (past **1000** kills); Mana Absorption / Reinforcement self-taught to **L9**; end pouch **6,000 LC** (**6 SG**) / **286** rice-grain + **16** leader stones; thick wool cloak **300 LC**.
 - Chapter 10: present day after timeskip; nest **+7** / stones **288** rice + **16** leader / pouch **6,035 LC**; rewrite L20 sheet; Mana Scribe before Blacksmith (magic-track lean); Edelgard goal; joins Becky / Sahildr / Reyna (age dodge **Roughly**).
-- Chapter 11: first dungeon day (Emerald Wilderness). Party XP = ability + contribution (Source T1-in-T2 zero block dropped). Mana Shield hard disk. Day haul lock **+128 LC** → pouch **6,163 LC**.
+- Chapter 11: first dungeon day (Emerald Wilderness). Party XP = ability + contribution (Source T1-in-T2 zero block dropped). Mana Shield hard disk. Day haul lock **+128 LC** → pouch **6,163 LC**. Trial weeks → pouch **~6,818 LC** / bar **~2,774/10k**.
+- Chapter 12: Iron Flagon first round **−45 LC**; Alcohol / Dance / Pain / Sleep pads; Floor-2 Needle Worm cook + **12**-worm pocket (**+492 XP**) + **Basic Taming** green-scarf pet; Mana Hands ≥**L7**; Multitasking; lesser impact rune sight; still Mage L20 (**~3,266/10k**).

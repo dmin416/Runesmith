@@ -70,6 +70,16 @@ Passive. Sense soul energy (Soulsmith path).
 First seen: Chapter 148
 Multi-mind processing Roland relies on for complex runework.
 
+### Multitasking
+First seen: Chapter 12
+Gained while holding multiple **Mana Hands** over a cook fire (eight skewers). Lets him split attention across concurrent actions. Roland does not notice the unlock on-page. Hard cap **L9** until first T2 class.
+**Attribute bonus:** Intelligence +1 per level, Dexterity +1 per level.
+
+### Basic Taming
+First seen: Chapter 12
+Unlocks when Roland binds a core-bearing **Needle Worm** after clearing its pocket: offer food/leaves, stall with stacked Mana Shields, Willpower stare-down until the worm folds its needles, bows and passes out. He wears it as a green scarf. Party has never seen a tamer; process looks like a demonic ritual to them. Separate from Agni’s later egg-imprint bond (no Taming skill required for imprint). Hard cap **L9** until first T2 class.
+**Attribute bonus:** Charisma +1 per level.
+
 ### Hastened Reading
 First seen: Chapter 2
 Passive. Speeds reading while taking in knowledge. +Intelligence equal to skill level. Roland’s transferred skill at L2.
@@ -99,6 +109,11 @@ Passive. Needs less sleep; less fatigue. **Vitality +1 per level**, **Endurance 
 ### Alcohol Resistance / Basic Alcohol Resistance
 First seen: Chapter 12
 Passive. First gained as Basic Alcohol Resistance after forced tavern drinking with Becky / Sahildr / Reyna. **Endurance +1 per level.** Suggests other resistances can unlock via similar exposure (Roland considers mild poison later). Hangover potions exist in town; he skips them as too costly. Party girls recover overnight (built-up Alcohol Resistance).
+
+### Poison Resistance / Basic Poison Resistance
+First seen: Chapter 12
+Passive. Unlocks when Roland eats Needle Worm blood and crunches needle spikes for the cumin / red-pepper spice. Popup ignored on-page while he Mana Senses for a core-bearing worm to tame. Hard cap **L9** until first T2 class.
+**Attribute bonus:** Vitality +1 per level, Endurance +1 per level.
 
 ### Dance
 First seen: Chapter 12

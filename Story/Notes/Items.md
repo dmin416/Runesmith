@@ -163,3 +163,21 @@ Equal-split haul locked in `Experience.md`: mats **~2,184** + **15** stones **1,
 | Iron Flagon first round (Ch 12) | −45 | **6,773** |
 
 **Still carrying into Ch 12 binge:** leather (repaired), shortsword (repaired), hunting knife, thick wool cloak, spare robe, small mirror, adventurer card, local map, calligraphy stock, coin pouch (**~6,818 LC** before drink / **~6,773** after first round), **288** rice-grain + **16** leader mana stones, buried class-up crystal.
+
+## Chapter 12
+
+Iron Flagon first round **−45 LC**. Floor-2 Needle Worm cook + tame run. Party bag takes worm mats / herbs / tiny worm stones (sold or kept with haul; not locked into his personal bank on-page).
+
+**Gained / kept**
+- **Tamed Needle Worm** (core-bearing) – green-scarf pet after **Basic Taming** L1. Alive; not a stone sale.
+- Hunting knife used for boar neck/belly cuts and worm pluck.
+
+**Coin ledger**
+
+| Step | Change (LC) | Running |
+|---|---|---|
+| Enter (trial weeks end) | | **~6,818** |
+| Iron Flagon first round (3 half-gal weak spirits) | −45 | **~6,773** |
+| Becky lock-repair toss | +? (small; not counted) | **~6,773** |
+
+**Still carrying into Ch 13:** leather (repaired), shortsword (repaired), hunting knife, thick wool cloak, spare robe, small mirror, adventurer card, local map, calligraphy stock, coin pouch (**~6,773 LC** after drink; later Floor-2 sale share not itemized on-page), **288** rice-grain + **16** leader mana stones, buried class-up crystal, **tamed Needle Worm** (green scarf).

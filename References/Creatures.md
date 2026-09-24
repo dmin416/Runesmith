@@ -38,7 +38,7 @@ Low-level Emerald Wilderness floor-1 trash. Large muscular boar with thick tusks
 
 ### Needle Worm
 First seen: Chapter 12
-Leaf-green spiky caterpillar ambusher on Carwen Dungeon floor 2. Camouflages in trees; flings itself headfirst. Looks like a normal fuzzy caterpillar scaled up; fine hairs as thick as thin knitting needles. Green blood is **paralytic** (Reyna warns Roland after he tastes a drop; Ch 12). Taste/smell: tingling numbness and spiciness plus **cumin** aroma. Distinctive scent (armpit comparison in party banter). Spikes sell poorly. One-trick ambush threat, especially while the party is busy with boars. Mana stone: **tiny** (larger than a grain of sand; locked **½ rice-grain** volume). Kill XP **24 + level** (own base; above dungeon rat **9 + level**; not RaceMult).
+Leaf-green spiky caterpillar ambusher on Carwen Dungeon floor 2. Camouflages in trees; flings itself headfirst. Looks like a normal fuzzy caterpillar scaled up; fine hairs as thick as thin knitting needles. Green blood is **paralytic** and tastes like **cumin** / numb spice (Roland seasons Spiked Boar skewers with it in Ch 12; Reyna first asks what he is doing, then warns that broken needles release poison). Distinctive scent (armpit comparison in party banter). Spikes sell poorly. One-trick ambush threat, especially while the party is busy with boars. Mana stone: **tiny** (larger than a grain of sand; locked **½ rice-grain** volume). Kill XP **24 + level** (own base; above dungeon rat **9 + level**; not RaceMult). Roland tames a **core-bearing** specimen in Ch 12 (**Basic Taming** L1); wears it as a green scarf.
 
 ### Wereboar
 First seen: Chapter 12 (named as floor-3 target); fought Chapter 13

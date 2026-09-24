@@ -34,7 +34,7 @@ All-women party after their fourth left with a man. Distrust men at night camps.
 |---|---|
 | 10 | Becky recruits Roland. He meets Sahildr and Reyna. Claims age 12. |
 | 11 | First delve: entrance rat test; Emerald Wilderness spiked boars; spatial bag loot; equal split; defer deeper floors. |
-| 12 | Trial period ends. Tavern binge → Basic Alcohol Resistance. Floor 2 Needle Worms; Reyna MVP; Sahildr lesser-impact hammer; skip Wereboars (bag full). |
+| 12 | Trial period ends. Iron Flagon binge → Alcohol / Dance / Pain / Sleep pads. Floor 2 Needle Worm cook (cumin blood skewers; Multitasking) + pocket clear / tame (green-scarf pet); Reyna MVP; Sahildr lesser-impact hammer; skip Wereboars (bag full). |
 | 13 | Half year; Mage L25; floor 3 Wereboars; Calligraphy L9; digs class crystal; watcher ambush starts. |
 | 14 | Watcher fight: Gale Step, detonation rapier; party kill (+479 XP); confession starts. |
 | 15 | Partial confession; dump body to Wereboars; Roland keeps rapier; [Highest] Detonation schematic + Runic Scholar. |

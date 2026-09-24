@@ -96,17 +96,18 @@ Displayed = Body + Class levels + Skills/Traits (+ Other if needed)
 5. No leftover old name in rewrite files (search the old term; ignore `Source/`).
 6. If kills, XP bars or pouch changed: `Experience.md` totals, chapter Notes beat and any Economy/Places quote still match.
 
-## Open checks (Ch 1–11 rewrite pass)
+## Open checks (Ch 1–12 rewrite pass)
 
-Synced for the live Ch 1–11 rewrite: estate doubles → Ch 9 L3→L4, Ch 9.5 kill/coin/stone ledger (**1,481** / end **6,000 LC** / **286** rice + **16** leader), Ch 10 nest (**+7** / **288** rice + **16** leader / pouch **6,035 LC**), rewrite L20 inn sheet, Ch 11 first dungeon day (party XP rewrite; Mana Shield hard disk; day haul lock **4** boars / **+128 LC** → **6,163 LC**), Absorption/Reinforcement self-taught, Scribe spelling, Ch 9.5 destination = research only, Ch 10 picks **Edelgard**.
+Synced for the live Ch 1–12 rewrite: estate doubles → Ch 9 L3→L4, Ch 9.5 kill/coin/stone ledger (**1,481** / end **6,000 LC** / **286** rice + **16** leader), Ch 10 nest (**+7** / **288** rice + **16** leader / pouch **6,035 LC**), rewrite L20 inn sheet, Ch 11 first dungeon day + trial weeks (bar **~2,774/10k** / pouch **~6,818 LC**), Ch 12 Iron Flagon (**−45** → **~6,773 LC**) + Needle Worm cook/tame (**+492 XP** → bar **~3,266/10k**; **Basic Taming** pet scarf), Absorption/Reinforcement self-taught, Scribe spelling, Ch 9.5 destination = research only, Ch 10 picks **Edelgard**.
 
 Still needs attention when touching these beats:
 
 | Item | Where | Check |
 |---|---|---|
 | Ch 10 Edelgard goal | `Notes.md`, `Status.md`, `RolandClasses.md`, chapter | OK for Ch 10+. Must stay out of Ch 9.5 close. |
-| Ch 12+ party / dungeon notes | Notes 12–80 | Re-audit when those chapters are rewritten. |
+| Ch 13+ party / dungeon notes | Notes 13–80 | Written to Source plot. Re-audit when those chapters are rewritten. |
 | Ch 11 day haul lock | `Experience.md`, `Economy.md`, `Items.md`, `Notes.md` | Prose says “more” boars; lock stays **4** / **2** stones / **+128 LC** unless chapter names a count. |
+| Ch 12 drink / worm ledger | `Experience.md`, `Items.md`, `Notes.md`, `Skills.md` | First round **45 LC**; pocket **12** worms **+492 XP**; pet worm kept; Hands ≥**L7**. |
 | Mana Bolt joule / Int curve | `References/Science.md`, chapter fight beats | Keep formula and on-page damage language aligned when editing fights. |
 | Meal / lodging quotes | `Economy.md`, `Places.md`, Ch 9 Notes | Meal **5 LC**; lodging **1 SS**/night + **5 LC** breakfast; monthly ~**10%** on **28** nights → **252 LC**. Year = **13×28**. |
 | Goblin Hunter title | `Skills.md` / `Status.md` Ch 9.5–10 | Past **1000** kills into the skip; card text matches chapter. |

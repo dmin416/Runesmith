@@ -34,6 +34,10 @@ Large deer-looking animals with four sets of eyes. Kept in the Albrook market-sq
 First seen: Chapter 92
 Roland’s imprinted sacred companion. Rewrite: mustelid, starting as a weasel or similar, not a dog or wolf. Source path was Ruby Wolf → Sunlight Wolf → Solar Wolf; keep sacred-beast treatment and tamer bond, swap species line to mustelid when rewritten.
 
+### Needle Worm (tamed)
+First seen: Chapter 12
+Roland’s first **Basic Taming** bind. Core-bearing Floor-2 worm; worn as a green scarf after food offer, Mana Shield stall and Willpower stare-down. Separate path from Agni’s later egg imprint.
+
 ### Six-legged lizard
 First seen: Chapter 408
 Horse-sized or larger lizard used to pull wagons and noble carriages. One pulling a magical Valerian-linked carriage is large enough to devour a horse. Slave wagons also use them.

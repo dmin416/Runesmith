@@ -38,7 +38,7 @@ Lower-tier shield spell.
 
 ### Mana Hands / Mana Hand / Mage Hand
 First seen: Chapter 10
-Move objects with mana (lift, fetch, hold, shove). Visible hands are optional; the name stuck. Weight and range scale with Intelligence. Self-discovered early (not a free class grant). Mage Hand is the common cast name later. Lift / throw / hold energy tables: `Science.md` (Mana Hands).
+Move objects with mana (lift, fetch, hold, shove). Visible hands are optional; the name stuck. Weight and range scale with Intelligence. Self-discovered early (not a free class grant). Mage Hand is the common cast name later. Lift / throw / hold energy tables: `Science.md` (Mana Hands). Chapter 12 dungeon cook: eight concurrent Hands over skewers; ranks up on-page (unnoticed) and unlocks **Multitasking**.
 
 ### Lesser Mana Burst
 First seen: Chapter 437

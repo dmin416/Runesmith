@@ -309,7 +309,7 @@ Attribute bonus from a skill = +1 × current skill level
 
 per favored attribute listed on that skill. When the skill gains a level, that attribute goes up by 1. Bonus equals the level on the skill card (Debugger L8 → Intelligence +8).
 
-Not every skill grants attributes. Identify, Analyze, Map Reading and Basic Mathematics show no attribute line at transfer. Mana Sense gains Intelligence (Chapter 4; L4 → +4 Int). **Sleep Resistance** grants **Vitality +1** and **Endurance +1** per level. **Basic Alcohol Resistance** grants **Endurance +1** per level. **Dance** grants **Agility +1**. **Pain Resistance** grants **Willpower +1** and **Endurance +1**.
+Not every skill grants attributes. Identify, Analyze, Map Reading and Basic Mathematics show no attribute line at transfer. Mana Sense gains Intelligence (Chapter 4; L4 → +4 Int). **Sleep Resistance** grants **Vitality +1** and **Endurance +1** per level. **Basic Alcohol Resistance** grants **Endurance +1** per level. **Dance** grants **Agility +1**. **Pain Resistance** grants **Willpower +1** and **Endurance +1**. **Basic Taming** grants **Charisma +1**. **Multitasking** grants **Intelligence +1** and **Dexterity +1**. **Poison Resistance** grants **Vitality +1** and **Endurance +1**.
 
 **Transfer examples (bonus = level)**
 
@@ -348,6 +348,9 @@ Favored attributes for skills Roland trains in Chapters 4–7. Same +1 × level 
 | Mana Reinforcement | Intelligence +1, Willpower +1 |
 | Basic Alcohol Resistance | Endurance +1 |
 | Dance | Agility +1 |
+| Basic Taming | Charisma +1 |
+| Multitasking | Intelligence +1, Dexterity +1 |
+| Poison Resistance | Vitality +1, Endurance +1 |
 | Pain Resistance | Willpower +1, Endurance +1 |
 | Sleep Resistance | Vitality +1, Endurance +1 |
 | Identify | none |

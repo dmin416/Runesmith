@@ -239,7 +239,7 @@ Reinforcement while active: **+90%** of max MP as bonus base stats (L9 × 10%, 9
 
 **Live Ch 10 inn sheet** still shows Vit **41** / End **42** / HP **536** / SP **708** (pre–Sleep-pad retcon). Rewrite target above. Retcon the inn sheet when that chapter is rewritten.
 
-**Ch 12 binge pads (on rewrite stack):** Sleep **L5** (+1 Vit/+1 End vs L4), Alcohol L1 (**End +1**), Dance L1 (**Agi +1**), Pain L1 (**Will +1**, **End +1**) → night **Agi +1 / Vit +1 / End +3 / Will +1**.
+**Ch 12 binge pads (on rewrite stack):** Sleep **L5** (+1 Vit/+1 End vs L4), Alcohol L1 (**End +1**), Dance L1 (**Agi +1**), Pain L1 (**Will +1**, **End +1**) → night **Agi +1 / Vit +1 / End +3 / Will +1**. Floor-2 cook/tame: **Multitasking** L1 (**Int +1**, **Dex +1**); **Poison Resistance** L1 (**Vit +1**, **End +1**); **Basic Taming** L1 (**Cha +1**); **Mana Hands** at least **L7**. Chapter pad total **Agi +1 / Vit +2 / End +4 / Will +1 / Int +1 / Dex +1 / Cha +1**.
 
 ---
 
