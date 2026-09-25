@@ -399,13 +399,11 @@ Class-change crystal recovered. Ambush unfinished.
 
 ## Chapter 14
 
-**Ned:** overall **26** / **4x**, **Greater Needle Worm** (evo jump from watcher kill XP). Sheet: `NedStatus.md`.
-
-## Chapter 14
-
 No full status screen. Damage **8** (cheek) + **31** (calf) + **46** (shoulder) before low-grade healing potion (drink half / pour; seals holes, residual ache). **Dodging L6→L7** mid-chase (**Agi +1**) and **479 XP** from Tier 2 fencer party kill. **Level lock:** fencer overall **L55**; Becky / Sahildr / Reyna overall **~45**; Roland Mage **L25**. Class-change crystal still on him. Confession to party unfinished.
 
-**Rewrite:** **Mage L25** after Dodging L7 (**49/64/59/47/53/137/135/12/7**; HP **629** / MP **2542** / SP **869**; pouch **11,641 LC**).
+**Rewrite:** **Mage L25** after Dodging L7 (**49/64/59/47/53/137/135/12/7**; HP **629** / MP **2542** / SP **869**; pouch **11,641 LC**). Bar after **+479** into Mage L25 bank (cap; banks for class change).
+
+**Ned:** overall **26** / **4x**, **Greater Needle Worm** (evo jump from watcher kill XP). Sheet: `NedStatus.md`.
 
 ## Chapter 15
 

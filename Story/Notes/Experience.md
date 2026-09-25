@@ -213,3 +213,14 @@ On-page: equal money split after sales (no total printed). Locked with `Economy.
 | **End pouch (Not bad)** | **11,641 LC** |
 
 Personal stone bank unchanged: **288** rice + **16** leader.
+
+## Ch 14 watcher kill (people XP)
+
+**People formula:** `50 × overall level`. Fencer locked **L55** → pool **2750**.
+
+| Taker | XP |
+|---|---:|
+| Roland (active mage share) | **479** |
+| Party / Ned / remainder | rest of **2750** |
+
+Roland still **Mage L25** (cap; **+479** banks toward class change). **Ned** takes enough of the people pool to tip overall **25→26** → **Greater Needle Worm** (**4x**). Sheet: `NedStatus.md`. Skill: **Dodging L6→L7** mid-chase (**Agi +1**; SP **866→869**).

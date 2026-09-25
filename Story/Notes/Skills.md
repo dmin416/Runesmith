@@ -497,7 +497,7 @@ Ch 9.5–10 already evolved Running, Climbing, Sneaking, Throwing, Swordsmanship
 ## Chapter 14
 
 Dodging mid-chase popup (**Dodging L6→L7**; plain form after Ch 13 evolve. Source first clear of the skill name was here).
-Uses Mana Shield (screamed overcharge bubble on Reyna vs Gale Step + tip blast; holds a moment then blasts through; buys the graze), Mana Arrow and Mana Bolt in the Tier 2 fencer fight. **Levels:** fencer overall **L55**; girls **~45**; Roland Mage **L25**. Party kill (+479 XP). Still Mage L25.
+Uses Mana Shield (screamed overcharge bubble on Reyna vs Gale Step + tip blast; holds a moment then blasts through; buys the graze), Mana Arrow and Mana Bolt in the Tier 2 fencer fight. Shortsword + dagger fail under speed; Mana Arrow chant fizzles mid-word when shoulder is pierced. **Levels:** fencer overall **L55**; girls **~45**; Roland Mage **L25**. Party kill (+479 XP). Still Mage L25. Ned evo on-page (Greater Needle Worm).
 
 ## Chapter 15
 

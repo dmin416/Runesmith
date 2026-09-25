@@ -81,7 +81,7 @@ Not Greater yet unless a beat pushes him over overall **26** (**+1 → 4x** jump
 
 ## Chapter 14 (watcher kill)
 
-Kill XP from the Tier 2 fencer fight (Ned helped press the skull into Sahildr's hammer) pushes him past the Needle Worm cap. Share of people kill XP (`50 × level` pool). Roland plucks him off the corpse before he eats the flesh; Ned cleans blood on Roland's shoulder. On-page: before the party notices the blood eating, Ned glows, grows larger then smaller, returns with slightly longer and darker spikes (**Greater** evo look).
+Kill XP from the Tier 2 fencer fight (Ned helped press the skull into Sahildr's hammer) pushes him past the Needle Worm cap. Share of people kill XP (`50 × level` pool). Roland plucks him off the corpse before he eats the flesh; Ned cleans blood on Roland's shoulder. On-page: before the party notices the blood eating, Ned glows, grows larger then smaller, returns with slightly longer and darker spikes and harder plates (**Greater** evo look). Reyna notes high Stealth can rarely watch monsters evolve.
 
 **Form:** **Greater Needle Worm** (T2)  
 **Overall:** **26**  

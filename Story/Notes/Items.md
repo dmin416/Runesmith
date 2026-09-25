@@ -200,8 +200,13 @@ Watcher ambush / party rescue. Carry-in from Ch 13.
 
 **Used**
 - **Low-grade healing / recovery potion** – from his bag. Downs half, pours rest on shoulder and calf. Sizzle knit; seals holes; residual muscle ache. Behavior lock: `References/Items.md`.
+- **Shortsword** – fails to catch tip (shoulder pierce).
+- **Throwing dagger** – drawn; no clean hit under speed.
+- **Ned** – living companion; left-arm needle slam then skull press into Sahildr's hammer.
 
 **Gained**
-- Watcher’s heavy detonation **rapier** (kept; tip blast ~**100 MP**). Girls take armor sale + watcher’s spatial bag.
+- Kill XP **+479** (banks at Mage L25 cap).
+- **Dodging L7**.
+- Watcher’s heavy detonation **rapier** kept in Ch 15 loot beat (tip blast ~**100 MP**). Girls take armor sale + watcher’s spatial bag (Ch 15).
 
-**Still carrying after fight / inn:** worn kit, **Ned**, parsleaves / needle-blood stocks, coin pouch (**11,641 LC** until later sales), stone bank, buried class-up crystal, remaining potions if any, **detonation rapier**.
+**Still carrying after fight / into Ch 15 talk:** worn kit, **Ned** (now Greater Needle Worm), parsleaves / needle-blood stocks, coin pouch (**11,641 LC** until later sales), stone bank, buried class-up crystal, remaining potions if any. Rapier claimed next chapter.
