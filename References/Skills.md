@@ -549,7 +549,7 @@ Retain more information and at a faster rate. Bonus to Intelligence +3 and Willp
 
 ### Blessed by Mana
 First seen: Chapter 5
-Unlocked if a person has more than **40** Intelligence after reaching the Mage class at the first ascension ritual. Gives **+10 MP per Mage level** on top of the Mage class’s +20% mana (see Chapter 5–6 status math in `Status.md`). Also described in prose as bonuses to MP after each level up. Intelligence row of the attribute perk table below.
+Unlocked if a person has more than **40** Intelligence after reaching the Mage class at the first ascension ritual. **Narrative only:** better **mana regeneration** (feels easier to top the pool back up). No flat MP per Mage level and no change to the MP formula. Mage class still gives **+20%** max mana and **+15%** mana regen; Blessed is the perk story for why his refill feels strong. Intelligence row of the attribute perk table below.
 
 ## Attribute perks (rewrite)
 
@@ -559,7 +559,7 @@ One named perk per core attribute at **40**. Cha/Luck out unless a later trait s
 |---|---|---|---|
 | Strength | Titan's Back | Carry capacity | 40 |
 | Dexterity | Exacting Motion | Accuracy of body movement | 40 |
-| Intelligence | Blessed by Mana | Mana pool growth per Mage level | 40 + Mage |
+| Intelligence | Blessed by Mana | Mana regeneration (narrative) | 40 + Mage |
 | Willpower | Unbroken Focus | Focus | 40 |
 | Agility | Sure Footing | Balance | 40 |
 | Vitality | Defiance of Years | Reduced aging | 40 |

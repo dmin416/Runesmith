@@ -207,6 +207,6 @@ Watcher ambush / party rescue. Carry-in from Ch 13.
 **Gained**
 - Kill XP **+479** (banks at Mage L25 cap).
 - **Dodging L7**.
-- Watcher’s heavy detonation **rapier** kept in Ch 15 loot beat (tip blast ~**100 MP**). Girls take armor sale + watcher’s spatial bag (Ch 15).
+- Watcher’s heavy detonation **rapier** kept in Ch 15 loot beat. Tip blast **125 MP** (inefficient rune). Shortfall pulls **SP** at **1:1** (1 SP per missing MP). Later Basic Rune Mastery ~**1%** cut (Ch 17 test). Girls take armor sale + watcher’s spatial bag (Ch 15).
 
 **Still carrying after fight / into Ch 15 talk:** worn kit, **Ned** (now Greater Needle Worm), parsleaves / needle-blood stocks, coin pouch (**11,641 LC** until later sales), stone bank, buried class-up crystal, remaining potions if any. Rapier claimed next chapter.

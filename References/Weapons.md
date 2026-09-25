@@ -65,3 +65,13 @@ Rigid tapered point for thrusts into gaps once you are already inside. Built for
 Club leads: close distance, parry, stun or knock a guard open (forearm, collarbone, checked blows). Rondel finishes into the opening (throat, armpit, thigh). Footwork follows reach: steel first at range, dagger second once inside. Do not try to threaten both at equal range at once.
 
 If the rondel sticks (armor, bone, wood), bash the pommel or rear disc with the club heel to drive it the rest of the way through.
+
+## Watcher detonation rapier (Ch 15)
+
+Heavy thrust rapier with an **inefficient lesser tip-detonation** rune.
+
+- **Activation cost (as found):** **125 MP**
+- **Shortfall:** if MP is insufficient the rune finishes from **SP** at **1 SP per missing MP** (same blast; stamina bite)
+- **Useful energy** (cast law, η = 1 until Rune Mastery): `125 × 10 × μ(INT)`. At Roland Ch 13 rewrite INT **137** (μ ≈ **5.87**) → **~7.3 kJ** tip-coupled blast (local wood / soft spoil, not a tree-feller)
+- **Rune Mastery** later cuts the MP share (~**1%** at Basic L1); SP overflow still covers any remainder the same way
+- Why warriors rarely spam it: shallow MP pool + SP drain when the pool bottoms out

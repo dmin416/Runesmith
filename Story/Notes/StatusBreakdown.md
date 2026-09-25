@@ -37,7 +37,7 @@ Per-level packages from `Classes.md` / `Levels.md`. Mage: **+1 Intelligence and 
 | Ch 9.5 | Mage → L20 | climbing | climbing | Town mana grind levels Shaping / Regulation / Incantation / Absorption / Reinforcement |
 | Ch 10 | Mage L20 | +20 | +20 | Inn sheet after timeskip |
 
-Blessed by Mana adds **MP only** (+10 MP per Mage level), not attributes.
+**Blessed by Mana** is narrative mana regen only (no flat MP; no attribute pads).
 
 ### 3. Skills / Traits
 
@@ -52,7 +52,7 @@ Rule: skill attribute bonus = **+1 × current skill level** per favored attribut
 | Knowledge Retention | +3 | +5 |
 | **Trait total** | **+13** | **+10** |
 
-Blessed by Mana: MP only.
+Blessed by Mana: regen narrative only (not in MP math).
 
 #### Transfer skills (levels held constant unless the story levels them)
 
@@ -155,7 +155,7 @@ Same age-10 body and Basics as pre-class. Class +1 Int / +1 Will. Mage grants L1
 | Skills/Traits | 25 | 20 | 34 | 30 | 31 | 52 | 32 | 4 | 0 |
 | **Total** | **40** | **40** | **50** | **44** | **44** | **71** | **58** | **7** | **7** |
 
-MP = ((71×10)+(58×4))×1.2 + 10 Blessed = 942×1.2 + 10 = **1140**.
+MP = ((71×10)+(58×4))×1.2 = 942×1.2 = **1130** (display floors the 0.4).
 
 All seven **40** attribute perks active (Vit/End already past 40 from Sleep pads).
 
@@ -168,7 +168,7 @@ All seven **40** attribute perks active (Vit/End already past 40 from Sleep pads
 | Skills/Traits | 25 | 20 | 34 | 30 | 31 | 52 | 32 | 4 | 0 |
 | **Total** | **40** | **40** | **50** | **44** | **44** | **73** | **60** | **7** | **7** |
 
-MP = ((73×10)+(60×4))×1.2 + 30 Blessed = 970×1.2 + 30 = **1194**.
+MP = ((73×10)+(60×4))×1.2 = 970×1.2 = **1164**.
 
 Guild measuring crystal (Ch 8) uses this block. Estate Mage weekly doubles leave the XP bar at **1250 / 1500**. First paid hunt (Ch 9) levels **L3 → L4** (overflow **13 / 2000**, then **118 / 2000** after two more kills).
 
@@ -181,7 +181,7 @@ Guild measuring crystal (Ch 8) uses this block. Estate Mage weekly doubles leave
 | Skills/Traits | 25 | 20 | 34 | 30 | 31 | 52 | 32 | 4 | 0 |
 | **Total** | **40** | **40** | **50** | **44** | **44** | **74** | **61** | **7** | **7** |
 
-MP = ((74×10)+(61×4))×1.2 + 40 Blessed = 984×1.2 + 40 = **1220.8 → 1221**.
+MP = ((74×10)+(61×4))×1.2 = 984×1.2 = **1180.8 → 1181**.
 
 ### Mage L5 — full stack, still age-10 body (later hunt levels)
 
@@ -192,7 +192,7 @@ MP = ((74×10)+(61×4))×1.2 + 40 Blessed = 984×1.2 + 40 = **1220.8 → 1221**.
 | Skills/Traits | 25 | 20 | 34 | 30 | 31 | 52 | 32 | 4 | 0 |
 | **Total** | **40** | **40** | **50** | **44** | **44** | **75** | **62** | **7** | **7** |
 
-MP = ((75×10)+(62×4))×1.2 + 50 Blessed = 998×1.2 + 50 = **1248**.
+MP = ((75×10)+(62×4))×1.2 = 998×1.2 = **1197.6 → 1198**.
 
 ### Mage L20 (Ch 10) — skill ranks after Ch 9.5
 
@@ -230,7 +230,7 @@ Skills/Traits Will = pre-mage pile **28** + **6** + **14** + **6** + **18** + **
 | **Total** | **46** | **50** | **56** | **45** | **46** | **129** | **127** | **11** | **7** |
 
 HP = Vit×10 + End×3 = 450 + 138 = **588**.
-MP = ((129×10)+(127×4))×1.2 + 200 Blessed = 1798×1.2 + 200 = **2358**.
+MP = ((129×10)+(127×4))×1.2 = 1798×1.2 = **2157.6 → 2158**.
 SP = End×10 + Str×3 + Agi×3 = 460 + 138 + 150 = **748**.
 
 Reinforcement while active: **+90%** of max MP as bonus base stats (L9 × 10%, 90% cap). Drops when MP is empty.
@@ -259,7 +259,7 @@ Enter Ch 13 as post–Ch 12 stack still **Mage L20**, then **+5** Mage packages 
 | **Total** | **49** | **63** | **59** | **47** | **53** | **137** | **135** | **12** | **7** |
 
 HP = 470 + 159 = **629**.
-MP = ((137×10)+(135×4))×1.2 + 250 Blessed = 2292 + 250 = **2542**.
+MP = ((137×10)+(135×4))×1.2 = **2292**.
 SP = 530 + 147 + 189 = **866**.
 
 **Ch 14:** **Dodging L6→L7** mid-chase (**Agi +1**). Sheet **49/64/59/47/53/137/135/12/7**; SP **869**.
@@ -277,25 +277,25 @@ Pouch at `"*Not bad.*"`: **11,641 LC** (`Experience.md`). Skill ranks and kill s
 | Ch 2 | Int 41 / Will 18 | Int **42** / Will **25** (new mental body) |
 | Ch 4–5 | Body physicals + transfer Dex + old mental seeds | + Basic STR/AGI/DEX/END pile + rising Int/Will body |
 | Ch 6–8 | Above + Mage packages | Same debts |
-| Ch 10 | Inn sheet **matches** Mage L20 block above | Synced (HP **536** / MP **2358** / SP **708**; Vit/End live still pre–Sleep retcon) |
-| Ch 13 | Mage L25 rewrite (**49/63/59/47/53/137/135/12/7**; HP **629** / MP **2542** / SP **866**) | Synced (chapter + `Status.md`) |
+| Ch 10 | Inn sheet **matches** Mage L20 block above | Synced (HP **536** / MP **2158** / SP **708**; Vit/End live still pre–Sleep retcon) |
+| Ch 13 | Mage L25 rewrite (**49/63/59/47/53/137/135/12/7**; HP **629** / MP **2292** / SP **866**) | Synced (chapter + `Status.md`) |
 
 ### Post–Ch 13 rewrite checkpoints (delta method)
 
-Method: Source live growth from Ch 13 Source sheet → later live full sheet, applied to the **Ch 13 rewrite** baseline. Luck stays rewrite seed **7**. Mage secondary keeps **×1.2** mana + Blessed **+250** MP. Full Live + Rewrite blocks: `Status.md`.
+Method: Source live growth from Ch 13 Source sheet → later live full sheet, applied to the **Ch 13 rewrite** baseline. Luck stays rewrite seed **7**. Mage secondary keeps **×1.2** mana. **Blessed by Mana** is regen narrative only (not in MP). Full Live + Rewrite blocks: `Status.md`.
 
 | Ch | Overall | Main | Rewrite (Str/Agi/Dex/Vit/End/Int/Will/Cha/Luck) | HP / MP / SP |
 |---|---|---|---|---|
-| 13 | L25 | Mage L25 | **49/63/59/47/53/137/135/12/7** | **629 / 2542 / 866** |
-| 14 | L25 | Mage L25 | **49/64/59/47/53/137/135/12/7** | **629 / 2542 / 869** |
-| 17 | L28 | Scribe L3 | **49/64/62/48/53/140/138/12/7** | **639 / 2592 / 869** |
-| 23 | L35 | Scribe L10 | **50/65/71/51/55/147/145/13/7** | **675 / 2710 / 895** |
-| 27 | L45 | Scribe L20 | **51/66/84/52/57/157/154/14/7** | **691 / 2873 / 921** |
-| 34 | L50 | Scribe L25 | **53/68/91/54/58/162/158/14/7** | **714 / 2952 / 943** |
-| 47 | L69 | Blacksmith L19 | **77/73/99/74/87/171/178/16/7** | **1001 / 3156 / 1320** |
-| 62 | L70 | Blacksmith L20 | **78/73/100/75/88/171/179/16/7** | **1014 / 3161 / 1333** |
-| 68 | L71 | Blacksmith L21 | **79/73/101/76/88/172/180/16/7** | **1024 / 3178 / 1336** |
-| 77 | L75 | Blacksmith L25 | **83/75/106/81/95/175/185/17/7** | **1095 / 3238 / 1424** |
+| 13 | L25 | Mage L25 | **49/63/59/47/53/137/135/12/7** | **629 / 2292 / 866** |
+| 14 | L25 | Mage L25 | **49/64/59/47/53/137/135/12/7** | **629 / 2292 / 869** |
+| 17 | L28 | Scribe L3 | **49/64/62/48/53/140/138/12/7** | **639 / 2342 / 869** |
+| 23 | L35 | Scribe L10 | **50/65/71/51/55/147/145/13/7** | **675 / 2460 / 895** |
+| 27 | L45 | Scribe L20 | **51/66/84/52/57/157/154/14/7** | **691 / 2623 / 921** |
+| 34 | L50 | Scribe L25 | **53/68/91/54/58/162/158/14/7** | **714 / 2702 / 943** |
+| 47 | L69 | Blacksmith L19 | **77/73/99/74/87/171/178/16/7** | **1001 / 2906 / 1320** |
+| 62 | L70 | Blacksmith L20 | **78/73/100/75/88/171/179/16/7** | **1014 / 2911 / 1333** |
+| 68 | L71 | Blacksmith L21 | **79/73/101/76/88/172/180/16/7** | **1024 / 2928 / 1336** |
+| 77 | L75 | Blacksmith L25 | **83/75/106/81/95/175/185/17/7** | **1095 / 2988 / 1424** |
 
 Chapters without full sheets inherit the prior rewrite checkpoint (see `Status.md`). Retcon Live blocks when those chapters are rewritten.
 

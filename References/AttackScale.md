@@ -148,3 +148,6 @@ Voice sets mana (Bolt normal **25**, Arrow **2×** Bolt). Overcharge = mana used
 2. **What shape is the shield?** Disk vs bubble can be a **5–6×** pool gap.
 3. **Is a skill multiplying speed?** `k` on tip speed squares into KE.
 4. **N = 0** means pierce. **N ≥ 1** means that whole attack is eaten (then the pool drops for the next).
+
+Mage vs 2x physicalist (Mana Hands redirects, timing, energy): `MageDefense.md`.  
+**3x** tissue vs piercing depth / blunt survival: same file (`3x Everything`).

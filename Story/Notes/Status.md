@@ -175,7 +175,7 @@ Class gained mid-chapter: **Tier 1 Mage L1**. Unlocks: Basic Mana Shaping L1 (**
 
 Pre-class Int **66** / Will **53** → + class (+1/+1) + mage-grant skill pads (+4 Int / +4 Will) → Int **71** / Will **58**.
 
-MP check: ((71 × 10) + (58 × 4)) = 942; ×1.2 = 1130.4 → 1130; +10 Blessed = **1140**.
+MP check: ((71 × 10) + (58 × 4)) = 942; ×1.2 = 1130.4 → **1130** (Blessed by Mana = regen narrative only).
 
 ```
 ════════ STATUS ════════
@@ -183,7 +183,7 @@ Name:       Roland Arden
 Class:      Mage L1
 
 HP               520/520
-MP              1140/1140
+MP              1130/1130
 SP               640/640
 
 Strength              40
@@ -219,9 +219,9 @@ Mage L3 after pre-ascension XP applies. Runesmith plan approved with conditions 
 
 Weekly estate goblin fights after the age-9 bravery test filled the pre-class XP bank. That bank applies **once** at first ascension only.
 
-**Live (chapter):** Mage L3 on age-10 full stack. Class +3 Int / +3 Will. Mage grants still L1: +4 Int / +4 Will from Shaping/Regulation/Incantation. Mage +20% MP and +15% regen. Blessed by Mana +10 MP × 3 Mage levels. All seven 40 perks.
+**Live (chapter):** Mage L3 on age-10 full stack. Class +3 Int / +3 Will. Mage grants still L1: +4 Int / +4 Will from Shaping/Regulation/Incantation. Mage +20% MP and +15% regen. Blessed by Mana = stronger mana regen (narrative). All seven 40 perks.
 
-MP check: ((73 × 10) + (60 × 4)) = 970; ×1.2 = 1164; +30 Blessed = **1194**.
+MP check: ((73 × 10) + (60 × 4)) = 970; ×1.2 = **1164** (Blessed = regen narrative only).
 
 ```
 ════════ STATUS ════════
@@ -229,7 +229,7 @@ Name:       Roland Arden
 Class:      Mage L3
 
 HP               520/520
-MP              1194/1194
+MP              1164/1164
 SP               640/640
 
 Strength              40
@@ -260,9 +260,9 @@ No new full attribute status screen. No class level shown this chapter. Still Ma
 
 Bronze Adventurer. Guild measuring crystal reads full sheet (confidential to guild). Registers first name **Roland** only on the card. Looks ~**150 cm** / ~12–13 to staff.
 
-**Live (chapter):** same Mage L3 rewrite stack as Ch 6. Class +3 Int / +3 Will. Mage grants still L1 pads (+4 Int / +4 Will). Mage ×1.2 MP. Blessed +10 MP × 3. Source orb was Mage L5 on the old low sheet. Off-page bar still **1250 / 1500** from estate Mage doubles (not shown on the orb block).
+**Live (chapter):** same Mage L3 rewrite stack as Ch 6. Class +3 Int / +3 Will. Mage grants still L1 pads (+4 Int / +4 Will). Mage ×1.2 MP. Blessed = regen narrative only. Source orb was Mage L5 on the old low sheet. Off-page bar still **1250 / 1500** from estate Mage doubles (not shown on the orb block).
 
-MP check: ((73 × 10) + (60 × 4)) = 970; ×1.2 = 1164; +30 Blessed = **1194**.
+MP check: ((73 × 10) + (60 × 4)) = 970; ×1.2 = **1164** (Blessed = regen narrative only).
 
 ```
 ════════ STATUS ════════
@@ -270,7 +270,7 @@ Name:       Roland Arden
 Class:      Mage L3
 
 HP               520/520
-MP              1194/1194
+MP              1164/1164
 SP               640/640
 
 Strength              40
@@ -295,7 +295,7 @@ No full status screen. First adventurer hunt levels Mage **L3 → L4** on the **
 
 XP bar: enter **1250 / 1500** (estate Mage doubles). Kills **52 / 53 / 51 / 53 / 54** (**263**) → level-up; overflow **13 / 2000**. Two more tree kills **52 / 53** (**+105**) → **118 / 2000**.
 
-Class package at L4: +4 Int / +4 Will vs L3’s +3. Blessed +10 MP × 4. No on-page attribute sheet.
+Class package at L4: +4 Int / +4 Will vs L3’s +3. Blessed = regen narrative only. No on-page attribute sheet.
 
 **Coin (LC):** enter **795** (after Ch 8 gate + card). Spend meal **5** + map **10**. Income ears **35** + stones **60** (= **95** turn-in). End **875 LC**.
 
@@ -305,11 +305,11 @@ XP shown matches `49 + monster level` (L2=51 … L5=54). Source used ~15–20 pe
 
 ## Chapter 9.5
 
-Three-month rewrite grind (Source has no separate chapter; Ch 10 opens already at L20). **1,481** goblin kills; lifetime **1,569**. Field-use curve in `Levels.md`; end ranks in `Skills.md` Ch 9.5. **L9 hard cap until first T2.** Absorption / Reinforcement cycle whenever mana is spent → both **L9** (Reinforcement self-taught from ambient→body store, not a book). Also: Shaping **L6**, Regulation **L7**, Incantation **L6**, Bolt **L7**, Arrow **L5**, Shield **L3**, Hand to Hand / Leather / Sprint stay **Basic L9**; Running / Climbing / Sneaking / Throwing / Swordsmanship → **plain L1**; Marksmanship → **Expert Marksmanship L1**; **Basic Dodging L6**. Ember **L6** / Hands **L5** (evenings). End **Mage L20** → Int **129** / Will **127** / MP **2358**; physicals **46/50/56/41/42**; HP **536** / SP **708**. Evolve pads **additive** (Basic L9 stay + Level 2 L1 + free points). Month beats: ~L11–12 + Arrow + Dodging; ~L16–17 + Shield + nickname; L20 + Goblin Hunter (past **1000** kills). Coin end **6,000 LC**; stones **286** rice-grain + **16** leader (kept after Ch 9 day one). Food: inn breakfast+dinner; **3** jerky bought; other lunches = goblin prey. Cloak **300 LC**. Ledger: `Experience.md`.
+Three-month rewrite grind (Source has no separate chapter; Ch 10 opens already at L20). **1,481** goblin kills; lifetime **1,569**. Field-use curve in `Levels.md`; end ranks in `Skills.md` Ch 9.5. **L9 hard cap until first T2.** Absorption / Reinforcement cycle whenever mana is spent → both **L9** (Reinforcement self-taught from ambient→body store, not a book). Also: Shaping **L6**, Regulation **L7**, Incantation **L6**, Bolt **L7**, Arrow **L5**, Shield **L3**, Hand to Hand / Leather / Sprint stay **Basic L9**; Running / Climbing / Sneaking / Throwing / Swordsmanship → **plain L1**; Marksmanship → **Expert Marksmanship L1**; **Basic Dodging L6**. Ember **L6** / Hands **L5** (evenings). End **Mage L20** → Int **129** / Will **127** / MP **2158**; physicals **46/50/56/41/42**; HP **536** / SP **708**. Evolve pads **additive** (Basic L9 stay + Level 2 L1 + free points). Month beats: ~L11–12 + Arrow + Dodging; ~L16–17 + Shield + nickname; L20 + Goblin Hunter (past **1000** kills). Coin end **6,000 LC**; stones **286** rice-grain + **16** leader (kept after Ch 9 day one). Food: inn breakfast+dinner; **3** jerky bought; other lunches = goblin prey. Cloak **300 LC**. Ledger: `Experience.md`.
 
 ## Chapter 10
 
-**Present day after Ch 9.5.** Title **Goblin Hunter**. Nickname Little Goblin Slayer (grins through mascot ribbing). Nest opener then guild turn-in before the inn sheet. Mage L20 live sheet at the inn (beef jerky) matches rewrite Ch 10 block in `StatusBreakdown.md` (Int **129** / Will **127** / MP **2358**; physicals **46/50/56/41/42**; HP **536**; SP **708**; Cha **11** / Luck **7**). Rents upstairs room at the Chapter 9 inn. Armor/sword already long repaired. Plans Mana Scribe first (magic-track lean; no elemental path for pure Mage), then Blacksmith; next city **Edelgard**. Clumsy Arden watcher in town. Joins Becky / Sahildr / Reyna for dungeon (age dodge: answers **Roughly** to 11-or-12; will not admit **10**).
+**Present day after Ch 9.5.** Title **Goblin Hunter**. Nickname Little Goblin Slayer (grins through mascot ribbing). Nest opener then guild turn-in before the inn sheet. Mage L20 live sheet at the inn (beef jerky) matches rewrite Ch 10 block in `StatusBreakdown.md` (Int **129** / Will **127** / MP **2158**; physicals **46/50/56/41/42**; HP **536**; SP **708**; Cha **11** / Luck **7**). Rents upstairs room at the Chapter 9 inn. Armor/sword already long repaired. Plans Mana Scribe first (magic-track lean; no elemental path for pure Mage), then Blacksmith; next city **Edelgard**. Clumsy Arden watcher in town. Joins Becky / Sahildr / Reyna for dungeon (age dodge: answers **Roughly** to 11-or-12; will not admit **10**).
 
 **Coin / stones:** enter **6,000 LC** / **286** rice + **16** leader → nest ears **+35 LC** / **+2** rice → end **6,035 LC** / **288** rice + **16** leader (`Experience.md`).
 
@@ -327,7 +327,7 @@ Name:       Roland Arden
 Class:      Mage L20
 
 HP               536/536
-MP              2358/2358
+MP              2158/2158
 SP               708/708
 
 Strength              46
@@ -342,7 +342,7 @@ Luck                   7
 ════════════════════════
 ```
 
-Rewrite stack applied: HP = Vit×10+End×3; SP = End×10+Str×3+Agi×3; MP = ((Int×10)+(Will×4))×1.2 + 200 Blessed. Cha body rises with age (seed **3** through childhood → **7** by Ch 10 / ~age 10–11); Acting still **+4**.
+Rewrite stack applied: HP = Vit×10+End×3; SP = End×10+Str×3+Agi×3; MP = ((Int×10)+(Will×4))×1.2 (Blessed = regen narrative only). Cha body rises with age (seed **3** through childhood → **7** by Ch 10 / ~age 10–11); Acting still **+4**.
 
 ## Chapter 11
 
@@ -376,7 +376,7 @@ Name:       Roland Arden
 Class:      Mage L25
 
 HP               629/629
-MP              2542/2542
+MP              2292/2292
 SP               866/866
 
 Strength              49
@@ -401,13 +401,13 @@ Class-change crystal recovered. Ambush unfinished.
 
 No full status screen. Damage **8** (cheek) + **31** (calf) + **46** (shoulder) before low-grade healing potion (drink half / pour; seals holes, residual ache). **Dodging L6→L7** mid-chase (**Agi +1**) and **479 XP** from Tier 2 fencer party kill. **Level lock:** fencer overall **L55**; Becky / Sahildr / Reyna overall **~45**; Roland Mage **L25**. Class-change crystal still on him. Confession to party unfinished.
 
-**Rewrite:** **Mage L25** after Dodging L7 (**49/64/59/47/53/137/135/12/7**; HP **629** / MP **2542** / SP **869**; pouch **11,641 LC**). Bar after **+479** into Mage L25 bank (cap; banks for class change).
+**Rewrite:** **Mage L25** after Dodging L7 (**49/64/59/47/53/137/135/12/7**; HP **629** / MP **2292** / SP **869**; pouch **11,641 LC**). Bar after **+479** into Mage L25 bank (cap; banks for class change).
 
 **Ned:** overall **26** / **4x**, **Greater Needle Worm** (evo jump from watcher kill XP). Sheet: `NedStatus.md`.
 
 ## Chapter 15
 
-No full status screen. Gains **1000 XP** from Lesser Detonation Rune [Highest] schematic. Title: **Runic Scholar**. Rapier tip blast ~100 MP. Class-change crystal still unused.
+No full status screen. Gains **1000 XP** from Lesser Detonation Rune [Highest] schematic. Title: **Runic Scholar**. Rapier tip blast **125 MP** (SP overflow 1:1 if MP short). Class-change crystal still unused.
 
 **Rewrite:** inherits Ch 14 Mage L25 rewrite sheet (**Dodging L7**). Schematic XP banks toward class change (half cut on switch).
 
@@ -448,7 +448,7 @@ Luck                   8
 ════════════════════════
 ```
 
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana + Blessed **+250** MP; Luck seed **7**):
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana (Blessed = regen narrative only); Luck seed **7**):
 
 ```
 ════════ STATUS ════════
@@ -460,7 +460,7 @@ T1 Mage L25              [Secondary]
 T1 Runic Mana Scribe L3  [Main]
 
 HP               639/639
-MP              2592/2592
+MP              2342/2342
 SP               869/869
 
 Strength              49
@@ -538,7 +538,7 @@ Luck                   8
 ════════════════════════
 ```
 
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana + Blessed **+250** MP; Luck seed **7**):
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana (Blessed = regen narrative only); Luck seed **7**):
 
 ```
 ════════ STATUS ════════
@@ -550,7 +550,7 @@ T1 Mage L25               [Secondary]
 T1 Runic Mana Scribe L10  [Main]
 
 HP               675/675
-MP              2710/2710
+MP              2460/2460
 SP               895/895
 
 Strength              50
@@ -616,7 +616,7 @@ Luck                   8
 ════════════════════════
 ```
 
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana + Blessed **+250** MP; Luck seed **7**):
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana (Blessed = regen narrative only); Luck seed **7**):
 
 ```
 ════════ STATUS ════════
@@ -628,7 +628,7 @@ T1 Mage L25               [Secondary]
 T1 Runic Mana Scribe L20  [Main]
 
 HP               691/691
-MP              2873/2873
+MP              2623/2623
 SP               921/921
 
 Strength              51
@@ -710,7 +710,7 @@ Luck                   8
 ════════════════════════
 ```
 
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana + Blessed **+250** MP; Luck seed **7**):
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana (Blessed = regen narrative only); Luck seed **7**):
 
 ```
 ════════ STATUS ════════
@@ -722,7 +722,7 @@ T1 Mage L25               [Secondary]
 T1 Runic Mana Scribe L25  [Main]
 
 HP               714/714
-MP              2952/2952
+MP              2702/2702
 SP               943/943
 
 Strength              53
@@ -741,7 +741,7 @@ Luck                   7
 
 Class change: Runic Blacksmith. No full attribute sheet. MP drops to 1% then +200 from mana potion. Secondary class swap available once/day. Lost Scribe mana-regen bonus when Blacksmith is main. Ladle of Lesser Fire Resistance [Lesser: Lowest, High].
 
-**Rewrite:** Scribe caps at **L25 [X]**; Blacksmith starts **L1** main. Packages switch to **Str/End/Dex +1** per Blacksmith level. Mage secondary may stay for mana ×1.2 + Blessed. Full sheet next major checkpoint Ch 47.
+**Rewrite:** Scribe caps at **L25 [X]**; Blacksmith starts **L1** main. Packages switch to **Str/End/Dex +1** per Blacksmith level. Mage secondary may stay for mana ×1.2 (Blessed = regen narrative only). Full sheet next major checkpoint Ch 47.
 
 ## Chapter 36
 
@@ -841,7 +841,7 @@ Luck                   8
 ════════════════════════
 ```
 
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana + Blessed **+250** MP; Luck seed **7**):
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana (Blessed = regen narrative only); Luck seed **7**):
 
 ```
 ════════ STATUS ════════
@@ -854,7 +854,7 @@ T1 Runic Mana Scribe L25  [X]
 T1 Runic Blacksmith L19   [Main]
 
 HP               1001/1001
-MP              3156/3156
+MP              2906/2906
 SP               1320/1320
 
 Strength              77
@@ -987,7 +987,7 @@ Luck                   8
 ════════════════════════
 ```
 
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana + Blessed **+250** MP; Luck seed **7**):
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana (Blessed = regen narrative only); Luck seed **7**):
 
 ```
 ════════ STATUS ════════
@@ -1000,7 +1000,7 @@ T1 Runic Mana Scribe L25  [X]
 T1 Runic Blacksmith L20   [Main]
 
 HP               1014/1014
-MP              3161/3161
+MP              2911/2911
 SP               1333/1333
 
 Strength              78
@@ -1073,7 +1073,7 @@ Luck                   8
 ════════════════════════
 ```
 
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana + Blessed **+250** MP; Luck seed **7**):
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana (Blessed = regen narrative only); Luck seed **7**):
 
 ```
 ════════ STATUS ════════
@@ -1086,7 +1086,7 @@ T1 Runic Mana Scribe L25  [X]
 T1 Runic Blacksmith L21   [Main]
 
 HP               1024/1024
-MP              3178/3178
+MP              2928/2928
 SP               1336/1336
 
 Strength              79
@@ -1181,7 +1181,7 @@ Luck                   8
 ════════════════════════
 ```
 
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana + Blessed **+250** MP; Luck seed **7**):
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana (Blessed = regen narrative only); Luck seed **7**):
 
 ```
 ════════ STATUS ════════
@@ -1194,7 +1194,7 @@ T1 Runic Mana Scribe L25  [X]
 T1 Runic Blacksmith L25   [Main]
 
 HP               1095/1095
-MP              3238/3238
+MP              2988/2988
 SP               1424/1424
 
 Strength              83

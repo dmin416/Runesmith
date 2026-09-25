@@ -193,7 +193,7 @@ Class: Tier 1 Mage (chosen Yes/No on the PC sprite). Unlocked mid-tutorial when 
 
 Prose: he feels the skills and the spell land; stats rise (Mage L1 package +1 Int/+1 Will, plus the three skill pads: +4 Int / +4 Will total from grants). Crystal dusts after return.
 
-**Mage L1 displayed:** Int **71**, Will **58**, MP **1140** (see `Status.md`). All seven **40** attribute perks active (Blessed by Mana with Mage; others from age-10 Basics).
+**Mage L1 displayed:** Int **71**, Will **58**, MP **1130** (see `Status.md`). All seven **40** attribute perks active (Blessed by Mana with Mage; others from age-10 Basics).
 
 ### Traits
 
@@ -255,7 +255,7 @@ All seven **40** perks shown with the Mage skills menu (Blessed by Mana plus the
 ════════ TRAITS ════════
 Blessed by Mana      Trait
 Unlocked if a person has more than 40 intelligence after reaching the mage class
-at the first ascension ritual, gives bonuses to MP after each level up (+10 MP per Mage level on the sheet).
+at the first ascension ritual, gives stronger mana regeneration (narrative; no flat MP on the sheet).
 
 Titan's Back         Trait
 Strength 40. Carry capacity.

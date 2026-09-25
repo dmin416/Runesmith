@@ -21,7 +21,7 @@ Dungeon **floors** are also called levels in prose. Those are places, not this s
 - Awards a **class package**: fixed favored attributes each get points (Tier 1 usually **+1 per favored attribute**).
 - The active tier’s **growth rate** scales that package (forward-only). See packages and math below.
 - Recalculates HP / SP / MP from attributes (see `Attributes.md`). Class bonuses (e.g. Mage +20% mana) apply on top.
-- Traits can add extra on level-up (e.g. **Blessed by Mana**: extra MP each Mage level, on top of Int/Will gains).
+- Traits can add extra on level-up when the trait says so. **Blessed by Mana** is narrative mana regen only (no flat MP per Mage level).
 - Fills toward the class **level cap**. At cap you need a class change / next class, not more levels in the same slot.
 
 Chapter screens stay truth when numbers appear. Packages below are the rewrite planning defaults.
@@ -465,7 +465,7 @@ World name is **Willpower**, not Wisdom.
 
 Luck and Charisma stay out of growth-rate scaling unless a class or trait says otherwise. Small Cha bumps in early sheets are skill / story noise, not Mage package.
 
-**Check vs early rewrite sheets (Mage):** L5→L25 over 20 levels gained about +26 Int and +29 Will (~+1.3 / +1.45 per level). Baseline +1/+1 plus Blessed by Mana, skill bonuses and training accounts for the extras. Close enough to keep +1/+1 as the class package.
+**Check vs early rewrite sheets (Mage):** L5→L25 over 20 levels gained about +26 Int and +29 Will (~+1.3 / +1.45 per level). Baseline +1/+1 plus skill bonuses and training accounts for the extras. Close enough to keep +1/+1 as the class package.
 
 ---
 
