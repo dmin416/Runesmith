@@ -366,7 +366,7 @@ No full status screen. Gains **Basic Alcohol Resistance** L1 (**Endurance +1**) 
 
 ## Chapter 13
 
-Mage L25 at cap. Basic Calligraphy L9 reached. Half-year Floor-3 slate: `Experience.md` (**1,102** kills; **51,734 XP**; pouch **11,641 LC** at Not bad). Skill ranks: `Skills.md` Ch 13.
+Mage L25 at cap. Basic Calligraphy L9 reached. Half-year Floor-3 slate: `Experience.md` (**1,102** kills; **52,334 XP**; pouch **11,641 LC** at Not bad). Skill ranks: `Skills.md` Ch 13. **Basic Dodging → Dodging L6**.
 
 **Live (chapter)** — rewrite Mage L25 sheet (`StatusBreakdown.md`):
 
@@ -377,10 +377,10 @@ Class:      Mage L25
 
 HP               629/629
 MP              2542/2542
-SP               842/842
+SP               866/866
 
 Strength              49
-Agility               55
+Agility               63
 Dexterity             59
 Vitality              47
 Endurance             53
@@ -399,15 +399,19 @@ Class-change crystal recovered. Ambush unfinished.
 
 ## Chapter 14
 
-No full status screen. Damage **8** (cheek) + **31** (calf) + **46** (shoulder) before low-grade potion recovery (drink + pour; slow tick). Dodging rank-up mid-chase (**Basic Dodging** owned since Ch 9.5) and **479 XP** from Tier 2 fencer party kill. Class-change crystal still on him. Confession to party unfinished.
+**Ned:** overall **26** / **4x**, **Greater Needle Worm** (evo jump from watcher kill XP). Sheet: `NedStatus.md`.
 
-**Rewrite:** still **Mage L25** rewrite sheet from Ch 13 (Str **49** / Int **137** / HP **629** / MP **2542** / SP **842**; pouch **11,641 LC**). No attribute package this chapter.
+## Chapter 14
+
+No full status screen. Damage **8** (cheek) + **31** (calf) + **46** (shoulder) before low-grade healing potion (drink half / pour; seals holes, residual ache). **Dodging L6→L7** mid-chase (**Agi +1**) and **479 XP** from Tier 2 fencer party kill. **Level lock:** fencer overall **L55**; Becky / Sahildr / Reyna overall **~45**; Roland Mage **L25**. Class-change crystal still on him. Confession to party unfinished.
+
+**Rewrite:** **Mage L25** after Dodging L7 (**49/64/59/47/53/137/135/12/7**; HP **629** / MP **2542** / SP **869**; pouch **11,641 LC**).
 
 ## Chapter 15
 
 No full status screen. Gains **1000 XP** from Lesser Detonation Rune [Highest] schematic. Title: **Runic Scholar**. Rapier tip blast ~100 MP. Class-change crystal still unused.
 
-**Rewrite:** inherits Ch 13 / Ch 14 Mage L25 rewrite sheet. Schematic XP banks toward class change (half cut on switch).
+**Rewrite:** inherits Ch 14 Mage L25 rewrite sheet (**Dodging L7**). Schematic XP banks toward class change (half cut on switch).
 
 ## Chapter 16
 
@@ -459,10 +463,10 @@ T1 Runic Mana Scribe L3  [Main]
 
 HP               639/639
 MP              2592/2592
-SP               845/845
+SP               869/869
 
 Strength              49
-Agility               56
+Agility               64
 Dexterity             62
 Vitality              48
 Endurance             53
@@ -549,10 +553,10 @@ T1 Runic Mana Scribe L10  [Main]
 
 HP               675/675
 MP              2710/2710
-SP               871/871
+SP               895/895
 
 Strength              50
-Agility               57
+Agility               65
 Dexterity             71
 Vitality              51
 Endurance             55
@@ -627,10 +631,10 @@ T1 Runic Mana Scribe L20  [Main]
 
 HP               691/691
 MP              2873/2873
-SP               897/897
+SP               921/921
 
 Strength              51
-Agility               58
+Agility               66
 Dexterity             84
 Vitality              52
 Endurance             57
@@ -721,10 +725,10 @@ T1 Runic Mana Scribe L25  [Main]
 
 HP               714/714
 MP              2952/2952
-SP               919/919
+SP               943/943
 
 Strength              53
-Agility               60
+Agility               68
 Dexterity             91
 Vitality              54
 Endurance             58
@@ -853,10 +857,10 @@ T1 Runic Blacksmith L19   [Main]
 
 HP               1001/1001
 MP              3156/3156
-SP               1296/1296
+SP               1320/1320
 
 Strength              77
-Agility               65
+Agility               73
 Dexterity             99
 Vitality              74
 Endurance             87
@@ -999,10 +1003,10 @@ T1 Runic Blacksmith L20   [Main]
 
 HP               1014/1014
 MP              3161/3161
-SP               1309/1309
+SP               1333/1333
 
 Strength              78
-Agility               65
+Agility               73
 Dexterity             100
 Vitality              75
 Endurance             88
@@ -1085,10 +1089,10 @@ T1 Runic Blacksmith L21   [Main]
 
 HP               1024/1024
 MP              3178/3178
-SP               1312/1312
+SP               1336/1336
 
 Strength              79
-Agility               65
+Agility               73
 Dexterity             101
 Vitality              76
 Endurance             88
@@ -1193,10 +1197,10 @@ T1 Runic Blacksmith L25   [Main]
 
 HP               1095/1095
 MP              3238/3238
-SP               1400/1400
+SP               1424/1424
 
 Strength              83
-Agility               67
+Agility               75
 Dexterity             106
 Vitality              81
 Endurance             95

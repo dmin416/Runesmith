@@ -192,4 +192,16 @@ Half-year Floor-3 run. Companion named **Ned**. Kill / XP / haul / pouch locks: 
 - **Ned needles** – occasional harvest from ever-growing spikes (spice / materials; still sell poorly if sold).
 - **Ned blood** – occasional harvest (cumin-like paralytic seasoning stock from Ch 12 use).
 
-**Still carrying (mid Ch 13 before watcher fight):** kit after half-year wear (sword repairs; boots wore down; leather cracked), **Ned**, dried **parsleaves**, occasional needle/blood stocks, coin pouch (**11,641 LC**), **288** rice-grain + **16** leader mana stones, buried class-up crystal.
+**Still carrying (mid Ch 13 before watcher fight):** kit after half-year wear (sword repairs; boots wore down; leather cracked), **Ned**, dried **parsleaves**, occasional needle/blood stocks, coin pouch (**11,641 LC**), **288** rice-grain + **16** leader mana stones, buried class-up crystal, **low-grade healing / recovery potions** in bag (at least one used Ch 14).
+
+## Chapter 14
+
+Watcher ambush / party rescue. Carry-in from Ch 13.
+
+**Used**
+- **Low-grade healing / recovery potion** – from his bag. Downs half, pours rest on shoulder and calf. Sizzle knit; seals holes; residual muscle ache. Behavior lock: `References/Items.md`.
+
+**Gained**
+- Watcher’s heavy detonation **rapier** (kept; tip blast ~**100 MP**). Girls take armor sale + watcher’s spatial bag.
+
+**Still carrying after fight / inn:** worn kit, **Ned**, parsleaves / needle-blood stocks, coin pouch (**11,641 LC** until later sales), stone bank, buried class-up crystal, remaining potions if any, **detonation rapier**.

@@ -249,18 +249,20 @@ Enter Ch 13 as post–Ch 12 stack still **Mage L20**, then **+5** Mage packages 
 
 **Class L20→L25:** Int **+5**, Will **+5**.
 
-**Ch 13 skill pads:** Sword **L1→L4** Str **+3**; Dodging **L6→L8** Agi **+2**; Sneaking **L1→L3** Agi **+2**; Throwing **L1→L3** Dex **+2**; Incantation **L6→L8** Int **+2** Will **+2**; Alcohol **L1→L4** End **+3**.
+**Ch 13 skill pads:** Sword **L1→L4** Str **+3**; Dodging tree Agi **+10** (Basic **L6→L9** + evolve free Agi + **Dodging L1→L6**); Sneaking **L1→L3** Agi **+2**; Throwing **L1→L3** Dex **+2**; Incantation **L6→L8** Int **+2** Will **+2**; Alcohol **L1→L4** End **+3**.
 
 | Bucket | STR | AGI | DEX | VIT | END | INT | WILL | CHA | LUCK |
 |---|---|---|---|---|---|---|---|---|---|
 | Body | 15 | 20 | 16 | 14 | 13 | 18 | 25 | 7 | 7 |
 | Class (Mage L25) | 0 | 0 | 0 | 0 | 0 | 25 | 25 | 0 | 0 |
-| Skills/Traits | 34 | 35 | 43 | 33 | 40 | 94 | 85 | 5 | 0 |
-| **Total** | **49** | **55** | **59** | **47** | **53** | **137** | **135** | **12** | **7** |
+| Skills/Traits | 34 | 43 | 43 | 33 | 40 | 94 | 85 | 5 | 0 |
+| **Total** | **49** | **63** | **59** | **47** | **53** | **137** | **135** | **12** | **7** |
 
 HP = 470 + 159 = **629**.
 MP = ((137×10)+(135×4))×1.2 + 250 Blessed = 2292 + 250 = **2542**.
-SP = 530 + 147 + 165 = **842**.
+SP = 530 + 147 + 189 = **866**.
+
+**Ch 14:** **Dodging L6→L7** mid-chase (**Agi +1**). Sheet **49/64/59/47/53/137/135/12/7**; SP **869**.
 
 Pouch at `"*Not bad.*"`: **11,641 LC** (`Experience.md`). Skill ranks and kill slate: `Skills.md` / `Experience.md`.
 
@@ -276,7 +278,7 @@ Pouch at `"*Not bad.*"`: **11,641 LC** (`Experience.md`). Skill ranks and kill s
 | Ch 4–5 | Body physicals + transfer Dex + old mental seeds | + Basic STR/AGI/DEX/END pile + rising Int/Will body |
 | Ch 6–8 | Above + Mage packages | Same debts |
 | Ch 10 | Inn sheet **matches** Mage L20 block above | Synced (HP **536** / MP **2358** / SP **708**; Vit/End live still pre–Sleep retcon) |
-| Ch 13 | Mage L25 rewrite (**49/55/59/47/53/137/135/12/7**; HP **629** / MP **2542** / SP **842**) | Synced (chapter + `Status.md`) |
+| Ch 13 | Mage L25 rewrite (**49/63/59/47/53/137/135/12/7**; HP **629** / MP **2542** / SP **866**) | Synced (chapter + `Status.md`) |
 
 ### Post–Ch 13 rewrite checkpoints (delta method)
 
@@ -284,15 +286,16 @@ Method: Source live growth from Ch 13 Source sheet → later live full sheet, ap
 
 | Ch | Overall | Main | Rewrite (Str/Agi/Dex/Vit/End/Int/Will/Cha/Luck) | HP / MP / SP |
 |---|---|---|---|---|
-| 13 | L25 | Mage L25 | **49/55/59/47/53/137/135/12/7** | **629 / 2542 / 842** |
-| 17 | L28 | Scribe L3 | **49/56/62/48/53/140/138/12/7** | **639 / 2592 / 845** |
-| 23 | L35 | Scribe L10 | **50/57/71/51/55/147/145/13/7** | **675 / 2710 / 871** |
-| 27 | L45 | Scribe L20 | **51/58/84/52/57/157/154/14/7** | **691 / 2873 / 897** |
-| 34 | L50 | Scribe L25 | **53/60/91/54/58/162/158/14/7** | **714 / 2952 / 919** |
-| 47 | L69 | Blacksmith L19 | **77/65/99/74/87/171/178/16/7** | **1001 / 3156 / 1296** |
-| 62 | L70 | Blacksmith L20 | **78/65/100/75/88/171/179/16/7** | **1014 / 3161 / 1309** |
-| 68 | L71 | Blacksmith L21 | **79/65/101/76/88/172/180/16/7** | **1024 / 3178 / 1312** |
-| 77 | L75 | Blacksmith L25 | **83/67/106/81/95/175/185/17/7** | **1095 / 3238 / 1400** |
+| 13 | L25 | Mage L25 | **49/63/59/47/53/137/135/12/7** | **629 / 2542 / 866** |
+| 14 | L25 | Mage L25 | **49/64/59/47/53/137/135/12/7** | **629 / 2542 / 869** |
+| 17 | L28 | Scribe L3 | **49/64/62/48/53/140/138/12/7** | **639 / 2592 / 869** |
+| 23 | L35 | Scribe L10 | **50/65/71/51/55/147/145/13/7** | **675 / 2710 / 895** |
+| 27 | L45 | Scribe L20 | **51/66/84/52/57/157/154/14/7** | **691 / 2873 / 921** |
+| 34 | L50 | Scribe L25 | **53/68/91/54/58/162/158/14/7** | **714 / 2952 / 943** |
+| 47 | L69 | Blacksmith L19 | **77/73/99/74/87/171/178/16/7** | **1001 / 3156 / 1320** |
+| 62 | L70 | Blacksmith L20 | **78/73/100/75/88/171/179/16/7** | **1014 / 3161 / 1333** |
+| 68 | L71 | Blacksmith L21 | **79/73/101/76/88/172/180/16/7** | **1024 / 3178 / 1336** |
+| 77 | L75 | Blacksmith L25 | **83/75/106/81/95/175/185/17/7** | **1095 / 3238 / 1424** |
 
 Chapters without full sheets inherit the prior rewrite checkpoint (see `Status.md`). Retcon Live blocks when those chapters are rewritten.
 

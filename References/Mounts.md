@@ -36,7 +36,7 @@ Roland’s imprinted sacred companion. Rewrite: mustelid, starting as a weasel o
 
 ### Needle Worm (tamed) / Ned
 First seen: Chapter 12
-Roland’s first **Basic Taming** bind. Core-bearing Floor-2 worm; worn as a green scarf after food offer, Mana Shield stall and Willpower stare-down. Separate path from Agni’s later egg imprint. Named **Ned**. Wild line would become **Needle Moth**; Roland steers him **Needle Worm → Greater Needle Worm → King Worm → Wyrm → Ormr** with launched needles, silk, poison (not powder), and physical strength / resilience. Levels add up (max overall **525**). Full design: `Ned.md`.
+Roland’s first **Basic Taming** bind. Core-bearing Floor-2 worm; worn as a green scarf after food offer, Mana Shield stall and Willpower stare-down. Separate path from Agni’s later egg imprint. Named **Ned**. Wild line would become **Needle Moth**; Roland steers him **Needle Worm → Greater Needle Worm → King Worm → Wyrm → Ormr** with launched needles, silk, poison (not powder), and physical strength / resilience. Levels add up (max overall **525**). Ch 14: watcher kill XP → **Greater Needle Worm** overall **26** / **4x**. Full design: `Ned.md`.
 
 ### Six-legged lizard
 First seen: Chapter 408

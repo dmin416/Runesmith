@@ -78,3 +78,35 @@ Luck                   7
 | Poison Resistance | **L5** (L4 if toxin variety stays low) |
 
 Not Greater yet unless a beat pushes him over overall **26** (**+1 → 4x** jump).
+
+## Chapter 14 (watcher kill)
+
+Kill XP from the Tier 2 fencer fight (Ned helped press the skull into Sahildr's hammer) pushes him past the Needle Worm cap. Share of people kill XP (`50 × level` pool). Roland plucks him off the corpse before he eats the flesh; Ned cleans blood on Roland's shoulder. On-page: before the party notices the blood eating, Ned glows, grows larger then smaller, returns with slightly longer and darker spikes (**Greater** evo look).
+
+**Form:** **Greater Needle Worm** (T2)  
+**Overall:** **26**  
+**Multiplier:** **4x** (evolution jump **3x → 4x**)
+
+```
+════════ STATUS ════════
+Name:       Ned
+Form:       Greater Needle Worm
+Level:      26
+
+HP              1180/1180
+
+Strength              80
+Agility               60
+Dexterity             20
+Vitality             100
+Endurance             60
+Intelligence          20
+Willpower             36
+Charisma               4
+Luck                   7
+════════════════════════
+```
+
+**Anchors:** charge **~33 kJ** / **~290 km/h**; tip hardness up with Strength; body still **~1 m / 10 kg** (multiplier, not size). Aptitude surge on all skills from the **4x** jump; no skill evolutions yet (still mid-L ranks from Ch 13).
+
+**Skills:** same ranks as Ch 13 half-year projection (Spike Throwing **L5**, Silk **L4**, Stealth **L6**, Spring Charge **L5**, Seal **L5**, Poison Resistance **L5**).

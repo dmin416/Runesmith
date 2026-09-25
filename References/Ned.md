@@ -58,9 +58,9 @@ Focus of the alternate line (vs moth powder / flight):
 
 ### Leveling pace (keep up with Roland)
 
-Ned **hunts his own prey**. He levels about as fast as Roland would from **eating the bodies and mana stones** of what gets hunted, so Ned can **keep up** with Roland’s overall pace. Do not invent a separate Ned XP curve; treat his self-hunt rhythm as matched to that eat-body-and-stone yardstick.
+Ned **hunts his own prey**. He levels about as fast as Roland would from **kill XP** (and from eating bodies and mana stones of what gets hunted when he does eat), so Ned can **keep up** with Roland’s overall pace. Tamed companions take a contribution cut of party kills; they do not need to eat the corpse for that XP. Do not invent a separate Ned XP curve; treat his self-hunt rhythm as matched to that yardstick.
 
-**Chapter locks:** Ch 12 tame = overall **1** / **1x**. Ch 13 half-year end = overall **~25** / **~3x** (Needle Worm; Greater at **26**). Sheets: `Story/Notes/NedStatus.md`.
+**Chapter locks:** Ch 12 tame = overall **1** / **1x**. Ch 13 half-year end = overall **~25** / **~3x** (Needle Worm; Greater at **26**). Ch 14 watcher kill XP = overall **26** / **4x** (**Greater Needle Worm**). Sheets: `Story/Notes/NedStatus.md`.
 
 ### Combat balance (locked)
 

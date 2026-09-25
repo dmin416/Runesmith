@@ -2,7 +2,7 @@
 
 Running XP log. Kill formula and curve: `References/Levels.md`. Status screens: `Status.md`. Coin / stones: `Items.md`, `References/Economy.md`.
 
-**Common goblin:** `49 + level` (RaceMult 1.0). **Dungeon rat:** `9 + level`. **Needle Worm:** `24 + level`. **Needle Moth:** `99 + level`. **Spiked Boar:** `499 + level`. **Wereboar:** `999 + level`. Other races: `(49 + level) × RaceMult`.
+**Common goblin:** `49 + level` (RaceMult 1.0). **Dungeon rat:** `9 + level`. **Needle Worm:** `24 + level`. **Needle Moth:** `99 + level`. **Spiked Boar:** `499 + level`. **Wereboar:** `999 + level`. **People** (classed races): `50 × overall level` (Ch 14 L55 pool **2750**; Roland **479**). Other monster races: `(49 + level) × RaceMult`.
 
 **Pre-class bank:** XP before first ascension banks and applies later with a **½ penalty**. One-time only (first class). Does not refill for later class changes.
 
@@ -35,7 +35,7 @@ Ch 9.5 = L4→L20 kill volume at matched-goblin pace (~**16–17**/day over ~**9
 | **10** | Nest opener + present day → **Mage L20** | **+7** kills (**1** matched / **6** slightly lower); **+2** rice-grain stones; ear turn-in **+35 LC** → pouch **6,035**; inn sheet |
 | **11** | First dungeon day + trial weeks | On-page idle Spiked Boar **+5 XP** (**1%**). Day lock: **4** boars → **380** XP; share **+128** → pouch **6,163**. Trial **7** days: kill **+1,820** + Hands **L5→L6** (**~+100**) → bar **~2,774/10k** / pouch **~6,818** |
 | **12** | Floor-2 Needle Worm pocket clear before tame | **12** worms **L16–L18** → **+492 XP** (**24 + level**); bar **~3,266 / 10,000**; still L20. Core worm kept alive for tame |
-| **13** | Half-year Floor-3 → **Mage L25** | **1,102** kills; kill XP **48,726** + skill **3,008** = **51,734**; haul share **+9,116**; living+kit **−4,248** → pouch **11,641**; Calligraphy **L9** |
+| **13** | Half-year Floor-3 → **Mage L25** | **1,102** kills; kill XP **48,726** + skill **3,608** = **52,334**; haul share **+9,116**; living+kit **−4,248** → pouch **11,641**; Calligraphy **L9**; **Basic Dodging → Dodging L6** |
 
 Ch 6: weekly one-on-ones after the 9th birthday. Locked count **55** estate L1s after bravery (year of weeks plus a few extras) so the half-bank lands L3 empty under `500 × L`. After Mage, weekly continues and turns to **two** L1s at a time for ~**3 months** (**25** kills including the Ch 7 finale) so the first Carwen hunt can finish L3→L4.
 
@@ -75,7 +75,7 @@ Curve tables: `Levels.md`.
 | 10 | Nest opener then inn sheet | at **L20** | **7** kills: **1×** matched (**69** XP) + **6×** slightly lower (~**L18–19**, ~**67–68** each) → ~**471–477** XP into the L20 bar. **+2** rice-grain stones (**286→288**; leaders stay **16**); ears **+35 LC** → pouch **6,035 LC**; boar leg (underseasoned, gamey). Plans last five to Mage cap then Mana Scribe |
 | 11 | Dungeon rat + Spiked Boars (Emerald Wilderness) | at **L20** | On-page: idle first boar **+5 XP** (**1%**). Rat XP popup not shown. **Lock:** day **4** boars → **380** XP; share **+128 LC** → **6,163 LC**. Trial weeks (**7** more days / **28** boars): kill **+1,820 XP**; idle **Mana Hands** + Absorption + Sense while waiting → Hands **L5→L6** (**~+100** skill XP) → bar **~2,774 / 10,000**; share **+921** − living **266** → pouch **~6,818 LC**. Still L20. Shield L3 / Incantation L6 unchanged |
 | 12 | Needle Worm pocket clear (before tame) | at **L20** | **12×** Floor-2 worms **L16–L18**; formula **24 + level**. On-page pops **41 / 42 / 40**; pocket total **+492 XP** → bar **~3,266 / 10,000**. One core-bearing worm left alive; taming begins |
-| 13 | Half-year Floor-3 | **L20 → L25** | **1,102** kills (WB **120** / SB **78** / moth **228** / worm **416** / rat **260**); kill **48,726** + skill **3,008** = **51,734**; haul **+9,116**; living+kit **−4,248** → pouch **11,641 LC**. Skill ranks: `Skills.md` |
+| 13 | Half-year Floor-3 | **L20 → L25** | **1,102** kills (WB **120** / SB **78** / moth **228** / worm **416** / rat **260**); kill **48,726** + skill **3,608** = **52,334**; haul **+9,116**; living+kit **−4,248** → pouch **11,641 LC**. Skill ranks: `Skills.md` |
 
 `XP_to_next(3) = 1500`. Entering Ch 9 with **1250** keeps the level-up on the **54** XP kill. Overflow after level-up is **(1250 + 263) − 1500 = 13** into the L4 bar (`XP_to_next(4) = 2000`).
 
@@ -171,7 +171,7 @@ On-page: equal money split after sales (no total printed). Locked with `Economy.
 
 ## Ch 13 half-year (Floor 3 → Mage L25 / Not bad)
 
-**Span:** **26** weeks (**182** days; **~3** dives/week). Enter **Mage L20** bar **3,266 / 10,000**. Need **51,734 XP** to **Mage L25** empty.
+**Span:** **26** weeks (**182** days; **~3** dives/week). Enter **Mage L20** bar **3,266 / 10,000**. Need **52,334 XP** to **Mage L25** empty.
 
 **Kill XP:** Roland active **1/4** on L1 shares (Wereboar **250**, Spiked Boar **125**, Needle Moth **25**, Needle Worm **6**, dungeon rat **3**).
 
@@ -184,9 +184,9 @@ On-page: equal money split after sales (no total printed). Locked with `Economy.
 | Dungeon rat | **260** | **780** |
 | **Kill total** | **1,102** | **48,726** |
 
-**Skill XP:** **3,008** (**30** ranks × **100** + **8** overflow). Ranks in `Skills.md` Ch 13.
+**Skill XP:** **3,608** (**36** ranks × **100** + **8** overflow). Ranks in `Skills.md` Ch 13.
 
-**Bar:** kill **48,726** + skill **3,008** = **51,734** → **Mage L25**.
+**Bar:** kill **48,726** + skill **3,608** = **52,334** → **Mage L25**.
 
 **Loot (team sale → equal 4-way):**
 

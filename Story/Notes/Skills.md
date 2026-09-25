@@ -26,7 +26,7 @@ Trait Int/Will bonuses are flat cards. They sit in the Skills/Traits bucket with
 | Basic Climbing | Strength, Agility |
 | Basic Throwing | Dexterity |
 | Basic Sneaking | Agility |
-| Basic Dodging | Agility |
+| Basic Dodging / Dodging | Agility |
 | Basic Taming | Charisma |
 | Basic One-Handed Swordsmanship | Strength |
 | Basic Leather Armor Proficiency | Vitality, Endurance |
@@ -471,11 +471,11 @@ Uses Mana Arrow, Mana Bolt and Identify (Needle Worm). Floor-2 cook: Needle Worm
 
 ## Chapter 13
 
-Half-year Floor-3 grind → **Mage L25**. Kill/XP/loot/pouch: `Experience.md` (**1,102** kills; skill XP **3,008**; pouch **11,641 LC**).
+Half-year Floor-3 grind → **Mage L25**. Kill/XP/loot/pouch: `Experience.md` (**1,102** kills; skill XP **3,608**; pouch **11,641 LC**).
 
-**Rewrite attribute pads from these ranks** (spells no attr; Calligraphy / Temperature Resistance no attr line): Sword **+3 Str**; Dodging **+2 Agi**; Sneaking **+2 Agi**; Throwing **+2 Dex**; Incantation **+2 Int/+2 Will**; Alcohol **+3 End**. Full sheet: `StatusBreakdown.md` / `Status.md`.
+**Rewrite attribute pads from these ranks** (spells no attr; Calligraphy / Temperature Resistance no attr line): Sword **+3 Str**; Dodging tree **+10 Agi** (Basic **L6→L9**, evolve free Agi, **Dodging L1→L6**); Sneaking **+2 Agi**; Throwing **+2 Dex**; Incantation **+2 Int/+2 Will**; Alcohol **+3 End**. Full sheet: `StatusBreakdown.md` / `Status.md`.
 
-Skill ranks (enter → exit; **30** ranks × **100** XP + **8** overflow = **3,008**):
+Skill ranks (enter → exit; **36** ranks × **100** XP + **8** overflow = **3,608**):
 
 | Skill | Change |
 |---|---|
@@ -487,17 +487,17 @@ Skill ranks (enter → exit; **30** ranks × **100** XP + **8** overflow = **3,0
 | Mana Arrow | **L5 → L8** |
 | Mana Bolt | **L7 → L9** |
 | Basic Incantation | **L6 → L8** |
-| Basic Dodging | **L6 → L8** |
+| Basic Dodging → Dodging | **Basic L6 → L9**, evolve, **Dodging L1 → L6** |
 | One-Handed Swordsmanship | **L1 → L4** |
 | Sneaking | **L1 → L3** |
 | Throwing | **L1 → L3** |
 
-Ch 9.5–10 already evolved Running, Climbing, Sneaking, Throwing, Swordsmanship (Basic → plain) and Marksmanship → **Expert Marksmanship**. Free attribute points on evolve where locked (Sneaking→Agi, Swordsmanship→Str; Marksmanship evolve may add a free Dex or Will once). Still Mage L25. Class-change crystal recovered. No class change yet. Plans lesser sharpness knife as study piece.
+Ch 9.5–10 already evolved Running, Climbing, Sneaking, Throwing, Swordsmanship (Basic → plain) and Marksmanship → **Expert Marksmanship**. Free attribute points on evolve where locked (Sneaking→Agi, Swordsmanship→Str; Marksmanship evolve may add a free Dex or Will once). **Basic Dodging** evolves during the half-year (same Additive rule: Basic L9 pads stay + Dodging L1 + free Agi). Still Mage L25. Class-change crystal recovered. No class change yet. Plans lesser sharpness knife as study piece.
 
 ## Chapter 14
 
-Dodging mid-chase popup (rank-up; **Basic Dodging** already unlocked Ch 9.5, ends skip at **L6**. Source first clear was here).
-Uses Mana Shield (extra mana into bubble on Reyna vs Gale Step thrust; still pierced but buys the parry), Mana Arrow and Mana Bolt in the Tier 2 fencer fight. Party kill (+479 XP). Still Mage L25.
+Dodging mid-chase popup (**Dodging L6→L7**; plain form after Ch 13 evolve. Source first clear of the skill name was here).
+Uses Mana Shield (screamed overcharge bubble on Reyna vs Gale Step + tip blast; holds a moment then blasts through; buys the graze), Mana Arrow and Mana Bolt in the Tier 2 fencer fight. **Levels:** fencer overall **L55**; girls **~45**; Roland Mage **L25**. Party kill (+479 XP). Still Mage L25.
 
 ## Chapter 15
 

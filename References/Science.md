@@ -692,6 +692,8 @@ Move objects with mana. Visible hands are optional. Work done by a telekinetic l
 
 Barrier hit count from the shared cast law, scaled by shield area and hold time. **Baseline cast = 100 mana** (2× normal Arrow, 4× normal Bolt). Overcharge = mana spent.
 
+**Fight-scale map** (physical tip KE vs shield pools, worked Ch 14 lock): `AttackScale.md`.
+
 ```
 N = floor( 20 × M × η(L) × μ(INT) × S × R / J )
 

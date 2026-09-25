@@ -475,14 +475,16 @@ Rule of thumb: **double the volume → about 4× the price**. Trade down used ba
 
 ## 19. Potions (unpriced in canon - flagged, not estimated)
 
-Hangover potions and low-grade recovery potions both exist and are in circulation. Absolute shop prices are **not stated on-page**. Recovery potions are drunk or poured directly on a wound, work on a slow tick, and often still need bandaging alongside them. Hangover potions exist in Carwen (Ch 12); Roland skips them to save coin. Low-grade recovery appears Ch 14. Dungeon-gate stalls mark potions up **>=25%** over market (Ch 71).
+Hangover potions and **healing / recovery potions** both exist and are in circulation. Absolute shop prices are **not stated on-page**. Item behavior: `References/Items.md`.
+
+**Healing / recovery potion (rewrite lock):** health brew that **closes wounds** (drink and/or pour). Flesh knits under the liquid; heat runs through torn muscle and staunches bleed. Pain of the brew can exceed the wound. Low-grade seals holes but leaves residual soreness. Not “numbers tick up while the cut stays open.” Hangover potions are separate (Carwen Ch 12; Roland skips them to save coin). Low-grade recovery / healing appears Ch 14 (watcher fight; from his bag). Dungeon-gate stalls mark potions up **>=25%** over market (Ch 71).
 
 ### Extrapolated potion band (pegged to wages + stinginess)
 
 | Item | Estimated | Why |
 |---|---|---|
 | Hangover potion | **8-15 LC** | Cheap enough that skipping it is stingy, not ruinous; ~1-1.5 days unskilled or ~2-3 goblin ears |
-| Low-grade recovery (drink + pour) | **20-50 LC (2-5 SS)** | Above hangover; below a full inn night; "quite the penny" vs priest heal in Ch 33 |
+| Low-grade healing / recovery (drink + pour) | **20-50 LC (2-5 SS)** | Above hangover; below a full inn night; "quite the penny" vs priest heal in Ch 33 |
 | Dungeon-gate version of either | market x **1.25+** | Canon markup Ch 71 |
 | T3 High Priest curse heal (Solaria) | **9 SG** | Canon Ch 53 (not a potion) |
 

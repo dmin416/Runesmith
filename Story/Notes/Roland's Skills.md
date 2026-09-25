@@ -45,7 +45,7 @@ Age-10 technique targets: see `Progression.md` / Ch 7 note in `Skills.md`. Chapt
 
 ## Carwen grind (Ch 9–9.5)
 
-28. Basic Dodging – Ch 9.5 month 1 – unlocks on purposeful clear vs clubs/spears; Agility +level; **L6** by end of skip
+28. Basic Dodging – Ch 9.5 month 1 – unlocks on purposeful clear vs clubs/spears; Agility +level; **L6** by end of skip. Ch 13: **Basic L9** then evolve → **Dodging**. Ch 14: **Dodging L7** mid-chase.
 29. Mana Arrow (Spell) – Ch 9.5 late month 1 – Mage class grant
 30. Mana Shield (Spell) – Ch 9.5 month 2 – Mage class grant
 31. Ember (Spell) – Ch 9.5 – self-discovered evening drills (cook-pot spark); **L6** by end of skip; on-page Ch 10. Source used an Arden book
@@ -61,7 +61,7 @@ Age-10 technique targets: see `Progression.md` / Ch 7 note in `Skills.md`. Chapt
 40. Multitasking – Ch 12 – eight Mana Hands on cook skewers; unlock unnoticed; **L1**; **Intelligence +1**, **Dexterity +1** per level
 41. Basic Taming – Ch 12 – core Needle Worm bind (food, shield stall, Will stare); **L1**; **Charisma +1** per level; worm worn as green scarf
 
-Ch 13 combat/technique ranks (half-year slate): Mana Shield **L3→L6**; Mana Arrow **L5→L8**; Mana Bolt **L7→L9**; Basic Incantation **L6→L8**; Basic Dodging **L6→L8**; One-Handed Swordsmanship **L1→L4**; Sneaking **L1→L3**; Throwing **L1→L3**; Basic Calligraphy **L4→L9**; Alcohol **L1→L4**; Mana Hands **L7→L9**; Temperature Resistance **L1**. Rewrite sheet: Str **49** / Agi **55** / Dex **59** / Vit **47** / End **53** / Int **137** / Will **135** / Cha **12** / Luck **7**; HP **629** / MP **2542** / SP **842**. Full table: `Skills.md` Ch 13 / `StatusBreakdown.md`.
+Ch 13 combat/technique ranks (half-year slate): Mana Shield **L3→L6**; Mana Arrow **L5→L8**; Mana Bolt **L7→L9**; Basic Incantation **L6→L8**; Basic Dodging **L6→L9** → evolve → **Dodging L6**; One-Handed Swordsmanship **L1→L4**; Sneaking **L1→L3**; Throwing **L1→L3**; Basic Calligraphy **L4→L9**; Alcohol **L1→L4**; Mana Hands **L7→L9**; Temperature Resistance **L1**. Rewrite sheet: Str **49** / Agi **63** / Dex **59** / Vit **47** / End **53** / Int **137** / Will **135** / Cha **12** / Luck **7**; HP **629** / MP **2542** / SP **866**. Ch 14: **Dodging L7**, Agi **64**, SP **869**. Full table: `Skills.md` Ch 13 / `StatusBreakdown.md`.
 
 ## Runic Mana Scribe (Ch 16)
 

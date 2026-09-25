@@ -28,7 +28,7 @@ First seen Chapter 10.
 | **Sahildr** | Goliath warrior ~2 m; brown skin; squashed nose; shield at meet, two-handed hammer in dungeon; loud, teases |
 | **Reyna** | Wolven scout ~160 cm; gray hair; white bushy tail; wolf eyes; dual daggers; quiet; Scout + Thief; sniffs air; rare sleepy speech |
 
-All-women party after their fourth left with a man. Distrust men at night camps. All already on a **second Tier 1** class. Even four-way loot split. Guild calls them reputable. Meet at city gates for the dungeon. Formation in Emerald Wilderness: Sahildr + Reyna front, Becky + Roland back.
+All-women party after their fourth left with a man. Distrust men at night camps. All already on a **second Tier 1** class (by Ch 14 overall **~45**). Even four-way loot split. Guild calls them reputable. Meet at city gates for the dungeon. Formation in Emerald Wilderness: Sahildr + Reyna front, Becky + Roland back.
 
 | Chapter | Encounter |
 |---|---|
@@ -36,7 +36,7 @@ All-women party after their fourth left with a man. Distrust men at night camps.
 | 11 | First delve: entrance rat test; Emerald Wilderness spiked boars; spatial bag loot; equal split; defer deeper floors. |
 | 12 | Trial period ends. Iron Flagon binge → Alcohol / Dance / Pain / Sleep pads. Floor 2 Needle Worm cook (cumin blood skewers; Multitasking) + pocket clear / tame (green-scarf pet); Reyna MVP; Sahildr lesser-impact hammer; skip Wereboars (bag full). |
 | 13 | Half year; Mage L25; floor 3 (worms/moths/Wereboars); Ned named; parsleaves + needle/blood stockpile; Calligraphy L9; digs class crystal; watcher ambush starts. |
-| 14 | Watcher fight: Gale Step, detonation rapier; party kill (+479 XP); confession starts. |
+| 14 | Watcher fight: fencer overall **L55**; girls **~45**; Roland Mage **L25**; Gale Step + tip blast vs overcharged bubble; party kill **+479 XP**; Ned kill XP → **Greater Needle Worm** overall **26** / **4x**; confession starts. |
 | 15 | Partial confession; dump body to Wereboars; Roland keeps rapier; [Highest] Detonation schematic + Runic Scholar. |
 | 16 | Class change: Runic Mana Scribe (fire-orb trial). |
 | 17 | L28 sheet; loot split; quits party for craft path; asks for Sahildr's hammer. |

@@ -92,6 +92,23 @@ XP_from_kill = (49 + MonsterLevel) × RaceMult
 
 **Wereboar** (floor-3 Carwen elite): **999 + level**. Own base; not RaceMult. About **2×** a Spiked Boar. **L1** solo **1000** (idle **10 XP = 1%**; full party share **250 = 1/4**).
 
+**People / classed races** (humans, elves, beastmen, dwarves, etc. with classes; not monster races like goblins):
+
+```
+XP_from_person = 50 × OverallLevel
+```
+
+Split among the XP takers (Ch 14: five - Roland, Becky, Sahildr, Reyna, Ned). **Extra factors** (ability + contribution) push each award above or below an equal cut. Tamed companions take a share from the kill; they do not need to eat the corpse.
+
+**Ch 14 lock:** fencer overall **L55** → pool **2750**. Equal fifth **550**. Roland on-page **479** (extras below equal). Ned's share tips him **25→26** / **Greater Needle Worm**.
+
+#### Danger vs stats (people)
+
+- **Stats** set physical ceiling only: tip KE, sprint, HP pool (`AttackScale.md`, street baseline STR/AGI **15**).
+- **Danger** is stats × skills × gear × tactics. A combat-classed person with actives (Gale Step), enchanted weapons and training hits far above a same-stat civilian or a same-level trash monster.
+- Same overall level: a fighter usually out-threats goblin-tier trash; dense beasts (Wereboar band) can still win a raw brawl on size and HP. Tier 2 skills make L55 specialists spike hard even when their sheet looks "only" mid-T2.
+- Do not treat overall level alone as threat. Read class tier, skill loadout and gear with the numbers. XP pool is **`50 × overall level`**.
+
 #### Race / species multipliers
 
 Use the creature’s **family**, not every cosmetic variant name. Evolved or named bosses can stack a boss tag later; until then pick the closest row. L4 column uses `(49 + 4) × RaceMult` unless the row notes its own base.
@@ -136,6 +153,7 @@ Add new rows when a chapter names a repeat family. Prefer a band over inventing 
 | Needle Moth (Ch 13 floor 3) | low | — | **99 + level**; stone **rice** (**2 SS**) |
 | Spiked Boar (Ch 11 Emerald Wilderness) | **1** | — | Solo **500**; idle **+5 (1%)**; active **+125 (1/4)** each |
 | Wereboar (Ch 13 floor 3) | **1** | — | Solo **1000**; idle **+10 (1%)**; active **+250 (1/4)** each |
+| Person / classed race (Ch 14 fencer) | **55** | — | Pool **2750** (`50 × 55`); equal fifth **550**; Roland **479**; Ned tips **25→26** |
 | Carwen forest goblin | 3 | 1.0 | **52** |
 | Carwen forest goblin | 4 | 1.0 | **53** |
 | Same level hobgoblin | 4 | 1.75 | **93** |
@@ -222,13 +240,14 @@ XP already spent stays spent. Goblin-counts are a yardstick only. Real paths mix
 | First Common rune schematic (e.g. Fire Arrow) | **2000** (2× lesser) | 0.8 level | 0.16 level | 0.08 level |
 | Mana Arrow scroll (repeat craft) | 20 | tiny | tiny | tiny |
 | Fire Orb runic scroll (repeat) | 50 | tiny | tiny | tiny |
-| Tier 2 fencer (party share) | 479 | ~0.19 level | ~0.04 level | ~0.02 level |
+| Person L55 (pool `50 × L`) | **2750** | ~1.10 level | ~0.22 level | ~0.11 level |
+| Tier 2 fencer L55 (Roland share; Ch 14) | **479** | ~0.19 level | ~0.04 level | ~0.02 level |
 
 Chapter 26 schematic stacking: Intermediate common = **1000 XP**; then perfecting to Highest adds another **1000** (total 2000). Going straight to Highest also pays 2000. No further XP for redoing the same schematic past that cap.
 
 Chapter 21 timing: regular Mana Arrow ~**10 min** / 20 XP; Fire Orb runic ~**45 min** / 50 XP (imperfect). Five regular scrolls ≈ one runic's time for more XP; schematics still dominate leveling. Shop magic contracts can curse breach with **−60% mana** until the term ends. Common schematics pay **2×** lesser (Chapter 22 Fire Arrow).
 
-Chapter 14 narration: common Tier 2 packages grow about **×1.5** vs Tier 1 (forward-only on new levels). Fresh T2 physicals still burn hard on active skills (stamina + mana). A coordinated T1 party deep into second classes can beat a green T2.
+Chapter 14 narration: common Tier 2 packages grow about **×1.5** vs Tier 1 (forward-only on new levels). Fresh T2 physicals still burn hard on active skills (stamina + mana). A coordinated T1 party deep into second classes can beat a green T2. **Ch 14 lock:** Arden watcher fencer is overall **L55** (not green); Becky / Sahildr / Reyna overall **~45**; Roland Mage **L25**. Party coordination + skill waste still beats him.
 
 ### Optional later tweaks (not locked)
 
@@ -375,7 +394,7 @@ Favored attributes for skills Roland trains in Chapters 4–7. Same +1 × level 
 
 **Level 3 example (locked):** Expert Marksmanship → Dexterity +1, Willpower +1 per level (evolve from Marksmanship; Marksmanship itself was Dex-only).
 
-Sprint, Hand to Hand, Leather and Dodging stay on Basic forms until they evolve.
+Sprint, Hand to Hand and Leather stay on Basic forms until they evolve. **Dodging** evolves Basic → plain during Ch 13 Floor-3 work.
 
 **Evolve pads are additive, not subtractive.** On evolve, the Basic form’s attribute bonuses stay baked in (permanent). The new skill starts at L1 and adds its own +level line on top. The free evolve point is also permanent. Example: Basic Climbing L9 (Str +9, Agi +9) → Climbing L1 adds Str +1, Agi +1 plus free Str +1 → Climbing tree contributes Str +11, Agi +10 at evolve.
 
@@ -557,4 +576,4 @@ Real sheets also add childhood base, skills and traits on top.
 6. Skill L9 → evolve. Do not write L10 on the same skill name.
 7. When a chapter shows numbers, copy them into `Story/Notes/Status.md` and keep this file as the rule layer.
 8. If Source text says the sheet jumps at class-up, rewrite it to growth-rate talk instead.
-9. XP_to_next = **500 × overall level**. Kill XP = **(49 + monster level) × RaceMult** (common goblin = 49 + level). Dungeon rat = **9 + level**. Needle Worm = **24 + level**. Needle Moth = **99 + level**. Spiked Boar = **499 + level**. Wereboar = **999 + level**. Pre-class bank half-penalty lands Mage L3 from bravery + **55** estate L1s (`Experience.md`). Change constants only if arcs feel wrong.
+9. XP_to_next = **500 × overall level**. Kill XP = **(49 + monster level) × RaceMult** (common goblin = 49 + level). Dungeon rat = **9 + level**. Needle Worm = **24 + level**. Needle Moth = **99 + level**. Spiked Boar = **499 + level**. Wereboar = **999 + level**. People (classed races) = **50 × overall level** (Ch 14 L55 pool **2750** / Roland **479**). Pre-class bank half-penalty lands Mage L3 from bravery + **55** estate L1s (`Experience.md`). Change constants only if arcs feel wrong.

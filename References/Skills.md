@@ -175,7 +175,7 @@ Passive. Thrown projectile. **Dexterity +level**. Unlocked with a rock and train
 
 ### Dodging / Basic Dodging
 First seen: Chapter 9.5 (Source first clear was Chapter 14 ambush)
-Passive. Helps evade attacks. **Agility +level**. Unlocks when he starts clearing swings on purpose in live fights. Climbs through Carwen goblin work (clubs, spears, lobbed rocks).
+Passive. Helps evade attacks. **Agility +level**. Unlocks when he starts clearing swings on purpose in live fights. Climbs through Carwen goblin work (clubs, spears, lobbed rocks). Rewrite: **Basic Dodging** ends skip at **L6**; Ch 13 Floor-3 hits **Basic L9** and evolves to plain **Dodging**; Ch 14 ambush popup **Dodging L7**.
 
 ### Basic One-handed Swordsmanship / Swordsmanship
 First seen: Chapter 3–4

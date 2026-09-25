@@ -1,6 +1,6 @@
 # Weapons
 
-Design notes for blades and loadouts. Hardness / pierce gates for tips stay in `Science.md`. Story gear lists stay in `Items.md`.
+Design notes for blades and loadouts. Hardness / pierce gates for tips stay in `Science.md`. Story gear lists stay in `Story/Notes/Items.md`. Consumable types: `References/Items.md`.
 
 ## Rondel with a hook
 
