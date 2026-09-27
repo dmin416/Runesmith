@@ -48,7 +48,7 @@ Use **rewrite** sheets for continuity (`Status.md` / `StatusBreakdown.md`). Live
 | Adult baseline | 15 | 15 | **1.00** | 100–150 mL/h | 24–48 h | 15–25 mL/day | 4–6 weeks |
 | Roland Ch 13 rewrite | 47 | 53 | **3.33** | **333–500 mL/h** | **~7–14 h** | **50–83 mL/day** | **~1.2–1.8 weeks** |
 
-Small Mana Hands drips to Ned are a trivial plasma hit at Roland’s M; marrow lag still owns any real bleed. Ned hemolymph (mass-scaled caterpillar): `Ned.md`.
+Small Mana Hands drips to Ned are a trivial plasma hit at Roland’s M; marrow lag still owns any real bleed. Ned hemolymph (mass-scaled caterpillar): `../People/Ned.md`.
 
 ## Intelligence
 Increases an individual's mana points, magic attack and learning speed. Helps visualize and recall spell circles (Chapter 10).
@@ -74,7 +74,7 @@ First worked out by Roland in Chapter 2. Checked against later status sheets.
 - SP = (Endurance x 10) + (Strength x 3) + (Agility x 3)
 - MP = (Intelligence x 10) + (Willpower x 4)
 
-**Cast law:** `Useful (J) = mana × 10 × η(L) × μ(INT)` with `η(1)=0.3`, `η(L)=1+(L-2)×2/7` (L2=1 … L9=3), `μ=(INT/15)^0.8`. See `Science/ManaCast.md`.
+**Cast law:** `Useful (J) = mana × 10 × η(L) × μ(INT)` with `η(1)=0.3`, `η(L)=1+(L-2)×2/7` (L2=1 … L9=3), `μ=(INT/15)^0.8`. See `../Science/ManaCast.md`.
 
 Skill, trait and class bonuses can raise displayed MP above the bare attribute total. Chapter 23: low mana → dizzy/sleepy; **zero MP** → splitting headache and possible pass-out, plus a next-day mana-regen debuff.
 

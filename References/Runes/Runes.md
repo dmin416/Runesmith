@@ -1,6 +1,14 @@
 # Runes
 
-Named rune catalog and chapter first-seens. Character skills that manipulate runes: Skills.md.
+Named rune catalog and chapter first-seens. Character skills that manipulate runes: `../Progression/Skills.md`.
+
+| File | Role |
+|---|---|
+| `Runes.md` | Named catalog / first-seens |
+| `RuneSystem.md` | Pathway model, ceilings, harmonics |
+| `RuneSetup.md` | Setup pour costs |
+| `Energy.md` | Path / ambient / wear |
+| `TempRunes.md` | Chapter LOOK/MAKE scrape (merge later) |
 
 **Rewrite law (basis, not frozen):** `RuneSystem.md` (symbology, pathways, stages, ceilings, harmonics). Setup mana: `RuneSetup.md`. Activation energy and wear: `Energy.md`. Chapter LOOK/MAKE scrape: `TempRunes.md` (binary-circuit identity is dropped for rewrite; Debugger colors map to leaks and discord).
 

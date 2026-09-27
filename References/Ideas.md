@@ -35,14 +35,14 @@ Rewrite directions for this project. Source is loot, not a script. Reader stop p
 
 - **Rails to keep:** Debugger + runecraft, tier/dungeon milestones (shortened and paid), a base to bank power, escalating pressure (nobles, cult, church, school).
 - **Economy:** contracts, patents, sales, commissions. Profit early is allowed. Conflict then comes from politics and identity, not poverty.
-- **Future products (Earth tech import):** mana-stone lamps, **printing**, pins/pens/matches/soap/toilet paper, **bicycle**, steel process and other civilian tech Caldris lacks. Shortlist + print pathway below. Patents and guild heat follow. Keep personal kit upgrades tied to the same breakthroughs. Era baseline: `Technology.md`.
+- **Future products (Earth tech import):** mana-stone lamps, **printing**, pins/pens/matches/soap/toilet paper, **bicycle**, steel process and other civilian tech Caldris lacks. Shortlist + print pathway below. Patents and guild heat follow. Keep personal kit upgrades tied to the same breakthroughs. Era baseline: `World/Technology.md`.
 - **Progression split:** early = build the machine (kit, prices, XP routes). Then = conflict that spends that machine.
 - **Personal power:** every major workshop breakthrough should also upgrade his ranged kit / armor OS so levels and golems do not diverge for years.
 - **Gamer-manga skills:** skills must do something you feel in play. No paper bonuses that never change a fight, craft or plan. If a skill is on the sheet, it either unlocks a real option, changes a hard limit or stacks into a build the reader can track.
 
 ### Future products: printing and civilian tech
 
-Earth research seed for a later shop arc (not locked). Steam and rail already exist in Caldris; printing press and many cheap civilian goods are missing or rare in `Technology.md`. Roland's modern mind can skip centuries of trial and error.
+Earth research seed for a later shop arc (not locked). Steam and rail already exist in Caldris; printing press and many cheap civilian goods are missing or rare in `World/Technology.md`. Roland's modern mind can skip centuries of trial and error.
 
 #### Civilian product shortlist
 
@@ -60,7 +60,7 @@ Cheap high-volume goods first. Presses and steel process come when the shop can 
 | **Toilet paper** | 1850s–1890s commercial | Soft roll / sheet packs; paper machine unlocks volume |
 | **Printing press** | Gutenberg → steam / rotary | Breaks hand-copy bottleneck; full pathway below |
 | **Bicycle** | 1817 draisine → 1880s safety bike | Personal travel without a horse; needs chain, bearings, wire spokes, rubber or leather tires |
-| **Mana-stone lamps** | — | Civilian light (rice-grain sustain ≈ candle-to-desk; `Science/ManaStones.md`) |
+| **Mana-stone lamps** | — | Civilian light (rice-grain sustain ≈ candle-to-desk; `../Science/ManaStones.md`) |
 
 #### Solo startup plan
 
@@ -123,8 +123,8 @@ Start with products that need only hand tools and cheap inputs. Their cash pays 
 
 - **Known target:** Gutenberg needed years of trial and error. A time traveler knows the finished system and skips straight to it.
 - **Core kit:** Adjustable hand mold, steel punches and copper matrices, type metal (roughly 80% lead, 15% antimony, 5% tin), boiled linseed oil and lampblack ink and a screw press.
-- **Caldris shortcut:** Steam and rail already exist. The gap is the press. Skip the wooden screw press and build an iron-frame press with steam or magic-stone power (rice-grain sustain ≈ candle-to-desk lamp if sold as light products; `Science/ManaStones.md` stone rates).
-- **Skills system:** Printer, typesetter and type-cutter can become trained trades so a workforce levels fast (`NormalPersonSkills.md` / class skills).
+- **Caldris shortcut:** Steam and rail already exist. The gap is the press. Skip the wooden screw press and build an iron-frame press with steam or magic-stone power (rice-grain sustain ≈ candle-to-desk lamp if sold as light products; `../Science/ManaStones.md` stone rates).
+- **Skills system:** Printer, typesetter and type-cutter can become trained trades so a workforce levels fast (`Progression/NormalPersonSkills.md` / class skills).
 
 #### Things to make and patent
 
@@ -177,7 +177,7 @@ Start with products that need only hand tools and cheap inputs. Their cash pays 
 - Crossing the next threshold does not show L10. The skill **evolves** into the next prefix form. The new name starts at L1 again and covers a higher band of work.
 - Stat bonuses and numeric effects scale with the current skill’s level.
 - Source L10 “past the wall” wording becomes evolution events, not a tenth level on the same skill.
-- **Technique scale:** levels measure form / efficiency / timing / decisions, not body power. L5 = dedicated adult amateur, L7 = competitive or professional, L9 = pinnacle of normal human technique on that prefix. Early Basic ranks by age: see `Progression.md`.
+- **Technique scale:** levels measure form / efficiency / timing / decisions, not body power. L5 = dedicated adult amateur, L7 = competitive or professional, L9 = pinnacle of normal human technique on that prefix. Early Basic ranks by age: see `Progression/Progression.md`.
 
 **Skill evolution prefixes (full scheme, rough convention):**
 
@@ -198,7 +198,7 @@ Each prefix is its own skill name with its own L1–L9 bar. Trees pick one namin
 
 ### World laws: rune ranks (5)
 
-Align with `Runes.md`. Five rune ranks, low to high:
+Align with `Runes/Runes.md`. Five rune ranks, low to high:
 
 1. **Lesser**
 2. **Common**
@@ -214,7 +214,7 @@ Source often lists skills that sound foundational but do nothing. Rewrite rule: 
 
 **Rune Mastery (rewrite default):**
 
-Scrolls stay "anyone can use." Activation still costs mana. The scroll's safe path runs the user's mana through a **filtration sequence** so a non-mage does not wreck the pattern. That safety tax is real MP. Setup pour costs and prepaid scroll variants: `RuneSetup.md`. Pathway model and harmonics: `RuneSystem.md`.
+Scrolls stay "anyone can use." Activation still costs mana. The scroll's safe path runs the user's mana through a **filtration sequence** so a non-mage does not wreck the pattern. That safety tax is real MP. Setup pour costs and prepaid scroll variants: `Runes/RuneSetup.md`. Pathway model and harmonics: `Runes/RuneSystem.md`.
 
 Mastery lets the holder **bypass filtration** and feed mana straight into the spell pattern.
 
@@ -224,7 +224,7 @@ Mastery lets the holder **bypass filtration** and feed mana straight into the sp
 - Evolution ladder mirrors the five rune ranks, e.g. Basic Rune Mastery (Lesser) → Rune Mastery (Common) → Greater Rune Mastery → Grand Rune Mastery → Legendary Rune Mastery. Exact display names can tune later; the rule is one Mastery form per rune rank, L1–L9 each, -10%/level, -90% cap on that rank only.
 - Unskilled users always pay full filtered cost. Skilled users fire cheaper and usually faster because they skip the safe path.
 
-Crafting skill (Basic Runecraft and evolved forms) discounts **setup** only, same ladder, own rank only (`RuneSetup.md`). Mastery and craft skill stack independently.
+Crafting skill (Basic Runecraft and evolved forms) discounts **setup** only, same ladder, own rank only (`Runes/RuneSetup.md`). Mastery and craft skill stack independently.
 
 **Runic Mana Scribe class (locked):** **−3% mana cost to scribe** spells and runes **per class level** (L1 = −3%, L25 = −75%). Also raises mana regen. This is **craft** spend, not activation. **Basic Rune Mastery** is activation only (−10%/level).
 
@@ -234,7 +234,7 @@ Craft-time empowerment can still prepay structure or charge. That is separate fr
 
 Optional extras on the same skill later: comprehension gates for that rank, fewer craft fizzles, denser layouts. Cost bypass is the core combat feel.
 
-**Early mana law (Ch 1–70):** running out of mana in fights and while crafting basic runes is a main tension. **Rune Mastery** and **Mana Reinforcement** both use the shared ladder **-/+10% per level, 90% cap**. Mastery cuts activation cost; Reinforcement turns mana into body stats while the pool lasts and drops when he is empty. Regen and fewer failed crafts still carry day-to-day survival. Lesser setup at L1 is about 900 mana (0.45 adult pool at 2000) and about 45 min at 20 mana per minute (`RuneSetup.md`).
+**Early mana law (Ch 1–70):** running out of mana in fights and while crafting basic runes is a main tension. **Rune Mastery** and **Mana Reinforcement** both use the shared ladder **-/+10% per level, 90% cap**. Mastery cuts activation cost; Reinforcement turns mana into body stats while the pool lasts and drops when he is empty. Regen and fewer failed crafts still carry day-to-day survival. Lesser setup at L1 is about 900 mana (0.45 adult pool at 2000) and about 45 min at 20 mana per minute (`Runes/RuneSetup.md`).
 
 Same bar for **build** skills: Marksmanship changes hit chance and kit design. Analyze shows real formulas. Hastened Reading cuts real grind time. If the number is too small to matter at L1–L9, raise it or change the effect. **Flavor skills** (Sleep Resistance, Cooking, Technology, Acting, Basic Mathematics, Map Reading, and similar) stay soft and behind the scenes; do not force combat math onto them.
 
@@ -246,7 +246,7 @@ Idea only. Not on early sheets.
 - Above **Basic Mana Shaping** / **Mana Shaping** sits a separate **passive** telekinesis / mage-hand skill (name TBD: e.g. **Mana Telekinesis**, **Telekinetic Grip**, **Silent Hands**).
 - **Gate:** unlockable only after Roland holds a **Tier 2** class. Maxing Basic Mana Shaping at Tier 1 is not enough. No T1 evolve path into this skill.
 - **Feel:** always-on fine force at short range without a full chant. Hold tools, catch dropped parts, brace a shield rim, pluck a fuse, steady a launcher while both hands are busy. Costs a thin ambient MP trickle or spikes when he pushes weight / speed. Levels raise mass, range, precision and multitask count.
-- **Pads (draft):** Int-heavy like Shaping, or Int +1 / Will +1 even. Lock when the skill is written into `Skills.md`.
+- **Pads (draft):** Int-heavy like Shaping, or Int +1 / Will +1 even. Lock when the skill is written into `Progression/Skills.md`.
 - **Anti-pad:** if he can already do the same job with Mana Hands + Shaping and never feels the new skill, cut it or raise the numbers until T2 craft / combat scenes change.
 
 ### Tier 1 Mage: foundational applications
@@ -338,7 +338,7 @@ Class dumps Bolt / Arrow / Shield on level gates. Books and practice fill the ut
 
 - Which of these become named spells vs unnamed Shaping tricks.
 - Whether Light / Push / Wall are class grants at set Mage levels or book-only.
-- Exact MP costs and L1–L9 feel when a spell is locked into `Spells.md`.
+- Exact MP costs and L1–L9 feel when a spell is locked into `Combat/Spells.md`.
 
 ### Mana Abilities (draft tree)
 
@@ -391,16 +391,16 @@ Idea map. Overlaps the T1 table above; keep both until names lock.
 - **Fragmentation Burst** - A compressed charge that splits into multiple smaller explosions on impact.
 
 **Vacuum**
-- **Void Pull** - Vacuum that draws targets or objects toward its center before collapsing. On resisting people: full-body ground-sealed shell rules in `Science/Vacuum.md`.
-- **Suffocate** - Sustained vacuum deny-air. **No cheap pocket.** Vitality and the target's magic resist raw mana air-manipulation. Must enclose the whole body with a standoff shell **sealed to the ground** (or equivalent closed volume) unless the target cannot resist at all except by sitting in otherwise impenetrable armor. Injury sequence and costs: `Science/Vacuum.md`.
+- **Void Pull** - Vacuum that draws targets or objects toward its center before collapsing. On resisting people: full-body ground-sealed shell rules in `../Science/Vacuum.md`.
+- **Suffocate** - Sustained vacuum deny-air. **No cheap pocket.** Vitality and the target's magic resist raw mana air-manipulation. Must enclose the whole body with a standoff shell **sealed to the ground** (or equivalent closed volume) unless the target cannot resist at all except by sitting in otherwise impenetrable armor. Injury sequence and costs: `../Science/Vacuum.md`.
 
 **Sound Waves**
 - **Sonic Boom** - A concentrated wave released in a single directional strike.
 - **Disorient Wave** - A wide wave tuned to disrupt balance and focus rather than deal damage.
-- Sound power, Q, air–tissue coupling, echolocation L9: `Science/Sound.md`.
+- Sound power, Q, air–tissue coupling, echolocation L9: `../Science/Sound.md`.
 
 **Mana Jet / Flight**
-- Cost follows `Science/Flight.md` math at the caster's η(L) and μ(INT). No locked expensive or cheap flight.
+- Cost follows `../Science/Flight.md` math at the caster's η(L) and μ(INT). No locked expensive or cheap flight.
 
 **Static Charge**
 - **Shock Touch** - A static charge delivered through direct contact.
@@ -467,8 +467,8 @@ See `Story/Notes/Early Logical Skills.md`. Short version: Basic Mathematics and 
 - What concrete help Elodia gives Roland first (and what conflict that buys later).
 - How much Armand / Lobelia stay attached to that thread.
 - Finalize Early Logical Skills naming (Ambient Mana Absorption vs early Regulation; Parallel Thinking trait vs skill).
-- Temp skill rewrite pass: `References/TempRolandSkillChanges.md` (merge then delete).
+- Temp skill rewrite pass: `Progression/TempRolandSkillChanges.md` (merge then delete).
 - Name and lock the Tier 2+ passive telekinesis / mage-hand skill above Mana Shaping (`Ideas.md` Systems).
 - **Goblin Hunter** unlock threshold: **1000** goblin kills (locked). Ch 9.5 grants it in month 3 once past **1000** into the skip; end skip at **1,481** Carwen kills / **1,569** lifetime; Ch 10 nest → **1,576** lifetime (`Experience.md`). Later Goblin Slaughterer may need its own kill or boss gate.
-- Ordinary-person skill list + L9 training times: `References/NormalPersonSkills.md` (through Expert; no system acceleration).
+- Ordinary-person skill list + L9 training times: `Progression/NormalPersonSkills.md` (through Expert; no system acceleration).
 - Future product line timing: soap / pins / matches (weeks 1–4) → cards / toilet paper + steel furnace (months 2–4) → printing press (months 4–8) → bicycle then ball pen (months 8–12+). Solo build order in `Ideas.md` Future products. Patents vs scribe / smith / chandler guilds after Albrook shop is stable.

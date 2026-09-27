@@ -1,7 +1,7 @@
 # Mana Stones
 
 Hub: `Science.md`.
-Street prices: `../Economy.md`.
+Street prices: `../World/Economy.md`.
 
 ## Mana stones (size and quality)
 
@@ -93,7 +93,7 @@ Q  = ρ / ρ₀                        from weigh + size (or Identify)
 
 Same outer size, heavier stone → higher Q. Same mass, smaller stone → denser → higher Q.
 
-**Market (guild buy):** size still dominates the sticker through the **leader** band (linear with volume; see `Economy.md`). **Above leader**, guilds use **stepped size bands** (not linear mm³): a Common **16 mm** marble (~113× rice volume) sells around **1.5–4 LS** (mid **~2 LS**), not the ~2.3 SG a pure volume rule would imply. Quality is a multiplier on that size band:
+**Market (guild buy):** size still dominates the sticker through the **leader** band (linear with volume; see `../World/Economy.md`). **Above leader**, guilds use **stepped size bands** (not linear mm³): a Common **16 mm** marble (~113× rice volume) sells around **1.5–4 LS** (mid **~2 LS**), not the ~2.3 SG a pure volume rule would imply. Quality is a multiplier on that size band:
 
 ```
 Price ≈ Price_size(V) × Q

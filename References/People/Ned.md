@@ -1,6 +1,6 @@
 # Ned (Needle Worm companion)
 
-Roland’s first tamed companion. Named **Ned**. Core-bearing Floor-2 **Needle Worm**; worn as a green scarf after Ch 12 **Basic Taming** L1. Species entry: `Creatures.md`. Mounts index: `Mounts.md`.
+Roland’s first tamed companion. Named **Ned**. Core-bearing Floor-2 **Needle Worm**; worn as a green scarf after Ch 12 **Basic Taming** L1. Species entry: `../World/Creatures.md`. Mounts index: `../World/Mounts.md`.
 
 ## Diet (Ch 13 half-year)
 
@@ -50,7 +50,7 @@ Levels **add up** across forms (**max overall 525**). He does not reset to L1 on
 Focus of the alternate line (vs moth powder / flight):
 
 - **Launching needles** as ranged weapons, not only the body-spring charge
-- **Producing silk** for binding, travel and utility
+- **Producing silk** for binding, travel and utility (Earth fiber anchors: `BiologicalSilks.md`)
 - **Poison** in place of moth powder / dust
 - **Physical strength and resilience** (charging-caterpillar body, skin and spring stay the combat core)
 
@@ -88,7 +88,7 @@ Combat priority is **close the bag fast**: living epidermis + hemolymph / glue s
 
 ### Circulatory fluid restore (Ned hemolymph)
 
-Human / Roland blood restore lives under **Endurance** in `Attributes.md` (same **M** formula).
+Human / Roland blood restore lives under **Endurance** in `../Progression/Attributes.md` (same **M** formula).
 
 **Stat factor** (shared):
 
@@ -110,7 +110,7 @@ Adult Vit/End **15/15** → **M = 1.0**. Rate × M; times ÷ M.
 | Ned 1x (Ch 12 tame, `NedStatus.md`) | 25 | 15 | **1.33** | **~4.5–9 h** | **~0.17–0.55 L/h** |
 | Ned ~3x (Ch 13 half-year, `NedStatus.md`) | 75 | 45 | **4.00** | **~1.5–3 h** | **~0.5–1.7 L/h** |
 
-Roland blood restore (rewrite Vit **47** / End **53**, **M = 3.33**): `Attributes.md`.
+Roland blood restore (rewrite Vit **47** / End **53**, **M = 3.33**): `../Progression/Attributes.md`.
 
 Scaled by body mass, caterpillars replace circulatory fluid faster and with less of a cellular bottleneck than humans. After seal, Ned’s open hemolymph bath refill is **hours**, not weeks. Harvest cuts for seasoning / Seal skill drills stay small vs the **1.5–2.5 L** tank.
 

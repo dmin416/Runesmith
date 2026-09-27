@@ -475,7 +475,7 @@ Rule of thumb: **double the volume → about 4× the price**. Trade down used ba
 
 ## 19. Potions (unpriced in canon - flagged, not estimated)
 
-Hangover potions and **healing / recovery potions** both exist and are in circulation. Absolute shop prices are **not stated on-page**. Item behavior: `References/Items.md`.
+Hangover potions and **healing / recovery potions** both exist and are in circulation. Absolute shop prices are **not stated on-page**. Item behavior: `../Items/Items.md`.
 
 **Healing / recovery potion (rewrite lock):** health brew that **closes wounds** (drink and/or pour). Flesh knits under the liquid; heat runs through torn muscle and staunches bleed. Pain of the brew can exceed the wound. Low-grade seals holes but leaves residual soreness. Not “numbers tick up while the cut stays open.” Hangover potions are separate (Carwen Ch 12; Roland skips them to save coin). Low-grade recovery / healing appears Ch 14 (watcher fight; from his bag). Dungeon-gate stalls mark potions up **>=25%** over market (Ch 71).
 
@@ -575,7 +575,7 @@ Overall: rice-grain ≈ **(29/30)×(1/5) ≈ 1 in 5.2** kills. Leader stone ≈ 
 
 **Linear band (rice → leader only):** same Common Q, price ∝ volume. Rice-grain = **2 SS = 20 LC**. Leader / Spiked Boar chest = **5×** volume → **10 SS = 1 LS = 100 LC**.
 
-**Above leader (stepped, not linear):** guild street prices do **not** keep scaling with raw mm³. A **16 mm** marble is ~**113×** rice volume (~**2.3 SG** if linear) but Common market settles at **1.5–4 LS** (mid **~2 LS**): harder to move whole, buyers prefer shards for recharge, guilds soft-cap large-core stickers. Quality still multiplies the size band (`Science/ManaStones.md`: `Price ≈ Price_size(V) × Q`).
+**Above leader (stepped, not linear):** guild street prices do **not** keep scaling with raw mm³. A **16 mm** marble is ~**113×** rice volume (~**2.3 SG** if linear) but Common market settles at **1.5–4 LS** (mid **~2 LS**): harder to move whole, buyers prefer shards for recharge, guilds soft-cap large-core stickers. Quality still multiplies the size band (`../Science/ManaStones.md`: `Price ≈ Price_size(V) × Q`).
 
 | Size / source | Volume vs rice | Price | Rule |
 |---|---|---|---|
@@ -588,7 +588,7 @@ Overall: rice-grain ≈ **(29/30)×(1/5) ≈ 1 in 5.2** kills. Leader stone ≈ 
 | Marble (hobgoblin, soldier ant; ~**16 mm**) | **~113×** | **1.5–4 LS** (mid **~2 LS**) | **Stepped** above leader; not linear |
 | Larger / multi-evolution cores | — | **few LS → SG** | Stepped size bands + Q |
 
-Capacity at Q1: Needle Worm tiny **~9–10** mana → rice-grain **19** → leader **~95** → marble **~2,145** (`Science/ManaStones.md`).
+Capacity at Q1: Needle Worm tiny **~9–10** mana → rice-grain **19** → leader **~95** → marble **~2,145** (`../Science/ManaStones.md`).
 
 ---
 
@@ -615,7 +615,7 @@ Units in large copper. **1 SS = 10 LC**, **1 LS = 100 LC**, **1 SG = 1000 LC**.
 
 Chapter 9 turn-in "**95 LC** richer" is income only (35+60), before meal/map already spent. Monthly lodging quote in Ch 9 is ~**10%** off (**28** × 1 SS = **280** → **252 LC**). Same rate through Ch 13 (Hilde's advertised monthly discount; Source **5%** discarded). Breakfast is **+5 LC** on the lodging quote; dinner is the **5 LC** inn tray. Forest lunch: **3** jerky sticks (~**2 LC** each); other midday meals are rabbits and other prey taken from goblin camps (no coin).
 
-After Ch 9 day one he **keeps** stones (no further stone sales in Ch 9.5). End Ch 9.5 / into Ch 10: pouch **6,000 LC** (**6 SG**); stones **286** rice-grain + **16** leader. Full kill/stone notes: `Experience.md`, `Items.md`.
+After Ch 9 day one he **keeps** stones (no further stone sales in Ch 9.5). End Ch 9.5 / into Ch 10: pouch **6,000 LC** (**6 SG**); stones **286** rice-grain + **16** leader. Full kill/stone notes: `Experience.md`, `../Items/Items.md`.
 
 ---
 

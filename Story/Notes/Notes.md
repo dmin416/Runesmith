@@ -8,7 +8,7 @@ When updating status, skills or traits from chapters, follow `CrossCheck.md`.
 - Roland's sacred creature companion is not a dog or wolf. It is a mustelid, starting off as a weasel or similar small mustelid before later evolution forms.
 - Formatting: speech in quotes and italics, thoughts in italics, sound effects in bold.
 - Prose: subject-first, concrete, reduced swearing vs source.
-- **System rewrite:** attributes = Body + Class levels + Skills/Traits. Body physicals and adult-mind Int/Will age tracks in `References/Progression.md`. Skill technique ranks and daily loop there too. Skill attribute bonus = +1 × skill level. Bucket tallies in `StatusBreakdown.md`. Live early sheets lag; use rewrite targets when retconning.
+- **System rewrite:** attributes = Body + Class levels + Skills/Traits. Body physicals and adult-mind Int/Will age tracks in `References/Progression/Progression.md`. Skill technique ranks and daily loop there too. Skill attribute bonus = +1 × skill level. Bucket tallies in `StatusBreakdown.md`. Live early sheets lag; use rewrite targets when retconning.
 
 ## Chapter 1
 

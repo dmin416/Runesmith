@@ -3,7 +3,7 @@
 Through end of Source (~Ch 709). Each skill once at first clear gain.
 Excludes Agni, Millie, Bernir, Lucille, Robert, Arthur skills and traits.
 
-**Rewrite:** transfer uses **Technology** (not Circuitry) plus Cooking, Marksmanship and Acting. Attribute bonus = +1 × skill level. Technique ages and Reading track: `References/Progression.md`. Buckets: `StatusBreakdown.md`.
+**Rewrite:** transfer uses **Technology** (not Circuitry) plus Cooking, Marksmanship and Acting. Attribute bonus = +1 × skill level. Technique ages and Reading track: `References/Progression/Progression.md`. Buckets: `StatusBreakdown.md`.
 
 ## Pre-class / transfer
 

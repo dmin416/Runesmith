@@ -1,6 +1,6 @@
 # Ned Status
 
-Companion sheet by chapter. Design / ramps / skill model: `References/Ned.md`. Roland’s sheet stays in `Status.md`.
+Companion sheet by chapter. Design / ramps / skill model: `References/People/Ned.md`. Roland’s sheet stays in `Status.md`.
 
 **Rules:** Overall level is cumulative (no reset on body evo). Capability Stats in `Ned.md` = **1x** base. Multiplier from overall band, not per-level +Str. Luck stays **7**. HP = `Vit×10 + End×3` (same resource line as Roland). Skills cap at **L9** then evolve (`Ned.md` skill model).
 

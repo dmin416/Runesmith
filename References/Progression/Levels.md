@@ -104,7 +104,7 @@ Split among the XP takers (Ch 14: five - Roland, Becky, Sahildr, Reyna, Ned). **
 
 #### Danger vs stats (people)
 
-- **Stats** set physical ceiling only: tip KE, sprint, HP pool (`AttackScale.md`, street baseline STR/AGI **15**).
+- **Stats** set physical ceiling only: tip KE, sprint, HP pool (`../Combat/AttackScale.md`, street baseline STR/AGI **15**).
 - **Danger** is stats × skills × gear × tactics. A combat-classed person with actives (Gale Step), enchanted weapons and training hits far above a same-stat civilian or a same-level trash monster.
 - Same overall level: a fighter usually out-threats goblin-tier trash; dense beasts (Wereboar band) can still win a raw brawl on size and HP. Tier 2 skills make L55 specialists spike hard even when their sheet looks "only" mid-T2.
 - Do not treat overall level alone as threat. Read class tier, skill loadout and gear with the numbers. XP pool is **`50 × overall level`**.
@@ -256,7 +256,7 @@ Chapter 14 narration: common Tier 2 packages grow about **×1.5** vs Tier 1 (for
 
 ## Skill levels
 
-Rewrite law (also in `Ideas.md`):
+Rewrite law (also in `../Ideas.md`):
 
 - Skills rank **L1 through L9**. L9 is the hard max for that skill name.
 - **Until the first Tier 2 class is gained**, no skill may exceed **L9**. There is no L10 on any name in the T1 span.
@@ -272,7 +272,7 @@ Rewrite law (also in `Ideas.md`):
 | 5 | Legendary / Grandmaster | Legendary Runecraft, Grandmaster Forging |
 
 - Higher prefix tracks (Expert / High and above) usually wait on Tier 2+ class gates unless a chapter locks an earlier exception.
-- **Special skills** (Technology, Circuitry-type, and similar) sit **outside** this ladder. No Basic→Expert→Overlord path. Separate rules; see `Ideas.md`.
+- **Special skills** (Technology, Circuitry-type, and similar) sit **outside** this ladder. No Basic→Expert→Overlord path. Separate rules; see `../Ideas.md`.
 - Effects and skill-tied stat bonuses scale with the current skill’s level.
 - Evolving a Basic skill grants the new form’s L1 attribute pad (+1 × level into favored attrs). Ch 13’s “free stat point” wording is that L1 pad, **not** a second bonus on top of it.
 - **Technique only:** level is form / efficiency / timing / decisions, not body power. L5 = dedicated adult amateur, L7 = competitive or professional, L9 = pinnacle of normal human technique on that prefix. Early Basic ranks by age: `Progression.md`.

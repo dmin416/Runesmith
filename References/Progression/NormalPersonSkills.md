@@ -4,9 +4,9 @@ Skills any ordinary person in the setting can plausibly gain. Not locked behind 
 
 **Scope:** ordinary people, **no system acceleration**. Roland and similar system users can beat these clocks (live danger, achievement thresholds, class pads).
 
-**Read the times as L9 caps (pinnacle of that prefix), not “first useful.”** Useful field work is usually mid-band (**L5–L7**). See technique scale in `Levels.md` / `Ideas.md`.
+**Read the times as L9 caps (pinnacle of that prefix), not “first useful.”** Useful field work is usually mid-band (**L5–L7**). See technique scale in `Levels.md` / `../Ideas.md`.
 
-Prefix ladder: `Ideas.md` / `Levels.md` (Basic/Lesser → plain → Expert/High → …). This file only times through **Level 3 (Expert / High)**.
+Prefix ladder: `../Ideas.md` / `Levels.md` (Basic/Lesser → plain → Expert/High → …). This file only times through **Level 3 (Expert / High)**.
 
 ---
 

@@ -9,7 +9,7 @@ Basis for setup mana going forward (not frozen; dials stay open). Companion to t
 | Term | Meaning |
 |---|---|
 | Setup | Mana the crafter pours once to establish the pathways in a material |
-| Activation | Mana paid every cast. Fixed cost from the baseline. Scrolls add a filtration tax (canon, Ideas.md). |
+| Activation | Mana paid every cast. Fixed cost from the baseline. Scrolls add a filtration tax (canon, ../Ideas.md). |
 | Charge | Mana that sits inside the rune after setup and can feed activation |
 
 ## Does the setup mana stay in the rune?
@@ -52,7 +52,7 @@ Figures show an unskilled crafter (S 1) with C 1 and copper.
 
 ### Skill (reduces cost)
 
-One crafting skill form per rank (canon: Basic Runecraft covers Lesser and evolved forms cover Common to Legendary). Each level cuts 10 percent with a cap of 90 percent at L9 (the shared ladder in Ideas.md). A form only discounts its own rank. A crafter without the form pays full base. The last 10 percent is the frame itself. The rest at L0 is scrap burned in botched pours (canon: failure burn rate).
+One crafting skill form per rank (canon: Basic Runecraft covers Lesser and evolved forms cover Common to Legendary). Each level cuts 10 percent with a cap of 90 percent at L9 (the shared ladder in ../Ideas.md). A form only discounts its own rank. A crafter without the form pays full base. The last 10 percent is the frame itself. The rest at L0 is scrap burned in botched pours (canon: failure burn rate).
 
 | Skill level | S | Lesser (C 1) | Common (C 1) | Greater (C 1) | Lesser pour time |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@ Mythril costs 4 times iron to set and wastes one eighth as much per cast.
 | P2 | Standing charge | Setup spent plus an optional fill of the Reservoir | Draws charge first then the wielder | Capacity 1 mana per mm³ (stone figure as placeholder). A sword Reservoir of 500 mm³ holds 500 mana or 10 casts at 50. Storing costs 1.31 mana per mana (body 0.90 x intake 0.85). |
 | P3 | Trickle refill | P2 plus slow ambient intake refills the charge | As P2 | Rate = intake area x local density. Idle weapons top up on mana-rich ground. |
 | P4 | Leak | P2 with charge decay of 2 percent per day | As P2 | 30 days leaves 55 percent. Prevents hoarding. Prepaid weapons need topping. |
-| P5 | Stone slot | Setup plus 10 percent for the socket | Stone supplies 40 percent (canon) so a 50 mana cast costs the wielder 30 | Stone capacity is area-based and quality does not raise it (Science/ManaStones.md). |
+| P5 | Stone slot | Setup plus 10 percent for the socket | Stone supplies 40 percent (canon) so a 50 mana cast costs the wielder 30 | Stone capacity is area-based and quality does not raise it (../Science/ManaStones.md). |
 | P6 | Standing reservation | Setup spent | Passive runes lock part of the pool while running. Example: 10 percent of the pool per piece (canon: 100 on a 1000 pool). | Upkeep is a locked pool with no drain. An adult pool of 2000 locks 200 per piece. |
 | P7 | Maker bond | Setup leaves the maker's signature in the pattern | Maker pays 10 percent less. Others pay full. | Rewards keeping a signature weapon. Sale changes the bond. |
 | P8 | Material-paid setup | Ink or paste made from stone dust or monster blood pays part of setup at 70 percent recovery | Separate | A pea stone (180) yields 126 mana which covers a Lesser firecracker rune at L9 (100). A cube (1000) yields 700. |

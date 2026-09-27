@@ -11,7 +11,7 @@ Passive. Finds and resolves defects; +Intelligence equal to skill level. Roland�
 ### Technology
 First seen: Chapter 2
 Passive. Bonus to repair and creation of technology or technological equivalents. +Dexterity and +Intelligence equal to skill level. Roland’s transferred skill at L7 (was Circuitry in older wording). Chapter 4 clock: supplies the **conceptual and understanding** side (with Tinkerer on physical/mechanical fit). Chapter 15: co-culprit with Debugger on rune study; fills rune knowledge gaps on encounter (active use alongside Debugger overlay; not only passive).
-**Special skill:** outside the Basic→…→Legendary evolution ladder (`Ideas.md`). No prefix evolve track.
+**Special skill:** outside the Basic→…→Legendary evolution ladder (`../Ideas.md`). No prefix evolve track.
 
 ### Cooking
 First seen: Chapter 2
@@ -688,7 +688,7 @@ Titles are status cards separate from traits. Some give combat bonuses.
 
 ### Goblin Hunter
 First seen: Chapter 9.5 (month 3; on-sheet Chapter 10)
-Earned by goblin hunting. Unlock threshold **1000** goblin kills (locked; `Ideas.md` / `Experience.md`). Ch 9.5 grants it once past **1000** into the Carwen skip; end skip **1,481** Carwen / **1,569** lifetime; Ch 10 nest → **1,576** lifetime. **All** goblins are hostile toward the holder. Goblins **below** the holder's level exert less force and sometimes become afraid. Innate sense for the location of nearby goblins. Nickname talk: Little Goblin Slayer. Later evolves to Goblin Slaughterer (Chapter 37).
+Earned by goblin hunting. Unlock threshold **1000** goblin kills (locked; `../Ideas.md` / `Experience.md`). Ch 9.5 grants it once past **1000** into the Carwen skip; end skip **1,481** Carwen / **1,569** lifetime; Ch 10 nest → **1,576** lifetime. **All** goblins are hostile toward the holder. Goblins **below** the holder's level exert less force and sometimes become afraid. Innate sense for the location of nearby goblins. Nickname talk: Little Goblin Slayer. Later evolves to Goblin Slaughterer (Chapter 37).
 
 ### Runic Scholar
 First seen: Chapter 15

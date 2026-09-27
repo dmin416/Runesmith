@@ -199,7 +199,7 @@ Half-year Floor-3 run. Companion named **Ned**. Kill / XP / haul / pouch locks: 
 Watcher ambush / party rescue. Carry-in from Ch 13.
 
 **Used**
-- **Low-grade healing / recovery potion** – from his bag. Downs half, pours rest on shoulder and calf. Sizzle knit; seals holes; residual muscle ache. Behavior lock: `References/Items.md`.
+- **Low-grade healing / recovery potion** – from his bag. Downs half, pours rest on shoulder and calf. Sizzle knit; seals holes; residual muscle ache. Behavior lock: `References/Items/Items.md`.
 - **Shortsword** – fails to catch tip (shoulder pierce).
 - **Throwing dagger** – drawn; no clean hit under speed.
 - **Ned** – living companion; left-arm needle slam then skull press into Sahildr's hammer.

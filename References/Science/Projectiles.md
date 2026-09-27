@@ -192,7 +192,7 @@ Work to reach top speed ≈ that KE (ignore air drag and internal limb motion):
 | Average man | 1,440 J | ~4 s | ≈ **360 W** |
 | Bolt | 7,227 J | ~6 s | ≈ **1,200 W** |
 
-Power ratio ≈ ×3.3. Sheet mapping: **1 AGI ≈ 25 W**, so AGI 15 ≈ 375 W (street) and AGI 48 ≈ 1,200 W (Bolt-class power). Equal-mass sprint speed still uses `v = 6√(AGI/15)` in `Progression.md`.
+Power ratio ≈ ×3.3. Sheet mapping: **1 AGI ≈ 25 W**, so AGI 15 ≈ 375 W (street) and AGI 48 ≈ 1,200 W (Bolt-class power). Equal-mass sprint speed still uses `v = 6√(AGI/15)` in `../Progression/Progression.md`.
 
 ### Energy delivered to the projectile
 
@@ -208,7 +208,7 @@ A hard throw puts on the order of **70–220 J** into a baseball when stats are 
 
 ### Roland ages 5–10 (formula stress test)
 
-Inputs from `Progression.md` and `StatusBreakdown.md`:
+Inputs from `../Progression/Progression.md` and `StatusBreakdown.md`:
 
 - Deadlift = 6 × STR kg. Overhead press W ≈ 0.5 × deadlift.
 - v_s = 15 × √(AGI / 15) m/s (throw pivot). Sprint = 6 × √(AGI / 15) is locomotion only.

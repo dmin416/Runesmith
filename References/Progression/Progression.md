@@ -1,5 +1,19 @@
 # Progression
 
+Status, training and career law.
+
+| File | Role |
+|---|---|
+| `Progression.md` | Age tracks, technique ranks, daily loop, STR/AGI calibration |
+| `Levels.md` | XP, class/skill levels, packages, attribute bonuses |
+| `Attributes.md` | Stat meanings and resource formulas |
+| `Classes.md` | Named classes |
+| `RolandClasses.md` | Roland’s class path |
+| `Skills.md` | Skills / traits catalog |
+| `NormalPersonSkills.md` | Ordinary L9 training times |
+| `AdventurerRanks.md` | Guild ranks |
+| `TempRolandSkillChanges.md` | Temp skill rewrite pass (merge then delete) |
+
 Training timelines for battlefield endurance and heavy craft work. These are physical capacity ranges, not class or level curves.
 
 For class levels, skill levels, XP and tier multipliers, see `Levels.md`.
@@ -244,7 +258,7 @@ Skills and traits still stack on top (Debugger, Technology, Reading, Mana Sense,
 
 Skill **level measures technique only**: form, efficiency, timing and decision making. Body size and strength affect results but **do not** raise the level. A small elite technician can sit at a high skill level and still lose a contest of raw force to a bigger amateur.
 
-Aligns with `Levels.md` / `Ideas.md`: skills rank **L1–L9**, then evolve. L9 is the hard max for that skill name.
+Aligns with `Levels.md` / `../Ideas.md`: skills rank **L1–L9**, then evolve. L9 is the hard max for that skill name.
 
 ### Technique landmarks
 

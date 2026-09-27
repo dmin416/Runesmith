@@ -1,6 +1,6 @@
 # Experience
 
-Running XP log. Kill formula and curve: `References/Levels.md`. Status screens: `Status.md`. Coin / stones: `Items.md`, `References/Economy.md`.
+Running XP log. Kill formula and curve: `References/Progression/Levels.md`. Status screens: `Status.md`. Coin / stones: `Items.md`, `References/World/Economy.md`.
 
 **Common goblin:** `49 + level` (RaceMult 1.0). **Dungeon rat:** `9 + level`. **Needle Worm:** `24 + level`. **Needle Moth:** `99 + level`. **Spiked Boar:** `499 + level`. **Wereboar:** `999 + level`. **People** (classed races): `50 × overall level` (Ch 14 L55 pool **2750**; Roland **479**). Other monster races: `(49 + level) × RaceMult`.
 

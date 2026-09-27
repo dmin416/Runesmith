@@ -2,7 +2,7 @@
 
 Roland's skills, traits and titles by chapter. Follow `CrossCheck.md`.
 
-**Rewrite rules:** skill technique ranks by age in `References/Progression.md`. Attribute bonus from a skill = **+1 × current skill level** per favored attribute (`References/Levels.md`). Sheet buckets in `StatusBreakdown.md`.
+**Rewrite rules:** skill technique ranks by age in `References/Progression/Progression.md`. Attribute bonus from a skill = **+1 × current skill level** per favored attribute (`References/Progression/Levels.md`). Sheet buckets in `StatusBreakdown.md`.
 
 Trait Int/Will bonuses are flat cards. They sit in the Skills/Traits bucket with skill level bonuses (`StatusBreakdown.md`). Body Int/Will come from `Progression.md` adult-mind track (age 5: Int 12, Will 15).
 

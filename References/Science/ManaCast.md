@@ -1,7 +1,7 @@
 # Mana Cast Physics
 
 Hub: `Science.md`.
-Cast blurbs also in `../Spells.md`. Path wear: `../Energy.md`.
+Cast blurbs also in `../Combat/Spells.md`. Path wear: `../Runes/Energy.md`.
 
 ## Mana energy (shared cast law)
 
@@ -375,7 +375,7 @@ Element takes share **f** of kinetic K; punch keeps `(1 − f) × K`. At L1 INT 
 
 Katana edge hardness ~**400 MPa** clears R up to **267 MPa** (matches an arrow around INT **25**). A katana swing carries about **125 J**. It cuts through mantis carapace and fails on mail and harder. A goblin neck takes about **56 J** (soft tissue ~11 J and vertebra ~45 J). A mana-infused katana uses the same `H(INT)` curve as the arrow tip.
 
-See also `Spells.md` (Mana Bolt, Mana Arrow).
+See also `../Combat/Spells.md` (Mana Bolt, Mana Arrow).
 
 ## Ember
 
@@ -460,7 +460,7 @@ Hold rows are **grip / restraint** only. Airborne hover and flight use the power
 
 Barrier hit count from the shared cast law, scaled by shield area and hold time. **Baseline cast = 100 mana** (2× normal Arrow, 4× normal Bolt). Overcharge = mana spent.
 
-**Fight-scale map** (physical tip KE vs shield pools, worked Ch 14 lock): `AttackScale.md`.
+**Fight-scale map** (physical tip KE vs shield pools, worked Ch 14 lock): `../Combat/AttackScale.md`.
 
 ```
 N = floor( 20 × M × η(L) × μ(INT) × S × R / J )
@@ -652,4 +652,4 @@ Match live Bolt / Arrow casts from the cast law (voice mana × 10 × η × μ). 
 | 30° | 25% |
 | 15° | 7% |
 
-See also `Spells.md` (Ember, Mana Hands, Mana Shield).
+See also `../Combat/Spells.md` (Ember, Mana Hands, Mana Shield).

@@ -17,7 +17,7 @@ Mana at ημ 1 = Effect J / 10. Scale with η(L) and μ(INT).
 
 The grenade never wins on energy. Even 150 goblins packed inside 5 m still cost ~7 kJ each (~700 mana at ημ 1) if that is the share per body.
 
-Pressure, compressed air and hydrogen all lose as **pure magic-made fuel**. Splitting water takes ~142 MJ/kg H₂; burning returns ~120 MJ. Filtering from air is worse. Compressed air stores only ~0.1 MJ/L at 200 bar (`PoolAndStorage.md`, `Science/Compression.md` air cartridge).
+Pressure, compressed air and hydrogen all lose as **pure magic-made fuel**. Splitting water takes ~142 MJ/kg H₂; burning returns ~120 MJ. Filtering from air is worse. Compressed air stores only ~0.1 MJ/L at 200 bar (`PoolAndStorage.md`, `../Science/Compression.md` air cartridge).
 
 Best chemistry use: magic as the **trigger**. Carry powder or fuel and spend ~**1 mana** at ημ 1 (~10 J) on Ember to ignite MJ of stored energy. Walls and huge packed crowds.
 

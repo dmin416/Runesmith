@@ -20,7 +20,7 @@ Update these together when a chapter changes his sheet. Keep history by chapter.
 | Attribute bucket math (Body / Class / Skills-Traits) | `StatusBreakdown.md` |
 | Skills, traits, titles (Passive, Active, Spell, Class bonuses, trait cards) | `Skills.md` |
 | Gear / carried items / Identify item blocks / pouch snapshot | `Items.md` |
-| Consumable item types (healing potions, etc.) | `References/Items.md` |
+| Consumable item types (healing potions, etc.) | `References/Items/Items.md` |
 | Kill XP, bars, level-ups, kill totals, grind ledgers (coin tied to kills) | `Experience.md` |
 | First-clear skill index / Source delay list | `Roland's Skills.md`, `Early Logical Skills.md` |
 | Rewrite intent, plot beats, companion type, formatting rules | `Notes.md` |
@@ -36,24 +36,28 @@ Also update the matching reference when a named thing is new, renamed or its des
 
 | Topic | File |
 |---|---|
-| Skills and traits | `References/Skills.md` |
-| Attributes and resource formulas | `References/Attributes.md` |
-| Body / mental age tracks, technique ranks, daily loop | `References/Progression.md` |
-| Spells | `References/Spells.md` |
-| Classes (all named) | `References/Classes.md` |
-| Roland’s classes | `References/RolandClasses.md` |
-| Class / skill levels, XP, packages, skill attribute bonuses | `References/Levels.md` |
-| Coin peg, wages, prices, ledgers | `References/Economy.md` |
+| Skills and traits | `References/Progression/Skills.md` |
+| Attributes and resource formulas | `References/Progression/Attributes.md` |
+| Body / mental age tracks, technique ranks, daily loop | `References/Progression/Progression.md` |
+| Spells | `References/Combat/Spells.md` |
+| Classes (all named) | `References/Progression/Classes.md` |
+| Roland’s classes | `References/Progression/RolandClasses.md` |
+| Class / skill levels, XP, packages, skill attribute bonuses | `References/Progression/Levels.md` |
+| Coin peg, wages, prices, ledgers | `References/World/Economy.md` |
 | Food / meal flavor anchors | `References/Food/` (`Food.md`, `EssentialIngredients.md`, `EssentialFlavorings.md`) |
-| Places (inns, towns, shops) | `References/Places.md` |
-| Dungeon layouts / floor patterns | `References/DungeonDesign.md` |
-| Adventurer ranks | `References/AdventurerRanks.md` |
-| Family / house people | `References/Family.md` |
-| Runes / schematics | `References/Runes.md` |
+| Places (inns, towns, shops) | `References/World/Places.md` |
+| Dungeon layouts / floor patterns | `References/World/DungeonDesign.md` |
+| Adventurer ranks | `References/Progression/AdventurerRanks.md` |
+| Family / house people | `References/People/Family.md` |
+| Runes / schematics | `References/Runes/Runes.md` |
 | Science / Earth tech anchors | `References/Science/Science.md` |
-| Attack / shield joule scale (physical STR·AGI tips, Mana Shield pools, Ch 14 lock) | `References/AttackScale.md` |
-| Weapons / blade loadout design | `References/Weapons.md` |
-| Races, creatures, mounts, encounters | matching `References/` file |
+| Attack / shield joule scale (physical STR·AGI tips, Mana Shield pools, Ch 14 lock) | `References/Combat/AttackScale.md` |
+| Weapons / blade loadout design | `References/Combat/Weapons.md` |
+| Races, creatures, mounts, encounters | `References/World/` (`Races.md`, `Creatures.md`, `Mounts.md`, `Encounters.md`) |
+| Technology / era baseline | `References/World/Technology.md` |
+| People (family, Ned design) | `References/People/` |
+| Potential magic rungs | `References/PotentialMagic/PotentialMagic.md` |
+| Ideas scratch | `References/Ideas.md` |
 
 `Story/Notes` holds Roland's personal sheet by chapter. `References` holds the world catalog. Keep both. Do not delete one because the other exists.
 
@@ -85,7 +89,7 @@ Displayed = Body + Class levels + Skills/Traits (+ Other if needed)
 - Class rename in rewrite: **Scribe** (Mana Scribe / Runic Mana Scribe), not Scrybe. Fix Story/Notes/References/`.cursor`. Leave `Source/` as Scrybe.
 - Trait listed under the Skills menu in chapter text. Still file it under the Traits subsection in `Skills.md` (Notes and References).
 - Class bonuses and affinity screens. Put them in Status for that chapter, and Spells or Skills if they unlock named abilities.
-- Resource math. If formulas change, update `References/Attributes.md` and any Status note that quotes them.
+- Resource math. If formulas change, update `References/Progression/Attributes.md` and any Status note that quotes them.
 - Later chapters. When filing a new status block, keep earlier chapter entries. Append. Do not overwrite the history.
 - Do not treat Source Ch 7 “all Basics L9” / Leather L4 as canon. Live Story Ch 7 uses `Progression.md` age-10 technique targets.
 - Destination beats: Ch 9.5 ends on research, not a named next city. Ch 10 on-page may still pick **Edelgard**. Do not backfill Edelgard into Ch 9.5 notes.

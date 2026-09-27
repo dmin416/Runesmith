@@ -2,7 +2,7 @@
 
 Roland's status by chapter. Copy from chapter screens. Follow `CrossCheck.md`.
 
-**Rewrite math:** `StatusBreakdown.md` (Body + Class + Skills/Traits). Age tracks: `References/Progression.md`. Early chapters below keep **Live** blocks from current prose and add **Rewrite target** numbers until those chapters are retconned.
+**Rewrite math:** `StatusBreakdown.md` (Body + Class + Skills/Traits). Age tracks: `References/Progression/Progression.md`. Early chapters below keep **Live** blocks from current prose and add **Rewrite target** numbers until those chapters are retconned.
 
 ## Chapter 1
 

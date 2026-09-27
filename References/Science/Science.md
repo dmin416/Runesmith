@@ -10,7 +10,7 @@ Mana = J / (10 × η(L) × μ(INT))
 Mana/s = Power (W) / (10 × η(L) × μ(INT))
 ```
 
-- **1 mana ≈ 10 J** is the locked standard for cast law and path formulas (`ManaCast.md`, `../Energy.md`, `../RuneSystem.md`).
+- **1 mana ≈ 10 J** is the locked standard for cast law and path formulas (`ManaCast.md`, `../Runes/Energy.md`, `../Runes/RuneSystem.md`).
 - **η(L):** spell level efficiency. L1 = **0.3**, L2 = **1.0**, … L9 = **3.0** (`ManaCast.md`). Not a separate soft quality cap.
 - **μ(INT):** `(INT / 15)^0.8`. INT 15 = 1×.
 - Skill ranks for diagnosis / echolocation / craft precision cap at **L9**.
@@ -41,4 +41,4 @@ No locked “flight is expensive” or “flight is cheap” fiat. Cost is whate
 
 **Future spell idea rungs** (same cast law): `../PotentialMagic/PotentialMagic.md`.
 
-**Related outside this folder:** path / ambient / wear `../Energy.md`. Attack ladder `../AttackScale.md`. Spell blurbs `../Spells.md`. Mana ability tree `../Ideas.md`.
+**Related outside this folder:** path / ambient / wear `../Runes/Energy.md`. Attack ladder `../Combat/AttackScale.md`. Spell blurbs `../Combat/Spells.md`. Mana ability tree `../Ideas.md`.

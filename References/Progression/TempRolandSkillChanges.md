@@ -1,11 +1,11 @@
 # Temp: Roland Skill Changes
 
-Temporary pass. Apply world laws from `Ideas.md`: skills **L1–L9 then evolve**, effects must be felt, ranged focus, no Source padding. Merge into `Skills.md` / chapter screens when locked; delete or archive this file after.
+Temporary pass. Apply world laws from `../Ideas.md`: skills **L1–L9 then evolve**, effects must be felt, ranged focus, no Source padding. Merge into `Skills.md` / chapter screens when locked; delete or archive this file after.
 
 **Global rules for every skill below**
 
 - Cap at L9. No L10 on the same name. Evolution starts the next prefix form at L1 (unless noted as higher-order, special, or tier-gated).
-- **Prefix ladder:** Basic/Lesser → *(none)* → Expert/High → Overlord/Master → Legendary/Grandmaster (`Ideas.md` / `Levels.md`).
+- **Prefix ladder:** Basic/Lesser → *(none)* → Expert/High → Overlord/Master → Legendary/Grandmaster (`../Ideas.md` / `Levels.md`).
 - **Special skills** (Technology and similar) are outside that ladder.
 - For **build skills** (combat, runes, perception, core craft): numbers big enough that L1 matters and L9 changes plans. Soft “slightly faster / small bonus” text is banned.
 - **Flavor / behind-the-scenes skills** (Sleep Resistance, Cooking, Technology, Acting, Basic Mathematics, Map Reading, and similar): keep light. They help in the background and justify scenes; do not redesign into combat math or heavy % tables.
@@ -97,7 +97,7 @@ World law: **Basic X** maxes at L9 → evolves to non-Basic form. Chapter 7 alre
 
 ### Basic Mana Shaping
 **Change:** Spell form stability and reshape options. L1: hold bolt shape. Higher: modify spread, pierce profile. L9 evolve → **Mana Shaping**: restructure spells (bridge to Runic Restructuring). +Int/Will only as secondary.
-**Above Shaping (Ideas):** separate **passive** telekinesis / mage-hand skill (name TBD), unlockable only after a **Tier 2** class. Not a normal L9 evolve. Distinct from the Ch 10 **Mana Hands** spell. See `Ideas.md` Systems.
+**Above Shaping (Ideas):** separate **passive** telekinesis / mage-hand skill (name TBD), unlockable only after a **Tier 2** class. Not a normal L9 evolve. Distinct from the Ch 10 **Mana Hands** spell. See `../Ideas.md` Systems.
 
 ### Basic Mana Regulation
 **Change:** Ambient absorption rate and pool stability. Hard regen % or MP/min per level. L9: fight without sitting. Evolve → **Mana Regulation**: combat regen / overflow control. Early practice before class still allowed.
@@ -237,4 +237,4 @@ Deprioritize: sword, heavy armor, bash, speech-lord skills. Flavor only (no rede
 - Which Source combat skills get cut vs parked at low level in the rewrite.
 - Advanced Debugger: Tier 3 vs Tier 4 gate (class, trial, or both).
 
-When a row is accepted, copy the final text into `References/Skills.md` and wipe that row here.
+When a row is accepted, copy the final text into `Skills.md` and wipe that row here.
