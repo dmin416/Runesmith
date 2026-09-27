@@ -176,7 +176,8 @@ Upgrade payback on the steel sword attack: Intermediate to Highest saves 75 mana
 - Setup is small next to a run. An airship setup costs 9 adult pools at L0 (0.9 pool at L9) against a 95 GJ run. Stone banks and ambient intake carry activation (rune file, Power source) and setup stays a crafter's job. Team pour (O4) only buys speed.
 - Setup adds no heat and no strain. Wear stays as in the baseline.
 - Mastery discounts activation only (canon), for both items and scrolls. It never touches setup cost.
-- Setup cost has exactly one discount channel per medium, never two stacked together. Items: **Runecraft**'s skill-level S factor only. Scrolls: the **Runic Mana Scribe** class card's −3%/class-level term only (self-bounded at −75%, T1 caps at L25) — **Basic Rune Scribing** does not also discount setup cost; its skill levels grant a different, non-cost bonus (`Progression/Skills.md`).
+- Setup cost has exactly one discount channel per medium, never two stacked together. Items: **Runecraft**'s skill-level S factor only. Scrolls: **Basic Rune Scribing**'s skill-level S factor only (−10%/level, capped −90% at L9 — same shape as Runecraft, `Progression/Skills.md`). Both are skill bonuses, so both persist through any later class change.
+- The **Runic Mana Scribe** class card does not discount setup cost at all — it grants a narrative learning-ease bonus instead (faster, cleaner schematics) that is lost when Roland leaves the T1 class, unlike the skill discount above (`Progression/Classes.md`).
 
 ## Open Dials
 

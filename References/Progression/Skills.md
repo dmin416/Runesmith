@@ -284,6 +284,7 @@ Inscribe magical runes on items. Runic Blacksmith grant (temporary in trial, the
 ### Basic Rune Scribing
 First seen: Chapter 16
 Scribe runes to scrolls. Temporary in the Runic Mana Scribe trial, then permanent at L1. Runes have a max working size; the trial forces a compressed fire-orb schematic onto scroll parchment. Chapter 22: Common Fire Arrow grind to **L5**; understanding of runic scroll making noted at **L2** (separate progress line in prose). Chapter 27: can compact commons onto **envelope**-size scrolls (aim: playing-card); power holds but overload headroom drops; Fire Arrow throughput **5–6**/day.
+**Cost bonus (locked):** **−10% mana cost to scribe** a rune onto a scroll **per skill level, capped at −90% (L9)** — the scroll-side twin of Runecraft's setup discount on items (`RuneSetup.md` skill S factor). This is the **only** mana-cost discount on scroll setup; the Runic Mana Scribe class card grants a separate, non-cost learning-ease bonus instead (`Progression/Classes.md`), so the two never stack on the same cost. Unlike the class bonus, this stays on the sheet through any later class change — the persistent half of the pair.
 
 ### Basic Rune Mending / Rune Mending
 First seen: Chapter 81
