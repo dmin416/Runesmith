@@ -1,26 +1,28 @@
 # Mass Boost Projectiles
 
-Draft. A launcher fires a 1 cm steel ball bearing (4.1 g) and a mass boost spell raises its weight while the speed stays constant.
+Hub: `PotentialMagic.md`. Cast law: `../Science/Science.md`. Kinetic: `../Science/Kinetic.md`.
 
-Cost in the table = kinetic energy added = ½ × (added mass) × speed². Coupling is near 100%. Multiply by 10 for cast cost (10% casting efficiency). See SpellEnergy.md.
+A launcher fires a 1 cm steel ball (4.1 g). A mass-boost spell raises mass while speed stays constant. **Effect joules** = KE added = ½ × (added mass) × v² (near-full coupling). **Mana at ημ 1** = Effect / 10. Real mana = Effect / (10 × η × μ).
 
-| Speed | Value | Energy per kg | Ball starting energy (from launcher) |
+| Speed | Value | Energy per kg added | Ball starting KE (launcher only) |
 |---|---|---|---|
-| Bow speed | 100 m/s | 5.0 kJ | 20.5 J |
-| Bow maximum (Mach 0.98) | 336 m/s | 56.5 kJ | 232 J |
-| Mach 3 (magic launcher) | 1,029 m/s | 529 kJ | 2.17 kJ |
+| Bow speed | 100 m/s | 5.0 kJ/kg | 20.5 J |
+| Bow max (Mach 0.98) | 336 m/s | 56.5 kJ/kg | 232 J |
+| Mach 3 (magic launcher) | 1,029 m/s | 529 kJ/kg | 2.17 kJ |
 
-Speed of sound is 343 m/s. Destructive power compares total energy to known ordnance. A tank sabot round is about 5 MJ.
+Speed of sound ≈ 343 m/s. Ordnance compares use total KE. Tank sabot ~5 MJ.
 
-| # | Boost | Final Mass | Cost @ 100 m/s | Cost @ Mach 0.98 | Cost @ Mach 3 | TNT @ Mach 0.98 | TNT @ Mach 3 | Destructive Power |
-|---|---|---|---|---|---|---|---|---|
-| 1 | x10 | 41 g (golf ball) | 185 J | 2.08 kJ | 19.5 kJ | 0.55 g | 5.2 g | Mach 0.98: 5.56 mm rifle round class. Mach 3: .50 BMG round class. |
-| 2 | x35 | 143.5 g (baseball) | 697 J | 7.88 kJ | 73.8 kJ | 1.9 g | 18 g | Mach 0.98: 2x a .308 rifle round. Mach 3: 1.5x a 20 mm autocannon shell. |
-| 3 | x100 | 410 g (hammer) | 2.03 kJ | 22.9 kJ | 215 kJ | 5.5 g | 52 g | Mach 0.98: 1.4x a .50 BMG round. Mach 3: 30 mm autocannon shell class. |
-| 4 | x1,000 | 4.1 kg (small bowling ball) | 20.5 kJ | 231 kJ | 2.17 MJ | 55 g | 519 g | Mach 0.98: 30 mm autocannon shell class. Mach 3: half a tank sabot round. |
-| 5 | x10,000 | 41 kg (anvil) | 205 kJ | 2.32 MJ | 21.7 MJ | 0.55 kg | 5.2 kg | Mach 0.98: half a tank sabot round. Mach 3: 4x a tank sabot round. |
-| 6 | x25,000 | 102.5 kg (adult) | 512 kJ | 5.79 MJ | 54.3 MJ | 1.4 kg | 13 kg | Mach 0.98: 1 tank sabot round. Mach 3: 11 tank sabot rounds. |
-| 7 | x100,000 | 410 kg (piano) | 2.05 MJ | 23.2 MJ | 217 MJ | 5.5 kg | 52 kg | Mach 0.98: 5 tank sabot rounds. Mach 3: 43 tank sabot rounds. |
-| 8 | x500,000 | 2.05 t (car) | 10.25 MJ | 116 MJ | 1.09 GJ | 28 kg | 259 kg | Mach 0.98: a large demolition charge. Mach 3: 3 aircraft bombs of 500 lb. |
-| 9 | x1,000,000 | 4.1 t (elephant) | 20.5 MJ | 232 MJ | 2.17 GJ | 55 kg | 519 kg | Mach 0.98: half a 500 lb aircraft bomb. Mach 3: 6 aircraft bombs of 500 lb. |
-| 10 | x10,000,000 | 41 t (tank) | 205 MJ | 2.32 GJ | 21.7 GJ | 554 kg | 5.2 t | Mach 0.98: 6 aircraft bombs of 500 lb. Mach 3: 5.2 t of TNT. Levels a city block. |
+| # | Boost | Final mass | Effect @ 100 m/s | Mana ημ1 | Effect @ Mach 0.98 | Mana ημ1 | Effect @ Mach 3 | Mana ημ1 | Power note |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | ×10 | 41 g | 185 J | 18.5 | 2.08 kJ | 208 | 19.5 kJ | 1,950 | Mach 0.98 ≈ 5.56 mm class; Mach 3 ≈ .50 BMG class |
+| 2 | ×35 | 143.5 g | 697 J | 70 | 7.88 kJ | 788 | 73.8 kJ | 7,380 | Mach 0.98 ≈ 2× .308; Mach 3 ≈ 1.5× 20 mm |
+| 3 | ×100 | 410 g | 2.03 kJ | 203 | 22.9 kJ | 2,290 | 215 kJ | 21,500 | Mach 0.98 ≈ 1.4× .50 BMG; Mach 3 ≈ 30 mm |
+| 4 | ×1,000 | 4.1 kg | 20.5 kJ | 2,050 | 231 kJ | 23,100 | 2.17 MJ | 217,000 | Mach 0.98 ≈ 30 mm; Mach 3 ≈ half sabot |
+| 5 | ×10,000 | 41 kg | 205 kJ | 20,500 | 2.32 MJ | 232,000 | 21.7 MJ | 2.17e6 | Mach 0.98 ≈ half sabot; Mach 3 ≈ 4× sabot |
+| 6 | ×25,000 | 102.5 kg | 512 kJ | 51,200 | 5.79 MJ | 579,000 | 54.3 MJ | 5.43e6 | Mach 0.98 ≈ 1 sabot; Mach 3 ≈ 11 sabots |
+| 7 | ×100,000 | 410 kg | 2.05 MJ | 205,000 | 23.2 MJ | 2.32e6 | 217 MJ | 2.17e7 | |
+| 8 | ×500,000 | 2.05 t | 10.25 MJ | 1.025e6 | 116 MJ | 1.16e7 | 1.09 GJ | 1.09e8 | |
+| 9 | ×1,000,000 | 4.1 t | 20.5 MJ | 2.05e6 | 232 MJ | 2.32e7 | 2.17 GJ | 2.17e8 | |
+| 10 | ×10,000,000 | 41 t | 205 MJ | 2.05e7 | 2.32 GJ | 2.32e8 | 21.7 GJ | 2.17e9 | City-block class at Mach 3 |
+
+Hardness / pierce gates for tips still apply when the projectile is a shaped mana tip (`ManaCast.md`). Living resistance applies to raw mana effects on bodies (`Science.md` hub).

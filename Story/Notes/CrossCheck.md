@@ -50,7 +50,7 @@ Also update the matching reference when a named thing is new, renamed or its des
 | Adventurer ranks | `References/AdventurerRanks.md` |
 | Family / house people | `References/Family.md` |
 | Runes / schematics | `References/Runes.md` |
-| Science / Earth tech anchors | `References/Science.md` |
+| Science / Earth tech anchors | `References/Science/Science.md` |
 | Attack / shield joule scale (physical STR·AGI tips, Mana Shield pools, Ch 14 lock) | `References/AttackScale.md` |
 | Weapons / blade loadout design | `References/Weapons.md` |
 | Races, creatures, mounts, encounters | matching `References/` file |
@@ -119,7 +119,7 @@ Still needs attention when touching these beats:
 | Ch 14 ambush | `Skills.md`, `Status.md`, `Notes.md` | **Dodging L6→L7** mid-chase; Agi **64** / SP **869**. |
 | Ch 15 cremation / schematic | `Notes.md`, `Items.md`, `Experience.md`, `Skills.md`, `Weapons.md` | Body burn **1000 MP**; tip **125 MP**; hold-lock insert; Detonation [Highest] **+1000**; bank **1479**; Enchanter affinity dead-end. |
 | Ch 16 Fire Orb trial | `Notes.md`, `Skills.md`, `Items.md`, `TempRunes.md`, `Runes.md`, `RuneSystem.md` | Five-region linear chain; temp skills after book; mana-hand cascade ~**1/4 MP**; success fist orb; Ned silk; no binary / max-size hard rule on-page. |
-| Mana Bolt joule / Int curve | `References/Science.md`, chapter fight beats | Keep formula and on-page damage language aligned when editing fights. |
+| Mana Bolt joule / Int curve | `References/Science/ManaCast.md`, chapter fight beats | Keep formula and on-page damage language aligned when editing fights. |
 | Meal / lodging quotes | `Economy.md`, `Places.md`, Ch 9 Notes | Meal **5 LC**; lodging **1 SS**/night + **5 LC** breakfast; monthly ~**10%** on **28** nights → **252 LC**. Year = **13×28**. |
 | Goblin Hunter title | `Skills.md` / `Status.md` Ch 9.5–10 | Past **1000** kills into the skip; card text matches chapter. |
 | Ch 10 nest ledger | `Experience.md`, `Items.md`, `Status.md`, `Notes.md` | **+7** kills → **1,576**; pouch **6,035 LC**; stones **288** rice + **16** leader. |

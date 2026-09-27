@@ -198,7 +198,7 @@ MP = ((75×10)+(62×4)) × 1.08 = 998 × 1.08 = **1078** (Mage L4).
 
 Combat math: `Levels.md` field-use curve; table in `Skills.md` Ch 9.5. **L9 hard cap until first T2.**
 
-**Evolves in the skip (plain / Expert start at L1):** Running, Climbing, Sneaking, Throwing, One-Handed Swordsmanship; Marksmanship → **Expert Marksmanship**. Free evolve points: Run→End, Climb→Str, Sneak→Agi, Throw→Dex, Sword→Str, Marks→Dex. **Stay Basic L9:** Sprint, Hand to Hand, Leather. **Basic Dodging** ends **L6**. Mana skills:
+**Evolves in the skip (plain / Expert start at L1):** Running, Climbing, Sneaking, Throwing, One-Handed Swordsmanship; Marksmanship → **Expert Marksmanship**. Evolved L1 pads only (no second free point). **Stay Basic L9:** Sprint, Hand to Hand, Leather. **Basic Dodging** ends **L6**. Mana skills:
 
 | Skill | Ch 9 | Ch 10 | Source of levels |
 |---|---|---|---|
@@ -215,23 +215,23 @@ Combat math: `Levels.md` field-use curve; table in `Skills.md` Ch 9.5. **L9 hard
 Skills/Traits Int = pre-mage pile **48** + Shaping **12** + Regulation **7** + Incantation **6** + Absorption **9** + Reinforcement **9** = **91**.
 Skills/Traits Will = pre-mage pile **28** + **6** + **14** + **6** + **18** + **9** + Expert Marks **1** = **82**.
 
-**Physical Skills/Traits after evolve (additive: Basic L9 pads stay + Level 2 L1 + free points):**
-- Str: H2H **9** + Climb baked **9** + Sword baked **9** + Climbing L1 **1** + Swordsmanship L1 **1** + free Climb/Sword **2** = **31**
-- Agi: Climb baked **9** + Sneak baked **9** + Cooking **3** + Dodging **6** + Climbing L1 **1** + Sneaking L1 **1** + free Sneak **1** = **30**
-- Dex: Throw baked **9** + Tech **7** + Tinker **8** + Cooking **3** + Marks baked **9** + Throwing L1 **1** + Expert Marks L1 **1** + free Throw/Marks **2** = **40**
+**Physical Skills/Traits after evolve (additive: Basic L9 pads stay + Level 2 L1 pads; L1 pad is the evolve “free stat”, not an extra):**
+- Str: H2H **9** + Climb baked **9** + Sword baked **9** + Climbing L1 **1** + Swordsmanship L1 **1** = **29**
+- Agi: Climb baked **9** + Sneak baked **9** + Cooking **3** + Dodging **6** + Climbing L1 **1** + Sneaking L1 **1** = **29**
+- Dex: Throw baked **9** + Tech **7** + Tinker **8** + Cooking **3** + Marks baked **9** + Throwing L1 **1** + Expert Marks L1 **1** = **38**
 - Vit: H2H **9** + Sprint **9** + Leather **9** + Sleep **4** = **31**
-- End: Run baked **9** + Sprint **9** + Leather **9** + Running L1 **1** + free Run **1** + Sleep **4** = **33**
+- End: Run baked **9** + Sprint **9** + Leather **9** + Running L1 **1** + Sleep **4** = **32**
 
 | Bucket | STR | AGI | DEX | VIT | END | INT | WILL | CHA | LUCK |
 |---|---|---|---|---|---|---|---|---|---|
 | Body | 15 | 20 | 16 | 14 | 13 | 18 | 25 | 7 | 7 |
 | Class | 0 | 0 | 0 | 0 | 0 | 20 | 20 | 0 | 0 |
-| Skills/Traits | 31 | 30 | 40 | 31 | 33 | 91 | 82 | 4 | 0 |
-| **Total** | **46** | **50** | **56** | **45** | **46** | **129** | **127** | **11** | **7** |
+| Skills/Traits | 29 | 29 | 38 | 31 | 32 | 91 | 82 | 4 | 0 |
+| **Total** | **44** | **49** | **54** | **45** | **45** | **129** | **127** | **11** | **7** |
 
-HP = Vit×10 + End×3 = 450 + 138 = **588**.
+HP = Vit×10 + End×3 = 450 + 135 = **585**.
 MP = ((129×10)+(127×4)) × 1.40 = 1798 × 1.40 = **2517** (Mage L20).
-SP = End×10 + Str×3 + Agi×3 = 460 + 138 + 150 = **748**.
+SP = End×10 + Str×3 + Agi×3 = 450 + 132 + 147 = **729**.
 
 Reinforcement while active: **+90%** of max MP as bonus base stats (L9 × 10%, 90% cap). Drops when MP is empty.
 
@@ -245,24 +245,24 @@ Reinforcement while active: **+90%** of max MP as bonus base stats (L9 × 10%, 9
 
 Enter Ch 13 as post–Ch 12 stack still **Mage L20**, then **+5** Mage packages (L21–L25) and Floor-3 skill ranks (`Skills.md` Ch 13). Spells still grant **no** attribute pads. **Basic Calligraphy** and **Temperature Resistance** have no attr line. Alcohol **L1→L4** adds **End +3** on top of the Ch 12 L1.
 
-**Post–Ch 12 (still L20):** Str **46** Agi **51** Dex **57** Vit **47** End **50** Int **130** Will **128** Cha **12** Luck **7**.
+**Post–Ch 12 (still L20):** Str **44** Agi **50** Dex **55** Vit **47** End **49** Int **130** Will **128** Cha **12** Luck **7**.
 
 **Class L20→L25:** Int **+5**, Will **+5**.
 
-**Ch 13 skill pads:** Sword **L1→L4** Str **+3**; Dodging tree Agi **+10** (Basic **L6→L9** + evolve free Agi + **Dodging L1→L6**); Sneaking **L1→L3** Agi **+2**; Throwing **L1→L3** Dex **+2**; Incantation **L6→L8** Int **+2** Will **+2**; Alcohol **L1→L4** End **+3**.
+**Ch 13 skill pads:** Sword **L1→L4** Str **+3**; Dodging tree Agi **+9** (Basic **L6→L9** + **Dodging L1→L6**); Sneaking **L1→L3** Agi **+2**; Throwing **L1→L3** Dex **+2**; Incantation **L6→L8** Int **+2** Will **+2**; Alcohol **L1→L4** End **+3**.
 
 | Bucket | STR | AGI | DEX | VIT | END | INT | WILL | CHA | LUCK |
 |---|---|---|---|---|---|---|---|---|---|
 | Body | 15 | 20 | 16 | 14 | 13 | 18 | 25 | 7 | 7 |
 | Class (Mage L25) | 0 | 0 | 0 | 0 | 0 | 25 | 25 | 0 | 0 |
-| Skills/Traits | 34 | 43 | 43 | 33 | 40 | 94 | 85 | 5 | 0 |
-| **Total** | **49** | **63** | **59** | **47** | **53** | **137** | **135** | **12** | **7** |
+| Skills/Traits | 32 | 41 | 41 | 33 | 39 | 94 | 85 | 5 | 0 |
+| **Total** | **47** | **61** | **57** | **47** | **52** | **137** | **135** | **12** | **7** |
 
-HP = 470 + 159 = **629**.
+HP = 470 + 156 = **626**.
 MP = ((137×10)+(135×4)) × 1.50 = 1910 × 1.50 = **2865** (Mage L25).
-SP = 530 + 147 + 189 = **866**.
+SP = 520 + 141 + 183 = **844**.
 
-**Ch 14:** **Dodging L6→L7** mid-chase (**Agi +1**). Sheet **49/64/59/47/53/137/135/12/7**; SP **869**.
+**Ch 14:** **Dodging L6→L7** mid-chase (**Agi +1**). Sheet **47/62/57/47/52/137/135/12/7**; SP **847**.
 
 Pouch at `"*Not bad.*"`: **11,641 LC** (`Experience.md`). Skill ranks and kill slate: `Skills.md` / `Experience.md`.
 
@@ -277,8 +277,8 @@ Pouch at `"*Not bad.*"`: **11,641 LC** (`Experience.md`). Skill ranks and kill s
 | Ch 2 | Int 41 / Will 18 | Int **42** / Will **25** (new mental body) |
 | Ch 4–5 | Body physicals + transfer Dex + old mental seeds | + Basic STR/AGI/DEX/END pile + rising Int/Will body |
 | Ch 6–8 | Above + Mage packages | Same debts |
-| Ch 10 | Inn sheet **matches** Mage L20 block above | Synced (HP **536** / MP **2158** / SP **708**; Vit/End live still pre–Sleep retcon) |
-| Ch 13 | Mage L25 rewrite (**49/63/59/47/53/137/135/12/7**; HP **629** / MP **2292** / SP **866**) | Synced (chapter + `Status.md`) |
+| Ch 10 | Inn sheet **matches** Mage L20 block above | Synced (HP **536** / MP **2158** / SP **708**; Vit/End live still pre–Sleep retcon; physical Skills/Traits no longer add a second evolve point) |
+| Ch 13 | Mage L25 rewrite (**47/61/57/47/52/137/135/12/7**; HP **626** / MP **2292** / SP **844**) | Synced target (chapter / `Status.md` live may still show old free-point pads until retconned) |
 
 ### Post–Ch 13 rewrite checkpoints (delta method)
 
@@ -286,17 +286,18 @@ Method: Source live growth from Ch 13 Source sheet → later live full sheet, ap
 
 | Ch | Overall | Main | Rewrite (Str/Agi/Dex/Vit/End/Int/Will/Cha/Luck) | HP / MP / SP |
 |---|---|---|---|---|
-| 13 | L25 | Mage L25 | **49/63/59/47/53/137/135/12/7** | **629 / 2292 / 866** |
-| 14 | L25 | Mage L25 | **49/64/59/47/53/137/135/12/7** | **629 / 2292 / 869** |
-| 16 | L26 | Scribe L1 | **49/64/60/47/53/138/136/12/7** | **629 / 2309 / 869** |
-| 17 | L26 | Scribe L1 | **49/64/60/47/53/138/136/12/7** | **629 / 2309 / 869** (bar **739 / 13000**) |
-| 23 | L35 | Scribe L10 | **50/65/71/51/55/147/145/13/7** | **675 / 2460 / 895** |
-| 27 | L45 | Scribe L20 | **51/66/84/52/57/157/154/14/7** | **691 / 2623 / 921** |
-| 34 | L50 | Scribe L25 | **53/68/91/54/58/162/158/14/7** | **714 / 2702 / 943** |
-| 47 | L69 | Blacksmith L19 | **77/73/99/74/87/171/178/16/7** | **1001 / 2906 / 1320** |
-| 62 | L70 | Blacksmith L20 | **78/73/100/75/88/171/179/16/7** | **1014 / 2911 / 1333** |
-| 68 | L71 | Blacksmith L21 | **79/73/101/76/88/172/180/16/7** | **1024 / 2928 / 1336** |
-| 77 | L75 | Blacksmith L25 | **83/75/106/81/95/175/185/17/7** | **1095 / 2988 / 1424** |
+| 13 | L25 | Mage L25 | **47/61/57/47/52/137/135/12/7** | **626 / 2292 / 844** |
+| 14 | L25 | Mage L25 | **47/62/57/47/52/137/135/12/7** | **626 / 2292 / 847** |
+| 16 | L26 | Scribe L1 | **47/62/58/47/52/138/136/12/7** | **626 / 2309 / 847** |
+| 17 | L26 | Scribe L1 | **47/62/58/47/52/138/136/12/7** | **626 / 2309 / 847** (bar **739 / 13000**) |
+| 18 | L26 | Scribe L1 | **47/62/68/47/52/138/136/12/7** | **626 / 2309 / 847** (Drawing tree Dex **+10**; bar **1739 / 13000**) |
+| 23 | L35 | Scribe L10 | **48/63/79/51/54/147/145/13/7** | **675 / 2460 / 895** |
+| 27 | L45 | Scribe L20 | **49/64/92/52/56/157/154/14/7** | **691 / 2623 / 921** |
+| 34 | L50 | Scribe L25 | **51/66/99/54/57/162/158/14/7** | **714 / 2702 / 943** |
+| 47 | L69 | Blacksmith L19 | **75/71/107/74/86/171/178/16/7** | **1001 / 2906 / 1320** |
+| 62 | L70 | Blacksmith L20 | **76/71/108/75/87/171/179/16/7** | **1014 / 2911 / 1333** |
+| 68 | L71 | Blacksmith L21 | **77/71/109/76/87/172/180/16/7** | **1024 / 2928 / 1336** |
+| 77 | L75 | Blacksmith L25 | **81/73/114/81/94/175/185/17/7** | **1095 / 2988 / 1424** |
 
 Chapters without full sheets inherit the prior rewrite checkpoint (see `Status.md`). Retcon Live blocks when those chapters are rewritten.
 

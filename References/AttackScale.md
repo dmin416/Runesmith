@@ -1,6 +1,6 @@
 # Attack Scale
 
-Joule ladder for physical hits and mana barriers. Use this when a fight beat asks “does the shield hold?” or “how hard is that thrust?” Full formulas live in `Science.md` and `Progression.md`. This file is the **order-of-magnitude map** plus worked locks.
+Joule ladder for physical hits and mana barriers. Use this when a fight beat asks “does the shield hold?” or “how hard is that thrust?” Full formulas live in `Science/ManaCast.md` and `Progression.md`. This file is the **order-of-magnitude map** plus worked locks.
 
 **Street baseline:** untrained adult **STR 15 / AGI 15**.
 
@@ -8,7 +8,7 @@ Joule ladder for physical hits and mana barriers. Use this when a fight beat ask
 
 ## Physical output (STR / AGI)
 
-From `Progression.md` / `Science.md`:
+From `Progression.md` / `Science/ManaCast.md`:
 
 ```
 P        = 25 × AGI                         W
@@ -138,7 +138,7 @@ Mana Bolt / Arrow useful energy:
 Useful (J) = mana × 10 × η(L) × μ(INT)
 ```
 
-Voice sets mana (Bolt normal **25**, Arrow **2×** Bolt). Overcharge = mana used. Hardness gates for tips: `Science.md`. Healing potions close flesh; they are not joule weapons (`Items.md`).
+Voice sets mana (Bolt normal **25**, Arrow **2×** Bolt). Overcharge = mana used. Hardness gates for tips: `Science/ManaCast.md`. Healing potions close flesh; they are not joule weapons (`Items.md`).
 
 ---
 

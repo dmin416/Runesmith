@@ -2,7 +2,7 @@
 
 Gist for fights where a physical specialist outruns and outmuscles a mage body. Mage wins on **Mana Hands** (mind-speed telekinesis), perception and prep. Physical backup is optional depth not a required crutch.
 
-Related: `AttackScale.md`, `Science.md` (Mana Hands), `Spells.md`.
+Related: `AttackScale.md`, `Science/ManaCast.md` (Mana Hands), `Spells.md`.
 
 ## Premises
 

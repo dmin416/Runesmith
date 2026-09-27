@@ -39,13 +39,14 @@ Trait Int/Will bonuses are flat cards. They sit in the Skills/Traits bucket with
 | Dance | Agility |
 | Pain Resistance | Willpower, Endurance |
 | Sleep Resistance | Vitality, Endurance |
+| Basic Drawing | Dexterity |
 | Identify, Analyze, Basic Mathematics, Map Reading | none listed |
 
 ### Level 2 (plain name) after Basic L9 evolve
 
-Same favored attributes as the Basic form. New skill starts at **L1**. One free attribute point into a favored attr on evolve (Running→End, Climbing→Str, Sneaking→Agi, Throwing→Dex, Swordsmanship→Str, Marksmanship→Dex).
+Same favored attributes as the Basic form. New skill starts at **L1**. The Ch 13 “free stat point” on evolve **is** that L1 pad (+1 × level into the favored attr), not a second bonus on top.
 
-**Additive:** Basic L9 pads stay baked in. Level 2 (and Expert) pads stack on top from L1. Free evolve point stacks too. Not a pad reset.
+**Additive:** Basic L9 pads stay baked in. Level 2 (and Expert) pads stack on top from L1. Not a pad reset.
 
 | Skill | Favored attributes |
 |---|---|
@@ -55,6 +56,7 @@ Same favored attributes as the Basic form. New skill starts at **L1**. One free 
 | Sneaking | Agility |
 | One-Handed Swordsmanship | Strength |
 | Expert Marksmanship (Level 3) | Dexterity, Willpower |
+| Drawing | Dexterity |
 
 ## Chapter 1
 
@@ -433,7 +435,7 @@ The caster moves objects with mana. Weight and range scale with Intelligence. Vi
 ════════════════════════
 ```
 
-Cast method (rewrite): chant makes the circle appear in the mind and easy to trace; mana almost guides itself while chanting (**on the move** ok). Mangled chant interrupts unless he already controls every part of the mana along the circle. Silent draw possible but so far always fails without some chant present. Even T1 circles are moderately complex. Int holds/follows the appeared circle. Spell/skill level-ups grant XP (often more than trash goblins). Absorption / Reinforcement stay up as mana is spent. **Evolves named on-page (from the skip):** Running, Climbing, Sneaking, Throwing (Basic → plain L1); Marksmanship L9 → **Expert Marksmanship L1** (Dex +level, Will +level); Swordsmanship Basic → plain L1 despite magic doing most kills. Pads are **additive** (Basic L9 stay baked + new L1 + free points). Sprint, Hand to Hand and Leather stay Basic L9. **Basic Dodging** unlocked in Ch 9.5 and ends **L6**. Still Mage L20 on first class. Plans Mana Scribe next.
+Cast method (rewrite): chant makes the circle appear in the mind and easy to trace; mana almost guides itself while chanting (**on the move** ok). Mangled chant interrupts unless he already controls every part of the mana along the circle. Silent draw possible but so far always fails without some chant present. Even T1 circles are moderately complex. Int holds/follows the appeared circle. Spell/skill level-ups grant XP (often more than trash goblins). Absorption / Reinforcement stay up as mana is spent. **Evolves named on-page (from the skip):** Running, Climbing, Sneaking, Throwing (Basic → plain L1); Marksmanship L9 → **Expert Marksmanship L1** (Dex +level, Will +level); Swordsmanship Basic → plain L1 despite magic doing most kills. Pads are **additive** (Basic L9 stay baked + new L1). Sprint, Hand to Hand and Leather stay Basic L9. **Basic Dodging** unlocked in Ch 9.5 and ends **L6**. Still Mage L20 on first class. Plans Mana Scribe next.
 
 ### Traits
 
@@ -473,7 +475,7 @@ Uses Mana Arrow, Mana Bolt and Identify (Needle Worm). Floor-2 cook: Needle Worm
 
 Half-year Floor-3 grind → **Mage L25**. Kill/XP/loot/pouch: `Experience.md` (**1,102** kills; skill XP **3,608**; pouch **11,641 LC**).
 
-**Rewrite attribute pads from these ranks** (spells no attr; Calligraphy / Temperature Resistance no attr line): Sword **+3 Str**; Dodging tree **+10 Agi** (Basic **L6→L9**, evolve free Agi, **Dodging L1→L6**); Sneaking **+2 Agi**; Throwing **+2 Dex**; Incantation **+2 Int/+2 Will**; Alcohol **+3 End**. Full sheet: `StatusBreakdown.md` / `Status.md`.
+**Rewrite attribute pads from these ranks** (spells no attr; Calligraphy / Temperature Resistance no attr line): Sword **+3 Str**; Dodging tree **+9 Agi** (Basic **L6→L9**, **Dodging L1→L6**); Sneaking **+2 Agi**; Throwing **+2 Dex**; Incantation **+2 Int/+2 Will**; Alcohol **+3 End**. Full sheet: `StatusBreakdown.md` / `Status.md`.
 
 Skill ranks (enter → exit; **36** ranks × **100** XP + **8** overflow = **3,608**):
 
@@ -492,7 +494,7 @@ Skill ranks (enter → exit; **36** ranks × **100** XP + **8** overflow = **3,6
 | Sneaking | **L1 → L3** |
 | Throwing | **L1 → L3** |
 
-Ch 9.5–10 already evolved Running, Climbing, Sneaking, Throwing, Swordsmanship (Basic → plain) and Marksmanship → **Expert Marksmanship**. Free attribute points on evolve where locked (Sneaking→Agi, Swordsmanship→Str; Marksmanship evolve may add a free Dex or Will once). **Basic Dodging** evolves during the half-year (same Additive rule: Basic L9 pads stay + Dodging L1 + free Agi). Still Mage L25. Class-change crystal recovered. No class change yet. Plans lesser sharpness knife as study piece.
+Ch 9.5–10 already evolved Running, Climbing, Sneaking, Throwing, Swordsmanship (Basic → plain) and Marksmanship → **Expert Marksmanship**. Evolved L1 pads are the Ch 13 “free stat” line (not an extra point). **Basic Dodging** evolves during the half-year (Additive: Basic L9 pads stay + Dodging L1…L6). Still Mage L25. Class-change crystal recovered. No class change yet. Plans lesser sharpness knife as study piece.
 
 ## Chapter 14
 
@@ -527,8 +529,8 @@ No new named skills. Basic Rune Mastery tested (**−10%** activation on detonat
 
 ## Chapter 18
 
-Gained: Drawing L1 (from Basic Drawing L9 breakthrough via Runic Mana Scribe diagrams).
-Created Lesser Impact Rune [Highest] schematic (Debugger overlay; Sahildr present). Two Highest lesser schematics now (Detonation + Impact). Fire Orb schematic still pending.
+Gained: **Drawing L1** (**Dexterity +1**). Basic Drawing was already **L9** (**Dexterity +9** baked). Drawing tree Dex total: **+10**. Breakthrough via Runic Mana Scribe diagrams.
+Created Lesser Impact Rune [Highest] schematic (Debugger overlay; Sahildr present; **+1000 XP** → bar **1739 / 13000**). Two Highest lesser schematics now (Detonation + Impact). Fire Orb schematic still pending.
 
 ## Chapter 19
 

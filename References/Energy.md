@@ -2,7 +2,7 @@
 
 Electricity is the physical model for how mana moves. Mana is not electricity. Its conductivity ranking differs (section 2).
 
-**Related:** spell cast joules with skill η and INT μ live in `Science.md` (`1 mana ≈ 10 J` paid, Useful = mana × 10 × η × μ). This file is the **path / ambient / wear** baseline (cost × 12.5 J × path efficiency × ambient gain). Resonant runes replace η and G with η_eff and H_eff from `RuneSystem.md`. Setup pour costs live in `RuneSetup.md` and do not add heat or strain. Reconcile the 10 J vs 12.5 J constants when locking rewrite physics; do not silently mix them in one scene without a note.
+**Related:** spell cast joules with skill η and INT μ live in `Science/ManaCast.md` (`1 mana ≈ 10 J` paid, Useful = mana × 10 × η × μ). This file is the **path / ambient / wear** baseline (cost × **10 J** × path efficiency × ambient gain). Resonant runes replace η and G with η_eff and H_eff from `RuneSystem.md`. Setup pour costs live in `RuneSetup.md` and do not add heat or strain. **10 J per mana is the locked standard** for cast and path formulas.
 
 ---
 
@@ -48,9 +48,9 @@ The human body conducts at about 90 percent efficiency, between dark steel and m
 
 Cost comes first and is fixed. A 100 mana spell costs 100 mana and a 50 mana spell costs 50 mana. Path material, environment, ambient mana and efficiency never change it. They only change output energy and waste.
 
-**Output = cost × 12.5 J × path efficiency × ambient gain**
+**Output = cost × 10 J × path efficiency × ambient gain**
 
-Reference: 100 mana through copper (80 percent) in a closed system delivers 1000 J.
+Reference: 100 mana paid is 1000 J at the converter input. Copper (80 percent) in a closed system delivers **800 J** useful and **200 J** waste. Cast-law Useful joules (`Science/ManaCast.md`) use the same 10 J unit with spell η(L) and μ(INT) instead of path η.
 
 Figures here assume a clean linear rune (Lesser Highest). Rune rank and grade replace path efficiency and ambient gain with η_eff and H_eff. Formula: rune file, Harmonics and Resonance (when locked).
 
@@ -58,15 +58,15 @@ The converter draws ambient mana from the air and land. An open system has a lar
 
 | Path | Efficiency (proposed) | Output per 100 mana (gain 1) | Waste per 100 mana | Strain capacity (kJ waste per kg, proposed) |
 |---|---|---|---|---|
-| Iron | 60 percent | 750 J | 500 J | 70 |
-| Copper (reference) | 80 percent | 1000 J | 250 J | 140 |
-| Steel | 85 percent | 1063 J | 188 J | 210 |
-| Dark steel | 88 percent | 1100 J | 150 J | 280 |
-| Mana steel | 92 percent | 1150 J | 100 J | 560 |
-| Mythril | 95 percent | 1188 J | 63 J | 1120 |
-| Adamantium | 98 percent | 1225 J | 25 J | 2240 |
-| Human body | 90 percent | 1125 J | 125 J | burst tolerance only (section 10) |
-| Monster blood | 90 percent (placement open) | 1125 J | 125 J | not set |
+| Iron | 60 percent | 600 J | 400 J | 70 |
+| Copper (reference) | 80 percent | 800 J | 200 J | 140 |
+| Steel | 85 percent | 850 J | 150 J | 210 |
+| Dark steel | 88 percent | 880 J | 120 J | 280 |
+| Mana steel | 92 percent | 920 J | 80 J | 560 |
+| Mythril | 95 percent | 950 J | 50 J | 1120 |
+| Adamantium | 98 percent | 980 J | 20 J | 2240 |
+| Human body | 90 percent | 900 J | 100 J | burst tolerance only (section 10) |
+| Monster blood | 90 percent (placement open) | 900 J | 100 J | not set |
 
 **Waste works like a gun.** A gun wastes most of its propellant energy yet still delivers high force. Here waste leaves two ways. Most exits with the discharge. The rest stays in the path as heat (proposed 50 percent of waste). Waste also strains the path directly (section 7). Ambient gain acts at the converter after the path so it adds output and adds no waste.
 
@@ -249,55 +249,55 @@ Assumptions: a copper plate slightly smaller than a tennis racket at about 0.45 
 
 | Paddle metal | Waste per arrow | Heat per arrow | Arrows to strain limit |
 |---|---|---|---|
-| Iron | 500 J | 1.4 K | about 63 |
-| Copper | 250 J | 0.7 K | about 250 |
-| Steel | 188 J | 0.5 K | about 500 |
-| Dark steel | 150 J | 0.4 K | about 840 |
-| Mana steel | 100 J | 0.3 K | about 2500 |
-| Mythril | 63 J | 0.2 K | about 8000 |
-| Adamantium | 25 J | 0.07 K | about 40,000 |
+| Iron | 400 J | 1.1 K | about 79 |
+| Copper | 200 J | 0.6 K | about 315 |
+| Steel | 150 J | 0.4 K | about 630 |
+| Dark steel | 120 J | 0.3 K | about 1050 |
+| Mana steel | 80 J | 0.2 K | about 3150 |
+| Mythril | 50 J | 0.14 K | about 10,000 |
+| Adamantium | 20 J | 0.06 K | about 50,000 |
 
-Copper: many arrows fly before the plate is warm (about 50 rapid arrows for 35 K) and hot (about 100 for 70 K). The plate sheds heat to the air between volleys. The strain limit arrives near 250 arrows. Corruption is the main cause of damage and heat only speeds it.
+Copper: many arrows fly before the plate is warm (about 60 rapid arrows for 35 K) and hot (about 120 for 70 K). The plate sheds heat to the air between volleys. The strain limit arrives near 315 arrows. Corruption is the main cause of damage and heat only speeds it.
 
 ---
 
 ## 10. Human Body as a Path
 
-The body conducts like a fine metal (90 percent efficiency, 125 J of waste per 100 mana) and breaks like flesh. Living tissue tolerates about 430 J of waste per kg of section per cast (proposed) against 2800 to 89,600 J/kg for metals.
+The body conducts like a fine metal (90 percent efficiency, **100 J** of waste per 100 mana) and breaks like flesh. Living tissue tolerates about 430 J of waste per kg of section per cast (proposed) against 2800 to 89,600 J/kg for metals.
 
 - Waste concentrates in narrow sections and at the emitter. Proposed shares: torso and shoulder 15 percent, upper arm 15, forearm 20, wrist and hand 50.
 - A cast fails the first section whose waste per kg exceeds tolerance. Limits scale linearly with robustness.
-- Injury is strain (corruption). Heat is negligible: at 500 mana the hand retains about 156 J which warms 0.72 kg of tissue by about 0.06 K.
+- Injury is strain (corruption). Heat is negligible: at 500 mana the hand retains about 125 J which warms 0.72 kg of tissue by about 0.05 K.
 - Tissue below its limit is assumed to recover. Above the limit it takes lasting damage.
 
-**Character at 1.3 adult men, 500 mana burst (625 J total waste)**
+**Character at 1.3 adult men, 500 mana burst (500 J total waste)**
 
 | Section | Mass | Share | Waste | Load per kg | Mana to reach 430 J/kg |
 |---|---|---|---|---|---|
-| Torso and shoulder | 13 kg | 15 percent | 94 J | 7 J/kg | about 30,000 |
-| Upper arm | 2.6 kg | 15 percent | 94 J | 36 J/kg | about 6000 |
-| Forearm | 1.56 kg | 20 percent | 125 J | 80 J/kg | about 2700 |
-| Wrist and hand | 0.72 kg | 50 percent | 313 J | 434 J/kg | about 500 |
+| Torso and shoulder | 13 kg | 15 percent | 75 J | 6 J/kg | about 37,000 |
+| Upper arm | 2.6 kg | 15 percent | 75 J | 29 J/kg | about 7500 |
+| Forearm | 1.56 kg | 20 percent | 100 J | 64 J/kg | about 3400 |
+| Wrist and hand | 0.72 kg | 50 percent | 250 J | 347 J/kg | about 620 |
 
-- Every cast below 500 mana loads the hand under tolerance and the rest of the body far under it. That matches flawless handling up to that point.
-- At 500 mana the wrist and hand reach tolerance and injury begins. At 1000 mana the hand loads at about 870 J/kg (double) and is mangled while the forearm sits at 160 J/kg and stays intact.
+- Every cast below about 620 mana loads the hand under tolerance and the rest of the body far under it.
+- At about 620 mana the wrist and hand reach tolerance and injury begins. At about 1240 mana the hand loads at double tolerance and is mangled while the forearm stays intact.
 - Robustness is in adult-man equivalents for a 140 cm body and scales with height cubed as he grows (210 cm is 3.4 times).
-- Output at 90 percent: 500 to 1000 mana yields about 5.6 to 11 kJ in a closed system and about 17 to 34 kJ in open air (roughly 4 to 8 g of TNT).
+- Output at 90 percent: 500 to 1000 mana yields about 4.5 to 9 kJ in a closed system and about 13.5 to 27 kJ in open air.
 - Fix: place a high-tolerance metal in the final section so the peak waste lands in metal. A 0.5 kg mythril focus tolerates about 22 kJ of waste per cast.
 
 **Instantaneous channel limit.** Mana expands and contracts explosively so a cast is not limited by intake or recovery. Three things limit it: mental focus, robustness and the tissue's capacity to withstand.
 
-- **Focus cap = 385 × Foc** mana in one instant. Foc is mental focus in adult-man equivalents and does not scale with body size. A cast also cannot exceed current mana M.
-- **Physical cap = (430 J/kg × 0.55 kg × Rob) / (0.5 × 12.5 J × (1 − η))** mana at the hand, about 385 × Rob for the human body (η = 0.90). Tissue tolerance, hand mass and hand waste share set the top. Conductivity sets the waste per mana so higher η raises the cap. Injury begins at the cap and the hand is mangled at twice the cap.
+- **Focus cap = 473 × Foc** mana in one instant. Foc is mental focus in adult-man equivalents and does not scale with body size. A cast also cannot exceed current mana M.
+- **Physical cap = (430 J/kg × 0.55 kg × Rob) / (0.5 × 10 J × (1 − η))** mana at the hand, about **473 × Rob** for the human body (η = 0.90). Tissue tolerance, hand mass and hand waste share set the top. Conductivity sets the waste per mana so higher η raises the cap. Injury begins at the cap and the hand is mangled at twice the cap.
 - **Safe channel = min(focus cap, physical cap).** Channeling between the physical cap and the focus cap is possible and injures. Above the focus cap the cast cannot be held and fizzles (proposed).
 
 **Focus-formed channels (rare).** A mage with a weak body and overwhelming intellect and focus can form mana channels through the body along the path to the emitter. Few can. Channels are insulated pipes made of mana. Mana on mana wastes far less than any metal and the pipe holds its waste so little reaches the tissue.
 
 - **Channel efficiency η_ch = 0.99** (proposed).
-- **Physical cap with channels = 385 × Rob × (1 − η_body) / (1 − η_ch) = 3850 × Rob** mana. Ten times the bare cap.
+- **Physical cap with channels = 473 × Rob × (1 − η_body) / (1 − η_ch) = 4730 × Rob** mana. Ten times the bare cap.
 - **Focus upkeep:** the pipes take a quarter of focus (proposed) and leave 0.75 × the focus cap to hold the cast.
-- **Safe channel with channels = min(0.75 × 385 × Foc, 3850 × Rob)** while focus holds. Example: Rob 0.3 and Foc 3 give a bare cap of about 115 and a safe channel of about 866 with channels.
-- **Rebound.** If focus breaks or the mana in the channel runs out the pipe collapses and half of the carried energy discharges into the tissue (proposed). Severity = 0.5 × mana in the channel / bare physical cap. Below 1 is harmless. Injury begins at 1 and the hand is mangled at 2. The example carrying 866 has a severity of about 3.75 and the limb is destroyed. Lower loads rebound proportionally less.
+- **Safe channel with channels = min(0.75 × 473 × Foc, 4730 × Rob)** while focus holds. Example: Rob 0.3 and Foc 3 give a bare cap of about 142 and a safe channel of about 1064 with channels.
+- **Rebound.** If focus breaks or the mana in the channel runs out the pipe collapses and half of the carried energy discharges into the tissue (proposed). Severity = 0.5 × mana in the channel / bare physical cap. Below 1 is harmless. Injury begins at 1 and the hand is mangled at 2. The example carrying 1064 has a severity of about 3.75 and the limb is destroyed. Lower loads rebound proportionally less.
 
 ---
 
@@ -330,8 +330,7 @@ The body conducts like a fine metal (90 percent efficiency, 125 J of waste per 1
 - Skills system: skill level could raise efficiency and strain capacity without breaking conservation.
 - Human path: tissue burst tolerance (430 J/kg proposed), waste share per section and strain recovery rate.
 - Body growth: robustness scales with height cubed from the 140 cm baseline and continues past 210 cm (proposed).
-- Focus: mana per 1.0 Foc (385 proposed) and the fizzle rule above the focus cap.
+- Focus: mana per 1.0 Foc (**473** proposed) and the fizzle rule above the focus cap.
 - Channels: efficiency (0.99), focus upkeep (0.25) and rebound share (0.5), all proposed.
 - Placement of monster blood in the metal order. The human body is set at 90 percent.
 - Unplaced materials: see section 2.
-- Reconcile this file's **12.5 J × η_path** line with `Science.md` **10 J × η(L) × μ(INT)** for rewrite cast scenes.

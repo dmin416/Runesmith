@@ -247,7 +247,7 @@ Chapter 26 schematic stacking: Intermediate common = **1000 XP**; then perfectin
 
 Chapter 21 timing: regular Mana Arrow ~**10 min** / 20 XP; Fire Orb runic ~**45 min** / 50 XP (imperfect). Five regular scrolls ≈ one runic's time for more XP; schematics still dominate leveling. Shop magic contracts can curse breach with **−60% mana** until the term ends. Common schematics pay **2×** lesser (Chapter 22 Fire Arrow).
 
-Chapter 14 narration: common Tier 2 packages grow about **×1.5** vs Tier 1 (forward-only on new levels). Fresh T2 physicals still burn hard on active skills (stamina + mana). A coordinated T1 party deep into second classes can beat a green T2. **Ch 14 lock:** Arden watcher fencer is overall **L55** (not green); Becky / Sahildr / Reyna overall **~45**; Roland Mage **L25**. Party coordination + skill waste still beats him.
+Chapter 14 narration: common Tier 2 packages grow about **×1.5** vs Tier 1 (forward-only on new levels). Fresh T2 physicals still burn hard on active skills (**stamina**; Gale Step and similar). A coordinated T1 party deep into second classes can beat a green T2. **Ch 14 lock:** Arden watcher fencer is overall **L55** (not green); Becky / Sahildr / Reyna overall **~45**; Roland Mage **L25**. Party coordination + skill waste still beats him.
 
 ### Optional later tweaks (not locked)
 
@@ -274,7 +274,7 @@ Rewrite law (also in `Ideas.md`):
 - Higher prefix tracks (Expert / High and above) usually wait on Tier 2+ class gates unless a chapter locks an earlier exception.
 - **Special skills** (Technology, Circuitry-type, and similar) sit **outside** this ladder. No Basic→Expert→Overlord path. Separate rules; see `Ideas.md`.
 - Effects and skill-tied stat bonuses scale with the current skill’s level.
-- Evolving a Basic skill can grant a free attribute point (e.g. Basic Sneaking → Agility) **in addition to** the ongoing +level bonus of the new skill form if it still lists attribute bonuses.
+- Evolving a Basic skill grants the new form’s L1 attribute pad (+1 × level into favored attrs). Ch 13’s “free stat point” wording is that L1 pad, **not** a second bonus on top of it.
 - **Technique only:** level is form / efficiency / timing / decisions, not body power. L5 = dedicated adult amateur, L7 = competitive or professional, L9 = pinnacle of normal human technique on that prefix. Early Basic ranks by age: `Progression.md`.
 - Chapter 4 books say max Mana Sense at **L10** for Mage. Treat that as in-world rounding / old wording. Rewrite sheet max is **L9**.
 
@@ -382,7 +382,7 @@ Favored attributes for skills Roland trains in Chapters 4–7. Same +1 × level 
 | Sleep Resistance | Vitality +1, Endurance +1 |
 | Identify | none |
 
-**Level 2 (plain name) map** after Basic L9 evolve. Same favored attributes as the Basic form. New skill starts at L1. Evolving also grants **one free attribute point** into a favored attr of that tree (Sneaking→Agi, Swordsmanship→Str, Running→End, Climbing→Str, Throwing→Dex, Marksmanship→Dex).
+**Level 2 (plain name) map** after Basic L9 evolve. Same favored attributes as the Basic form. New skill starts at L1. That L1 pad is the evolve “free stat” (Sneaking→Agi, Swordsmanship→Str, Running→End, Climbing→Str/Agi, Throwing→Dex, Marksmanship→Dex, Drawing→Dex). No extra point beyond +1 × level.
 
 | Skill | Bonus per level |
 |---|---|
@@ -396,7 +396,7 @@ Favored attributes for skills Roland trains in Chapters 4–7. Same +1 × level 
 
 Sprint, Hand to Hand and Leather stay on Basic forms until they evolve. **Dodging** evolves Basic → plain during Ch 13 Floor-3 work.
 
-**Evolve pads are additive, not subtractive.** On evolve, the Basic form’s attribute bonuses stay baked in (permanent). The new skill starts at L1 and adds its own +level line on top. The free evolve point is also permanent. Example: Basic Climbing L9 (Str +9, Agi +9) → Climbing L1 adds Str +1, Agi +1 plus free Str +1 → Climbing tree contributes Str +11, Agi +10 at evolve.
+**Evolve pads are additive, not subtractive.** On evolve, the Basic form’s attribute bonuses stay baked in (permanent). The new skill starts at L1 and adds its own +level line on top. Example: Basic Climbing L9 (Str +9, Agi +9) → Climbing L1 adds Str +1, Agi +1 → Climbing tree contributes Str +10, Agi +10 at evolve.
 
 Chapter 4 prose: leveling physical Basics also makes him “run faster, jump higher and punch harder” via technique, and “bonuses to endurance and strength” when those skills get high enough. Rewrite pads: Running → Endurance; Sprint → Vitality + Endurance; Hand to Hand → Strength + Vitality; Leather → Vitality + Endurance; Reading / Mana Sense → Intelligence + Willpower. Age-10 goal: Str/Agi/Vit/End **40**; Dex/Will higher; Int highest (`StatusBreakdown.md`).
 

@@ -575,7 +575,7 @@ Overall: rice-grain ≈ **(29/30)×(1/5) ≈ 1 in 5.2** kills. Leader stone ≈ 
 
 **Linear band (rice → leader only):** same Common Q, price ∝ volume. Rice-grain = **2 SS = 20 LC**. Leader / Spiked Boar chest = **5×** volume → **10 SS = 1 LS = 100 LC**.
 
-**Above leader (stepped, not linear):** guild street prices do **not** keep scaling with raw mm³. A **16 mm** marble is ~**113×** rice volume (~**2.3 SG** if linear) but Common market settles at **1.5–4 LS** (mid **~2 LS**): harder to move whole, buyers prefer shards for recharge, guilds soft-cap large-core stickers. Quality still multiplies the size band (`Science.md`: `Price ≈ Price_size(V) × Q`).
+**Above leader (stepped, not linear):** guild street prices do **not** keep scaling with raw mm³. A **16 mm** marble is ~**113×** rice volume (~**2.3 SG** if linear) but Common market settles at **1.5–4 LS** (mid **~2 LS**): harder to move whole, buyers prefer shards for recharge, guilds soft-cap large-core stickers. Quality still multiplies the size band (`Science/ManaStones.md`: `Price ≈ Price_size(V) × Q`).
 
 | Size / source | Volume vs rice | Price | Rule |
 |---|---|---|---|
@@ -588,7 +588,7 @@ Overall: rice-grain ≈ **(29/30)×(1/5) ≈ 1 in 5.2** kills. Leader stone ≈ 
 | Marble (hobgoblin, soldier ant; ~**16 mm**) | **~113×** | **1.5–4 LS** (mid **~2 LS**) | **Stepped** above leader; not linear |
 | Larger / multi-evolution cores | — | **few LS → SG** | Stepped size bands + Q |
 
-Capacity at Q1: Needle Worm tiny **~9–10** mana → rice-grain **19** → leader **~95** → marble **~2,145** (`Science.md`).
+Capacity at Q1: Needle Worm tiny **~9–10** mana → rice-grain **19** → leader **~95** → marble **~2,145** (`Science/ManaStones.md`).
 
 ---
 

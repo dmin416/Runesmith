@@ -60,7 +60,7 @@ Cheap high-volume goods first. Presses and steel process come when the shop can 
 | **Toilet paper** | 1850s–1890s commercial | Soft roll / sheet packs; paper machine unlocks volume |
 | **Printing press** | Gutenberg → steam / rotary | Breaks hand-copy bottleneck; full pathway below |
 | **Bicycle** | 1817 draisine → 1880s safety bike | Personal travel without a horse; needs chain, bearings, wire spokes, rubber or leather tires |
-| **Mana-stone lamps** | — | Civilian light (rice-grain sustain ≈ candle-to-desk; `Science.md`) |
+| **Mana-stone lamps** | — | Civilian light (rice-grain sustain ≈ candle-to-desk; `Science/ManaStones.md`) |
 
 #### Solo startup plan
 
@@ -123,7 +123,7 @@ Start with products that need only hand tools and cheap inputs. Their cash pays 
 
 - **Known target:** Gutenberg needed years of trial and error. A time traveler knows the finished system and skips straight to it.
 - **Core kit:** Adjustable hand mold, steel punches and copper matrices, type metal (roughly 80% lead, 15% antimony, 5% tin), boiled linseed oil and lampblack ink and a screw press.
-- **Caldris shortcut:** Steam and rail already exist. The gap is the press. Skip the wooden screw press and build an iron-frame press with steam or magic-stone power (rice-grain sustain ≈ candle-to-desk lamp if sold as light products; `Science.md` stone rates).
+- **Caldris shortcut:** Steam and rail already exist. The gap is the press. Skip the wooden screw press and build an iron-frame press with steam or magic-stone power (rice-grain sustain ≈ candle-to-desk lamp if sold as light products; `Science/ManaStones.md` stone rates).
 - **Skills system:** Printer, typesetter and type-cutter can become trained trades so a workforce levels fast (`NormalPersonSkills.md` / class skills).
 
 #### Things to make and patent
@@ -391,12 +391,16 @@ Idea map. Overlaps the T1 table above; keep both until names lock.
 - **Fragmentation Burst** - A compressed charge that splits into multiple smaller explosions on impact.
 
 **Vacuum**
-- **Void Pull** - A vacuum effect that draws targets or objects toward its center before collapsing.
-- **Suffocate** - A sustained vacuum used to deny air in a contained area.
+- **Void Pull** - Vacuum that draws targets or objects toward its center before collapsing. On resisting people: full-body ground-sealed shell rules in `Science/Vacuum.md`.
+- **Suffocate** - Sustained vacuum deny-air. **No cheap pocket.** Vitality and the target's magic resist raw mana air-manipulation. Must enclose the whole body with a standoff shell **sealed to the ground** (or equivalent closed volume) unless the target cannot resist at all except by sitting in otherwise impenetrable armor. Injury sequence and costs: `Science/Vacuum.md`.
 
 **Sound Waves**
 - **Sonic Boom** - A concentrated wave released in a single directional strike.
 - **Disorient Wave** - A wide wave tuned to disrupt balance and focus rather than deal damage.
+- Sound power, Q, air–tissue coupling, echolocation L9: `Science/Sound.md`.
+
+**Mana Jet / Flight**
+- Cost follows `Science/Flight.md` math at the caster's η(L) and μ(INT). No locked expensive or cheap flight.
 
 **Static Charge**
 - **Shock Touch** - A static charge delivered through direct contact.

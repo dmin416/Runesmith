@@ -24,13 +24,13 @@ Excludes Agni, Millie, Bernir, Lucille, Robert, Arthur skills and traits.
 ## Childhood training (~Ch 4–7)
 
 14. Mana Sense L4 – Ch 4 – Intelligence +4 (climbs toward L9 before Ch 5)
-15. Basic Running – Ch 4 – Endurance +level; Ch 9.5 → **Running** L1 (End +level; free End on evolve; named Ch 10)
+15. Basic Running – Ch 4 – Endurance +level; Ch 9.5 → **Running** L1 (End +level on evolve; named Ch 10)
 16. Basic Sprint – Ch 4 – Vitality +level, Endurance +level (stays Basic L9 through Ch 10)
 17. Basic Hand to hand combat – Ch 4 – Strength +level, Vitality +level (stays Basic L9 through Ch 10)
-18. Basic Climbing – Ch ~4 – Strength +level, Agility +level; L3 shown after ~50 climbs on one tree (L1 → L2 at ~10); Ch 9.5 → **Climbing** L1 (free Str on evolve; named Ch 10)
-19. Basic Throwing – Ch ~4 – Dexterity +level; Ch 9.5 → **Throwing** L1 (free Dex on evolve; named Ch 10)
-20. Basic Sneaking – Ch ~4 – Agility +level; Ch 9.5 → **Sneaking** L1 (free Agi on evolve; named Ch 10)
-21. Basic One-handed Swordsmanship – Ch ~4 – Strength +level; Ch 9.5 → **One-Handed Swordsmanship** L1 (free Str on evolve; named Ch 10)
+18. Basic Climbing – Ch ~4 – Strength +level, Agility +level; L3 shown after ~50 climbs on one tree (L1 → L2 at ~10); Ch 9.5 → **Climbing** L1 (L1 pad on evolve; named Ch 10)
+19. Basic Throwing – Ch ~4 – Dexterity +level; Ch 9.5 → **Throwing** L1 (L1 pad on evolve; named Ch 10)
+20. Basic Sneaking – Ch ~4 – Agility +level; Ch 9.5 → **Sneaking** L1 (L1 pad on evolve; named Ch 10)
+21. Basic One-handed Swordsmanship – Ch ~4 – Strength +level; Ch 9.5 → **One-Handed Swordsmanship** L1 (L1 pad on evolve; named Ch 10)
 22. Basic Leather Armor proficiency – Ch ~4–7 – Vitality +level, Endurance +level; **L9** on Ch 7 train screen (stays Basic through Ch 10)
 23. Reading Proficiency – early Arden library (Roland track: L7 at age 5, L9 by age 7) – Intelligence +level, Willpower +level
 

@@ -416,6 +416,7 @@ Fast assembly or reassembly of machines.
 ### Basic Penmanship / Basic Copy Writing / Basic Drawing / Drawing
 First seen: Chapter 18
 Writing and copy skills for scroll work. Roland's Basic Drawing L9 breaks through to Drawing L1 while copying the Lesser Impact schematic with Debugger overlay (Chapter 18; credits Runic Mana Scribe). Painting is a separate skill.
+**Attribute bonus:** Dexterity +1 per level (Basic Drawing and Drawing). Additive evolve: Basic L9 **Dex +9** stays baked; Drawing L1 adds **Dex +1** → tree **Dex +10** at Ch 18. (The L1 pad is the evolve “free stat” line in Ch 13, not an extra point.)
 
 ### Basic Steady Hand Inscription
 First seen: Chapter 686

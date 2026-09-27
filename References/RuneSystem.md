@@ -38,7 +38,7 @@ Stages 8 and 9 appear only at rune score above 1 (Common Low and up). Lesser run
 
 **The five ranks:** Lesser, Common, Greater, Grand, Legendary. **The five qualities:** Lowest, Low, Intermediate, High, Highest. A rune is named rank first and quality second (Common Low). Rank sets the scale of the machine: size, complexity and working ceiling. Quality sets how well the machine is built and so the position inside the rank. Harmonics (next section) set efficiency inside the ceiling. Output stops at the ceiling except for overrun (below). Extra mana fed into a scroll adds output up to it (canon: amplification is rank-capped).
 
-**Working ceiling = 10 J x 100^s** per activation or per run (power x run length for a sustained machine). Each rank is a band of 100 times from Lowest to Highest. Lowest of a rank equals Highest of the rank below (canon). Intermediate sits at 10 times the Lowest. Lesser steps: 10 J, 32 J, 100 J, 316 J, 1 kJ. Lesser Highest is the baseline anchor: 100 mana through copper in a closed system yields 1 kJ (canon: Lesser Detonation costs about 100 MP).
+**Working ceiling = 10 J x 100^s** per activation or per run (power x run length for a sustained machine). Each rank is a band of 100 times from Lowest to Highest. Lowest of a rank equals Highest of the rank below (canon). Intermediate sits at 10 times the Lowest. Lesser steps: 10 J, 32 J, 100 J, 316 J, 1 kJ. Lesser Highest is the baseline anchor: **1 mana ≈ 10 J** paid (`Energy.md`, `Science/ManaCast.md`). Copper sealed (η 0.80, G 1) yields **8 J** useful per mana; 100 mana → **800 J** useful. Open-air copper (G 3) yields **24 J** per mana at clean linear Highest. Story "about 100 MP" detonation beats are round Intermediate / open-air mixes, not a second constant.
 
 **Overrun.** The ceiling is soft. Overcharging, a rune done exceptionally well, or a Highest quality can push output past it by up to about 5 times. A Lesser Highest rune can reach about 5 kJ, above a Common Low. This is how a Lesser Highest rune can be powerful.
 
@@ -82,8 +82,8 @@ Rank index: Lesser 1, Common 2, Greater 3, Grand 4, Legendary 5. Quality fractio
 - Recovery: **r = 0.125 x u**
 - Effective efficiency: **η_eff = 1 - (1 - η x λ) x (1 - r) x (1 + d)**
 - Effective gain factor: **H_eff = 1 + 0.25 x u x T**
-- **Output = cost x 12.5 J x η_eff x [1 + (G - 1) x H_eff]**
-- **Waste = cost x 12.5 J x (1 - η_eff)**
+- **Output = cost x 10 J x η_eff x [1 + (G - 1) x H_eff]**
+- **Waste = cost x 10 J x (1 - η_eff)**
 - Ring-up time: **0.75 s x u**. Linear runes fire instantly.
 
 η path efficiency and G ambient gain: `Energy.md` section 3. T tuning. d discord. With s = 1 and d = 0 the result equals the untuned baseline.
@@ -114,27 +114,27 @@ Lower waste means proportionally lower heat and strain on the path. Legendary Hi
 
 ### Worked cases
 
-Copper (η 0.80), open air (G 3). Clean linear baseline yield: 30 J per mana. Yield per mana shows efficiency only. Output stops at the ceiling before any overrun.
+Copper (η 0.80), open air (G 3). Clean linear baseline yield: **24 J** per mana (10 × 0.80 × 3). Yield per mana shows efficiency only. Output stops at the ceiling before any overrun.
 
-- Lesser Lowest (s 0): η_eff 0.128. Yield 4.8 J with 10.9 J waste. The 10 J ceiling is reached at 2.1 mana.
-- Lesser Highest (s 1): yield 30 J with 2.5 J waste. The 1 kJ ceiling is reached at 33 mana.
-- Common Highest (s 2), T 1: η_eff 0.825. Yield 36.1 J with 2.19 J waste.
-- Legendary Highest (s 5), T 1: η_eff 0.90. Yield 56.25 J (1.88x) with 1.25 J waste.
-- Legendary Highest, T 0.5: yield 45 J.
-- Legendary Highest, sealed space (G 1): yield 11.25 J from the turbo alone.
+- Lesser Lowest (s 0): η_eff 0.128. Yield 3.8 J with 8.7 J waste. The 10 J ceiling is reached at about 2.6 mana.
+- Lesser Highest (s 1): yield 24 J with 2.0 J waste. The 1 kJ ceiling is reached at about **42 mana**.
+- Common Highest (s 2), T 1: η_eff 0.825. Yield 28.9 J with 1.75 J waste.
+- Legendary Highest (s 5), T 1: η_eff 0.90. Yield 45 J (1.88x vs sealed path) with 1.0 J waste.
+- Legendary Highest, T 0.5: yield 36 J.
+- Legendary Highest, sealed space (G 1): yield 9 J from the turbo alone.
 
 ### Same attack, same size
 
-Steel sword (η 0.85) with a 1 kg blade and a Lesser rune of identical size. Highest costs 50 mana for the attack and Intermediate costs 125 mana (anchor), which sets Intermediate λ at 0.4. Both deliver 531 J at the converter (1594 J in open air) so the extra 75 mana of the Intermediate is pure waste.
+Steel sword (η 0.85) with a 1 kg blade and a Lesser rune of identical size. Highest costs 50 mana for the attack and Intermediate costs 125 mana (anchor), which sets Intermediate λ at 0.4. Both deliver **425 J** at the converter (**1275 J** in open air) so the extra 75 mana of the Intermediate is pure waste.
 
 | | Highest | Intermediate |
 |---|---|---|
 | Cost | 50 mana | 125 mana |
-| Input | 625 J | 1563 J |
-| Waste | 94 J (15 percent) | 1031 J (66 percent) |
+| Input | 500 J | 1250 J |
+| Waste | 75 J (15 percent) | 825 J (66 percent) |
 | Waste in mana | 7.5 | 82.5 |
-| Retained heat | 47 J (0.10 K) | 516 J (1.05 K) |
-| Casts to strain limit | about 2240 | about 200 |
+| Retained heat | 38 J (0.08 K) | 413 J (0.84 K) |
+| Casts to strain limit | about 2800 | about 250 |
 
 - Waste ratio is 11 to 1 on steel: 2.5 x (1 - 0.4η) / (1 - η). Iron 4.75, copper 8.5, mythril 31, adamantium 76. A better path widens the gap.
 - Path life falls in the same ratio on identical size.

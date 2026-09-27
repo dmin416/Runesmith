@@ -38,6 +38,7 @@ Ch 9.5 = L4→L20 kill volume at matched-goblin pace (~**16–17**/day over ~**9
 | **13** | Half-year Floor-3 → **Mage L25** | **1,102** kills; kill XP **48,726** + skill **3,608** = **52,334**; haul share **+9,116**; living+kit **−4,248** → pouch **11,641**; Calligraphy **L9**; **Basic Dodging → Dodging L6** |
 | **14** | Watcher kill (people XP) | Pool **2750** (L55 × 50); Roland **+479** (banks at Mage L25 cap); Dodging **L6→L7**; Ned **25→26** |
 | **15** | Lesser Detonation Rune [Highest] schematic | **+1000 XP** (banks at L25); title **Runic Scholar**; class stone deferred |
+| **18** | Lesser Impact Rune [Highest] schematic | **+1000 XP** into L26 bar (**1739 / 13000**); Drawing **L1**; tree Dex **+10** |
 
 Ch 6: weekly one-on-ones after the 9th birthday. Locked count **55** estate L1s after bravery (year of weeks plus a few extras) so the half-bank lands L3 empty under `500 × L`. After Mage, weekly continues and turns to **two** L1s at a time for ~**3 months** (**25** kills including the Ch 7 finale) so the first Carwen hunt can finish L3→L4.
 
@@ -81,6 +82,7 @@ Curve tables: `Levels.md`.
 | 14 | Watcher (people) | at **L25** cap | Pool **2750**; Roland **+479** banks toward class change; Dodging **L7**; Ned **25→26** |
 | 15 | Detonation schematic | at **L25** cap | **+1000 XP** banks; title **Runic Scholar**; bank total **1479** into Ch 16 |
 | 16 | Class change (Runic Mana Scribe) | bank applies | Half-cut **739** of **1479** into L26 bar (**739 / 13000**); stays **L26** / Scribe **L1** (no kills) |
+| 18 | Impact schematic | at **L26** | **+1000 XP** → bar **1739 / 13000**; Drawing **L1**; tree Dex **+10** (Basic **+9** + L1 **+1**) |
 
 `XP_to_next(3) = 1500`. Entering Ch 9 with **1250** keeps the level-up on the **54** XP kill. Overflow after level-up is **(1250 + 263) − 1500 = 13** into the L4 bar (`XP_to_next(4) = 2000`).
 
@@ -245,3 +247,13 @@ Inn study of the watcher's detonation rapier (Debugger / Technology pathways →
 ## Ch 16 class change
 
 No kill XP. Crystal used → **Runic Mana Scribe**. Banked **1479** → half-cut **739** into overall **L26** bar (**739 / 13000** toward L27). Stays **L26** / Scribe **L1** through Ch 17 (no overnight kills). Trial Fire Orb is a class trial scroll, not a schematic XP award. Source L28 / Scribe L3 drop is superseded by the rewrite curve.
+
+## Ch 18 Impact schematic
+
+Sahildr's hammer copy (Debugger overlay on paper; not scribing). Drawing breakthrough on the same beat.
+
+| Source | XP | Notes |
+|---|---:|---|
+| **Lesser Impact Rune [Highest]** schematic | **1000** | On-page popup; applies live (post class change) |
+
+**Bar:** **739 + 1000 = 1739 / 13000** toward L27. Still overall **L26** / Scribe **L1**. Skill: **Drawing L1**; Drawing tree Dex **+10** (Basic L9 **+9** baked + Drawing L1 **+1**).

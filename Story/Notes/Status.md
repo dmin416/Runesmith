@@ -305,7 +305,7 @@ XP shown matches `49 + monster level` (L2=51 … L5=54). Source used ~15–20 pe
 
 ## Chapter 9.5
 
-Three-month rewrite grind (Source has no separate chapter; Ch 10 opens already at L20). **1,481** goblin kills; lifetime **1,569**. Field-use curve in `Levels.md`; end ranks in `Skills.md` Ch 9.5. **L9 hard cap until first T2.** Absorption / Reinforcement cycle whenever mana is spent → both **L9** (Reinforcement self-taught from ambient→body store, not a book). Also: Shaping **L6**, Regulation **L7**, Incantation **L6**, Bolt **L7**, Arrow **L5**, Shield **L3**, Hand to Hand / Leather / Sprint stay **Basic L9**; Running / Climbing / Sneaking / Throwing / Swordsmanship → **plain L1**; Marksmanship → **Expert Marksmanship L1**; **Basic Dodging L6**. Ember **L6** / Hands **L5** (evenings). End **Mage L20** → Int **129** / Will **127** / MP **2158**; physicals **46/50/56/41/42**; HP **536** / SP **708**. Evolve pads **additive** (Basic L9 stay + Level 2 L1 + free points). Month beats: ~L11–12 + Arrow + Dodging; ~L16–17 + Shield + nickname; L20 + Goblin Hunter (past **1000** kills). Coin end **6,000 LC**; stones **286** rice-grain + **16** leader (kept after Ch 9 day one). Food: inn breakfast+dinner; **3** jerky bought; other lunches = goblin prey. Cloak **300 LC**. Ledger: `Experience.md`.
+Three-month rewrite grind (Source has no separate chapter; Ch 10 opens already at L20). **1,481** goblin kills; lifetime **1,569**. Field-use curve in `Levels.md`; end ranks in `Skills.md` Ch 9.5. **L9 hard cap until first T2.** Absorption / Reinforcement cycle whenever mana is spent → both **L9** (Reinforcement self-taught from ambient→body store, not a book). Also: Shaping **L6**, Regulation **L7**, Incantation **L6**, Bolt **L7**, Arrow **L5**, Shield **L3**, Hand to Hand / Leather / Sprint stay **Basic L9**; Running / Climbing / Sneaking / Throwing / Swordsmanship → **plain L1**; Marksmanship → **Expert Marksmanship L1**; **Basic Dodging L6**. Ember **L6** / Hands **L5** (evenings). End **Mage L20** → Int **129** / Will **127** / MP **2158**; physicals **46/50/56/41/42**; HP **536** / SP **708**. Evolve pads **additive** (Basic L9 stay + Level 2 L1; L1 pad is the evolve “free stat”, not an extra). Month beats: ~L11–12 + Arrow + Dodging; ~L16–17 + Shield + nickname; L20 + Goblin Hunter (past **1000** kills). Coin end **6,000 LC**; stones **286** rice-grain + **16** leader (kept after Ch 9 day one). Food: inn breakfast+dinner; **3** jerky bought; other lunches = goblin prey. Cloak **300 LC**. Ledger: `Experience.md`.
 
 ## Chapter 10
 
@@ -479,9 +479,9 @@ Same stack as Ch 16 night (Scribe L1 package only). Source had L28 / Scribe L3 f
 
 ## Chapter 18
 
-No full status screen. Gains **1000 XP** from Lesser Impact [Highest] schematic. Basic Drawing → **Drawing L1**. Adventurer rank **Bronze → Steel** (Miss Cellica; second T1 + missions + half-year). Parting spatial bag with coin (party keeps the larger watcher bag). Leaves Carwen for Edelgard by magic train (≥1 week, switches/carriages).
+No full status screen. Gains **1000 XP** from Lesser Impact [Highest] schematic. Basic Drawing L9 (**Dexterity +9** baked) breaks through → **Drawing L1** (**Dexterity +1**). Drawing tree Dex **+10**. Adventurer rank **Bronze → Steel** (Miss Cellica; second T1 + missions + half-year). Parting spatial bag with coin (party keeps the larger watcher bag). Leaves Carwen for Edelgard by magic train (≥1 week, switches/carriages).
 
-**Rewrite:** inherits Ch 17 rewrite sheet + Drawing L1 (no attr line locked). Overall still **L26** / Scribe **L1** until schematic XP or next full sheet.
+**Rewrite:** inherits Ch 17 rewrite sheet + Drawing tree Dex **+10** (Basic **+9** already owed if not on prior sheet; Ch 18 on-page **+1**). Bar **739 + 1000 = 1739 / 13000**. Overall still **L26** / Scribe **L1**.
 
 ## Chapter 19
 
