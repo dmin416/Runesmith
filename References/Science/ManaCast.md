@@ -27,6 +27,23 @@ Everything above this line is the **conversion** law: it takes whatever mana got
 
 None of these change η(L) or μ(INT) — those still depend only on the caster's spell level and INT. They only change the mana figure that goes into `Useful = mana × 10 × η(L) × μ(INT)`. A whispered cast from a terrified, unfocused caster and a shouted cast from a furious, focused one can land on the same mana total, and therefore the same joules, through different narrative paths.
 
+### Conversion layers — no stacking
+
+Locked rule to keep numbers from compounding out of control: **each cast uses exactly one two-factor conversion, never more.**
+
+| Pathway | Conversion (always exactly 2 factors) | Where |
+|---|---|---|
+| Direct cast (Bolt, Arrow, Shield, Ember, Hands, and any future spell cast straight off a skill) | `mana × 10 × η(L) × μ(INT)` | This file |
+| Rune / enchanted item output | `mana × 10 × path η × ambient gain` | `../Runes/Energy.md` §3 |
+
+These two rows are **alternatives, not a chain.** A cast is either a direct skill cast (row 1) or an item/rune discharge (row 2) — never both multiplied together. A mage firing a direct Mana Bolt never also pays a path-efficiency tax; a rune paddle firing a stored Fire Arrow never also applies η(L)/μ(INT) on top of its path η.
+
+**Stat-grant skills are never a multiplier.** Basic Mana Shaping, Basic Mana Regulation, Mana Absorption and Mana Reinforcement only ever hand out flat Intelligence/Willpower points per level (see `../Progression/Skills.md`). They cannot appear as a percentage term in any energy formula. Their entire effect on output joules is indirect and singular: raise INT → INT feeds the one `μ(INT)` term above. There is no second, hidden "shaping efficiency" or "regulation efficiency" riding alongside it.
+
+**Cost reducers act before conversion, never after.** Rune Mastery (−10%/level, capped −90%) lowers the mana *paid* to activate a rune. It is a discount on the input mana figure, not a second multiplier on the output joules. It can combine with mana-in channels (voice, focus, overcharge) since both only ever touch the mana number that then goes through exactly one conversion row above — it cannot combine with a second efficiency term because no second efficiency term exists.
+
+Any new skill, item or spell must fit into one of the two rows above. If a design calls for a new "efficiency" or "boost" stat, it either replaces η/μ (or path η/gain) for that pathway — it never multiplies alongside them.
+
 ### Level efficiency
 
 | L | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
