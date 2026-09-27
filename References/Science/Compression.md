@@ -45,7 +45,7 @@ For 1 L, 10:1: W = 101325×0.001/0.4 × (10^0.4 − 1) ≈ **383 J** (~38 mana a
 
 **Apps:** camp tinder, lamp light, sabotage powder stores, silent ignition where Ember’s open heat would show.
 
-Ember (`ManaCast.md`) pays heat **at the fuel**. Fire Piston pays **compression work** on a gas pocket. Different paths; pick by scene.
+Ember (`ManaCast.md`) pays heat **at the fuel**. Fire Piston pays **compression work** on a gas pocket. Different paths; pick by scene. Impact rune stroke / hold (compressed mana particles, same “only under force” spirit): `ImpactRune.md`.
 
 ## Frost Breath (adiabatic expansion cooling)
 

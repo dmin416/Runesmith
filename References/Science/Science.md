@@ -38,6 +38,7 @@ No locked “flight is expensive” or “flight is cheap” fiat. Cost is whate
 | `Flight.md` | Hover / flight power math |
 | `CraftMetal.md` | Barrier molds, wire, springs, atomization, period steel vs modern knowledge |
 | `CleverApps.md` | Resonant shatter, vacuum-pocket lift, micro-compression, insulation |
+| `ImpactRune.md` | Sahildr Impact hammer: compressed-mana stroke vs hold power |
 
 **Future spell idea rungs** (same cast law): `../PotentialMagic/PotentialMagic.md`.
 

@@ -38,6 +38,8 @@ Explosive rune; early schematic. Chapter 14–15: on the watcher's heavy rapier 
 First seen: Chapter 12
 Impact or force rune. Engraved on Sahildr's new warhammer (bought with monthly savings). Roland is drawn to it and briefly sees glowing pathway lines through the symbol. Chapter 13 combat: timed mana blast can one-shot or incap a Wereboar. Chapter 18 Sahildr: the heavy head **gains weight** when the rune activates (mass or gravity; timing matters). He creates the [Highest] quality schematic in Chapter 18. Poor as a solo scroll (just makes paper heavier). Chapter 27: speculates Heavy Magic / Heavy Impact Arrow (weight on descent) but paper tests are nearly useless. Chapter 73: common Impact (High) on Deep Iron Mace; increases weapon mass/weight mid-swing (timing-sensitive).
 
+**Rewrite science (Sahildr hammer):** compressed mana particles (Fire Piston cousin), not a charged store. **Paid 100 mana** one-shot. Useful output = 1000 × η × G. Earth boar skull crush does **not** need a huge instant boost (street warhammer **200–400 J** already exceeds measured cranial fracture bands). Full note: `../Science/ImpactRune.md`.
+
 ### Hardening / Strengthening Rune
 First seen: Chapter 73
 Active common rune. Coats the weapon in a thin mana layer that absorbs physical shocks. Drains mana fast if used on armor. Roland's Deep Iron Mace gets Hardening (Intermediate) paired with Impact.
