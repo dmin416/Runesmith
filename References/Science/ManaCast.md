@@ -17,6 +17,16 @@ mana_for_J = J / (10 × η(L) × μ(INT))
 
 **1 mana ≈ 10 J** as the paid unit. η is a level power factor (L1 below full conversion, L2 = 1×, L9 = 3×), not a 0-1 efficiency cap. INT 15 is the untrained adult baseline for μ.
 
+### Mana-in channels (what sets mana spent)
+
+Everything above this line is the **conversion** law: it takes whatever mana got fed into the cast and turns it into joules via η(L) and μ(INT). Separately, several narrative levers set **how much mana** goes in before that conversion happens. All of them work the same way — they add to the mana spent on the cast, nothing more:
+
+- **Voice/volume.** Named rungs (Mental, Whisper, Quiet, Normal, Loud, Very loud) below.
+- **Emotional intensity, focus or sheer skill.** A caster in a heightened state, deeply concentrating, or simply skilled enough to marshal more of their pool can channel extra mana into the same spell. Same math as voice — it is more mana spent, not a new multiplier on η or μ.
+- **Overcharging.** The general case: any amount of extra mana fed in, whether prompted by volume, emotion, focus or narrative stakes.
+
+None of these change η(L) or μ(INT) — those still depend only on the caster's spell level and INT. They only change the mana figure that goes into `Useful = mana × 10 × η(L) × μ(INT)`. A whispered cast from a terrified, unfocused caster and a shouted cast from a furious, focused one can land on the same mana total, and therefore the same joules, through different narrative paths.
+
 ### Level efficiency
 
 | L | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
