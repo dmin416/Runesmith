@@ -1,28 +1,30 @@
 # Runes
 
-Rune ranks, named rune types, and runic crafting concepts. Character skills that manipulate runes are listed in Skills.md.
+Named rune catalog and chapter first-seens. Character skills that manipulate runes: Skills.md.
+
+**Rewrite law (basis, not frozen):** `RuneSystem.md` (symbology, pathways, stages, ceilings, harmonics). Setup mana: `RuneSetup.md`. Activation energy and wear: `Energy.md`. Chapter LOOK/MAKE scrape: `TempRunes.md` (binary-circuit identity is dropped for rewrite; Debugger colors map to leaks and discord).
 
 ## Rune vs enchantment (Chapter 6 book)
 
-Both place lasting effects on gear. **Enchantments** use a word-like language (Earth analogy: English). **Runes** use a symbol language (Earth analogy: Japanese / Chinese characters). Runes are harder to master and considered better. Chapter 13 shop talk: regular enchantments are cheaper and weaker and cover more surface area so fewer fit on one item; only runic pieces trigger Roland's pathway attraction. Runesmith and Enchantsmith are the matching Tier 2 craft classes; both need Mana Scribe first. Rune quality leans on the crafter’s Intelligence and Dexterity; mana helps making and using them.
+Both place lasting effects on gear. Enchantments use a word-like language (Earth analogy: English). Runes use a symbol language (Earth analogy: Japanese / Chinese characters). Runes are harder to master and considered better. Chapter 13 shop talk: regular enchantments are cheaper and weaker and cover more surface area so fewer fit on one item; only runic pieces trigger Roland's pathway attraction. Runesmith and Enchantsmith are the matching Tier 2 craft classes; both need Mana Scribe first. Rune quality leans on the crafter's Intelligence and Dexterity; mana helps making and using them.
 
 ## Ranks and grades
 
-Five main rune ranks (rewrite world law; see Ideas):
+Five main rune ranks (see `RuneSystem.md` for ceilings and score):
 
-1. **Lesser Rune** – First seen: Chapter 13. Lowest main band. Basic Rune Mastery discounts this rank only.
-2. **Common Rune** – First seen: Chapter 18. Mid rank above Lesser.
-3. **Greater Rune** – First seen: Chapter 17. High-tier; major study topic (“Greater Runes 101”).
-4. **Grand Rune** – First seen: Chapter 38. Above Greater.
-5. **Legendary Rune** – First seen: Chapter 18. Top named rank.
+1. **Lesser Rune** - First seen: Chapter 13. Lowest main band. Basic Rune Mastery discounts this rank only. Basic Runecraft covers Lesser setup (`RuneSetup.md`).
+2. **Common Rune** - First seen: Chapter 18. Mid rank above Lesser.
+3. **Greater Rune** - First seen: Chapter 17. High-tier; major study topic ("Greater Runes 101").
+4. **Grand Rune** - First seen: Chapter 38. Above Greater.
+5. **Legendary Rune** - First seen: Chapter 18. Top named rank.
 
-Each rank can still use sub-grades (Lowest / Low / Intermediate / High / Highest). First seen: Chapter 2. Chapter 18: a Lesser rune at **Highest** is roughly comparable to a Common rune at **Lowest** (Roland flags this for later confirmation). Highest on a Common sits near a jump into Greater (Chapter 22 Percival). Comet / shooting-star logo is Roland's early scroll brand.
+Each rank uses sub-grades (Lowest / Low / Intermediate / High / Highest). First seen: Chapter 2. Chapter 18: a Lesser rune at Highest is roughly comparable to a Common rune at Lowest (matches score s = 1 in `RuneSystem.md`). Highest on a Common sits near a jump into Greater (Chapter 22 Percival). Comet / shooting-star logo is Roland's early scroll brand.
 
 ## Named lesser and common runes
 
 ### Lesser Detonation Rune
 First seen: Chapter 14 (on watcher's heavy rapier tip; orange glow; tree explodes on thrust); schematic Chapter 15
-Explosive rune; early schematic. Chapter 14–15: on the watcher's heavy rapier tip (orange glow; internal blast on thrust; ~**100 MP** per activation, more than Mana Arrow or Shield). Roland creates the [Highest] quality schematic via Debugger pathway analysis (red/green/blue traces; Calligraphy redraw). Weak as a solo scroll unless combined (Chapter 18: considers Fire Orb + Detonation grenade). Chapter 37: pressure-trigger scroll mines (dormant until stepped on; ~1 hour active).
+Explosive rune; early schematic. Chapter 14–15: on the watcher's heavy rapier tip (orange glow; internal blast on thrust; **125 MP** as found, more than Mana Arrow or Shield; SP overflow **1:1** if MP short). Hold-test: tip effect **locks armed** until inserted (forced free activate weaker); hold trickles mana and warms the blade. Roland creates the [Highest] quality schematic via Debugger pathway analysis (red/green/blue; Technology fills knowledge gaps) and Calligraphy redraw (~**1 hour**). Weak as a solo scroll unless combined (Chapter 18: considers Fire Orb + Detonation grenade). Chapter 37: pressure-trigger scroll mines (dormant until stepped on; ~1 hour active).
 
 ### Lesser Impact Rune
 First seen: Chapter 12
@@ -34,7 +36,13 @@ Active common rune. Coats the weapon in a thin mana layer that absorbs physical 
 
 ### Lesser Fire Orb Rune
 First seen: Chapter 16
-Fire orb projection rune. Roland's Runic Mana Scribe trial scroll: fire core + orb shape + mana regulation / control "program" (logic-gate feel). Needs magical ink and mana-retaining parchment (often monster skin). Max rune size; must compress the schematic. Recreated as [Highest] schematic from **memory** in Chapter 19 (~1 hour; +1000 XP; no Debugger source item). Chapter 21 first practice scroll ~45 min / +50 XP (still red under Debugger); activates fine at **0%** fire affinity. Chapter 36: first reusable metal form, Bronze Plate of the Fire Orb [Lesser: Lowest, High].
+Fire orb projection rune. Roland's Runic Mana Scribe trial scroll.
+
+**Rewrite (Ch 16 through mid-scribe):** five linked regions on a **linear chain** (simpler than Detonation): fire core fed by mana collector → shape fireball → constrain so it does not explode on form → give velocity. Looks like five large letters while scribing; pathways under the ink. Magical ink + mana-retaining parchment (monster skin). Temporary Basic Mana Scribing / Rune Scribing / Rune Mastery for the trial. No binary, logic gates or chip talk on-page.
+
+**Source (old model, dropped for rewrite law):** three main parts (fire / orb shape / control "program"); logic gates and binary; transistors/resistors/chips; Circuitry skill; naked-eye three symbols after dry; hard maximal size + compress off a large schematic.
+
+Later: recreated as [Highest] schematic from **memory** in Chapter 19 (~1 hour; +1000 XP; no Debugger source item). Chapter 21 first practice scroll ~45 min / +50 XP (still red under Debugger); activates fine at **0%** fire affinity. Chapter 36: first reusable metal form, Bronze Plate of the Fire Orb [Lesser: Lowest, High].
 
 ### Lesser Fire Rune
 First seen: Chapter 194

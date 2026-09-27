@@ -1000,3 +1000,115 @@ The arm has 5 major named nerves (median, ulnar, radial, musculocutaneous, axill
 - **Practice effect:** In Makin lab studies of an extra robotic thumb, users controlled it while doing other tasks after a few days. Their hand cortex remapped in the process. That points to the cost dropping from near-full concentration to mostly automatic with training.
 
 No fixed percentage exists. The cost starts high in attention and falls sharply as the control becomes learned.
+
+## Sound and light bands (future magic reference)
+
+Existing sound notes in this file are **loudness** (near-Mach arrow dB), not wavelength. Below is the spectrum cheat sheet for spells that push sound or light.
+
+λ = v / f. Air sound speed ~**343 m/s** at 20 °C. Light in vacuum: c = **3.00×10⁸ m/s**; λ in nm for optical bands.
+
+### Sound (air)
+
+| Band | Frequency | Wavelength (approx) | Notes |
+|---|---|---|---|
+| Infrasound | below 20 Hz | above ~17 m | Felt more than heard. Building rumble, distant blasts. |
+| Low bass | 20 to 60 Hz | 17 m to 5.7 m | Subwoofer feel. Hard to localize. |
+| Speech | ~100 to 8,000 Hz | 3.4 m to 4 cm | Most talk energy ~300 to 3,000 Hz. |
+| Mid / treble | 1 to 10 kHz | 34 cm to 3.4 cm | Clarity, hiss, bird calls. |
+| Upper hearing | to ~20 kHz (young ear) | down to ~1.7 cm | Falls with age. |
+| Ultrasound | above 20 kHz | below ~1.7 cm | Bats, medical imaging, dog whistles. |
+
+Quiet Ward / sound barriers care about **leaving** intensity (dB). Pitch and range care about **frequency** and λ above.
+
+### Light (electromagnetic)
+
+| Band | Wavelength | Frequency (order) | Notes |
+|---|---|---|---|
+| Radio / microwave | km to mm | kHz to GHz | Comms, radar. |
+| Far IR | ~15 μm to 1 mm | THz | Heat glow of cool objects. |
+| Near IR | ~700 nm to 1.4 μm | ~200 THz | Night sights, remote controls. |
+| Visible red | ~620 to 750 nm | | Longest visible. |
+| Visible orange | ~590 to 620 nm | | |
+| Visible yellow | ~570 to 590 nm | | |
+| Visible green | ~495 to 570 nm | | Eye peak sensitivity. |
+| Visible blue | ~450 to 495 nm | | |
+| Visible violet | ~380 to 450 nm | | Shortest visible. |
+| UV-A | 315 to 400 nm | | Tanning, blacklight. Reaches ground. |
+| UV-B | 280 to 315 nm | | Sunburn. Mostly blocked by ozone. |
+| UV-C | 100 to 280 nm | | Germicidal (~254 nm lamps). Blocked by air / ozone aloft. |
+| Soft X-ray / hard X-ray / gamma | below ~10 nm | | Ionizing. |
+
+Visible window for human eyes is roughly **380 to 750 nm**. Spell color talk can anchor to those bands.
+
+### Ozone sidenote (UV)
+
+Ozone (O₃) is tied to ultraviolet light in both directions.
+
+- **Make (stratosphere):** UV-C below about **242 nm** splits O₂ into atoms. Free O sticks to O₂ and forms O₃. That is why a UV-heavy upper sky builds an ozone layer.
+- **Shield:** O₃ absorbs most **UV-B** (and leftover UV-C) before it reaches the ground. Kill the ozone and sunburn / DNA damage climb fast.
+- **Break:** Shorter UV also photolyzes O₃. Chlorine and other catalysts accelerate loss (Earth ozone-hole chemistry).
+- **Ground level:** Near the surface, ozone is a pollutant. Sunlight on NOₓ and organics cooks smog ozone. It stings lungs and cracks rubber. Not the same as the protective high-altitude layer.
+- **Magic hook:** A strong UV spell (UV-C especially) can **make** a whiff of ozone (sharp bleach / electrical smell after arcs and germicidal lamps) and can also **strip** local ozone if the flux is high enough. Smell of ozone after lightning is the mundane analog. Do not treat ground ozone as free high-altitude protection.
+
+## Heat and cool skin with magic (potential)
+
+Baseline for spells that warm or chill a person by moving heat in the skin layer. Compare Useful joules from the mana cast law above.
+
+**Formula:** Q = mcΔT (heat energy = mass × specific heat capacity × temperature change)
+
+### Skin properties
+
+- Specific heat capacity: ~3.5 J/(g·°C)
+- Density: ~1.1 g/cm³
+- Relevant thickness (epidermis + dermis, excluding subcutaneous fat): ~1.5 mm
+- Mass per m² of skin: ~1.65 kg
+- Total skin mass, average adult (1.8 m² surface area): ~3 kg
+
+### Freezing (0 °C) to room temperature (20 °C)
+
+ΔT = 20 °C
+
+Q = 3000 g × 3.5 J/(g·°C) × 20 °C = 210,000 J (~210 kJ)
+
+### Death Valley heat-stressed skin (~45 °C) to comfortable (33 °C)
+
+ΔT = 12 °C
+
+Q = 3000 g × 3.5 J/(g·°C) × 12 °C = 126,000 J (~126 kJ)
+
+These are whole-body totals. Per square meter of skin the values scale down to ~1.4 kJ (cold case) and ~0.83 kJ (hot case).
+
+### Vibration / friction path
+
+If the mechanism is vibration converted to heat through friction, actual input energy runs higher than these thermal values, since conversion efficiency is never 100%. A rough working range for a mechanical-to-thermal process is 60-80% efficient, which would put the real input energy at roughly 260-350 kJ for the cold case.
+
+Swap in different mass, thickness or ΔT values and the same formula scales directly.
+
+## Water-lens telescope (potential)
+
+Concise gist for Mana Hands / ice-water optics or craft: a single lens only focuses; it does not magnify distant objects usefully on its own. Seeing far things up close needs two water lenses acting as a telescope: a large, gently curved front lens (objective) with a long focal length and a small, tightly curved back lens (eyepiece) with a short focal length. Magnification = f_objective / f_eyepiece.
+
+### Objective lens (front, large)
+
+Using lensmaker's equation for water (n = 1.33) with symmetric curvature, R = 2(n−1)f:
+
+- Focal length: 1 m
+- Radius of curvature: ≈ 0.66 m per surface
+- Diameter: ≈ 0.5 m (bigger diameter = sharper resolution and more light but more mass to hold steady)
+- Edge sag (how much the surface curves relative to flat, using sag ≈ D²/8R): ≈ 4.7 cm rise across that 0.5 m width, a shallow, gentle curve
+
+### Eyepiece lens (back, small)
+
+- Focal length: 0.1 m
+- Radius of curvature: ≈ 0.066 m per surface
+- Diameter: ≈ 5 cm
+- Edge sag: ≈ 4.7 mm, a much tighter curve packed into a smaller width
+
+### Result
+
+That pairing gives 10× magnification (1 m ÷ 0.1 m). Spacing between the two lenses should sit close to f_objective + f_eyepiece ≈ 1.1 m for the image to focus properly.
+
+### Scaling
+
+Want more magnification: shrink the eyepiece's focal length rather than growing the objective, since that ratio drives everything. Want a wider field of view or more light-gathering: grow the objective's diameter; holding its focal length fixed makes the curve proportionally shallower and easier to hold steady.
+

@@ -169,13 +169,13 @@ HP = 40×10 + 40×3 = 520. SP = 40×10 + 40×3 + 40×3 = 640. MP = 66×10 + 53×
 
 Skills menu in chapter: transfer set (Marksmanship **L7**) + Mana Sense **L9** (+Int/Will) + Reading **L9** (+Int/Will) + Basics at age-10 targets (Running/Sprint/Climbing/Throwing/Leather **L9**; H2H/Sneak/Sword **L8**). Str/Agi/Vit/End even at **40**; Dex **50**; Will **53**; Int **66** highest.
 
-Class gained mid-chapter: **Tier 1 Mage L1**. Unlocks: Basic Mana Shaping L1 (**Int +2 / Will +1**), Basic Mana Regulation L1 (**Int +1 / Will +2**), Mana Bolt Spell L1, Basic Incantation L1 (**Int +1 / Will +1**). Mage package +1 Int / +1 Will. Mage +20% MP. All seven **40** attribute perks on sheet. Banked pre-class XP not applied on-page until Chapter 6 (L3). Crystal used for the ritual turns to dust.
+Class gained mid-chapter: **Tier 1 Mage L1**. Unlocks: Basic Mana Shaping L1 (**Int +2 / Will +1**), Basic Mana Regulation L1 (**Int +1 / Will +2**), Mana Bolt Spell L1, Basic Incantation L1 (**Int +1 / Will +1**). Mage package +1 Int / +1 Will. Mage **+2% max MP** / **+1% regen** per class level. All seven **40** attribute perks on sheet. Banked pre-class XP not applied on-page until Chapter 6 (L3). Crystal used for the ritual turns to dust.
 
 **Live (chapter) Mage L1** (right after tutorial dump):
 
 Pre-class Int **66** / Will **53** → + class (+1/+1) + mage-grant skill pads (+4 Int / +4 Will) → Int **71** / Will **58**.
 
-MP check: ((71 × 10) + (58 × 4)) = 942; ×1.2 = 1130.4 → **1130** (Blessed by Mana = regen narrative only).
+MP check: ((71 × 10) + (58 × 4)) × 1.02 = 942 × 1.02 = **961** (Blessed by Mana = regen narrative only).
 
 ```
 ════════ STATUS ════════
@@ -219,9 +219,9 @@ Mage L3 after pre-ascension XP applies. Runesmith plan approved with conditions 
 
 Weekly estate goblin fights after the age-9 bravery test filled the pre-class XP bank. That bank applies **once** at first ascension only.
 
-**Live (chapter):** Mage L3 on age-10 full stack. Class +3 Int / +3 Will. Mage grants still L1: +4 Int / +4 Will from Shaping/Regulation/Incantation. Mage +20% MP and +15% regen. Blessed by Mana = stronger mana regen (narrative). All seven 40 perks.
+**Live (chapter):** Mage L3 on age-10 full stack. Class +3 Int / +3 Will. Mage grants still L1: +4 Int / +4 Will from Shaping/Regulation/Incantation. Mage **+2% MP / +1% regen** per class level. Blessed by Mana = stronger mana regen (narrative). All seven 40 perks.
 
-MP check: ((73 × 10) + (60 × 4)) = 970; ×1.2 = **1164** (Blessed = regen narrative only).
+MP check: ((73 × 10) + (60 × 4)) × 1.06 = 970 × 1.06 = **1028** (Blessed = regen narrative only).
 
 ```
 ════════ STATUS ════════
@@ -260,9 +260,9 @@ No new full attribute status screen. No class level shown this chapter. Still Ma
 
 Bronze Adventurer. Guild measuring crystal reads full sheet (confidential to guild). Registers first name **Roland** only on the card. Looks ~**150 cm** / ~12–13 to staff.
 
-**Live (chapter):** same Mage L3 rewrite stack as Ch 6. Class +3 Int / +3 Will. Mage grants still L1 pads (+4 Int / +4 Will). Mage ×1.2 MP. Blessed = regen narrative only. Source orb was Mage L5 on the old low sheet. Off-page bar still **1250 / 1500** from estate Mage doubles (not shown on the orb block).
+**Live (chapter):** same Mage L3 rewrite stack as Ch 6. Class +3 Int / +3 Will. Mage grants still L1 pads (+4 Int / +4 Will). Mage **+2% MP / +1% regen × level**. Blessed = regen narrative only. Source orb was Mage L5 on the old low sheet. Off-page bar still **1250 / 1500** from estate Mage doubles (not shown on the orb block).
 
-MP check: ((73 × 10) + (60 × 4)) = 970; ×1.2 = **1164** (Blessed = regen narrative only).
+MP check: ((73 × 10) + (60 × 4)) × 1.06 = 970 × 1.06 = **1028** (Blessed = regen narrative only).
 
 ```
 ════════ STATUS ════════
@@ -342,7 +342,7 @@ Luck                   7
 ════════════════════════
 ```
 
-Rewrite stack applied: HP = Vit×10+End×3; SP = End×10+Str×3+Agi×3; MP = ((Int×10)+(Will×4))×1.2 (Blessed = regen narrative only). Cha body rises with age (seed **3** through childhood → **7** by Ch 10 / ~age 10–11); Acting still **+4**.
+MP = ((Int×10)+(Will×4)) × (1 + 0.02 × Mage level). Mage also **+1% mana regen** per class level. Blessed by Mana = regen narrative only. Source fixed +20%/+15% discarded; sheet MP numbers need retally to the per-level %.
 
 ## Chapter 11
 
@@ -407,81 +407,81 @@ No full status screen. Damage **8** (cheek) + **31** (calf) + **46** (shoulder) 
 
 ## Chapter 15
 
-No full status screen. Gains **1000 XP** from Lesser Detonation Rune [Highest] schematic. Title: **Runic Scholar**. Rapier tip blast **125 MP** (SP overflow 1:1 if MP short). Class-change crystal still unused.
+No full status screen. Gains **1000 XP** from Lesser Detonation Rune [Highest] schematic. Title: **Runic Scholar**. Rapier tip blast **125 MP** (SP overflow 1:1 if MP short). Cremation bubble **1000 MP**. Class-change crystal still unused. Bank at L25 cap: Ch 14 **479** + Ch 15 **1000** = **1479**.
 
 **Rewrite:** inherits Ch 14 Mage L25 rewrite sheet (**Dodging L7**). Schematic XP banks toward class change (half cut on switch).
 
 ## Chapter 16
 
-Class change to **Runic Mana Scribe** (Runic Scholar unlock). No full attribute sheet. Mage L25 becomes inactive / replaced as current class. XP partial carry (~half of banked XP lost, including schematic chunk). Class text: increases mana regen and lowers mana consumption while scribing spells and runes. Skills gained: Basic Mana Scribing L1, Basic Rune Scribing L1, Basic Rune Mastery L1.
+Class change to **Runic Mana Scribe** (Runic Scholar unlock). XP partial carry (~half of banked **1479** lost under ledger rule; Ch 16 prose does not restate the half line). Class text: mana regen + **−3% scribing cost per class level**. Skills gained: Basic Mana Scribing L1, Basic Rune Scribing L1, Basic Rune Mastery L1 (**−10% activation per level**, Lesser). Trial burns ~**half** his MP across the mana-hand blunder + successful scroll. **Ned** keeps him upright with silk when he returns to the inn chair.
 
-**Rewrite:** class swap starts Scribe packages (**Int/Dex/Will +1** per level). Mage may sit inactive until Ch 17 secondary restore. Full sheet next at Ch 17.
-
-## Chapter 17
-
-Overall L28. Mage secondary. Runic Mana Scribe main L3.
-
-**Live (chapter)** — Source block still on-page:
+**Rewrite** (night of class change; Scribe **L1** package **Dex/Int/Will +1**; Mage kept as secondary so mana bonus stays; overall **L26** = Mage **25** + Scribe **1**):
 
 ```
 ════════ STATUS ════════
 Name:       Roland Arden
-Level:      28
+Level:      26
 
 Classes:
-T1 Mage L25              [Secondary]
-T1 Runic Mana Scribe L3  [Main]
+T1 Mage L25                [Secondary]
+T1 Runic Mana Scribe L1    [Main]
 
-HP               338/338
-MP              1554/1554
-SP               422/422
-
-Strength              25
-Agility               29
-Dexterity             43
-Vitality              26
-Endurance             26
-Intelligence          85
-Willpower             60
-Charisma              12
-Luck                   8
-════════════════════════
-```
-
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana (Blessed = regen narrative only); Luck seed **7**):
-
-```
-════════ STATUS ════════
-Name:       Roland Arden
-Level:      28
-
-Classes:
-T1 Mage L25              [Secondary]
-T1 Runic Mana Scribe L3  [Main]
-
-HP               639/639
-MP              2342/2342
+HP               629/629
+MP              2309/2309
 SP               869/869
 
 Strength              49
 Agility               64
-Dexterity             62
-Vitality              48
+Dexterity             60
+Vitality              47
 Endurance             53
-Intelligence         140
-Willpower            138
+Intelligence         138
+Willpower            136
 Charisma              12
 Luck                   7
 ════════════════════════
 ```
 
-Secondary Mage keeps mana bonuses (switch once/day). Rapier test drops MP to **1455/1554** on Live (~1% Rune Mastery discount). Funds: ~15 SG personal plus loot share.
+Bank applies at class change with half-cut (**739** of **1479**). At overall **L26** that only fills **739 / 13000** toward L27. No overnight climb. Ch 17 sheet stays **L26** / Scribe **L1**.
+
+## Chapter 17
+
+Overall **L26**. Mage secondary. Runic Mana Scribe main **L1**. No kills overnight. Half-cut bank **739 / 13000** toward L27 (`500 × 26`).
+
+**Live (chapter)** — rewrite sheet on-page:
+
+```
+════════ STATUS ════════
+Name:       Roland Arden
+Level:      26
+
+Classes:
+T1 Mage L25              [Secondary]
+T1 Runic Mana Scribe L1  [Main]
+
+HP               629/629
+MP              2309/2309
+SP               869/869
+
+Strength              49
+Agility               64
+Dexterity             60
+Vitality              47
+Endurance             53
+Intelligence         138
+Willpower            136
+Charisma              12
+Luck                   7
+════════════════════════
+```
+
+Same stack as Ch 16 night (Scribe L1 package only). Source had L28 / Scribe L3 from a softer bank climb; rewrite curve does not buy those levels from **1479** half-cut. Secondary Mage keeps mana bonuses (switch once/day). Rapier test: tip **125 MP** with Basic Rune Mastery L1 **−10%** → **113**, plus Mana Shield **100** → **MP 2096/2309**; stab **−2 SP** → **867/869**. Funds: ~15 SG personal plus loot share.
 
 ## Chapter 18
 
 No full status screen. Gains **1000 XP** from Lesser Impact [Highest] schematic. Basic Drawing → **Drawing L1**. Adventurer rank **Bronze → Steel** (Miss Cellica; second T1 + missions + half-year). Parting spatial bag with coin (party keeps the larger watcher bag). Leaves Carwen for Edelgard by magic train (≥1 week, switches/carriages).
 
-**Rewrite:** inherits Ch 17 rewrite sheet + Drawing L1 (no attr line locked). Overall still **L28** band until next full sheet.
+**Rewrite:** inherits Ch 17 rewrite sheet + Drawing L1 (no attr line locked). Overall still **L26** / Scribe **L1** until schematic XP or next full sheet.
 
 ## Chapter 19
 
@@ -538,7 +538,7 @@ Luck                   8
 ════════════════════════
 ```
 
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana (Blessed = regen narrative only); Luck seed **7**):
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps **+2% MP / +1% regen × Mage level** (Blessed = regen narrative only); Luck seed **7**):
 
 ```
 ════════ STATUS ════════
@@ -616,7 +616,7 @@ Luck                   8
 ════════════════════════
 ```
 
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana (Blessed = regen narrative only); Luck seed **7**):
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps **+2% MP / +1% regen × Mage level** (Blessed = regen narrative only); Luck seed **7**):
 
 ```
 ════════ STATUS ════════
@@ -710,7 +710,7 @@ Luck                   8
 ════════════════════════
 ```
 
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana (Blessed = regen narrative only); Luck seed **7**):
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps **+2% MP / +1% regen × Mage level** (Blessed = regen narrative only); Luck seed **7**):
 
 ```
 ════════ STATUS ════════
@@ -741,7 +741,7 @@ Luck                   7
 
 Class change: Runic Blacksmith. No full attribute sheet. MP drops to 1% then +200 from mana potion. Secondary class swap available once/day. Lost Scribe mana-regen bonus when Blacksmith is main. Ladle of Lesser Fire Resistance [Lesser: Lowest, High].
 
-**Rewrite:** Scribe caps at **L25 [X]**; Blacksmith starts **L1** main. Packages switch to **Str/End/Dex +1** per Blacksmith level. Mage secondary may stay for mana ×1.2 (Blessed = regen narrative only). Full sheet next major checkpoint Ch 47.
+**Rewrite:** Scribe caps at **L25 [X]**; Blacksmith starts **L1** main. Packages switch to **Str/End/Dex +1** per Blacksmith level. Mage secondary may stay for mana **+2% MP / +1% regen × Mage level** (Blessed = regen narrative only). Full sheet next major checkpoint Ch 47.
 
 ## Chapter 36
 
@@ -841,7 +841,7 @@ Luck                   8
 ════════════════════════
 ```
 
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana (Blessed = regen narrative only); Luck seed **7**):
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps **+2% MP / +1% regen × Mage level** (Blessed = regen narrative only); Luck seed **7**):
 
 ```
 ════════ STATUS ════════
@@ -987,7 +987,7 @@ Luck                   8
 ════════════════════════
 ```
 
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana (Blessed = regen narrative only); Luck seed **7**):
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps **+2% MP / +1% regen × Mage level** (Blessed = regen narrative only); Luck seed **7**):
 
 ```
 ════════ STATUS ════════
@@ -1073,7 +1073,7 @@ Luck                   8
 ════════════════════════
 ```
 
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana (Blessed = regen narrative only); Luck seed **7**):
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps **+2% MP / +1% regen × Mage level** (Blessed = regen narrative only); Luck seed **7**):
 
 ```
 ════════ STATUS ════════
@@ -1181,7 +1181,7 @@ Luck                   8
 ════════════════════════
 ```
 
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps ×1.2 mana (Blessed = regen narrative only); Luck seed **7**):
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps **+2% MP / +1% regen × Mage level** (Blessed = regen narrative only); Luck seed **7**):
 
 ```
 ════════ STATUS ════════

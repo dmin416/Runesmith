@@ -207,6 +207,40 @@ Watcher ambush / party rescue. Carry-in from Ch 13.
 **Gained**
 - Kill XP **+479** (banks at Mage L25 cap).
 - **Dodging L7**.
-- Watcher’s heavy detonation **rapier** kept in Ch 15 loot beat. Tip blast **125 MP** (inefficient rune). Shortfall pulls **SP** at **1:1** (1 SP per missing MP). Later Basic Rune Mastery ~**1%** cut (Ch 17 test). Girls take armor sale + watcher’s spatial bag (Ch 15).
+- Watcher’s heavy detonation **rapier** kept in Ch 15 loot beat. Tip blast **125 MP** (inefficient rune). Shortfall pulls **SP** at **1:1** (1 SP per missing MP). Ch 17 Basic Rune Mastery L1 **−10%** cut on activation. Girls take armor sale + watcher’s spatial bag (Ch 15).
 
-**Still carrying after fight / into Ch 15 talk:** worn kit, **Ned** (now Greater Needle Worm), parsleaves / needle-blood stocks, coin pouch (**11,641 LC** until later sales), stone bank, buried class-up crystal, remaining potions if any. Rapier claimed next chapter.
+**Still carrying after fight / into Ch 15 talk:** worn kit, **Ned** (now Greater Needle Worm), parsleaves / needle-blood stocks, coin pouch (**11,641 LC** until later sales), stone bank, buried class-up crystal, remaining potions if any. Rapier claimed in the Ch 15 loot beat (not yet on him mid-fight).
+
+## Chapter 15
+
+Confession / loot / cremation / inn study. Carry-in from Ch 14.
+
+**Gained / kept**
+- Watcher’s heavy detonation **rapier** – claimed on-page. Tip blast **125 MP** (inefficient; SP 1:1 overflow). Hold-test: arms until tip insert; free force weaker; hold trickles mana / warms blade.
+- Watcher’s **boots** – set aside for Sahildr (her size); not kept by Roland.
+- **Lesser Detonation Rune [Highest]** schematic (paper) – Calligraphy redraw; **+1000 XP**; title **Runic Scholar**.
+- Class-change crystal still on table / unused.
+
+**Used / disposed**
+- Watcher body burned in Mana Shield + wood (**1000 MP**); ash / bone scraps left.
+- Girls take armor sale + watcher’s spatial bag.
+
+**Still carrying into Ch 16:** worn kit, detonation rapier, **Ned** (Greater Needle Worm), parsleaves / needle-blood stocks, coin pouch (**11,641 LC**), stone bank, class-up crystal (on table), Detonation [Highest] schematic knowledge, remaining potions if any.
+
+## Chapter 16
+
+Class-change trial night. Carry-in from Ch 15.
+
+**Used / consumed**
+- Class-change crystal activated → Runic Mana Scribe trial (Fire Orb scroll on monster-skin parchment + magical ink).
+- Trial MP: mana-hand overlay blunder ~**1/4** pool; successful second scroll ~**1/4** more.
+
+**Gained**
+- Class: **Runic Mana Scribe** (title-gated).
+- Skills: Basic Mana Scribing L1, Basic Rune Scribing L1, Basic Rune Mastery L1.
+- Working trial Fire Orb scroll (five-region linear; fist-sized heat orb on success) left in the trial space.
+
+**Scene props**
+- **Ned** silk-ties him upright in the inn chair on return; eats the silk after chin-scratch.
+
+**Still carrying into Ch 17:** worn kit, detonation rapier, **Ned**, parsleaves / needle-blood stocks, pouch **11,641 LC**, stone bank, Detonation [Highest] schematic knowledge, new Scribe skills; class crystal spent.

@@ -6,11 +6,11 @@ System and class skills and traits named in the story. Companion (Agni) and ally
 
 ### Debugger (Debugging)
 First seen: Chapter 2
-Passive. Finds and resolves defects; +Intelligence equal to skill level. Roland’s starting skill at L8; later used to reverse-engineer runes and enchantments. Chapter 15 rapier study: magnifying vision of circuit-like traces (costs mana while active); red = faulty paths, green = correct, blue = optimal layout to rewrite toward. All-green schematic yields [Highest] grade. Chapter 19: cut-paper component overlays do not trigger it; the diagram must be drawn as one whole sheet. Chapter 21: blank on regular (non-runic) spell scrolls; runic and word scrolls operate on different laws. Chapter 26: maps shared arrow-body rune across elemental arrows; grafts Smoke Arrow from Fire+Gale; live circuit tests (power-input plug; series/parallel; mana pressure ≈ voltage; Fire Orb "resistor" swapped into Orb of Light → dimmer light). Rewrite: already a higher-order skill (no Basic form). Caps at L9. **Advanced Debugger** is a separate Tier 3 or Tier 4 skill, not an automatic L9 evolution.
+Passive. Finds and resolves defects; +Intelligence equal to skill level. Roland’s starting skill at L8; later used to reverse-engineer runes and enchantments. Chapter 15 rapier study: magnifying vision of deeper pathway structure / flow-puzzle diagram (costs mana while active); red = faulty paths, green = correct, blue = optimal layout to rewrite toward (blue does not sit on current paths). Hold-test shows tip lock armed until insert. All-green schematic yields [Highest] grade (~**1 hour** Calligraphy redraw). Chapter 19: cut-paper component overlays do not trigger it; the diagram must be drawn as one whole sheet. Chapter 21: blank on regular (non-runic) spell scrolls; runic and word scrolls operate on different laws. Chapter 26: maps shared arrow-body rune across elemental arrows; grafts Smoke Arrow from Fire+Gale; live circuit tests (power-input plug; series/parallel; mana pressure ≈ voltage; Fire Orb "resistor" swapped into Orb of Light → dimmer light). Rewrite: already a higher-order skill (no Basic form). Caps at L9. **Advanced Debugger** is a separate Tier 3 or Tier 4 skill, not an automatic L9 evolution.
 
 ### Technology
 First seen: Chapter 2
-Passive. Bonus to repair and creation of technology or technological equivalents. +Dexterity and +Intelligence equal to skill level. Roland’s transferred skill at L7 (was Circuitry in older wording). Chapter 4 clock: supplies the **conceptual and understanding** side (with Tinkerer on physical/mechanical fit). Chapter 15: possible co-culprit with Debugger when reading runes as tech/circuit hybrids.
+Passive. Bonus to repair and creation of technology or technological equivalents. +Dexterity and +Intelligence equal to skill level. Roland’s transferred skill at L7 (was Circuitry in older wording). Chapter 4 clock: supplies the **conceptual and understanding** side (with Tinkerer on physical/mechanical fit). Chapter 15: co-culprit with Debugger on rune study; fills rune knowledge gaps on encounter (active use alongside Debugger overlay; not only passive).
 **Special skill:** outside the Basic→…→Legendary evolution ladder (`Ideas.md`). No prefix evolve track.
 
 ### Cooking
@@ -224,8 +224,8 @@ Wide-radius intimidation; can freeze foes when it lands.
 ## Mage foundations
 
 ### Mage Class (class card)
-First seen: Chapter 6
-Listed on the skills menu with Mage grants. **+20%** mana and **+15%** mana regeneration. Not a skill; class bonus.
+First seen: Chapter 5–6
+Listed on the skills menu with Mage grants. **Class bonus (locked):** **+2% max mana** and **+1% mana regeneration** **per Mage class level** (L1 = +2% MP / +1% regen; L25 = +50% MP / +25% regen). Not a skill. Replaces Source flat **+20%** mana / **+15%** regen. Kept when Mage is secondary.
 
 ### Basic Mana Shaping
 First seen: Chapter 5
@@ -241,7 +241,7 @@ Faster, better chanting. **Intelligence +1 per level**, **Willpower +1 per level
 
 ### Basic Mana Scribing
 First seen: Chapter 16
-Scribe basic spells onto paper. Temporary in the Runic Mana Scribe trial, then permanent at L1. Chapter 21: write the spell's incantation in the correct language while pushing mana through quill and ink (no runic pathways). First Mana Arrow scroll ~10 min, **+20 XP**. Identify on his own scroll returns name only until scribing levels.
+Scribe basic spells onto scrolls. Temporary in the Runic Mana Scribe trial, then permanent at L1. Chapter 21: write the spell's incantation in the correct language while pushing mana through quill and ink (no runic pathways). First Mana Arrow scroll ~10 min, **+20 XP**. Identify on his own scroll returns name only until scribing levels.
 
 ### Mana Reinforcement
 First seen: Chapter 9.5 (rewrite self-teach); Source Chapter 56 (skill book)
@@ -274,8 +274,8 @@ Elemental destruction knowledge. Advanced forms unlock stronger spells.
 
 ### Basic Rune Mastery / Rune Mastery / Runic Mastery
 First seen: Chapter 16
-Comprehend runes; lower MP to use them (Chapter 17 test: ~**1%** at L1 on the detonation rapier; he wonders about 10% and advanced forms). Foundational for many runic classes. Not a substitute for **Runecraft**. Chapter 23: levels by **using** runic scrolls or runed weapons in combat (scrap Fire Arrow grimoire). Chapter 27: Roland at **L4**; out-of-combat casts (self/animals) do not level it; aims **L9** before Blacksmith for a possible special class.
-Rewrite (see Ideas): skills max at L9 then evolve. Mastery bypasses filtration (−10% activation cost per level, capped −90%). Basic form applies to Lesser runes only. Evolved Mastery forms cover Common → Greater → Grand → Legendary. Source ~1% and L10-on-same-skill are discarded.
+Comprehend runes. **Activation cost (locked):** **−10% MP to activate** runes / runic scrolls **per skill level**, **capped at −90%** (L9). L1 = −10%. Basic form covers **Lesser** only. Not a craft discount (that is **Runic Mana Scribe** class −3%/level while scribing, and later **Runecraft** for setup). Not a substitute for **Runecraft**. Chapter 17 rapier test: L1 cut shows on tip blast. Chapter 23: levels by **using** runic scrolls or runed weapons in combat (scrap Fire Arrow grimoire). Chapter 27: Roland at **L4**; out-of-combat casts (self/animals) do not level it; aims **L9** before Blacksmith for a possible special class.
+Rewrite: skills max at L9 then evolve. Evolved Mastery forms cover Common → Greater → Grand → Legendary (same −10%/level, −90% cap on that rank). Source ~1%/level discarded.
 
 ### Basic Runecraft / Runecraft
 First seen: Chapter 35
@@ -283,7 +283,7 @@ Inscribe magical runes on items. Runic Blacksmith grant (temporary in trial, the
 
 ### Basic Rune Scribing
 First seen: Chapter 16
-Scribe runes to paper. Temporary in the Runic Mana Scribe trial, then permanent at L1. Runes have a max working size; the trial forces a compressed fire-orb schematic onto scroll parchment. Chapter 22: Common Fire Arrow grind to **L5**; understanding of runic scroll making noted at **L2** (separate progress line in prose). Chapter 27: can compact commons onto **envelope**-size paper (aim: playing-card); power holds but overload headroom drops; Fire Arrow throughput **5–6**/day.
+Scribe runes to scrolls. Temporary in the Runic Mana Scribe trial, then permanent at L1. Runes have a max working size; the trial forces a compressed fire-orb schematic onto scroll parchment. Chapter 22: Common Fire Arrow grind to **L5**; understanding of runic scroll making noted at **L2** (separate progress line in prose). Chapter 27: can compact commons onto **envelope**-size scrolls (aim: playing-card); power holds but overload headroom drops; Fire Arrow throughput **5–6**/day.
 
 ### Basic Rune Mending / Rune Mending
 First seen: Chapter 81
@@ -549,7 +549,7 @@ Retain more information and at a faster rate. Bonus to Intelligence +3 and Willp
 
 ### Blessed by Mana
 First seen: Chapter 5
-Unlocked if a person has more than **40** Intelligence after reaching the Mage class at the first ascension ritual. **Narrative only:** better **mana regeneration** (feels easier to top the pool back up). No flat MP per Mage level and no change to the MP formula. Mage class still gives **+20%** max mana and **+15%** mana regen; Blessed is the perk story for why his refill feels strong. Intelligence row of the attribute perk table below.
+Unlocked if a person has more than **40** Intelligence after reaching the Mage class at the first ascension ritual. **Narrative only:** better **mana regeneration** (feels easier to top the pool back up). No flat MP and no change to the MP formula. Mage class already gives **+2% max MP** and **+1% regen per Mage level**; Blessed is the perk story for why his refill feels strong. Intelligence row of the attribute perk table below.
 
 ## Attribute perks (rewrite)
 

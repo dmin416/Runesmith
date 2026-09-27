@@ -89,10 +89,10 @@ Chapter 6 book: an **elemental affinity skill** needs at least **~1%** affinity.
 ## Class resource bonuses (examples)
 
 ### Mage (Tier 1)
-First seen: Chapter 6 skill card
-- **+20%** max mana
-- **+15%** mana regeneration
-Applies on top of attribute MP. **Blessed by Mana** is narrative mana regen only (no flat MP). See `Skills.md`.
+First seen: Chapter 5–6 skill card
+- **+2% max mana** per Mage class level
+- **+1% mana regeneration** per Mage class level
+`MP = ((Int×10)+(Will×4)) × (1 + 0.02 × Mage level)`. Regen rating **+1% × Mage level**. Source fixed **+20% / +15%** discarded. **Blessed by Mana** is narrative regen feel only (no flat MP). Kept as secondary. See `Skills.md`.
 
 ## Attribute perks
 

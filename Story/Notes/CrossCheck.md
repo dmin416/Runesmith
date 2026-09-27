@@ -44,7 +44,7 @@ Also update the matching reference when a named thing is new, renamed or its des
 | Roland’s classes | `References/RolandClasses.md` |
 | Class / skill levels, XP, packages, skill attribute bonuses | `References/Levels.md` |
 | Coin peg, wages, prices, ledgers | `References/Economy.md` |
-| Food / meal flavor anchors | `References/Food.md` |
+| Food / meal flavor anchors | `References/Food/` (`Food.md`, `EssentialIngredients.md`, `EssentialFlavorings.md`) |
 | Places (inns, towns, shops) | `References/Places.md` |
 | Dungeon layouts / floor patterns | `References/DungeonDesign.md` |
 | Adventurer ranks | `References/AdventurerRanks.md` |
@@ -100,9 +100,9 @@ Displayed = Body + Class levels + Skills/Traits (+ Other if needed)
 5. No leftover old name in rewrite files (search the old term; ignore `Source/`).
 6. If kills, XP bars or pouch changed: `Experience.md` totals, chapter Notes beat and any Economy/Places quote still match.
 
-## Open checks (Ch 1–12 rewrite pass)
+## Open checks (Ch 1–16 rewrite pass)
 
-Synced for the live Ch 1–13 rewrite: estate doubles → Ch 9 L3→L4, Ch 9.5 kill/coin/stone ledger (**1,481** / end **6,000 LC** / **286** rice + **16** leader), Ch 10 nest (**+7** / **288** rice + **16** leader / pouch **6,035 LC**), rewrite L20 inn sheet, Ch 11 first dungeon day + trial weeks (bar **~2,774/10k** / pouch **~6,818 LC**), Ch 12 Iron Flagon (**−45** → **~6,773 LC**) + Needle Worm cook/tame (**+492 XP** → bar **~3,266/10k**; **Basic Taming** pet scarf), Ch 13 half-year Floor-3 (**1,102** kills / **52,334 XP** → **Mage L25** / pouch **11,641 LC**; rewrite sheet Str **49** / Agi **63** / Int **137** / MP **2292** / SP **866**; **Basic Dodging → Dodging L6**), Absorption/Reinforcement self-taught, Scribe spelling, Ch 9.5 destination = research only, Ch 10 picks **Edelgard**.
+Synced for the live Ch 1–16 rewrite: estate doubles → Ch 9 L3→L4, Ch 9.5 kill/coin/stone ledger (**1,481** / end **6,000 LC** / **286** rice + **16** leader), Ch 10 nest (**+7** / **288** rice + **16** leader / pouch **6,035 LC**), rewrite L20 inn sheet, Ch 11 first dungeon day + trial weeks (bar **~2,774/10k** / pouch **~6,818 LC**), Ch 12 Iron Flagon (**−45** → **~6,773 LC**) + Needle Worm cook/tame (**+492 XP** → bar **~3,266/10k**; **Basic Taming** pet scarf), Ch 13 half-year Floor-3 (**1,102** kills / **52,334 XP** → **Mage L25** / pouch **11,641 LC**; rewrite sheet Str **49** / Agi **63** / Int **137** / MP **2292** / SP **866**; **Basic Dodging → Dodging L6**), Ch 14 watcher (**+479** / Dodging **L7** / Ned **25→26**), Ch 15 cremation + Detonation [Highest] (**+1000 XP** / **Runic Scholar**; bank **1479**; Enchanter path affinity-gated), Ch 16 **Runic Mana Scribe** (five-region Fire Orb trial; mana-hand blunder; Ned silk; half-cut **739** into L26 bar), Ch 17 stays **L26** / Scribe **L1** (no kills; Source L28 dropped), Absorption/Reinforcement self-taught, Scribe spelling, Ch 9.5 destination = research only, Ch 10 picks **Edelgard**.
 
 **Post–Ch 13 status:** every chapter through **80** now has a rewrite line or full Live+Rewrite sheet in `Status.md`. Full-sheet rewrite checkpoints: Ch **17 / 23 / 27 / 34 / 47 / 62 / 68 / 77** (`StatusBreakdown.md` delta table). Method: Ch 13 rewrite baseline + Source growth deltas; Luck seed **7**; Mage secondary mana bonuses kept.
 
@@ -111,12 +111,14 @@ Still needs attention when touching these beats:
 | Item | Where | Check |
 |---|---|---|
 | Ch 10 Edelgard goal | `Notes.md`, `Status.md`, `RolandClasses.md`, chapter | OK for Ch 10+. Must stay out of Ch 9.5 close. |
-| Ch 13+ party / dungeon notes | Notes 13–80 | Written to Source plot. Re-audit when those chapters are rewritten. |
+| Ch 17+ party / dungeon notes | Notes 17–80 | Written to Source plot. Re-audit when those chapters are rewritten. |
 | Ch 11 day haul lock | `Experience.md`, `Economy.md`, `Items.md`, `Notes.md` | Prose says “more” boars; lock stays **4** / **2** stones / **+128 LC** unless chapter names a count. |
 | Ch 12 drink / worm ledger | `Experience.md`, `Items.md`, `Notes.md`, `Skills.md` | First round **45 LC**; pocket **12** worms **+492 XP**; pet worm kept; Hands ≥**L7**. |
 | Ch 13 half-year Floor-3 | `Experience.md`, `Items.md`, `Skills.md`, `Status.md`, `StatusBreakdown.md`, `Economy.md` | **1,102** kills; **52,334 XP** → L25; haul **+9,116**; pouch **11,641 LC**; Wereboar mats **156**. Rewrite sheet Str **49** / Agi **63** / Int **137** / MP **2292** / SP **866**; **Basic Dodging → Dodging L6**. Live Source block still on-page. |
 | Ch 14 watcher / Ned evo | `Notes.md`, `NedStatus.md`, `Ned.md`, `Levels.md`, `Encounters.md` | Fencer **L55** / girls **~45**; people XP **`50 × L`**; pool **2750** / Roland **479**; Ned **25→26** **Greater Needle Worm** **4x**. |
 | Ch 14 ambush | `Skills.md`, `Status.md`, `Notes.md` | **Dodging L6→L7** mid-chase; Agi **64** / SP **869**. |
+| Ch 15 cremation / schematic | `Notes.md`, `Items.md`, `Experience.md`, `Skills.md`, `Weapons.md` | Body burn **1000 MP**; tip **125 MP**; hold-lock insert; Detonation [Highest] **+1000**; bank **1479**; Enchanter affinity dead-end. |
+| Ch 16 Fire Orb trial | `Notes.md`, `Skills.md`, `Items.md`, `TempRunes.md`, `Runes.md`, `RuneSystem.md` | Five-region linear chain; temp skills after book; mana-hand cascade ~**1/4 MP**; success fist orb; Ned silk; no binary / max-size hard rule on-page. |
 | Mana Bolt joule / Int curve | `References/Science.md`, chapter fight beats | Keep formula and on-page damage language aligned when editing fights. |
 | Meal / lodging quotes | `Economy.md`, `Places.md`, Ch 9 Notes | Meal **5 LC**; lodging **1 SS**/night + **5 LC** breakfast; monthly ~**10%** on **28** nights → **252 LC**. Year = **13×28**. |
 | Goblin Hunter title | `Skills.md` / `Status.md` Ch 9.5–10 | Past **1000** kills into the skip; card text matches chapter. |

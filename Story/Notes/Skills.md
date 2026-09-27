@@ -501,29 +501,29 @@ Uses Mana Shield (screamed overcharge bubble on Reyna vs Gale Step + tip blast; 
 
 ## Chapter 15
 
-No new combat skills. Debugger (and possibly Technology) on runic pathways: red/green/blue traces, zoom, mana drain while viewing. Calligraphy redraw of improved circuit. Created Lesser Detonation Rune [Highest] schematic (+1000 XP). Title: Runic Scholar. Still Mage L25. Class stone deferred.
+No new combat skills. **Debugger** + **Technology** on the watcher's detonation rapier: surface symbols hide a deeper pathway structure (flow-puzzle / electrical diagram). Magnify overlay drains mana while viewing. Red = fault, green = correct, blue = optimal (not on current paths); cast mana runs green+red only. Hold-test arms the tip lock (insert to fire; free force weaker; hold trickles mana / warms blade). Technology fills rune knowledge gaps on encounter. Calligraphy redraw of the improved circuit (~**1 hour**). Created **Lesser Detonation Rune [Highest]** schematic (+**1000 XP**). Title: **Runic Scholar**. Still Mage L25. Class stone deferred. Enchantment / Enchanter path noted as affinity-gated dead end; runes are the workable craft pull.
 
 ### Traits
 
-Title: Runic Scholar (gained with Lesser Detonation Rune [Highest] schematic; unlocks Runic Mana Scribe).
+Title: **Runic Scholar** (gained with Lesser Detonation Rune [Highest] schematic; unlocks Runic Mana Scribe). On-page reaction: "*...nice.*"
 
 ## Chapter 16
 
-Class: Runic Mana Scribe (title-gated; timed fire-orb trial).
+Class: **Runic Mana Scribe** (Runic Scholar unlock; timed Fire Orb trial).
 Gained (permanent after pass):
-- Basic Mana Scribing L1 (scribe basic spells to paper)
-- Basic Rune Scribing L1 (scribe runes to paper)
-- Basic Rune Mastery L1 (rune comprehension; small MP cut to use runes)
+- Basic Mana Scribing L1 (scribe basic spells to scrolls)
+- Basic Rune Scribing L1 (scribe runes to scrolls)
+- Basic Rune Mastery L1 (rune comprehension; **−10%** activation cost per level on Lesser; **−90%** at L9)
 
-Reading proficiency from Arden library aids the trial book. Temporary versions mid-trial. Debugger blank during inscribing; scores the finished diagram. Technology helps parse rune components as circuit/logic parts. First attempt fails (red); second succeeds on last sand.
+Reading Proficiency from Arden library aids the trial book. Temporary versions after the book / before assemble. Debugger blank mid-inscribe; scores the finished diagram only. Fire Orb = **five**-region linear chain (collector → fire core → shape → constrain → velocity); no binary / logic-gate parse on-page. First attempt fails (red). Mana-hand overlay blunder (~**1/4 MP** cascade). Second succeeds on last sand (~**1/4 MP** again). **Ned** silk-holds him upright on return.
 
 ### Traits
 
-No new traits. Runic Scholar title still active (unlocks Runic Mana Scribe).
+No new traits. Runic Scholar title still active (unlocked this class).
 
 ## Chapter 17
 
-No new named skills. Basic Rune Mastery tested (~1% rune activation cost on detonation rapier). Secondary Mage keeps mana bonuses. Still needs **Runecraft** after Blacksmith for Runesmith (skill books); else Enchantsmith path. Asks for Sahildr's hammer to farm more schematics.
+No new named skills. Basic Rune Mastery tested (**−10%** activation on detonation rapier tip). Secondary Mage keeps mana bonuses. Still needs **Runecraft** after Blacksmith for Runesmith (skill books); else Enchantsmith path. Asks for Sahildr's hammer to farm more schematics.
 
 ## Chapter 18
 

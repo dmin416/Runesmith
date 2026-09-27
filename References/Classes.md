@@ -50,7 +50,7 @@ More Tier 1 classes exist. World talk groups them as **combat**, **production** 
 - **Mana Warrior** – First seen: Chapter 45 (explained). Tier 1 hybrid; Scorching / Mana Slash / Mana Thrust kit. Also status ~Chapter 200+. War Magus / Magic Swordsman lines.
 
 ### Magic and faith
-- **Mage** – First seen: Chapter 4–5 (named in Chapter 4 common list; attained Chapter 5). Roland’s first class; common caster T1.
+- **Mage** – First seen: Chapter 4–5 (named in Chapter 4 common list; attained Chapter 5). Roland’s first class; common caster T1. **Class card (locked):** **+2% max mana** and **+1% mana regeneration** per Mage class level (replaces Source fixed +20% / +15%). Package: Int +1 / Will +1 per level. Grants Basic Mana Shaping, Regulation, Incantation, Mana Bolt.
 - **Acolyte** – First seen: Chapter 4–5 (book); Chapter 19 Solaria priests. Church path toward Cleric / Paladin. Churches produce class-change stones.
 - **Cleric** – First seen: ~Chapter 191. Church line with Acolyte.
 - **Dark Acolyte / Fallen Acolyte / Blade Acolyte** – First seen: ~Chapter 211 / 391.
@@ -64,7 +64,7 @@ More Tier 1 classes exist. World talk groups them as **combat**, **production** 
 ### Craft and support
 - **Blacksmith** – First seen: Chapter 4–5. Common craft; Bamur/Dunan/Bernir paths.
 - **Mana Scribe** – First seen: Chapter 6. Scroll craft. Requires **Calligraphy** plus **Mage**. Makes one-use magic scrolls. Weak class package / leveling; treated as a side job that sells to adventurers. Gate for Runesmith and Enchantsmith. Common second T1 for mages before an elemental mage at T2. Trial (book): inscribe a basic spell to paper with temporary scribing skill; fail and the skill knowledge is forgotten. Chapter 21 Edelgard: academy kids get soft shop contracts; solo Scribes get harsh multi-year cursed deals.
-- **Runic Mana Scribe** – First seen: Chapter 16. Roland prestige Scribe (Runic Scholar title unlock; not in the Arden books). Class card: increases mana regen and lowers mana consumption while scribing spells and runes. Trial: timed lesser fire orb **rune** scroll (harder than plain Scribe word-scroll). Grants Basic Mana Scribing, Basic Rune Scribing and Basic Rune Mastery. Chapter 25: treated as a rare unique class; Exeor manager invests after Identifying L10. Chapter 27: **L20** main (overall L45; Mage L25 secondary); ~half year estimated to Blacksmith threshold.
+- **Runic Mana Scribe** – First seen: Chapter 16. Roland prestige Scribe (Runic Scholar title unlock; not in the Arden books). **Class card (locked):** increases mana regeneration; **−3% mana cost to scribe** spells and runes **per class level** (L1 = −3%, L25 = −75%). Separate from **Basic Rune Mastery** (activation, not craft). Trial: timed lesser fire orb **rune** scroll (harder than plain Scribe word-scroll). Grants Basic Mana Scribing, Basic Rune Scribing and Basic Rune Mastery. Chapter 25: treated as a rare unique class; Exeor manager invests after Identifying L10. Chapter 27: **L20** main (overall L45; Mage L25 secondary); ~half year estimated to Blacksmith threshold.
 - **Runic Blacksmith** – First seen: Chapter 34–35. Roland prestige smith.
 - **Runic Archer / Runic Warrior** – First seen: Chapter 34. Offered to Roland; not taken.
 - **Herbalist / Brewer** – First seen: ~Chapter 361. Alchemy path.

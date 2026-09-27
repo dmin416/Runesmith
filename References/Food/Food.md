@@ -4,7 +4,7 @@
 
 **Adventure cooking:** cuts, camp methods and pairings live in `EssentialIngredients.md`. Flavorings and the core ten live in `EssentialFlavorings.md`. Skewer techniques (chuan'r / yakitori) sit under Dungeon meat and spice notes below.
 
-**Caldris calendar:** **13 months × 28 days** (`Economy.md`). Earth month labels below (e.g. November / Martinmas) are anchors only.
+**Caldris calendar:** **13 months × 28 days** (`../Economy.md`). Earth month labels below (e.g. November / Martinmas) are anchors only.
 
 **Caldris seasoning lock:** common tables = **salt** (+ local herbs/onion). **Pepper** is middle-class / merchant luxury (thin use can still show up and raise a restaurant bill). **Sugar** is rare spice / medicine / feast (nobility); honey does ordinary sweetening. Do not write commoner kitchens as “mostly sugar, pepper and salt.”
 
@@ -116,7 +116,7 @@ Earth technique for trail / camp meals (Roland forest lunches, goblin-camp prey,
 
 ## Steam-era spirits and liqueurs
 
-Caldris has magic steam trains and noble airships so copper stills and boiler craft are common. Tavern prices live in `Economy.md`. Process anchors below are Earth/steam technique, not brand names for Caldris shelves.
+Caldris has magic steam trains and noble airships so copper stills and boiler craft are common. Tavern prices live in `../Economy.md`. Process anchors below are Earth/steam technique, not brand names for Caldris shelves.
 
 **Everything comes down to fermenting a sugar source and distilling it in a copper still.** Steam-era gear makes it faster and cleaner.
 
@@ -172,7 +172,7 @@ Everything needed was common by the 1850s: cane sugar, cream, brandy, whiskey, r
 - **Look:** oversized fuzzy caterpillar; fine hairs as thick as thin knitting needles.
 - **Smell:** distinctive; party banter compares it to armpits.
 - **Blood:** **paralytic**, but on-page Roland uses it as a **cumin-like seasoning** on Spiked Boar skewers (numb/spicy / toasted-seed aroma). Broken needles also release poison (Reyna warns while he plucks). Not safe food for normals; he ignores the **Poison Resistance** popup and keeps cooking/eating.
-- Spikes sell poorly (`Economy.md`). Flesh is not a loot focus. Core-bearing worm can be tamed (`Mounts.md`).
+- Spikes sell poorly (`../Economy.md`). Flesh is not a loot focus. Core-bearing worm can be tamed (`../Mounts.md`).
 
 ### Parsleaves (Ch 13)
 

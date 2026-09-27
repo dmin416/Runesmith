@@ -1,9 +1,19 @@
 ---
-description: Directed line edits; prompt ellipses locate and finish; fix spelling
+description: Directed line edits; cursor click insert point; prompt ellipses locate and finish; fix spelling
 alwaysApply: true
 ---
 
 # Directed Line Edits
+
+## Cursor click is the insert / edit point
+
+When the user gives wording to put into a file and the editor context shows a focused file with a cursor line:
+
+1. Treat that **clicked line** as the intended place unless they clearly point somewhere else.
+2. If the cursor sits on a **line with words**, use that line (and nearby lines) to find the right entry. Edit at that stretch. Do not hunt a different match first.
+3. If the cursor sits on a **blank line**, insert the new text there.
+4. If they also give a `...` locate line, prefer the **clicked line** when both point at the same area. If they conflict, ask only when the two targets are clearly different passages.
+5. Open-file context reports focused path and cursor line. That is the click. It does not show selection ranges.
 
 ## Use the user's exact words
 
@@ -40,6 +50,7 @@ he had to know what to look out for
 `...` in the user's prompt is a locate marker. It is not story text.
 
 - Use the words around the `...` to find the matching stretch in the chapter
+- If the user has **clicked a line with words**, check that line first. Match the `...` locate text against the clicked stretch before searching the whole file
 - Apply the edit there
 - Do not paste the prompt's `...` into the story as a truncated ending
 - Finish the sentence with complete wording
@@ -64,3 +75,7 @@ he grabbed the umbrella to try to fix and headed...
 ```
 
 The first line is the new wording. The second line with `...` only marks where to edit. Find that stretch and apply the change. Do not paste `headed...` into the story.
+
+Example with a click:
+
+Cursor on the chapter line that ends `headed into the storm.` User sends new wording. Edit that clicked line (or insert at that blank if the click is empty). Do not apply the text at the first similar phrase elsewhere in the file.

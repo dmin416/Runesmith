@@ -71,6 +71,7 @@ If the rondel sticks (armor, bone, wood), bash the pommel or rear disc with the 
 Heavy thrust rapier with an **inefficient lesser tip-detonation** rune.
 
 - **Activation cost (as found):** **125 MP**
+- **Hold-test (Ch 15):** tip effect **locks armed** until inserted (forced free activate weaker); hold trickles mana and warms the blade; pulling mana back deactivates
 - **Shortfall:** if MP is insufficient the rune finishes from **SP** at **1 SP per missing MP** (same blast; stamina bite)
 - **Useful energy** (cast law, η = 1 until Rune Mastery): `125 × 10 × μ(INT)`. At Roland Ch 13 rewrite INT **137** (μ ≈ **5.87**) → **~7.3 kJ** tip-coupled blast (local wood / soft spoil, not a tree-feller)
 - **Rune Mastery** later cuts the MP share (~**1%** at Basic L1); SP overflow still covers any remainder the same way

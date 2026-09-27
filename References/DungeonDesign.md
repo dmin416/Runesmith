@@ -50,5 +50,5 @@ Active dungeon near Carwen. Bronze cannot enter alone. Chapter 11 first party de
 
 ### Lore hooks
 
-- Living-dungeon talk (dungeon core): absorbs dead monsters and humans as nourishment and spawns more foes (Chapter 15)
+- Living-dungeon talk (dungeon core): absorbs dead monsters and humans as nourishment and spawns more foes (Chapter 15 lore known; Becky offers dungeon dump; Roland cremates on-site instead)
 - West woods outside Carwen have few scavenger monsters for dumping bodies

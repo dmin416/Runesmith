@@ -37,9 +37,9 @@ All-women party after their fourth left with a man. Distrust men at night camps.
 | 12 | Trial period ends. Iron Flagon binge → Alcohol / Dance / Pain / Sleep pads. Floor 2 Needle Worm cook (cumin blood skewers; Multitasking) + pocket clear / tame (green-scarf pet); Reyna MVP; Sahildr lesser-impact hammer; skip Wereboars (bag full). |
 | 13 | Half year; Mage L25; floor 3 (worms/moths/Wereboars); Ned named; parsleaves + needle/blood stockpile; Calligraphy L9; digs class crystal; watcher ambush starts. |
 | 14 | Watcher ambush (surveillance-only Arden hire; nearly a year; backer tip). Chase: Ned left-arm needles; tip-blast tree; **Dodging L7**; damage **8/31/46**; self-potion heal. Party vs fencer **L55** (girls **~45**); Gale Step + tip blast vs overcharged bubble; Mana Arrow thigh; Ned + hammer kill; **+479 XP**; Ned → **Greater Needle Worm** **26/4x**; confession starts. |
-| 15 | Partial confession; dump body to Wereboars; Roland keeps rapier; [Highest] Detonation schematic + Runic Scholar. |
+| 15 | Partial confession; on-site Mana Shield cremation (**1000 MP**); Roland keeps rapier (+ boots to Sahildr); [Highest] Detonation schematic + Runic Scholar (**+1000 XP**; bank **1479**). |
 | 16 | Class change: Runic Mana Scribe (fire-orb trial). |
-| 17 | L28 sheet; loot split; quits party for craft path; asks for Sahildr's hammer. |
+| 17 | L26 sheet (Scribe L1; half-cut bank only); loot split; quits party for craft path; asks for Sahildr's hammer. |
 | 18 | Impact [Highest] schematic; Bronze→Steel; parting bag; farewell (girls cry after). Girls take Steel/Silver caravan escort elsewhere. |
 | 19 | Roland arrives Edelgard; meets Helci at Singing Crow; Fire Orb [Highest] from memory. |
 | 11–12 | Dungeon runs and tavern bonding. |

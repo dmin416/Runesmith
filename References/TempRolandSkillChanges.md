@@ -116,10 +116,10 @@ World law: **Basic X** maxes at L9 → evolves to non-Basic form. Chapter 7 alre
 ## Scribe / Blacksmith / Lord rune package
 
 ### Basic Mana Scribing
-**Change:** Scroll write time, success rate, max spell rank on paper. L9: lesser scrolls reliable for sale. Evolve → higher scroll ranks.
+**Change:** Scroll write time, success rate, max spell rank on scrolls. L9: lesser scrolls reliable for sale. Evolve → higher scroll ranks.
 
 ### Basic Rune Scribing
-**Change:** Same for runes-on-paper. Gate which rune rank he can put on scroll stock.
+**Change:** Same for runes on scrolls. Gate which rune rank he can put on scroll stock.
 
 ### Basic Rune Mastery → … (5 forms)
 **Change:** Locked in Ideas. Filtration bypass, **−10% activation per level, −90% cap**, Basic = **Lesser only**. Evolve per rune rank: Common / Greater / Grand / Legendary Mastery forms.

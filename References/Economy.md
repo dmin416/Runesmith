@@ -269,7 +269,7 @@ Ch 13 half-year drop pace: stones **~50%** of Wereboar / Spiked Boar kills; Need
 
 Live animals are under §14. Cloth and candles are under §12 / §22.
 
-**Spirits tech note:** Caldris has magic steam trains and noble airships, so copper boilers, condensers and stills exist. Adventurer towns sell **poorly distilled** firewater (harsh, bad heads/tails cuts, sometimes watered). It is common, not rare alchemy. Nobles drink cleaner or aged stock. Iron Flagon / Ch 12: **weak spirits (~40 proof, ≥20% ABV)**, half-gallon pitchers **~15 LC** each, three-pitcher round **~45 LC**. Roland pays the full first round (**45 LC** = **9** goblin ears) to celebrate. Full ~80 proof rotgut is **50-70 LC**/gallon (dram **3-5 LC**). Distill / liqueur process: `Food.md` (Steam-era spirits and liqueurs).
+**Spirits tech note:** Caldris has magic steam trains and noble airships, so copper boilers, condensers and stills exist. Adventurer towns sell **poorly distilled** firewater (harsh, bad heads/tails cuts, sometimes watered). It is common, not rare alchemy. Nobles drink cleaner or aged stock. Iron Flagon / Ch 12: **weak spirits (~40 proof, ≥20% ABV)**, half-gallon pitchers **~15 LC** each, three-pitcher round **~45 LC**. Roland pays the full first round (**45 LC** = **9** goblin ears) to celebrate. Full ~80 proof rotgut is **50-70 LC**/gallon (dram **3-5 LC**). Distill / liqueur process: `Food/Food.md` (Steam-era spirits and liqueurs).
 
 ---
 
@@ -467,7 +467,7 @@ Rule of thumb: **double the volume → about 4× the price**. Trade down used ba
 
 - Becky's party bag (Ch 11): slightly under **2 m³**; bought second-hand from a retiring adventurer for **5 SG** (a steal vs typical **7–10 SG**). Steel party **skimped on drinks** about a **year** to scrape that buy (~**110** skipped ~**45 LC** three-pitcher weak-spirit rounds; Source said “year of work”). That sits fine against Floor-1 gross (**~17–33 SG**/person/year): soft living, repairs, and kit eat most of a cautious year, so a **5 SG** bag still feels like a long scrape. Bigger bags ~**10×** (≈ **6 m³** on the scale above). House Arden higher-status servants carried similar bags.
 - Needle Worm spikes sell poorly (Ch 12). Needle Worm core: **½ rice-grain** (**1 SS**). Needle Moth core: **rice-grain** (**2 SS**).
-- Ch 15: living beings cannot enter; **dead** bodies can (watcher stuffed in; dumped to floor-3 Wereboars). Watcher's bag goes to the girls with the armor sale.
+- Ch 15: living beings cannot enter; **dead** bodies can (Becky offers bag + dungeon dump; Roland refuses and burns the watcher on-site instead). Watcher's bag goes to the girls with the armor sale.
 - Ch 18 parting gift: party's smaller spatial bag with starter coin (they keep the watcher's bag, about twice as large ≈ **4 m³**). Ch 19: bag holds **10 SG** (more than the 5 he wanted of their ~20).
 - Ch 36: Roland exchanges for a larger model that holds **three times** as much (≈ **6 m³** if prior was ~2 m³).
 
