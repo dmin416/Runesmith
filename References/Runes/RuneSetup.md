@@ -175,7 +175,8 @@ Upgrade payback on the steel sword attack: Intermediate to Highest saves 75 mana
 - Skill drives price. An L9 crafter sets the same rune for one ninth of an L1 crafter's mana (100 against 900 at Lesser) so masters undercut novices by nine times before wages. Scroll price can track setup mana (canon: runic Fire Arrow costs 6 to 7 times a regular scroll).
 - Setup is small next to a run. An airship setup costs 9 adult pools at L0 (0.9 pool at L9) against a 95 GJ run. Stone banks and ambient intake carry activation (rune file, Power source) and setup stays a crafter's job. Team pour (O4) only buys speed.
 - Setup adds no heat and no strain. Wear stays as in the baseline.
-- Mastery discounts activation only (canon). The crafting skill discounts setup only. The two stack independently.
+- Mastery discounts activation only (canon). The crafting skill (Runecraft for items, Rune Scribing for scrolls) discounts setup only. The two stack independently since they touch different mana pools (paid once at write time vs. paid every cast).
+- Scrolls only: the Runic Mana Scribe class card adds a third, class-level discount on top of Rune Scribing's setup discount — both apply to the same setup cost (S from skill level, class term from class level), both capped at −90% independently (`Progression/Classes.md`). Items never get this third term; Runecraft's skill-level S factor is the only setup discount there. No channel here ever touches activation cost, which stays Mastery's alone.
 
 ## Open Dials
 
