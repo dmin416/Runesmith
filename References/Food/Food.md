@@ -6,14 +6,14 @@
 
 **Caldris calendar:** **13 months × 28 days** (`../World/Economy.md`). Earth month labels below (e.g. November / Martinmas) are anchors only.
 
-**Caldris seasoning lock:** common tables = **salt** (+ local herbs/onion). **Pepper** is middle-class / merchant luxury (thin use can still show up and raise a restaurant bill). **Sugar** is rare spice / medicine / feast (nobility); honey does ordinary sweetening. Do not write commoner kitchens as “mostly sugar, pepper and salt.”
+**Caldris seasoning lock:** common tables = **salt** (+ local herbs/onion). **Pepper** is middle-class / merchant luxury (thin use can still show up and raise a restaurant bill). **Ginger** sits with the other imported spice luxuries on noble / merchant tables, not peasant inns. **Sugar** is rare spice / medicine / feast (nobility); honey does ordinary sweetening. Do not write commoner kitchens as “mostly sugar, pepper and salt.” Adventurer kit and mage packs can carry pepper or ginger without breaking this lock.
 
 ## Peasant / common food
 
 - Daily staple was **pottage**: a thick stew of grains, peas, beans and whatever vegetables were on hand (onions, leeks, cabbage, turnips, parsnips), simmered for hours over the hearth.
 - Bread was dark and dense, usually rye, barley or **maslin** (mixed grain). White wheat bread cost more to mill and bake.
 - Meat was occasional rather than daily. Salt pork and bacon were the most common forms. Fresh meat showed up at holidays or when an animal was slaughtered.
-- Fish (usually salted or dried herring or cod) filled in on the many fast days the church calendar demanded, roughly a third of the year, when meat was forbidden. *(Earth church-fast rhythm; map to Solaria / local faith fasting if a scene needs it.)*
+- Fish (usually salted or dried herring or cod) filled in on the many fast days the church calendar demanded, roughly a third of the year, when meat was forbidden. *(Earth church-fast rhythm; map to **Solaria** fasting if a scene needs it.)*
 - Cheese, butter and eggs supplied most of the protein between slaughters.
 - Ale (weak, low-alcohol **small beer**) was the everyday drink for the whole household including children, since it was safer than most water sources.
 
@@ -32,12 +32,11 @@
 - **Trenchers** (thick stale bread slabs used as plates) soaked up drippings and sauce, then went to servants or the poor after the meal.
 - Banquets ran to many courses with sweet and savory dishes mixed through the sequence rather than dessert coming last, sometimes finished with elaborate sugar or marzipan **subtleties** sculpted into castles, animals or heraldic scenes.
 
-## Renaissance shift
+## Crop availability (Caldris)
 
-- *(Earth anchor.)* The medieval and Renaissance periods split roughly around the **Columbian Exchange**. Before it, European kitchens had no potatoes, tomatoes, maize, peppers, turkey or chocolate.
-- These New World foods arrived slowly after **1500** and took generations to become kitchen staples rather than curiosities. A Renaissance-era table could plausibly include a few of them in wealthy or coastal households while most of the countryside still cooked medieval-style.
-- **Caldris map:** only use those crops if the setting has already imported them (or a local analogue). Do not invent an Earth discovery date on-page.
-- Sugar prices began falling as Atlantic plantations expanded, gradually shifting it from luxury medicine toward the sweetener role it holds today. *(Keep sugar rare for common Caldris tables unless a later arc unlocks cheaper supply.)*
+- Earth history split Old World / New World crops around the **Columbian Exchange**. That is research flavor only.
+- **Caldris:** potato, tomato, maize/corn, chili and bell peppers, sweet potato, winter squash (incl. pumpkin), turkey, chocolate and green beans are available where the story needs them. No import gate and no Earth discovery date on-page.
+- Sugar prices still track the rarity lock above unless a later arc unlocks cheaper supply.
 
 ## Rhythm of eating
 
@@ -47,7 +46,7 @@
 
 ## Cooking without a pot
 
-Earth technique for trail / camp meals (Roland forest lunches, goblin-camp prey, Ember drills). In Caldris prose: prefer leaves, clay, green sticks and ash over foil; potatoes and other New World crops only if already imported (`Renaissance shift` above).
+Earth technique for trail / camp meals (Roland forest lunches, goblin-camp prey, Ember drills). In Caldris prose: prefer leaves, clay, green sticks and ash over foil. Potatoes and other crops from the list above are fine wherever the scene needs them.
 
 ### Fire setup
 
@@ -58,7 +57,7 @@ Earth technique for trail / camp meals (Roland forest lunches, goblin-camp prey,
 
 ### Roast potatoes
 
-- **Ash-baked:** Rake a pocket into the coals, bury whole potatoes and cover with coals and ash. Bake 30 to 60 minutes depending on size and turn once by digging them up. They are done when a stick slides in with no resistance. Brush off the ash and split them open. Sweet potatoes, beets, onions, garlic bulbs and squash halves work the same way.
+- **Ash-baked:** Rake a pocket into the coals, bury whole potatoes and cover with coals and ash. Bake 30 to 60 minutes depending on size and turn once by digging them up. They are done when a stick slides in with no resistance. Brush off the ash and split them open. Sweet potatoes, onions and garlic bulbs ash-bake the same way. Beets need longer (**45 to 90 minutes**; see `EssentialIngredients.md`). Winter squash is halved, cut side down, **30 to 45 minutes**, not buried whole.
 - **Clay-wrapped:** Coat each potato in a finger-thick layer of wet clay or mud before burying. The clay bakes into a shell that steams the inside and peels away cleanly.
 - **Sliced:** Thread thick slices onto a stick and roast beside the coals, or sear them on a hot flat rock with a smear of fat.
 - **Finish** by splitting them and mashing fat and salt into the hot flesh.
@@ -76,7 +75,7 @@ Earth technique for trail / camp meals (Roland forest lunches, goblin-camp prey,
 - **Tripod hang:** Suspend a bird or joint from a tripod on cord or wire over the coals. Twist it periodically so it turns.
 - **Clay or ash crust:** Encase birds, fish or small game in clay (feathers and scales can stay on) and bury in coals for 45 to 90 minutes. Crack the shell open and the skin comes away with it.
 - **Coal-buried:** Wrap meat in wet leaves or foil and bury it in the coal bed with more coals on top.
-- **Doneness:** 165°F (74°C) for poultry and 160°F (71°C) for pork and boar. Fish is done at 145°F (63°C).
+- **Doneness:** 165°F (74°C) for poultry. Pork: **145°F (63°C)** for whole cuts after a short rest; **160°F (71°C)** for ground pork. Wild **boar** stays **160°F (71°C)** (higher trichinosis risk than farmed pork). Fish is done at 145°F (63°C).
 
 ### Grilled meat
 
@@ -176,7 +175,7 @@ Everything needed was common by the 1850s: cane sugar, cream, brandy, whiskey, r
 
 ### Parsleaves (Ch 13)
 
-Dungeon leaves Ned prefers to hide on and eat. Mild poison source (**weaker than Needle Worm spikes**). Vibrant refreshing aroma like **parsley**. Roland tastes one, then **dries and stockpiles** them alongside occasional Ned **needles** and **blood**. Seasoning / mild toxin stock; not a shop crop name unless a later beat sells them.
+Dungeon leaves **Ned** (the tamed Needle Worm from Ch 12) prefers to hide on and eat. Mild poison source (**weaker than Needle Worm spikes**). Vibrant refreshing aroma like **parsley**. Roland tastes one, then **dries and stockpiles** them alongside occasional **Ned's needles** and **blood**. Seasoning / mild toxin stock; not a shop crop name unless a later beat sells them.
 
 ### Why cumin works with gamey meat
 
@@ -200,7 +199,7 @@ Cumin still works, but its role changes from balancing strong flavor to adding w
 - **Use a lighter hand:** Heavy cumin overwhelms the delicate flavor. A moderate rub or a small amount in a braise is enough.
 - **Add fat:** Young boar is very lean. Cumin's aromatics carry best in fat, so larding, bacon or a lard-based braise improves both moisture and spice flavor.
 - **Best applications:** Slow-braised shoulder in a barbacoa or carnitas style with orange, lime, garlic, chili and oregano. Cumin-rubbed roast loin also works when it is not overcooked.
-- **Better partners for the wild note:** Juniper, sage, fennel seed, rosemary, black pepper and paprika highlight what young boar actually tastes like, so they often suit it better than cumin.
+- **Better partners for the wild note:** Sage, fennel seed, rosemary, black pepper and paprika highlight what young boar actually tastes like, so they often suit it better than cumin.
 - **If the fat smells off:** Cumin will not fix boar taint. Trimming the fat, brining or soaking in salted water with acid, and cooking with a sharp element like vinegar or wine do the real work.
 
 #### Ranking for skewers (young wild boar / chuan'r style)

@@ -34,10 +34,10 @@ No locked “flight is expensive” or “flight is cheap” fiat. Cost is whate
 | `Kinetic.md` | KE, force, lifts, throws (potential apps) |
 | `Compression.md` | Gas / solid compression, Fire Piston, Frost Breath, HPP, air cartridge, forging |
 | `Vacuum.md` | Pump-down, vacuum on people, freeze-dry, cold boil, Void-Weld |
-| `Sound.md` | Sound power, oscillation apps, echolocation (L9) |
+| `Sound.md` | Sound power, oscillation apps, resonant shatter, echolocation (L9) |
 | `Flight.md` | Hover / flight power math |
 | `CraftMetal.md` | Barrier molds, wire, springs, atomization, period steel vs modern knowledge |
-| `CleverApps.md` | Resonant shatter, vacuum-pocket lift, micro-compression, insulation |
+| `CleverApps.md` | Vacuum-pocket lift, micro-compression, insulation, compression-forged edges |
 | `ImpactRune.md` | Sahildr Impact hammer: compressed-mana stroke vs hold power |
 
 **Future spell idea rungs** (same cast law): `../PotentialMagic/PotentialMagic.md`.

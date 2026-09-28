@@ -38,7 +38,7 @@ Low-level Emerald Wilderness floor-1 trash. Large muscular boar with thick tusks
 
 ### Needle Worm
 First seen: Chapter 12
-Leaf-green spiky caterpillar ambusher on Carwen Dungeon floor 2. Camouflages in trees; flings itself headfirst. Looks like a normal fuzzy caterpillar scaled up; fine hairs as thick as thin knitting needles. Green blood is **paralytic** and tastes like **cumin** / numb spice (Roland seasons Spiked Boar skewers with it in Ch 12; Reyna first asks what he is doing, then warns that broken needles release poison). Distinctive scent (armpit comparison in party banter). Spikes sell poorly. One-trick ambush threat, especially while the party is busy with boars. Mana stone: **tiny** (larger than a grain of sand; locked **½ rice-grain** volume). Kill XP **24 + level** (own base; above dungeon rat **9 + level**; not RaceMult). Roland tames a **core-bearing** specimen in Ch 12 (**Basic Taming** L1); wears it as a green scarf. Named **Ned**; companion design/stats in `../People/Ned.md`. Floor-3 adult form for the wild line: **Needle Moth**. Ned’s tamed path: **Needle Worm → Greater Needle Worm → King Worm → Wyrm → Ormr** (needles, silk, poison, physical resilience; full ramps in `../People/Ned.md`; levels add up to overall **525**).
+Leaf-green spiky caterpillar ambusher on Carwen Dungeon floor 2. Camouflages in trees; flings itself headfirst. Looks like a normal fuzzy caterpillar scaled up; fine hairs as thick as thin knitting needles. Green blood is **paralytic** and tastes like **cumin** / numb spice (Roland seasons Spiked Boar skewers with it in Ch 12; Reyna first asks what he is doing, then warns that broken needles release poison). Distinctive scent (armpit comparison in party banter). Spikes sell poorly. One-trick ambush threat, especially while the party is busy with boars. Mana stone: **tiny** (larger than a grain of sand; locked **½ rice-grain** volume). Kill XP **24 + level** (own base; above dungeon rat **9 + level**; not RaceMult). Roland tames a **core-bearing** specimen in Ch 12 (**Basic Taming** L1); wears it as a green scarf. Named **Ned** (Ch13); companion design/stats in `../People/Ned.md`. Floor-3 adult form for the wild line: **Needle Moth**. Ned’s tamed path: **Needle Worm → Greater Needle Worm → King Worm → Wyrm → Ormr** (needles, silk, poison, physical resilience; full ramps in `../People/Ned.md`; levels add up to overall **525**).
 
 ### Needle Moth
 First seen: Chapter 13 (floor-3 multi-type fights; design lock)
@@ -138,7 +138,7 @@ Chest mimic; feared and checked in higher-rank dungeon areas.
 
 ### Ruby Wolf
 First seen: Chapter 88
-Fire-affinity wolf species. Wild type; Agni is a tamed companion from this line.
+Fire-affinity wolf species. Wild type. (Source once tied Agni to this line; superseded: Agni is mustelid, see `Mounts.md`.)
 
 ### Red Rat
 First seen: Chapter 92

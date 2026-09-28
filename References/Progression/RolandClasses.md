@@ -8,14 +8,14 @@ Roland’s class path. Planned vs attained. Follow `CrossCheck.md` when status s
 
 | # | Class | Tier | First attained / on status | Level notes |
 |---|---|---|---|---|
-| 1 | Mage | T1 | Chapter 5 | L3 early arc; L5 by Chapter 8 (guild); later maxed L25 |
+| 1 | Mage | T1 | Chapter 5 | L3 early arc; still **L3** at Chapter 8 guild (Source orb L5 discarded); later maxed L25 |
 | 2 | Runic Mana Scribe | T1 | Chapter 16 | Prestige Mana Scribe. Unlocked via Runic Scholar. Timed lesser fire-orb trial. L20 by Ch 27 (overall L45); later L25 |
 | 3 | Runic Blacksmith | T1 | Chapter 34–35 | Prestige Blacksmith. e.g. L19 Ch 47; L20 Ch 62; L21 Ch 68; L25 by Ch 77 |
 | 4 | Runesmith Lord | T2 | Chapter 78–81 | Prestige over plain Runesmith. Max L50 before next class |
-| 5 | Runic Engineer | T2 | Chapter 191–197 | Second T2. Later L50. Rune Mage was expected but unavailable |
+| 5 | Runic Engineer | T2 | Chapter 191–196 | Second T2. Later L50. Rune Mage was expected but unavailable |
 | 6 | Runic Battlemaster Overlord | T3 | Chapter 318 | Primary late class. Source text still says Runesmith Overlord until rewritten. Levels climb through late Source (e.g. L15, L21… L77+) |
 
-Late composite status (example ~Chapter 681+): T3 Runic Battlemaster Overlord (Primary), T2 Runic Engineer (Secondary), T2 Runesmith Lord (Tertiary), T1 Mage / Runic Mana Scribe / Runic Blacksmith maxed and inactive.
+Late composite status (example ~Chapter 681+): T3 Runic Battlemaster Overlord (**Primary**), T2 Runic Engineer (**Secondary**). T2 Runesmith Lord and T1 Mage / Runic Mana Scribe / Runic Blacksmith sit maxed and **inactive** (no Tertiary slot; only one secondary keeps special effects, `Levels.md`).
 
 ## Runic Battlemaster Overlord
 

@@ -167,7 +167,7 @@ Luck                   7
 
 HP = 40×10 + 40×3 = 520. SP = 40×10 + 40×3 + 40×3 = 640. MP = 66×10 + 53×4 = 872.
 
-Skills menu in chapter: transfer set (Marksmanship **L7**) + Mana Sense **L9** (+Int/Will) + Reading **L9** (+Int/Will) + Basics at age-10 targets (Running/Sprint/Climbing/Throwing/Leather **L9**; H2H/Sneak/Sword **L8**). Str/Agi/Vit/End even at **40**; Dex **50**; Will **53**; Int **66** highest.
+Skills menu in chapter: transfer set (Marksmanship **L7**) + Mana Sense **L9** (+Int/Will) + Reading **L9** (+Int/Will) + Basics at age-10 targets (Running/Sprint/Climbing/Throwing/Leather **L9**; H2H/Sneak/Sword **L8**; **Acrobatics L3**). Str/Agi/Vit/End even at **40**; Dex **50**; Will **53**; Int **66** highest.
 
 Class gained mid-chapter: **Tier 1 Mage L1**. Unlocks: Basic Mana Shaping L1 (**Int +2 / Will +1**), Basic Mana Regulation L1 (**Int +1 / Will +2**), Mana Bolt Spell L1, Basic Incantation L1 (**Int +1 / Will +1**). Mage package +1 Int / +1 Will. Mage **+2% max MP** / **+1% regen** per class level. All seven **40** attribute perks on sheet. Banked pre-class XP not applied on-page until Chapter 6 (L3). Crystal used for the ritual turns to dust.
 
@@ -254,7 +254,7 @@ No new full attribute status screen. No class level shown this chapter. Still Ma
 - Letter: lodging only, no further monetary aid; army enlistment as return option. Kept in bag; not burned.
 - Cabin kit: straw mattress, stove, chairs, desk, pelts; well east; spring west (wildlife).
 - Coin pouch counted on-page; amount not given.
-- Train skills screen (live, age-10 `Progression.md`): H2H / Sword / Sneak **L8**; Running / Sprint / Climbing / Throwing / Leather **L9**. Sprint pads Vit+End; Leather pads Vit+End; Hand to Hand pads Str+Vit. Full skill block in `Skills.md`.
+- Train skills screen (live, age-10 `Progression.md`): H2H / Sword / Sneak **L8**; Running / Sprint / Climbing / Throwing / Leather **L9**; **Acrobatics L3**. Sprint pads Vit+End; Leather pads Vit+End; Hand to Hand pads Str+Vit; Acrobatics pads Agi. Full skill block in `Skills.md`.
 
 ## Chapter 8
 

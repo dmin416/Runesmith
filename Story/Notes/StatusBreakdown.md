@@ -18,9 +18,9 @@ Age + daily training from `Progression.md`. Physicals from the trained body tabl
 |---|---|---|---|---|---|---|---|---|---|
 | Age 5 | 4 | 5 | 4 | 4 | 4 | 12 | 15 | 3 | 7 |
 | Age 9 | 13 | 16 | 16 | 13 | 12 | 17 | 23 | 3 | 7 |
-| Age 10 | 15 | 20 | 16 | 14 | 13 | 18 | 25 | 3 | 7 |
+| Age 10 | 15 | 17 | 16 | 14 | 13 | 18 | 25 | 3 | 7 |
 
-Age-10 **Agility body 20** (Progression table lists 17): +3 evenness fudge so Str/Agi display at **40** with the Basic pad redesign below. Vit/End hit **44** once **Sleep Resistance** Vit/End pads are counted (L4).
+Age-10 Agility body **17** matches `Progression.md`. Displayed Agility **40** = body **17** + Climbing **9** + Sneaking **8** + Cooking **3** + **Basic Acrobatics L3** (+3). Vit/End hit **44** once **Sleep Resistance** Vit/End pads are counted (L4).
 
 Willpower **15** at age 5 is the adult mind’s full experience floor (30 years). Intelligence **12** is under the adult 15 because working memory waits on brain hardware.
 
@@ -71,7 +71,7 @@ Blessed by Mana: regen narrative only (not in MP math). Mage: **+2% MP × class 
 
 #### Early Basics (Progression age targets, +1 × level)
 
-Redesign: Running → Endurance. Sprint → Vitality (+ Endurance). Hand to Hand → Strength + Vitality. Leather → Vitality + Endurance. Reading / Mana Sense → Intelligence + Willpower. Goal at age 10: Str/Agi/Vit/End **40**; Dex/Will higher; Int highest.
+Redesign: Running → Endurance. Sprint → Vitality (+ Endurance). Hand to Hand → Strength + Vitality. Leather → Vitality + Endurance. Reading / Mana Sense → Intelligence + Willpower. **Basic Acrobatics → Agility.** Goal at age 10: Str/Agi/Vit/End **40**; Dex/Will higher; Int highest.
 
 | Skill | Favored | Age 9 lv | Age 9 bonus | Age 10 lv | Age 10 bonus |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@ Redesign: Running → Endurance. Sprint → Vitality (+ Endurance). Hand to Hand
 | Basic Sprint | VIT, END | 8 | VIT +8, END +8 | 9 | VIT +9, END +9 |
 | Basic Hand to Hand | STR, VIT | 7 | STR +7, VIT +7 | 8 | STR +8, VIT +8 |
 | Basic Climbing | STR, AGI | 9 | STR +9, AGI +9 | 9 | STR +9, AGI +9 |
+| Basic Acrobatics | AGI | 0 | — | 3 | AGI +3 |
 | Basic Throwing | DEX | 8 | DEX +8 | 9 | DEX +9 |
 | Basic Sneaking | AGI | 7 | AGI +7 | 8 | AGI +8 |
 | Basic One-Handed Swordsmanship | STR | 7 | STR +7 | 8 | STR +8 |
@@ -95,7 +96,7 @@ Leather reaches **L9 by age 10** (daily armor wear on the drill loop; was L6).
 | Age | STR | AGI | DEX | VIT | END | INT | WILL |
 |---|---|---|---|---|---|---|---|
 | 9 | +23 | +16 | +8 | +23 | +24 | +18 | +18 |
-| 10 | +25 | +17 | +9 | +26 | +27 | +18 | +18 |
+| 10 | +25 | +20 | +9 | +26 | +27 | +18 | +18 |
 
 **Skills + traits combined** (transfer skills + Basics + traits)
 
@@ -103,7 +104,7 @@ Leather reaches **L9 by age 10** (daily armor wear on the drill loop; was L6).
 |---|---|---|---|---|---|---|---|---|
 | 5 (transfer only) | 0 | +3 | +25 | +4 | +4 | +30 | +10 | +4 |
 | 9 | +23 | +19 | +33 | +27 | +28 | +48 | +28 | +4 |
-| 10 | +25 | +20 | +34 | +30 | +31 | +48 | +28 | +4 |
+| 10 | +25 | +23 | +34 | +30 | +31 | +48 | +28 | +4 |
 
 ---
 
@@ -135,12 +136,12 @@ Height **4'7"** (ninth birthday; chapter prose, not a status-screen field).
 
 | Bucket | STR | AGI | DEX | VIT | END | INT | WILL | CHA | LUCK |
 |---|---|---|---|---|---|---|---|---|---|
-| Body | 15 | 20 | 16 | 14 | 13 | 18 | 25 | 3 | 7 |
+| Body | 15 | 17 | 16 | 14 | 13 | 18 | 25 | 3 | 7 |
 | Class | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Skills/Traits | 25 | 20 | 34 | 30 | 31 | 48 | 28 | 4 | 0 |
+| Skills/Traits | 25 | 23 | 34 | 30 | 31 | 48 | 28 | 4 | 0 |
 | **Total** | **40** | **40** | **50** | **44** | **44** | **66** | **53** | **7** | **7** |
 
-Str/Agi even at **40**. Vit/End **44** after **Sleep Resistance** Vit/End pads (L4). Dex **50**, Will **53**, Int **66** (highest).
+Str/Agi even at **40** (Acrobatics L3 closes the Agility pad). Vit/End **44** after **Sleep Resistance** Vit/End pads (L4). Dex **50**, Will **53**, Int **66** (highest).
 
 HP = 44×10 + 44×3 = **572**. SP = 44×10 + 40×3 + 40×3 = **680**. MP = 66×10 + 53×4 = **872**.
 
@@ -150,9 +151,9 @@ Same age-10 body and Basics as pre-class. Class +1 Int / +1 Will. Mage grants L1
 
 | Bucket | STR | AGI | DEX | VIT | END | INT | WILL | CHA | LUCK |
 |---|---|---|---|---|---|---|---|---|---|
-| Body | 15 | 20 | 16 | 14 | 13 | 18 | 25 | 3 | 7 |
+| Body | 15 | 17 | 16 | 14 | 13 | 18 | 25 | 3 | 7 |
 | Class | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 |
-| Skills/Traits | 25 | 20 | 34 | 30 | 31 | 52 | 32 | 4 | 0 |
+| Skills/Traits | 25 | 23 | 34 | 30 | 31 | 52 | 32 | 4 | 0 |
 | **Total** | **40** | **40** | **50** | **44** | **44** | **71** | **58** | **7** | **7** |
 
 MP = ((71×10)+(58×4)) × 1.02 = 942 × 1.02 = **961** (Mage L1; +2%/level).
@@ -163,9 +164,9 @@ All seven **40** attribute perks active (Vit/End already past 40 from Sleep pads
 
 | Bucket | STR | AGI | DEX | VIT | END | INT | WILL | CHA | LUCK |
 |---|---|---|---|---|---|---|---|---|---|
-| Body | 15 | 20 | 16 | 14 | 13 | 18 | 25 | 3 | 7 |
+| Body | 15 | 17 | 16 | 14 | 13 | 18 | 25 | 3 | 7 |
 | Class | 0 | 0 | 0 | 0 | 0 | 3 | 3 | 0 | 0 |
-| Skills/Traits | 25 | 20 | 34 | 30 | 31 | 52 | 32 | 4 | 0 |
+| Skills/Traits | 25 | 23 | 34 | 30 | 31 | 52 | 32 | 4 | 0 |
 | **Total** | **40** | **40** | **50** | **44** | **44** | **73** | **60** | **7** | **7** |
 
 MP = ((73×10)+(60×4)) × 1.06 = 970 × 1.06 = **1028** (Mage L3).
@@ -176,9 +177,9 @@ Guild measuring crystal (Ch 8) uses this block. Estate Mage weekly doubles leave
 
 | Bucket | STR | AGI | DEX | VIT | END | INT | WILL | CHA | LUCK |
 |---|---|---|---|---|---|---|---|---|---|
-| Body | 15 | 20 | 16 | 14 | 13 | 18 | 25 | 3 | 7 |
+| Body | 15 | 17 | 16 | 14 | 13 | 18 | 25 | 3 | 7 |
 | Class | 0 | 0 | 0 | 0 | 0 | 4 | 4 | 0 | 0 |
-| Skills/Traits | 25 | 20 | 34 | 30 | 31 | 52 | 32 | 4 | 0 |
+| Skills/Traits | 25 | 23 | 34 | 30 | 31 | 52 | 32 | 4 | 0 |
 | **Total** | **40** | **40** | **50** | **44** | **44** | **74** | **61** | **7** | **7** |
 
 MP = ((74×10)+(61×4)) × 1.06 = 984 × 1.06 = **1043** (Mage L3).
@@ -187,9 +188,9 @@ MP = ((74×10)+(61×4)) × 1.06 = 984 × 1.06 = **1043** (Mage L3).
 
 | Bucket | STR | AGI | DEX | VIT | END | INT | WILL | CHA | LUCK |
 |---|---|---|---|---|---|---|---|---|---|
-| Body | 15 | 20 | 16 | 14 | 13 | 18 | 25 | 3 | 7 |
+| Body | 15 | 17 | 16 | 14 | 13 | 18 | 25 | 3 | 7 |
 | Class | 0 | 0 | 0 | 0 | 0 | 5 | 5 | 0 | 0 |
-| Skills/Traits | 25 | 20 | 34 | 30 | 31 | 52 | 32 | 4 | 0 |
+| Skills/Traits | 25 | 23 | 34 | 30 | 31 | 52 | 32 | 4 | 0 |
 | **Total** | **40** | **40** | **50** | **44** | **44** | **75** | **62** | **7** | **7** |
 
 MP = ((75×10)+(62×4)) × 1.08 = 998 × 1.08 = **1078** (Mage L4).
@@ -217,16 +218,16 @@ Skills/Traits Will = pre-mage pile **28** + **6** + **14** + **6** + **18** + **
 
 **Physical Skills/Traits after evolve (additive: Basic L9 pads stay + Level 2 L1 pads; L1 pad is the evolve “free stat”, not an extra):**
 - Str: H2H **9** + Climb baked **9** + Sword baked **9** + Climbing L1 **1** + Swordsmanship L1 **1** = **29**
-- Agi: Climb baked **9** + Sneak baked **9** + Cooking **3** + Dodging **6** + Climbing L1 **1** + Sneaking L1 **1** = **29**
+- Agi: Climb baked **9** + Sneak baked **9** + Cooking **3** + Acrobatics **3** + Dodging **6** + Climbing L1 **1** + Sneaking L1 **1** = **32**
 - Dex: Throw baked **9** + Tech **7** + Tinker **8** + Cooking **3** + Marks baked **9** + Throwing L1 **1** + Expert Marks L1 **1** = **38**
 - Vit: H2H **9** + Sprint **9** + Leather **9** + Sleep **4** = **31**
 - End: Run baked **9** + Sprint **9** + Leather **9** + Running L1 **1** + Sleep **4** = **32**
 
 | Bucket | STR | AGI | DEX | VIT | END | INT | WILL | CHA | LUCK |
 |---|---|---|---|---|---|---|---|---|---|
-| Body | 15 | 20 | 16 | 14 | 13 | 18 | 25 | 7 | 7 |
+| Body | 15 | 17 | 16 | 14 | 13 | 18 | 25 | 7 | 7 |
 | Class | 0 | 0 | 0 | 0 | 0 | 20 | 20 | 0 | 0 |
-| Skills/Traits | 29 | 29 | 38 | 31 | 32 | 91 | 82 | 4 | 0 |
+| Skills/Traits | 29 | 32 | 38 | 31 | 32 | 91 | 82 | 4 | 0 |
 | **Total** | **44** | **49** | **54** | **45** | **45** | **129** | **127** | **11** | **7** |
 
 HP = Vit×10 + End×3 = 450 + 135 = **585**.
@@ -253,9 +254,9 @@ Enter Ch 13 as post–Ch 12 stack still **Mage L20**, then **+5** Mage packages 
 
 | Bucket | STR | AGI | DEX | VIT | END | INT | WILL | CHA | LUCK |
 |---|---|---|---|---|---|---|---|---|---|
-| Body | 15 | 20 | 16 | 14 | 13 | 18 | 25 | 7 | 7 |
+| Body | 15 | 17 | 16 | 14 | 13 | 18 | 25 | 7 | 7 |
 | Class (Mage L25) | 0 | 0 | 0 | 0 | 0 | 25 | 25 | 0 | 0 |
-| Skills/Traits | 32 | 41 | 41 | 33 | 39 | 94 | 85 | 5 | 0 |
+| Skills/Traits | 32 | 44 | 41 | 33 | 39 | 94 | 85 | 5 | 0 |
 | **Total** | **47** | **61** | **57** | **47** | **52** | **137** | **135** | **12** | **7** |
 
 HP = 470 + 156 = **626**.

@@ -14,7 +14,7 @@ These are **not one party**. They are separate tracks Roland meets across the st
 | Noble girl (alt) | Margaret Braganza | Hidden high status; maid-knight Hadley |
 | Gnome girl | Helci | Half-gnome Scout + Hunter (Ch43); Singing Crow waitress; workshop assistant |
 | Half-orc man | Korgak | Albrook adventurer; guild muscle |
-| Half-orc (one-off) | Golgrim | Ch59+ caravan slave escape with Aredhel/Logon; not Institute track |
+| Half-orc (one-off) | Golgrim | Ch58+ caravan slave escape with Aredhel/Logon; not Institute track |
 
 ---
 
@@ -42,11 +42,6 @@ All-women party after their fourth left with a man. Distrust men at night camps.
 | 17 | L26 sheet (Scribe L1; half-cut bank only); loot split; quits party for craft path; asks for Sahildr's hammer. |
 | 18 | Impact [Highest] schematic; Bronze→Steel; parting bag; farewell (girls cry after). Girls take Steel/Silver caravan escort elsewhere. |
 | 19 | Roland arrives Edelgard; meets Helci at Singing Crow; Fire Orb [Highest] from memory. |
-| 11–12 | Dungeon runs and tavern bonding. |
-| 13–14 | Deeper floors. Party helps when Roland is attacked. |
-| 15–17 | Loot, research, class-change stretch while still tied to the party. |
-| 18 | Farewell. Roland leaves Carwen. |
-| Later | Occasional memories and name-drops. Not a sustained group plot. |
 
 ---
 
@@ -62,7 +57,7 @@ First seen Chapter 19 (Singing Crow Inn). Named Helci on first meeting. Half-gno
 | 25 | Roland reflects on Helci; no new meeting. Deal focus at Exeor's (manager IDs his class). |
 | 26 | Still at Singing Crow; Roland sees her running around the inn (alive; no nannying). |
 | 27 | On Manstos Grotto muster (~20); spots Roland's black robe (eyes wide then narrow). |
-| 28 | Scout L10 status; joins Party 4 (Dalrak, Selanar, Orson, Roland); carriage ride. |
+| 28 | Scout L10 status; joins Party 4 (Dalrak, Selanar, Orson, Roland); carriage ride. Same expedition party continues through the mine / Myrmeke stretch (Orson, Dalrak, Selanar, Helci). |
 | 29 | Camp watch apology; Hush tent; enters assigned mine shaft with party. |
 | 30 | First Myrmeke fights; +1 Scout level; trapped after cave-in. |
 | 31 | Defends "Roland" name; peppermint trails; Soldier L53 kill; more ants incoming. |
@@ -70,7 +65,6 @@ First seen Chapter 19 (Singing Crow Inn). Named Helci on first meeting. Half-gno
 | 33 | Scout L23; spatial bag from dead adventurer; parts with Roland at Edelgard guild offer. |
 | 34 | Absent (Roland class-change stretch). |
 | 35 | Absent (smith trial / workshop ask). |
-| 28+ | Same expedition party (Orson, Dalrak, Selanar, Helci). Mine / Myrmeke stretch. |
 | 41 | Absent (bail / contract talk). |
 | 42 | Returns as guild part-time workshop assistant at Roland's new warehouse. |
 | 43 | Hunter T1 (second class). Broke; stays for errand pay. Arrowheads + stew. Roland hides Runecraft. |
@@ -78,7 +72,7 @@ First seen Chapter 19 (Singing Crow Inn). Named Helci on first meeting. Half-gno
 | 45 | Silence deal for Mana Slash shortsword. ~17. Sees him as Enchantsmith. |
 | 46 | Follows to second weapon shop; Solaria distraction for Mana Slash borrow. Delivers Sharp longsword to Exeor. |
 | 47 | Left Edelgard ~2 months prior for dungeon city (farewell gift / note). |
-| 51 | Not present. Abyssal / cult greater illusion uses a twisted Helci form (and Sahildr/Martha) to break Roland. |
+| 51 | Not present. Abyssal / cult greater illusion uses a twisted Helci form (and Sahildr / Arden maid Martha) to break Roland. |
 
 ---
 
@@ -153,7 +147,7 @@ First seen Chapter 58 (cave after rockslide).
 | 58 | Moon-elf Lady Aredhel and Logon (collar; Logon took Roland's sword); Half-Orc Golgrim with club. Fight mountain goblins/hobgoblin outside cave. |
 | 59 | Bolia backstory. Roland melts hobgoblin with Fire Arrow; clears goblins; Debugger on collar runes; asks to examine collar. |
 | 60 | Collars off; alias Carmine; party toward river village; Bocanach L46 fight (coordination fails). |
-| 61 | Formation lecture; Greater Mantodea L57; Golgrim dual scythes; Charisma 24 noted. |
+| 61 | Formation lecture; Greater Mantodea L57 (scythe forelegs); Golgrim in the fight; Charisma 24 noted. |
 | 62 | Reach village; bandits hold it with hostages; Carmine party scouts from trees. |
 | 63 | Night raid; Logon kills boss with runic rapier; Golgrim cleans up. |
 | 64 | Part ways; Aredhel offers Irithyl (Bolia); Golgrim keeps boss ax; Roland continues to port. |

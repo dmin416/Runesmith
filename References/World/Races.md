@@ -99,7 +99,7 @@ Wild orcs appear as monsters (see Creatures.md). Civilized people with orc blood
 
 ### Half-Orc
 First seen: Chapter 40
-Strong orc-blooded people, often stereotyped as brutes. Korgak, Golgrim, and other Albrook adventurers.
+Strong orc-blooded people, often stereotyped as brutes. Korgak and other Albrook adventurers. Golgrim is a separate one-off (Ch58–64 caravan rescue; see `Encounters.md`).
 
 ### Quarter-Orc
 First seen: Chapter 650

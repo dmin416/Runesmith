@@ -57,19 +57,25 @@ Prefix ladder: `../Ideas.md` / `Levels.md` (Basic/Lesser → plain → Expert/Hi
 |---|
 | Cooking |
 | Acting |
+| Dance |
+| Multitasking |
 | Basic Mathematics |
 | Map Reading |
 | Reading Proficiency |
 | Hastened Reading |
 | Basic Calligraphy |
 | Basic Alcohol Resistance |
+| Basic Poison Resistance |
+| Pain Resistance |
+| Sleep Resistance |
+| Basic Taming |
 | Basic Drawing |
 
 ---
 
 ## Excluded (not available to normal people)
 
-- **System / Special:** Identify, Analyze, Debugger, Mana Sense, Sleep Resistance, Technology (Circuitry). Tied to the Gamer / Source set or special category. Not learnable by an ordinary person on the normal ladder.
+- **System / Special:** Identify, Analyze, Debugger, Mana Sense, Technology (Circuitry). Tied to the Gamer / Source set or status-system tools. Not learnable by an ordinary person on the normal ladder.
 - **Mage-class locked:** Basic Mana Shaping, Basic Mana Regulation, Basic Incantation, Mana Bolt, Mana Arrow, Mana Shield, Mana Absorption, Mana Reinforcement, Ember, Mana Hands.
 - **Scribe / Runesmith / Blacksmith locked:** Basic Mana Scribing, Basic Rune Scribing, Basic Rune Mastery, Basic Forging, Basic Smithing Mastery, Basic Runecraft, Ethereal Pathways, Blacksmith's Heat Sense, Runic Blacksmith's Eyes, Basic Rune Compression.
 
@@ -112,7 +118,7 @@ Level 1 = Basic / Lesser. Level 2 = plain name. Level 3 = Expert / High.
 
 Single-track skills (no prefix evolve in this file): Spearmanship, Blunt Weapon Proficiency, Shield Proficiency, Heavy Armor Proficiency, Cooking, Acting, Map Reading, Reading Proficiency, Hastened Reading.
 
-**Marksmanship** evolves: Marksmanship → **Expert Marksmanship** (Dex +level, Will +level). No separate Basic Marksmanship on Roland’s sheet (transfer starts at plain Marksmanship L7).
+**Marksmanship** evolves: Marksmanship → **Expert Marksmanship** (Dex +level, Will +level). No separate Basic Marksmanship on Roland’s sheet (transfer starts at plain Marksmanship L7). **2-rung exception** for him only; ordinary people can still use the Basic → plain → Expert shape if the setting ever trains that path from zero.
 
 ---
 

@@ -1,6 +1,6 @@
 # Essential Ingredients
 
-**Earth research anchors** for adventure cooking. Star ingredients and field methods. Flavor partners refer to `EssentialFlavorings.md`. Map flavor to Caldris; do not paste Earth crop or dish names into prose as if they are local unless the setting already has them.
+**Earth research anchors** for adventure cooking. Field methods and cuts. Flavor partners refer to `EssentialFlavorings.md`. Map flavor to Caldris; crop names below are fine on-page (see `Food.md` crop availability). Pepper and ginger are still luxury spices on common tables (`Food.md` seasoning lock).
 
 ---
 
@@ -13,7 +13,7 @@
 **Method:** Young boar takes skewers, spit roasting and quick grilling. Mature boar needs low and slow braising or a pit oven.
 **No-pot method:** Earth oven for shoulder, cubes on green sticks for skewers.
 **Flavor partners:** cumin, rosemary, ginger, wine, vinegar, chili, black pepper
-**Doneness:** 160°F (71°C)
+**Doneness:** 160°F (71°C). Wild boar stays at this number even when farmed pork whole cuts drop to 145°F (trichinosis risk).
 **Tip:** Trim the fat on mature animals since it carries the gamey flavor. Add pork or bacon fat to lean cuts.
 
 #### Pork (subset of boar)
@@ -44,7 +44,7 @@
 **Best cuts:** Backstrap (loin) and tenderloin for fast searing. Haunch (leg) for roasts and skewers. Shoulder, neck and shank for braising. Liver and heart for a quick sear.
 **Method:** Very lean, so cook loin cuts hot and fast and stop at medium-rare. Braise tough cuts low and slow with fat and wine.
 **No-pot method:** Backstrap on a hot stone or over coals, cubes on skewers with bacon, shoulder in a pit oven.
-**Flavor partners:** juniper, rosemary, wine, black pepper, thyme, butter
+**Flavor partners:** rosemary, wine, black pepper, thyme, butter, cumin
 **Doneness:** 130 to 135°F (54 to 57°C) for backstrap and tenderloin. 160°F (71°C) for ground meat and braised cuts.
 **Tip:** Remove the silver skin and wrap or thread with bacon or pork fat. Overcooked venison turns dry and livery.
 
@@ -235,7 +235,7 @@
 | Pork | garlic, rosemary, vinegar, apples |
 | Bacon | black pepper, honey, vinegar, onion |
 | Cow | garlic, black pepper, rosemary, butter |
-| Deer | juniper, rosemary, wine, butter |
+| Deer | rosemary, wine, butter, cumin |
 | Fish | lemon, parsley, butter, ginger |
 | Chicken | garlic, thyme, lemon, smoked paprika |
 | Eggs | butter, black pepper, chili, smoked paprika |
@@ -277,5 +277,5 @@
 - **Cream sauce:** cream reduced with garlic, black pepper and a splash of wine over chicken or fish
 - **Pork and apples:** roasted pork or boar with apples, butter and black pepper
 - **Camp breakfast:** bacon, ash-baked eggs and flatbread
-- **Game night:** venison wrapped in bacon with juniper, rosemary and a wine sauce
+- **Game night:** venison wrapped in bacon with rosemary, cumin and a wine sauce
 - **Yogurt marinade:** boar or chicken skewers with cumin, garlic and lemon

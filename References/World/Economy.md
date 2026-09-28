@@ -886,7 +886,7 @@ Tavern weak-spirit pitcher prices are locked in the Rewrite price lock and §11.
 
 Full Source (chs 1-711) was swept. Hard `small/large` prices cluster early; late book often says bare "gold" (= large/regular when glossed). **Superseded Source numbers** (do not reuse in rewrite): commoner 1 SG/mo; rice-grain 4 SS; cheap inn 2 SS; tavern >1 LS; farm 100 SG; ship 1 SG; "100 SG >5 years" living; repair 1 SG; crystal ball 10/20 SG; black-market entry 5 SG; house phrase 10 LG.
 
-**Kept:** latrine 10 LC; ear 5 LC; gate 5 LC; card 2 LS; bags 5-10 SG; class crystal 2 SG; scroll ladder; heal 9 SG; severance 100/150 SG; golem auction LG-scale; skill book ~50 SG; mithril floor 1 LG.
+**Kept:** latrine 10 LC; ear 5 LC; gate 5 LC; card 2 LS; bags 5-10 SG; class crystal 2 SG; scroll ladder; heal 9 SG; severance 100/150 SG; golem auction LG-scale; skill book (price unset); mithril floor 1 LG.
 
 ## 31. Rewrite status
 

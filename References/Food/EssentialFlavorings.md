@@ -1,6 +1,6 @@
 # Essential Flavorings
 
-**Earth research anchors** for adventure cooking. Salt is assumed under everything below. ★ marks the core ten. Map flavor to Caldris; do not paste Earth spice-route or dish names into prose as if they are local unless the setting already has them. Pairs with `EssentialIngredients.md`.
+**Earth research anchors** for adventure cooking. Salt is assumed under everything below. ★ marks the core ten. Map flavor to Caldris; crop and spice names below are fine on-page where the story needs them (`Food.md` crop availability). Pepper and ginger remain luxury spices on common tables (`Food.md` seasoning lock). Pairs with `EssentialIngredients.md`.
 
 ## Savory Base
 | Flavoring | Universal role | Use with | Tip |

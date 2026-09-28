@@ -24,6 +24,7 @@ Trait Int/Will bonuses are flat cards. They sit in the Skills/Traits bucket with
 | Basic Sprint | Vitality, Endurance |
 | Basic Hand to Hand Combat | Strength, Vitality |
 | Basic Climbing | Strength, Agility |
+| Basic Acrobatics | Agility |
 | Basic Throwing | Dexterity |
 | Basic Sneaking | Agility |
 | Basic Dodging / Dodging | Agility |
@@ -184,7 +185,7 @@ No new traits named. Achievement: **First Kill** (+200 XP on top of the goblin k
 
 Mana Sense maxed before the ritual (rewrite: L9). Used in the ascension tutorial to watch the clone form Mana Bolt.
 
-Pre-class skills menu on-page: transfer set (Marksmanship **L7**) + Mana Sense **L9** (+Int/Will) + Reading **L9** (+Int/Will) + age-10 Basics (Running/Sprint/Climbing/Throwing/Leather **L9**; H2H/Sneak/Sword **L8**). Status: Str/Agi/Vit/End **40**, Dex **50**, Int **66**, Will **53**. HP 520 / MP 872 / SP 640.
+Pre-class skills menu on-page: transfer set (Marksmanship **L7**) + Mana Sense **L9** (+Int/Will) + Reading **L9** (+Int/Will) + age-10 Basics (Running/Sprint/Climbing/Throwing/Leather **L9**; H2H/Sneak/Sword **L8**; **Acrobatics L3**). Status: Str/Agi/Vit/End **40**, Dex **50**, Int **66**, Will **53**. HP 520 / MP 872 / SP 640.
 
 Class: Tier 1 Mage (chosen Yes/No on the PC sprite). Unlocked mid-tutorial when the immaterial clone touches him:
 

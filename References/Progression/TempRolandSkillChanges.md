@@ -16,35 +16,13 @@ Temporary pass. Apply world laws from `../Ideas.md`: skills **L1–L9 then evolv
 
 ## Transfer / Chapter 2 sheet
 
-### Debugger L8
-**Source feel:** vague “find defects” + Int.
-**Note:** Debugger is already a **higher-order** skill (no Basic form). It is not on the Basic → normal → Advanced ladder.
-**Change:** Treat as a real scan. At L1: spot one concrete failure mode in a device/rune/spell form. Scaling: more simultaneous faults, deeper layers (L9: full dependency tree on work his tier can touch). Keep +Int per level. L9 is the cap for this skill name; it does **not** auto-evolve into Advanced Debugger.
-**Advanced Debugger:** separate **Tier 3 or Tier 4** skill (class/trial gated), not a normal L9 promotion. Marks repair steps, predicts break points under extreme load, debugs higher-tier runic systems. Optional mid name later (e.g. Runic Debugger) only if you want a T2 bridge; default is Debugger (transfer) → Advanced Debugger (T3/T4).
-
-### Technology L7 (rewrite; was Circuitry)
-**Flavor skill.** Conceptual / understanding side of tech and analogues (+Dex/+Int). Ch 4 clock pairs with Tinkerer. No combat redesign.
+*(Merged into `Skills.md` / locked elsewhere; wiped here: Debugger, Technology, Cooking, Marksmanship / Expert Marksmanship, Acting, Basic Mathematics, Map Reading.)*
 
 ### Sleep Resistance L4
-**Flavor skill.** Keep soft: less sleep, less fatigue. No % overhaul, no Vigilance evolution required. Background excuse for night work and long grinds.
+**Flavor skill.** Keep soft: less sleep, less fatigue. No % overhaul, no Vigilance evolution required. Background excuse for night work and long grinds. Ordinary resistance (not system-special); also listed in `NormalPersonSkills.md`.
 
 ### Tinkerer L8
-**Change:** Physical / mechanical craft side (Ch 4 clock parts fit). Craft speed and salvage on non-rune junk. e.g. +10% assembly speed / level, fewer botched jury-rigs. Evolve → **Expert Tinkerer** (already in Source ~171): work on higher-tier materials and golem parts. Pair with Rapid Assembly later; do not stack three empty “craft better” lines.
-
-### Cooking L3
-**Flavor skill.** Keep soft food proficiency and small Dex/Agi. No meal-buff combat system. Background life and camp color only.
-
-### Marksmanship L7
-**Change:** Core combat identity. Transfer at **L7** (see `Progression.md` firearms justification). Aim bonus, drop compensation, reload discipline. Concrete: hit chance / grouping tightens per level; L9 reliable aimed shots under stress. Evolve → **Expert Marksmanship** (Dex +level, Will +level). Later optional: Runic Marksmanship for guided / rune-assisted projectiles. Priority over sword trees.
-
-### Acting L4
-**Flavor skill.** Keep soft role/expression proficiency and +Cha. Background for cover and social color; no Infiltration evolution or anti-Identify combat system required.
-
-### Basic Mathematics L7
-**Flavor skill.** Already had at transfer. Justifies skipping arithmetic grind and doing craft/status math without spotlight. No Applied Calculation / ballistics evolution required unless a later arc wants it. Do not unlock from HP formulas in prose.
-
-### Map Reading L4
-**Flavor skill.** Already had at transfer. Soft map/path/layout sense for travel scenes. No Cartography / fire-lane combat redesign.
+**Change:** Physical / mechanical craft side (Ch 4 clock parts fit). Craft speed and salvage on non-rune junk. e.g. +10% assembly speed / level, fewer botched jury-rigs. Evolve → **Expert Tinkerer** (already in Source ~171): work on higher-tier materials and golem parts. Pair with Rapid Assembly later; do not stack three empty “craft better” lines. **Not yet in `Skills.md` as Expert Tinkerer.**
 
 ### Hastened Reading L2
 **Change:** Real time cut. e.g. −10% reading time per level while retention holds (cap with Knowledge Retention). L9 ≈ near skim-speed with full takeaway. Evolve → **Speed Comprehension**: technical schematics and rune texts. Already at transfer; library levels it.
@@ -145,10 +123,11 @@ World law: **Basic X** maxes at L9 → evolves to non-Basic form. Chapter 7 alre
 ### Basic Rune Compression
 **Change:** Hard density: % size cut or +N runes per area per level. Cap before structure fails. Core for ammo and compact launchers.
 
-### Basic Mana Reinforcement
+### Mana Reinforcement
 **Source:** skill book after abyss assassination (~Ch 54–56). Breathing drill. Adds a % of mana to base stats: **1% per level, 9% at Basic max**; Source T2 ~25%, T3 ~50%.
 **Rewrite unlock:** self-taught in Ch 9.5 Carwen town absorb drills (no gnome/shop book).
 **Sheet pads:** **Intelligence +1 / Willpower +1 per level** (same as Basic Incantation).
+**Display name:** plain **Mana Reinforcement** (no Basic prefix on sheet; matches `Skills.md` / `NormalPersonSkills.md`).
 **Early-story constraint (Ch 1–70):** fights and basic runecraft still burn the pool. Reinforcement does not replace Regulation / Rune Mastery for staying in the fight; it only answers “how hard is my body while I still have mana.”
 **Change (same scaling as Rune Mastery):** While reinforced, convert mana into bonus base stats (Str/Agi/Dex/Vit/End; not Luck).
 - **+10% of max MP per skill level**, **capped at 90%** (L9). Same ladder as filtration bypass: L1 = 10%, L9 = 90%. Never 100%.

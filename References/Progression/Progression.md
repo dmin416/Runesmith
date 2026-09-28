@@ -290,6 +290,7 @@ Levels shown are technique ranks at that birthday under the daily loop. `0` = no
 | Basic Sprint | 0 | 3 | 5 | 7 | 8 | 9 |
 | Basic Hand to Hand Combat | 0 | 3 | 5 | 6 | 7 | 8 |
 | Basic Climbing | 0 | 4 | 6 | 8 | 9 | 9 |
+| Basic Acrobatics | 0 | 0 | 0 | 1 | 2 | 3 |
 | Basic Throwing | 0 | 3 | 5 | 7 | 8 | 9 |
 | Basic Sneaking | 0 | 3 | 5 | 6 | 7 | 8 |
 | Basic One-Handed Swordsmanship | 0 | 2 | 4 | 6 | 7 | 8 |
@@ -302,6 +303,7 @@ For **Roland** (adult mind in a child body), use the transmigrator Reading table
 
 - **Reading (normal child):** four hours a day at about 200 words per minute is roughly 17 million words a year and about 87 million over five years. That volume supplies the vocabulary and reference knowledge that held reading at L8 before, so **L9 arrives at age 9**. Roland is faster; see transmigrator table.
 - **Climbing:** reaches **L9 at age 9** from the added volume.
+- **Acrobatics:** reaches **L3 at age 10** (balance / vault / landing drills on the estate loop; Agility pad closes the age-10 **40** display with Climbing + Sneaking + Cooking).
 - **Running, Sprint and Throwing:** reach **L9 at age 10** since repetition count is the main limit on clean mechanics.
 - **Hand to Hand, Sneaking and Sword:** stop at **L8** because the last level needs varied skilled opponents and real field experience that solo daily repetition cannot supply.
 - **Leather Armor:** reaches **L9 at age 10** (daily drill in armor; Vitality + Endurance pads). Was a narrow L6 side skill in the first table.

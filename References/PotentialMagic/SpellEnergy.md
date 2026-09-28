@@ -10,7 +10,7 @@ Named early spells (Bolt, Arrow, Shield, Ember, Hands) use live tables in `../Sc
 
 | Idea spell | Effect | Mana at ημ 1 | Notes |
 |---|---|---|---|
-| Magic Bolt class | ~1.1 kJ | ~110 | Compare live Bolt: voice mana × 10 × η × μ |
+| Magic Bolt class | ~1.1 kJ | ~110 | Compare live Bolt: voice mana × 10 × η × μ. Sits just **above** a Lesser band ceiling (~10 J–1 kJ); treat as Common-ish on this idea ladder |
 | Magic Arrow class | ~3.4 kJ | ~340 | Compare live Arrow (2× Bolt voice mana) |
 | Magic Lance / Spark Lash | ~10 kJ | ~1,000 | |
 | Magic Shield (absorb) | ~10 kJ | ~1,000 | Live Shield: `ManaCast.md` hit-count law |

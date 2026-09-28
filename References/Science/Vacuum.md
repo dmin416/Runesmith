@@ -75,7 +75,7 @@ Rule of thumb: evaporating **1%** of liquid mass cools the rest ~**6 °C** (late
 
 Latent heat at low T ≈ **2,501 J/g** (not ManaCast’s 2,257 at 100 °C boil row).
 
-Example: cool 1 L water ~18 °C by boiling off 3% (30 g): 30 × 2,501 ≈ **75,030 J** (~7,503 mana at ημ 1; ~1/3 of fully freeze-drying that water mass). Headspace pump-down is usually small beside latent heat.
+Example: cool 1 L water ~18 °C by boiling off 3% (30 g): 30 × 2,501 ≈ **75,030 J** (~7,503 mana at ημ 1; ~79% of freeze-drying that same 30 g at 334 J/g fusion + 2,838 J/g sublimation ≈ 95,160 J). Headspace pump-down is usually small beside latent heat.
 
 **Apps:** heat-sensitive potion distill (rotary-evaporator analog), desalinate small volumes near body T, flash-chill wine / food / heatstroke moisture film.
 

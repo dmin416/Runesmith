@@ -12,11 +12,11 @@ Mana drawn = effect J / (10 × η × μ).
 
 | Method | Goblin | Dragon |
 |---|---|---|
-| Boosted needle (0.3 cm) | ~10 J (~1 mana ημ 1) | 0.5 to 2.3 kJ (~50 to 230 mana ημ 1) |
+| Boosted needle (0.3 cm) | ~80 J (~8 mana ημ 1) | 0.5 to 2.1 kJ (~50 to 208 mana ημ 1) |
 | Boosted ball line shot | ~80 J each (~8 mana) | ~5 kJ (~500 mana) |
-| Elemental Ball-scale blast | ~250 kJ each if 40 packed | Not viable |
+| Elemental Ball-scale blast | ~25 kJ each if 40 packed (~1 MJ total) | Not viable |
 
-A 1,000 goblin wave at 10 to 80 J each is 10 to 80 kJ effect (~1,000 to 8,000 mana at ημ 1). Aiming and launch rate limit before pool does if pierce is used.
+A 1,000 goblin wave at ~**80 J** each is ~80 kJ effect (~8,000 mana at ημ 1). Aiming and launch rate limit before pool does if pierce is used.
 
 ## What stored hydrogen adds
 

@@ -49,17 +49,17 @@ Ember (`ManaCast.md`) pays heat **at the fuel**. Fire Piston pays **compression 
 
 ## Frost Breath (adiabatic expansion cooling)
 
-Mirror of Fire Piston: pre-compress, then expand.
+Mirror of Fire Piston: pre-compress, then expand. Same volume-ratio law; expand instead of compress.
 
-T₂ = T₁ × (P₂/P₁)^((γ−1)/γ)
+T₂ = T₁ × (V₁/V₂)^(γ−1), γ = 1.4 for air.
 
-From 10× atm back to 1× at 293 K: ideal T₂ ≈ **117 K**. Practical with losses closer to **−50 to −80 °C**. Enough to flash-freeze a lock, hinge, bowstring or thin ice bridge. Setup cost mirrors Fire Piston (~383 J for the 1 L / 10× case). Same compression school, heat and cold.
+10:1 expansion from 293 K → T₂ = 293 × 10^(−0.4) ≈ **117 K**. Practical with losses closer to **−50 to −80 °C**. Enough to flash-freeze a lock, hinge, bowstring or thin ice bridge. Setup cost mirrors Fire Piston (~383 J for the 1 L / 10× case). Same compression school, heat and cold.
 
 ## Pressure purification (HPP-style)
 
 E/V ≈ P² / (2 B), B ≈ 2.2 GPa for water.
 
-At 500 MPa: E/V = (5×10⁸)² / (2×2.2×10⁹) ≈ **56.8 J/L** → ~57 J for 1 L (~5.7 mana at ημ 1). Sterilize wound irrigation, ration pack or flask without cooking. Distinct from freeze-dry / vacuum preservation (`Vacuum.md`).
+At 500 MPa: E/V = (5×10⁸)² / (2×2.2×10⁹) ≈ **5.68×10⁷ J/m³** = **56.8 kJ/L** → ~56,800 J for 1 L (~5,680 mana at ημ 1; ~2,590 mana at INT 40 L2). On the order of a Walnut stone's full capacity. Sterilize wound irrigation, ration pack or flask without cooking. Distinct from freeze-dry / vacuum preservation (`Vacuum.md`).
 
 ## Air cartridge (compressed-gas storage)
 

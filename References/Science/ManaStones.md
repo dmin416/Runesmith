@@ -85,11 +85,13 @@ Q  = ρ / ρ₀                        from weigh + size (or Identify)
 | Grade (story) | Q | Density | Rice grain (0.019 cm³) | Marble (2.15 cm³) | Fist (268 cm³) |
 |---|---|---|---|---|---|
 | Lesser | **0.5** | 1.33 g/cm³ | 0.025 g | 2.9 g | 355 g |
-| Common | **1** | 2.65 | 0.050 g | 5.7 g | 710 g |
-| High | **2** | 5.3 | 0.10 g | 11 g | 1.4 kg |
-| Highest | **3** | 8.0 | 0.15 g | 17 g | 2.1 kg |
-| Intermediate / Greater band | **5** | 13.3 | 0.25 g | 28 g | 3.6 kg |
-| Legendary / dragon-grade | **10** | 26.5 | 0.50 g | 57 g | 7.1 kg |
+| Common | **1** | 2.65 g/cm³ | 0.050 g | 5.7 g | 710 g |
+| High | **2** | 5.3 g/cm³ | 0.10 g | 11 g | 1,400 g |
+| Highest | **3** | 8.0 g/cm³ | 0.15 g | 17 g | 2,100 g |
+| Intermediate / Greater band | **5** | 13.3 g/cm³ | 0.25 g | 28 g | 3,600 g |
+| Legendary / dragon-grade | **10** | 26.5 g/cm³ | 0.50 g | 57 g | 7,100 g |
+
+Masses are grams throughout (formula `m = ρ × V` with V in cm³).
 
 Same outer size, heavier stone → higher Q. Same mass, smaller stone → denser → higher Q.
 

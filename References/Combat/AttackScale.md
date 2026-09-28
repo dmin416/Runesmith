@@ -28,6 +28,7 @@ Equal-mass body KE at sprint: `½ × m × v_sprint²` (≈ **80 kg** adult). A w
 | **40** | 1,000 W | 9.8 m/s | 24.5 m/s | Serious athlete band |
 | **48** | 1,200 W | 10.7 m/s | 26.8 m/s | Bolt-class power |
 | **100** | 2,500 W | 15.5 m/s | 38.7 m/s | High T1 / soft T2 |
+| **120** | 3,000 W | 17.0 m/s | 42.4 m/s | Early–mid T2 (Ch 14 watcher lock) |
 | **200** | 5,000 W | 21.9 m/s | 54.8 m/s | Hard T2 physical specialist |
 
 ### Tip KE estimate
@@ -44,11 +45,12 @@ KE_tip ≈ ½ × m_eff × (k × v_s)²
 | 15 | ~90 J | ~360 J | ~560 J |
 | 40 | ~240 J | ~960 J | ~1.5 kJ |
 | 100 | ~600 J | ~2.4 kJ | ~3.7 kJ |
+| **120** | **~720 J** | **~2.9 kJ** | **~4.5 kJ** |
 | **200** | **~1.2 kJ** | **~4.8 kJ** | **~7.5 kJ** |
 
-At `m_eff = 1.2 kg` and `k = 2–2.5`, AGI **200** tip KE sits **~7–11 kJ**.
+At `m_eff = 1.2 kg` and `k = 2–2.5`, AGI **120** tip KE sits **~4.3–6.7 kJ**; AGI **200** sits **~7–11 kJ**.
 
-**Table weapons at street stats** (Science human list): rapier thrust **30–60 J**, sword cut **60–130 J**, warhammer **200–400 J**. Those are **AGI ~15** anchors. Do **not** paste them onto a STR/AGI 200 T2 without scaling.
+**Table weapons at street stats** (Science human list): rapier thrust **30–60 J**, sword cut **60–130 J**, warhammer **200–400 J**. Those are **AGI ~15** anchors. Do **not** paste them onto a high-AGI T2 without scaling.
 
 Rough scale of table thrust to high AGI: multiply by **AGI/15** if you only need a quick check (same √S speed → linear KE in AGI). Prefer the tip-KE formula for specialists.
 
@@ -93,15 +95,17 @@ N        = floor(Pool / J_threat)    # whole attacks; N = 0 → pierces
 
 ## Threat ladder (Science)
 
-| Threat | J | vs street | vs AGI 200 Gale tip |
+Ch 14 watcher Gale tip (AGI **120**, `k≈2–2.5`, `m_eff` 0.8–1.2) sits about **~3–7 kJ** before tip detonation.
+
+| Threat | J | vs street | vs AGI 120 Gale tip |
 |---|---|---|---|
 | Rapier thrust (street) | 30–60 | baseline thrust | irrelevant |
 | Longbow arrow | 100 | — | — |
-| Warhammer / greatsword | 200–400 | heavy melee | soft vs T2 tip |
-| Volley, 10 warbow | 1,250 | — | — |
-| Ogre club | 3,400 | — | soft Gale tip band |
-| Ballista bolt | 6,000 | — | hard Gale tip band |
-| Horse + rider canter | 19,000 | — | full body KE band |
+| Warhammer / greatsword | 200–400 | heavy melee | well below Gale tip |
+| Volley, 10 warbow | 1,250 | — | below Gale tip |
+| Ogre club | 3,400 | — | ≈ soft / mid Gale tip |
+| Ballista bolt | 6,000 | — | ≈ hard / top Gale tip |
+| Horse + rider canter | 19,000 | — | full body KE (above tip) |
 | Dragon claw | 35,000 | — | — |
 | Trebuchet stone | 90,000 | — | — |
 
@@ -115,16 +119,16 @@ Weapon rune blasts (e.g. detonation tip ~**100 MP** activation) sit on top of ki
 
 **Roland:** Mage L25 rewrite, INT **137**, Mana Shield **L6**. Casts a **bubble** on Reyna, screams / overcharges → treat **M ≈ 150–200**. Bubble pool **~6.7–9.0 kJ**.
 
-**Watcher:** Tier 2 physical, speed + penetration specialist. Working sheet for scale: **STR 200 / AGI 200** + **Gale Step** (+ orange detonation tip).
+**Watcher:** Tier 2 physical, speed + penetration specialist. Working sheet for scale: **STR 120 / AGI 120** + **Gale Step** (+ orange detonation tip). Early–mid T2 for overall **L55**, not hard-T2 ceiling stats.
 
 | Attack model | Energy into bubble |
 |---|---|
 | Street rapier only | 30–60 J (never pierces) |
-| AGI 200 base lunge | ~1–2 kJ |
-| AGI 200 + Gale Step (`k≈2–2.5`) | **~5–11 kJ** |
-| + tip detonation | higher still |
+| AGI 120 base lunge | ~0.7–1.1 kJ |
+| AGI 120 + Gale Step (`k≈2–2.5`) | **~3–7 kJ** |
+| + tip detonation | higher still (blasts through after the tip holds) |
 
-**On-page result:** bubble holds a moment, tip bends then **blasts through** with explosion; Reyna’s dagger cannot fully fend → shoulder graze. Matches hard Gale Step tip KE overlapping the overcharged bubble. A **focused disk** at the same mana (**~25–50 kJ**) would stop that thrust.
+**On-page result:** bubble holds a moment, tip bends then **blasts through** with explosion; Reyna’s dagger cannot fully fend → shoulder graze. Gale tip KE sits under or at the bubble’s low end; tip detonation finishes the pierce. A **focused disk** at the same mana (**~25–50 kJ**) would stop that thrust.
 
 Do not re-litigate this beat with street weapon table numbers.
 

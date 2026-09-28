@@ -44,7 +44,7 @@ Q = 3000 g × 3.5 J/(g·°C) × 20 °C = 210,000 J (~210 kJ)
 
 Q = 3000 g × 3.5 J/(g·°C) × 12 °C = 126,000 J (~126 kJ)
 
-These are whole-body totals. Per square meter of skin the values scale down to ~1.4 kJ (cold case) and ~0.83 kJ (hot case).
+These are whole-body totals. Per square meter of skin (1.65 kg/m²) the values scale to ~115.5 kJ (cold case) and ~69.3 kJ (hot case).
 
 ### Vibration / friction path
 

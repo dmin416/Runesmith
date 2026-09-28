@@ -156,16 +156,18 @@ Upgrade payback on the steel sword attack: Intermediate to Highest saves 75 mana
 
 ## Worked cases
 
+Totals use unrounded factors (shown here to enough decimals to reproduce by hand).
+
 | Case | Setup at L0 | Setup at L5 | Setup at L9 | Solo pour at L9 |
 |---|---|---|---|---|
 | Copper paddle firecracker (Lesser, C 1.00) | 1,000 | 500 | 100 | 5 min |
-| Steel sword mana blade (Lesser, C 1.41, M 1.22) | 1,732 | 866 | 173 | 9 min |
-| Card-size arrow (Lesser, C 1.15, O1 1.56, copper) | 1,795 | 897 | 179 | 9 min |
+| Steel sword mana blade (Lesser, C √2 ≈ 1.41421, M √1.5 ≈ 1.22474) | 1,732 | 866 | 173 | 9 min |
+| Card-size arrow (Lesser, C 1.15, O1 ≈ 1.56087, copper) | 1,795 | 897 | 179 | 9 min |
 | Common Fire Arrow scroll (Common, C 1.00) | 2,000 | 1,000 | 200 | 10 min |
-| Common fireball (C 1.18) | 2,352 | 1,176 | 235 | 12 min |
-| Siege engine at 125 kJ (Greater, C 1.17, copper) | 3,497 | 1,748 | 350 | 18 min |
-| Steam locomotive 10 min run (Grand, C 1.52) | 7,579 | 3,789 | 758 | 38 min |
-| Airship 8 h leg (Legendary, C 1.87) | 18,661 | 9,330 | 1,866 | 93 min |
+| Common fireball (C ≈ 1.176) | 2,352 | 1,176 | 235 | 12 min |
+| Siege engine at 125 kJ (Greater, C ≈ 1.1657, copper) | 3,497 | 1,748 | 350 | 18 min |
+| Steam locomotive 10 min run (Grand, C ≈ 1.5158) | 7,579 | 3,789 | 758 | 38 min |
+| Airship 8 h leg (Legendary, C ≈ 1.8661) | 18,661 | 9,330 | 1,866 | 93 min |
 
 ## Considerations
 

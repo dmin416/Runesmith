@@ -34,7 +34,7 @@ Chapter screens stay truth when numbers appear. Packages below are the rewrite p
 | 2 | L50 |
 | 3+ | Continues; midpoints can unlock further trials |
 
-Multiple past classes can sit on the sheet (primary / secondary / tertiary). Maxed lower-tier classes often go inactive once higher ones take the front.
+Multiple past classes can sit on the sheet (primary / secondary; maxed lower tiers often go inactive). There is **no Tertiary active slot**.
 
 **Secondary class (Chapter 17):** unlocking a second class lets you keep **one** prior class as secondary to retain its special effects (e.g. Mage mana pool / regen). Switch secondary **once per day**; no item required. Overall level is the shared sum (rewrite Ch 17: Mage L25 + Scribe L1 → overall L26; half-cut bank fills **739 / 13000**). Extra Tier 1 classes slow the shared bar further; most people avoid a third T1.
 
@@ -336,7 +336,7 @@ Attribute bonus from a skill = +1 × current skill level
 
 per favored attribute listed on that skill. When the skill gains a level, that attribute goes up by 1. Bonus equals the level on the skill card (Debugger L8 → Intelligence +8).
 
-Not every skill grants attributes. Identify, Analyze, Map Reading and Basic Mathematics show no attribute line at transfer. Mana Sense gains Intelligence (Chapter 4; L4 → +4 Int). **Sleep Resistance** grants **Vitality +1** and **Endurance +1** per level. **Basic Alcohol Resistance** grants **Endurance +1** per level. **Dance** grants **Agility +1**. **Pain Resistance** grants **Willpower +1** and **Endurance +1**. **Basic Taming** grants **Charisma +1**. **Multitasking** grants **Intelligence +1** and **Dexterity +1**. **Poison Resistance** grants **Vitality +1** and **Endurance +1**.
+Not every skill grants attributes. Identify, Analyze, Map Reading and Basic Mathematics show no attribute line at transfer. Mana Sense gains Intelligence and Willpower (Chapter 4; L4 → **+4 Int, +4 Will**). **Sleep Resistance** grants **Vitality +1** and **Endurance +1** per level. **Basic Alcohol Resistance** grants **Endurance +1** per level. **Dance** grants **Agility +1**. **Pain Resistance** grants **Willpower +1** and **Endurance +1**. **Basic Taming** grants **Charisma +1**. **Multitasking** grants **Intelligence +1** and **Dexterity +1**. **Poison Resistance** grants **Vitality +1** and **Endurance +1**. **Basic Acrobatics** grants **Agility +1**.
 
 **Transfer examples (bonus = level)**
 
@@ -361,6 +361,7 @@ Favored attributes for skills Roland trains in Chapters 4–7. Same +1 × level 
 | Basic Sprint | Vitality +1, Endurance +1 |
 | Basic Hand to Hand Combat | Strength +1, Vitality +1 |
 | Basic Climbing | Strength +1, Agility +1 |
+| Basic Acrobatics | Agility +1 |
 | Basic Throwing | Dexterity +1 |
 | Basic Sneaking | Agility +1 |
 | Basic Dodging | Agility +1 |

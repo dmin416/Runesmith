@@ -19,7 +19,7 @@ Passive. Increased proficiency in preparing food. +Dexterity and +Agility equal 
 
 ### Marksmanship
 First seen: Chapter 2
-Passive. Increased proficiency with aimed projectile weapons. +Dexterity equal to skill level. Roland’s transferred skill at **L7** from Earth firearms practice (monthly range + dry fire over ~10 years; see `Progression.md`). Analogue weapons in Caldris still unclear. Caps at L9 then evolves (not a forever single-track special).
+Passive. Increased proficiency with aimed projectile weapons. +Dexterity equal to skill level. Roland’s transferred skill at **L7** from Earth firearms practice (monthly range + dry fire over ~10 years; see `Progression.md`). Analogue weapons in Caldris still unclear. Caps at L9 then evolves. **Ladder exception:** transfer starts on the plain (Level 2) name with no separate Basic Marksmanship rung on his sheet; evolves Marksmanship → **Expert Marksmanship** only (2 rungs for him, not the usual 3).
 
 ### Expert Marksmanship
 First seen: Chapter 10 (Carwen grind evolve)
@@ -165,6 +165,10 @@ Passive. Faster run or sprint; less stamina cost. Attribute bonuses: Running **E
 First seen: Chapter 4
 Passive. Climb surfaces better. **Strength +level**, **Agility +level**.
 
+### Basic Acrobatics
+First seen: Chapter 4–5 (age-10 rewrite stack)
+Passive. Balance, rolls, landings and body control. **Agility +level**. Roland trains it on the estate drill loop (vaults, tree landings, dodge-adjacent footwork). Age-10 target **L3** so body AGI **17** + Climbing **9** + Sneaking **8** + Cooking **3** + Acrobatics **3** = displayed Agility **40**.
+
 ### Basic Sneaking / Sneaking
 First seen: Chapter 7
 Passive. Blend in; quieter footsteps. **Agility +level**. Chapter 23: evolves Basic → regular Sneaking; advanced form needs a Rogue-class path.
@@ -175,7 +179,7 @@ Passive. Thrown projectile. **Dexterity +level**. Unlocked with a rock and train
 
 ### Dodging / Basic Dodging
 First seen: Chapter 9.5 (Source first clear was Chapter 14 ambush)
-Passive. Helps evade attacks. **Agility +level**. Unlocks when he starts clearing swings on purpose in live fights. Climbs through Carwen goblin work (clubs, spears, lobbed rocks). Rewrite: **Basic Dodging** ends skip at **L6**; Ch 13 Floor-3 hits **Basic L9** and evolves to plain **Dodging**; Ch 14 ambush popup **Dodging L7**.
+Passive. Helps evade attacks. **Agility +level**. Unlocks when he starts clearing swings on purpose in live fights. Climbs through Carwen goblin work (clubs, spears, lobbed rocks). Rewrite: **Basic Dodging** ends skip at **L6**; Ch 13 Floor-3 half-year grind hits **Basic L9** and evolves to plain **Dodging**, then banks ranks off-page through that same Floor-3 stretch; Ch 14 ambush only shows the on-page popup at **Dodging L7** (not a same-scene L1→L7 jump).
 
 ### Basic One-handed Swordsmanship / Swordsmanship
 First seen: Chapter 3–4
@@ -274,7 +278,7 @@ Elemental destruction knowledge. Advanced forms unlock stronger spells.
 
 ### Basic Rune Mastery / Rune Mastery / Runic Mastery
 First seen: Chapter 16
-Comprehend runes. **Activation cost (locked):** **−10% MP to activate** runes / runic scrolls **per skill level**, **capped at −90%** (L9). L1 = −10%. Basic form covers **Lesser** only. Not a craft discount (that is **Runic Mana Scribe** class −3%/level while scribing, and later **Runecraft** for setup). Not a substitute for **Runecraft**. Chapter 17 rapier test: L1 cut shows on tip blast. Chapter 23: levels by **using** runic scrolls or runed weapons in combat (scrap Fire Arrow grimoire). Chapter 27: Roland at **L4**; out-of-combat casts (self/animals) do not level it; aims **L9** before Blacksmith for a possible special class.
+Comprehend runes. **Activation cost (locked):** **−10% MP to activate** runes / runic scrolls **per skill level**, **capped at −90%** (L9). L1 = −10%. Basic form covers **Lesser** only. Not a craft discount (scroll setup is **Basic Rune Scribing** −10%/level; item setup is later **Runecraft**; Runic Mana Scribe class eases learning only, no mana-cost term). Not a substitute for **Runecraft**. Chapter 17 rapier test: L1 cut shows on tip blast. Chapter 23: levels by **using** runic scrolls or runed weapons in combat (scrap Fire Arrow grimoire). Chapter 27: Roland at **L4**; out-of-combat casts (self/animals) do not level it; aims **L9** before Blacksmith for a possible special class.
 Rewrite: skills max at L9 then evolve. Evolved Mastery forms cover Common → Greater → Grand → Legendary (same −10%/level, −90% cap on that rank). Source ~1%/level discarded.
 
 ### Basic Runecraft / Runecraft
@@ -567,7 +571,7 @@ One named perk per core attribute at **40**. Cha/Luck out unless a later trait s
 | Vitality | Defiance of Years | Reduced aging | 40 |
 | Endurance | Rapid Renewal | Recovery speed | 40 |
 
-Also listed under `Attributes.md`. Roland holds all seven from Chapter 5 (age-10 Basics put Str/Agi/Vit/End at 40; Dex/Will/Int already above; Blessed unlocks with Mage L1).
+Also listed under `Attributes.md`. Roland holds all seven from Chapter 5 (age-10 Basics put Str/Agi/Vit/End at 40, with **Basic Acrobatics L3** covering the Agility pad gap; Dex/Will/Int already above; Blessed unlocks with Mage L1).
 
 ### Parallel Thinking / Multiple Mind(s)
 First seen: Chapter 148

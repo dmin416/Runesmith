@@ -249,6 +249,7 @@ Rewrite-only timeskip (~3 months). Source folds this into the opening of Ch 10 a
 - Five shops by sunset. Later contracts worse than Exeor (longer terms, quotas or fixed hours, no days off). Shops in cahoots; mats priced so only intermediate scrolls profit; academy kids get soft deals; solo acts get near slave labor. Breach curse: **−60% mana** until term ends. May forbid part-time / smith work.
 - Options weighed: leave city, dungeon-town side hustle (craft XP from kills is weak), hooded market peddle, or **auction** (anonymous). Marks **Libra Auction House** (scale sign; curvy elf barker; **2 SS** entry weeds window shoppers; day intake / night sale).
 - Inn practice: Mana Arrow regular scroll ~10 min → **+20 XP** (incantation + mana ink; Identify = name only). Fire Orb runic ~45 min → **+50 XP** (Debugger still shows red; needs practice). Five regular scrolls ≈ 100 XP vs one runic 50; schematics cover XP; gold plan = runic bundles of ten. Debugger blank on regular scrolls (different laws). Fire Orb works at **0%** fire affinity (anyone can fire scrolls). Supplies already cost a couple large silver.
+- **Later (open):** drawing / making **regular magic scrolls** is a different craft from **runic scrolls**. Need to learn and lock the difference (laws, skills, Debugger blank on word/incantation scrolls, materials, timing). See `Ideas.md` Open.
 - Decision: refuse six-year traps; practice runic scribing; auction tens. Party **10 SG** covers ~half year with no wages.
 
 ## Chapter 22

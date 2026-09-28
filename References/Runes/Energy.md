@@ -135,7 +135,7 @@ Adult man (S = 1, Rob = 1, a = 0.25, P = 2000):
 
 ## 5. Fire's Energy Is Not the Spell's Energy
 
-- 1 kg of dry wood holds about 16 MJ. A 150 mana spell through steel in open air outputs about 4.8 kJ, roughly 1/3300 of that.
+- 1 kg of dry wood holds about 16 MJ. A 150 mana spell through steel in open air outputs about **3.8 kJ**, roughly **1/4200** of that.
 - A fire spell is an ignition source. With fuel present the fuel's own energy follows and is not part of the spell. With no fuel the fire is capped by the spell's output.
 - Cost is never scaled by how energetic fire is in general.
 
@@ -216,19 +216,19 @@ Balanced split at the target:
 
 ### B. Sword explosive spell (150 mana, open air, gain 3)
 
-Feed line runs down the blade and the emitter sits at the tip where potential concentrates. The burst converts stored charge into a rapid discharge that heats and expands the air at the tip. Burst energy goes into the air. The blade takes strain from waste and heat from the retained half (1 kg blade at 490 J/K, no cooling).
+Feed line runs down the blade and the emitter sits at the tip where potential concentrates. The burst converts stored charge into a rapid discharge that heats and expands the air at the tip. Burst energy goes into the air. The blade takes strain from waste and heat from the retained half (1 kg blade at 490 J/K, no cooling). Input = **150 × 10 J/mana = 1,500 J** (locked standard).
 
 | Blade path | Efficiency | Output (gain 3) | Output sealed (gain 1) | Heat per cast | Casts to strain limit |
 |---|---|---|---|---|---|
-| Iron | 60 percent | 3375 J | 1125 J | 0.77 K | about 90 |
-| Copper | 80 percent | 4500 J | 1500 J | 0.38 K | about 370 |
-| Steel | 85 percent | 4781 J | 1594 J | 0.29 K | about 750 |
-| Dark steel | 88 percent | 4950 J | 1650 J | 0.23 K | about 1200 |
-| Mana steel | 92 percent | 5175 J | 1725 J | 0.15 K | about 3700 |
-| Mythril | 95 percent | 5344 J | 1781 J | 0.10 K | about 12,000 |
-| Adamantium | 98 percent | 5513 J | 1838 J | 0.04 K | about 60,000 |
+| Iron | 60 percent | 2700 J | 900 J | 0.61 K | about 120 |
+| Copper | 80 percent | 3600 J | 1200 J | 0.31 K | about 470 |
+| Steel | 85 percent | 3825 J | 1275 J | 0.23 K | about 930 |
+| Dark steel | 88 percent | 3960 J | 1320 J | 0.18 K | about 1,600 |
+| Mana steel | 92 percent | 4140 J | 1380 J | 0.12 K | about 4,700 |
+| Mythril | 95 percent | 4275 J | 1425 J | 0.08 K | about 15,000 |
+| Adamantium | 98 percent | 4410 J | 1470 J | 0.03 K | about 75,000 |
 
-- Strain limits a blade long before heat does. Iron reaches 190 K of heat after about 250 casts with no cooling and its strain limit is about 90.
+- Strain limits a blade long before heat does. Iron reaches ~190 K of heat after many casts with no cooling and its strain limit is about **120**.
 - A rounded or damaged tip concentrates less and weakens the burst. A film of blood or other mana material on the blade lowers surface resistance. Grip material sets how much flow passes from the wielder into the blade.
 
 ### C. Scroll that bursts into flame

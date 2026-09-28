@@ -18,15 +18,17 @@ Both place lasting effects on gear. Enchantments use a word-like language (Earth
 
 ## Ranks and grades
 
-Five main rune ranks (see `RuneSystem.md` for ceilings and score):
+Five main rune ranks (see `RuneSystem.md` for ceilings and score). **First-seen dates** are when the story names that band (exposition can name a higher rank before Roland can craft it).
 
-1. **Lesser Rune** - First seen: Chapter 13. Lowest main band. Basic Rune Mastery discounts this rank only. Basic Runecraft covers Lesser setup (`RuneSetup.md`).
+1. **Lesser Rune** - First seen: Chapter 12. Lowest main band. **Basic Rune Mastery** discounts **activation** on this rank only (−10%/level; not setup). Basic Runecraft covers Lesser setup (`RuneSetup.md`).
 2. **Common Rune** - First seen: Chapter 18. Mid rank above Lesser.
-3. **Greater Rune** - First seen: Chapter 17. High-tier; major study topic ("Greater Runes 101").
+3. **Greater Rune** - First seen: Chapter 17 (named in study before Common items appear on-page). High-tier; major study topic ("Greater Runes 101").
 4. **Grand Rune** - First seen: Chapter 38. Above Greater.
-5. **Legendary Rune** - First seen: Chapter 18. Top named rank.
+5. **Legendary Rune** - First seen: Chapter 18 (named before Grand craft is on-page). Top named rank.
 
 Each rank uses sub-grades (Lowest / Low / Intermediate / High / Highest). First seen: Chapter 2. Chapter 18: a Lesser rune at Highest is roughly comparable to a Common rune at Lowest (matches score s = 1 in `RuneSystem.md`). Highest on a Common sits near a jump into Greater (Chapter 22 Percival). Comet / shooting-star logo is Roland's early scroll brand.
+
+**Bracket quality on named items:** `[item craft quality, rune quality]` when two tokens appear (e.g. `[Intermediate, Highest]`). A single token is rune quality alone (e.g. `[Highest]` schematic). "High rune on crude iron" style prose is the same split.
 
 ## Named lesser and common runes
 
@@ -173,7 +175,7 @@ First seen: Chapter 403
 Temporary surface-inscription technique or product (see also Skills).
 
 ### Ethereal pathway
-First seen: Chapter 42
+First named: Chapter 42. First craft use: Chapter 49 (linking chisel-prepped steel parts on the pommel / plate work).
 Non-physical mana pathways linking complex rune networks.
 
 ### Rune array / rune formation

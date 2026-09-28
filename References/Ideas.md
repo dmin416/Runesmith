@@ -226,7 +226,7 @@ Mastery lets the holder **bypass filtration** and feed mana straight into the sp
 
 Crafting skill (Basic Runecraft and evolved forms) discounts **setup** only, same ladder, own rank only (`Runes/RuneSetup.md`). Mastery and craft skill stack independently.
 
-**Runic Mana Scribe class (locked):** **−3% mana cost to scribe** spells and runes **per class level** (L1 = −3%, L25 = −75%). Also raises mana regen. This is **craft** spend, not activation. **Basic Rune Mastery** is activation only (−10%/level).
+**Runic Mana Scribe class (locked):** increases mana regeneration; **eases learning while scribing** (narrative only: faster clean diagrams, fewer failed pours). **No mana-cost or output term** on the class card. Scroll craft cost discount sits on **Basic Rune Scribing** (−10%/level setup). **Basic Rune Mastery** is activation only (−10%/level).
 
 Source's ~1% Mastery per level is out.
 
@@ -471,4 +471,4 @@ See `Story/Notes/Early Logical Skills.md`. Short version: Basic Mathematics and 
 - Name and lock the Tier 2+ passive telekinesis / mage-hand skill above Mana Shaping (`Ideas.md` Systems).
 - **Goblin Hunter** unlock threshold: **1000** goblin kills (locked). Ch 9.5 grants it in month 3 once past **1000** into the skip; end skip at **1,481** Carwen kills / **1,569** lifetime; Ch 10 nest → **1,576** lifetime (`Experience.md`). Later Goblin Slaughterer may need its own kill or boss gate.
 - Ordinary-person skill list + L9 training times: `Progression/NormalPersonSkills.md` (through Expert; no system acceleration).
-- Future product line timing: soap / pins / matches (weeks 1–4) → cards / toilet paper + steel furnace (months 2–4) → printing press (months 4–8) → bicycle then ball pen (months 8–12+). Solo build order in `Ideas.md` Future products. Patents vs scribe / smith / chandler guilds after Albrook shop is stable.
+- **Regular vs runic scroll craft (open):** Drawing / making **regular magic scrolls** (incantation / word / mana-ink path) is different from **runic scrolls**. Ch 21 already shows Debugger blank on regulars and different laws; timings differ (~10 min Mana Arrow vs ~45 min Fire Orb runic). Still need to learn and lock the full difference (skills, process, what Drawing covers for each, Identify readout, materials). Not locked yet.

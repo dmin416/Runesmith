@@ -119,9 +119,9 @@ Copper (η 0.80), open air (G 3). Clean linear baseline yield: **24 J** per mana
 - Lesser Lowest (s 0): η_eff 0.128. Yield 3.8 J with 8.7 J waste. The 10 J ceiling is reached at about 2.6 mana.
 - Lesser Highest (s 1): yield 24 J with 2.0 J waste. The 1 kJ ceiling is reached at about **42 mana**.
 - Common Highest (s 2), T 1: η_eff 0.825. Yield 28.9 J with 1.75 J waste.
-- Legendary Highest (s 5), T 1: η_eff 0.90. Yield 45 J (1.88x vs sealed path) with 1.0 J waste.
+- Legendary Highest (s 5), T 1: η_eff 0.90. Yield 45 J (**1.88× vs open-air Lesser Highest baseline of 24 J**) with 1.0 J waste.
 - Legendary Highest, T 0.5: yield 36 J.
-- Legendary Highest, sealed space (G 1): yield 9 J from the turbo alone.
+- Legendary Highest, sealed space (G 1): yield 9 J from the turbo alone (**5×** below the open-air Legendary Highest yield).
 
 ### Same attack, same size
 

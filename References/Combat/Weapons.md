@@ -14,7 +14,7 @@ Design notes for blades and loadouts. Hardness / pierce gates for tips stay in `
 ### Fix: move it to the front guard
 
 - Replace the front disc with short quillons and add a side ring or a forward-curved hook
-- Keep the rear pommel disc for palm-driven thrusts against armor
+- Keep the rear pommel disc for palm-driven thrusts against armor (unchanged by this fix; only the front disc is replaced)
 - Result: parries and binds like a main gauche while keeping the rondel's rigid armor-piercing blade
 
 ## Side sword with a triangular blade
@@ -38,14 +38,7 @@ Design notes for blades and loadouts. Hardness / pierce gates for tips stay in `
 - Holds an edge longer and resists bending or snapping on hard parries
 - Does not fix bad geometry; the cross-section still decides whether it cuts
 
-## Final combo rating
-
-| Setup | Rating |
-|---|---|
-| As described (pommel hook, triangular blade) | 7.5 |
-| With front hook and diamond blade | 9 |
-
-The corrected pair covers reach, thrusting, cutting, off-hand defense, blade binding and armored grappling. That is about as complete as a two-blade loadout gets.
+The corrected pair (front hook, diamond blade, pommel disc retained) covers reach, thrusting, cutting, off-hand defense, blade binding and armored grappling.
 
 ## Steel wand-club + rondel (same user)
 

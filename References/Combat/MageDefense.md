@@ -107,6 +107,8 @@ These are solved by how the mage fights. They are not reasons the physicalist wi
 
 # 3x Everything (Same Weight) vs Meaningful Attacks
 
+This section means **3× strength and tissue at baseline (1×) speed**, not 3× agility. Strength is linear-ish: output and metabolic cost scale about **1:1** with the strength multiplier at fixed speed. Agility / attack speed uses the kinetic-energy tables above (2× speed ≈ **4×–8×** energy, 3× speed ≈ **9×**). Do not price a speed-multiplied attacker with the flat **3×** stamina line here.
+
 Mostly yes. **3x** tissue strength moves breach thresholds by **3x** while real attacks sit **10 to 300x** above them so the body still gets pierced. The difference is depth and survivability.
 
 ## Breach check
@@ -143,7 +145,7 @@ Energy per stroke is **3x** so speed for the same moving mass is **√3 ≈ 1.7x
 ## Against earlier matchups
 
 - A **3x**-tissue defender against the **2x** speed and **2x** strength attacker still takes **400 N** thrusts through skin but each thrust reaches roughly a third of baseline depth.
-- The stamina attrition plan is unchanged because **3x** energy output also costs **3x** metabolic power at the same efficiency.
+- At **3× strength / tissue and 1× speed**, stamina attrition stays about **3×** metabolic cost for **3×** energy output. A **3× speed** version of that attacker is a different case: apply the squared / cubed speed cost from the Attack speed tables, not this flat **3×**.
 
 ## Where 3x fails completely
 

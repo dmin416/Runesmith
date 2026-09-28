@@ -65,7 +65,7 @@ Chapter 8–9: small walled town (monster defense). Gate fee 5 large copper; adv
 
 ### Carwen inn
 First seen: Chapter 9
-Cheap inn where Roland eats his first town meal and later rents a room upstairs during the Ch 9.5 goblin grind (present day in Chapter 10). Large waitress in festival-style wench dress; muscular one-eyed scarred bartender. Bard with lute. First meal: porridge + grilled meat for **5 large copper** (bland; porridge alone would be **2 LC**). Lodging quote **1 small silver**/night; +**5 large copper** breakfast; monthly ~**10%** off in Ch 9 (**28** × 1 SS = **280** → **252 LC**); Ch 13 quote ~**5%** after haggling (**~266 LC**). Keepers named Hilde (bar lady) and Boris (bartender husband).
+Cheap inn where Roland eats his first town meal and later rents a room upstairs during the Ch 9.5 goblin grind (present day in Chapter 10). Large waitress in festival-style wench dress; muscular one-eyed scarred bartender. Bard with lute. First meal: porridge + grilled meat for **5 large copper** (bland; porridge alone would be **2 LC**). Lodging quote **1 small silver**/night; +**5 large copper** breakfast; monthly ~**10%** off in Ch 9 (**28** × 1 SS = **280** → **252 LC**); same **10%** / **252 LC** through Ch 13 (Source **5%** / **~266 LC** discarded; see `Economy.md`). Keepers named Hilde (bar lady) and Boris (bartender husband).
 
 ### Carwen dungeon
 First seen: Chapter 10 (entry planned; first delve Chapter 11)
@@ -149,7 +149,7 @@ Albrook poultry restaurant. Commoner kitchens lean on **salt** (and cheap local 
 
 ### Albrook auction house
 First seen: Chapter 73 (under renovation)
-Not open yet; adventurers still forced to sell through the guild until it finishes.
+Not open yet in Ch 73; adventurers still forced to sell through the guild. Opens Chapter 74 (paddle fee and music-box starting bid land there; see `Economy.md`).
 
 ### Luden
 First seen: Chapter 56 (named; destination)
