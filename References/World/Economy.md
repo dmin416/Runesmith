@@ -433,6 +433,8 @@ Independent scribe income: roughly 10 scrolls/week ~ 1 SG. Platform/shop cuts va
 
 Dungeon materials (tusks, spikes, leather, herbs) are worth carrying out; most monster meat isn't (tough, bad taste, usually left behind) - boar-type and deer-type monsters are the exception and are worth hauling out like real game. Only dead bodies can go in a bag; living beings cannot. Bags do not nest (repel).
 
+**Narrative lock:** space-law item. Fixed grade volume. Strap weight is light. Living beings blocked. No freight physics. Bags are personal / party pockets (rare and pricey); wagons, convoys and trains still move bulk. Do not write bag-trains, nested fleets or mine-in-a-pocket exploits.
+
 ### Cost ↔ capacity scale (locked)
 
 Canon anchors (Ch 11):

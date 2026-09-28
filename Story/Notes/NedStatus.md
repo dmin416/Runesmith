@@ -123,7 +123,9 @@ Roland on schematics / class change / parting. Ned mostly scarf + room drills + 
 
 ## Chapter 19 (Edelgard train week)
 
-Moving echolocation target under seats / rack / panels. Daily **Roland** blood drip continues and **extra** from pokes / missed needles (paid from Roland’s rising Recovery, not free). Shallow intentional **nibbles / tip-pokes** on Roland’s forearm and hand. **Needle-catch drill:** short launches at Roland; he eyes-shut locates on soft clicks, catches and **feeds the tip back into Ned’s mouth** (spent needle nutrients → new growth). Soft cabin volume; not full charge shots. Almost no Spring Charge room. Mana drills are Roland’s; Ned levels off launches, hide work, seal/tip wear and eating.
+Moving echolocation target under seats / rack / panels. Daily **Roland** blood drip continues and **extra** from pokes / missed needles (paid from Roland’s rising Recovery, not free). Shallow intentional **nibbles / tip-pokes** on Roland’s forearm and hand. **Needle-catch drill:** short launches at Roland; he eyes-shut locates on soft clicks, catches and **feeds the tip back into Ned’s mouth** (spent needle nutrients → new growth). Soft cabin volume; not full charge shots. Almost no Spring Charge room.
+
+**Shared thermal / pain / seal drills:** Roland puts the same heat/cold mana patches on Ned’s plates and soft segments (scarf-line first made Ned flinch; intensity dialed to real tissue response without wrecking the worm). Burns, frost and tip/harvest nicks feed **Pain**, **Heat**, **Cold** and **Seal / Regeneration** in lockstep with Roland’s grill week (`Skills.md` Ch 19). Mana shaping stays Roland’s; Ned levels off launches, hide work, shared trauma and eating.
 
 **Form:** Greater Needle Worm (T2)  
 **Overall:** **26** (keeps pace with Roland **L26**; blood/eat XP does not invent a separate curve)  
@@ -159,8 +161,11 @@ Luck                   7
 | Silk Production | **L5** | **L5** | Light lines only after Ch 16 hold; holds L5. |
 | Stealth / Camouflage | **L6** | **L7** | All-week hide spam as echolocation target (seat / rack / panels). |
 | Spring Charge | **L6** | **L6** | Cabin has no charge lane; holds L6. |
-| Seal / Regeneration | **L5** | **L6** | Needle harvest nicks + tip wear from pokes / launches clears L6. |
+| Seal / Regeneration | **L5** | **L9** | Shared burn/frost/knit + tip wear / harvest nicks; parallel to Roland **Recovery L5→L9**. |
 | Poison Resistance | **L5** | **L5** | Mostly known family / own toxin (soft repeat); near L6, not over. |
+| **Pain Resistance** | — | **L8** | Shared grill sting + tip wear + poke feedback; parallel to Roland **Pain L1→L8**. |
+| **Heat Resistance** | — | **L6** | Daily hot patches on plates/segments; parallel to Roland **Heat → L6**. |
+| **Cold Resistance** | — | **L6** | Daily frost patches (scarf flinch → controlled dose); parallel to Roland **Cold L1→L6**. |
 
 No skill evolutions. **Rapid Regeneration** (Seal evolve) stays later with Roland’s **Rapid Recovery** window (~**2 years**), not this week.
 

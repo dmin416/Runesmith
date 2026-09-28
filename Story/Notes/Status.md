@@ -495,7 +495,7 @@ No full status screen. Parting bag confirmed at **10 small gold**. Gains **1000 
 
 **Rewrite:** inherits Ch 17 rewrite. Pouch framing: parting bag **10 SG** (`Status.md` lock).
 
-**Ned:** overall **26** / **4x** Greater. Train exit skills: Spike **L7**, Silk **L5**, Stealth **L7**, Spring Charge **L6**, Seal **L6**, Poison Resistance **L5** (`NedStatus.md`).
+**Ned:** overall **26** / **4x** Greater. Train exit skills: Spike **L7**, Silk **L5**, Stealth **L7**, Spring Charge **L6**, Seal **L9**, Poison Resistance **L5**, Pain **L8**, Heat **L6**, Cold **L6** (`NedStatus.md`).
 
 ## Chapter 20
 

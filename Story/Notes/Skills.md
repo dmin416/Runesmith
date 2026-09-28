@@ -557,7 +557,7 @@ Field-use curve (`Levels.md`): cum clean uses to reach L = **1 / 10 / 50 / 155 /
 
 **Thermal pace (regen-capped + Recovery):** enter Rec **L5**. Cycle time pressed toward the mana period with potion assist when flesh lags (roughly **~1–1.5 min/cycle** early, faster as Recovery climbs). Harder per-cycle trauma than the old gentle grid. ~**1240** burn/frost/knit cycles over the week (day path roughly **146 → 156 → 165 → 187 → 192 → 199 → 199**).
 
-**Ned assist:** shallow intentional nibble / tip-poke on forearm or hand between grill squares (toxin prick). **Needle-catch drill:** Ned short-launches a spent/regrown tip at Roland; Roland eyes shut, locates on soft clicks only, catches, feeds the needle back into Ned’s mouth (spider-web recycle). Misses sting and count for Pain / Recovery / Poison. Same Needle Worm toxin family (soft repeat credit). Blood is **Roland’s**: usual drip plus **extra** from pokes/misses, paid out of rising Recovery restore (not free).
+**Ned assist:** shallow intentional nibble / tip-poke on forearm or hand between grill squares (toxin prick). **Needle-catch drill:** Ned short-launches a spent/regrown tip at Roland; Roland eyes shut, locates on soft clicks only, catches, feeds the needle back into Ned’s mouth (spider-web recycle). Misses sting and count for Pain / Recovery / Poison. Same Needle Worm toxin family (soft repeat credit). Blood is **Roland’s**: usual drip plus **extra** from pokes/misses, paid out of rising Recovery restore (not free). **Ned shared grill:** same heat/cold patches on Ned’s plates/segments → Ned **Pain L8**, **Heat L6**, **Cold L6**, **Seal L5→L9** (his Recovery parallel); Spike **L7**, Stealth **L7** (`NedStatus.md`).
 
 | Skill | Enter | Exit | Why |
 |---|---|---|---|

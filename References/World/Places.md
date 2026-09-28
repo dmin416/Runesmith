@@ -77,7 +77,17 @@ Carwen tavern. Hard liquor only (below 20% frowned on). Site of Roland's first d
 
 ### Edelgard
 First seen: Chapter 10 (named as goal); arrives Chapter 19
-Crafting-focused mountain city with mines, gorge bridges and heavy dwarf/gnome presence. Rock and brick buildings; little wood. No local dungeon. Goods ship to adventurer towns like Carwen. Craftspeople prefer it over living next to an active dungeon. Adventurers work as hired muscle and wild-monster clearers. Climate colder / autumn-like at altitude. Roland picks it for Blacksmith / Scribe apprenticeship facilities. Guild sells city maps with a **5%** Steel-rank discount. Chapter 25: merchant **council** of top store/smith owners meets every three months; recruits promising talent or crushes independent upstarts.
+Crafting hub built into a large mountain in a rocky high-altitude range. Roland picks it for Blacksmith / Scribe facilities over dungeon towns.
+
+**Weather / climate (Ch 19):** Caldris lowlands are temperate grass and forest. Inland altitude turns colder and autumn-like. Wind moves inn signs hard enough to notice. Chimney and mine smoke sit over the city.
+
+**Look:** Train arrives over a large gorge bridge linking two city parts (fall = death). Mine shafts show in the background with smoke. Outside the station: rock and brick houses dominate; wooden structures are rare. Dark rocky roads. Robust dwarf-heavy streets; gnomes common (tinkerers: magical trains, intricate machinery, trinkets and magical accessories; dwarves lean heavy weapons/armor). Guild layout similar to Carwen but packed with short races so a short robed youth draws little notice.
+
+**Natural resources:** Mountain mines feed the smith trade (why the city is known for blacksmiths). Ore and crafted goods ship out to adventurer towns like Carwen. No local dungeon; wild monsters still appear and need clearing.
+
+**Economy:** Larger city than Carwen: inn rates run higher; people earn more. Scroll / scribing shops sell one-use magic to adventurers. Solo scroll sales look hard without a shop job. Class-change stones come from churches (Solaria and others); multiple producers keep prices from spiking though stones stay pricey. Guild city map: Steel rank **5%** discount. Chapter 25: merchant **council** of top store/smith owners meets every three months; recruits promising talent or crushes independent upstarts.
+
+**Adventurers:** Guild still runs without a dungeon. Job board work is mostly hired muscle: bouncers, guards and clearing wild monsters that show up. Not a delve hub.
 
 ### The Singing Crow Inn
 First seen: Chapter 19

@@ -4,6 +4,8 @@ Roland’s first tamed companion. Named **Ned**. Core-bearing Floor-2 **Needle W
 
 ## Diet (Ch 13 half-year)
 
+**Narrative lock (eating Roland / any flesh):** Ned breaks everything he eats down into **pure magic**, then rebuilds whatever his body wants with **magic biology**. Do not run human digestion / pathogen / species-match science on Roland’s blood or flesh. Questionable areas default to this.
+
 Eats various **leaves** and discarded **monster parts**. Hides a preferred leaf stash: those leaves are a **mild poison source** (weaker than his spikes) with a vibrant refreshing aroma like **parsley** (**parsleaves**). Roland samples one afternoon and locks that link. Besides occasionally harvesting Ned’s ever-growing **needles** and **blood**, Roland also **dries and stockpiles** parsleaves. After Roland harvested Ned’s blood for BBQ seasoning, Ned pressed to know why; Roland started feeding him small drips of his own blood via Mana Hands (Ch 13). Ned does not taste like a humanoid: he mainly senses how much power the flesh holds and the experience it grants. Monsters can level by eating (unlike humanoids who need actions); that feeds their presence and faster climb. Roland only feeds his blood in-room (**150 mL**/day whole blood, about **5 oz**); he uses Ned’s blood and needles as seasoning and keeps the skill-leveling cheat quiet. Worm blood is armpit-smelling but incredibly nutrient-rich even when Ned only ate magic stones; Roland extracts as much as he wants comfortably. That **150 mL** is total volume (plasma + cells). At ~40–45% hematocrit it is only **~60–70 mL** of red cells, which sits inside Ch 13 rewrite daily RBC restore (**50–83 mL**/day; `../Progression/Attributes.md`). Plasma side refills in hours at his M. Sleeps with Ned as a cool ectothermic pillow. He talks to Ned as an outlet for self-talk: future plans, skill thought process, training ideas (sneaking, throwing, adapting, healing and more). Dislikes bark-colored **Needle Moths**; shows Ned how weak that evolution line is while feeding him poisonous wings and occasionally stones. Drills the vision: speed, penetration, toughness, recovery, poison, stealth, ranged attack. After taming, Ned can pass **stair throats** (wild monsters cannot); strangers assume a Floor-2 trophy scarf and Roland never corrects them. Once strong enough, Ned solo-hunts dungeon rats and other Needle Worms; monsters cooperate in packs but also fight each other for strength.
 
 Design below is the charging-caterpillar write for Ned (Earth biomechanics anchors for skin, spring and toxins). Map to Caldris; do not paste Earth taxonomies into prose as if they are local.
@@ -78,6 +80,7 @@ How Roland steers Ned’s loadout as he levels. Not automatic freebies; practice
 - **Throwing:** Practice hurling spikes and rocks → ranged needle launch / improvised rock throw accuracy and force.
 - **Stealth:** Focus on staying hidden → camouflage (leaf-green blend, stillness, ambush timing).
 - **Poison:** Eat more poisons and foreign spikes / venoms → broader toxin repertoire and **Poison Resistance** (he is already immune to his own).
+- **Pain / Heat / Cold / Seal:** Shared with Roland’s exposure drills (Ch 19 train grill on plates/segments). Seal is Ned’s **Recovery** parallel; Pain / Heat / Cold dose-gate like Roland’s resistances.
 - **Attack build:** Push harder spikes, faster regeneration, and higher durability so charges and needle strikes hit harder and recover between fights.
 
 ### Fastest recovery (seal first)
@@ -115,6 +118,51 @@ Roland blood restore (rewrite Vit **47** / End **53**, **M = 3.33**): `../Progre
 
 Scaled by body mass, caterpillars replace circulatory fluid faster and with less of a cellular bottleneck than humans. After seal, Ned’s open hemolymph bath refill is **hours**, not weeks. Harvest cuts for seasoning / Seal skill drills stay small vs the **1.5–2.5 L** tank.
 
+### Hemolymph as food (human-scale complete)
+
+Flavor and feel anchors for why Ned’s blood works as food / seasoning. **Not rigorous science.** Gaps and “how did Roland’s blood become worm tissue” default to the Diet lock: eat → pure magic → rebuild what he wants.
+
+Real insect hemolymph already covers part of the requirement. Design task: fill the gaps and remove what would harm a consumer. Roland’s seasoning / drip use rides on this once the magical fixes are in (diet + Ned’s body work).
+
+**Already present in natural hemolymph**
+- Free amino acids at very high concentration (proline, glycine, alanine and glutamine dominate)
+- Trehalose as the circulating sugar (splits into two glucose on digestion)
+- Lipids carried by lipophorin, mostly as diacylglycerols
+- Sterols moved around the body (insects cannot make cholesterol themselves)
+- Water content roughly **85 to 90%**
+
+**Macronutrient adjustments (human-scale target)**
+- Energy density about **1 to 1.5 kcal/mL** so roughly **1.5 to 2 L** covers a day (natural hemolymph is far thinner)
+- Protein near **3.5 to 5%** with all nine essential amino acids (lysine, methionine and tryptophan are the usual shortfalls)
+- Fat about **3 to 4%** including linoleic and alpha-linolenic acid; EPA / DHA need a magical source
+- Carbohydrate from trehalose at **10 to 15%**
+
+**Vitamins insects do not supply**
+- **B12:** insects do not make it. Cobalamin-producing gut symbionts (dedicated colony gland)
+- **D:** insects use ecdysteroids instead. Sunlight or mana-driven conversion of ergosterol / 7-dehydrocholesterol into D3
+- **A, E, K and C:** diet-derived; active sequestration into hemolymph (carotenoids and tocopherols ride lipophorin)
+- **Folate, choline and remaining B vitamins:** usually present in small amounts; boost only
+
+**Mineral corrections**
+- Herbivore hemolymph runs high K / Mg / phosphate and low Na / Ca (opposite of human need)
+- Target about **0.5 g/L** calcium and **0.7 to 1 g/L** sodium at **2 L/day** intake; pull K and Mg down
+- Iron, zinc, copper, selenium and iodine need a sequestration organ (ferritin-bound iron avoids free-iron toxicity)
+
+**Remove or suppress**
+- **Phenoloxidase cascade:** air exposure melanizes and clots (black, gummy). Inhibitor or magical stasis keeps it liquid and palatable
+- **Ecdysteroids and juvenile hormone:** filter out or keep at trace
+- **Uric acid and urates:** nitrogen waste
+- **Sequestered plant toxins:** alkaloids / glycosides from diet excluded
+
+**Minimum magical mechanisms (Ned complete)**
+1. Protein-balancing process (amino acid ratio)
+2. Symbiont gland for B12
+3. Light or mana pathway for vitamin D
+4. Calcium reservoir plus sodium-concentrating organ
+5. Stabilizer that prevents melanization
+
+With those five, remaining gaps are small enough for the grub’s diet to cover.
+
 # Ned skill leveling model (revised)
 
 Skills cap at **L9**. Filling the L9 bar triggers a **skill evolution** instead of L10. Progress counts **actions**, not hours.
@@ -147,10 +195,14 @@ Skills cap at **L9**. Filling the L9 bar triggers a **skill evolution** instead 
 | Spring Charge | One full coil and release | Strength | 1.15 | 4.10 |
 | Seal / Regeneration | One wound sealed | Vitality | 1.29 | 4.65 |
 | Poison Resistance | One dose ingested or exposure survived | Vitality | 1.29 | 4.65 |
+| Pain Resistance | One real pain dose survived (burn, frost, nick, impact) | Willpower + Endurance | 1.0 | 3.6 |
+| Heat Resistance | One real heat / burn exposure survived | Vitality + Endurance | 1.29 | 4.65 |
+| Cold Resistance | One real cold / frost exposure survived | Vitality + Endurance | 1.29 | 4.65 |
 
 - **Spring Charge** is throttled by the ~12 s reload and by muscle cost, so practical volume is a handful per day.
-- **Seal / Regeneration** is bottlenecked by injury supply. Roland's needle and blood harvesting gives small controlled wounds that feed it safely.
+- **Seal / Regeneration** is bottlenecked by injury supply. Roland's needle and blood harvesting gives small controlled wounds that feed it safely. Train week: shared heat/cold grill trauma feeds Seal the same way Roland’s **Recovery** climbs.
 - **Poison Resistance** is exposure-gated. Repeat doses of a toxin already mastered count at **0.25**, and each new toxin eaten counts at **5x** for its first dose.
+- **Pain / Heat / Cold** are dose-gated like Roland’s resistances. Same-family repeats slow after the first days. Ch 19: Roland grids Ned on purpose (controlled patches on plates/segments).
 
 ## Ch 13 half-year projection (~180 days)
 
@@ -165,7 +217,7 @@ Locked in `Story/Notes/NedStatus.md`. Exit overall **~25** / **~3x**, still Need
 | Seal / Regeneration | 14 (2 harvest cuts + 6 combat wounds) | 2,520 | 1.75 | 4,410 | **L5** |
 | Poison Resistance | 12 (6 real doses) | 2,160 | 1.75 | 3,780 | **L5** (L4 if poison variety stays low) |
 
-**Ch 14–19:** Greater **4x** aptitude surge + Carwen closeout + train hide / poke / **needle-launch catch** week → exit Spike **L7**, Silk **L5**, Stealth **L7**, Charge **L6**, Seal **L6**, Poison **L5** (`NedStatus.md`).
+**Ch 14–19:** Greater **4x** aptitude surge + Carwen closeout + train hide / poke / **needle-launch catch** week + **shared Pain / Heat / Cold / Seal** grill → exit Spike **L7**, Silk **L5**, Stealth **L7**, Charge **L6**, Seal **L9**, Poison **L5**, Pain **L8**, Heat **L6**, Cold **L6** (`NedStatus.md`).
 
 ## Skill evolution at L9
 
@@ -179,6 +231,9 @@ Filling the L9 bar (**28,500 effective actions**) evolves the skill. The evolved
 | Spring Charge | rapid spring or recovery or Piercing Charge |
 | Seal / Regeneration | Rapid Regeneration |
 | Poison Resistance | Toxin Immunity (extends to foreign toxins) |
+| Pain Resistance | (higher pain tree; later) |
+| Heat Resistance | (higher heat tree; later) |
+| Cold Resistance | (higher cold tree; later) |
 
 **Estimated time to evolve** at the daily rates above with average aptitude rising through the ramp:
 
