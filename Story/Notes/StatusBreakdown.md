@@ -250,20 +250,20 @@ Enter Ch 13 as post–Ch 12 stack still **Mage L20**, then **+5** Mage packages 
 
 **Class L20→L25:** Int **+5**, Will **+5**.
 
-**Ch 13 skill pads:** Sword **L1→L4** Str **+3**; Dodging tree Agi **+9** (Basic **L6→L9** + **Dodging L1→L6**); Sneaking **L1→L3** Agi **+2**; Throwing **L1→L3** Dex **+2**; Incantation **L6→L8** Int **+2** Will **+2**; Alcohol **L1→L4** End **+3**.
+**Ch 13 skill pads:** Sword **L1→L4** Str **+3**; Dodging tree Agi **+9** (Basic **L6→L9** + **Dodging L1→L6**); Sneaking **L1→L3** Agi **+2**; Throwing **L1→L3** Dex **+2**; Incantation **L6→L8** Int **+2** Will **+2**; Alcohol **L1→L4** End **+3**; Poison **L1→L6** Vit **+5** End **+5**; Recovery **L1→L5** Vit **+5** End **+5**.
 
 | Bucket | STR | AGI | DEX | VIT | END | INT | WILL | CHA | LUCK |
 |---|---|---|---|---|---|---|---|---|---|
 | Body | 15 | 17 | 16 | 14 | 13 | 18 | 25 | 7 | 7 |
 | Class (Mage L25) | 0 | 0 | 0 | 0 | 0 | 25 | 25 | 0 | 0 |
-| Skills/Traits | 32 | 44 | 41 | 33 | 39 | 94 | 85 | 5 | 0 |
-| **Total** | **47** | **61** | **57** | **47** | **52** | **137** | **135** | **12** | **7** |
+| Skills/Traits | 32 | 44 | 41 | 43 | 49 | 94 | 85 | 5 | 0 |
+| **Total** | **47** | **61** | **57** | **57** | **62** | **137** | **135** | **12** | **7** |
 
-HP = 470 + 156 = **626**.
+HP = 570 + 186 = **756**.
 MP = ((137×10)+(135×4)) × 1.50 = 1910 × 1.50 = **2865** (Mage L25).
-SP = 520 + 141 + 183 = **844**.
+SP = 620 + 141 + 183 = **944**.
 
-**Ch 14:** **Dodging L6→L7** mid-chase (**Agi +1**). Sheet **47/62/57/47/52/137/135/12/7**; SP **847**.
+**Ch 14:** **Dodging L6→L7** mid-chase (**Agi +1**). Sheet **47/62/57/57/62/137/135/12/7**; SP **947**.
 
 Pouch at `"*Not bad.*"`: **11,641 LC** (`Experience.md`). Skill ranks and kill slate: `Skills.md` / `Experience.md`.
 

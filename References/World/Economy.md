@@ -501,7 +501,7 @@ Hangover potions and **healing / recovery potions** both exist and are in circul
 
 These sit a full order of magnitude above the job-board economy in Sections 9-10; treat them as rare narrative spikes, not a wage rate.
 
-Ch 17 assassin loot: gear + spatial bag sell for **over 20 SG** total; Roland already held ~**15 SG** from prior sales; girls receive **+5 SG**; Reyna keeps throwing daggers. No red-seal letters in the bag.
+Ch 17 assassin loot: gear + spatial bag sell for **over 20 SG** total; Roland already held ~**15 SG** from prior sales; girls receive **+5 SG**; Reyna keeps throwing daggers. No red-seal letters in the bag. Roland shows the party **Edelgard** on a map before leaving alone.
 
 ---
 

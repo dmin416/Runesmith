@@ -74,6 +74,7 @@ Multi-mind processing Roland relies on for complex runework.
 First seen: Chapter 12
 Gained while holding multiple **Mana Hands** over a cook fire (eight skewers). Lets him split attention across concurrent actions. Roland does not notice the unlock on-page. Hard cap **L9** until first T2 class.
 **Attribute bonus:** Intelligence +1 per level, Dexterity +1 per level.
+**Ch 19 week:** **L1 → L8** on continuous click+locate+Ned track/poke/needle-catch **and** regen-capped grill (`Story/Notes/Skills.md`).
 
 ### Basic Taming
 First seen: Chapter 12
@@ -104,16 +105,36 @@ Writing skill. Roland takes calligraphy books when leaving Arden. Grinds months 
 
 ### Sleep Resistance
 First seen: Chapter 2
-Passive. Needs less sleep; less fatigue. **Vitality +1 per level**, **Endurance +1 per level.** Transfer **L4** → Vit **+4** / End **+4**. Chapter 12: climbs **L4 → L5** after the Iron Flagon binge. Chapter 19: keeps him awake through a week-long train ride. Chapter 23: levels once during ~half year of inn-room scribing (one meal/day routine).
+Passive. **Each level: −10% sleep needed** vs a normal full night (additive off 100%). Soft fatigue cut scales with that. Still collapses if he pushes past the remaining need for long.
+
+| Level | Sleep needed |
+|---|---|
+| L1 | 90% |
+| L4 (transfer) | 60% |
+| L5 | 50% |
+| L9 | 10% |
+
+**Vitality +1 per level**, **Endurance +1 per level.** Transfer **L4** → Vit **+4** / End **+4**. Chapter 12: climbs **L4 → L5** after the Iron Flagon binge. Chapter 19: keeps him awake through a week-long train ride. Chapter 23: levels once during ~half year of inn-room scribing (one meal/day routine).
+
+### Sleep Immunity (evolve)
+Evolves from Sleep Resistance at **L9** when the story timing fits (Source: with first T2 / heavy all-nighter stretch ~Ch123). Same rule: **−10% sleep needed per level** vs baseline, continuing until the floor of **1% of normal sleep** (about one full night every hundred days). Attribute pads stay **Vit +1 / End +1** per level. Not true zero-sleep; short naps still help when near the floor.
 
 ### Alcohol Resistance / Basic Alcohol Resistance
 First seen: Chapter 12
-Passive. First gained as Basic Alcohol Resistance after forced tavern drinking with Becky / Sahildr / Reyna. **Endurance +1 per level.** Suggests other resistances can unlock via similar exposure (Roland considers mild poison later). Hangover potions exist in town; he skips them as too costly. Party girls recover overnight (built-up Alcohol Resistance).
+Passive. First gained as Basic Alcohol Resistance after forced tavern drinking with Becky / Sahildr / Reyna. **Endurance +1 per level.** Suggests other resistances can unlock via similar exposure (Roland considers mild poison later). Hangover potions exist in town; he skips them as too costly. Party girls recover overnight (built-up Alcohol Resistance). Same family as the other body resistances: soft −% intoxication / hangover severity is fine later if a scene needs it; not locked here yet.
 
-### Poison Resistance / Basic Poison Resistance
+### Poison Resistance / Basic Poison Resistance (toxin)
 First seen: Chapter 12
-Passive. Unlocks when Roland eats Needle Worm blood and crunches needle spikes for the cumin / red-pepper spice. Popup ignored on-page while he Mana Senses for a core-bearing worm to tame. Hard cap **L9** until first T2 class.
+Passive. Covers **poison and toxin** (venom, food toxin, spore, gas) as one track. Unlocks when Roland eats Needle Worm blood and crunches needle spikes for the cumin / red-pepper spice. Popup ignored on-page while he Mana Senses for a core-bearing worm to tame. Hard cap **L9** until first T2 class.
+
+**Each level: −10% poison / toxin effect** (damage, duration, status strength) vs an unresisted dose of the same type. Additive off 100%. L1 = 90% effect … L9 = 10% effect. Does not erase the dose; a strong enough hit still lands through the remainder.
+
 **Attribute bonus:** Vitality +1 per level, Endurance +1 per level.
+
+**Early grind lock:** Ch 12 unlock **L1**. Daily Ned needles / green blood seasoning / parsleaves for the Carwen half-year plus the week to Edelgard (~**187** days, ~6 months + 1 week). Same toxin family, but daily intentional food doses. Pace beats Alcohol’s social **L1→L4** in the same stretch. Exit **Poison Resistance L6** into the train (40% of an unresisted Needle Worm dose still lands; numb/spice flavor can remain). **Ch 19:** shallow Ned tip-pokes / nibbles on the train (same family, soft repeat credit) → **L7**. Vit/End pads **+5** from L1→L6 on top of the unlock, then **+1** on the train. Other toxin types still want their own first exposures for full credit.
+
+### Poison Immunity (evolve)
+Evolves from Poison Resistance at **L9** when timing fits. Same **−10% per level** vs baseline, continuing until the floor of **1% effect** (near-ignore ordinary toxins; extreme / magical / abyssal doses still bite through). Vit +1 / End +1 per level.
 
 ### Dance
 First seen: Chapter 12
@@ -124,12 +145,97 @@ First seen: Chapter 196
 Resist stressful pressure; scales with willpower.
 
 ### Pain Resistance
-First seen: Chapter 12 (deepened Chapter 197)
-Passive. Reduces felt pain; hard to unlock without sustained suffering. Early unlock from hangover / force-feed night. **Willpower +1 per level**, **Endurance +1 per level.**
+First seen: Chapter 12 (deepened Chapter 197; thermal-grill grind Chapter 19)
+Passive. Reduces felt pain; hard to unlock without sustained suffering. Early unlock from hangover / force-feed night.
+
+**Each level: −10% felt pain** (and the focus / flinch tax that comes with it) vs the same wound. Additive off 100%. L1 = 90% felt … L9 = 10% felt. Does **not** heal HP or stop injury; he can still bleed out while staying coherent.
+
+**Willpower +1 per level**, **Endurance +1 per level.**
+
+**Thermal grill drill (Ch 19):** alternating **real** hot and cold mana patches on the skin in a grid (hot enough to redden/blister, cold enough to frostbite lightly). Earth thermal-grill illusion is the *idea* seed only; training past the harmless band so Heat and Cold Resistance actually rank. Also grinds **Pain Resistance**, **Recovery**, **Ember** (heat dumps) and fine **Mana Shaping / Regulation**. He meters the pool near **~99%** and soaks Regulation regen with grill intensity (soft clicks alone underspend). **Ned** adds shallow intentional nibbles / tip-pokes (Pain + same-family Poison). When Recovery lags he pours a little low-grade potion on the patch and continues so unused regen is not wasted. Keep damage shallow on purpose. Chapter 19 week: **Pain L1 → L8**, Heat/Cold → **L6**, Poison **L6 → L7**, Recovery **L5 → L9** with **no Rapid Recovery** yet (full table: `Story/Notes/Skills.md` Ch 19).
+
+### Pain Immunity (evolve)
+Evolves from Pain Resistance at **L9** when timing fits. Same **−10% per level** until floor **1% felt pain**. Will +1 / End +1 per level. Still not a heal; extreme trauma and system / divine backlash can punch through.
+
+### Heat Resistance
+First seen: Chapter 19 (thermal grill unlock); later forge / Blacksmith’s Heat Sense deepen it.
+
+**Each level: −10% heat harm** (burn damage, heat exhaustion, forge-work time before collapse) vs the same exposure. L1 = 90% … L9 = 10%. Does not make him fireproof scenery; ambient comfort and short forge shifts scale first.
+
+**Vitality +1 per level**, **Endurance +1 per level** (same pad family as Poison).
+
+**Ch 19 week:** unlock **L1 → L6** on the hot half of the damaging grill (real burn patches held with cold; regen-capped intensity).
+
+### Heat Immunity (evolve)
+From Heat Resistance L9. Same **−10%/level** to floor **1%** heat effect. Extreme magma / spell fire / abyssal heat still threatens the remainder.
+
+### Cold Resistance
+First seen: Chapter 13 as ambient **Temperature Resistance** (cold bare inn / cloak+Ned); rewrite track name **Cold Resistance**. Grill deepens it Chapter 19.
+
+**Each level: −10% cold harm** (frostbite, chill fatigue, cold-status strength) vs the same exposure. L1 = 90% … L9 = 10%.
+
+**Vitality +1 per level**, **Endurance +1 per level.**
+
+**Ch 13:** unlock **L1** (pauper lodging cold). **Ch 19 week:** **L1 → L6** on the cold half of the damaging grill (both drills every day; regen-capped intensity). Old notes that said Temperature Resistance with no attr line: use this Cold track instead (Vit/End pads apply).
+
+### Cold Immunity (evolve)
+From Cold Resistance L9. Same **−10%/level** to floor **1%** cold effect. Magical deep-freeze / abyss cold can still land through the remainder.
+
+### Recovery
+First seen: Chapter 13 (half-year)
+Passive. Ordinary body skill (not a Heal spell; not Resilience). Unlocks from **repeated small wounds that are allowed to clot and close**: Roland’s daily Mana Hands skin pokes and **150 mL** whole-blood drips to Ned, then the holes knitting overnight. Harder to unlock without that kind of steady micro-trauma.
+
+**Universal recover speed** for **cuts, wounds, soft-tissue damage and blood loss** (plasma + red-cell restore toward baseline). Same ladder for all of those metrics.
+
+**Each level: −10% recover time** (equivalently **× rate** = 1 / remaining fraction). Additive off 100%.
+
+| Level | Time left | Rate vs unskilled |
+|---|---|---|
+| L1 | 90% | **~1.11×** |
+| L5 | 50% | **2×** |
+| L7 | 30% | **~3.33×** |
+| L8 | 20% | **5×** |
+| L9 | 10% | **10×** |
+
+Base blood/plasma numbers still come from **Vit/End M** in `Attributes.md`. Recovery multiplies those rates (or divides those times). At L5, half the time really is **twice** the blood restored per day off the same M baseline.
+
+**Does not** regrow **missing limbs** or large amputations. Does not purge poison / disease (those stay Resistance / potions / holy). Deep trauma can still need potions or magic on top.
+
+**Vitality +1 per level**, **Endurance +1 per level.**
+
+**Early grind lock:** daily Ned feed + skin poke through the Carwen half-year (~180 days). Exit **Recovery L5** (**2×** blood/wound recover). **Ch 19 grill (daily with sound, mana at ~99% regen ceiling):** → **L9** (**10×**); potion covers flesh lag so unused regen is not wasted (`Story/Notes/Skills.md`). **Rapid Recovery** evolve is **not** on the train; bank it for the next ~**2 years** of mixed trauma.
+
+### Rapid Recovery (evolve)
+Evolves from Recovery at **L9** when timing fits (**~2 years** after Ch 19 in the rewrite plan, not the train week). Same **−10%/level** until floor **1%** close time on small wounds. Deep trauma and missing tissue still need magic, surgery or time. Vit +1 / End +1 per level. Distinct from **Rapid Renewal** (End **40** attribute perk) and from Source **Resilience** (stagger / resolve recovery, not flesh knit).
+
+### Sound Production
+First seen: Chapter 19 (train cabin)
+Active / technique. Make controlled clicks, taps and tones with the body (tongue click, finger snap) or with **mana pressure pulses** shaped in air (Ember’s cousin: pressure instead of heat). Soft cabin volume is nearly free mana. Loud combat ping scales with `../Science/Sound.md` power equations. **Pitch control** is part of the grind: push pulses **above or below** ordinary human hearing so the ping is for the caster’s return map, not for an audience.
+
+**Levels:** cleaner pitch, sharper attack, tighter direction and optional enhancement (louder / thinner / multi-click bursts) without wasting draw.
+
+**Intelligence +1 per level**, **Dexterity +1 per level.**
+
+**Ch 19 week:** unlock **L1 → L9** (both drills every day; pulse spam hits technique cap).
+
+### Echolocation
+First seen: Chapter 19 (train cabin)
+Passive / sense once unlocked. Build a spatial picture from sound returns. Caps at **L9** (`../Science/Sound.md`). Bottleneck is attention / cortex, not mana.
+
+| Band | Rough reps | Feel |
+|---|---|---|
+| L1 | unlock | Full attention; little else while active |
+| L2–L4 | hundreds of pulses | Walk / simple track; miss fine detail |
+| L5–L7 | thousands | Gross detection near-auto; attention for fine ID |
+| L8–L9 | tens of thousands | Automatic spatial sense while fighting / casting |
+
+**Willpower +1 per level**, **Intelligence +1 per level.**
+
+**Ch 19 week:** unlock **L1 → L9** with Ned as a moving cabin target **and** short needle launches: plant mana click → eyes shut → catch the tip → feed it back into Ned’s mouth (spider-web recycle). Live projectile returns clear the fight-quality gate. Both sound and thermal drills run **every day** at the **regen ceiling** (~99% pool). Full week math: `Story/Notes/Skills.md` Ch 19.
 
 ### Resilience
-First seen: Chapter 30
-Recover quickly from difficulties; resolve stays firm.
+First seen: Chapter 30 (Source deepen ~196)
+Recover quickly from difficulties; resolve stays firm. **Not** wound closure. Source is explicit: it helps him power through discomfort; it does not heal flesh.
 
 ### Abyssal Corruption Resistance
 First seen: Chapter 398
@@ -278,7 +384,7 @@ Elemental destruction knowledge. Advanced forms unlock stronger spells.
 
 ### Basic Rune Mastery / Rune Mastery / Runic Mastery
 First seen: Chapter 16
-Comprehend runes. **Activation cost (locked):** **−10% MP to activate** runes / runic scrolls **per skill level**, **capped at −90%** (L9). L1 = −10%. Basic form covers **Lesser** only. Not a craft discount (scroll setup is **Basic Rune Scribing** −10%/level; item setup is later **Runecraft**; Runic Mana Scribe class eases learning only, no mana-cost term). Not a substitute for **Runecraft**. Chapter 17 rapier test: L1 cut shows on tip blast. Chapter 23: levels by **using** runic scrolls or runed weapons in combat (scrap Fire Arrow grimoire). Chapter 27: Roland at **L4**; out-of-combat casts (self/animals) do not level it; aims **L9** before Blacksmith for a possible special class.
+Comprehend runes. **Activation cost (locked):** **−10% MP to activate** runes / runic scrolls **per skill level**, **capped at −90%** (L9). L1 = −10%. Basic form covers **Lesser** only. Not a craft discount (scroll setup is **Basic Rune Scribing** −10%/level; item setup is later **Runecraft**; Runic Mana Scribe class eases learning only, no mana-cost term). Not a substitute for **Runecraft**. Chapter 17 rapier test: L1 cut shows on tip blast under Mana Shield (muffled hole; MP **2096/2309** with Shield). Chapter 23: levels by **using** runic scrolls or runed weapons in combat (scrap Fire Arrow grimoire). Chapter 27: Roland at **L4**; out-of-combat casts (self/animals) do not level it; aims **L9** before Blacksmith for a possible special class.
 Rewrite: skills max at L9 then evolve. Evolved Mastery forms cover Common → Greater → Grand → Legendary (same −10%/level, −90% cap on that rank). Source ~1%/level discarded.
 
 ### Basic Runecraft / Runecraft

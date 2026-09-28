@@ -51,3 +51,9 @@ These are whole-body totals. Per square meter of skin (1.65 kg/m²) the values s
 If the mechanism is vibration converted to heat through friction, actual input energy runs higher than these thermal values, since conversion efficiency is never 100%. A rough working range for a mechanical-to-thermal process is 60-80% efficient, which would put the real input energy at roughly 260-350 kJ for the cold case.
 
 Swap in different mass, thickness or ΔT values and the same formula scales directly.
+
+## Thermal grill (heat / cold / pain drill)
+
+Earth seed: **thermal grill illusion** (Thunberg, 1896). Mild warm (~**40 °C**) and cool (~**20 °C**) bars side by side feel like burning pain with no damage. Related: paradoxical heat/cold, heat/cold allodynia.
+
+**Story use (Ch 19 train):** Roland starts from that idea then **pushes past the safe band**. Mana-shaped hot and cold patches on the skin do **real shallow burn and frostbite** so **Heat Resistance** and **Cold Resistance** rank. Also grinds **Pain Resistance**, **Recovery** and fine **Mana Shaping / Regulation**. He keeps the pool near **~99%** and soaks regen with grill intensity. **Ned** adds shallow intentional nibbles / tip-pokes and a **needle-catch** drill (short launch → Roland eyes-shut catch on clicks → tip fed back into Ned’s mouth). When Recovery cannot keep up he pours a little low-grade potion on the patch and continues so unused regen is not wasted. Keep damage shallow on purpose; deep tissue is waste and scar risk.

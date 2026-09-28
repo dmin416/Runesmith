@@ -28,7 +28,7 @@ No locked “flight is expensive” or “flight is cheap” fiat. Cost is whate
 | `Projectiles.md` | Sphere flight, near-Mach arrows, sling/bow/atlatl, captive-piston sound, rotating tube launch |
 | `ManaCast.md` | Shared cast law tables, Bolt / Arrow / Ember / Hands / Shield |
 | `ManaStones.md` | Stone size, quality, dump/refill |
-| `Body.md` | Extra limbs; heat / cool skin (potential) |
+| `Body.md` | Extra limbs; heat / cool skin; thermal grill drill |
 | `Waves.md` | Sound and light bands; ozone / UV |
 | `Optics.md` | Water-lens telescope (potential) |
 | `Kinetic.md` | KE, force, lifts, throws (potential apps) |
@@ -39,6 +39,7 @@ No locked “flight is expensive” or “flight is cheap” fiat. Cost is whate
 | `CraftMetal.md` | Barrier molds, wire, springs, atomization, period steel vs modern knowledge |
 | `CleverApps.md` | Vacuum-pocket lift, micro-compression, insulation, compression-forged edges |
 | `ImpactRune.md` | Sahildr Impact hammer: compressed-mana stroke vs hold power |
+| `CloakAirCooling.md` | Roland’s 5 m³ air-compress cloak cool math (forgoes for a cold rune) |
 
 **Future spell idea rungs** (same cast law): `../PotentialMagic/PotentialMagic.md`.
 

@@ -4,7 +4,7 @@ Roland’s first tamed companion. Named **Ned**. Core-bearing Floor-2 **Needle W
 
 ## Diet (Ch 13 half-year)
 
-Eats various **leaves** and discarded **monster parts**. Hides a preferred leaf stash: those leaves are a **mild poison source** (weaker than his spikes) with a vibrant refreshing aroma like **parsley** (**parsleaves**). Roland samples one afternoon and locks that link. Besides occasionally harvesting Ned’s ever-growing **needles** and **blood**, Roland also **dries and stockpiles** parsleaves. After Roland harvested Ned’s blood for BBQ seasoning, Ned pressed to know why; Roland started feeding him small drips of his own blood via Mana Hands (Ch 13). Ned does not taste like a humanoid: he mainly senses how much power the flesh holds and the experience it grants. Monsters can level by eating (unlike humanoids who need actions); that feeds their presence and faster climb. Roland only feeds his blood in-room (**150 mL**/day, about **5 oz**); he uses Ned’s blood and needles as seasoning and keeps the skill-leveling cheat quiet. Worm blood is armpit-smelling but incredibly nutrient-rich even when Ned only ate magic stones; Roland extracts as much as he wants comfortably. Sleeps with Ned as a cool ectothermic pillow. He talks to Ned as an outlet for self-talk: future plans, skill thought process, training ideas (sneaking, throwing, adapting, healing and more). Dislikes bark-colored **Needle Moths**; shows Ned how weak that evolution line is while feeding him poisonous wings and occasionally stones. Drills the vision: speed, penetration, toughness, recovery, poison, stealth, ranged attack. After taming, Ned can pass **stair throats** (wild monsters cannot); strangers assume a Floor-2 trophy scarf and Roland never corrects them. Once strong enough, Ned solo-hunts dungeon rats and other Needle Worms; monsters cooperate in packs but also fight each other for strength.
+Eats various **leaves** and discarded **monster parts**. Hides a preferred leaf stash: those leaves are a **mild poison source** (weaker than his spikes) with a vibrant refreshing aroma like **parsley** (**parsleaves**). Roland samples one afternoon and locks that link. Besides occasionally harvesting Ned’s ever-growing **needles** and **blood**, Roland also **dries and stockpiles** parsleaves. After Roland harvested Ned’s blood for BBQ seasoning, Ned pressed to know why; Roland started feeding him small drips of his own blood via Mana Hands (Ch 13). Ned does not taste like a humanoid: he mainly senses how much power the flesh holds and the experience it grants. Monsters can level by eating (unlike humanoids who need actions); that feeds their presence and faster climb. Roland only feeds his blood in-room (**150 mL**/day whole blood, about **5 oz**); he uses Ned’s blood and needles as seasoning and keeps the skill-leveling cheat quiet. Worm blood is armpit-smelling but incredibly nutrient-rich even when Ned only ate magic stones; Roland extracts as much as he wants comfortably. That **150 mL** is total volume (plasma + cells). At ~40–45% hematocrit it is only **~60–70 mL** of red cells, which sits inside Ch 13 rewrite daily RBC restore (**50–83 mL**/day; `../Progression/Attributes.md`). Plasma side refills in hours at his M. Sleeps with Ned as a cool ectothermic pillow. He talks to Ned as an outlet for self-talk: future plans, skill thought process, training ideas (sneaking, throwing, adapting, healing and more). Dislikes bark-colored **Needle Moths**; shows Ned how weak that evolution line is while feeding him poisonous wings and occasionally stones. Drills the vision: speed, penetration, toughness, recovery, poison, stealth, ranged attack. After taming, Ned can pass **stair throats** (wild monsters cannot); strangers assume a Floor-2 trophy scarf and Roland never corrects them. Once strong enough, Ned solo-hunts dungeon rats and other Needle Worms; monsters cooperate in packs but also fight each other for strength.
 
 Design below is the charging-caterpillar write for Ned (Earth biomechanics anchors for skin, spring and toxins). Map to Caldris; do not paste Earth taxonomies into prose as if they are local.
 
@@ -60,7 +60,7 @@ Focus of the alternate line (vs moth powder / flight):
 
 Ned **hunts his own prey**. He levels about as fast as Roland would from **kill XP** (and from eating bodies and mana stones of what gets hunted when he does eat), so Ned can **keep up** with Roland’s overall pace. Tamed companions take a contribution cut of party kills; they do not need to eat the corpse for that XP. Do not invent a separate Ned XP curve; treat his self-hunt rhythm as matched to that yardstick.
 
-**Chapter locks:** Ch 12 tame = overall **1** / **1x**. Ch 13 half-year end = overall **~25** / **~3x** (Needle Worm; Greater at **26**). Ch 14 watcher kill XP = overall **26** / **4x** (**Greater Needle Worm**). Sheets: `Story/Notes/NedStatus.md`.
+**Chapter locks:** Ch 12 tame = overall **1** / **1x**. Ch 13 half-year end = overall **~25** / **~3x** (Needle Worm; Greater at **26**). Ch 14 watcher kill XP = overall **26** / **4x** (**Greater Needle Worm**). Ch 15–19 = overall **26** / **4x** (matches Roland **L26**; train-week skill exits in `Story/Notes/NedStatus.md`). Sheets: `Story/Notes/NedStatus.md`.
 
 ### Combat balance (locked)
 
@@ -88,7 +88,7 @@ Combat priority is **close the bag fast**: living epidermis + hemolymph / glue s
 
 ### Circulatory fluid restore (Ned hemolymph)
 
-Human / Roland blood restore lives under **Endurance** in `../Progression/Attributes.md` (same **M** formula).
+Human / Roland blood restore lives under **Vitality / Endurance M** and **Recovery** rate in `../Progression/Attributes.md`.
 
 **Stat factor** (shared):
 
@@ -109,6 +109,7 @@ Adult Vit/End **15/15** → **M = 1.0**. Rate × M; times ÷ M.
 |---|---|---|---|---|---|
 | Ned 1x (Ch 12 tame, `NedStatus.md`) | 25 | 15 | **1.33** | **~4.5–9 h** | **~0.17–0.55 L/h** |
 | Ned ~3x (Ch 13 half-year, `NedStatus.md`) | 75 | 45 | **4.00** | **~1.5–3 h** | **~0.5–1.7 L/h** |
+| Ned 4x (Ch 14+ Greater, `NedStatus.md`) | 100 | 60 | **5.33** | **~1.1–2.3 h** | **~0.7–2.3 L/h** |
 
 Roland blood restore (rewrite Vit **47** / End **53**, **M = 3.33**): `../Progression/Attributes.md`.
 
@@ -153,6 +154,8 @@ Skills cap at **L9**. Filling the L9 bar triggers a **skill evolution** instead 
 
 ## Ch 13 half-year projection (~180 days)
 
+Locked in `Story/Notes/NedStatus.md`. Exit overall **~25** / **~3x**, still Needle Worm.
+
 | Skill | Daily weighted actions | Half-year total | Avg aptitude | Effective | Level |
 |---|---|---|---|---|---|
 | Spike Throwing | 38 (20 coached + 20 solo + 4 real) | 6,840 | 0.8 | 5,472 | **L5** (just under L6) |
@@ -161,6 +164,8 @@ Skills cap at **L9**. Filling the L9 bar triggers a **skill evolution** instead 
 | Spring Charge | 18 (6 drill + 6 real) | 3,240 | 1.6 | 5,184 | **L5** (near L6) |
 | Seal / Regeneration | 14 (2 harvest cuts + 6 combat wounds) | 2,520 | 1.75 | 4,410 | **L5** |
 | Poison Resistance | 12 (6 real doses) | 2,160 | 1.75 | 3,780 | **L5** (L4 if poison variety stays low) |
+
+**Ch 14–19:** Greater **4x** aptitude surge + Carwen closeout + train hide / poke / **needle-launch catch** week → exit Spike **L7**, Silk **L5**, Stealth **L7**, Charge **L6**, Seal **L6**, Poison **L5** (`NedStatus.md`).
 
 ## Skill evolution at L9
 

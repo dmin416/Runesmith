@@ -68,6 +68,11 @@ Prefix ladder: `../Ideas.md` / `Levels.md` (Basic/Lesser → plain → Expert/Hi
 | Basic Poison Resistance |
 | Pain Resistance |
 | Sleep Resistance |
+| Heat Resistance |
+| Cold Resistance |
+| Recovery |
+| Sound Production |
+| Echolocation |
 | Basic Taming |
 | Basic Drawing |
 

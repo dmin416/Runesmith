@@ -19,7 +19,7 @@ Temporary pass. Apply world laws from `../Ideas.md`: skills **L1–L9 then evolv
 *(Merged into `Skills.md` / locked elsewhere; wiped here: Debugger, Technology, Cooking, Marksmanship / Expert Marksmanship, Acting, Basic Mathematics, Map Reading.)*
 
 ### Sleep Resistance L4
-**Flavor skill.** Keep soft: less sleep, less fatigue. No % overhaul, no Vigilance evolution required. Background excuse for night work and long grinds. Ordinary resistance (not system-special); also listed in `NormalPersonSkills.md`.
+**Rule:** −10% sleep needed per level (L4 = 60% of a normal night). Evolve at L9 → **Sleep Immunity**, same −10%/level until floor **1%** (~one night / 100 days). Vit +1 / End +1 per level. Ordinary resistance (not system-special); also listed in `NormalPersonSkills.md`. Full table: `Skills.md`.
 
 ### Tinkerer L8
 **Change:** Physical / mechanical craft side (Ch 4 clock parts fit). Craft speed and salvage on non-rune junk. e.g. +10% assembly speed / level, fewer botched jury-rigs. Evolve → **Expert Tinkerer** (already in Source ~171): work on higher-tier materials and golem parts. Pair with Rapid Assembly later; do not stack three empty “craft better” lines. **Not yet in `Skills.md` as Expert Tinkerer.**
@@ -115,7 +115,8 @@ World law: **Basic X** maxes at L9 → evolves to non-Basic form. Chapter 7 alre
 **Change:** Unlock linked multi-rune circuits. Level = path count / loss %. Required for magazines and multi-shot runes.
 
 ### Blacksmith’s Heat Sense / Heat Resistance
-**Change:** Sense: readable temperature bands. Resistance: % heat damage ignored / work time in forge. Soft text out.
+**Heat Sense:** readable temperature bands.
+**Heat Resistance:** locked with the other body resists in `Skills.md`: **−10% heat harm per level**, evolve → **Heat Immunity** to floor **1%**. Vit +1 / End +1 per level. Cold is a separate **Cold Resistance** track (same math).
 
 ### Runic Blacksmith’s Eyes / Runesmith Lord’s Eyes / Runic Eye of Truth / True Runic Sight / Eyes of Mana
 **Change:** Ladder of sight. Each step adds a literal vision mode (heat, rune lines, truth, soul-adjacent). Costs HP/MP or headache stacks so upgrades matter. Eyes of Mana earlier per Early Logical Skills; Truth stays late.
@@ -161,7 +162,11 @@ World law: **Basic X** maxes at L9 → evolves to non-Basic form. Chapter 7 alre
 **Change:** Resist focus break / willpower tax under pressure. Numeric: ignore first N stress checks per fight, or −% Will cost. Can seed early at low level.
 
 ### Resilience / Pain Resistance / Overlords Resilience / Regal Resilience
-**Change:** Stack hierarchy clearly. Pain = felt pain down. Resilience = recover from stagger/setbacks. Overlord forms = tier-sized versions. No duplicate names with identical text.
+**Pain Resistance:** locked in `Skills.md`: **−10% felt pain per level**, evolve → **Pain Immunity** to floor **1%**. Will +1 / End +1. Does not heal.
+**Poison / toxin:** same math on **Poison Resistance** → **Poison Immunity** (Vit/End).
+**Heat / Cold:** separate tracks, same math (`Skills.md`).
+**Recovery:** daily micro-wounds / Ned blood feed: **−10% small-wound close time per level**, evolve → **Rapid Recovery** to floor **1%**. Vit +1 / End +1. Not Rapid Renewal (End 40 perk).
+**Resilience:** recover from stagger/setbacks (not flesh knit). Overlord / Regal forms = tier-sized versions. No identical text under different names.
 
 ### Runic Restructuring
 **Change:** Spell/rune morph rules (bolt→arrow etc.). Level = how far you can shift and how much cost. Centerpiece for ammo types.
@@ -203,7 +208,7 @@ World law: **Basic X** maxes at L9 → evolves to non-Basic form. Chapter 7 alre
 
 Priority level-ups: Marksmanship, Mana Bolt→Arrow tree, Rune Mastery, Runecraft, Compression, Restructuring, Mana Regulation, Sneaking, Tinkerer, Analyze/Debugger.
 
-Deprioritize: sword, heavy armor, bash, speech-lord skills. Flavor only (no redesign pass): Sleep Resistance, Cooking, Technology, Acting, Basic Mathematics, Map Reading.
+Deprioritize: sword, heavy armor, bash, speech-lord skills. Flavor only (no redesign pass): Cooking, Technology, Acting, Basic Mathematics, Map Reading. Sleep Resistance: locked −10%/level → Sleep Immunity floor 1% in `Skills.md`.
 
 ---
 

@@ -39,7 +39,13 @@ Trait Int/Will bonuses are flat cards. They sit in the Skills/Traits bucket with
 | Basic Alcohol Resistance | Endurance |
 | Dance | Agility |
 | Pain Resistance | Willpower, Endurance |
+| Poison Resistance | Vitality, Endurance |
 | Sleep Resistance | Vitality, Endurance |
+| Heat Resistance | Vitality, Endurance |
+| Cold Resistance | Vitality, Endurance |
+| Recovery | Vitality, Endurance |
+| Sound Production | Intelligence, Dexterity |
+| Echolocation | Willpower, Intelligence |
 | Basic Drawing | Dexterity |
 | Identify, Analyze, Basic Mathematics, Map Reading | none listed |
 
@@ -172,7 +178,7 @@ Leveling those Basics: he runs faster, jumps higher and punches harder (techniqu
 - Hitting heated horseshoes / forge work: **no** smithing skills without Blacksmith class. Combat hammer skills possible in theory; Baron forbids forge work.
 
 Later also: Climbing (Str/Agi), Throwing (Dex), closet/basement Sneaking tests (Agi), One-handed Swordsmanship from house drills (Str). Leather armor worn in bravery test; proficiency by Ch 4–7 (End). Reading Proficiency on transmigrator table (Int). Debugger still unclear. Clock rearrange: **Tinkerer** = physical/mechanical parts fit; **Technology** = conceptual/understanding. Both likely involved.
-Identify rises with reading and appraisal. Sleep Resistance self-explanatory. Ambient mana absorb blocked until Mage/Acolyte (mana poisoning).
+Identify rises with reading and appraisal. Sleep Resistance: −10% sleep needed per level (see `References/Progression/Skills.md`). Ambient mana absorb blocked until Mage/Acolyte (mana poisoning).
 Age 9: short sword Identify shows Common steel with ???? attack and defense.
 
 Age-9 technique targets and attribute piles: `Progression.md` / `StatusBreakdown.md`.
@@ -474,17 +480,19 @@ Uses Mana Arrow, Mana Bolt and Identify (Needle Worm). Floor-2 cook: Needle Worm
 
 ## Chapter 13
 
-Half-year Floor-3 grind → **Mage L25**. Kill/XP/loot/pouch: `Experience.md` (**1,102** kills; skill XP **3,608**; pouch **11,641 LC**).
+Half-year Floor-3 grind → **Mage L25**. Kill/XP/loot/pouch: `Experience.md` (**1,102** kills; skill XP **4,608**; pouch **11,641 LC**).
 
-**Rewrite attribute pads from these ranks** (spells no attr; Calligraphy / Temperature Resistance no attr line): Sword **+3 Str**; Dodging tree **+9 Agi** (Basic **L6→L9**, **Dodging L1→L6**); Sneaking **+2 Agi**; Throwing **+2 Dex**; Incantation **+2 Int/+2 Will**; Alcohol **+3 End**. Full sheet: `StatusBreakdown.md` / `Status.md`.
+**Rewrite attribute pads from these ranks** (spells no attr; Calligraphy / Temperature Resistance no attr line): Sword **+3 Str**; Dodging tree **+9 Agi** (Basic **L6→L9**, **Dodging L1→L6**); Sneaking **+2 Agi**; Throwing **+2 Dex**; Incantation **+2 Int/+2 Will**; Alcohol **+3 End**; Poison **L1→L6** **+5 Vit / +5 End**; Recovery **L1→L5** **+5 Vit / +5 End**. Full sheet: `StatusBreakdown.md` / `Status.md`.
 
-Skill ranks (enter → exit; **36** ranks × **100** XP + **8** overflow = **3,608**):
+Skill ranks (enter → exit; **46** ranks × **100** XP + **8** overflow = **4,608**):
 
 | Skill | Change |
 |---|---|
 | Basic Calligraphy | **L4 → L9** |
-| Temperature Resistance | unlock **L1** |
+| Temperature Resistance | unlock **L1** (rewrite: **Cold Resistance L1**; ambient inn cold) |
 | Basic Alcohol Resistance | **L1 → L4** |
+| Poison Resistance | **L1 → L6** (daily Ned toxin seasoning; see `Progression/Skills.md`) |
+| Recovery | unlock **L1 → L5** (daily skin poke + 150 mL bleed/knit to Ned) |
 | Mana Shield | **L3 → L6** |
 | Mana Hands | **L7 → L9** |
 | Mana Arrow | **L5 → L8** |
@@ -526,16 +534,56 @@ No new traits. Runic Scholar title still active (unlocked this class).
 
 ## Chapter 17
 
-No new named skills. Basic Rune Mastery tested (**−10%** activation on detonation rapier tip). Secondary Mage keeps mana bonuses. Still needs **Runecraft** after Blacksmith for Runesmith (skill books); else Enchantsmith path. Asks for Sahildr's hammer to farm more schematics.
+No new named skills. Basic Rune Mastery L1 tested on the detonation rapier (**−10%** tip activation; Mana Shield muffles the blast). Secondary Mage keeps mana bonuses. Still needs **Runecraft** after Blacksmith for Runesmith (skill books); else Enchantsmith path. Eager to try three regular spells + two runic. Asks for Sahildr's hammer to farm more schematics. Shows the party **Edelgard** on a map before leaving.
 
 ## Chapter 18
 
-Gained: **Drawing L1** (**Dexterity +1**). Basic Drawing was already **L9** (**Dexterity +9** baked). Drawing tree Dex total: **+10**. Breakthrough via Runic Mana Scribe diagrams.
-Created Lesser Impact Rune [Highest] schematic (Debugger overlay; Sahildr present; **+1000 XP** → bar **1739 / 13000**). Two Highest lesser schematics now (Detonation + Impact). Fire Orb schematic still pending.
+Gained: **Drawing L1** (**Dexterity +1**). Basic Drawing was already **L9** (**Dexterity +9** baked). Drawing tree Dex total: **+10**. Breakthrough via Runic Mana Scribe diagrams (Debugger overlay copy of Sahildr's Impact hammer; not scribing).
+Created **Lesser Impact Rune [Highest]** schematic (**+1000 XP** → bar **1739 / 13000**). Two Highest lesser schematics now (Detonation + Impact). Fire Orb schematic still pending. Component-fantasy beat: current forms weapon-best but other applications imagined.
 
 ## Chapter 19
 
-Created Lesser Fire Orb Rune [Highest] schematic from class-trial memory (~1 hour; +1000 XP). Three Highest lesser schematics. Debugger fails on cut-paper overlays (needs whole sheet). Sleep Resistance noted on the long train. Still Runic Mana Scribe. Plans circuit-module experiments.
+Created Lesser Fire Orb Rune [Highest] schematic from class-trial memory (~1 hour; +1000 XP). Three Highest lesser schematics. Debugger fails on cut-paper overlays (needs whole sheet). Sleep Resistance noted on the long train.
+
+### Train-week skill math (locked)
+
+Field-use curve (`Levels.md`): cum clean uses to reach L = **1 / 10 / 50 / 155 / 295 / 470 / 680 / 925 / 1205**. Technique skills ~**40%** clean on raw attempts. Absorption / Reinforcement already **L9**. Soft mana clicks count near **100%** clean (deliberate pulse). Resistance exposures are dose-gated (repeats of the same burn/frost still count but slow after the first days).
+
+**Mana rule:** practice at the **regen ceiling**. Keep the pool near **~99%** (max ambient pull). Soft cabin clicks barely spend, so the grill soaks the surplus: hotter / colder / denser patches and longer holds until draw matches Regulation refill. Potion when Recovery lags so he does not idle on unused regen. Seated Regulation L7 band ≈ **empty→full in a few hours** (~**13–16 mana/min** on his Ch 19 pool).
+
+**Schedule:** **both drills every day** for the full ~**7 days**, overlapped for Multitasking. About **3–4 h** dual drill blocks around eat/rest (sound never fully off while the grid runs).
+
+**Sound pace:** dense locate spam under the same blocks → well past L9 pulse counts (cap).
+
+**Thermal pace (regen-capped + Recovery):** enter Rec **L5**. Cycle time pressed toward the mana period with potion assist when flesh lags (roughly **~1–1.5 min/cycle** early, faster as Recovery climbs). Harder per-cycle trauma than the old gentle grid. ~**1240** burn/frost/knit cycles over the week (day path roughly **146 → 156 → 165 → 187 → 192 → 199 → 199**).
+
+**Ned assist:** shallow intentional nibble / tip-poke on forearm or hand between grill squares (toxin prick). **Needle-catch drill:** Ned short-launches a spent/regrown tip at Roland; Roland eyes shut, locates on soft clicks only, catches, feeds the needle back into Ned’s mouth (spider-web recycle). Misses sting and count for Pain / Recovery / Poison. Same Needle Worm toxin family (soft repeat credit). Blood is **Roland’s**: usual drip plus **extra** from pokes/misses, paid out of rising Recovery restore (not free).
+
+| Skill | Enter | Exit | Why |
+|---|---|---|---|
+| **Sound Production** | — | **L9** | Pulse spam past the L9 technique cap (evolve later). |
+| **Echolocation** | — | **L9** | Cabin map plus **live needle-in-flight** catches eyes shut clears the fight-quality gate. |
+| **Multitasking** | **L1** | **L8** | Clicks + locate + catch/return + Ned poke **and** regen-capped grill. Clears L8 (925). |
+| **Throwing** | **L1** | **L2** | Catch-and-return hand work on tips (small climb off plain Throwing). |
+| **Basic Mana Shaping** | **L6** | **L9** | Remote clicks + fine heat/cold grids daily. |
+| **Basic Mana Regulation** | **L7** | **L9** | Continuous ceiling draw/refill all week (~70% clean). |
+| **Mana Hands** | **L9** | **L9** | Cap. |
+| **Mana Absorption** | **L9** | **L9** | Cap. |
+| **Mana Reinforcement** | **L9** | **L9** | Cap. |
+| **Basic Incantation** | **L8** | **L8** | Almost no chanting. |
+| **Mana Sense** | **L9** | **L9** | Cap. |
+| **Ember** (heat production) | **L6** | **L9** | Hot patches every day at regen-soaking intensity. |
+| **Heat Resistance** | — | **L6** | Harder real burns daily; dose-gates after early days → **L6**. |
+| **Cold Resistance** | **L1** | **L6** | Inn L1 + daily frost half at the same intensity → **L6**. |
+| **Pain Resistance** | **L1** | **L8** | Grill sting + Ned tip pricks + missed launches → **L8**. |
+| **Poison Resistance** | **L6** | **L7** | Daily shallow Ned toxin on pricks/misses; same family soft credit → **L7**. |
+| **Recovery** | **L5** | **L9** | Universal blood+wound knit each cycle (+ potion when lagging). L5→L9 = **910** clean; ~75% of ~1240 covers it (**10×** exit rate). **No evolve on the train.** **Rapid Recovery** waits for the next ~**2 years** of mixed trauma. |
+
+**Attr pads from this week only** (exit − enter): Sound Prod **+9 Int / +9 Dex**; Echo **+9 Will / +9 Int**; Multitask **+7 Int / +7 Dex**; Throwing **+1 Dex**; Shaping **+6 Int / +3 Will** (Int-heavy ×3 levels); Regulation **+2 Int / +4 Will**; Ember none (spell); Heat **+6 Vit / +6 End**; Cold **+5 Vit / +5 End**; Pain **+7 Will / +7 End**; Poison **+1 Vit / +1 End**; Recovery **+4 Vit / +4 End**.
+
+**Sheet note:** fold these into the Ch 19 rewrite when the live L26 Scribe sheet is retconned; do not invent a second full status screen on the train.
+
+Still Runic Mana Scribe. Plans circuit-module experiments.
 
 ## Chapter 20
 

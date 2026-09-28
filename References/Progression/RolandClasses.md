@@ -69,4 +69,6 @@ Offered beside it at T3: Advanced Runesmith, Master Runesmith, Master Runesmith 
 - Chapter 12: Iron Flagon first round **−45 LC**; Alcohol / Dance / Pain / Sleep pads; Floor-2 Needle Worm cook + **12**-worm pocket (**+492 XP**) + **Basic Taming** green-scarf pet; Mana Hands ≥**L7**; Multitasking; lesser impact rune sight; still Mage L20 (**~3,266/10k**).
 - Chapter 13: half-year Floor-3 → **Mage L25**; **1,102** kills / pouch **11,641 LC**; Calligraphy **L9**; Live Source sheet still on-page; rewrite target Str **49** / Int **137** / MP **2292** (`StatusBreakdown.md`). Ned overall **~25**.
 - Chapter 14: watcher ambush; people XP **+479** banks; Dodging **L7**; Ned **25→26** Greater Needle Worm.
-- Chapter 15: on-site cremation (**1000 MP**); Detonation tip study (Debugger / Technology; hold-lock until insert; ~**1 hour** Calligraphy redraw) → **Lesser Detonation Rune [Highest]** + **Runic Scholar** (**+1000 XP**); bank **1479**; Enchanter path affinity-gated; class stone deferred to Ch 16.
+- Chapter 16: class change → **Runic Mana Scribe** (Fire Orb trial; five-region linear; mana-hand blunder; Ned silk). Half-cut bank **739** into L26 bar.
+- Chapter 17: overall **L26** / Scribe **L1** (no kills). Shows party **Edelgard**; letters to father / Martha ready to send. Leaves alone for craft; borrows Sahildr's hammer into Ch 18.
+- Chapter 18: **Lesser Impact [Highest]** + **Drawing L1** (**+1000 XP**; bar **1739 / 13000**). **Bronze → Steel**. Parting spatial bag; hugs goodbye; magic train toward Edelgard (≥1 week).

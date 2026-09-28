@@ -35,7 +35,7 @@ Ch 9.5 = L4→L20 kill volume at matched-goblin pace (~**16–17**/day over ~**9
 | **10** | Nest opener + present day → **Mage L20** | **+7** kills (**1** matched / **6** slightly lower); **+2** rice-grain stones; ear turn-in **+35 LC** → pouch **6,035**; inn sheet |
 | **11** | First dungeon day + trial weeks | On-page idle Spiked Boar **+5 XP** (**1%**). Day lock: **4** boars → **380** XP; share **+128** → pouch **6,163**. Trial **7** days: kill **+1,820** + Hands **L5→L6** (**~+100**) → bar **~2,774/10k** / pouch **~6,818** |
 | **12** | Floor-2 Needle Worm pocket clear before tame | **12** worms **L16–L18** → **+492 XP** (**24 + level**); bar **~3,266 / 10,000**; still L20. Core worm kept alive for tame |
-| **13** | Half-year Floor-3 → **Mage L25** | **1,102** kills; kill XP **48,726** + skill **3,608** = **52,334**; haul share **+9,116**; living+kit **−4,248** → pouch **11,641**; Calligraphy **L9**; **Basic Dodging → Dodging L6** |
+| **13** | Half-year Floor-3 → **Mage L25** | **1,102** kills; kill XP **48,726** + skill **4,608** = **53,334**; haul share **+9,116**; living+kit **−4,248** → pouch **11,641**; Calligraphy **L9**; Poison **L6**; Recovery **L5**; **Basic Dodging → Dodging L6** |
 | **14** | Watcher kill (people XP) | Pool **2750** (L55 × 50); Roland **+479** (banks at Mage L25 cap); Dodging **L6→L7**; Ned **25→26** |
 | **15** | Lesser Detonation Rune [Highest] schematic | **+1000 XP** (banks at L25); title **Runic Scholar**; class stone deferred |
 | **18** | Lesser Impact Rune [Highest] schematic | **+1000 XP** into L26 bar (**1739 / 13000**); Drawing **L1**; tree Dex **+10** |
@@ -78,7 +78,7 @@ Curve tables: `Levels.md`.
 | 10 | Nest opener then inn sheet | at **L20** | **7** kills: **1×** matched (**69** XP) + **6×** slightly lower (~**L18–19**, ~**67–68** each) → ~**471–477** XP into the L20 bar. **+2** rice-grain stones (**286→288**; leaders stay **16**); ears **+35 LC** → pouch **6,035 LC**; boar leg (underseasoned, gamey). Plans last five to Mage cap then Mana Scribe |
 | 11 | Dungeon rat + Spiked Boars (Emerald Wilderness) | at **L20** | On-page: idle first boar **+5 XP** (**1%**). Rat XP popup not shown. **Lock:** day **4** boars → **380** XP; share **+128 LC** → **6,163 LC**. Trial weeks (**7** more days / **28** boars): kill **+1,820 XP**; idle **Mana Hands** + Absorption + Sense while waiting → Hands **L5→L6** (**~+100** skill XP) → bar **~2,774 / 10,000**; share **+921** − living **266** → pouch **~6,818 LC**. Still L20. Shield L3 / Incantation L6 unchanged |
 | 12 | Needle Worm pocket clear (before tame) | at **L20** | **12×** Floor-2 worms **L16–L18**; formula **24 + level**. On-page pops **41 / 42 / 40**; pocket total **+492 XP** → bar **~3,266 / 10,000**. One core-bearing worm left alive; taming begins |
-| 13 | Half-year Floor-3 | **L20 → L25** | **1,102** kills (WB **120** / SB **78** / moth **228** / worm **416** / rat **260**); kill **48,726** + skill **3,608** = **52,334**; haul **+9,116**; living+kit **−4,248** → pouch **11,641 LC**. Skill ranks: `Skills.md` Ch 13 |
+| 13 | Half-year Floor-3 | **L20 → L25** | **1,102** kills (WB **120** / SB **78** / moth **228** / worm **416** / rat **260**); kill **48,726** + skill **4,608** = **53,334**; haul **+9,116**; living+kit **−4,248** → pouch **11,641 LC**. Skill ranks: `Skills.md` Ch 13 |
 | 14 | Watcher (people) | at **L25** cap | Pool **2750**; Roland **+479** banks toward class change; Dodging **L7**; Ned **25→26** |
 | 15 | Detonation schematic | at **L25** cap | **+1000 XP** banks; title **Runic Scholar**; bank total **1479** into Ch 16 |
 | 16 | Class change (Runic Mana Scribe) | bank applies | Half-cut **739** of **1479** into L26 bar (**739 / 13000**); stays **L26** / Scribe **L1** (no kills) |
@@ -178,7 +178,7 @@ On-page: equal money split after sales (no total printed). Locked with `Economy.
 
 ## Ch 13 half-year (Floor 3 → Mage L25 / Not bad)
 
-**Span:** **26** weeks (**182** days; **~3** dives/week). Enter **Mage L20** bar **3,266 / 10,000**. Need **52,334 XP** to **Mage L25** empty.
+**Span:** **26** weeks (**182** days; **~3** dives/week). Enter **Mage L20** bar **3,266 / 10,000**. Need **53,334 XP** to **Mage L25** empty (kill **48,726** + skill **4,608**).
 
 **Kill XP:** Roland active **1/4** on L1 shares (Wereboar **250**, Spiked Boar **125**, Needle Moth **25**, Needle Worm **6**, dungeon rat **3**).
 
@@ -191,9 +191,9 @@ On-page: equal money split after sales (no total printed). Locked with `Economy.
 | Dungeon rat | **260** | **780** |
 | **Kill total** | **1,102** | **48,726** |
 
-**Skill XP:** **3,608** (**36** ranks × **100** + **8** overflow). Ranks in `Skills.md` Ch 13.
+**Skill XP:** **4,608** (**46** ranks × **100** + **8** overflow). Ranks in `Skills.md` Ch 13 (Poison **L1→L6**, Recovery **L1→L5**).
 
-**Bar:** kill **48,726** + skill **3,608** = **52,334** → **Mage L25**.
+**Bar:** kill **48,726** + skill **4,608** = **53,334** → **Mage L25**.
 
 **Loot (team sale → equal 4-way):**
 
@@ -242,11 +242,11 @@ Inn study of the watcher's detonation rapier (Debugger / Technology pathways →
 
 **Title:** **Runic Scholar** (knowledgeable in runic language; created and/or understands runes). Unlocks **Runic Mana Scribe** on the next class-change crystal (Ch 16). Class stone deferred this chapter.
 
-**Bank into class change:** Ch 14 **479** + Ch 15 **1000** = **1479** XP banked at L25. Ledger still applies ~half loss on the switch (`Status.md` / Ch 17 overall climb). Ch 16 rewrite does not restate the half-loss line on-page.
+**Bank into class change:** Ch 14 **479** + Ch 15 **1000** = **1479** XP banked at L25. Ledger still applies ~half loss on the switch. Ch 16 rewrite does not restate the half-loss line on-page. Applied half (**739**) fills the L26 bar only (`Status.md` / Ch 17 stays **L26** / Scribe **L1**).
 
 ## Ch 16 class change
 
-No kill XP. Crystal used → **Runic Mana Scribe**. Banked **1479** → half-cut **739** into overall **L26** bar (**739 / 13000** toward L27). Stays **L26** / Scribe **L1** through Ch 17 (no overnight kills). Trial Fire Orb is a class trial scroll, not a schematic XP award. Source L28 / Scribe L3 drop is superseded by the rewrite curve.
+No kill XP. Crystal used → **Runic Mana Scribe**. Banked **1479** → half-cut **739** into overall **L26** bar (**739 / 13000** toward L27). Stays **L26** / Scribe **L1** through Ch 17 (no overnight kills). Trial Fire Orb is a class trial scroll, not a schematic XP award. Schematic **1000** compares on-page to one Wereboar kill but slower / indoor. Source L28 / Scribe L3 drop is superseded by the rewrite curve.
 
 ## Ch 18 Impact schematic
 
@@ -256,4 +256,4 @@ Sahildr's hammer copy (Debugger overlay on paper; not scribing). Drawing breakth
 |---|---:|---|
 | **Lesser Impact Rune [Highest]** schematic | **1000** | On-page popup; applies live (post class change) |
 
-**Bar:** **739 + 1000 = 1739 / 13000** toward L27. Still overall **L26** / Scribe **L1**. Skill: **Drawing L1**; Drawing tree Dex **+10** (Basic L9 **+9** baked + Drawing L1 **+1**).
+**Bar:** **739 + 1000 = 1739 / 13000** toward L27. Still overall **L26** / Scribe **L1**. Skill: **Drawing L1**; Drawing tree Dex **+10** (Basic L9 **+9** baked + Drawing L1 **+1**). Hammer copy only; no kill XP. Fire Orb schematic still pending into Ch 19.

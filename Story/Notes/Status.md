@@ -366,7 +366,7 @@ No full status screen. Gains **Basic Alcohol Resistance** L1 (**Endurance +1**) 
 
 ## Chapter 13
 
-Mage L25 at cap. Basic Calligraphy L9 reached. Half-year Floor-3 slate: `Experience.md` (**1,102** kills; **52,334 XP**; pouch **11,641 LC** at Not bad). Skill ranks: `Skills.md` Ch 13. **Basic Dodging → Dodging L6**.
+Mage L25 at cap. Basic Calligraphy L9 reached. Half-year Floor-3 slate: `Experience.md` (**1,102** kills; **53,334 XP**; pouch **11,641 LC** at Not bad). Skill ranks: `Skills.md` Ch 13. Poison **L6**. Recovery **L5**. **Basic Dodging → Dodging L6**.
 
 **Live (chapter)** — rewrite Mage L25 sheet (`StatusBreakdown.md`):
 
@@ -375,15 +375,15 @@ Mage L25 at cap. Basic Calligraphy L9 reached. Half-year Floor-3 slate: `Experie
 Name:       Roland Arden
 Class:      Mage L25
 
-HP               629/629
+HP               756/756
 MP              2292/2292
-SP               866/866
+SP               956/956
 
 Strength              49
 Agility               63
 Dexterity             59
-Vitality              47
-Endurance             53
+Vitality              57
+Endurance             62
 Intelligence         137
 Willpower            135
 Charisma              12
@@ -401,7 +401,7 @@ Class-change crystal recovered. Ambush unfinished.
 
 No full status screen. Damage **8** (cheek) + **31** (calf) + **46** (shoulder) before low-grade healing potion (drink half / pour; seals holes, residual ache). **Dodging L6→L7** mid-chase (**Agi +1**) and **479 XP** from Tier 2 fencer party kill. **Level lock:** fencer overall **L55**; Becky / Sahildr / Reyna overall **~45**; Roland Mage **L25**. Class-change crystal still on him. Confession to party unfinished.
 
-**Rewrite:** **Mage L25** after Dodging L7 (**49/64/59/47/53/137/135/12/7**; HP **629** / MP **2292** / SP **869**; pouch **11,641 LC**). Bar after **+479** into Mage L25 bank (cap; banks for class change).
+**Rewrite:** **Mage L25** after Dodging L7 (**49/64/59/57/62/137/135/12/7**; HP **756** / MP **2292** / SP **959**; pouch **11,641 LC**). Bar after **+479** into Mage L25 bank (cap; banks for class change).
 
 **Ned:** overall **26** / **4x**, **Greater Needle Worm** (evo jump from watcher kill XP). Sheet: `NedStatus.md`.
 
@@ -410,6 +410,8 @@ No full status screen. Damage **8** (cheek) + **31** (calf) + **46** (shoulder) 
 No full status screen. Gains **1000 XP** from Lesser Detonation Rune [Highest] schematic. Title: **Runic Scholar**. Rapier tip blast **125 MP** (SP overflow 1:1 if MP short). Cremation bubble **1000 MP**. Class-change crystal still unused. Bank at L25 cap: Ch 14 **479** + Ch 15 **1000** = **1479**.
 
 **Rewrite:** inherits Ch 14 Mage L25 rewrite sheet (**Dodging L7**). Schematic XP banks toward class change (half cut on switch).
+
+**Ned:** overall **26** / **4x** Greater; aptitude surge climbing skill bars (`NedStatus.md`).
 
 ## Chapter 16
 
@@ -444,6 +446,8 @@ Luck                   7
 
 Bank applies at class change with half-cut (**739** of **1479**). At overall **L26** that only fills **739 / 13000** toward L27. No overnight climb. Ch 17 sheet stays **L26** / Scribe **L1**.
 
+**Ned:** overall **26** / **4x**; silk-hold after trial bumps **Silk → L5** (`NedStatus.md`).
+
 ## Chapter 17
 
 Overall **L26**. Mage secondary. Runic Mana Scribe main **L1**. No kills overnight. Half-cut bank **739 / 13000** toward L27 (`500 × 26`).
@@ -475,19 +479,23 @@ Luck                   7
 ════════════════════════
 ```
 
-Same stack as Ch 16 night (Scribe L1 package only). Source had L28 / Scribe L3 from a softer bank climb; rewrite curve does not buy those levels from **1479** half-cut. Secondary Mage keeps mana bonuses (switch once/day). Rapier test: tip **125 MP** with Basic Rune Mastery L1 **−10%** → **113**, plus Mana Shield **100** → **MP 2096/2309**; stab **−2 SP** → **867/869**. Funds: ~15 SG personal plus loot share.
+Same stack as Ch 16 night (Scribe L1 package only). Source had L28 / Scribe L3 from a softer bank climb; rewrite curve does not buy those levels from **1479** half-cut. Secondary Mage keeps mana bonuses (switch once/day). Rapier test: Mana Shield + tip through a small hole (muffled; no neighbor bang). Tip **125 MP** with Basic Rune Mastery L1 **−10%** → **113**, plus Mana Shield **100** → **MP 2096/2309**; stab **−2 SP** → **867/869**. Funds: ~15 SG personal plus loot share. Shows party **Edelgard** on a map; letters to father / Martha ready to send.
 
 ## Chapter 18
 
-No full status screen. Gains **1000 XP** from Lesser Impact [Highest] schematic. Basic Drawing L9 (**Dexterity +9** baked) breaks through → **Drawing L1** (**Dexterity +1**). Drawing tree Dex **+10**. Adventurer rank **Bronze → Steel** (Miss Cellica; second T1 + missions + half-year). Parting spatial bag with coin (party keeps the larger watcher bag). Leaves Carwen for Edelgard by magic train (≥1 week, switches/carriages).
+No full status screen. Gains **1000 XP** from Lesser Impact [Highest] schematic. Basic Drawing L9 (**Dexterity +9** baked) breaks through → **Drawing L1** (**Dexterity +1**). Drawing tree Dex **+10**. Adventurer rank **Bronze → Steel** (Miss Cellica; second T1 + missions + half-year). On-page: "*You know, it's pretty nice.*" Parting spatial bag with coin (party keeps the larger watcher bag). Hugs goodbye; leaves Carwen for Edelgard by magic train (≥1 week, switches/carriages).
 
 **Rewrite:** inherits Ch 17 rewrite sheet + Drawing tree Dex **+10** (Basic **+9** already owed if not on prior sheet; Ch 18 on-page **+1**). Bar **739 + 1000 = 1739 / 13000**. Overall still **L26** / Scribe **L1**.
 
+**Ned:** overall **26** / **4x**; into-train skill ranks in `NedStatus.md` (Spike **L6**, Silk **L5**, Stealth **L6**, Charge **L6**, Seal **L5**, Poison **L5**).
+
 ## Chapter 19
 
-No full status screen. Parting bag confirmed at **10 small gold**. Gains **1000 XP** from Lesser Fire Orb [Highest] (memory redraw, ~1 hour). Three Highest lesser schematics now. Lodging: The Singing Crow Inn, Edelgard. Meets Helci.
+No full status screen. Parting bag confirmed at **10 small gold**. Gains **1000 XP** from Lesser Fire Orb [Highest] (memory redraw, ~1 hour). Three Highest lesser schematics now. Train week (**both drills every day**, mana at **~99%** regen ceiling; Ned nibble/poke + **needle-catch / feed-back**): Sound Production **L9**, Echolocation **L9**, Multitasking **L8**, Throwing **L2**, Shaping **L9**, Regulation **L9**, Ember **L9**, Heat **L6**, Cold **L6**, Pain **L8**, Poison **L7**, Recovery **L9** (no Rapid Recovery yet; ~**2 years**); Hands / Absorption / Reinforcement / Sense stay **L9**; Incantation **L8** (`Skills.md` Ch 19 math). Lodging: The Singing Crow Inn, Edelgard. Meets Helci.
 
 **Rewrite:** inherits Ch 17 rewrite. Pouch framing: parting bag **10 SG** (`Status.md` lock).
+
+**Ned:** overall **26** / **4x** Greater. Train exit skills: Spike **L7**, Silk **L5**, Stealth **L7**, Spring Charge **L6**, Seal **L6**, Poison Resistance **L5** (`NedStatus.md`).
 
 ## Chapter 20
 

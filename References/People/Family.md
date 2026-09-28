@@ -59,7 +59,8 @@ Unnamed. Large bald scarred soldier under the Baron. Runs physical training and 
 - Chapter 13: after ~half a year Roland digs up the buried class-change crystal; the watcher ambushes him in the west woods (throwing knives, heavy rapier, ~183 cm). Calls him bastard son and implies the Baron.
 - Chapter 14: fight continues. Watcher (chestnut hair, bushy beard, bloodshot) admits **surveillance / reporting only**, not protection; expected Roland home in a week; wants knighthood. Plans kill + blame beasts, then wipe the party. Party kills him (Gale Step, detonation rapier tip; Sahildr impact hammer finish; +479 XP). Roland starts confessing to the girls. Note: commoners who kill nobles hang even if the noble was guilty.
 - Chapter 15: partial confession (bastard earning keep; watcher snapped; alternate-hire theory private). Girls found him via Hilde + Reyna's watcher flag + Sahildr. Body burned on-site (Mana Shield cremation); Roland keeps rapier (boots to Sahildr); first [Highest] Detonation schematic + Runic Scholar.
-- Chapter 17: suspects Robert or the wives more than Wentworth; goes dark (no letters). Explains zero affinities and craft path to the party; quits alone.
+- Chapter 17: suspects sibling/mistress circle (wives most workable; not Wentworth). Wakes with Ned; L26 / Scribe L1 sheet. Shows party **Edelgard** on a map; sends letters to father and Martha on leaving. Explains zero affinities and craft path; leaves alone for smith/rune training; asks for Sahildr's hammer.
+- Chapter 18: Impact [Highest] schematic + Drawing L1; Bronze→Steel; parting bag; hugs goodbye; train to Edelgard. Party leaves Carwen on a caravan escort (girls cry after).
 - Chapter 19: Wentworth learns Roland and the watcher are gone (party left Carwen too). Weekly reports had stopped. Fumes over escape / foul play / death. Adam sent for more searchers. Guild won't reveal adventurer locations to a Baron (Ducal/King pull only).
 
 ## House Dreux (Edelgard)

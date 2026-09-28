@@ -236,7 +236,7 @@ Optional extras on the same skill later: comprehension gates for that rank, fewe
 
 **Early mana law (Ch 1–70):** running out of mana in fights and while crafting basic runes is a main tension. **Rune Mastery** and **Mana Reinforcement** both use the shared ladder **-/+10% per level, 90% cap**. Mastery cuts activation cost; Reinforcement turns mana into body stats while the pool lasts and drops when he is empty. Regen and fewer failed crafts still carry day-to-day survival. Lesser setup at L1 is about 900 mana (0.45 adult pool at 2000) and about 45 min at 20 mana per minute (`Runes/RuneSetup.md`).
 
-Same bar for **build** skills: Marksmanship changes hit chance and kit design. Analyze shows real formulas. Hastened Reading cuts real grind time. If the number is too small to matter at L1–L9, raise it or change the effect. **Flavor skills** (Sleep Resistance, Cooking, Technology, Acting, Basic Mathematics, Map Reading, and similar) stay soft and behind the scenes; do not force combat math onto them.
+Same bar for **build** skills: Marksmanship changes hit chance and kit design. Analyze shows real formulas. Hastened Reading cuts real grind time. If the number is too small to matter at L1–L9, raise it or change the effect. **Flavor skills** (Cooking, Technology, Acting, Basic Mathematics, Map Reading, and similar) stay soft and behind the scenes; do not force combat math onto them. **Sleep Resistance** is the light exception: −10% sleep need per level, evolve → Sleep Immunity down to a 1% floor (`Progression/Skills.md`).
 
 ### Mana tree: Telekinesis / Mage Hand (passive, Tier 2+)
 

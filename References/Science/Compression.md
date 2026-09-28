@@ -55,6 +55,8 @@ T₂ = T₁ × (V₁/V₂)^(γ−1), γ = 1.4 for air.
 
 10:1 expansion from 293 K → T₂ = 293 × 10^(−0.4) ≈ **117 K**. Practical with losses closer to **−50 to −80 °C**. Enough to flash-freeze a lock, hinge, bowstring or thin ice bridge. Setup cost mirrors Fire Piston (~383 J for the 1 L / 10× case). Same compression school, heat and cold.
 
+Personal cloak cooling with a held compressed sphere (Roland experiments then drops for a cold rune): `CloakAirCooling.md`.
+
 ## Pressure purification (HPP-style)
 
 E/V ≈ P² / (2 B), B ≈ 2.2 GPa for water.

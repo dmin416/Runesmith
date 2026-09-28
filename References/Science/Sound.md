@@ -74,6 +74,8 @@ Mana cheap (sound rates above). Bottleneck is attention / cortex. Caps at **L9**
 | L5–L7 | thousands | Gross detection near-auto; attention for fine ID |
 | L8–L9 | tens of thousands | Fully automatic spatial sense while fighting / casting |
 
+**Story lock (Ch 19):** tongue + free-placement mana pings with Ned **and** thermal grill **every day** at the **regen ceiling** (~99% pool). Needle-catch drill (Ned short-launches; Roland eyes-shut catch; tip fed back to Ned) clears Echolocation fight-quality. Exit **Sound Production L9**, **Echolocation L9** (full table: `Story/Notes/Skills.md` Ch 19). Skill cards: `../Progression/Skills.md`.
+
 Signature Recognition sub-skills from reps against specific cues (footsteps, voice, breath, heartbeat). Sighted casters compete with vision for the same processing unless eyes closed / blind (trained blind echolocators use visual cortex for the image).
 
 ### Sonic identification of structures

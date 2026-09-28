@@ -244,3 +244,34 @@ Class-change trial night. Carry-in from Ch 15.
 - **Ned** silk-ties him upright in the inn chair on return; eats the silk after chin-scratch.
 
 **Still carrying into Ch 17:** worn kit, detonation rapier, **Ned**, parsleaves / needle-blood stocks, pouch **11,641 LC**, stone bank, Detonation [Highest] schematic knowledge, new Scribe skills; class crystal spent.
+
+## Chapter 17
+
+Morning after class change. Carry-in from Ch 16. No kills.
+
+**Used / tested**
+- Detonation rapier tip under Mana Shield (muffled hole blast): tip **~113 MP** (Basic Rune Mastery L1 **−10%** of **125**) + Shield **100** → **MP 2096/2309**; stab **−2 SP** → **867/869**.
+
+**Gained / moved**
+- Assassin loot settled: gear + bag sell **>20 SG** total; Roland already held ~**15 SG**; girls **+5 SG**; Reyna keeps throwing daggers. No red-seal letters.
+- Unsent letters to **father** and **Martha** ready to send on leaving.
+- Asks to borrow Sahildr's Impact hammer (into Ch 18).
+
+**Still carrying into Ch 18:** worn kit, detonation rapier, **Ned**, parsleaves / needle-blood stocks, ~**15 SG** personal framing + stone bank, Detonation [Highest] schematic, Scribe skills; hammer borrow pending.
+
+## Chapter 18
+
+Impact copy + farewell. Carry-in from Ch 17.
+
+**Used / borrowed**
+- Sahildr's Impact warhammer (Debugger overlay copy on paper; returned after schematic). Strength of three men and still uncomfortable to hold.
+
+**Gained**
+- **Lesser Impact Rune [Highest]** schematic (paper) + **Drawing L1** + **1000 XP**.
+- Adventurer rank **Bronze → Steel** (Miss Cellica).
+- Party's smaller **spatial bag** with starter coin (they keep watcher bag ~2×). Peek deferred alone; Ch 19 locks **10 SG** inside.
+
+**Left behind / farewell**
+- Carwen kit packed into the new bag. Hugs Becky / Sahildr / Reyna; magic train toward Edelgard.
+
+**Still carrying into Ch 19:** Steel card, detonation rapier, **Ned**, parsleaves / needle-blood stocks, Detonation + Impact [Highest] schematics, Scribe skills, parting spatial bag (**10 SG** confirmed next chapter), stone bank.

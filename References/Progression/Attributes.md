@@ -30,25 +30,33 @@ SP: +10 per point of Endurance.
 
 ### Blood restore (human / Roland)
 
-Earth baseline for a **5 L** adult, then speed by Vit/End.
+Earth baseline for a **5 L** adult, then speed by Vit/End, then by **Recovery** skill.
 
 ```
 M = ((Vitality + Endurance) / 2) / 15
+Recovery_time = 1 − 0.1 × Recovery_level    (L0 = 1.0; L5 = 0.5; L9 = 0.1)
+Recovery_rate = 1 / Recovery_time            (L5 = 2×; L9 = 10×)
 ```
 
-Adult Vit/End **15/15** → **M = 1.0**. Rate × M; times ÷ M.
+Adult Vit/End **15/15** → **M = 1.0**. Base rates × M. Then × **Recovery_rate** for how fast he actually restores blood / closes the same class of wound.
 
-- **Plasma (~2.75 L):** **100–150 mL/h** at M = 1 (fluid intake + internal shifts); full volume **24–48 h**.
-- **Red cells (~2.25 L of that 5 L):** **15–25 mL/day** at M = 1 (marrow; faster if erythropoietin ramps after loss). Replacing **1 L** RBCs takes **4–6 weeks** at M = 1.
+When Vit or End rises, **recompute M**. When Recovery levels, **recompute Recovery_rate**. Both stack.
 
-Use **rewrite** sheets for continuity (`Status.md` / `StatusBreakdown.md`). Live Ch 13 Source block (Vit **25** / End **26**) is not the math lock.
+- **Plasma (~2.75 L):** base **100–150 mL/h** at M = 1; effective = base × M × Recovery_rate.
+- **Red cells (~2.25 L of that 5 L):** base **15–25 mL/day** at M = 1; effective = base × M × Recovery_rate.
+- Full-volume / 1 L RBC clock: base times ÷ M ÷ Recovery_rate.
 
-| Snapshot | Vit | End | M | Plasma rate | Full plasma | RBC rate | 1 L RBCs |
-|---|---|---|---|---|---|---|---|
-| Adult baseline | 15 | 15 | **1.00** | 100–150 mL/h | 24–48 h | 15–25 mL/day | 4–6 weeks |
-| Roland Ch 13 rewrite | 47 | 53 | **3.33** | **333–500 mL/h** | **~7–14 h** | **50–83 mL/day** | **~1.2–1.8 weeks** |
+**Recovery covers blood loss, cuts, wounds and soft-tissue damage.** It does **not** regrow missing limbs (`Skills.md`).
 
-Small Mana Hands drips to Ned are a trivial plasma hit at Roland’s M; marrow lag still owns any real bleed. Ned hemolymph (mass-scaled caterpillar): `../People/Ned.md`.
+| Snapshot | Vit | End | M | Rec | Plasma effective | RBC effective |
+|---|---|---|---|---|---|---|
+| Adult baseline | 15 | 15 | **1.00** | L0 **1×** | 100–150 mL/h | 15–25 mL/day |
+| Roland Ch 13 (Rec L5) | 47 | 53 | **3.33** | **2×** | **~666–1000 mL/h** | **~100–166 mL/day** |
+| Roland post Ch 19 (Rec L9) | higher | higher | recompute | **10×** | M × 10 × base | M × 10 × base |
+
+**Daily Ned feed:** whole blood, not packed cells. Red-cell slice ≈ **40–45%** of the drip. Comfortable daily whole-blood feed ≈ **(effective RBC rate) / 0.45**. Ch 13 story lock **150 mL/day** whole blood sits inside the Ch 13 Rec L5 band (~100–166 mL RBC/day → ~220–370 mL whole-blood ceiling; he feeds under the ceiling). Raise the drip when M or Recovery climbs if he is still feeding “as much as he recovers.”
+
+Ned hemolymph (mass-scaled caterpillar): `../People/Ned.md`.
 
 ## Intelligence
 Increases an individual's mana points, magic attack and learning speed. Helps visualize and recall spell circles (Chapter 10).

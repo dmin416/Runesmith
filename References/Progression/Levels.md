@@ -336,7 +336,7 @@ Attribute bonus from a skill = +1 × current skill level
 
 per favored attribute listed on that skill. When the skill gains a level, that attribute goes up by 1. Bonus equals the level on the skill card (Debugger L8 → Intelligence +8).
 
-Not every skill grants attributes. Identify, Analyze, Map Reading and Basic Mathematics show no attribute line at transfer. Mana Sense gains Intelligence and Willpower (Chapter 4; L4 → **+4 Int, +4 Will**). **Sleep Resistance** grants **Vitality +1** and **Endurance +1** per level. **Basic Alcohol Resistance** grants **Endurance +1** per level. **Dance** grants **Agility +1**. **Pain Resistance** grants **Willpower +1** and **Endurance +1**. **Basic Taming** grants **Charisma +1**. **Multitasking** grants **Intelligence +1** and **Dexterity +1**. **Poison Resistance** grants **Vitality +1** and **Endurance +1**. **Basic Acrobatics** grants **Agility +1**.
+Not every skill grants attributes. Identify, Analyze, Map Reading and Basic Mathematics show no attribute line at transfer. Mana Sense gains Intelligence and Willpower (Chapter 4; L4 → **+4 Int, +4 Will**). **Sleep Resistance** grants **Vitality +1** and **Endurance +1** per level. **Basic Alcohol Resistance** grants **Endurance +1** per level. **Dance** grants **Agility +1**. **Pain Resistance** grants **Willpower +1** and **Endurance +1**. **Basic Taming** grants **Charisma +1**. **Multitasking** grants **Intelligence +1** and **Dexterity +1**. **Poison Resistance** grants **Vitality +1** and **Endurance +1** per level. **Recovery** grants **Vitality +1** and **Endurance +1** per level. **Basic Acrobatics** grants **Agility +1**.
 
 **Transfer examples (bonus = level)**
 
@@ -381,6 +381,11 @@ Favored attributes for skills Roland trains in Chapters 4–7. Same +1 × level 
 | Poison Resistance | Vitality +1, Endurance +1 |
 | Pain Resistance | Willpower +1, Endurance +1 |
 | Sleep Resistance | Vitality +1, Endurance +1 |
+| Heat Resistance | Vitality +1, Endurance +1 |
+| Cold Resistance | Vitality +1, Endurance +1 |
+| Recovery | Vitality +1, Endurance +1 |
+| Sound Production | Intelligence +1, Dexterity +1 |
+| Echolocation | Willpower +1, Intelligence +1 |
 | Identify | none |
 
 **Level 2 (plain name) map** after Basic L9 evolve. Same favored attributes as the Basic form. New skill starts at L1. That L1 pad is the evolve “free stat” (Sneaking→Agi, Swordsmanship→Str, Running→End, Climbing→Str/Agi, Throwing→Dex, Marksmanship→Dex, Drawing→Dex). No extra point beyond +1 × level.
