@@ -52,7 +52,8 @@ Cheap high-volume goods first. Presses and steel process come when the shop can 
 |---|---|---|
 | **Safety pin** | 1849 (Hunt) | Fasten cloaks, diapers, kit; tiny metal + spring know-how |
 | **Bobby pin** | early 1900s | Hair / small clamp; stamped spring steel |
-| **Ball pen** | 1930s–1940s (Bíró) | Beats quill and dip for clerks; needs fine ball + ink paste |
+| **Pencil (wood + graphite)** | Roland invents (no common Terra pencil; no Edelgard lump graphite) | Schematic redraws; Conté-style synthetic core; Ned toxin-free spike assist (`../Science/WritingTools.md`) |
+| **Ball pen** | 1930s–1940s (Bíró); after he has metalworking | Beats quill and dip for clerks; needs fine ball + ink paste |
 | **Playing cards** | medieval → mass print | Already known as a product; press makes them cheap and uniform |
 | **Matches** | 1820s–1850s (friction / safety) | Pocket fire without flint kits; chemistry + wood sticks |
 | **Standardized soap** | 19th c. factory soap | Consistent bars by weight and scent; undercuts uneven cottage soap |
@@ -64,7 +65,7 @@ Cheap high-volume goods first. Presses and steel process come when the shop can 
 
 #### Solo startup plan
 
-Start with products that need only hand tools and cheap inputs. Their cash pays for the steel furnace, the press, the bicycle and the ball pen.
+Start with products that need only hand tools and cheap inputs. Their cash pays for the steel furnace, the press, the bicycle and the ball pen. **Pencil** is an earlier personal invent (`../Science/WritingTools.md`): synthetic graphite + casing; Ned toxin-free spike for clean cores. Not sold as a shop product until he chooses to productize it.
 
 ##### Build order
 
@@ -195,6 +196,16 @@ Each prefix is its own skill name with its own L1–L9 bar. Trees pick one namin
 - Some skills are **not** on the Basic→…→Legendary ladder at all.
 - Examples: **Technology**, Source-era **Circuitry**, and similar transfer / category skills.
 - They are gained once (or under their own rules), do not evolve through the prefix scheme, and may not level by the standard tier ladder. Treat as their own category when writing sheets and upgrades.
+
+### World laws: nature of runes and magic
+
+Lock: `Runes/Nature.md`. Short form:
+
+- Magic and runes follow **law and causality** (designed purpose, not vibes).
+- A rune is a machine of **segments** with different jobs; mana moves on **pathways**.
+- Lesser = **linear** progression. Higher ranks can couple and resonate (`Runes/RuneSystem.md`).
+- Binary / chip identity is **dropped**. Earth part names are Roland speculation, not ontology.
+- Regular enchantments / regular scrolls ≠ runic language or laws.
 
 ### World laws: rune ranks (5)
 

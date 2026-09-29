@@ -487,21 +487,21 @@ No full status screen. Gains **1000 XP** from Lesser Impact [Highest] schematic.
 
 **Rewrite:** inherits Ch 17 rewrite sheet + Drawing tree Dex **+10** (Basic **+9** already owed if not on prior sheet; Ch 18 on-page **+1**). Bar **739 + 1000 = 1739 / 13000**. Overall still **L26** / Scribe **L1**.
 
-**Ned:** overall **26** / **4x**; into-train skill ranks in `NedStatus.md` (Spike **L6**, Silk **L5**, Stealth **L6**, Charge **L6**, Seal **L5**, Poison **L5**).
+**Ned:** overall **26** / **4x**; into-train skill ranks in `NedStatus.md` (Spike **L6**, Silk **L5**, Stealth **L6**, Climbing **L6**, Charge **L6**, Seal **L5**, Poison **L5**).
 
 ## Chapter 19
 
-No full status screen. Parting bag confirmed at **10 small gold**. Gains **1000 XP** from Lesser Fire Orb [Highest] (memory redraw, ~1 hour). Three Highest lesser schematics now. Train week (**both drills every day**, mana at **~99%** regen ceiling; Ned nibble/poke + **needle-catch / feed-back**): Sound Production **L9**, Echolocation **L9**, Multitasking **L8**, Throwing **L2**, Shaping **L9**, Regulation **L9**, Ember **L9**, Heat **L6**, Cold **L6**, Pain **L8**, Poison **L7**, Recovery **L9** (no Rapid Recovery yet; ~**2 years**); Hands / Absorption / Reinforcement / Sense stay **L9**; Incantation **L8** (`Skills.md` Ch 19 math). Lodging: The Singing Crow Inn, Edelgard. Meets Helci.
+No full status screen. Enter wallet **21,641 LC** (personal **11,641** + parting gift **10 SG**). Solaria tip **−1 SS (−10 LC)** → **21,631**. Guild city map list **2 SS** / Steel **5%** → **−19 LC** → **21,612 LC**. Singing Crow room **−14 LC** → **21,598 LC**. Fire Orb memory redraw: **[High] +600 XP** (over 1 hour; uneven) then thin-sheet **[Highest] +400 XP** (total **1000**). Three Highest lesser schematics now. Train week (**both drills every day**, mana at **~99%** regen ceiling; Ned nibble/poke + **needle-catch / feed-back**): Sound Production **L9**, Echolocation **L9**, Multitasking **L8**, Throwing **L2**, Shaping **L9**, Regulation **L9**, Ember **L9**, Heat **L6**, Cold **L6**, Pain **L8**, Poison **L7**, Recovery **L9** (no Rapid Recovery yet; ~**2 years**); Hands / Absorption / Reinforcement / Sense stay **L9**; Incantation **L8** (`Skills.md` Ch 19 math). Lodging: The Singing Crow Inn, Edelgard (**14 LC**/night; Steel-band; skipped peasant hostel). Meets Helci.
 
-**Rewrite:** inherits Ch 17 rewrite. Pouch framing: parting bag **10 SG** (`Status.md` lock).
+**Rewrite:** inherits Ch 17 rewrite. Wallet **21,641 → 21,598 LC** after tip + map + room (`Items.md`). Personal **11,641 LC** never replaced by the gift alone. Fire Orb **High→Highest** **+1000 XP** total → bar **2739 / 13000** (`Experience.md`). Lesser quality ladder: **100 / 200 / 400 / 600 / 1000**. Source one-shot Highest **+1000** discarded.
 
-**Ned:** overall **26** / **4x** Greater. Train exit skills: Spike **L7**, Silk **L5**, Stealth **L7**, Spring Charge **L6**, Seal **L9**, Poison Resistance **L5**, Pain **L8**, Heat **L6**, Cold **L6** (`NedStatus.md`).
+**Ned:** overall **26** / **4x** Greater. Train exit skills: Spike **L7**, Silk **L5**, Stealth **L7**, Climbing **L7**, Spring Charge **L6**, Seal **L9**, Poison Resistance **L5**, Pain **L8**, Heat **L6**, Cold **L6** (`NedStatus.md`).
 
 ## Chapter 20
 
-No full status screen. Spends **9 small silver** on blank monster-skin scrolls plus ink/pencil/paper. Exeor offers a 6-year cursed Scribe contract; he declines for now. No class or XP change.
+No full status screen. Supply buy provisional (`Paper.md` / `Economy.md` §17: blanks **~4–5 LC** each, not Source **9 SS**/10). Exeor offers a 6-year cursed Scribe contract; he declines for now. No class or XP change.
 
-**Rewrite:** inherits Ch 17 rewrite. Coin −**9 SS**.
+**Rewrite:** inherits Ch 17 rewrite. Enter wallet **21,598 LC** after Ch 19 tip + map + Singing Crow night. Coin outlay retuned when Ch 20 is written.
 
 ## Chapter 21
 

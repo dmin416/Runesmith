@@ -543,7 +543,7 @@ Created **Lesser Impact Rune [Highest]** schematic (**+1000 XP** → bar **1739 
 
 ## Chapter 19
 
-Created Lesser Fire Orb Rune [Highest] schematic from class-trial memory (~1 hour; +1000 XP). Three Highest lesser schematics. Debugger fails on cut-paper overlays (needs whole sheet). Sleep Resistance noted on the long train.
+Created **Lesser Fire Orb Rune [High]** from class-trial memory (**over** 1 hour; **+600 XP**; uneven / first real-world Fire Orb draw). Thin-sheet trace of Debugger-correct lines → **[Highest]** (**+400 XP**). Total **1000** (Source one-shot Highest **+1000** discarded). Lesser quality XP: **100 / 200 / 400 / 600 / 1000**. Three Highest lesser schematics. Nature lock on-page: **large linear segments** / five Fire Orb stages (collector → fire core → shape → constraint → velocity); Detonation / Impact same chain family; **not** Source resistor / transistor / memory modules. Debugger fails on cut-paper overlays (needs whole sheet). Quill + **Mana Hands** ink refill (multitask practice); wants a pencil (`WritingTools.md`: invent later, not buy). Sleep Resistance noted on the long train.
 
 ### Train-week skill math (locked)
 
@@ -557,7 +557,7 @@ Field-use curve (`Levels.md`): cum clean uses to reach L = **1 / 10 / 50 / 155 /
 
 **Thermal pace (regen-capped + Recovery):** enter Rec **L5**. Cycle time pressed toward the mana period with potion assist when flesh lags (roughly **~1–1.5 min/cycle** early, faster as Recovery climbs). Harder per-cycle trauma than the old gentle grid. ~**1240** burn/frost/knit cycles over the week (day path roughly **146 → 156 → 165 → 187 → 192 → 199 → 199**).
 
-**Ned assist:** shallow intentional nibble / tip-poke on forearm or hand between grill squares (toxin prick). **Needle-catch drill:** Ned short-launches a spent/regrown tip at Roland; Roland eyes shut, locates on soft clicks only, catches, feeds the needle back into Ned’s mouth (spider-web recycle). Misses sting and count for Pain / Recovery / Poison. Same Needle Worm toxin family (soft repeat credit). Blood is **Roland’s**: usual drip plus **extra** from pokes/misses, paid out of rising Recovery restore (not free). **Ned shared grill:** same heat/cold patches on Ned’s plates/segments → Ned **Pain L8**, **Heat L6**, **Cold L6**, **Seal L5→L9** (his Recovery parallel); Spike **L7**, Stealth **L7** (`NedStatus.md`).
+**Ned assist:** shallow intentional nibble / tip-poke on forearm or hand between grill squares (toxin prick). **Needle-catch drill:** Ned short-launches a spent/regrown tip at Roland; Roland eyes shut, locates on soft clicks only, catches, feeds the needle back into Ned’s mouth (spider-web recycle). Misses sting and count for Pain / Recovery / Poison. Same Needle Worm toxin family (soft repeat credit). Blood is **Roland’s**: usual drip plus **extra** from pokes/misses, paid out of rising Recovery restore (not free). **Ned shared Trauma lock:** on-page scarf cold near-miss + tip wear; exit Spike **L7**, Stealth **L7**, Climbing **L7**, Seal **L5→L9**, Pain **L8**, Heat **L6**, Cold **L6** (`NedStatus.md`).
 
 | Skill | Enter | Exit | Why |
 |---|---|---|---|
@@ -583,7 +583,7 @@ Field-use curve (`Levels.md`): cum clean uses to reach L = **1 / 10 / 50 / 155 /
 
 **Sheet note:** fold these into the Ch 19 rewrite when the live L26 Scribe sheet is retconned; do not invent a second full status screen on the train.
 
-Still Runic Mana Scribe. Plans circuit-module experiments.
+Still Runic Mana Scribe. Plans large-stage rearrange / swap experiments (same linear rules), not Source circuit-board parts.
 
 ## Chapter 20
 

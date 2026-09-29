@@ -73,6 +73,7 @@ Luck                   7
 | Spike Throwing / Needle Launch | **L5** (just under L6) |
 | Silk Production | **L4** (near L5) |
 | Stealth / Camouflage | **L6** |
+| Climbing | **L5** (trees / dungeon walls with Roland) |
 | Spring Charge | **L5** (near L6) |
 | Seal / Regeneration | **L5** |
 | Poison Resistance | **L5** (L4 if toxin variety stays low) |
@@ -109,7 +110,7 @@ Luck                   7
 
 **Anchors:** charge **~33 kJ** / **~290 km/h**; tip hardness up with Strength; body still **~1 m / 10 kg** (multiplier, not size). Aptitude surge on all skills from the **4x** jump; no skill evolutions yet (still mid-L ranks from Ch 13).
 
-**Skills:** same ranks as Ch 13 half-year projection (Spike Throwing **L5**, Silk **L4**, Stealth **L6**, Spring Charge **L5**, Seal **L5**, Poison Resistance **L5**). Aptitude surge from **4x** starts climbing those bars faster from here.
+**Skills:** same ranks as Ch 13 half-year projection (Spike Throwing **L5**, Silk **L4**, Stealth **L6**, Climbing **L5**, Spring Charge **L5**, Seal **L5**, Poison Resistance **L5**). Aptitude surge from **4x** starts climbing those bars faster from here.
 
 ## Chapter 15–18 (Carwen closeout → leave)
 
@@ -119,13 +120,13 @@ Roland on schematics / class change / parting. Ned mostly scarf + room drills + 
 **Overall:** **26**  
 **Multiplier:** **4x**
 
-**Skills (into the train):** Spike **L5→L6** (aptitude surge + light toss drills); Silk **L4→L5** (trial hold + lines); Stealth still **L6**; Spring Charge **L5→L6**; Seal still **L5** (near L6); Poison Resistance still **L5**.
+**Skills (into the train):** Spike **L5→L6** (aptitude surge + light toss drills); Silk **L4→L5** (trial hold + lines); Stealth still **L6**; Climbing **L5→L6** (scarf / room walls); Spring Charge **L5→L6**; Seal still **L5** (near L6); Poison Resistance still **L5**.
 
 ## Chapter 19 (Edelgard train week)
 
 Moving echolocation target under seats / rack / panels. Daily **Roland** blood drip continues and **extra** from pokes / missed needles (paid from Roland’s rising Recovery, not free). Shallow intentional **nibbles / tip-pokes** on Roland’s forearm and hand. **Needle-catch drill:** short launches at Roland; he eyes-shut locates on soft clicks, catches and **feeds the tip back into Ned’s mouth** (spent needle nutrients → new growth). Soft cabin volume; not full charge shots. Almost no Spring Charge room.
 
-**Shared thermal / pain / seal drills:** Roland puts the same heat/cold mana patches on Ned’s plates and soft segments (scarf-line first made Ned flinch; intensity dialed to real tissue response without wrecking the worm). Burns, frost and tip/harvest nicks feed **Pain**, **Heat**, **Cold** and **Seal / Regeneration** in lockstep with Roland’s grill week (`Skills.md` Ch 19). Mana shaping stays Roland’s; Ned levels off launches, hide work, shared trauma and eating.
+**On-page thermal beat:** Ned rests across Roland’s shoulders during the forearm grill; one cold patch near the scarf line makes Ned flinch and Roland shifts it away. **Design lock (shared Trauma / Seal):** Pain / Heat / Cold / Seal exit ranks below stay locked with Roland’s grill week in `Skills.md` Ch 19 (same intensity family as the scarf near-miss + tip wear / harvest nicks). Mana shaping stays Roland’s; Ned levels off launches, **Climbing** (seat backs / wall panels / luggage rack), **Stealth / Camouflage** hides, shared trauma and eating.
 
 **Form:** Greater Needle Worm (T2)  
 **Overall:** **26** (keeps pace with Roland **L26**; blood/eat XP does not invent a separate curve)  
@@ -160,6 +161,7 @@ Luck                   7
 | Spike Throwing / Needle Launch | **L6** | **L7** | ~**200** short cabin launches/day × 7 at real-aim weight; catch drill clears L7. |
 | Silk Production | **L5** | **L5** | Light lines only after Ch 16 hold; holds L5. |
 | Stealth / Camouflage | **L6** | **L7** | All-week hide spam as echolocation target (seat / rack / panels). |
+| Climbing | **L6** | **L7** | Cabin verticals all week (under seats → wall panels → luggage rack). |
 | Spring Charge | **L6** | **L6** | Cabin has no charge lane; holds L6. |
 | Seal / Regeneration | **L5** | **L9** | Shared burn/frost/knit + tip wear / harvest nicks; parallel to Roland **Recovery L5→L9**. |
 | Poison Resistance | **L5** | **L5** | Mostly known family / own toxin (soft repeat); near L6, not over. |

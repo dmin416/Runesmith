@@ -39,6 +39,7 @@ Ch 9.5 = L4→L20 kill volume at matched-goblin pace (~**16–17**/day over ~**9
 | **14** | Watcher kill (people XP) | Pool **2750** (L55 × 50); Roland **+479** (banks at Mage L25 cap); Dodging **L6→L7**; Ned **25→26** |
 | **15** | Lesser Detonation Rune [Highest] schematic | **+1000 XP** (banks at L25); title **Runic Scholar**; class stone deferred |
 | **18** | Lesser Impact Rune [Highest] schematic | **+1000 XP** into L26 bar (**1739 / 13000**); Drawing **L1**; tree Dex **+10** |
+| **19** | Lesser Fire Orb [High] then [Highest] from memory | **+600** + **+400** = **1000 XP** → bar **2739 / 13000**; three Highest lesser schematics |
 
 Ch 6: weekly one-on-ones after the 9th birthday. Locked count **55** estate L1s after bravery (year of weeks plus a few extras) so the half-bank lands L3 empty under `500 × L`. After Mage, weekly continues and turns to **two** L1s at a time for ~**3 months** (**25** kills including the Ch 7 finale) so the first Carwen hunt can finish L3→L4.
 
@@ -83,6 +84,7 @@ Curve tables: `Levels.md`.
 | 15 | Detonation schematic | at **L25** cap | **+1000 XP** banks; title **Runic Scholar**; bank total **1479** into Ch 16 |
 | 16 | Class change (Runic Mana Scribe) | bank applies | Half-cut **739** of **1479** into L26 bar (**739 / 13000**); stays **L26** / Scribe **L1** (no kills) |
 | 18 | Impact schematic | at **L26** | **+1000 XP** → bar **1739 / 13000**; Drawing **L1**; tree Dex **+10** (Basic **+9** + L1 **+1**) |
+| 19 | Fire Orb schematic | at **L26** | Memory: **[High] +600** then **[Highest] +400** (total **1000**) → bar **2739 / 13000**; Detonation + Impact + Fire Orb all [Highest] |
 
 `XP_to_next(3) = 1500`. Entering Ch 9 with **1250** keeps the level-up on the **54** XP kill. Overflow after level-up is **(1250 + 263) − 1500 = 13** into the L4 bar (`XP_to_next(4) = 2000`).
 
@@ -257,3 +259,17 @@ Sahildr's hammer copy (Debugger overlay on paper; not scribing). Drawing breakth
 | **Lesser Impact Rune [Highest]** schematic | **1000** | On-page popup; applies live (post class change) |
 
 **Bar:** **739 + 1000 = 1739 / 13000** toward L27. Still overall **L26** / Scribe **L1**. Skill: **Drawing L1**; Drawing tree Dex **+10** (Basic L9 **+9** baked + Drawing L1 **+1**). Hammer copy only; no kill XP. Fire Orb schematic still pending into Ch 19.
+
+## Ch 19 Fire Orb schematic
+
+Inn redraw from class-trial memory (not Debugger on a weapon). First pass **over** 1 hour (uneven; first real-world Fire Orb draw). Source one-shot **[Highest] +1000** discarded.
+
+**Lesser quality XP ladder** (`Levels.md`): Lowest **100** / Low **200** / Intermediate **400** / High **600** / Highest **1000**. Raising quality pays the **difference** only.
+
+| Source | XP | Notes |
+|---|---:|---|
+| **Lesser Fire Orb Rune [High]** | **600** | Memory redraw; below Highest |
+| **Lesser Fire Orb Rune [Highest]** | **400** | Thin-sheet trace of correct lines (diff High→Highest) |
+| **Total** | **1000** | Same as going straight to Highest |
+
+**Bar:** **1739 + 1000 = 2739 / 13000** toward L27. Still overall **L26** / Scribe **L1**. Three Highest lesser schematics (Detonation + Impact + Fire Orb). Cut-paper Debugger overlays fail (needs one whole sheet).

@@ -53,7 +53,7 @@ Awards are **straightforward**: flat or simple by action. Class does **not** cha
 | Goblin L2 / L3 / L4 (first Carwen group) | **51 / 52 / 53** |
 | Typical early forest goblin (~L4) | **53** (RaceMult 1.0) |
 | First Kill achievement (on top of the kill) | **+200** (Chapter 4; not every kill) |
-| First-time basic / lesser rune schematic (drawing it into the system) | **1000** |
+| First-time basic / lesser rune schematic at **[Highest]** | **1000** (quality ladder: **100 / 200 / 400 / 600 / 1000**; raise pays difference) |
 | Repeat scrolls / practice crafts | much less than first schematic (story: ~20 regular, ~50 runic until retuned) |
 
 **Goblin levels in early rewrite**
@@ -178,7 +178,7 @@ Source payouts were smaller (goblin ~15–20 XP, same **1000** first schematic).
 | First adventurer day, Mage L3 | ~7 goblin ears; leveled once during the hunt | estate Mage doubles left **1250 / 1500**; hunt **263** finishes L3→L4 |
 | ~3 months forest grind | L4 → **L20** | **1,481** matched goblins + spell/skill XP (`Experience.md`) |
 | Party dungeon arc | ~half a year more toward Mage L25 cap | higher XP/fight than forest goblins |
-| First lesser schematic | **1000 XP**; “couple of levels” if spent right after a fresh class (low L) | 1000 ≈ 1–2 levels near overall L2–L3 |
+| First lesser schematic | **1000 XP** at **[Highest]** (quality ladder below); “couple of levels” if spent right after a fresh class (low L) | 1000 ≈ 1–2 levels near overall L2–L3 |
 | Late Source | bar called “exponential” and stubborn | rewrite stays **linear**; high constant makes late levels slow without a second curve |
 
 ### Locked rules
@@ -243,7 +243,19 @@ XP already spent stays spent. Goblin-counts are a yardstick only. Real paths mix
 | Person L55 (pool `50 × L`) | **2750** | ~1.10 level | ~0.22 level | ~0.11 level |
 | Tier 2 fencer L55 (Roland share; Ch 14) | **479** | ~0.19 level | ~0.04 level | ~0.02 level |
 
-Chapter 26 schematic stacking: Intermediate common = **1000 XP**; then perfecting to Highest adds another **1000** (total 2000). Going straight to Highest also pays 2000. No further XP for redoing the same schematic past that cap.
+**Lesser schematic XP by quality (locked):** payout is the quality’s listed XP the first time that schematic reaches that quality. Raising the same lesser schematic to a higher quality pays only the **difference** up to the new tier (never stacks full tiers). Straight to Highest pays **1000**. No further XP past Highest on that schematic.
+
+| Quality | XP (first time at that quality) | Diff from prior |
+|---|---:|---:|
+| Lowest | **100** | n/a |
+| Low | **200** | **+100** |
+| Intermediate | **400** | **+200** |
+| High | **600** | **+200** |
+| Highest | **1000** | **+400** |
+
+Ch 19 Fire Orb: memory **[High] +600** then **[Highest] +400** = **1000**.
+
+Chapter 26 common schematic stacking: Intermediate common = **1000 XP**; then perfecting to Highest adds another **1000** (total **2000** = **2×** lesser Highest). Going straight to Highest also pays **2000**. No further XP for redoing the same schematic past that cap. Perfect common schematic from a shop sample pays **2×** lesser (`Spells.md` Fire Arrow).
 
 Chapter 21 timing: regular Mana Arrow ~**10 min** / 20 XP; Fire Orb runic ~**45 min** / 50 XP (imperfect). Five regular scrolls ≈ one runic's time for more XP; schematics still dominate leveling. Shop magic contracts can curse breach with **−60% mana** until the term ends. Common schematics pay **2×** lesser (Chapter 22 Fire Arrow).
 

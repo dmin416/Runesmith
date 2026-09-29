@@ -38,8 +38,11 @@ No locked “flight is expensive” or “flight is cheap” fiat. Cost is whate
 | `Flight.md` | Hover / flight power math |
 | `CraftMetal.md` | Barrier molds, wire, springs, atomization, period steel vs modern knowledge |
 | `CleverApps.md` | Vacuum-pocket lift, micro-compression, insulation, compression-forged edges |
+| `Falling.md` | Fall landings, height→speed to terminal, Shepherd's Leap pole brake |
 | `ImpactRune.md` | Sahildr Impact hammer: compressed-mana stroke vs hold power |
 | `CloakAirCooling.md` | Roland’s 5 m³ air-compress cloak cool math (forgoes for a cold rune) |
+| `WritingTools.md` | Terra writing kit; Roland invents pencil (synthetic graphite + Ned toxin-free spike) then pen |
+| `Paper.md` | Mundane vs mana paper/hide grades; flockbeast parchment; magic wood vs monster skin |
 
 **Future spell idea rungs** (same cast law): `../PotentialMagic/PotentialMagic.md`.
 

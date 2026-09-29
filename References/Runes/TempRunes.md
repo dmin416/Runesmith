@@ -2,7 +2,7 @@
 
 Temporary scrape of chapter prose on how runes / runic enchantments look and how Roland makes them (hand, quill, hammer, chisel). Not a world-law file.
 
-Canonical catalog: `Runes.md`. Rewrite pathway model: `RuneSystem.md` (binary circuitry dropped; Debugger red = leaks / discord). Setup pour costs: `RuneSetup.md`.
+Canonical catalog: `Runes.md`. Nature / worldview: `Nature.md`. Rewrite pathway model: `RuneSystem.md` (binary circuitry dropped; Debugger red = leaks / discord). Setup pour costs: `RuneSetup.md`.
 
 ---
 
@@ -37,7 +37,7 @@ Canonical catalog: `Runes.md`. Rewrite pathway model: `RuneSystem.md` (binary ci
 - **Ch 15–16 rewrite:** Stages / regions with jobs in the flow. No on-page transistors, resistors, chips, logic gates or binary (Source had those in the trial book beat).
 - **Ch 16 rewrite (full trial):** Continuous pass large areas → finer details. Debugger does **not** guide mid-draw; only grades a finished piece. First attempt mostly red (no functional activate). Mana-hand overlay onto beast skin cascades (~**1/4 MP**; hand implodes; Pollock scroll). Second success: five symbols; fist-sized heat orb. Urge to fantasize about applications but no time.
 - **Ch 16 Source (fail / success):** Failed scroll **crimson** glow then fizzles / pattern vanishes. Success: **wisps of red light** compress into a small marble-hot orb. Three visible symbols after dry.
-- **Ch 19:** All runes have traces = magical pathways that carry inserted mana. Whole rune ≈ closed circuit. Components scattered through schematics.
+- **Ch 19:** Every rune has **large segments** with different jobs in a **linear** chain. Pathways link stage to stage. All runes and by extension magic follow law / causality they were designed for. Fire Orb's five named regions; other lessers lack books but linear structure and progression imply the same rules. Custom work = rearrange large stages on one whole sheet. **Not** binary / buried chips. Design lock: `Nature.md`.
 - **Ch 21:** Debugger shows red on imperfect practice scroll. **No lines** on regular (non-runic) spell scrolls.
 - **Ch 33:** Overloaded pelt: center lights; mana in **six directions**; glistering pathways between linked fire-arrow runes.
 - **Ch 50:** Colored lines everywhere under deep Debugger (even plants); red / blue / green.
@@ -98,7 +98,7 @@ Rune / craft deltas only. Tone and class-menu personality changes listed when th
 
 - **Ch 15:** Pen and paper. Redraw whole diagram with improved pathways (~**1 hour**). All-green under Debugger → system awards schematic.
 - **Ch 16:** Trial Fire Orb scroll (class pass; not a schematic XP award).
-- **Ch 19:** Quill + drawing materials; recreate Fire Orb from memory (~1 hour).
+- **Ch 19:** Quill + drawing materials; recreate Fire Orb from memory (~1 hour → **[High] +600**); second redraw → **[Highest] +400**; total **1000**. Lesser quality ladder **100 / 200 / 400 / 600 / 1000**.
 
 ### Metal / Runecraft (Blacksmith path)
 

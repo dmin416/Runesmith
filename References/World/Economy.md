@@ -16,8 +16,10 @@ Use these rewrite anchors first. Prefer them over older Source-era numbers when 
 | Forest lunch jerky | **~2 LC**/stick (Ch 9.5: **3** bought; other lunches = goblin prey) |
 | Thick wool cloak (nice-ish, mattress/comforter) | **300 LC** |
 | Lodging / night | **1 SS** |
+| Singing Crow / night (Edelgard) | **14 LC** (a bit above Carwen; not 2×) |
+| Solaria station tip (Edelgard, Ch 19) | **1 SS** |
 | Monthly lodging (10% off, **28** nights) | **252 LC** |
-| Better inn / night | **2 SS** |
+| Better inn / night | **2 SS** (separate nicer tier) |
 | Tavern: 3 half-gallon pitchers (weak spirits, ~40 proof) | **~45 LC** |
 | Tavern share (Roland, 1/3 of round) | **15 LC** |
 | Tavern first round (Roland pays all 3, Ch 12) | **45 LC** |
@@ -76,6 +78,7 @@ Three metals, each with a small and large coin. Each tier is x10 the one below i
 | Item | Cost | LC value | Real-value equivalent |
 |---|---|---|---|
 | Lodging (nightly) | 1 SS | 10 | 2d |
+| Singing Crow (Edelgard, nightly) | 14 LC | 14 | ~2.8d |
 | Better inn (nightly) | 2 SS | 20 | 4d |
 | Monthly lodging (10% off, **28** nights at 1 SS) | 252 LC | 252 | 4s 2d |
 | Cabin (Arden) | free | 0 | - |
@@ -398,18 +401,21 @@ Any greedy merchant can upcharge. Fair rates above assume a known customer in a 
 
 ## 17. Spell Scrolls & Runic Crafting
 
-| Item | Cost | LC value |
-|---|---|---|
-| Blank monster-skin scrolls, ~A5 (bundle of 10) | 9 SS | 90 |
-| Mana Arrow spell scroll (shop) | 1 SS | 10 |
-| Fire Arrow spell scroll (shop, T2) | 3 SS | 30 |
-| Fireball spell scroll (shop) | ~6 SS | ~60 |
-| Runic Orb of Light scroll (Exeor) | >=1 LS | >=100 |
-| Runic Fire Arrow scroll (Exeor shelf, ~6-7x regular) | 2 LS | 200 |
-| Runic Fire Arrow [Common][High] (auction) | up to ~9 SS | up to ~90 |
-| Mithril runic gear | >=1 LG | >=10,000 |
+Surface costs: `../Science/Paper.md` (locked bands from early pegs / Ch 19; Ch 20+ shop tags are provisional).
 
-Independent scribe income: roughly 10 scrolls/week ~ 1 SG. Platform/shop cuts vary by contract: a first-timer's sale carries a 25% fee; an exclusive multi-year store contract can drop to 15% commission with facilities and cheaper materials in exchange, backed by a mana-based penalty for breaking the contract early. Blank monster-skin paper is cheaper than magic-wood paper and covers low-tier spells; scroll grade tracks how much power was injected during crafting (device-checked), not just craftsmanship. ~A5 blanks cover T1-T2 spells.
+| Item | Cost | LC value | Status |
+|---|---|---|---|
+| Blank monster-skin scrolls, ~A5 | **~4–5 LC** each (**~4–5 SS** / 10) | 4–5 | **Rewrite lock** (`Paper.md`); old Source **9 SS**/10 discarded |
+| Magical paper sheet, ~A5 | **~30–40 LC** typical | 30–40 | Above rough blanks |
+| Mana Arrow spell scroll (shop) | **~3–4 SS** provisional | 30–40 | Was Source **1 SS**; raise so blank is not the whole price |
+| Fire Arrow spell scroll (shop, T2) | **~5–8 SS** provisional | 50–80 | Was Source **3 SS** |
+| Fireball spell scroll (shop) | **~1 LS** provisional | ~100 | Was Source **~6 SS** |
+| Runic Orb of Light scroll (Exeor) | >=1 LS | >=100 | Specialist; retune with chapter |
+| Runic Fire Arrow scroll (Exeor shelf) | **several×** regular | — | Specialist craft time |
+| Runic Fire Arrow [Common][High] (auction) | retune with Ch 22 | — | Old “up to ~9 SS” was Source |
+| Mithril runic gear | >=1 LG | >=10,000 | |
+
+Independent scribe income: retune with blank + scroll ladder when Ch 20–27 are rewritten. Blank monster-skin is cheaper than magic-wood paper. Scroll grade tracks power injected (device-checked). ~A5 blanks cover T1–T2 spells.
 
 ### Chapter contract beats (Libra / Exeor)
 
@@ -697,9 +703,12 @@ Hard numbers only, with chapter cites. Prefer the **Rewrite price lock** when a 
 | Goblin ear (steel board) | **5 LC** each | 8-9 |
 | Inn meal (porridge + jerky) | **5 LC** | 9 |
 | Lodging / night | **1 SS**; breakfast **+5 LC** | 9 |
-| Better inn / night | **2 SS** | lock |
+| Better inn / night | **2 SS** | lock (nicer tier; **not** Singing Crow) |
+| Singing Crow / night (Edelgard) | **14 LC** (a bit above Carwen **1 SS**) | 19 |
+| Solaria station tip (Edelgard) | **1 SS** (Source copper) | 19 |
 | Monthly lodging discount | **10%** → **252 LC** (Hilde advertised; Ch 9–13) | 9, 13 |
 | Library map | **1 SS** | 9 |
+| Edelgard city map (guild) | list **2 SS**; Steel **5%** → **19 LC** | 19 |
 | Rice-grain mana stone | **2 SS** | 9 |
 | Class-change crystal | **2 SG** | 13, 34 |
 | Commoner household income | **~4 LS / month** | 13 |
@@ -714,7 +723,7 @@ Hard numbers only, with chapter cites. Prefer the **Rewrite price lock** when a 
 | Mana Arrow scroll (shop) | **1 SS** | 20 |
 | Fire Arrow scroll (shop, T2) | **3 SS** | 20 |
 | Fireball scroll (shop talk) | **~6 SS** | 20 |
-| Blank monster-skin x10 | **9 SS** total (**9 LC** each blank) | 20 |
+| Blank monster-skin x10 | **~4–5 SS** total (**~4–5 LC** each) | rewrite when Ch 20 written; was Source **9 SS** |
 | Runic Orb of Light | **>=1 LS** | 20 |
 | Runic Fire Arrow (Exeor shelf) | **2 LS** | 20 |
 | Intermediate Fire Arrow (regular) | **2-4 SS** | 22 |
@@ -749,7 +758,7 @@ Hard numbers only, with chapter cites. Prefer the **Rewrite price lock** when a 
 | Albrook auction paddle | **1 SS** | 74 |
 | Music box starting bid | **4 LS** | 74 |
 | Dungeon-gate potion markup | **>=25%** over market | 71 |
-| Steel map discount | **5%** | 19-20 |
+| Steel map discount | **5%** off list **2 SS** → **19 LC** | 19 |
 | Mundane light sword + leather repair | **~40-80 LC** | lock |
 | Mundane heavy both | **~1-2 LS** | lock |
 | Runic repair (simple) | **~3 LS** | lock (not mundane kit) |

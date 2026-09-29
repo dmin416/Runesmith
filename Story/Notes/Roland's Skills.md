@@ -54,17 +54,17 @@ Age-10 technique targets: see `Progression.md` / Ch 7 note in `Skills.md`. Chapt
 34. Mana Reinforcement – Ch 9.5 – self-taught body store from the same drills; **L9** by end; same skill as common dealer books (discovery takes longer). Source delayed to book Ch 54 / learn Ch 56 (rewrite: already owned; skip or reframe that purchase)
 35. Basic Alcohol Resistance – Ch 12 – Iron Flagon binge; exposure unlock at **L1**; Ch 13 party drinks → **L4**; **Endurance +1** per level; other resistances possible the same way
 36. Dance – Ch 12 – tavern-table dance; **L1**; **Agility +1** per level
-37. Pain Resistance – Ch 12 – hangover / force-feed night; **L1**; Ch 19 daily grill → **L5**; **Willpower +1**, **Endurance +1** per level (later Ch 197 deepens)
-37a. Cold Resistance – Ch 13 – cold bare inn / cloak+Ned (was labeled Temperature Resistance); unlock **L1**; Ch 19 daily grill → **L4**; **Vitality +1**, **Endurance +1** per level
-37b. Heat Resistance – Ch 19 – thermal grill unlock; **L1 → L4**; **Vitality +1**, **Endurance +1** per level (forge / Heat Sense deepen later)
+37. Pain Resistance – Ch 12 – hangover / force-feed night; **L1**; Ch 19 daily grill → **L8**; **Willpower +1**, **Endurance +1** per level (later Ch 197 deepens)
+37a. Cold Resistance – Ch 13 – cold bare inn / cloak+Ned (was labeled Temperature Resistance); unlock **L1**; Ch 19 daily grill → **L6**; **Vitality +1**, **Endurance +1** per level
+37b. Heat Resistance – Ch 19 – thermal grill unlock; **L1 → L6**; **Vitality +1**, **Endurance +1** per level (forge / Heat Sense deepen later)
 37c. Sound Production – Ch 19 – free-placement mana + tongue clicks daily; **L1 → L9**; **Intelligence +1**, **Dexterity +1** per level
-37d. Echolocation – Ch 19 – Ned move / click-locate eyes closed daily; **L1 → L8**; **Willpower +1**, **Intelligence +1** per level; ladder in `Science/Sound.md`
-37e. Multitasking – Ch 12 cook **L1**; Ch 19 dual drills daily → **L5**; **Intelligence +1**, **Dexterity +1** per level
-37f. Train mana foundations – Ch 19 (both every day): Shaping **L6→L9**, Regulation **L7→L9**, Ember **L6→L9**; Hands / Absorption / Reinforcement / Sense stay **L9**; Incantation **L8**; Recovery **L5→L7**. Full math: `Skills.md` Ch 19.
+37d. Echolocation – Ch 19 – Ned move / click-locate eyes closed daily + needle-in-flight catches; **L1 → L9**; **Willpower +1**, **Intelligence +1** per level; ladder in `Science/Sound.md`
+37e. Multitasking – Ch 12 cook **L1**; Ch 19 dual drills daily → **L8**; **Intelligence +1**, **Dexterity +1** per level
+37f. Train mana foundations – Ch 19 (both every day): Shaping **L6→L9**, Regulation **L7→L9**, Ember **L6→L9**; Hands / Absorption / Reinforcement / Sense stay **L9**; Incantation **L8**; Recovery **L5→L9**; Poison **L6→L7**; Throwing **L1→L2**. Full math: `Skills.md` Ch 19.
 38. Sleep Resistance – Ch 12 – climbs **L4 → L5** (**Vitality +1**, **Endurance +1** that tick)
-39. Poison Resistance – Ch 12 – Needle Worm blood / needle crunch; popup ignored; **L1**; daily Ned toxin seasoning through Ch 13–19 (~187 days) → **L6**; **Vitality +1**, **Endurance +1** per level
-39a. Recovery – Ch 13 – daily Mana Hands skin poke + 150 mL bleed/knit to Ned; unlock **L1 → L5**; small-wound close time **−10%/level**; **Vitality +1**, **Endurance +1** per level; evolve → Rapid Recovery
-40. Multitasking – Ch 12 – eight Mana Hands on cook skewers; unlock unnoticed; **L1**; **Intelligence +1**, **Dexterity +1** per level
+39. Poison Resistance – Ch 12 – Needle Worm blood / needle crunch; popup ignored; **L1**; daily Ned toxin seasoning through Ch 13–19 (~187 days) → **L6**; Ch 19 train tip-pricks → **L7**; **Vitality +1**, **Endurance +1** per level
+39a. Recovery – Ch 13 – daily Mana Hands skin poke + 150 mL bleed/knit to Ned; unlock **L1 → L5**; Ch 19 grill → **L9**; small-wound close time **−10%/level**; **Vitality +1**, **Endurance +1** per level; evolve → Rapid Recovery
+40. Multitasking – Ch 12 – eight Mana Hands on cook skewers; unlock unnoticed; **L1**; Ch 19 dual drills → **L8**; **Intelligence +1**, **Dexterity +1** per level
 41. Basic Taming – Ch 12 – core Needle Worm bind (food, shield stall, Will stare); **L1**; **Charisma +1** per level; worm worn as green scarf
 
 Ch 13 combat/technique ranks (half-year slate): Mana Shield **L3→L6**; Mana Arrow **L5→L8**; Mana Bolt **L7→L9**; Basic Incantation **L6→L8**; Basic Dodging **L6→L9** → evolve → **Dodging L6**; One-Handed Swordsmanship **L1→L4**; Sneaking **L1→L3**; Throwing **L1→L3**; Basic Calligraphy **L4→L9**; Alcohol **L1→L4**; Mana Hands **L7→L9**; Temperature Resistance **L1**. Rewrite sheet: Str **49** / Agi **63** / Dex **59** / Vit **47** / End **53** / Int **137** / Will **135** / Cha **12** / Luck **7**; HP **629** / MP **2292** / SP **866**. Ch 14: **Dodging L7**, Agi **64**, SP **869**. Full table: `Skills.md` Ch 13 / `StatusBreakdown.md`.

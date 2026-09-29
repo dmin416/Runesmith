@@ -83,15 +83,15 @@ Crafting hub built into a large mountain in a rocky high-altitude range. Roland 
 
 **Look:** Train arrives over a large gorge bridge linking two city parts (fall = death). Mine shafts show in the background with smoke. Outside the station: rock and brick houses dominate; wooden structures are rare. Dark rocky roads. Robust dwarf-heavy streets; gnomes common (tinkerers: magical trains, intricate machinery, trinkets and magical accessories; dwarves lean heavy weapons/armor). Guild layout similar to Carwen but packed with short races so a short robed youth draws little notice.
 
-**Natural resources:** Mountain mines feed the smith trade (why the city is known for blacksmiths). Ore and crafted goods ship out to adventurer towns like Carwen. No local dungeon; wild monsters still appear and need clearing.
+**Natural resources:** Mountain mines feed the smith trade (why the city is known for blacksmiths). Ore and crafted goods ship out to adventurer towns like Carwen. Iron and deeper rare metals; **no large graphite deposit** (Roland must synthesize graphite for pencils: `../Science/WritingTools.md`). No local dungeon; wild monsters still appear and need clearing.
 
-**Economy:** Larger city than Carwen: inn rates run higher; people earn more. Scroll / scribing shops sell one-use magic to adventurers. Solo scroll sales look hard without a shop job. Class-change stones come from churches (Solaria and others); multiple producers keep prices from spiking though stones stay pricey. Guild city map: Steel rank **5%** discount. Chapter 25: merchant **council** of top store/smith owners meets every three months; recruits promising talent or crushes independent upstarts.
+**Economy:** Larger city than Carwen: inn rates run higher; people earn more. Scroll / scribing shops sell one-use magic to adventurers. Solo scroll sales look hard without a shop job. Class-change stones come from churches (Solaria and others); multiple producers keep prices from spiking though stones stay pricey. Guild city map: list **2 SS**; Steel rank **5%** → **19 LC** (Ch 19). Chapter 25: merchant **council** of top store/smith owners meets every three months; recruits promising talent or crushes independent upstarts.
 
 **Adventurers:** Guild still runs without a dungeon. Job board work is mostly hired muscle: bouncers, guards and clearing wild monsters that show up. Not a delve hub.
 
 ### The Singing Crow Inn
 First seen: Chapter 19
-Edelgard inn marked for Bronze and Steel adventurers. Four floors. Pricier than Carwen lodging; straw mattress rooms. Helci works here as a half-gnome waitress (first bump at the door; boss calls her by name). Chapter 24: innkeeper tells staff not to bother the robed lodger (cult / ritualist rumor).
+Edelgard inn marked for Bronze and Steel adventurers. Four floors. Straw mattress rooms (same quality band as Carwen cheap). Room **14 LC / night**: a bit above Carwen’s **1 SS** (**10 LC**), not the Economy **better inn** tier (**2 SS**). Chapter 19: Roland skips the peasant hostel, considers a nicer splurge after the train week, then takes the closest Steel-band room (clean/quiet over lavish; cloak could sleep outside but he refuses misery grinding). Helci works here as a half-gnome waitress (first bump at the door; boss calls her by name). Chapter 24: innkeeper tells staff not to bother the robed lodger (cult / ritualist rumor).
 
 ### Exeor's Magic Emporium
 First seen: Chapter 20
@@ -107,7 +107,7 @@ Hidden city organization. Takes jobs Adventurer's Guild won't. Entry requires Th
 
 ### Temple of Solaria / Church of the Sun
 First seen: Chapter 19 (station priests); temple proper Chapter 53
-Sun-goddess faith (yellow sun robes, bells, collection plates). Path talk: Acolyte → Cleric → Paladin. Churches produce class-change stones (claimed god-gift; multiple churches keep prices from spiking). Orphanages: kids choose acolyte life or leave by age **14**; stones are not free for orphans (Chapter 24 Helci). Chapter 19: Roland tips copper at the Edelgard station. Chapter 53: Edelgard temple; T3 High Priest removes Abyss curse (9 small gold). Moon elves on poor terms with this church.
+Sun-goddess faith (yellow sun robes, bells, collection plates). Path talk: Acolyte → Cleric → Paladin. Churches produce class-change stones (claimed god-gift; multiple churches keep prices from spiking). Orphanages: kids choose acolyte life or leave by age **14**; stones are not free for orphans (Chapter 24 Helci). Chapter 19: Roland tips **1 SS** at the Edelgard station and says "*Praise the Son.*" (Source copper / "*Praise the sun!*"); his faith unlocked Acolyte so he treats the church as real power here. Chapter 53: Edelgard temple; T3 High Priest removes Abyss curse (9 small gold). Moon elves on poor terms with this church.
 
 ### Hightown
 First seen: Chapter 39

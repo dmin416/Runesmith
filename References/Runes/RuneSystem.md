@@ -1,6 +1,6 @@
 # Rune System Redesign
 
-Basis for runes going forward (not frozen; dials stay open). Companion: setup mana in `RuneSetup.md`. Activation energy, path efficiency and heat: `Energy.md`. Named rune catalog and chapter first-seens: `Runes.md`.
+Basis for runes going forward (not frozen; dials stay open). **Nature / worldview lock:** `Nature.md` (segments, pathways, law and causality). Companion: setup mana in `RuneSetup.md`. Activation energy, path efficiency and heat: `Energy.md`. Named rune catalog and chapter first-seens: `Runes.md`.
 
 The original story used binary circuitry for runes. That model is dropped for rewrite law.
 

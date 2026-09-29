@@ -6,7 +6,7 @@ Roland’s first tamed companion. Named **Ned**. Core-bearing Floor-2 **Needle W
 
 **Narrative lock (eating Roland / any flesh):** Ned breaks everything he eats down into **pure magic**, then rebuilds whatever his body wants with **magic biology**. Do not run human digestion / pathogen / species-match science on Roland’s blood or flesh. Questionable areas default to this.
 
-Eats various **leaves** and discarded **monster parts**. Hides a preferred leaf stash: those leaves are a **mild poison source** (weaker than his spikes) with a vibrant refreshing aroma like **parsley** (**parsleaves**). Roland samples one afternoon and locks that link. Besides occasionally harvesting Ned’s ever-growing **needles** and **blood**, Roland also **dries and stockpiles** parsleaves. After Roland harvested Ned’s blood for BBQ seasoning, Ned pressed to know why; Roland started feeding him small drips of his own blood via Mana Hands (Ch 13). Ned does not taste like a humanoid: he mainly senses how much power the flesh holds and the experience it grants. Monsters can level by eating (unlike humanoids who need actions); that feeds their presence and faster climb. Roland only feeds his blood in-room (**150 mL**/day whole blood, about **5 oz**); he uses Ned’s blood and needles as seasoning and keeps the skill-leveling cheat quiet. Worm blood is armpit-smelling but incredibly nutrient-rich even when Ned only ate magic stones; Roland extracts as much as he wants comfortably. That **150 mL** is total volume (plasma + cells). At ~40–45% hematocrit it is only **~60–70 mL** of red cells, which sits inside Ch 13 rewrite daily RBC restore (**50–83 mL**/day; `../Progression/Attributes.md`). Plasma side refills in hours at his M. Sleeps with Ned as a cool ectothermic pillow. He talks to Ned as an outlet for self-talk: future plans, skill thought process, training ideas (sneaking, throwing, adapting, healing and more). Dislikes bark-colored **Needle Moths**; shows Ned how weak that evolution line is while feeding him poisonous wings and occasionally stones. Drills the vision: speed, penetration, toughness, recovery, poison, stealth, ranged attack. After taming, Ned can pass **stair throats** (wild monsters cannot); strangers assume a Floor-2 trophy scarf and Roland never corrects them. Once strong enough, Ned solo-hunts dungeon rats and other Needle Worms; monsters cooperate in packs but also fight each other for strength.
+Eats various **leaves** and discarded **monster parts**. Hides a preferred leaf stash: those leaves are a **mild poison source** (weaker than his spikes) with a vibrant refreshing aroma like **parsley** (**parsleaves**). Roland samples one afternoon and locks that link. Besides occasionally harvesting Ned’s ever-growing **needles** and **blood**, Roland also **dries and stockpiles** parsleaves. Planned later: detachable back **gel nodules** (nodule skin → magical hide; gel fluid → magical ink; Gel nodules section below). After Roland harvested Ned’s blood for BBQ seasoning, Ned pressed to know why; Roland started feeding him small drips of his own blood via Mana Hands (Ch 13). Ned does not taste like a humanoid: he mainly senses how much power the flesh holds and the experience it grants. Monsters can level by eating (unlike humanoids who need actions); that feeds their presence and faster climb. Roland only feeds his blood in-room (**150 mL**/day whole blood, about **5 oz**); he uses Ned’s blood and needles as seasoning and keeps the skill-leveling cheat quiet. Worm blood is armpit-smelling but incredibly nutrient-rich even when Ned only ate magic stones; Roland extracts as much as he wants comfortably. That **150 mL** is total volume (plasma + cells). At ~40–45% hematocrit it is only **~60–70 mL** of red cells, which sits inside Ch 13 rewrite daily RBC restore (**50–83 mL**/day; `../Progression/Attributes.md`). Plasma side refills in hours at his M. Sleeps with Ned as a cool ectothermic pillow. He talks to Ned as an outlet for self-talk: future plans, skill thought process, training ideas (sneaking, throwing, adapting, healing and more). Dislikes bark-colored **Needle Moths**; shows Ned how weak that evolution line is while feeding him poisonous wings and occasionally stones. Drills the vision: speed, penetration, toughness, recovery, poison, stealth, ranged attack. After taming, Ned can pass **stair throats** (wild monsters cannot); strangers assume a Floor-2 trophy scarf and Roland never corrects them. Once strong enough, Ned solo-hunts dungeon rats and other Needle Worms; monsters cooperate in packs but also fight each other for strength.
 
 Design below is the charging-caterpillar write for Ned (Earth biomechanics anchors for skin, spring and toxins). Map to Caldris; do not paste Earth taxonomies into prose as if they are local.
 
@@ -79,9 +79,11 @@ How Roland steers Ned’s loadout as he levels. Not automatic freebies; practice
 
 - **Throwing:** Practice hurling spikes and rocks → ranged needle launch / improvised rock throw accuracy and force.
 - **Stealth:** Focus on staying hidden → camouflage (leaf-green blend, stillness, ambush timing).
+- **Climbing:** Trees, dungeon walls, cabin verticals (seat backs / panels / luggage rack) → grip and vertical travel.
 - **Poison:** Eat more poisons and foreign spikes / venoms → broader toxin repertoire and **Poison Resistance** (he is already immune to his own).
 - **Pain / Heat / Cold / Seal:** Shared with Roland’s exposure drills (Ch 19 train grill on plates/segments). Seal is Ned’s **Recovery** parallel; Pain / Heat / Cold dose-gate like Roland’s resistances.
 - **Attack build:** Push harder spikes, faster regeneration, and higher durability so charges and needle strikes hit harder and recover between fights.
+- **Toxin-free write spike (planned):** A later spike variant with **no toxin** so shed / cut tips can serve as clean cores or punches for Roland’s homemade pencils (`../Science/WritingTools.md`). Poisoned needles stay combat / seasoning only.
 
 ### Fastest recovery (seal first)
 
@@ -192,6 +194,7 @@ Skills cap at **L9**. Filling the L9 bar triggers a **skill evolution** instead 
 | Spike Throwing / Needle Launch | One spike or rock thrown at a target | Dexterity | 0.58 | 2.08 |
 | Silk Production | One strand spun for binding or line | Dex + Int | 0.58 | 2.08 |
 | Stealth / Camouflage | One held hide or ambush attempt | Agility + Willpower | 0.89 | 2.90 |
+| Climbing | One climb segment (tree, wall, panel, rack) | Strength + Agility | 1.0 | 3.6 |
 | Spring Charge | One full coil and release | Strength | 1.15 | 4.10 |
 | Seal / Regeneration | One wound sealed | Vitality | 1.29 | 4.65 |
 | Poison Resistance | One dose ingested or exposure survived | Vitality | 1.29 | 4.65 |
@@ -213,11 +216,12 @@ Locked in `Story/Notes/NedStatus.md`. Exit overall **~25** / **~3x**, still Need
 | Spike Throwing | 38 (20 coached + 20 solo + 4 real) | 6,840 | 0.8 | 5,472 | **L5** (just under L6) |
 | Silk Production | 19 (10 + 10 + 2) | 3,420 | 0.8 | 2,736 | **L4** (near L5) |
 | Stealth / Camouflage | 34.5 (15 + 15 + 6) | 6,210 | 1.2 | 7,452 | **L6** |
+| Climbing | 28 (12 + 12 + 4) | 5,040 | 1.0 | 5,040 | **L5** |
 | Spring Charge | 18 (6 drill + 6 real) | 3,240 | 1.6 | 5,184 | **L5** (near L6) |
 | Seal / Regeneration | 14 (2 harvest cuts + 6 combat wounds) | 2,520 | 1.75 | 4,410 | **L5** |
 | Poison Resistance | 12 (6 real doses) | 2,160 | 1.75 | 3,780 | **L5** (L4 if poison variety stays low) |
 
-**Ch 14–19:** Greater **4x** aptitude surge + Carwen closeout + train hide / poke / **needle-launch catch** week + **shared Pain / Heat / Cold / Seal** grill → exit Spike **L7**, Silk **L5**, Stealth **L7**, Charge **L6**, Seal **L9**, Poison **L5**, Pain **L8**, Heat **L6**, Cold **L6** (`NedStatus.md`).
+**Ch 14–19:** Greater **4x** aptitude surge + Carwen closeout + train hide / climb / poke / **needle-launch catch** week + **shared Pain / Heat / Cold / Seal** grill → exit Spike **L7**, Silk **L5**, Stealth **L7**, Climbing **L7**, Charge **L6**, Seal **L9**, Poison **L5**, Pain **L8**, Heat **L6**, Cold **L6** (`NedStatus.md`).
 
 ## Skill evolution at L9
 
@@ -228,6 +232,7 @@ Filling the L9 bar (**28,500 effective actions**) evolves the skill. The evolved
 | Spike Throwing | charged needle or Needle Volley (multi-needle launch) |
 | Silk Production | net launch or Bindweave (load-bearing silk, snares, lines) |
 | Stealth / Camouflage | chameleon or color change |
+| Climbing | wall-run / cling climb |
 | Spring Charge | rapid spring or recovery or Piercing Charge |
 | Seal / Regeneration | Rapid Regeneration |
 | Poison Resistance | Toxin Immunity (extends to foreign toxins) |
@@ -261,11 +266,49 @@ Body evolutions no longer raise a skill cap. Each jump (+1 / +2 / +3 / +4) lifts
 
 ## Skin
 - Soft to the touch with a rubbery resilin-rich outer layer
+- Soft **insect cuticle**: chitin nanofibres in a protein matrix (caterpillar skin, not mammal hide)
+- Soft caterpillar cuticle is hydrogel-like: typically high water (Earth anchors often **~40–75%**, with some measured skins far wetter) plus roughly balanced chitin and protein
 - Crisscrossed chitin-protein fibers at 35 to 70 MPa spread stabs and bites sideways
 - Fluid-filled inner cushion absorbs blunt force
 - Resilin returns about 95% of impact energy so dents rebound within seconds
 - Living epidermis repairs cuts and punctures in place with no molt needed
 - Clotting hemolymph seals wounds fast
+- Clear or pale cuticle patches show color from fluid and tissue underneath
+
+## Gel nodules (detachable jelly tubercles)
+
+Earth research seed: gelatine slug caterpillars in Limacodidae (e.g. *Olona*-type “jellybean” larvae from China / SE Asia; species unconfirmed in photo refs). Map to Ned; do not name Earth genera on-page.
+
+**Limacodid body types (Earth):** spined “nettle slug,” smooth “gelatine slug,” and a third type with **detachable tubercles**. Hag moth is the famous detachable-tubercle example (hairy/opaque). Gelatine types are non-stinging; jelly beads stand in for chemical defense.
+
+**Look-alike to rule out:** American Dalceridae “jewel caterpillars” (gumdrop larvae; ants get mouths stuck in jelly). Ant-sticking defense is documented for Dalceridae, not confirmed for *Olona*. Ned follows the **Asian limacodid detachable-nodule** pattern, not the Dalceridae ant-glue story unless later locked.
+
+**What Ned has**
+
+- Soft **detachable nodules** on the back: translucent jelly beads / tubercles. Fine setae may sit on the bead surface. Body color shows through underneath (green / other banding).
+- Underside uses **suction pads** (slug glide), not ordinary caterpillar prolegs. Matches the charging-caterpillar / scarf grip already in use.
+- Nodules are **sacrificial**. When handled or grabbed they come off the way a lizard drops its tail: distraction, not a molt and not a cast of the whole skin.
+- Outer wall of a detached nodule is soft insect cuticle. Inside is gel fluid. The main body stays closed underneath; new nodules grow back with time / feeding / level.
+
+**Detach / harvest**
+
+- Light pull, predator grab, or Ned letting one go. Easy to detach by design.
+- Roland harvests like needles and blood: voluntary drops or recovered decoys first so Ned does not learn fear.
+
+**Magic craft use (planned)**
+
+| Part | With enough magic power | Story use |
+|---|---|---|
+| Nodule **skin** (soft cuticle wall) | Becomes workable **beast / magical hide** stock | Rough magical blanks and later finer parchment (`../Science/Paper.md`) |
+| Nodule **fluid** (gel inside) | Becomes **magical ink** (or the main reagent for it) | Runic / mana scribing ink without buying shop ink |
+
+- Early Ned may only drop weak or small nodules. Usable hide/ink quality scales with his overall power, diet (stones / meat / Roland blood), and how charged the gel was when it detached.
+- Roland stockpiles detached skins and fluid like needles, blood and parsleaves.
+- Shop economics: Ned-sourced blanks/ink are a personal pipeline, not a reason to collapse city prices. Volume stays limited by how fast nodules regrow.
+
+**Development note:** push nodule size, detach-on-command, and mana density in the fluid as Ned climbs Greater → King. Toxin-free write spikes (`WritingTools.md`) stay a separate needle path; gel nodules are the hide + ink path.
+
+Sources (Earth only): Australian Geographic jellybean caterpillar; Limacodidae detachable-tubercle notes (Taiwan genus paper); SciAm jewel caterpillar (Dalceridae contrast); Flickr limacodid “jelly bean” photos.
 
 ## Spikes
 - Grow continuously from a living base like rodent incisors or a narwhal tusk

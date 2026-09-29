@@ -269,9 +269,24 @@ Impact copy + farewell. Carry-in from Ch 17.
 **Gained**
 - **Lesser Impact Rune [Highest]** schematic (paper) + **Drawing L1** + **1000 XP**.
 - Adventurer rank **Bronze → Steel** (Miss Cellica).
-- Party's smaller **spatial bag** with starter coin (they keep watcher bag ~2×). Peek deferred alone; Ch 19 locks **10 SG** inside.
+- Party's smaller **spatial bag** with starter coin (they keep watcher bag ~2×). Peek deferred alone; Ch 19 locks gift **10 SG** inside **on top of** his personal pouch (**11,641 LC**).
 
 **Left behind / farewell**
 - Carwen kit packed into the new bag. Hugs Becky / Sahildr / Reyna; magic train toward Edelgard.
 
-**Still carrying into Ch 19:** Steel card, detonation rapier, **Ned**, parsleaves / needle-blood stocks, Detonation + Impact [Highest] schematics, Scribe skills, parting spatial bag (**10 SG** confirmed next chapter), stone bank.
+**Still carrying into Ch 19:** Steel card, detonation rapier, **Ned**, parsleaves / needle-blood stocks, Detonation + Impact [Highest] schematics, Scribe skills, personal pouch **11,641 LC** + parting gift **10 SG** (**total 21,641 LC**), stone bank.
+
+## Chapter 19
+
+Edelgard arrival / guild / Singing Crow.
+
+**Gained**
+- **Edelgard city map** – guild stall. List **2 SS**; Steel **5%** → paid **19 LC**.
+- **Lesser Fire Orb Rune** schematic (paper) – memory redraw: first **[High]** (**+600 XP**, **over** 1 hour; uneven); thin-sheet trace → **[Highest]** (**+400 XP**). Total **1000**. Lesser quality ladder: **100 / 200 / 400 / 600 / 1000**. Three Highest lesser schematics now (Detonation + Impact + Fire Orb).
+
+**Spent**
+- Solaria collection plate **−1 SS (−10 LC)** at the station (Source copper; rewrite silver) → **21,641 → 21,631 LC**.
+- City map **−19 LC** → **21,612 LC**.
+- Singing Crow room **−14 LC** (Steel-band pick; a bit above Carwen **1 SS**; **not** the **2 SS** better-inn tier) → wallet **21,598 LC**.
+
+**Still carrying after room / schematic:** Steel card, detonation rapier, **Ned**, Edelgard city map, Detonation + Impact + Fire Orb [Highest] schematics, parsleaves / needle-blood stocks, wallet **21,598 LC**, stone bank.

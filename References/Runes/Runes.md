@@ -4,13 +4,14 @@ Named rune catalog and chapter first-seens. Character skills that manipulate run
 
 | File | Role |
 |---|---|
+| `Nature.md` | Worldview: segments, pathways, law / causality |
 | `Runes.md` | Named catalog / first-seens |
 | `RuneSystem.md` | Pathway model, ceilings, harmonics |
 | `RuneSetup.md` | Setup pour costs |
 | `Energy.md` | Path / ambient / wear |
 | `TempRunes.md` | Chapter LOOK/MAKE scrape (merge later) |
 
-**Rewrite law (basis, not frozen):** `RuneSystem.md` (symbology, pathways, stages, ceilings, harmonics). Setup mana: `RuneSetup.md`. Activation energy and wear: `Energy.md`. Chapter LOOK/MAKE scrape: `TempRunes.md` (binary-circuit identity is dropped for rewrite; Debugger colors map to leaks and discord).
+**Rewrite law (basis, not frozen):** nature lock in `Nature.md`. Engineering in `RuneSystem.md` (symbology, pathways, stages, ceilings, harmonics). Setup mana: `RuneSetup.md`. Activation energy and wear: `Energy.md`. Chapter LOOK/MAKE scrape: `TempRunes.md` (binary-circuit identity is dropped for rewrite; Debugger colors map to leaks and discord).
 
 ## Rune vs enchantment (Chapter 6 book)
 
@@ -54,7 +55,7 @@ Fire orb projection rune. Roland's Runic Mana Scribe trial scroll.
 
 **Source (old model, dropped for rewrite law):** three main parts (fire / orb shape / control "program"); logic gates and binary; transistors/resistors/chips; Circuitry skill; naked-eye three symbols after dry; hard maximal size + compress off a large schematic.
 
-Later: recreated as [Highest] schematic from **memory** in Chapter 19 (~1 hour; +1000 XP; no Debugger source item). Chapter 21 first practice scroll ~45 min / +50 XP (still red under Debugger); activates fine at **0%** fire affinity. Chapter 36: first reusable metal form, Bronze Plate of the Fire Orb [Lesser: Lowest, High].
+Later: Chapter 19 recreates from **memory** (no Debugger source item): first **[High]** (**+600 XP**, ~**1 hour**) then second pass **[Highest]** (**+400 XP**); total **1000**. Lesser quality XP ladder: **100 / 200 / 400 / 600 / 1000**. Chapter 21 first practice scroll ~45 min / +50 XP (still red under Debugger); activates fine at **0%** fire affinity. Chapter 36: first reusable metal form, Bronze Plate of the Fire Orb [Lesser: Lowest, High].
 
 ### Lesser Fire Rune
 First seen: Chapter 194
