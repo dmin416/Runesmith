@@ -29,6 +29,7 @@ No locked “flight is expensive” or “flight is cheap” fiat. Cost is whate
 | `ManaCast.md` | Shared cast law tables, Bolt / Arrow / Ember / Hands / Shield |
 | `ManaStones.md` | Stone size, quality, dump/refill |
 | `Body.md` | Extra limbs; heat / cool skin; thermal grill drill |
+| `ART.md` | Gut check / ART / dowsing / lean-sway; danger body-read; switching gates |
 | `Waves.md` | Sound and light bands; ozone / UV |
 | `Optics.md` | Water-lens telescope (potential) |
 | `Kinetic.md` | KE, force, lifts, throws (potential apps) |
@@ -53,6 +54,7 @@ No locked “flight is expensive” or “flight is cheap” fiat. Cost is whate
 | `VehicleWheels.md` | Earth wheel tech ladder + Caldris ceiling |
 | `VehicleSuspension.md` | Earth suspension tech ladder + Caldris ceiling |
 | `MechanicalPrecision.md` | Lathes, cams, governors, mechanical fire-control / bombsights |
+| `Thermometers.md` | Alcohol-in-glass, thermocouple, bimetallic; no electronics; Caldris ceiling |
 
 **Future spell idea rungs** (same cast law): `../PotentialMagic/PotentialMagic.md`.
 

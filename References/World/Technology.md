@@ -52,6 +52,8 @@ Social structure stays medieval (kingdoms, nobles, knights, Royals) while techno
 
 **Mechanical precision:** lathes, cams, line shafts, governors, gauge blocks, and later mechanical fire-control / bombsights in `../Science/MechanicalPrecision.md`. Shop automation and screw-cutting are near-reach invents; naval rangekeepers and AA predictors are not baseline (magic fills most firearms / long-gun roles).
 
+**Thermometers (no electronics):** alcohol-in-glass, bimetallic oven dials, and thermocouples in `../Science/Thermometers.md`. Glass + calibration baths and brass/steel dials are near-reach; galvanometer thermocouples and mythril high-temp pairs are invent-or-prestige. Heat Sense / heat runes can stand in until craft exists.
+
 ### Economy and agriculture effects
 
 - A three-tier coin system matches the real medieval and early modern pattern of copper for commoners, silver for merchants and gold for nobles and large trade (project ladder is finer: SC/LC/SS/LS/SG/LG/RG in `Economy.md`)
