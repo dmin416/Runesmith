@@ -48,6 +48,10 @@ Already on-page or locked in references:
 
 Social structure stays medieval (kingdoms, nobles, knights, Royals) while technology reaches toward the early Industrial Revolution (roughly 1760 to 1850). The result is a hybrid closest to fantasy steampunk / magitech. Magic stones fill the role that coal, oil and electricity fill in real history. Airships have no real historical parallel and serve as a prestige item similar to a royal yacht or private railcar.
 
+**Wheels / suspension:** Earth ladders and Caldris ceiling in `../Science/VehicleWheels.md` and `../Science/VehicleSuspension.md`. Road baseline ≈ iron-tired wooden wheels + leaf / thoroughbrace coach springing; rail can use early industrial flanged metal wheels. Pneumatics, mass stamped discs and electronic suspension are invent-or-prestige only.
+
+**Mechanical precision:** lathes, cams, line shafts, governors, gauge blocks, and later mechanical fire-control / bombsights in `../Science/MechanicalPrecision.md`. Shop automation and screw-cutting are near-reach invents; naval rangekeepers and AA predictors are not baseline (magic fills most firearms / long-gun roles).
+
 ### Economy and agriculture effects
 
 - A three-tier coin system matches the real medieval and early modern pattern of copper for commoners, silver for merchants and gold for nobles and large trade (project ladder is finer: SC/LC/SS/LS/SG/LG/RG in `Economy.md`)

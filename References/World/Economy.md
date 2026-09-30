@@ -407,9 +407,9 @@ Surface costs: `../Science/Paper.md` (locked bands from early pegs / Ch 19; Ch 2
 |---|---|---|---|
 | Blank monster-skin scrolls, ~A5 | **~4–5 LC** each (**~4–5 SS** / 10) | 4–5 | **Rewrite lock** (`Paper.md`); old Source **9 SS**/10 discarded |
 | Magical paper sheet, ~A5 | **~30–40 LC** typical | 30–40 | Above rough blanks |
-| Mana Arrow spell scroll (shop) | **~3–4 SS** provisional | 30–40 | Was Source **1 SS**; raise so blank is not the whole price |
-| Fire Arrow spell scroll (shop, T2) | **~5–8 SS** provisional | 50–80 | Was Source **3 SS** |
-| Fireball spell scroll (shop) | **~1 LS** provisional | ~100 | Was Source **~6 SS** |
+| Mana Arrow spell scroll (shop) | **3 SS** | 30 | Ch 20 on-page; band was **~3–4 SS** |
+| Fire Arrow spell scroll (shop, T2) | **6 SS** | 60 | Ch 20 on-page; band was **~5–8 SS** |
+| Fireball spell scroll (shop) | **~1 LS** | ~100 | Ch 20 shop talk |
 | Runic Orb of Light scroll (Exeor) | >=1 LS | >=100 | Specialist; retune with chapter |
 | Runic Fire Arrow scroll (Exeor shelf) | **several×** regular | — | Specialist craft time |
 | Runic Fire Arrow [Common][High] (auction) | retune with Ch 22 | — | Old “up to ~9 SS” was Source |
@@ -720,9 +720,9 @@ Hard numbers only, with chapter cites. Prefer the **Rewrite price lock** when a 
 | Spatial bag ~2 m³ | second-hand **5 SG**; typical **7–10 SG**; scale `Price ∝ V²` → ~6 m³ ≈ **10×** | 11 |
 | Three half-gallon tavern pitchers (weak spirits, ~40 proof) | **~45 LC** | 12 |
 | Roland pays first round (3 half-gal) | **45 LC** (**9** goblin ears) | 12 |
-| Mana Arrow scroll (shop) | **1 SS** | 20 |
-| Fire Arrow scroll (shop, T2) | **3 SS** | 20 |
-| Fireball scroll (shop talk) | **~6 SS** | 20 |
+| Mana Arrow scroll (shop) | **3 SS** | 20 |
+| Fire Arrow scroll (shop, T2) | **6 SS** | 20 |
+| Fireball scroll (shop talk) | **~1 LS** | 20 |
 | Blank monster-skin x10 | **~4–5 SS** total (**~4–5 LC** each) | rewrite when Ch 20 written; was Source **9 SS** |
 | Runic Orb of Light | **>=1 LS** | 20 |
 | Runic Fire Arrow (Exeor shelf) | **2 LS** | 20 |

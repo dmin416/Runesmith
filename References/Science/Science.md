@@ -42,7 +42,10 @@ No locked “flight is expensive” or “flight is cheap” fiat. Cost is whate
 | `ImpactRune.md` | Sahildr Impact hammer: compressed-mana stroke vs hold power |
 | `CloakAirCooling.md` | Roland’s 5 m³ air-compress cloak cool math (forgoes for a cold rune) |
 | `WritingTools.md` | Terra writing kit; Roland invents pencil (synthetic graphite + Ned toxin-free spike) then pen |
-| `Paper.md` | Mundane vs mana paper/hide grades; flockbeast parchment; magic wood vs monster skin |
+| `Paper.md` | Mundane vs mana paper/hide grades; magical blanks vs paper pricing |
+| `VehicleWheels.md` | Earth wheel tech ladder + Caldris ceiling |
+| `VehicleSuspension.md` | Earth suspension tech ladder + Caldris ceiling |
+| `MechanicalPrecision.md` | Lathes, cams, governors, mechanical fire-control / bombsights |
 
 **Future spell idea rungs** (same cast law): `../PotentialMagic/PotentialMagic.md`.
 
