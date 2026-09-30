@@ -9,6 +9,7 @@ Named rune catalog and chapter first-seens. Character skills that manipulate run
 | `RuneSystem.md` | Pathway model, ceilings, harmonics |
 | `RuneSetup.md` | Setup pour costs |
 | `Energy.md` | Path / ambient / wear |
+| `ChainMailCollaborative.md` | Shirt-wide rice-stone pool: burst at impact, recharge, passive drain |
 | `TempRunes.md` | Chapter LOOK/MAKE scrape (merge later) |
 
 **Rewrite law (basis, not frozen):** nature lock in `Nature.md`. Engineering in `RuneSystem.md` (symbology, pathways, stages, ceilings, harmonics). Setup mana: `RuneSetup.md`. Activation energy and wear: `Energy.md`. Chapter LOOK/MAKE scrape: `TempRunes.md` (binary-circuit identity is dropped for rewrite; Debugger colors map to leaks and discord).

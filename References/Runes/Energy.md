@@ -2,7 +2,7 @@
 
 Electricity is the physical model for how mana moves. Mana is not electricity. Its conductivity ranking differs (section 2).
 
-**Related:** spell cast joules with skill η and INT μ live in `../Science/ManaCast.md` (`1 mana ≈ 10 J` paid, Useful = mana × 10 × η × μ). This file is the **path / ambient / wear** baseline (cost × **10 J** × path efficiency × ambient gain). Resonant runes replace η and G with η_eff and H_eff from `RuneSystem.md`. Setup pour costs live in `RuneSetup.md` and do not add heat or strain. **10 J per mana is the locked standard** for cast and path formulas.
+**Related:** spell cast joules with skill η and INT μ live in `../Science/ManaCast.md` (`1 mana ≈ 10 J` paid, Useful = mana × 10 × η × μ). This file is the **path / ambient / wear** baseline (cost × **10 J** × path efficiency × ambient gain). Resonant runes replace η and G with η_eff and H_eff from `RuneSystem.md`. Setup pour costs live in `RuneSetup.md` and do not add heat or strain. **10 J per mana is the locked standard** for cast and path formulas. Shirt-wide stone pool example: `ChainMailCollaborative.md`.
 
 ---
 

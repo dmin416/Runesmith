@@ -1,6 +1,6 @@
 # Vacuum
 
-Hub: `Science.md`. Cast law: `ManaCast.md`. Living resistance: hub ruling. Mana = J / (10 × η × μ).
+Hub: `Science.md`. Cast law: `ManaCast.md`. Living resistance: hub ruling. Mana = J / (10 × η × μ). Physical steel chamber build (walls, seals, pumps, coatings): `SteelVacuumChamber.md`.
 
 ## Pump-down (correct ideal)
 

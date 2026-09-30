@@ -1,6 +1,6 @@
 # Paper and Hide Writing Surfaces
 
-Mundane and magical sheets for notes, contracts, schematics and scrolls. Companion: `WritingTools.md`.
+Mundane and magical sheets for notes, contracts, schematics and scrolls. Companion: `WritingTools.md`. Physical sizes, stack weights, pipe scaling and channeling heat: `PaperFormats.md`.
 
 **Lock scope:** firm against early rewrite pegs and **Ch 19** (written). Shop numbers from Source Ch 20+ (old **9 LC** blanks, Mana Arrow **1 SS**, etc.) are **not** locked. Retune those when those chapters are rewritten.
 

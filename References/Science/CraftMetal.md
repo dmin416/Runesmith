@@ -1,6 +1,6 @@
 # Craft Metal
 
-How to apply modern metallurgy knowledge with Caldris tools + magic when making metal goods. Hub: `Science.md`. Plastic work: `Compression.md`. Vacuum weld: `Vacuum.md`. Ember / Frost / Hands: `ManaCast.md`. Kinetic pours: `Kinetic.md`. Era: `../World/Technology.md` (magitech / early industrial overlay; smith craft still uses bloomery-grade stock locally).
+How to apply modern metallurgy knowledge with Caldris tools + magic when making metal goods. Hub: `Science.md`. Plastic work: `Compression.md`. Vacuum weld: `Vacuum.md`. Ember / Frost / Hands: `ManaCast.md`. Kinetic pours: `Kinetic.md`. Era: `../World/Technology.md` (magitech / early industrial overlay; smith craft still uses bloomery-grade stock locally). Forge → lathe industrialization path: `MedievalIndustrialization.md`. Product difficulty and forge energy: `BlacksmithProducts.md`. Unbreakable gem seats (pommel / shield boss): `GemInlay.md`. Physical arrowheads: `Arrowheads.md`.
 
 **Division of labor (locked)**
 - **Ember / forge fire / heat runes:** heat and soak. Do not invent forge heat as pure Mana Hands friction unless the beat is showing off.

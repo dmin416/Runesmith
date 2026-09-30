@@ -64,9 +64,58 @@ Under about **10 m**, both postures give the same speed. Spread out only adds a 
 
 ## Shepherd's Leap (pole brake fall)
 
-Emergency landing when **mana is empty** (no Hands / Shield / soft-fall spells). Pull a **pole** from the spatial bag, plant tip, and slide so braking acts over meters instead of an instant slam. Named for the pastoral pole vault / slide; used here as a **descent brake**.
+Emergency landing when **mana is empty** (no Hands / Shield / soft-fall spells). Pull a **pole** from the spatial bag, plant tip, and slide so braking acts over meters instead of an instant slam. Named for the Canary Islands **salto del pastor** (shepherd's leap); used here as a **descent brake**.
 
-### Energy balance
+### Earth baseline (documented)
+
+| Item | Figure | Notes |
+|---|---|---|
+| Pole length | **2.5 to 4 m** (island practice often **2 to 4 m**) | Longer on high ground; metal tip (**regatón**) plants in soil or rock |
+| Dead drop | up to about **8 m (26 ft)** | Jam tip below, then slide the shaft |
+| Dead-drop rule of thumb | drop up to about **2× pole length** | A **4 m** pole → about **8 m** |
+| Competitor clip (popular) | **6.49 m (21 ft)** | Coverage clip, not a locked world record |
+| Popular press range | **20 to 30 ft** (~**6 to 9 m**) | Soft journalism; treat as the same band as above |
+| Lubrication | goat fat on the shaft | Protects hands; lowers friction (see μ below) |
+
+Sliding the pole absorbs fall energy, similar to a vaulter controlling a drop. Sources: Wikipedia (*Shepherd's leap*), theshepherdsleap.com, Hello Canary Islands / CanariWiki practice notes.
+
+### Required braking (Earth check, 80 kg, 4 m slide, 5 m/s leftover landing)
+
+```
+F = (m × g × h − ½ × m × v²) / d
+```
+
+Same as `F = m * (g*h − v²/2) / d` below. Here `d = 4 m` (full long pole), `v = 5 m/s`.
+
+| Drop | Drop energy (m g h) | Average braking force over 4 m |
+|---|---|---|
+| 21 ft (6.5 m) | 5,101 J | **1,025 N** |
+| 26 ft (8 m) | 6,278 J | **1,320 N** |
+| 30 ft (9.1 m) | 7,172 J | **1,543 N** |
+
+### Grip share (grip supplies one third; pole flex and tip in ground supply the rest)
+
+```
+Squeeze = (F / 3) / μ
+```
+
+`μ = 0.5` bare or gloved wood. Average male two-hand squeeze ≈ **800 N**.
+
+| Drop | Grip braking (F/3) | Squeeze needed | vs average grip |
+|---|---|---|---|
+| 21 ft | 342 N | **683 N** | **0.85×** |
+| 26 ft | 440 N | **880 N** | **1.1×** |
+| 30 ft | 514 N | **1,029 N** | **1.3×** |
+
+**Result (Earth):**
+
+- Documented **~8 m** dead drops line up with this model at about **average to slightly above-average** grip when tip and flex carry the other two thirds.
+- A normal man at **21 to 26 ft** needs roughly average to slightly above-average grip.
+- **30 ft** needs about **1.3×** average grip (trained-grip / climber band) and every other source at full value.
+- Heavier bodies scale linearly: **100 kg** needs **1.25×** the forces above.
+- Goat fat drops `μ` toward about **0.3**, which raises the **26 ft** squeeze to about **1,467 N**. Bare or gloved wood stays near **880 N**.
+
+### Energy balance (project form)
 
 ```
 v = sqrt( 2 * ( g*h - F*d / m ) )
@@ -77,7 +126,7 @@ v = sqrt( 2 * ( g*h - F*d / m ) )
 - `h` = drop height already fallen or total drop (use consistent start-from-rest PE)
 - `m` = body mass
 - `F` = average braking force (grip friction + tip drag), newtons
-- `d` = distance over which braking acts (~**3 m** as the practical slide length with a bag pole; use full `h` only if sliding the whole drop)
+- `d` = distance over which braking acts (~**3 m** as the practical slide length with a **bag pole**; use up to **4 m** for a full shepherd pole; use full `h` only if sliding the whole drop)
 
 No pole → `F = 0` → `v = sqrt(2*g*h)`.
 
@@ -118,9 +167,9 @@ h_max  = ( F*d/m + v_safe²/2 ) / g
 ```
 
 - `N_street` ≈ **800 N** two hands (~**400 N**/hand)
-- `μ` ≈ **0.4–0.6** wood, bare or glove
-- `F_tip` = iron tip drag / bite; often **1–1.5×** `F_grip` on rock or packed soil (STR shove + ground). Great bite ~**2×** is a clean plant ceiling.
-- `d ≈ 3 m` default bag-pole stroke unless the fall is shorter
+- `μ` ≈ **0.4–0.6** wood, bare or glove; goat fat ~**0.3** (more squeeze for the same `F_grip`)
+- `F_tip` = iron tip drag / bite; often **1–1.5×** `F_grip` on rock or packed soil (STR shove + ground). Great bite ~**2×** is a clean plant ceiling. Earth check above used grip ≈ **1/3** of total `F` (tip + flex ≈ **2/3**).
+- `d ≈ 3 m` default bag-pole stroke unless the fall is shorter; long shepherd pole up to **~4 m**
 
 **STR alone understates** height: Vit/End raise `v_safe` so the same brake can leave more leftover speed. **STR alone overstates** if Vit lags or Recovery is low (hands throttle or break).
 
@@ -166,7 +215,7 @@ Equal tip (~**1×** grip) sits a few meters lower; weak surface / tip skip falls
 4. Brake over ~**3 m** of pole travel so the slam stretches into a slide.
 5. **Strength** cuts speed; **Vit/End** eat the leftover landing; **Recovery** (and Pain) let palms split and still hold the shaft.
 
-**Caveats:** grip fades over a long slide; sweat / polish cuts `μ`; tip catch or skip is lumpy; bad plant = no brake; Vit-lagging STR → broken hands before max brake. Not a substitute for mana soft-fall when the pool still has juice.
+**Caveats:** grip fades over a long slide; sweat / polish / fat cuts `μ`; tip catch or skip is lumpy; bad plant = no brake; Vit-lagging STR → broken hands before max brake. Not a substitute for mana soft-fall when the pool still has juice.
 
 ## Ned fall-proof
 

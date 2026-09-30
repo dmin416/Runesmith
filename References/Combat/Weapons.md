@@ -1,6 +1,6 @@
 # Weapons
 
-Design notes for blades and loadouts. Hardness / pierce gates for tips stay in `../Science/ManaCast.md`. Story gear lists stay in `Story/Notes/Items.md`. Consumable types: `../Items/Items.md`.
+Design notes for blades and loadouts. Hardness / pierce gates for tips stay in `../Science/ManaCast.md`. Story gear lists stay in `Story/Notes/Items.md`. Consumable types: `../Items/Items.md`. Light kit when plate no longer stops the main foe: `LightArmorLoadout.md`.
 
 ## Rondel with a hook
 

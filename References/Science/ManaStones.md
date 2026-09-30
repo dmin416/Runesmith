@@ -2,6 +2,7 @@
 
 Hub: `Science.md`.
 Street prices: `../World/Economy.md`.
+Shirt-wide rice-stone pool (mail collaborative rune): `../Runes/ChainMailCollaborative.md`.
 
 ## Mana stones (size and quality)
 

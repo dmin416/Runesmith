@@ -1,6 +1,6 @@
 # Projectiles
 
-Hub: `Science.md`.
+Hub: `Science.md`. Physical arrowhead forge / cast / aero: `Arrowheads.md`.
 
 ## Sphere flight randomness
 

@@ -42,7 +42,7 @@ Rewrite directions for this project. Source is loot, not a script. Reader stop p
 
 ### Future products: printing and civilian tech
 
-Earth research seed for a later shop arc (not locked). Steam and rail already exist in Caldris; printing press and many cheap civilian goods are missing or rare in `World/Technology.md`. Roland's modern mind can skip centuries of trial and error.
+Earth research seed for a later shop arc (not locked). Steam and rail already exist in Caldris; printing press and many cheap civilian goods are missing or rare in `World/Technology.md`. Roland's modern mind can skip centuries of trial and error. Machine-tool dependency and bare-forge timelines: `../Science/MedievalIndustrialization.md`.
 
 #### Civilian product shortlist
 
