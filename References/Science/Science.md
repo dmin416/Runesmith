@@ -28,23 +28,27 @@ No locked “flight is expensive” or “flight is cheap” fiat. Cost is whate
 | `Projectiles.md` | Sphere flight, near-Mach arrows, sling/bow/atlatl, captive-piston sound, rotating tube launch |
 | `ManaCast.md` | Shared cast law tables, Bolt / Arrow / Ember / Hands / Shield |
 | `ManaStones.md` | Stone size, quality, dump/refill |
-| `Body.md` | Extra limbs; heat / cool skin; thermal grill drill |
+| `Body.md` | Extra limbs; heat / cool skin; thermal grill; heat-signature stealth; tooth ages |
 | `ART.md` | Gut check / ART / dowsing / lean-sway; danger body-read; switching gates |
 | `Waves.md` | Sound and light bands; ozone / UV |
 | `Optics.md` | Water-lens telescope (potential) |
 | `Kinetic.md` | KE, force, lifts, throws (potential apps) |
-| `Compression.md` | Gas / solid compression, Fire Piston, Frost Breath, HPP, air cartridge, forging |
+| `Compression.md` | Gas / solid compression, Fire Piston, Frost Breath, HPP, air cartridge, micro-compression, compression-forged edges |
 | `Vacuum.md` | Pump-down, vacuum on people, freeze-dry, cold boil, Void-Weld |
+| `VacuumForcefieldHeat.md` | Forcefield vacuum over fire: radiation HT, one-way walls, quench limits |
 | `SteelVacuumChamber.md` | Steel chamber structure, seals, coatings, pumps, gauges, hobby builds |
 | `Sound.md` | Sound power, oscillation apps, resonant shatter, echolocation (L9) |
-| `Flight.md` | Hover / flight power math |
-| `CraftMetal.md` | Barrier molds, wire, springs, atomization, period steel vs modern knowledge |
-| `CleverApps.md` | Vacuum-pocket lift, micro-compression, insulation, compression-forged edges |
+| `Flight.md` | Hover / flight power math; vacuum-pocket lift assist |
+| `CraftMetal.md` | Barrier molds, wire, springs, atomization, period steel vs modern knowledge; mythril = titanium handling |
+| `RunicBladeChannels.md` | Forge vs cast vs tunnel for internal runic circuits; hybrid anneal-tunnel wins |
+| `Materials.md` | Earth alloy / carbon production: Cu family, Ag, Au, Fe, 1095, C fiber, diamond, Ti, W |
+| `MetalOres.md` | Where ores sit on a map; roast / reduce / retort routes with alchemy heat |
 | `Falling.md` | Fall landings, height→speed to terminal, Shepherd's Leap pole brake |
 | `ImpactRune.md` | Sahildr Impact hammer: compressed-mana stroke vs hold power |
 | `CloakAirCooling.md` | Roland’s 5 m³ air-compress cloak cool math (forgoes for a cold rune) |
 | `MedievalIndustrialization.md` | Bare forge → screw-cutting lathe timeline; leverage products; Caldris overlay |
 | `BlacksmithProducts.md` | Medieval smith products, difficulty, forge time/fuel/force estimates |
+| `KitchenCraft.md` | Core kitchen kit, forge tool tiers, cookware/knife methods, machine bootstrap, Nambu finish, vacuum-weld pans, knife metals |
 | `GemInlay.md` | Locking an unbreakable gem in steel (dovetail cast-in, shrink-fit, fasteners); craft seat, not stone physics |
 | `Arrowheads.md` | Forged / cast arrowheads, aerodynamics, modern shortcuts, steel cast route |
 | `WritingTools.md` | Terra writing kit; Roland invents pencil (synthetic graphite + Ned toxin-free spike) then pen |

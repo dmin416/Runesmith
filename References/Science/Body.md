@@ -57,3 +57,30 @@ Swap in different mass, thickness or ΔT values and the same formula scales dire
 Earth seed: **thermal grill illusion** (Thunberg, 1896). Mild warm (~**40 °C**) and cool (~**20 °C**) bars side by side feel like burning pain with no damage. Related: paradoxical heat/cold, heat/cold allodynia.
 
 **Story use (Ch 19 train):** Roland starts from that idea then **pushes past the safe band**. Mana-shaped hot and cold patches on the skin do **real shallow burn and frostbite** so **Heat Resistance** and **Cold Resistance** rank. Also grinds **Pain Resistance**, **Recovery** and fine **Mana Shaping / Regulation**. He keeps the pool near **~99%** and soaks regen with grill intensity. **Ned** adds shallow intentional nibbles / tip-pokes and a **needle-catch** drill (short launch → Roland eyes-shut catch on clicks → tip fed back into Ned’s mouth). When Recovery cannot keep up he pours a little low-grade potion on the patch and continues so unused regen is not wasted. Keep damage shallow on purpose; deep tissue is waste and scar risk.
+
+## Heat-signature stealth
+
+Prices continuous throughput (W), not one-shot skin ΔT (section above). Cast law: `ManaCast.md`.
+
+Heat loss rate: Q_loss ≈ h × A × ΔT. Human resting metabolism ~**100 W**.
+
+Mana/s = Q_loss / (10 × η × μ)
+
+| Tier | J/mana | Mana/s at 100 W |
+|---|---|---|
+| INT 40 L2 | 21.9 | ≈ 4.6 |
+| INT 500 L9 | 496 | ≈ 0.2 |
+
+Mask body heat (and, once a wattage is assigned, mana-signature leak) as sustained drain. At low tier, ~100 W is well under one normal Bolt’s joules per couple seconds if compared naively to burst casts; treat it as a sustain line.
+
+Void-Weld oxidation seals that need continuous leak pay use the same mana/s style on a small joint volume (`Vacuum.md`).
+
+## Tooth eruption ages 5–18
+
+For Sono-Alchemy dental scenes and child/teen continuity.
+
+**Primary lost (approx.):** 5–7 centrals; 7–8 laterals; 9–11 canines + first primary molars; 10–12 second primary molars.
+
+**Permanent erupt (approx.):** 6–7 first permanent molars (“6-year molars,” behind baby teeth) + lower centrals; 7–8 upper centrals / lower laterals; 8–9 upper laterals; 9–12 canines and premolars; 11–13 second molars; wisdom teeth ~17–20s or never.
+
+By ~12–13: adult **28** (no wisdom). Up to **32** if all four wisdom erupt.

@@ -2,7 +2,7 @@
 
 Electricity is the physical model for how mana moves. Mana is not electricity. Its conductivity ranking differs (section 2).
 
-**Related:** spell cast joules with skill η and INT μ live in `../Science/ManaCast.md` (`1 mana ≈ 10 J` paid, Useful = mana × 10 × η × μ). This file is the **path / ambient / wear** baseline (cost × **10 J** × path efficiency × ambient gain). Resonant runes replace η and G with η_eff and H_eff from `RuneSystem.md`. Setup pour costs live in `RuneSetup.md` and do not add heat or strain. **10 J per mana is the locked standard** for cast and path formulas. Shirt-wide stone pool example: `ChainMailCollaborative.md`.
+**Related:** spell cast joules with skill η and INT μ live in `../Science/ManaCast.md` (`1 mana ≈ 10 J` paid, Useful = mana × 10 × η × μ). This file is the **path / ambient / wear** baseline (cost × **10 J** × path efficiency × ambient gain). Resonant runes replace η and G with η_eff and H_eff from `RuneSystem.md`. Setup pour costs live in `RuneSetup.md` and do not add heat or strain. **10 J per mana is the locked standard** for cast and path formulas. Shirt-wide stone pool example: `ChainMailCollaborative.md`. Material modes and fantasy-metal path notes (proposal): `ManaMaterials.md`.
 
 ---
 
@@ -33,7 +33,7 @@ Electricity is the physical model for how mana moves. Mana is not electricity. I
 
 ## 2. Mana Conductivity (canon)
 
-Metals from worst to best: **iron, copper, steel, dark steel, mana steel, mythril, adamantium.** Worse paths waste more of the cost and strain faster. Better paths carry heavy flow with little waste.
+Metals from worst to best: **iron, copper, steel, dark steel, mana steel, mythril, adamantium.** Worse paths waste more of the cost and strain faster. Better paths carry heavy flow with little waste. Mythril shop handling is titanium-locked (`../Science/CraftMetal.md`); that is craft behavior, not path rank.
 
 The human body conducts at about 90 percent efficiency, between dark steel and mana steel (section 10). Monster blood is proposed at the same value and its placement stays open (section 12).
 

@@ -1,6 +1,6 @@
 # Vacuum
 
-Hub: `Science.md`. Cast law: `ManaCast.md`. Living resistance: hub ruling. Mana = J / (10 × η × μ). Physical steel chamber build (walls, seals, pumps, coatings): `SteelVacuumChamber.md`.
+Hub: `Science.md`. Cast law: `ManaCast.md`. Living resistance: hub ruling. Mana = J / (10 × η × μ). Physical steel chamber build (walls, seals, pumps, coatings): `SteelVacuumChamber.md`. Vacuum steps in alloy / carbon production: `Materials.md`. Forcefield vacuum over a fire (radiant HT): `VacuumForcefieldHeat.md`.
 
 ## Pump-down (correct ideal)
 
@@ -94,6 +94,6 @@ Hold vacuum boundary first, scour **inside** it (abrasive KE = ½ m v² per grit
 
 ### Maintained seal (storage)
 
-One clean-and-seal only lasts until the vacuum drops. Keeping a blade oxidation-free indefinitely is a continuous Insulation-style mana/s drain (`CleverApps.md`), not free with a one-shot clean. Use prep-before-fight for the instant version.
+One clean-and-seal only lasts until the vacuum drops. Keeping a blade oxidation-free indefinitely is a continuous mana/s drain priced like heat-signature stealth in `Body.md` (Q_loss / (10 × η × μ) on the leak rate), not free with a one-shot clean. Use prep-before-fight for the instant version.
 
 **Apps:** jam a lock, weld a portcullis, fuse a weapon in its sheath (sabotage), join parts as strong as the parent metal at the interface (not stronger), tarnish-free finish work. Joint ceiling and hot diffusion blade/tool cycles: `CraftMetal.md`.

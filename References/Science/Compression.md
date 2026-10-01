@@ -68,3 +68,31 @@ At 500 MPa: E/V = (5×10⁸)² / (2×2.2×10⁹) ≈ **5.68×10⁷ J/m³** = **5
 Isothermal fill: W = P₁ V₁ ln(P₂ / P₁)
 
 1 L to 200 bar (2×10⁷ Pa) from 1 atm: W = 101325×0.001×ln(200) ≈ **537 J** (~54 mana at ημ 1). Pre-charge in downtime; later discharge as air-bolt, door-ram or jump jet with no cast time in the moment. Overfill / puncture is its own hazard.
+
+## Micro-compression
+
+Elastic proxy: E = ½ B (ΔV/V)² V. Prefer plastic pierce for real penetration: E ≈ σ_flow × ε × V.
+
+### Worked elastic proxy (steel B ≈ 160 GPa, ΔV/V ≈ 0.05)
+
+| Target volume | V | E | ≈ mana at ημ 1 |
+|---|---|---|---|
+| Plate patch 10×10 cm × 2 mm | 20 cm³ = 2×10⁻⁵ m³ | ½×160e9×0.0025×2e−5 = **4,000 J** | ~400 |
+| Tip 2×2×2 mm | 8×10⁻⁹ m³ | **1.6 J** | ~0.16 |
+
+~**2,500×** cheaper for the same fractional strain by shrinking V. Matches “exceed strength locally” logic.
+
+### Where it applies
+
+- **Mundane objects / unwarded materials:** pay the equation. Gem cleave along a plane, engrave, crack a lock tumbler pin, wax seal, mortar joint, rope fiber, wood grain.
+- **Living or mana-armored targets:** vitality / magic resistance blocks raw micro-compression as a free kill or armor-splitter (`Science.md` hub). Soft-tissue paths only when resistance does not apply (helpless / no contest), same exception spirit as vacuum-in-armor.
+- **Medical (unresisting tissue / patient):** focused collapse of a stone or blockage as a compression cousin to Stone-Breaker; decide contact vs short standoff explicitly (compression has no automatic 1000× air–tissue loss, but living resistance may still apply in combat).
+- **Arrow tips:** hardness gate H ≥ 1.5 R (`ManaCast.md`) stays for shaped projectiles. Do not replace tip hardness with micro-compression on the same shot without calling it a different technique.
+
+## Compression-forged edges (craft downtime)
+
+Cold work piles dislocations; yield can rise ~**20–50%** before anneal is needed. Repeated low-strain passes on an edge strip:
+
+Example elastic proxy: 5 cm edge, 1×1 mm section (V = 5×10⁻⁸ m³), B = 160 GPa, ΔV/V = 0.01 per pass → E = ½×160e9×0.0001×5e−8 = **0.4 J** (~0.04 mana at ημ 1). Prefer σ_flow × ε × V for plastic work-hardening accounting.
+
+Many passes; overwork without anneal → microcrack / brittle edge. Patience and judgment are the cost. Success raises lasting hardness / effective R for later pierce tables. Companion metallurgy: `CraftMetal.md`.

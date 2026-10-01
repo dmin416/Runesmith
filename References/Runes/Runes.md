@@ -9,6 +9,7 @@ Named rune catalog and chapter first-seens. Character skills that manipulate run
 | `RuneSystem.md` | Pathway model, ceilings, harmonics |
 | `RuneSetup.md` | Setup pour costs |
 | `Energy.md` | Path / ambient / wear |
+| `ManaMaterials.md` | Material path modes, fantasy metals, imbue / converters (proposal) |
 | `ChainMailCollaborative.md` | Shirt-wide rice-stone pool: burst at impact, recharge, passive drain |
 | `TempRunes.md` | Chapter LOOK/MAKE scrape (merge later) |
 

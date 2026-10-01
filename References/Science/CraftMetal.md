@@ -1,6 +1,6 @@
 # Craft Metal
 
-How to apply modern metallurgy knowledge with Caldris tools + magic when making metal goods. Hub: `Science.md`. Plastic work: `Compression.md`. Vacuum weld: `Vacuum.md`. Ember / Frost / Hands: `ManaCast.md`. Kinetic pours: `Kinetic.md`. Era: `../World/Technology.md` (magitech / early industrial overlay; smith craft still uses bloomery-grade stock locally). Forge → lathe industrialization path: `MedievalIndustrialization.md`. Product difficulty and forge energy: `BlacksmithProducts.md`. Unbreakable gem seats (pommel / shield boss): `GemInlay.md`. Physical arrowheads: `Arrowheads.md`.
+How to apply modern metallurgy knowledge with Caldris tools + magic when making metal goods. Hub: `Science.md`. Earth alloy / carbon production bands: `Materials.md`. Ore geography and extract routes: `MetalOres.md`. Plastic work: `Compression.md`. Vacuum weld: `Vacuum.md`. Forcefield vacuum forge heat (radiant / one-way walls): `VacuumForcefieldHeat.md`. Internal runic channels (cast / tunnel / hybrid): `RunicBladeChannels.md`. Ember / Frost / Hands: `ManaCast.md`. Kinetic pours: `Kinetic.md`. Era: `../World/Technology.md` (magitech / early industrial overlay; smith craft still uses bloomery-grade stock locally). Forge → lathe industrialization path: `MedievalIndustrialization.md`. Product difficulty and forge energy: `BlacksmithProducts.md`. Unbreakable gem seats (pommel / shield boss): `GemInlay.md`. Physical arrowheads: `Arrowheads.md`. Kitchen metals and mythril knife roles: `KitchenCraft.md`.
 
 **Division of labor (locked)**
 - **Ember / forge fire / heat runes:** heat and soak. Do not invent forge heat as pure Mana Hands friction unless the beat is showing off.
@@ -57,7 +57,7 @@ True metallic bond. No filler. No heat-affected zone. Joint can **match** parent
 
 1. Heat to roughly **50–80%** of melting T under pressure in vacuum (Ember / forge soak; Hands squeeze).
 2. Asperities creep flat; atoms diffuse; seam can vanish under a microscope. Pressure is required, not optional.
-3. Vacuum + heat dissolves oxides in steels and titanium. Aluminum oxide is too stable (surface treatment or interlayers).
+3. Vacuum + heat dissolves oxides in steels and titanium (mythril uses the same handling lock; see Mythril below). Aluminum oxide is too stable (surface treatment or interlayers).
 4. Once bonded, the interface is sealed. Air only scales the outside. Cool in protective atmosphere or vacuum to avoid decarb / scale.
 5. Oil quench only helps alloys that respond. Hardenable steels can quench from bonding T if it is above austenitizing. **Temper afterward.**
 6. Long hot soaks grow grains and hurt toughness. Quench risks distortion and cracking at thin sections / sharp corners.
@@ -78,6 +78,22 @@ True metallic bond. No filler. No heat-affected zone. Joint can **match** parent
 | Cast iron | Bonds poorly | Do not oil quench |
 
 Porous sinter (**under ~95% density**) soaks oil and should not be oil-quenched. Consolidate to full density first.
+
+---
+
+## Mythril (titanium handling lock)
+
+**Earth analogue for working, not for mana path:** mythril handles like titanium. Light, silvery, high strength-to-weight, corrosion-resistant. Path efficiency and strain life stay on `Energy.md`. This section is forge and shop behavior only.
+
+- **Open charcoal forge is wrong.** Hot mythril reacts with air. Oxygen and nitrogen make a brittle surface case. Forge under vacuum, inert cover, or a sealed barrier shell. A void spell or argon-like purge is the specialist route.
+- **Forging:** Needs high heat and strong hammers. The metal loses heat fast and work-hardens quickly. Reheat often. Narrow forge window.
+- **Machining:** Tough and gummy. Tools wear fast. Chips stick to cutters. Sharp tools, slow feeds, coolant or Hands-scour between cuts.
+- **Welding:** Clean faces and inert or vacuum shield only. Air contamination makes brittle joints. Prefer vacuum scour + hot press / Void-Weld over open arc.
+- **Casting:** Hard. High melt, eats common crucibles and molds. Vacuum or inert pour. Not a backyard green-sand job.
+- **Cold work:** Limited. Anneal between draws. Wire is possible but specialist (drawplate + anneal cycles under cover).
+- **Story beat:** Worth it for weight, corrosion resistance and reusable runic gear. Price and process cost both stay high. Roland does not casually hammer raw mythril like iron or steel on an open hearth.
+
+Magic shortcuts that fit: barrier shell as inert chamber, Hands for even pressure, Ember for controlled soak, Void for pump-down. Magic does not skip chemistry. It supplies atmosphere control and repeatability.
 
 ---
 

@@ -1,6 +1,6 @@
 # Medieval Blacksmith Products
 
-What medieval smiths made and how hard each item was for a skilled craftsman. Difficulty assumes a journeyman or master with a working forge and reliable iron stock. Companion forge metallurgy: `CraftMetal.md`. Machine-tool path: `MedievalIndustrialization.md`. Arrowheads detail: `Arrowheads.md`.
+What medieval smiths made and how hard each item was for a skilled craftsman. Difficulty assumes a journeyman or master with a working forge and reliable iron stock. Companion forge metallurgy: `CraftMetal.md`. Machine-tool path: `MedievalIndustrialization.md`. Kitchen kit and cookware chain: `KitchenCraft.md`. Arrowheads detail: `Arrowheads.md`.
 
 Time, fuel and force bands are **order-of-magnitude**.
 
