@@ -403,8 +403,8 @@ Values come from the world notes. Knife use is the kitchen application of each m
 |---|---|---|
 | **Deep iron** | Mana-rich ore. Needs magical blast furnaces. Harder and tougher than plain iron. Mana-resistant. Rune charges about 10x regular iron. Repairs remove less stock. Hard to inscribe without softening fire. Bandit mace and early runic stock. | Tough utility blade. Runes last long but are hard to carve. Needs a softening fire before inscription. |
 | **Deep steel** | Deep iron plus the steel process. Tier-2 default. Crude deep steel beats fine normal steel. Runesmiths use it most. Harder to rune than soft steel. Charges last much longer. Slave collars, axes, trial hammers. More common than mythril or orichalcum. | Best working knife for a runesmith. Strong edge with long-lived runes. |
-| **Mythril / mithril** | Silvery and light. **Titanium handling lock** (`CraftMetal.md`): hard to forge, machine, weld and cast; needs vacuum / inert cover; work-hardens fast. Excellent for reusable runic gear (wands that do not die after a few casts). Price floor about 1 large gold for gear. Thin plate often over a form core (brigandine-style). Pierce hardness gate about 3500 MPa. Variants: red mythril (fire resist) and plain uniform mythril for prosthetics. | Luxury reusable runic knife. Thin plate over a core is the likely construction. Red mythril suits a hearth or forge knife. Specialist shop work, not open-forge iron practice. |
-| **Orichalcum** (also Orihalcum) | High-tier shiny or goldish prestige metal (ships, anvils, noble supply lists). Rarer than deep steel. Above common runecraft stock. | Prestige blade or a noble set. |
+| **Mythril / mithril** | Magically saturated **silver–copper** alloy (near eutectic). **Pearlish** light silvery gold. Superconducting mana path from the saturation. Excellent reusable runic gear. Price floor about 1 large gold for gear. Thin plate often over a form core. Pierce hardness gate about 3500 MPa. Variants: red mythril (fire resist) and plain mythril for prosthetics. Shop: `CraftMetal.md`. **Not titanium.** | Luxury reusable runic knife. Thin plate over a core. Red mythril suits a hearth or forge knife. |
+| **Orichalcum** (also Orihalcum) | **Golden titanium** handling lock (`CraftMetal.md`): vacuum / inert shop pain, goldish tint. **Reduced** mana conductivity (~titanium η band). Cannot hold runes. Anvil damp / mage-hostile plate and ships. Rarer than deep steel. Unrelated to mythril. | Prestige blade or noble set with **no** enchant path. Anvil inserts. |
 | **Adamantium** | Top rewrite path metal (98%). Extreme strain life. Prestige and late craft (thermometer sheath and similar). | Legendary heirloom. Best conductor and longest plate life. |
 | **Dark steel / mana steel** | Locked on the rune-path ladder (`Energy.md`): dark 88% and mana steel 92%. Better conductors. Less waste. Longer plate life. Not the same axis as deep iron's mana resistance. | Enchanted knives that cast often. Mana steel is the best non-mythril rune host. |
 | **Durasteel** | Source forge metal (with fire-mythril) for heavy smelters. | Forge-side tooling rather than kitchen blades. |
@@ -412,7 +412,7 @@ Values come from the world notes. Knife use is the kitchen application of each m
 
 **Supersteel** in design notes means mithril-class strength at less weight (edge life and stiffness). Geometry still decides cut versus thrust.
 
-**Mythril handling (locked):** Earth titanium for shop behavior. See `CraftMetal.md` Mythril section. Deep steel stays the mid-story workhorse a normal forge can still hit. Mythril is specialist atmosphere, tooling and cost.
+**Mythril shop:** magically saturated Ag–Cu (pearlish silvery gold), not titanium. See `CraftMetal.md` Mythril section. Deep steel stays the mid-story workhorse a normal forge can still hit. **Orichalcum** is the golden-titanium handling lock (vacuum / inert).
 
 ### Rune-path ladder (rewrite lock)
 

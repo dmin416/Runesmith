@@ -24,7 +24,7 @@ Carwen is a poor place for specialty craft supplies. Edelgard has better shops f
 
 1. **Ch 19 want:** Quill is fine for ink work and worse for focused schematic redraws. He wants a pencil once he has Edelgard access.
 2. **No Borrowdale windfall:** Edelgard mines are iron / deeper rare metals (`../World/Places.md`). They do **not** yield large lump or flake graphite beds he can just saw into sticks.
-3. **Make graphite:** He synthesizes usable graphite (powdered carbon + clay / binder, kiln or heat-rune fire; Conté-style cores). Exact recipe locks when the craft chapter is written. Heat runes and forge work make the high-temperature step plausible without Earth industrial plant.
+3. **Make graphite:** He synthesizes usable graphite from wood (char → tar pitch coke → graphitize) then Conté-style clay leads and a wood case. Full Earth ladder under **Synthetic graphite from wood** below. Heat runes and forge work make the 2500 to 3000 °C step plausible without Earth industrial plant.
 4. **Ned toxin-free spike:** A later Ned spike evolution / variant that is **toxin-free**. Shed or cut tips become clean hard cores (or core molds / punches) for pencil leads. Poisoned spikes are useless for writing tools people put near their mouths and skin.
 5. **Pencil:** Wood (or equivalent) case + synthetic graphite core. First personal use for schematics; later a sellable civilian product.
 6. **Pen (after metalworking):** Once he has real smith / precision metal time, he invents a practical pen (steel-nib dip first, then a better sealed / fountain or ball design). See also `../Ideas.md` civilian product shortlist (**ball pen** sits after steel process).
@@ -63,11 +63,40 @@ Common companions: pyrite / pyrrhotite (rusty outcrops), quartz / mica / feldspa
 
 **Story use:** Edelgard’s iron-mountain geology is a bad match for a Borrowdale windfall. Roland’s Conté-style **synthetic** route is the intended path, not discovering a secret graphite mine under the city.
 
-### Synthetic graphite (Earth pointers for craft beats)
+### Synthetic graphite from wood (Earth craft ladder)
 
-- Conté: graphite powder + clay, fire in kiln, grade by clay ratio.
-- Later industrial synthetic graphite (Acheson-type) needs very high heat on carbon feedstock. Heat runes / forge magic can stand in for the furnace once he can hold temperature and atmosphere.
-- Binder + wood casing + sharpening = a usable pencil without a natural lump deposit.
+Wood charcoal alone is hard carbon that resists forming graphite. The **tar and pitch** route is what makes a wood-only feedstock workable. Conté then mixes that graphite with clay and fires the lead.
+
+**Graphite from wood**
+
+1. **Char the wood.** Heat hardwood chunks in a sealed, oxygen-free container at 500 to 900 °C until only black charcoal remains. Capture the tar and vapors released during heating.
+2. **Make soft carbon from the tar.** Condense the wood tar and heat it to 400 to 500 °C to thicken it into pitch. Bake the pitch at about 1000 °C in a sealed container to form coke. Pitch coke graphitizes far better than raw charcoal does.
+3. **Grind.** Crush the coke and charcoal to a fine powder.
+4. **Graphitize.** Heat the carbon powder to 2500 to 3000 °C in a sealed, oxygen-free furnace for several hours. The carbon atoms rearrange into layered graphite crystals. Packing the powder in a graphite crucible or carbon bed keeps air out.
+5. **Regrind.** Mill the cooled graphite to a very fine powder.
+
+**Clay binder**
+
+1. **Wash the clay.** Stir it in water and let the heavy grit settle. Pour off the fine clay slurry and let it thicken.
+
+**Lead (Conté core)**
+
+1. **Mix.** Blend graphite powder and clay with water. Soft grades use about 2 parts graphite to 1 part clay. Hard grades use about 1 part graphite to 3 parts clay.
+2. **Mill.** Grind the mixture for many hours until it is smooth and uniform.
+3. **Dewater.** Press out excess water until the mix is a stiff dough.
+4. **Extrude.** Force the dough through a small round die to form thin rods.
+5. **Straighten and dry.** Lay the rods flat and cut them to length. Let them dry fully.
+6. **Fire.** Bake the rods at 1000 to 1100 °C packed in carbon or sealed from air. The clay turns to ceramic and locks the graphite in place.
+
+**Wood casing**
+
+1. **Cut slats.** Saw cedar or another soft straight-grained wood into thin slats and kiln-dry them.
+2. **Groove.** Cut parallel half-round channels along each slat.
+3. **Assemble.** Lay leads in the grooves of one slat. Glue a second slat on top and clamp until set. Wood glue can be rendered from boiled wood resin or hide-free plant starch paste.
+4. **Shape.** Cut the sandwich into individual pencils and round or hexagonal profiles.
+5. **Sharpen.** Cut a cone at one end to expose the lead.
+
+**Caldris / invent notes:** Acheson-class graphitize heat (2500 to 3000 °C) needs heat runes, a sealed barrier shell, or forge magic once Roland can hold temperature and keep oxygen out (`CraftMetal.md` sealed-work habits). Lead fire and wood casing are ordinary kiln / carpenter work. Ned toxin-free spike cores remain an alternate lead path once that evolution exists.
 
 ## Cross-links
 

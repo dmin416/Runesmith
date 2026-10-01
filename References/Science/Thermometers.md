@@ -73,7 +73,7 @@ Real Type S and R thermocouples use pure platinum for one leg and a platinum-rho
 
 | Metal | Verdict | Reasoning |
 |---|---|---|
-| **Mythril** | Best choice | Lightweight, corrosion-proof. Titanium-like handling (`CraftMetal.md`): drawable into wire only as specialist work under cover / anneal cycles. Fits the role of the pure, stable leg. |
+| **Mythril** | Best choice | Magically saturated Ag–Cu; pearlish silvery gold; drawable specialist wire. Stable superconducting leg. Not titanium. |
 | **Mana steel** | Good as the alloy partner | Responds to mana, which gives the second leg a different voltage curve. Alone it drifts with ambient mana, so keep it as a minor alloying element. |
 | **Adamantium** | Poor as a wire | Too hard to draw into fine wire and too inert to give a useful voltage difference. Better as the protective sheath around the probe. |
 

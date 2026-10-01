@@ -54,6 +54,10 @@ Social structure stays medieval (kingdoms, nobles, knights, Royals) while techno
 
 **Thermometers (no electronics):** alcohol-in-glass, bimetallic oven dials, and thermocouples in `../Science/Thermometers.md`. Glass + calibration baths and brass/steel dials are near-reach; galvanometer thermocouples and mythril high-temp pairs are invent-or-prestige. Heat Sense / heat runes can stand in until craft exists.
 
+**Batteries:** Earth cell ladder and mana-stone Wh/kg compare in `../Science/Batteries.md`. Voltaic / Daniell / zinc-carbon are near-reach invents; lithium chemistries are not baseline. Mana stones already cover portable energy for most gear.
+
+**Refined mana craft:** Stillwire (stone-refined superconducting wire) and Lightthread (optical fiber) in `../Science/RefinedMana.md`. Prestige invent; not baseline. Mined mythril stays the reusable SC path metal; Lightthread is light-only (not mana fiber). Temporary mass/weight stays on MassBoost / Impact, not summoned matter.
+
 ### Economy and agriculture effects
 
 - A three-tier coin system matches the real medieval and early modern pattern of copper for commoners, silver for merchants and gold for nobles and large trade (project ladder is finer: SC/LC/SS/LS/SG/LG/RG in `Economy.md`)

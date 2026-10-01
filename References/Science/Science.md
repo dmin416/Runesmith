@@ -27,7 +27,8 @@ No locked “flight is expensive” or “flight is cheap” fiat. Cost is whate
 |---|---|
 | `Projectiles.md` | Sphere flight, near-Mach arrows, sling/bow/atlatl, captive-piston sound, rotating tube launch |
 | `ManaCast.md` | Shared cast law tables, Bolt / Arrow / Ember / Hands / Shield |
-| `ManaStones.md` | Stone size, quality, dump/refill |
+| `ManaStones.md` | Stone size, quality, dump/refill; mass fixed by size |
+| `RefinedMana.md` | Stillwire / Lightthread; purify→refine; vs mythril and mana fiber |
 | `Body.md` | Extra limbs; heat / cool skin; thermal grill; heat-signature stealth; tooth ages |
 | `ART.md` | Gut check / ART / dowsing / lean-sway; danger body-read; switching gates |
 | `Waves.md` | Sound and light bands; ozone / UV |
@@ -39,7 +40,7 @@ No locked “flight is expensive” or “flight is cheap” fiat. Cost is whate
 | `SteelVacuumChamber.md` | Steel chamber structure, seals, coatings, pumps, gauges, hobby builds |
 | `Sound.md` | Sound power, oscillation apps, resonant shatter, echolocation (L9) |
 | `Flight.md` | Hover / flight power math; vacuum-pocket lift assist |
-| `CraftMetal.md` | Barrier molds, wire, springs, atomization, period steel vs modern knowledge; mythril = titanium handling |
+| `CraftMetal.md` | Barrier molds, wire, springs; mythril = saturated Ag–Cu (pearlish); orichalcum = golden Ti (reduced η) |
 | `RunicBladeChannels.md` | Forge vs cast vs tunnel for internal runic circuits; hybrid anneal-tunnel wins |
 | `Materials.md` | Earth alloy / carbon production: Cu family, Ag, Au, Fe, 1095, C fiber, diamond, Ti, W |
 | `MetalOres.md` | Where ores sit on a map; roast / reduce / retort routes with alchemy heat |
@@ -51,7 +52,7 @@ No locked “flight is expensive” or “flight is cheap” fiat. Cost is whate
 | `KitchenCraft.md` | Core kitchen kit, forge tool tiers, cookware/knife methods, machine bootstrap, Nambu finish, vacuum-weld pans, knife metals |
 | `GemInlay.md` | Locking an unbreakable gem in steel (dovetail cast-in, shrink-fit, fasteners); craft seat, not stone physics |
 | `Arrowheads.md` | Forged / cast arrowheads, aerodynamics, modern shortcuts, steel cast route |
-| `WritingTools.md` | Terra writing kit; Roland invents pencil (synthetic graphite + Ned toxin-free spike) then pen |
+| `WritingTools.md` | Terra writing kit; pencil invent (wood→graphite Conté lead + wood case; Ned spike alt) then pen |
 | `Paper.md` | Mundane vs mana paper/hide grades; flockbeast parchment; magic wood vs monster skin; magical blanks vs paper pricing |
 | `PaperFormats.md` | Sheet sizes, stack weights, scroll vs card, channeling heat, magic-hide forms |
 | `MindBodySkill.md` | Memory vs drawing/motor skill; declarative vs procedural; practice timelines |
@@ -59,6 +60,7 @@ No locked “flight is expensive” or “flight is cheap” fiat. Cost is whate
 | `VehicleSuspension.md` | Earth suspension tech ladder + Caldris ceiling |
 | `MechanicalPrecision.md` | Lathes, cams, governors, mechanical fire-control / bombsights |
 | `Thermometers.md` | Alcohol-in-glass, thermocouple, bimetallic; no electronics; Caldris ceiling |
+| `Batteries.md` | Earth cell ladder to Li-air; mana-stone Wh/kg / kW/kg performance tables |
 
 **Future spell idea rungs** (same cast law): `../PotentialMagic/PotentialMagic.md`.
 

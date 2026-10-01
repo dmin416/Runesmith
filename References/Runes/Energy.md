@@ -33,7 +33,7 @@ Electricity is the physical model for how mana moves. Mana is not electricity. I
 
 ## 2. Mana Conductivity (canon)
 
-Metals from worst to best: **iron, copper, steel, dark steel, mana steel, mythril, adamantium.** Worse paths waste more of the cost and strain faster. Better paths carry heavy flow with little waste. Mythril shop handling is titanium-locked (`../Science/CraftMetal.md`); that is craft behavior, not path rank.
+Metals from worst to best: **iron, copper, steel, dark steel, mana steel, mythril, adamantium.** Worse paths waste more of the cost and strain faster. Better paths carry heavy flow with little waste. Mythril: magically saturated Ag–Cu, pearlish silvery gold (`../Science/CraftMetal.md`). Orichalcum is the golden-titanium reduced-η metal.
 
 The human body conducts at about 90 percent efficiency, between dark steel and mana steel (section 10). Monster blood is proposed at the same value and its placement stays open (section 12).
 

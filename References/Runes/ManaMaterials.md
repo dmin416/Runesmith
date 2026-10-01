@@ -89,7 +89,7 @@ Waste per 100 mana below is `Waste_total` at G = 1. Path heat for dT ≈ half of
 | Blood / hemolymph / monster blood | biological | **90%** | **100 J** |
 | Human body (relay) | biological | **90–92%** | **80–100 J** |
 | Brass | wire | 91.3% | 87 J |
-| Orichalcum (surface damping only) | wire + expulsion | 91.3% surface | 87 J |
+| Orichalcum (golden titanium) | wire (reduced) | **66.7%** | 333 J |
 | Tungsten (pure) | wire | 91.9% | 81 J |
 | Gold (24k) | wire | 94.6% | 54 J |
 | Deep silver | wire | 94.9% | 51 J |
@@ -108,7 +108,7 @@ Waste per 100 mana below is `Waste_total` at G = 1. Path heat for dT ≈ half of
 | Soft channel (mana fiber) | soft | 99.0% | 10 J |
 | Black mithril (non-dark bands) | absorber | 5.0% | 950 J |
 | Black mithril (dark band) | absorber | ~95% | ~50 J |
-| Orichalcum (through bulk) | expulsion | ~0–2% | almost all reflected |
+| Orichalcum (thick bulk / armor) | reduced wire | ~negligible through | High resistivity; thin foil still leaks |
 | Resistium | additive | host | host |
 
 **Wire formula (metals, dial constant kept):**  
@@ -132,12 +132,35 @@ ODS-like: mana-rich stock, hard to melt (magical blast furnaces), harder to insc
 Nonmagnetic austenitic hosts → **high η** (~75–76% on this dial). Best common rune channels in steel weapons (convert channel zone; keep hardened bulk).
 
 ### Mythril
-Titanium / nitinol **handling** lock for the shop (`CraftMetal.md`). Silvery, passive oxide, reusable runic gear. Mana mode: **superconducting** (section 1).
+**Magically saturated silver–copper alloy** (near Ag–Cu eutectic frame). Look: **pearlish** light silvery gold. Reusable runic gear. Mana mode: **superconducting** (section 1) from the saturation, not from mundane Ag–Cu alone. **Not titanium.** Unrelated to orichalcum’s golden-titanium shop lock.
 
 - Steady flow near lossless up to a high **Jc**.
 - Pulses pay ~**5%** AC-loss dial → **95%** path η.
-- **Quench is rare** on gear-grade stock. If it quenches, fall back toward titanium-alloy η and dump heat. Do not treat quench as the normal failure of a mithril wand.
+- **Quench is rare** on gear-grade stock. If it quenches, fall back toward ordinary poor-wire η (titanium-alloy band is the Earth dial for that fallback only) and dump heat. Do not treat quench as the normal failure of a mithril wand.
 - **Pattern stability:** written patterns follow Néel-Arrhenius fading. **Δ** is the stability factor and characteristic lifetime is about **1×10⁻⁹ s × e^Δ**. **Wipe T** is the temperature where that lifetime collapses to minutes or less (ordering / Curie analog). Gear-grade mythril aims for **Δ ≈ 45 or more**, which survives combat heat near **350 K** for days to years. A forge fire can still erase a pattern. That is a forge hazard, not a fight tax. Heat fade is not the deep-metal resistance axis (section 2).
+
+Shop notes: `../Science/CraftMetal.md` (Mythril). Sterling / eutectic metallurgy pointers: `../Science/Materials.md`.#### Superconducting windings (invent / prestige apps)
+
+A superconducting winding is a coil of wire made from superconducting material. Like a copper winding, it carries current to create a magnetic field. The difference is that current flows with zero resistance (mythril / aether-mithril path mode).
+
+**What zero resistance does**
+- **No heat:** copper windings lose energy as heat (I²R loss). A superconducting winding loses nothing on steady DC however much current it carries.
+- **Persistent current:** with the coil's ends joined in a closed loop, current circulates forever with no power supply. SMES coils and MRI magnets work this way. Etherium is the dedicated persistent-store metal; mythril windings can hold a persistent electrical current in the coil loop.
+- **Much higher current density:** copper carries about 2 to 10 A/mm² before overheating. Current Earth superconductors carry 100 to 1,000+ A/mm². Gear-grade mythril still has a **Jc** ceiling (section 1); aether mithril aims higher.
+- **Stronger fields:** more current in less space creates far stronger magnetic fields from a compact coil.
+
+**Earth limits vs Caldris mythril**
+- **Critical temperature:** Earth superconductors need cooling to between -269 °C and about -200 °C. Room-temperature mythril removes the cooling plant.
+- **Critical field and critical current:** above a certain field or current, superconductivity collapses (a quench). Stored energy then turns into heat at once and can destroy the coil. Mythril **keeps Jc / quench** (rare on gear stock). Do not write it as perfect unlimited current.
+- **Magnetic pressure:** strong fields push the windings outward. Adamantium or deep high-strength frames contain this; orichalcum is mana-resistant cladding / anvil damp, not the winding itself.
+- **AC losses:** Earth superconductors lose a little when current changes quickly. Mythril pulses already pay the **5%** AC-loss dial. Steady DC is near lossless.
+
+**Role in a flywheel / motor stack**
+- **Motor/generator:** superconducting windings on the stator create a strong field. The rotor's magnets (or its own superconducting windings) turn through it. Charging speeds the rotor up and discharging slows it down.
+- **Magnetic bearings:** superconductors push out magnetic fields (Meissner) and can lock magnets in place (flux pinning). This holds the rotor centered with no contact. Orichalcum plates are **mana-resistant** cladding (poor conductors), not superconducting bearings. Do not confuse reduced-η shield stock with winding current.
+- **Efficiency:** with no winding I²R loss, conversion between motion and electricity sits above 99% on the electrical side. Remaining losses are bearings, windage, and power electronics / rune converters.
+
+Companions: `../Science/Batteries.md` (stone vs cell power), `../Science/RefinedMana.md` (Stillwire stone-refined wire; Lightthread), stone sockets as the mana feed.
 
 **Variants:**
 - **Red mithril:** fire band / cuprite-lava ore. Superconducting base **95%**. With heat recycle (section 2) effective **97%**.
@@ -146,19 +169,19 @@ Titanium / nitinol **handling** lock for the shop (`CraftMetal.md`). Silvery, pa
 - **Aether mithril:** etherium phase. Superconducting **96%** dial. Higher Jc / storage.
 
 ### Orichalcum
-Brass-type goldish metal. **Expels** outside mana from the bulk (Meissner / skin-shield liberty). Novel lock: near-full anti-magic plate, **cannot be enchanted**, rare.
+**Golden titanium** handling lock (`../Science/CraftMetal.md`). Goldish prestige metal. Mana mode: **reduced wire** at the titanium band (**~66.7%**, same dial as Ti-6Al-4V). This is the fantasy metal that owns titanium's poor mana conductivity and titanium shop chemistry. **Mythril is unrelated.**
 
-- Surface damping path ~**91%** exists for **anvil inserts and shield layers** only.
-- **Never** a rune channel or written-pattern host.
-- Thin plate stops fast sharp mana better than slow steady mana (skin-depth story). Full armor immunity needs thick plate or layered high-μ cores.
-- In a mostly-mithril anvil, a little orichalcum **damps** stray forge mana and cuts deterioration.
+- Poor channel. **Never** a rune host or written-pattern metal. Cannot be imbued.
+- Thick plate and armor pass almost no mana (Source anti-magic armor / anvil story). Thin foil still leaks.
+- In a mostly-mithril anvil, a little orichalcum **damps** stray forge mana and cuts deterioration (low η sinks less into the tool).
+- Full orichalcum kit is rare prestige: mage-hostile, and empty of enchantments.
 
 ### Adamantium
 Window-mode top path (~**98%**). Diamond-like thermal spreading + mana-supported hardness.
 
 **Forge story (aligned with novel):** heat **does** enter, but high **k** dumps it into tongs, anvil and air. Smiths must pour **infernal** power and fire-resist skill to keep the whole thermal mass at forging T. That is why records talk of deaths in the heat, not because the piece cannot be heated at all.
 
-Orichalcum tools work by **locally cancelling mana support** of the hard skeleton so brittle cleavage becomes possible. Inscription stays hardest of the commons.
+Orichalcum tools work by **starving mana support** in the hard skeleton (low-η contact dumps the boost) so brittle cleavage becomes possible. Inscription stays hardest of the commons.
 
 ### Durium / durasteel / aether durasteel
 Durium: hard brittle carbide/boride-like (dark blue ore sheen). Durasteel: durium particles in deep-steel matrix (cermet). Alone, slightly better than deep steel on the radiation-damage axis (section 2). Etherium mix pushes enchant life toward mithril. Aether durasteel adds a thin mana-active phase for fire-gear buffs; still a poor wire.
@@ -184,7 +207,7 @@ Examples (order of magnitude):
 |---|---|---|---|---|---|
 | Iron | ~37% | ~630 J | ~315 J | ~450 | ~**140 K** |
 | Copper | ~95% | ~48 J | ~24 J | ~385 | ~**12 K** |
-| Orichalcum (surface) | 91.3% | 87 J | ~44 J | ~380 | ~**23 K** |
+| Orichalcum | 66.7% | 333 J | ~167 J | ~520 | ~**64 K** |
 | Mythril | 95% | 50 J | ~25 J | ~500 | ~**10 K** |
 | Lead | 85.1% | 149 J | ~75 J | ~129 | ~**116 K** |
 
@@ -199,7 +222,7 @@ Lead still risks melt if pulses stack before heat leaves. Lead/tin “one pulse 
 | A. Engraved plain steel | Groove in ferromagnetic steel | Hot channel, electromigration-like pits, few charges |
 | B. Mana-inlaid steel | Channel converted to austenitic mana/dark steel | Leakage into bulk; slow wear. Best mundane default |
 | C. Magical monolith | Pattern written in mithril / adamantium / etc. | Heat above ordering / wipe T fades pattern. Keep cool |
-| D. Orichalcum layer | Shield / anvil insert | Never the channel. Dezincification / season cracking are mundane failures |
+| D. Orichalcum layer | Shield / anvil insert | Never the channel. Titanium-family shop failures (work-hardening, air contamination case) |
 
 **Inlay rule:** same-metal phase conversion beats foreign-metal inlay (avoids galvanic attack at the border).
 
@@ -217,7 +240,7 @@ Channel **2 mm** wide, **1 mm** deep, **60 cm** long (**1.2 cm³**). One **100 m
 | Aether durasteel | 40.0% | 9.2 g | 600 J | 300 J | ~**65 K** |
 | Dark steel (austenitic) | 75.0% | 9.4 g | 250 J | 125 J | ~**27 K** |
 | Mana steel (austenitic) | 75.9% | 9.4 g | 241 J | 120 J | ~**26 K** |
-| Orichalcum (surface path) | 91.3% | 10.3 g | 87 J | 44 J | ~**11 K** |
+| Orichalcum | 66.7% | 10.3 g | 333 J | 167 J | ~**31 K** |
 | Mythril | 95.0% | 6.0 g | 50 J | 25 J | ~**8 K** |
 | Red mithril (no recycle) | 95.0% | 7.2 g | 50 J | 25 J | ~**7 K** |
 | Red mythril (with recycle) | 97.0% eff. | 7.2 g | 30 J | 15 J | ~**4 K** |
@@ -225,7 +248,7 @@ Channel **2 mm** wide, **1 mm** deep, **60 cm** long (**1.2 cm³**). One **100 m
 | Aether mithril alloy | 96.0% | 6.6 g | 40 J | 20 J | ~**7 K** |
 | Adamantium | 98.0% | 6.0 g | 20 J | 10 J | ~**3 K** |
 
-Orichalcum carries mana well on a surface path yet is never the weapon channel because a rune cannot hold in it.
+Orichalcum is a **poor** mana path (~67%) and never the weapon channel because a rune cannot hold in it.
 
 ---
 
@@ -254,7 +277,7 @@ Opposite bands (Fire↔Water, Earth↔Wind) in one lattice strain it. Layered / 
 |---|---|---|---|
 | Fire | Red / infrared | Raises melting point and emissivity. Can recycle waste heat as fire mana | Tungsten, graphite, red mythril |
 | Earth | Yellow / ochre | Raises density and hardness. Cuts expansion and wear. Can raise rune life on the radiation-damage axis | Tungsten alloys, WC-Co, adamantium, deep iron |
-| Wind | Green | Cuts density. Raises stiffness per weight and strike response | Titanium, nitinol, carbon fiber, mythril |
+| Wind | Green | Cuts density. Raises stiffness per weight and strike response | Titanium, nitinol, carbon fiber |
 | Water | Blue | Raises specific heat and corrosion immunity. Self-healing lean | Cupronickel, bronze, CP titanium, blue mithril |
 | Aether | All four | Passes every band with least loss | Etherium, aether mithril, aether durasteel |
 | Dark | Absorbs non-dark | Soaks non-dark mana | Black mithril |
@@ -281,7 +304,7 @@ A host passes its own band with less waste and other bands with more. Waste mult
 | Mana steel (austenitic) | 75.9% | ~78% / ~73% | ~82% / ~69% | ~86% / ~62% |
 | Hardened steel | 41.5% | 47.4% / 35.6% | 56.1% / 24.0% | 64.9% / 6.4% |
 
-Good conductors gain little. Poor conductors gain a lot in-band and lose a lot off-band. Orichalcum stays **91.3%** on its surface path at every level and still passes no element through the bulk. Etherium transfer (~**99%**) shows no band preference.
+Good conductors gain little. Poor conductors gain a lot in-band and lose a lot off-band. Orichalcum stays at the **titanium reduced-η band (~66.7%)** at every imbue level and still refuses written runes. Thick stock passes almost no bulk mana. Etherium transfer (~**99%**) shows no band preference.
 
 ### Pair combinations (layered only)
 | Pair | Result | Note |
@@ -312,7 +335,8 @@ All pairs are layered or multiphase. A uniform lattice cannot hold opposite band
 | Carbon fiber / graphene | Wind | Bound |
 | Diamond | Earth | Native |
 | Graphite | Fire | Bound |
-| Ti-6Al-4V / nitinol / mythril | Wind | Bound / native |
+| Ti-6Al-4V / nitinol | Wind | Bound / native |
+| Mythril | none required for SC path | Native superconducting host |
 | CP titanium | Water | Bound |
 | WC-Co / tungsten heavy / pure W | Earth / Fire (W) | Bound / native |
 | Lead and tin | Water or Earth | Loose |
@@ -340,7 +364,7 @@ Converters cover **craft and metalwork only**. Affinity still gates elemental cl
 - **Density gate:** below a set mana density the stream stays pure and above it the stream converts.
 - Elemental stone or ambient mana of the matching element may lower that threshold. They are optional helpers, not requirements.
 - Reverse (element → pure) is allowed under the same rules.
-- Orichalcum cannot hold a converter. Place converters beside orichalcum shielding if needed.
+- Orichalcum cannot hold a converter. Place converters on mythril / mana-steel / steel beside orichalcum cladding if needed.
 
 ### Stone powder in metal
 Crushed magic stone in an alloy follows the stone rules: **capacity scales with volume** and **transfer rate scales with area**. Crushed particles do **not** inherit full stone dump rates.
@@ -353,7 +377,7 @@ Solid stone holds about **1000 mana per cm³** of stone (`1 mana per mm³`). All
 | 15% | **15 mana/cm³** |
 | 30% | **30 mana/cm³** |
 
-Insulating particles raise resistivity slightly. Orichalcum matrix never charges stone inside unless pre-charged then sealed (mana vault).
+Insulating particles raise resistivity slightly. Orichalcum matrix (reduced η) never charges a stone inside unless the stone is pre-charged then sealed (mana vault).
 
 ### Soak depth
 Loose imbue soaks deepest at forging heat then must be trapped by cooling under flow. Bound stays near the surface unless thin stock. Native needs melt alloying or extreme near-melt treatment.
@@ -369,7 +393,7 @@ Loose imbue soaks deepest at forging heat then must be trapped by cooling under 
 - Copper path η about **95%** (derived). Energy.md η values are not used here.
 - Deep = radiation-damage resistance (~10× life, section 2 only). Heat fade is a separate axis.
 - Austenitic = conductor.
-- Orichalcum = expulsion / shield / anvil damp. Never rune host. Present in η table, fantasy metals, temperature table, channel table, imbue rules, converters and stone vault.
+- Orichalcum = golden titanium shop + titanium-band reduced η. Shield / anvil damp. Never rune host. Present in η table, fantasy metals, temperature table, channel table, imbue rules, converters and stone vault.
 - Adamantium forge = infernal power against fast heat spreading.
 - Mythril reusable at combat heat. Quench rare. Forge fire can still wipe.
 - Red mythril **97%** = **95%** path + **40%** waste-heat recycle as fire mana.

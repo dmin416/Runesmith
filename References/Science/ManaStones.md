@@ -52,7 +52,7 @@ Shirt-wide rice-stone pool (mail collaborative rune): `../Runes/ChainMailCollabo
 
 ### Quality (dump and refill)
 
-**Quality does not raise capacity.** Size owns the tank. Grade speeds output and input, with dump ahead of refill:
+**Quality does not raise capacity or mass.** Size owns the tank and the weight. Grade speeds output and input, with dump ahead of refill:
 
 ```
 Output = Q × SA                 mana/s
@@ -60,41 +60,44 @@ Input  = ((Q + 1) / 2) × SA     mana/min
 Sustainable = Input / 60        mana/s
 ```
 
-At **Q = 1** this matches the baseline rates (1 mana/s and 1 mana/min per mm²). A **10×** (dragon-grade) stone dumps **10×** harder and takes input **5.5×** faster. Capacity stays volume-only.
+At **Q = 1** this matches the baseline rates (1 mana/s and 1 mana/min per mm²). A **10×** (dragon-grade) stone dumps **10×** harder and takes input **5.5×** faster. Capacity and mass stay size-only.
 
-| Fist core | Capacity | Output (mana/s) | Input (mana/min) | Sustainable (mana/s) |
-|---|---|---|---|---|
-| 1× common | 268,080 | 20,110 | 20,110 | 335 |
-| 10× dragon grade | 268,080 | 201,100 | 110,605 | 1,843 |
+| Fist core | Capacity | Mass | Output (mana/s) | Input (mana/min) | Sustainable (mana/s) |
+|---|---|---|---|---|---|
+| 1× common | 268,080 | 710 g | 20,110 | 20,110 | 335 |
+| 10× dragon grade | 268,080 | 710 g | 201,100 | 110,605 | 1,843 |
 
-High-grade stones are high-amp feeds that also top off faster, not bigger batteries. Size owns capacity. Grade owns output and input.
+High-grade stones are high-amp feeds that also top off faster, not bigger or heavier batteries. Size owns capacity and mass. Grade owns output and input.
 
 ### Weight and quality
 
-Mass comes from **volume × density**. Quality raises density (tighter crystal packing) without growing the tank.
+Mass comes from **volume × density** only. **Quality does not change weight.** Density stays quartz-like at every grade.
 
 ```
-ρ₀ = 2.65 g/cm³                    baseline (Common / Q = 1), quartz-like
-ρ  = ρ₀ × Q                        g/cm³
+ρ  = 2.65 g/cm³                    fixed (quartz-like), all grades
 m  = ρ × V                         V in cm³ → m in grams
-   = 2.65 × Q × V
-Q  = ρ / ρ₀                        from weigh + size (or Identify)
+   = 2.65 × V
 ```
 
-`V` in mm³: `m (g) = 0.00265 × Q × V_mm³`.
+`V` in mm³: `m (g) = 0.00265 × V_mm³`.
 
-| Grade (story) | Q | Density | Rice grain (0.019 cm³) | Marble (2.15 cm³) | Fist (268 cm³) |
-|---|---|---|---|---|---|
-| Lesser | **0.5** | 1.33 g/cm³ | 0.025 g | 2.9 g | 355 g |
-| Common | **1** | 2.65 g/cm³ | 0.050 g | 5.7 g | 710 g |
-| High | **2** | 5.3 g/cm³ | 0.10 g | 11 g | 1,400 g |
-| Highest | **3** | 8.0 g/cm³ | 0.15 g | 17 g | 2,100 g |
-| Intermediate / Greater band | **5** | 13.3 g/cm³ | 0.25 g | 28 g | 3,600 g |
-| Legendary / dragon-grade | **10** | 26.5 g/cm³ | 0.50 g | 57 g | 7,100 g |
+| Stone | Volume | Mass (any Q) |
+|---|---|---|
+| Rice grain | 0.019 cm³ | **0.050 g** |
+| Marble | 2.15 cm³ | **5.7 g** |
+| Walnut | 14.14 cm³ | **~37 g** |
+| Fist | 268 cm³ | **710 g** |
 
-Masses are grams throughout (formula `m = ρ × V` with V in cm³).
+| Grade (story) | Q | What changes |
+|---|---|---|
+| Lesser | **0.5** | Slower dump / refill |
+| Common | **1** | Baseline rates |
+| High | **2** | Faster dump / refill |
+| Highest | **3** | Faster |
+| Intermediate / Greater band | **5** | Faster |
+| Legendary / dragon-grade | **10** | Fastest amp; same mass and tank |
 
-Same outer size, heavier stone → higher Q. Same mass, smaller stone → denser → higher Q.
+Identify, a dump-rate test, or a shop grading device reads Q. Weighing alone does not.
 
 **Market (guild buy):** size still dominates the sticker through the **leader** band (linear with volume; see `../World/Economy.md`). **Above leader**, guilds use **stepped size bands** (not linear mm³): a Common **16 mm** marble (~113× rice volume) sells around **1.5–4 LS** (mid **~2 LS**), not the ~2.3 SG a pure volume rule would imply. Quality is a multiplier on that size band:
 
@@ -102,4 +105,10 @@ Same outer size, heavier stone → higher Q. Same mass, smaller stone → denser
 Price ≈ Price_size(V) × Q
 ```
 
-So a Common marble at ~**2 LS** mid-band becomes ~**20 LS** at dragon Q **10**, same volume. Rates still follow the dump/refill formulas above.
+So a Common marble at ~**2 LS** mid-band becomes ~**20 LS** at dragon Q **10**, same volume and mass. Rates still follow the dump/refill formulas above.
+
+### Vs chemical batteries
+
+Full tables (Wh/kg ratios, kW/kg burst, sustainable homes, sharding): `Batteries.md` **Mana Stone vs Battery Performance**.
+
+Any-grade stone ≈ **1,050 Wh/kg** and **2,780 Wh/L** (mass fixed by size). Beats commercial cells; matches projected practical Li-air by mass. Higher Q raises amp per kilogram, not Wh/kg. Stones are mana tanks (area-gated dump/refill), not voltage sources. Prestige wire / fiber from stone: `RefinedMana.md`.

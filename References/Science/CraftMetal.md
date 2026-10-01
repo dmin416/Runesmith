@@ -57,7 +57,7 @@ True metallic bond. No filler. No heat-affected zone. Joint can **match** parent
 
 1. Heat to roughly **50–80%** of melting T under pressure in vacuum (Ember / forge soak; Hands squeeze).
 2. Asperities creep flat; atoms diffuse; seam can vanish under a microscope. Pressure is required, not optional.
-3. Vacuum + heat dissolves oxides in steels and titanium (mythril uses the same handling lock; see Mythril below). Aluminum oxide is too stable (surface treatment or interlayers).
+3. Vacuum + heat dissolves oxides in steels and titanium (orichalcum uses the titanium handling lock; see Orichalcum below). Aluminum oxide is too stable (surface treatment or interlayers).
 4. Once bonded, the interface is sealed. Air only scales the outside. Cool in protective atmosphere or vacuum to avoid decarb / scale.
 5. Oil quench only helps alloys that respond. Hardenable steels can quench from bonding T if it is above austenitizing. **Temper afterward.**
 6. Long hot soaks grow grains and hurt toughness. Quench risks distortion and cracking at thin sections / sharp corners.
@@ -81,19 +81,38 @@ Porous sinter (**under ~95% density**) soaks oil and should not be oil-quenched.
 
 ---
 
-## Mythril (titanium handling lock)
+## Mythril (shop)
 
-**Earth analogue for working, not for mana path:** mythril handles like titanium. Light, silvery, high strength-to-weight, corrosion-resistant. Path efficiency and strain life stay on `Energy.md`. This section is forge and shop behavior only.
+**Lock:** magically saturated **silver–copper** alloy. Working Earth frame is near the **Ag–Cu eutectic** (~**72% Ag / 28% Cu**, eutectic melt **~779 °C**; see sterling notes in `Materials.md`). Look: **pearlish**, light silvery gold (warm silver with a soft gold cast), not plain white silver and not orichalcum’s deeper gold.
 
-- **Open charcoal forge is wrong.** Hot mythril reacts with air. Oxygen and nitrogen make a brittle surface case. Forge under vacuum, inert cover, or a sealed barrier shell. A void spell or argon-like purge is the specialist route.
+Path mode is **superconducting** because of the **mana saturation**, not because of the mundane Ag–Cu lattice alone (`../Runes/ManaMaterials.md`, `Energy.md`). This section is forge and shop behavior only.
+
+- Casts and solders in the silver-shop temperature band. Eutectic fluidity helps fill molds; firescale and copper bleed still happen on air heats.
+- Work-hardens. Anneal / quench practice follows silver-copper, not steel.
+- Tarnish and surface darkening are mundane Ag/Cu chemistry unless a finish or saturation trick fights them.
+- Takes written runes and reusable wand / plate work. That is why smiths pay for it.
+- Wire, thin plate and inlay are skilled scarce-metal work.
+- **Not titanium.** **Not orichalcum** (orichalcum is golden titanium, reduced η).
+- **Story beat:** reusable runic gear. Treat it as precious silver-alloy stock with a magic charge, not bloomery iron and not a vacuum titanium forge problem.
+
+Magic shortcuts that help: Hands for even pressure, Ember for controlled soak, clean atmosphere when fighting firescale. Magic saturation is what keeps the superconducting path; shop heat still obeys silver–copper metallurgy.
+
+**Golden titanium handling** belongs to **orichalcum** only (below).
+
+## Orichalcum (golden titanium handling lock)
+
+**Earth analogue for working:** orichalcum handles like **titanium**. Goldish prestige tint (golden titanium look). Path efficiency is the **reduced** titanium band (~**66.7%**). Path numbers: `../Runes/ManaMaterials.md`. This section is forge and shop behavior only.
+
+- **Open charcoal forge is wrong.** Hot orichalcum reacts with air. Oxygen and nitrogen make a brittle surface case. Forge under vacuum, inert cover, or a sealed barrier shell.
 - **Forging:** Needs high heat and strong hammers. The metal loses heat fast and work-hardens quickly. Reheat often. Narrow forge window.
 - **Machining:** Tough and gummy. Tools wear fast. Chips stick to cutters. Sharp tools, slow feeds, coolant or Hands-scour between cuts.
-- **Welding:** Clean faces and inert or vacuum shield only. Air contamination makes brittle joints. Prefer vacuum scour + hot press / Void-Weld over open arc.
-- **Casting:** Hard. High melt, eats common crucibles and molds. Vacuum or inert pour. Not a backyard green-sand job.
-- **Cold work:** Limited. Anneal between draws. Wire is possible but specialist (drawplate + anneal cycles under cover).
-- **Story beat:** Worth it for weight, corrosion resistance and reusable runic gear. Price and process cost both stay high. Roland does not casually hammer raw mythril like iron or steel on an open hearth.
+- **Welding:** Clean faces and inert or vacuum shield only. Prefer vacuum scour + hot press / Void-Weld over open arc.
+- **Casting:** Hard. High melt, eats common crucibles and molds. Vacuum or inert pour.
+- **Cold work:** Limited. Anneal between draws. Wire is specialist work.
+- Color and prestige read gold / orichalcum in the market; do not forge it like brass or bronze.
+- **Story beat:** anvil inserts and mage-hostile plate. Cannot hold runes. A little in a mythril anvil damps forge mana. Full armor empties a noble's coffers and still has no enchantments.
 
-Magic shortcuts that fit: barrier shell as inert chamber, Hands for even pressure, Ember for controlled soak, Void for pump-down. Magic does not skip chemistry. It supplies atmosphere control and repeatability.
+Magic shortcuts: barrier shell as inert chamber, Hands for even pressure, Ember for controlled soak, Void for pump-down. Magic does not skip chemistry and does not turn orichalcum into a rune host.
 
 ---
 

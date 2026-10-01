@@ -69,3 +69,51 @@ Heavy thrust rapier with an **inefficient lesser tip-detonation** rune.
 - **Useful energy** (cast law, η = 1 until Rune Mastery): `125 × 10 × μ(INT)`. At Roland Ch 13 rewrite INT **137** (μ ≈ **5.87**) → **~7.3 kJ** tip-coupled blast (local wood / soft spoil, not a tree-feller)
 - **Rune Mastery** later cuts the MP share (~**1%** at Basic L1); SP overflow still covers any remainder the same way
 - Why warriors rarely spam it: shallow MP pool + SP drain when the pool bottoms out
+
+## Triangular knuckle bow hand guard
+
+### Construction
+
+- Bar runs from the guard at the blade end back toward the pommel and forms a closed triangular frame around the fingers.
+- Equal mass to a 1 cm × 20 cm cylinder crossguard (about 16 cm³ of steel) gives a rod roughly 8 mm thick over about 30 cm of bar length.
+- Cord wrap over the bar.
+
+### Protection
+
+- Covers the knuckles and the back of the fingers, the area a straight crossguard or flat plate leaves open.
+- Angled outer side catches and deflects blades that would slide down onto the fingers.
+
+### Strength
+
+- A triangle is the most rigid frame shape. Straight sides joined at corners resist bending better than a curved D-shaped bow of equal weight.
+
+### Retention
+
+- Closed loop keeps the sword attached to the hand and makes disarming difficult.
+- Sword can hang from the hand while grabbing, climbing or grappling.
+
+### Reverse grip
+
+- Hand stays inside the loop in reverse grip so retention and disarm resistance carry over.
+- Blade lies along the forearm for blocking while the bow shields the fist.
+- Bow becomes a striking surface for hammer-fist and backhand blows.
+- Fast switching between forward and reverse grip without losing hold of the weapon.
+
+### Bottom bar hold
+
+- Bottom of the triangle works as a second handle offset from the main grip.
+- Gripping farther back extends reach for longer cuts and thrusts.
+- Longer lever arm adds power to chopping swings.
+- Offset hold changes the blade angle, opening attack lines a straight grip cannot reach.
+- Main grip plus bottom bar allows a two-handed hold for heavy blows or strong blocks.
+- Cord wrap gives the bottom bar a secure grip surface.
+
+### Close combat
+
+- Usable as a knuckle-duster for punches at close range in forward grip.
+
+### Cord wrap
+
+- Adds grip.
+- Cushions impacts on the bar.
+- Reduces ringing and slipping when the bar is struck.
