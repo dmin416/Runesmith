@@ -50,17 +50,6 @@ Any new skill, item or spell must fit into one of the two rows above. If a desig
 |---|---|---|---|---|---|---|---|---|---|
 | η | 0.30 | 1.00 | 1.29 | 1.57 | 1.86 | 2.14 | 2.43 | 2.71 | 3.00 |
 
-### Normal cast snapshot (25 mana)
-
-| INT | μ | L1 | L2 | L5 | L9 |
-|---|---|---|---|---|---|
-| 15 | 1.00 | 75 J | 250 J | 464 J | 750 J |
-| 40 | 2.19 | 164 J | 548 J | 1,018 J | 1,644 J |
-| 73 | 3.55 | 266 J | 887 J | 1,646 J | 2,660 J |
-| 100 | 4.56 | 342 J | 1,140 J | 2,118 J | 3,421 J |
-| 200 | 7.94 | 596 J | 1,986 J | 3,689 J | 5,957 J |
-| 500 | 16.5 | 1,240 J | 4,133 J | 7,675 J | 12,398 J |
-
 ## Kinetic vs thermal mana (rough guide)
 
 The dividing line in this system: **kinetic magic is still cheaper than bulk thermal work**, but mid/high casts now carry hundreds to thousands of joules so small melts get realistic. Latent heat and plasma remain the walls.
@@ -203,17 +192,6 @@ Voice sets how much mana you feed the cast. Power follows the cast law on that m
 
 Orbit skull failure ~**32 J** and eye-entry burst ~**63 J** both clear on **L1** from INT 40 up on a normal cast (L1 INT 40 ≈ 164 J). Weakspot aim still matters more than raw joules at low level. Whisper is 0.6× normal mana; mental is 0.4×. Temple hits fail earlier than vault hits.
 
-### Speaking level costs
-
-| Voice | Cost |
-|---|---|
-| Mental | 10 |
-| Whisper | 15 |
-| Quiet | 20 |
-| Normal | 25 |
-| Loud | 40 |
-| Very loud | 50 |
-
 Overcharge = mana spent. Named voices are convenience labels, not a separate formula.
 
 ## Mana Arrow
@@ -293,7 +271,8 @@ R in MPa, t in cm, E in J. Cost scales with diameter squared (4 mm = 25% of an 8
 | Steel (1 mm) | 1,400 MPa | 1 mm | 26 J | 4.0 | 1.2 |
 | Car-sized ant plate | 180 MPa | 18 mm | 61 J | 9.3 | 2.8 |
 | Car-sized mantis plate | 250 MPa | 18 mm | 85 J | 12.9 | 3.9 |
-| Mithril / supersteel | 3,500 MPa | 1 mm | 66 J | 10.0 | 3.0 |
+| Mythril | 3,500 MPa | 1 mm | 66 J | 10.0 | 3.0 |
+| Adamantium (supersteel) | 3,500 MPa | 1 mm | 66 J | 10.0 | 3.0 |
 
 Brigandine is **not** 500 MPa through 4.5 mm (that would be ~42 J). It is hard plate plus soft backing.
 
@@ -320,9 +299,9 @@ Max R cleared = H / 1.5
 | 1,000 | 4,276 MPa | 2,851 MPa |
 | 2,000 | 5,429 MPa | 3,619 MPa |
 
-Minimum INT to clear R: goblin skin **2** / hardened leather **6** / dog ant **17** / dog mantis **24** / mail **35** / brigandine plate **53** / iron **81** / steel **225** / mithril **1,800**.
+Minimum INT to clear R: goblin skin **2** / hardened leather **6** / dog ant **17** / dog mantis **24** / mail **35** / brigandine plate **53** / iron **81** / steel **225** / mythril **1,800**.
 
-At **INT 40** (max R 400 MPa): leather and mail are open; **brigandine plate, iron, steel and mithril are closed** even if joules would allow them. Example: 50 mana at INT 40 gives ~328 J, enough joules for steel, but the hardness gate still blocks steel until INT ~225.
+At **INT 40** (max R 400 MPa): leather and mail are open; **brigandine plate, iron, steel and mythril are closed** even if joules would allow them. Example: 50 mana at INT 40 gives ~328 J, enough joules for steel, but the hardness gate still blocks steel until INT ~225.
 
 ### Slicing fletchings
 

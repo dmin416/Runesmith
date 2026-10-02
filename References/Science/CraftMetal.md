@@ -92,16 +92,16 @@ Path mode is **superconducting** because of the **mana saturation**, not because
 - Tarnish and surface darkening are mundane Ag/Cu chemistry unless a finish or saturation trick fights them.
 - Takes written runes and reusable wand / plate work. That is why smiths pay for it.
 - Wire, thin plate and inlay are skilled scarce-metal work.
-- **Not titanium.** **Not orichalcum** (orichalcum is golden titanium, reduced η).
+- **Not titanium.** **Not orichalcum** (orichalcum is magical titanium, reduced η). **Not adamantium** (adamantium is the supersteel).
 - **Story beat:** reusable runic gear. Treat it as precious silver-alloy stock with a magic charge, not bloomery iron and not a vacuum titanium forge problem.
 
 Magic shortcuts that help: Hands for even pressure, Ember for controlled soak, clean atmosphere when fighting firescale. Magic saturation is what keeps the superconducting path; shop heat still obeys silver–copper metallurgy.
 
-**Golden titanium handling** belongs to **orichalcum** only (below).
+**Magical titanium** belongs to **orichalcum** only. **Supersteel** belongs to **adamantium** only (below).
 
-## Orichalcum (golden titanium handling lock)
+## Orichalcum (magical titanium)
 
-**Earth analogue for working:** orichalcum handles like **titanium**. Goldish prestige tint (golden titanium look). Path efficiency is the **reduced** titanium band (~**66.7%**). Path numbers: `../Runes/ManaMaterials.md`. This section is forge and shop behavior only.
+**Lock:** **magical titanium**. Earth shop analogue is titanium (vacuum / inert, work-hardens, gummy machine). Goldish prestige tint. Path efficiency is the **reduced** titanium band (~**66.7%**). Path numbers: `../Runes/ManaMaterials.md`. This section is forge and shop behavior only.
 
 - **Open charcoal forge is wrong.** Hot orichalcum reacts with air. Oxygen and nitrogen make a brittle surface case. Forge under vacuum, inert cover, or a sealed barrier shell.
 - **Forging:** Needs high heat and strong hammers. The metal loses heat fast and work-hardens quickly. Reheat often. Narrow forge window.
@@ -113,6 +113,18 @@ Magic shortcuts that help: Hands for even pressure, Ember for controlled soak, c
 - **Story beat:** anvil inserts and mage-hostile plate. Cannot hold runes. A little in a mythril anvil damps forge mana. Full armor empties a noble's coffers and still has no enchantments.
 
 Magic shortcuts: barrier shell as inert chamber, Hands for even pressure, Ember for controlled soak, Void for pump-down. Magic does not skip chemistry and does not turn orichalcum into a rune host.
+
+## Adamantium (supersteel)
+
+**Lock:** **adamantium is the supersteel.** Magically saturated ultra-steel: extreme hardness, edge life, and stiffness at usable weapon weight. Window-mode top path (~**98%**). Path / strain: `../Runes/ManaMaterials.md`, `Energy.md`.
+
+- Shop is steel-family (forge, quench, temper language) at a prestige heat and tooling ceiling, not silver cast and not titanium atmosphere.
+- Mana-supported hardness: the lattice holds because of the saturation. Orichalcum tools can starve that support so the piece can cleave (see ManaMaterials).
+- Hard to draw into fine wire. Best as plate, sheath, hammer face, blade core / edge stock.
+- Infernal forge story: heat enters, but the metal dumps heat fast into tongs and anvil; smiths pour huge fire and fire-resist skill to keep working temperature.
+- **Story beat:** legendary heirloom blades and late craft (thermometer sheaths, siege fittings). Design notes that say “supersteel” mean adamantium-class stock, not mythril.
+
+Magic shortcuts: Ember soak, Hands pressure, fire-resist skill for the smith. Magic does not remove the heat-dump problem.
 
 ---
 

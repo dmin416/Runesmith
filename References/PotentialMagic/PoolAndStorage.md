@@ -7,6 +7,7 @@ Piercing still wins on pool energy. Stored gas pays off for **area blasts and de
 Fight capacity ≈ pool + (regen × time) + stored chemical energy.  
 Sustained kill rate ≈ regen ÷ (effect J per kill).  
 Mana drawn = effect J / (10 × η × μ).
+"ημ 1" means η × μ = 1 (L2 at INT 15).
 
 ## Energy per kill (effect joules)
 
@@ -30,4 +31,4 @@ A 1,000 goblin wave at ~**80 J** each is ~80 kJ effect (~8,000 mana at ημ 1). 
 - **Pool:** needles and line shots for hordes and dragons.
 - **Regen overflow:** fill bottles between fights.
 - **Bottles:** blasts on shieldwalls, packed mobs behind cover and walls.
-- **Defense:** a Ward costs about the effect energy of the attack it stops (mana = J / (10 η μ)). Cheapest defense is often killing first.
+- **Defense:** a head-on Ward costs the attack's effect energy (mana = J / (10 η μ)). Angled shields follow ../Science/ManaCast.md Mana Shield (45° absorbs half, so the focused disk pays J / (20 η μ)). Cheapest defense is often killing first.

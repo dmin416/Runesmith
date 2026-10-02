@@ -6,13 +6,13 @@ Earth ladder from the first cell to lithium-air. Home-buildable, industrial and 
 
 **Caldris readout** (`../World/Technology.md`): craftsman + early-industrial magitech. **Near-reach invents:** voltaic pile, Daniell, Leclanché / zinc-carbon wet or dry cells, simple zinc-air demos (if KOH / salts and carbons exist). **Harder:** NiFe (caustic KOH), any lithium or molten-sodium chemistry (dry rooms, fire risk, no consumer market). **Not the usual energy path:** mana stones and runic reservoirs already fill portable power. Chemical cells matter for Earth-knowledge invents, non-mana gadgets, or when a mage wants voltage without a stone socket.
 
-Companion: `ManaStones.md` (tank math), `Energy.md` (1 mana ≈ 10 J), `RefinedMana.md` (Stillwire / Lightthread prestige craft), `WritingTools.md` / `Materials.md` (graphite / carbon).
+Companion: `ManaStones.md` (tank math), `../Runes/Energy.md` (1 mana ≈ 10 J), `RefinedMana.md` (Stillwire / Lightthread prestige craft), `WritingTools.md` / `Materials.md` (graphite / carbon).
 
 ---
 
 ## Mana Stone vs Battery Performance
 
-Numbers follow locked stone law (`ManaStones.md`, `Energy.md`). Stones store **mana**. A path or rune converts it to electricity or work. **Mass is size-only** (2.65 g/cm³). Quality does not change weight.
+Numbers follow locked stone law (`ManaStones.md`, `../Runes/Energy.md`). Stones store **mana**. A path or rune converts it to electricity or work. **Mass is size-only** (2.65 g/cm³). Quality does not change weight.
 
 ### Stone law
 

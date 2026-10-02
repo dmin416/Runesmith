@@ -11,7 +11,7 @@ Mana/s = Power (W) / (10 × η(L) × μ(INT))
 ```
 
 - **1 mana ≈ 10 J** is the locked standard for cast law and path formulas (`ManaCast.md`, `../Runes/Energy.md`, `../Runes/RuneSystem.md`).
-- **η(L):** spell level efficiency. L1 = **0.3**, L2 = **1.0**, … L9 = **3.0** (`ManaCast.md`). Not a separate soft quality cap.
+- **η(L):** spell level power factor. L1 = **0.3**, L2 = **1.0**, … L9 = **3.0** (`ManaCast.md`). Not a separate soft quality cap.
 - **μ(INT):** `(INT / 15)^0.8`. INT 15 = 1×.
 - Skill ranks for diagnosis / echolocation / craft precision cap at **L9**.
 
@@ -40,7 +40,7 @@ No locked “flight is expensive” or “flight is cheap” fiat. Cost is whate
 | `SteelVacuumChamber.md` | Steel chamber structure, seals, coatings, pumps, gauges, hobby builds |
 | `Sound.md` | Sound power, oscillation apps, resonant shatter, echolocation (L9) |
 | `Flight.md` | Hover / flight power math; vacuum-pocket lift assist |
-| `CraftMetal.md` | Barrier molds, wire, springs; mythril = saturated Ag–Cu (pearlish); orichalcum = golden Ti (reduced η) |
+| `CraftMetal.md` | Barrier molds, wire, springs; mythril = saturated Ag–Cu; orichalcum = magical Ti; adamantium = supersteel |
 | `RunicBladeChannels.md` | Forge vs cast vs tunnel for internal runic circuits; hybrid anneal-tunnel wins |
 | `Materials.md` | Earth alloy / carbon production: Cu family, Ag, Au, Fe, 1095, C fiber, diamond, Ti, W |
 | `MetalOres.md` | Where ores sit on a map; roast / reduce / retort routes with alchemy heat |

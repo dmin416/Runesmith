@@ -89,7 +89,7 @@ Waste per 100 mana below is `Waste_total` at G = 1. Path heat for dT ≈ half of
 | Blood / hemolymph / monster blood | biological | **90%** | **100 J** |
 | Human body (relay) | biological | **90–92%** | **80–100 J** |
 | Brass | wire | 91.3% | 87 J |
-| Orichalcum (golden titanium) | wire (reduced) | **66.7%** | 333 J |
+| Orichalcum (magical titanium) | wire (reduced) | **66.7%** | 333 J |
 | Tungsten (pure) | wire | 91.9% | 81 J |
 | Gold (24k) | wire | 94.6% | 54 J |
 | Deep silver | wire | 94.9% | 51 J |
@@ -103,7 +103,7 @@ Waste per 100 mana below is `Waste_total` at G = 1. Path heat for dT ≈ half of
 | Graphene (doped sheet) | wire | 96.3% | 37 J |
 | Diamond | window | 97.0% | 30 J |
 | Red mythril (flame + heat recycle) | superconducting + recycle | **97.0%** effective | **30 J** |
-| Adamantium | window | 98.0% | 20 J |
+| Adamantium (supersteel) | window | 98.0% | 20 J |
 | Etherium (transfer) | persistent | 99.0% | 10 J |
 | Soft channel (mana fiber) | soft | 99.0% | 10 J |
 | Black mithril (non-dark bands) | absorber | 5.0% | 950 J |
@@ -132,7 +132,7 @@ ODS-like: mana-rich stock, hard to melt (magical blast furnaces), harder to insc
 Nonmagnetic austenitic hosts → **high η** (~75–76% on this dial). Best common rune channels in steel weapons (convert channel zone; keep hardened bulk).
 
 ### Mythril
-**Magically saturated silver–copper alloy** (near Ag–Cu eutectic frame). Look: **pearlish** light silvery gold. Reusable runic gear. Mana mode: **superconducting** (section 1) from the saturation, not from mundane Ag–Cu alone. **Not titanium.** Unrelated to orichalcum’s golden-titanium shop lock.
+**Magically saturated silver–copper alloy** (near Ag–Cu eutectic frame). Look: **pearlish** light silvery gold. Reusable runic gear. Mana mode: **superconducting** (section 1) from the saturation, not from mundane Ag–Cu alone. **Not titanium.** Unrelated to orichalcum (magical titanium) and adamantium (supersteel).
 
 - Steady flow near lossless up to a high **Jc**.
 - Pulses pay ~**5%** AC-loss dial → **95%** path η.
@@ -169,7 +169,7 @@ Companions: `../Science/Batteries.md` (stone vs cell power), `../Science/Refined
 - **Aether mithril:** etherium phase. Superconducting **96%** dial. Higher Jc / storage.
 
 ### Orichalcum
-**Golden titanium** handling lock (`../Science/CraftMetal.md`). Goldish prestige metal. Mana mode: **reduced wire** at the titanium band (**~66.7%**, same dial as Ti-6Al-4V). This is the fantasy metal that owns titanium's poor mana conductivity and titanium shop chemistry. **Mythril is unrelated.**
+**Magical titanium** (`../Science/CraftMetal.md`). Goldish prestige metal. Mana mode: **reduced wire** at the titanium band (**~66.7%**, same dial as Ti-6Al-4V). Owns titanium’s poor mana conductivity and titanium shop chemistry. **Mythril is unrelated.** **Adamantium is the supersteel**, not this.
 
 - Poor channel. **Never** a rune host or written-pattern metal. Cannot be imbued.
 - Thick plate and armor pass almost no mana (Source anti-magic armor / anvil story). Thin foil still leaks.
@@ -177,7 +177,7 @@ Companions: `../Science/Batteries.md` (stone vs cell power), `../Science/Refined
 - Full orichalcum kit is rare prestige: mage-hostile, and empty of enchantments.
 
 ### Adamantium
-Window-mode top path (~**98%**). Diamond-like thermal spreading + mana-supported hardness.
+**Supersteel.** Magically saturated ultra-steel: extreme hardness and stiffness at weapon weight. Window-mode top path (~**98%**). Diamond-like thermal spreading + mana-supported hardness. Shop: `../Science/CraftMetal.md`.
 
 **Forge story (aligned with novel):** heat **does** enter, but high **k** dumps it into tongs, anvil and air. Smiths must pour **infernal** power and fire-resist skill to keep the whole thermal mass at forging T. That is why records talk of deaths in the heat, not because the piece cannot be heated at all.
 
@@ -393,8 +393,8 @@ Loose imbue soaks deepest at forging heat then must be trapped by cooling under 
 - Copper path η about **95%** (derived). Energy.md η values are not used here.
 - Deep = radiation-damage resistance (~10× life, section 2 only). Heat fade is a separate axis.
 - Austenitic = conductor.
-- Orichalcum = golden titanium shop + titanium-band reduced η. Shield / anvil damp. Never rune host. Present in η table, fantasy metals, temperature table, channel table, imbue rules, converters and stone vault.
-- Adamantium forge = infernal power against fast heat spreading.
+- Orichalcum = magical titanium shop + titanium-band reduced η. Shield / anvil damp. Never rune host.
+- Adamantium = **supersteel** (magical ultra-steel). Window path ~98%. Infernal forge against fast heat spreading.
 - Mythril reusable at combat heat. Quench rare. Forge fire can still wipe.
 - Red mythril **97%** = **95%** path + **40%** waste-heat recycle as fire mana.
 - Converter phase change is free. Path η still applies. Density gate required. Stone/ambient optional threshold helpers. Affinity still gates T2 elemental class spells.

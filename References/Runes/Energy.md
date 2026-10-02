@@ -33,7 +33,7 @@ Electricity is the physical model for how mana moves. Mana is not electricity. I
 
 ## 2. Mana Conductivity (canon)
 
-Metals from worst to best: **iron, copper, steel, dark steel, mana steel, mythril, adamantium.** Worse paths waste more of the cost and strain faster. Better paths carry heavy flow with little waste. Mythril: magically saturated Ag–Cu, pearlish silvery gold (`../Science/CraftMetal.md`). Orichalcum is the golden-titanium reduced-η metal.
+Metals from worst to best: **iron, copper, steel, dark steel, mana steel, mythril, adamantium.** Worse paths waste more of the cost and strain faster. Better paths carry heavy flow with little waste. Mythril: magically saturated Ag–Cu, pearlish silvery gold. Orichalcum: magical titanium (reduced η). Adamantium: **supersteel**. Shop: `../Science/CraftMetal.md`.
 
 The human body conducts at about 90 percent efficiency, between dark steel and mana steel (section 10). Monster blood is proposed at the same value and its placement stays open (section 12).
 
@@ -51,6 +51,8 @@ Cost comes first and is fixed. A 100 mana spell costs 100 mana and a 50 mana spe
 **Output = cost × 10 J × path efficiency × ambient gain**
 
 Reference: 100 mana paid is 1000 J at the converter input. Copper (80 percent) in a closed system delivers **800 J** useful and **200 J** waste. Cast-law Useful joules (`../Science/ManaCast.md`) use the same 10 J unit with spell η(L) and μ(INT) instead of path η.
+
+Direct skill casts take no ambient gain. Gain applies only to rune and item converters (`../Science/ManaCast.md` no-stacking rule).
 
 Figures here assume a clean linear rune (Lesser Highest). Rune rank and grade replace path efficiency and ambient gain with η_eff and H_eff. Formula: rune file, Harmonics and Resonance (when locked).
 
@@ -143,9 +145,9 @@ Adult man (S = 1, Rob = 1, a = 0.25, P = 2000):
 
 ## 6. Scale Ladder
 
-Output at the reference path in a closed system. Multiply by gain for other environments.
+Converter input (cost × 10 J) before path efficiency and gain. Output = input × path η × gain (copper closed: × 0.8).
 
-| Cost | Output | Comparable |
+| Cost | Input | Comparable |
 |---|---|---|
 | 3 | 30 J | Ignites a small patch of paper |
 | 10 | 100 J | Hunting bow shot (arrow motion 60 to 120 J) |
@@ -196,20 +198,20 @@ Other wear: thermal cycling fatigues joints and bends. Oxidation adds surface fi
 
 ## 9. Worked Cases
 
-### A. Fire arrow (100 mana, copper, closed system: 1000 J)
+### A. Fire arrow (100 mana, copper, closed system: 800 J)
 
 Open air (gain 3) triples every energy figure and multiplies speed by about 1.7. Speed v = √(2E / m) at 20 g. A bow arrow flies at 60 to 90 m/s.
 
 | Split | Motion | Heat | Speed |
 |---|---|---|---|
-| Slow and hot | 50 J | 950 J | about 70 m/s |
-| Balanced | 100 J | 900 J | about 100 m/s |
-| Fast | 250 J | 750 J | about 160 m/s |
-| Very fast and cool | 500 J | 500 J | about 225 m/s |
+| Slow and hot | 50 J | 750 J | about 70 m/s |
+| Balanced | 100 J | 700 J | about 100 m/s |
+| Fast | 250 J | 550 J | about 160 m/s |
+| Very fast and cool | 500 J | 300 J | about 225 m/s |
 
 Balanced split at the target:
-- Dry wood needs about 240 J per cm³ to reach ignition so 900 J covers 3 to 4 cm³.
-- Flesh at 3.5 J/g/K: 10 g rises about 26 K (past the 60 C damage threshold). 3 g rises about 86 K and chars.
+- Dry wood needs about 240 J per cm³ to reach ignition so 700 J covers about 3 cm³.
+- Flesh at 3.5 J/g/K: 5 g rises about 40 K (past the 60 C damage threshold). 2 g rises about 100 K and chars.
 - Heat alone rarely kills. The motion pierces and the flame ignites cloth, hide, wood, thatch and hair.
 - A 2 kg steel breastplate rises under 1 K. Plate ignores the fire. Only the motion matters against it.
 - Energy scales linearly with cost and gain. Heat delivered falls with distance so range is a heat budget.
@@ -228,12 +230,12 @@ Feed line runs down the blade and the emitter sits at the tip where potential co
 | Mythril | 95 percent | 4275 J | 1425 J | 0.08 K | about 15,000 |
 | Adamantium | 98 percent | 4410 J | 1470 J | 0.03 K | about 75,000 |
 
-- Strain limits a blade long before heat does. Iron reaches ~190 K of heat after many casts with no cooling and its strain limit is about **120**.
+- Strain limits a blade long before heat does. Iron fails by strain at about **120** casts; uncooled retained heat at that point totals only about 73 K.
 - A rounded or damaged tip concentrates less and weakens the burst. A film of blood or other mana material on the blade lowers surface resistance. Grip material sets how much flow passes from the wielder into the blade.
 
 ### C. Scroll that bursts into flame
 
-Paper carries no meaningful mana flow so flow follows the ink line. A thin trace concentrates power in a tiny mass and paper conducts heat poorly. About 30 J into 0.1 g of paper reaches ignition (about 230 C). A 3 mana scroll delivers about 30 J at the reference rate and about 90 J in open air.
+Paper carries no meaningful mana flow so flow follows the ink line. A thin trace concentrates power in a tiny mass and paper conducts heat poorly. About 30 J into 0.1 g of paper reaches ignition (about 230 C). A 3 mana scroll with blood ink (90 percent, placement open) delivers about 27 J closed and about 81 J in open air.
 
 The scroll is a fuse that is also the load. It burns when flow exceeds what the trace carries and it is single-use by nature. Stronger or fresher monster blood or mana steel, mythril or adamantium powder in the ink delays ignition. Wider traces spread heat. Mineral-treated paper resists ignition longer.
 
@@ -321,7 +323,7 @@ The body conducts like a fine metal (90 percent efficiency, **100 J** of waste p
 ## 12. Open Dials
 
 - Return path: closed loop through the wielder or one-way dissipation at the load.
-- Storage: whether magic stones act as capacitors (fast dump) or batteries (slow release) or both by grade.
+- Storage: resolved in ../Science/ManaStones.md (fast area-gated dump at Q × SA mana/s; slower refill).
 - Potential scale: higher potential lowers waste but needs better insulation. Set how high craftsmen can push it.
 - Ambient mana: gain per environment, recovery rate after a cast, intake size limit per rune grade.
 - Waste split: share retained as heat (proposed 50 percent).

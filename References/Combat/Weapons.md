@@ -32,11 +32,13 @@ Design notes for blades and loadouts. Hardness / pierce gates for tips stay in `
 - Thick at the base for parrying, tapering to a narrow, rigid point
 - Blade length about 95 to 100 cm, slightly longer than a standard side sword and close to rapier reach
 
-### What supersteel adds
+### What supersteel (adamantium) adds
 
 - Same strength at less weight, allowing a longer blade without losing speed
 - Holds an edge longer and resists bending or snapping on hard parries
 - Does not fix bad geometry; the cross-section still decides whether it cuts
+
+**Supersteel** in design notes means **adamantium**, not mythril.
 
 The corrected pair (front hook, diamond blade, pommel disc retained) covers reach, thrusting, cutting, off-hand defense, blade binding and armored grappling.
 
