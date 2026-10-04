@@ -20,11 +20,11 @@ Personal trial realm shaped from the user’s memories. Roland’s is his old Ea
 
 ## Terra
 
-World with **two moons** (one red, one blue). First noted: Chapter 4 night sky.
+World with **two moons** (one red, one blue) that hang near each other. First noted: Chapter 4 night sky. Planet is **Earth-sized**. Day is **24 hours**.
 
 ### Kingdom of Caldris
 First seen: Chapter 2
-Human-majority kingdom. Roland wakes here as a son of House Arden. Fairly large by Earth comparison. Bordered by four other countries on the continental map he finds. Chapter 24: **24-hour** day cycle; calendar has **13 months** of **28 days** each (**364** days / year; not Earth 12×~30).
+Human-majority kingdom. Roland wakes here as a son of House Arden. Fairly large by Earth comparison. Bordered by four other countries on the continental map he finds. **Calendar (locked):** **12 months × 30 days** + **1 New Year's Day** = **361** days / year (shorter than Earth).
 
 ### Arden estate / mansion
 First seen: Chapter 2

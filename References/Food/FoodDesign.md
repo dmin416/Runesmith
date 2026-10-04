@@ -4,7 +4,7 @@
 
 Map flavor to Caldris; do not paste Earth month names or trade cities into prose as if they are local.
 
-**Caldris calendar:** **13 months × 28 days** (`../World/Society/Economy.md`). Earth month labels below (e.g. November / Martinmas) are anchors only.
+**Caldris calendar:** **12 × 30 + New Year's Day** = **361** days (`../World/World.md`). Earth month labels below (e.g. November / Martinmas) are anchors only.
 
 **Caldris seasoning lock:** common tables = **salt** (+ local herbs/onion). **Pepper** is middle-class / merchant luxury. **Ginger** sits with other imported spice luxuries on noble / merchant tables. **Sugar** is rare spice / medicine / feast; honey does ordinary sweetening. Adventurer kit and mage packs can carry pepper or ginger without breaking this lock.
 
@@ -41,7 +41,7 @@ Map flavor to Caldris; do not paste Earth month names or trade cities into prose
 ## Rhythm of eating
 
 - Most households ate two main meals: **dinner** at midday (the largest meal) and a lighter **supper** in the evening. Breakfast was minimal for adults, more common for children and laborers doing early physical work.
-- Late winter and early spring were the leanest stretch, the **hungry gap** before new crops came in, when households lived on whatever had been preserved (salted meat, dried peas, stored grain, hard cheese). Map to the cold / lean stretch of the **13×28** year, not an Earth month name.
+- Late winter and early spring were the leanest stretch, the **hungry gap** before new crops came in, when households lived on whatever had been preserved (salted meat, dried peas, stored grain, hard cheese). Map to the cold / lean stretch of the **361-day** year, not an Earth month name.
 - **Martinmas** *(Earth, ~November)* was traditionally when surplus livestock was slaughtered before winter feed ran out, with the meat salted or smoked to last through the cold months. **Caldris equivalent:** a late-autumn / pre-winter slaughter festival or farm custom before the lean months; do not use the Earth saint name unless a church parallel is established.
 
 ## Cooking without a pot

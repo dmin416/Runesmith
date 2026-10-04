@@ -6,7 +6,7 @@
 
 Use these rewrite anchors first. Prefer them over older Source-era numbers when a scene needs a hard price.
 
-**Calendar (locked):** **1 month = 28 days**; **1 year = 13 months = 364 days** (**52** weeks). Lodging monthly quotes are **28** nights.
+**Calendar (locked):** **1 month = 30 days**; **1 year = 12 months + 1 New Year's Day = 361 days**. Lodging monthly quotes are **30** nights.
 
 | Item | Locked rewrite price |
 |---|---|
@@ -20,7 +20,7 @@ Use these rewrite anchors first. Prefer them over older Source-era numbers when 
 | Lodging / night | **1 SS** |
 | Singing Crow / night (Edelgard) | **14 LC** (a bit above Carwen; not 2x) |
 | Solaria station tip (Edelgard, Ch 19) | **1 SS** |
-| Monthly lodging (10% off, **28** nights) | **252 LC** |
+| Monthly lodging (10% off, **30** nights) | **270 LC** |
 | Better inn / night | **2 SS** |
 | Tavern: 3 half-gallon pitchers (weak spirits, ~40 proof) | **~45 LC** |
 | Tavern share (Roland, 1/3 of round) | **15 LC** |
@@ -186,9 +186,9 @@ Drop rate from Ch 11: **~2 stones / 4 Spiked Boars** (**~50%**). Design stone pa
 | Mats only | **~10.1–20.3 SG** |
 | **Full haul** | **~16.6–33.3 SG** |
 
-Mats are **not** a top-up. On Floor 1 they usually match or beat stone pay. Commoner household income is **~4 LS/month (~5.2 SG/year** at **13** months). Full Steel Floor-1 share sits well above that.
+Mats are **not** a top-up. On Floor 1 they usually match or beat stone pay. Commoner household income is **~4 LS/month (~4.8 SG/year** at **12** months). Full Steel Floor-1 share sits well above that.
 
-**Living peg (13×28 calendar):** inn room (**252 LC**/month × **13** = **3,276 LC**) + breakfast and dinner (**10 LC**/day × **364** = **3,640 LC**) ≈ **6.9 SG**/year. Trail rations instead of inn food land closer to **~10–12 SG**/year all-in. Stone-only **6.5–13** barely covers soft inn living at the high end and fails at the low end. **Full haul** covers living with room left for repairs, kit, and saves.
+**Living peg (12×30 + New Year's Day):** inn room (**270 LC**/month × **12** = **3,240 LC**) + breakfast and dinner (**10 LC**/day × **361** = **3,610 LC**) ≈ **6.9 SG**/year. Trail rations instead of inn food land closer to **~10–12 SG**/year all-in. Stone-only **6.5–13** barely covers soft inn living at the high end and fails at the low end. **Full haul** covers living with room left for repairs, kit, and saves.
 
 **Design check (locked):** Steel floor-1 money is **reasonable** on the **full** stones+mats band (**~17–33 SG**/person/year gross). Soft living, repairs, and gear eat most of a cautious year; a used **5 SG** bag is a real save, not pocket change. Going full force every day (more stones, deeper floors, luck and risk) is how you **deserve** faster wealth. Soft living stays nearer commoner; hard dangerous living climbs.
 

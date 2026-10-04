@@ -4,7 +4,7 @@
 
 ## Narrative
 
-Monsters drop mana stones / cores that sell and power craft. This is a major world economy and tech thread. Small cores are common enough that stacking many of them is tempting, but most runes cannot handle multiple intakes, so a pile of goblin cores is not a free power plant.
+Monsters drop mana stones / cores that sell and power craft. Beast materials and common metals / build stock: `Materials.md`. Cores are also the feedstock line for magic-stone derivatives (aetherium and related). Small cores are common enough that stacking many of them is tempting, but most runes cannot handle multiple intakes, so a pile of goblin cores is not a free power plant.
 
 ## Detail
 

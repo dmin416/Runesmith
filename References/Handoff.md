@@ -24,6 +24,8 @@ Lock live canon under `References/`. Rewrite prose: `Story/Chapters/`. Treat `Re
 - Cores: ~1 mana/mm³; street pegs in ManaStones.md. Never eaten: goblins/goblin-kin + undead.
 - Diagnosis (not Debugger). Helci 18 workshop; T1 Scout / T2 Hunter / T3 Ranger / T2 Assassin.
 - Guild ranks: 8. Wayland = person; Albrook = place. Steel shrink ~2%.
+- Terra Earth-sized; 24h day; two moons (red/blue) hang near each other; year **361** days (12×30 + New Year's Day).
+- Materials hub: `World/Materials/Materials.md` (Earth elements; common Cu/Fe/Ag/Au/Sn/bronze + stone/mortar/brick/clay + beast mats; magic Fe/steel, mythril, orichalcum, stone derivatives; else specialty).
 
 ## Source loot
 

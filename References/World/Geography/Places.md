@@ -8,7 +8,7 @@ Early story starts at the Arden estate in Caldris, then moves through towns and 
 
 ## Detail
 
-**Kingdom:** Caldris. Human-majority. Temperate lowlands. 24-hour day. Calendar **13 × 28** (**364** days / year). Two moons (red and blue).
+**Kingdom:** Caldris. Human-majority. Temperate lowlands. Earth-sized world. 24-hour day. Calendar **12 × 30 + New Year's Day** (**361** days / year). Two moons (red and blue) that hang near each other.
 
 **Neighbors (kept):** Alexandria (sun-elf holy kingdom). Bolia (moon-elf lands). Hatfordian Empire (border power; ceasefire fortresses on the Caldris side).
 

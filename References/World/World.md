@@ -9,7 +9,7 @@ Hub for Terra. Locked world facts live here in short form. Deep files hold the r
 | `Geography/` | Places, dungeons, island ecology |
 | `Society/` | Races, population math, economy |
 | `Fauna/` | Creatures, mounts |
-| `Materials/` | Metals / rune hosts, monster cores |
+| `Materials/` | What is common vs specialty; metals; monster cores |
 | `Tech/` | Era / tech baseline |
 
 ## Related files
@@ -24,8 +24,9 @@ Hub for Terra. Locked world facts live here in short form. Deep files hold the r
 | `Society/Economy.md` | Coins, prices, potion grades; fat: `EconomyDesign.md` |
 | `Fauna/Creatures.md` | Creatures (early ladder locked; deep fill later); fat: `CreaturesDesign.md` |
 | `Fauna/Mounts.md` | Mounts (foundation locked; deep fill later); fat: `MountsDesign.md` |
-| `Materials/Metals.md` | Metals and rune hosts (foundations locked; deep fill later) |
-| `Materials/MonsterCores.md` | Mana stones / cores (foundations locked; deep fill later) |
+| `Materials/Materials.md` | Common vs specialty stock (metals, build, beast mats, magic lines) |
+| `Materials/Metals.md` | Metal saturation ladders and rune hosts |
+| `Materials/MonsterCores.md` | Mana stones / cores |
 | `Tech/Technology.md` | Era / tech baseline; fat: `TechnologyDesign.md` |
 | `Science/Vehicle/Suspension.md` | Vehicle suspension |
 | `Science/Vehicle/Roads.md` | Road build ladder |
@@ -46,9 +47,10 @@ Terra is an Earth-like world with magic, monsters, and a status system everyone 
 
 ### Cosmology and time
 
-- **World:** Terra
-- **Moons:** Two. Red and blue.
-- **Calendar:** 13 months × 28 days. 364-day year. 24-hour day.
+- **World:** Terra. Earth-sized planet.
+- **Day:** Same as Earth. 24-hour day.
+- **Moons:** Two (red and blue). They hang near each other in the sky.
+- **Calendar:** 12 months × 30 days + **1 New Year's Day** = **361** days / year (shorter than Earth).
 - **Climate:** Weather and seasons. Caldris temperate. Mountains colder.
 
 ### Geography and politics
@@ -102,8 +104,9 @@ Short keep:
 
 - Magic law: `../Runes/Magic.md`
 - Mana / energy: `../Runes/Energy.md`. Mana is like air; density rises with altitude
-- Metals / hosts: `Materials/Metals.md` (foundations locked; deep fill later)
-- Monster cores / mana stones: `Materials/MonsterCores.md` (foundations locked; deep fill later)
+- Materials hub: `Materials/Materials.md` (Earth elements; common metals / build / beast mats; magic metal lines; else specialty)
+- Metal ladders / rune hosts: `Materials/Metals.md`
+- Monster cores / mana stones: `Materials/MonsterCores.md`
 - Magic stones already feed fuel, craft, and rail power alongside steam
 - Civilian mana-stone lamps are not common; D can make and sell them
 - Storage bags: space magic; no nesting; dead in, living usually out. See `../Runes/Magic.md`

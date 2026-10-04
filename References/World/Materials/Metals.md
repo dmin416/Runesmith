@@ -1,18 +1,14 @@
 # Metals
 
-> Shop metallurgy: `../Science/Metallurgy/CraftMetal.md`. Property formulas / animal mats: `../Science/Biomaterials/Biomaterials.md`. Path efficiency from mana conductivity: `../../Runes/Energy.md`.
+> What is common vs specialty: `Materials.md`. Shop metallurgy: `../Science/Metallurgy/CraftMetal.md`. Beast mats: `../Science/Biomaterials/Biomaterials.md`. Path efficiency: `../../Runes/Energy.md`.
 
 ## Narrative
 
-Terra is basically Earth for materials. Same mundane stock. Development is extremely lopsided because of magic and monsters. Magical grades depend on mana saturation, and the ladder differs by metal. Iron and steel have the most steps. Silver has fewer. Titanium is only known in full saturation as orichalcum. More metals exist; these are the ones locked first.
+Metal saturation ladders and rune-host law. Common-use list (including bronze, stone, brick, clay, beast mats) lives in `Materials.md`.
 
 ## Detail
 
-**Baseline:** Earth-like material world. Same ordinary metals and ores exist. Copper, gold, bronze, and the rest stay Earth-like until their saturation ladders are locked. Brass craft: `../Science/Metallurgy/Brass.md`.
-
-**Skew:** Magic and monsters push tech and craft onto a lopsided track. Not a different periodic table.
-
-**Rule:** Saturation ladders differ by material. Some stay grades. Some full-saturate into a new named material.
+**Rule:** Saturation ladders differ by material. Some stay grades. Some full-saturate into a new named material. Brass craft: `../Science/Metallurgy/Brass.md`.
 
 **Naming:** Prefer one public name per role. Do not keep a parade of near-synonyms for steel grades (dark steel, deep steel, black steel as separate metals). Extra labels are shop grades or dead aliases. Mana iron / mana steel and refined mana iron / refined mana steel are the live saturation names.
 
@@ -203,6 +199,6 @@ Needs a hotter forge than plain iron. Higher refine may carry cold aura or night
 
 ## Open
 
-- Other metals’ saturation ladders
+- Saturation ladders for non-common metals (only if a beat needs them; default = specialty / ignored)
 - Ebonite ore geography and exact side-effect locks
 - Star metal drop / hunt economy

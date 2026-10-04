@@ -28,7 +28,9 @@ T_pour_brass ≈ 950–1050 °C
 
 **Order:** melt copper first. Add zinc last, just before pour. Cover with charcoal or borax. Skim dross. Charge a few percent extra zinc for burn-off.
 
-**Historical cementation (no metallic Zn):** copper + calamine + charcoal in a sealed crucible ~900–1000 °C. Zinc vapor diffuses in. Caps around **28–30% Zn**.
+**Calamine (availability COMMON; process here):** old name for Zn ore. British usage ≈ smithsonite (ZnCO₃); American ≈ hemimorphite (hydrous Zn silicate). Name via Medieval Latin *calamina* ← Latin *cadmia* / Greek *kadmeia*.
+
+**Cementation (no metallic Zn):** crushed calamine + charcoal + copper in sealed crucibles, heated. Zn vapor from the ore diffuses into Cu → brass ~**20–30% Zn**. Caps around **28–30% Zn**. Metallic Zn smelt is later / SPECIALTY street stock; do not assume pure Zn ingots for baseline brass.
 
 **Cast routes:** sand (valves, hardware), lost wax (detail), die (volume small parts), centrifugal (bushings, tubes).
 
