@@ -1,5 +1,7 @@
 # Ideas
 
+> **Direction loot.** Locked law lives in live hubs (Progression.md, OpenFixes.md, People, World, Runes). Notes below are rewrite direction history, not a second canon.
+
 Rewrite directions for this project. Source is loot, not a script. Reader stop point for taste: about Chapter 69.
 
 ## Goals
@@ -42,7 +44,7 @@ Rewrite directions for this project. Source is loot, not a script. Reader stop p
 
 ### Future products: printing and civilian tech
 
-Earth research seed for a later shop arc (not locked). Steam and rail already exist in Caldris; printing press and many cheap civilian goods are missing or rare in `World/Technology.md`. Roland's modern mind can skip centuries of trial and error. Machine-tool dependency and bare-forge timelines: `../Science/MedievalIndustrialization.md`.
+Earth research seed for a later shop arc (not locked). Steam and rail already exist in Caldris; printing press and many cheap civilian goods are missing or rare in `World/Technology.md`. Roland's modern mind can skip centuries of trial and error. Machine-tool dependency and bare-forge timelines: `../Science/MedievalIndustrialization.md`. Century-by-century craft catalog: `../Science/CraftsmanByCentury.md`.
 
 #### Civilian product shortlist
 

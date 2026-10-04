@@ -2,7 +2,7 @@
 
 Redirecting the strike is the most effective option. Stopping it, hardening the shield and bashing back each solve a different part of the problem and cost far more energy against a strong attacker.
 
-Pairs with the light kit in `LightArmorLoadout.md` (buckler bracer as active deflection). Strike energy bands: `AttackScale.md`. Cast / path Useful: `../Science/ManaCast.md`, `../Runes/Energy.md`.
+Pairs with the light kit in `LightArmorLoadout.md` (buckler bracer as active deflection). Strike energy bands: `AttackScale.md`. Cast / path Useful: `../World/Science/Energy/ManaCast.md`, `../Runes/Energy.md`.
 
 **Example strike:** **20 kg** effective mass at **10 m/s**, so **200 kg·m/s** of momentum and **1 kJ** of energy (`½mv²`).
 

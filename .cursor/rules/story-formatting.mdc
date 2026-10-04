@@ -1,0 +1,32 @@
+---
+description: Story prose marks, punctuation, POV, and beat coverage
+alwaysApply: true
+---
+
+# Story Formatting
+
+## Marks
+
+- Speech: `"*Like this.*"`
+- Thoughts: `*Like this.*`
+- Sound effects: `**SPLAT!**`
+
+## Punctuation
+
+- Never use em dashes (`—`). Use commas, periods, colons, or ASCII hyphens (`-`).
+- Do not put a comma before coordinating `and` or `but`.
+
+## Prose
+
+- Clear, subject-first. Plain verbs. No flowery or ornamental mood writing.
+- No sensory-first / stylish inverted openings. Do not swap plain words for prettier ones.
+- Solid beat coverage: not sparse, not padded. No flavor comparisons or justifying color.
+- No extraneous "why this matters" unless the plot needs it.
+- Prefer short to medium sentences. Never end a beat with a bare two-word sentence (`He paid.` / `He woke.` banned).
+- When rewriting a beat, keep equal or better coverage. Do not thin the paragraph.
+
+## POV
+
+- Third person.
+- In D's POV, stay with what he knows, notices, wants, and decides.
+- Do not enter other characters' private thoughts in his scenes. Report only what he can observe or reasonably infer.

@@ -1,0 +1,37 @@
+---
+description: Story file safety, Roland core, Helci lock, mistakes, naming
+alwaysApply: true
+---
+
+# Project Canon
+
+## Story files
+
+- Filled prose belongs in `Story/Chapters/` only.
+- `Story/Undone/` is empty chapter-heading skeletons only. Never leave story text there. Do not create new skeletons.
+- Filing chapter text into Notes or References is a **copy**, never a move. Leave the chapter text in place.
+- Do not blank, reverse, or overwrite a whole `Story/Chapters/` file. Targeted replacements only.
+
+## Roland (rewrite)
+
+- Not the Source foul-mouthed, money-grubbing, ungrateful brat. Do not write him that way.
+- Adventure and the little things matter. Money, levels, and independence are tools, not every beat's punchline.
+- Curious, logical, kind for the most part. Capable and grounded. Not whiny, not constant contempt, not crude for shock.
+- Motive rewrites keep full beat coverage. Strip greed-first framing; put adventure / little things in its place. Do not shrink the paragraph thin.
+- Habit detail lives in `References/People/Roland/` when needed.
+
+## Roland and Helci first passion
+
+- Both must be **18**. Do not write, imply, or stage this beat while either is under 18.
+- They lose virginity together; neither has prior sexual experience.
+- Mutual and willing on-page when the story reaches that beat. Keep Helci as the romance core; do not substitute another character.
+
+## Mistakes
+
+- Never say "fixed" (or "Fixed.") in any reply.
+- When a mistake has been corrected, apologize for being a retard only. No status summary, no "done", no restating what changed unless the user asks.
+
+## Naming
+
+- New folders and files use PascalCase. No lowercase, snake_case, or kebab-case unless matching a numbered Source range (`1-10.md`).
+- Keep extensions lowercase (`.md`). Match existing project casing.

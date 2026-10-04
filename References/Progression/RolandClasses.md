@@ -1,5 +1,8 @@
 # RolandClasses
 
+> **Design loot.** Live locks: Progression.md (XP / tiers / reclass), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. Non-canon XP leftovers in Levels.md (RaceMult / class-change half-cut). Diagnosis is the live skill name (Old Debugger).
+
+
 Roland’s class path. Planned vs attained. Follow `CrossCheck.md` when status screens change.
 
 ## Attained path (rewrite)

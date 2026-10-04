@@ -1,6 +1,8 @@
 # Weapons
 
-Design notes for blades and loadouts. Hardness / pierce gates for tips stay in `../Science/ManaCast.md`. Story gear lists stay in `Story/Notes/Items.md`. Consumable types: `../Items/Items.md`. Light kit when plate no longer stops the main foe: `LightArmorLoadout.md`.
+> **Design loot.** Hardness / pierce gates: `../World/Science/Energy/ManaCast.md`. Attack map: `AttackScale.md`. Light kit: `LightArmorLoadout.md`. Rune shield: `ShieldRuneDefense.md`.
+
+Design notes for blades and loadouts. Story gear lists stay in `../../Story/Notes/Items.md`. Consumable types: `../Items/Items.md`.
 
 ## Rondel with a hook
 
@@ -68,7 +70,7 @@ Heavy thrust rapier with an **inefficient lesser tip-detonation** rune.
 - **Activation cost (as found):** **125 MP**
 - **Hold-test (Ch 15):** tip effect **locks armed** until inserted (forced free activate weaker); hold trickles mana and warms the blade; pulling mana back deactivates
 - **Shortfall:** if MP is insufficient the rune finishes from **SP** at **1 SP per missing MP** (same blast; stamina bite)
-- **Useful energy** (cast law, η = 1 until Rune Mastery): `125 × 10 × μ(INT)`. At Roland Ch 13 rewrite INT **137** (μ ≈ **5.87**) → **~7.3 kJ** tip-coupled blast (local wood / soft spoil, not a tree-feller)
+- **On-page blast feel (Ch 15):** about **~7.3 kJ** tip-coupled (local wood / soft spoil, not a tree-feller). Rune Useful follows `../Runes/Energy.md` (**η_cond × G**, not μ(INT)). Old μ(INT) pricing discarded.
 - **Rune Mastery** later cuts the MP share (~**1%** at Basic L1); SP overflow still covers any remainder the same way
 - Why warriors rarely spam it: shallow MP pool + SP drain when the pool bottoms out
 

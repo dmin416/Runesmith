@@ -1,6 +1,8 @@
 # Levels
 
-How class levels, skill levels and tier multipliers work. Physical training timelines stay in `Progression.md`.
+> **Quarantined XP leftovers / Design loot.** Live XP: `Progression.md`. RaceMult and class-change half-cut are dead. Retune chapter logs only. Diagnosis is the live skill name (Old Debugger).
+
+How class levels, skill levels and tier multipliers work. Physical training timelines: `Training.md`.
 
 ## Two tracks
 
@@ -8,7 +10,7 @@ How class levels, skill levels and tier multipliers work. Physical training time
 |---|---|---|---|
 | **Overall level** | Level 28 | XP (shared pool) | Pure level total. XP cost to advance uses the linear curve below. Not class-based. |
 | **Class level** | Mage L5, Scribe L3 | Same XP pool, applied to the **main** class | Grows attributes via class package. Hits a class cap before the next class. |
-| **Skill level** | Debugger L8, Basic Climbing L3 | Practice / use | Improves that action and often adds flat attribute bonuses. |
+| **Skill level** | Diagnosis L8, Basic Climbing L3 | Practice / use | Improves that action and often adds flat attribute bonuses. |
 
 **Overall level ≈ sum of class levels** on the sheet (Mage L25 + Scribe L3 → Level 28). XP fills one bar. When it rolls over, overall level and main class level both go up by 1 (until that class is capped).
 
@@ -346,7 +348,7 @@ Apply the curve → end ranks in `Story/Notes/Skills.md` Chapter 9.5. No skill p
 Attribute bonus from a skill = +1 × current skill level
 ```
 
-per favored attribute listed on that skill. When the skill gains a level, that attribute goes up by 1. Bonus equals the level on the skill card (Debugger L8 → Intelligence +8).
+per favored attribute listed on that skill. When the skill gains a level, that attribute goes up by 1. Bonus equals the level on the skill card (Diagnosis L8 → Intelligence +8).
 
 Not every skill grants attributes. Identify, Analyze, Map Reading and Basic Mathematics show no attribute line at transfer. Mana Sense gains Intelligence and Willpower (Chapter 4; L4 → **+4 Int, +4 Will**). **Sleep Resistance** grants **Vitality +1** and **Endurance +1** per level. **Basic Alcohol Resistance** grants **Endurance +1** per level. **Dance** grants **Agility +1**. **Pain Resistance** grants **Willpower +1** and **Endurance +1**. **Basic Taming** grants **Charisma +1**. **Multitasking** grants **Intelligence +1** and **Dexterity +1**. **Poison Resistance** grants **Vitality +1** and **Endurance +1** per level. **Recovery** grants **Vitality +1** and **Endurance +1** per level. **Basic Acrobatics** grants **Agility +1**.
 
@@ -354,7 +356,7 @@ Not every skill grants attributes. Identify, Analyze, Map Reading and Basic Math
 
 | Skill | Level | Bonus |
 |---|---|---|
-| Debugger | 8 | Int +8 |
+| Diagnosis | 8 | Int +8 |
 | Technology | 7 | Dex +7, Int +7 |
 | Tinkerer | 8 | Dex +8 |
 | Cooking | 3 | Dex +3, Agi +3 |

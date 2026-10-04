@@ -1,6 +1,6 @@
 # Kill Efficiency
 
-Hub: `PotentialMagic.md`. Mass boost: `MassBoost.md`. Ember: `../Science/ManaCast.md`.
+Hub: `PotentialMagic.md`. Mass boost: `MassBoost.md`. Ember: `../World/Science/Energy/ManaCast.md`.
 
 Piercing wins by roughly **~40× to ~1,250×** on energy versus blast for single kills (table pairs below: 185 J vs 7–100 kJ ≈ **38×–540×**; line-shot 80 J vs same ≈ **88×–1,250×**). Kill energy tracks depth to a vital and armor on the way. Body mass barely matters.
 
@@ -17,7 +17,7 @@ Mana at ημ 1 = Effect J / 10. Scale with η(L) and μ(INT).
 
 The grenade never wins on energy. Even 150 goblins packed inside 5 m still cost ~7 kJ each (~700 mana at ημ 1) if that is the share per body.
 
-Pressure, compressed air and hydrogen all lose as **pure magic-made fuel**. Splitting water takes ~142 MJ/kg H₂; burning returns ~120 MJ. Filtering from air is worse. Compressed air stores only ~0.1 MJ/L at 200 bar (`PoolAndStorage.md`, `../Science/Compression.md` air cartridge).
+Pressure, compressed air and hydrogen all lose as **pure magic-made fuel**. Splitting water takes ~142 MJ/kg H₂; burning returns ~120 MJ. Filtering from air is worse. Compressed air stores only ~0.1 MJ/L at 200 bar (`PoolAndStorage.md`, `../World/Science/Energy/Compression.md` air cartridge).
 
 Best chemistry use: magic as the **trigger**. Carry **alchemical fuel** or another combustible reagent (not gunpowder) and spend ~**1 mana** at ημ 1 (~10 J) on Ember to ignite MJ of stored energy. Walls and huge packed crowds.
 

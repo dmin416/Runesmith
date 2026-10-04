@@ -1,0 +1,93 @@
+# Source Places
+
+Inventory from `../Source/`. Index only.
+
+- Albrook - town / later city (also Town of Albrook, City of Albrook, Albrook City, Runic City, City of Runes) / first 51-60.
+- Albrook Dungeon - dungeon (also Albrook City Dungeon) / first 71-80.
+- Albrook Guild - guild hall / first 411-420.
+- Alchemical Academy - academy / first 361-370.
+- Alchemy Guild - guild (also Alchemical Guild, Alchemist Guild) / first 121-130.
+- Aldbourne - city / first 451-460.
+- Alexandria - holy kingdom (also Holy Kingdom of Alexandria, Kingdom of Alexandria) / first 61-70.
+- Antolun - city / first 481-490.
+- Arcane Hall - institute building / first 411-420.
+- Archmagus Tower - institute tower / first 621-630.
+- Arden Estate - estate / first 1-10.
+- Ardford - city / first 401-410.
+- Ballac - city / first 481-490.
+- Black Dragon Inn - inn / first 651-660.
+- Black Rose Inn - inn / first 201-210.
+- Blue Temple - elemental water temple (also Water Temple) / first 521-530.
+- Bolia - kingdom (also Kingdom of Bolia) / first 61-70.
+- Boney Ruin - dungeon locale / first 661-670.
+- Builders' Guild - guild / first 461-470.
+- Burmecian Empire - empire (also Eastern Burmecian Empire) / first 411-420.
+- Caldris - kingdom (also Kingdom of Caldris, Caldris Kingdom, Calrdis typo) / first 1-10.
+- Carwen - city / town (also City of Carwen) / first 1-10.
+- Carwen Dungeon - dungeon / first 11-20.
+- Central Mage Tower - institute tower / first 431-440.
+- Church of Solaria - church (also Solarian, Solarion, Solaria Church, Sun Church, Church of the Sun) / first 21-30.
+- Church of the Moon Gods - church / first 661-670.
+- Clawridge - port city / first 411-420.
+- Darkness Temple - elemental temple / first 531-540.
+- De Vere Estate - estate / first 471-480.
+- Drachnid Valley - Infernal Wyrm Maze third ring (also Valley of Drachinids) / first 581-590.
+- Draconic Ruins - dungeon landmark (also Unexplored Draconic Ruins) / first 651-660.
+- Dragnis Island - island (also Dragis typo) / first 51-60.
+- Dragnis Island Port - port / first 61-70.
+- Dragon Valley Settlement - settlement in dungeon (also Dragon Valley) / first 581-590.
+- Drake Plains - dungeon region (also Great Plains) / first 661-670.
+- Dwarven Union - craft union / halls (also Union of Dwarves) / first 101-110.
+- Earth Temple - elemental temple / first 531-540.
+- Edelgard - craft city / first 11-20.
+- Emberpeak - volcano near Isgard / first 401-410.
+- Emerald Wilderness - Carwen Dungeon first level / first 11-20.
+- Exeor's Magic Emporium - shop (also Exeter's typo, Exeor's Emporium) / first 21-30.
+- Farbell - magical town near institute / first 411-420.
+- Flord - dungeon exploration city / first 201-210.
+- Foxian Palace - named entertainment house / first 371-380.
+- Green Temple - elemental wind temple (also Wind Temple) / first 531-540.
+- Gretel Adventurer Guild - guild hall / first 411-420.
+- Hatfordian Empire - empire (also Hathfordian, Western Hatfordian Empire) / first 51-60.
+- Hazelfront - city near dungeon / first 431-440.
+- Holden - village / first 211-220.
+- Hollow Keep - class-trial keep / first 571-580.
+- Infernal Wyrm Maze - Dragnis Island S-rank dungeon (also Infernal Dragon Dungeon, Dragnis Island Dungeon) / first 71-80.
+- Ironspire Collegium - mage school / first 621-630.
+- Isgard - major city (also Isgard City) / first 131-140.
+- Isgard Adventurer District - district / first 631-640.
+- Isgard Adventurers Guild - guild hall (also Isgard Guild) / first 581-590.
+- Isgard Castle - castle / first 591-600.
+- Isgard Gate - gate / first 591-600.
+- Lesser Draconic Valley - dungeon region / first 691-700.
+- Lorian Mage Tower - mage tower in Antolun / first 481-490.
+- Lustile - academy city / first 1-10.
+- Lustile Academy - academy / first 1-10.
+- Luxendarc Knight Academy - knight academy / first 111-120.
+- Mage Hall - institute building / first 411-420.
+- Merchant Guild - guild / first 171-180.
+- Mount Varrin - mountain near Ironspire / first 621-630.
+- Rat Plaza - underground black-market plaza / first 41-50.
+- Red Dragon Inn - inn / first 631-640.
+- Red Temple - elemental fire temple (also Fire Temple, Flame Temple) / first 521-530.
+- Reeka - city / first 201-210.
+- Rotten Forest - Infernal Wyrm Maze second ring / first 581-590.
+- Runic Forge - forge / shop / first 81-90.
+- Runic Workshop - workshop / first 91-100.
+- Sapphire Flame Academy - academy / first 621-630.
+- Singing Crow Inn - inn / first 21-30.
+- Starbloom Elemental Academy - academy / first 621-630.
+- Stegend - city / first 21-30.
+- The Iron Flagon - tavern / first 11-20.
+- The Resting Dragon - inn / first 671-680.
+- Thieves Guild - underground guild (also Thieves' Guild) / first 31-40.
+- Third Ring Stronghold - dungeon stronghold / first 641-650.
+- Tower of Fire - institute elemental tower (also Tower of Flames) / first 411-420.
+- Valerian Castle - castle / first 591-600.
+- Valerian Manor - manor / first 601-610.
+- Valerian Palace - palace / first 601-610.
+- Valewatch - city under Valerian control / first 571-580.
+- Valewatch Keep - keep / first 571-580.
+- Wayland's Runic Emporium - shop (also Runic Emporium) / first 151-160.
+- Willow Academy of Spells - academy (also Willow Academy) / first 701-710.
+- Xandar's Institute of Wizardry - mage institute (also Xandar Institute, Xander Institute) / first 111-120.

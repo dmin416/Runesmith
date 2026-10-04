@@ -1,10 +1,14 @@
 # Experience
 
-Running XP log. Kill formula and curve: `References/Progression/Levels.md`. Status screens: `Status.md`. Coin / stones: `Items.md`, `References/World/Economy.md`.
+> **OLD LOOT ONLY. Not live canon.**
+> Live XP law: `References/Progression/Progression.md` (`50 × killed_L`, no RaceMult; pre-class **½** only; no class-change half-cut).
+> This chapter XP ledger still uses Old RaceMult / per-species bases and class-change half-cut. Retune later against live law. Do not treat payouts here as live rules.
 
-**Common goblin:** `49 + level` (RaceMult 1.0). **Dungeon rat:** `9 + level`. **Needle Worm:** `24 + level`. **Needle Moth:** `99 + level`. **Spiked Boar:** `499 + level`. **Wereboar:** `999 + level`. **People** (classed races): `50 × overall level` (Ch 14 L55 pool **2750**; Roland **479**). Other monster races: `(49 + level) × RaceMult`.
+Running XP log. Quarantined curve leftovers: `../../References/Progression/Levels.md`. Status screens: `Status.md`. Coin / stones: `Items.md`, `../../References/World/Society/Economy.md`.
 
-**Pre-class bank:** XP before first ascension banks and applies later with a **½ penalty**. One-time only (first class). Does not refill for later class changes.
+**Old common goblin:** `49 + level` (RaceMult 1.0). **Dungeon rat:** `9 + level`. **Needle Worm:** `24 + level`. **Needle Moth:** `99 + level`. **Spiked Boar:** `499 + level`. **Wereboar:** `999 + level`. **People** (classed races): `50 × overall level` (Ch 14 L55 pool **2750**; Roland **479**). Other monster races: `(49 + level) × RaceMult`.
+
+**Old pre-class bank:** XP before first ascension banks and applies later with a **½ penalty**. One-time only (first class). Does not refill for later class changes. (Live keeps pre-class **½**; drops later class-change half-cut.)
 
 ## Goblin kill totals (locked)
 

@@ -2,7 +2,7 @@
 
 Loadout design when the main threat **reliably pierces plate**. Heavy plate then loses its job. Weight, heat and stamina drain become pure cost. Prefer a light mobile kit that covers stray hits and supports **active** defense.
 
-**Caldris note:** enchanted leather / runic wards carry the magic layer. Plain mail stays the mundane backup if the enchant drains. Pair with `Weapons.md`, `MageDefense.md`, hardness gates in `../Science/ManaCast.md` and rune-shield deflection math in `ShieldRuneDefense.md`.
+**Caldris note:** enchanted leather / runic wards carry the magic layer. Plain mail stays the mundane backup if the enchant drains. Pair with `Weapons.md`, `MageDefense.md`, hardness gates in `../World/Science/Energy/ManaCast.md` and rune-shield deflection math in `ShieldRuneDefense.md`.
 
 ## Springs on segmented plate
 

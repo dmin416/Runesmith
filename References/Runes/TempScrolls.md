@@ -1,5 +1,7 @@
 # Temp: Spell Scrolls vs Runic Scrolls
 
+> **Design loot.** Live locks: Energy.md (eta_cond feel order, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md. Non-canon here: path-% dials, dark/deep steel names, mythril-as-titanium, orichalcum as reduced-eta wire, adamantium as forgeable supersteel.
+
 Research scrape. Not a lock file. Sources: rewrite `Story/Chapters/19-30.md`, `10-18.md`; `Source/21-30.md`; `References/Progression/Skills.md`, `Classes.md`, `Levels.md`; `References/Runes/Nature.md`, `RuneSystem.md`, `RuneSetup.md`, `Runes.md`; `References/World/Economy.md`, `Places.md`; `References/Science/Paper.md`; later Source farmer/scroll beats.
 
 ---
@@ -9,13 +11,13 @@ Research scrape. Not a lock file. Sources: rewrite `Story/Chapters/19-30.md`, `1
 | Question | Regular (word / mana) spell scroll | Runic spell scroll |
 |---|---|---|
 | What is it? | Incantation written in the correct language with mana through quill/ink | Rune pathway machine drawn on the blank |
-| Same magic laws? | **No.** Debugger blank on regulars. Different language / laws from runes (`Nature.md`, Ch 21). | Debugger sees pathways. Same rune law as weapons / plates. |
+| Same magic laws? | **No.** Diagnosis blank on regulars. Different language / laws from runes (`Nature.md`, Ch 21). | Diagnosis sees pathways. Same rune law as weapons / plates. |
 | Prefilled with mana? | **Craft-charged, not a free battery you top off later.** Grade = power **injected at creation**. Shop device rates Lowest–Highest from that pour. User activates a finished one-shot. | Pathways are the product. Canon default: **user pays activation mana** (filtration). Optional research models (P9 prepaid) are **not** the early-canon default. Craft still spends heavy setup mana. |
 | Who can **make** them? | **Mana Scribe** (needs **Calligraphy + Mage**). Elemental T2 scrolls need advanced Scribe **and** matching elemental mage. | **Runesmith** / **Runic Mana Scribe** (shop talk: Runesmith; Roland does it at T1 Runic Mana Scribe). No elemental affinity required (Fire Orb at **0%** fire works). |
 | Who can **use** them? | Sold so **people without magic** can cast (curiosity / life-save). Product intent = non-mage usable. Exact minimum mana pool for a stock regular scroll is soft in early text. | Explicit: **anyone can activate** (affinity irrelevant). Later: farm boy with farmer class and “just enough mana” runs **card-sized** runic scrolls after having used a magical device before. |
 | Need a magic class to use? | **No** (shop framing). Maker needs Mage-track Scribe. | **No.** |
 | Can overcharge / amplify? | **No user amplify called out.** Strength is locked by **how much mana the scribe poured while writing**. Bigger INT / pool at craft → stronger grade. | **Yes.** Biggest sales difference: user may **add more mana into the scroll** to raise output up to a **rank ceiling** (`RuneSystem.md`: amplification is rank-capped). Compression (tiny scrolls) **cuts overload headroom**. Empower / Overload / overrun (~5× ceiling) are runic-side tools. |
-| Debugger / upgrade? | Debugger does not work. | Debugger works; Roland upgrades bought lows to High / Highest schematics. |
+| Diagnosis / upgrade? | Diagnosis does not work. | Diagnosis works; Roland upgrades bought lows to High / Highest schematics. |
 | Time / XP (Ch 21) | Mana Arrow ~**10 min**, **+20 XP** | Fire Orb runic ~**45 min**, **+50 XP** (imperfect). Five regulars ≈ one runic time for more XP. |
 | Price feel | Cheap bulk (Mana Arrow shop **3 SS** rewrite; Source had **1 SS**). | ~**6–7×** regular (Fire Arrow runic **2 LS** vs regular **3 SS**). Dusty shelf until high-grade brand sells. |
 
@@ -40,7 +42,7 @@ Research scrape. Not a lock file. Sources: rewrite `Story/Chapters/19-30.md`, `1
 
 ### Limits
 
-- Debugger cannot see structure → cannot Debugger-upgrade regulars.
+- Diagnosis cannot see structure → cannot Diagnosis-upgrade regulars.
 - Strength fixed at craft; no Source beat saying the user dumps extra mana to amp a regular scroll.
 - Independent profit hard: mats priced so only intermediate+ grades pay (`Economy.md` / Ch 21 shop cartel).
 
@@ -120,7 +122,7 @@ Research scrape. Not a lock file. Sources: rewrite `Story/Chapters/19-30.md`, `1
 | Basic Rune Scribing | Rune-to-scroll; −10%/level craft mana (cap −90%) |
 | Basic Rune Mastery | −10%/level **activation** mana on runes / runic scrolls (Lesser basic); combat use to level |
 | Calligraphy / Drawing | Hand quality for trial / schematics |
-| Debugger | Runic only |
+| Diagnosis | Runic only |
 
 ---
 
@@ -128,7 +130,7 @@ Research scrape. Not a lock file. Sources: rewrite `Story/Chapters/19-30.md`, `1
 
 - Ch 13 / Status: more mana into writing → stronger scroll; Mage pool for volume.
 - Ch 16 trial: Fire Orb **runic** scroll; skills Basic Mana Scribing + Basic Rune Scribing + Rune Mastery.
-- Ch 20–21 Edelgard: shop regulars vs dusty runic shelf; prices; production classes; Mana Arrow vs Fire Orb practice; Debugger blank on regulars; affinity 0 OK for runic; anyone activates runic; auction amplify explanation (Source 21-30 / rewrite 19-30).
+- Ch 20–21 Edelgard: shop regulars vs dusty runic shelf; prices; production classes; Mana Arrow vs Fire Orb practice; Diagnosis blank on regulars; affinity 0 OK for runic; anyone activates runic; auction amplify explanation (Source 21-30 / rewrite 19-30).
 - Ch 22–27: Common Fire Arrow grind; compaction; overload headroom; weekly sales.
 - Later Source: farmer + card runic scrolls; grenades; shield scrolls; Empower/Overload on gear.
 - `Nature.md`: regular enchantments / spell scrolls ≠ rune laws.
@@ -170,7 +172,7 @@ Working redesign. Buyer / fuel rules below are the current intent.
 | | **Spell scroll** (word / Mana Scribing) | **Runic scroll** (Rune Scribing) |
 |---|---|---|
 | **What it is** | A **frozen mage cast** written as an incantation. | A **disposable rune machine**. Pathways. |
-| **Laws** | Spell / enchantment language. Debugger blank. | Rune law. Debugger works. |
+| **Laws** | Spell / enchantment language. Diagnosis blank. | Rune law. Diagnosis works. |
 | **User fuel** | **Mana only.** No stamina substitute. | **Energy:** mana **or** stamina (`Energy.md`: same cost from either pool). |
 | **Who it is for** | **Mages** who lack the elemental affinity (or the spell) but have a mana pool. | People who may have **little or no mana** (warriors, civilians, stamina-heavy classes). Also fine for mages. |
 | **Why buy** | Cast fire/water/etc. you cannot learn; stay on pure-mana / wrong-element kit. | One-shot magic without a mage pool; pay with SP if MP is empty or absent. |
@@ -214,7 +216,7 @@ price ≈ blank + ink + long_labor + setup_mana + skill_rarity + quality_premium
 ```
 
 - Hours not minutes at early skill. Runesmith scarcity.
-- Setup mana high but **repeatable schematics** amortize design cost (Roland’s Debugger cheat).
+- Setup mana high but **repeatable schematics** amortize design cost (Roland’s Diagnosis cheat).
 - Quality steps (Low → Highest) are the sellable ladder; rank (Lesser → Common) is a tech jump.
 
 ### Proposed shelf bands (Edelgard fair, not gouge)
@@ -248,7 +250,7 @@ Proposal for rewrite:
 | Settled Exeor High only | **10–15 SS** | **≥1 SG** at quota 10 | Comfortable apprentice |
 | Compacted 5–6/day | same unit | **several SG/week** potential | Shop cut / exclusivity caps him |
 
-Independent without shop: cartel blanks + no shelf → auction fees **25%→10%**. Still viable with Debugger quality.
+Independent without shop: cartel blanks + no shelf → auction fees **25%→10%**. Still viable with Diagnosis quality.
 
 ### Who captures margin
 
@@ -257,15 +259,15 @@ Independent without shop: cartel blanks + no shelf → auction fees **25%→10%*
 | Academy Scribe | Thin wage; shop owns recipes | Rarely |
 | Shop | Mats markup + retail | High list, low turn until brand |
 | Runesmith | — | Time + setup; keeps schematic IP |
-| Roland | Optional XP side | Debugger IP + High floor = real margin |
+| Roland | Optional XP side | Diagnosis IP + High floor = real margin |
 
 ## Development path (how to develop the craft)
 
 ### Phase A — Understand both (Ch 20–21)
 
 1. Buy blanks. Make **one** regular Mana Arrow (fast XP, feel commodity).
-2. Make **one** runic Fire Orb (slow, Debugger red).
-3. Learn: Debugger blank on regulars; affinity free on runic; markets differ.
+2. Make **one** runic Fire Orb (slow, Diagnosis red).
+3. Learn: Diagnosis blank on regulars; affinity free on runic; markets differ.
 4. **Do not** plan income on regulars without a shop contract (cartel).
 
 ### Phase B — Runic product-market fit (Ch 22–23)
@@ -291,7 +293,7 @@ Independent without shop: cartel blanks + no shelf → auction fees **25%→10%*
 
 ### What not to develop
 
-- Regular scroll brand as Roland’s main arc (no Debugger, affinity wall, cartel).
+- Regular scroll brand as Roland’s main arc (no Diagnosis, affinity wall, cartel).
 - Low-quality runic volume (dust economics).
 - Teaching that runics replace regulars for zero-mana users.
 
@@ -302,7 +304,7 @@ Independent without shop: cartel blanks + no shelf → auction fees **25%→10%*
 | Frozen casts | Mana Scribe + Basic Mana Scribing + know the spell |
 | Runic one-shots | Runic Mana Scribe + Basic Rune Scribing |
 | Cheaper / better activation | Basic Rune Mastery (combat use) |
-| Quality ceiling | Debugger + Drawing/Calligraphy + schematic XP |
+| Quality ceiling | Diagnosis + Drawing/Calligraphy + schematic XP |
 | Reusable gear | Blacksmith / Runecraft path (leave pure Scribe) |
 | Amp literacy for customers | Their mana pool + optional Rune Mastery; not Roland’s problem |
 
@@ -324,7 +326,7 @@ Independent without shop: cartel blanks + no shelf → auction fees **25%→10%*
 2. Runic scroll = user-powered machine; amp to rank ceiling.
 3. Buyer split: no-mana → regular; mana → runic High+.
 4. Fair High Common Fire Arrow ≈ **1–2×** regular Fire Arrow retail, not 7×; dusty shelf tags are vanity.
-5. Roland development = Debugger runic brand, not academy word-scroll wage slave.
+5. Roland development = Diagnosis runic brand, not academy word-scroll wage slave.
 
 ## Open decisions for you
 
@@ -337,7 +339,7 @@ Independent without shop: cartel blanks + no shelf → auction fees **25%→10%*
 
 # Two runic SKUs (existing system only)
 
-Sources: `../Ideas.md` (scroll filtration / Mastery bypass), `RuneSetup.md` (P1 default vs P9 prepaid, setup, 1.31 store), `RuneSystem.md` / `../Science/ManaCast.md` (**1 mana ≈ 10 J**), `../Science/ManaStones.md` + `../World/Economy.md` (stone capacity and street prices).
+Sources: `../Ideas.md` (scroll filtration / Mastery bypass), `RuneSetup.md` (P1 default vs P9 prepaid, setup, 1.31 store), `RuneSystem.md` / `../World/Science/Energy/ManaCast.md` (**1 mana ≈ 10 J**), `../World/Science/Energy/ManaStones.md` + `../World/Society/Economy.md` (stone capacity and street prices).
 
 ## What was already locked
 
@@ -376,7 +378,7 @@ So the two runic SKUs are not a new invention:
 
 - `RuneSetup.md`: **scroll price can track setup mana** (example note: runic Fire Arrow **6–7×** a regular scroll). Skill S cuts setup (L9 = 10% of L0).
 - Shop / auction coin bands: `Economy.md` / `Paper.md` / Ch 20–27 beats. Those are **item prices**, not a mana exchange rate.
-- Regular (word) scrolls: grade from **power injected at craft** (separate spell-law product; Debugger blank).
+- Regular (word) scrolls: grade from **power injected at craft** (separate spell-law product; Diagnosis blank).
 
 ## How to price without inventing LC/mana
 
@@ -389,7 +391,7 @@ So the two runic SKUs are not a new invention:
 
 | | Word spell scroll | Empty runic | Preloaded runic |
 |---|---|---|---|
-| Law | Spell / enchantment (no Debugger) | Rune | Rune |
+| Law | Spell / enchantment (no Diagnosis) | Rune | Rune |
 | Maker | Mana Scribe (+ element for elemental) | Rune scribe / Runesmith | Same + extra charge pour |
 | User fuel | **Mana only** (to fire the frozen cast) | **Mana or stamina** | Prepaid; trigger may still sip energy |
 | Best buyer | Mage missing affinity / spell | Little/no mana; SP OK | Same; less pool at fire |

@@ -1,5 +1,7 @@
 # Rune Establishing Cost (Ideas)
 
+> **Design loot.** Live locks: Energy.md (eta_cond feel order, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md. Non-canon here: path-% dials, dark/deep steel names, mythril-as-titanium, orichalcum as reduced-eta wire, adamantium as forgeable supersteel.
+
 Basis for setup mana going forward (not frozen; dials stay open). Companion to the rune redesign in `RuneSystem.md` (ranks, qualities, harmonics) and the energy baseline in `Energy.md` (activation cost, efficiency, heat). Activation, efficiency and heat rules stay in those files.
 
 **The five ranks:** Lesser, Common, Greater, Grand, Legendary. **The five qualities:** Lowest, Low, Intermediate, High, Highest.
@@ -127,7 +129,7 @@ Mythril costs 4 times iron to set and wastes one eighth as much per cast.
 | P2 | Standing charge | Setup spent plus an optional fill of the Reservoir | Draws charge first then the wielder | Capacity 1 mana per mm³ (stone figure as placeholder). A sword Reservoir of 500 mm³ holds 500 mana or 10 casts at 50. Storing costs 1.31 mana per mana (body 0.90 x intake 0.85). |
 | P3 | Trickle refill | P2 plus slow ambient intake refills the charge | As P2 | Rate = intake area x local density. Idle weapons top up on mana-rich ground. |
 | P4 | Leak | P2 with charge decay of 2 percent per day | As P2 | 30 days leaves 55 percent. Prevents hoarding. Prepaid weapons need topping. |
-| P5 | Stone slot | Setup plus 10 percent for the socket | Stone supplies 40 percent (canon) so a 50 mana cast costs the wielder 30 | Stone capacity is volume-based (1 mana per mm³). Dump and refill rates are area-based and scale with quality; quality does not raise capacity (../Science/ManaStones.md). |
+| P5 | Stone slot | Setup plus 10 percent for the socket | Stone supplies 40 percent (canon) so a 50 mana cast costs the wielder 30 | Stone capacity is volume-based (1 mana per mm³). Dump and refill rates are area-based and scale with quality; quality does not raise capacity (../World/Science/Energy/ManaStones.md). |
 | P6 | Standing reservation | Setup spent | Passive runes lock part of the pool while running. Example: 10 percent of the pool per piece (canon: 100 on a 1000 pool). | Upkeep is a locked pool with no drain. An adult pool of 2000 locks 200 per piece. |
 | P7 | Maker bond | Setup leaves the maker's signature in the pattern | Maker pays 10 percent less. Others pay full. | Rewards keeping a signature weapon. Sale changes the bond. |
 | P8 | Material-paid setup | Ink or paste made from stone dust or monster blood pays part of setup at 70 percent recovery | Separate | A pea stone (180) yields 126 mana which covers a Lesser firecracker rune at L9 (100). A cube (1000) yields 700. |

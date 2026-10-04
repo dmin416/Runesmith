@@ -1,8 +1,10 @@
 # Mass Boost Projectiles
 
-Hub: `PotentialMagic.md`. Cast law: `../Science/Science.md`. Kinetic: `../Science/Kinetic.md`.
+Hub: `PotentialMagic.md`. Cast law: `../Runes/Energy.md`. Kinetic: `../World/Science/Energy/Kinetic.md`.
 
 A launcher fires a 1 cm steel ball (4.1 g). A mass-boost spell raises mass while speed stays constant. **Effect joules** = KE added = ½ × (added mass) × v² (near-full coupling). **Mana at ημ 1** = Effect / 10. Real mana = Effect / (10 × η × μ).
+
+Temporary mass / weight for combat apps lives here and in `../Combat/ImpactRune.md`. Do not treat it as summoned permanent matter (`../World/Tech/TechnologyDesign.md`).
 
 | Speed | Value | Energy per kg added | Ball starting KE (launcher only) |
 |---|---|---|---|
@@ -25,4 +27,4 @@ Speed of sound ≈ 343 m/s. Ordnance compares use total KE. Tank sabot ~5 MJ.
 | 9 | ×1,000,000 | 4.1 t | 20.5 MJ | 2.05e6 | 232 MJ | 2.32e7 | 2.17 GJ | 2.17e8 | |
 | 10 | ×10,000,000 | 41 t | 205 MJ | 2.05e7 | 2.32 GJ | 2.32e8 | 21.7 GJ | 2.17e9 | City-block class at Mach 3 |
 
-Hardness / pierce gates for tips still apply when the projectile is a shaped mana tip (`ManaCast.md`). Living resistance applies to raw mana effects on bodies (`../Science/Science.md` hub).
+Hardness / pierce gates for tips still apply when the projectile is a shaped mana tip (`../World/Science/Energy/ManaCast.md`). Living resistance applies to raw mana effects on bodies (`../World/Science/Science.md` Locked).

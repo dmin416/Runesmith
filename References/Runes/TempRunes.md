@@ -1,8 +1,10 @@
 # Temp: Rune Look and Craft Descriptions
 
+> **Design loot.** Live locks: Energy.md (eta_cond feel order, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md. Non-canon here: path-% dials, dark/deep steel names, mythril-as-titanium, orichalcum as reduced-eta wire, adamantium as forgeable supersteel.
+
 Temporary scrape of chapter prose on how runes / runic enchantments look and how Roland makes them (hand, quill, hammer, chisel). Not a world-law file.
 
-Canonical catalog: `Runes.md`. Nature / worldview: `Nature.md`. Rewrite pathway model: `RuneSystem.md` (binary circuitry dropped; Debugger red = leaks / discord). Setup pour costs: `RuneSetup.md`.
+Canonical catalog: `Runes.md`. Nature / worldview: `Nature.md`. Rewrite pathway model: `RuneSystem.md` (binary circuitry dropped; Diagnosis red = leaks / discord). Setup pour costs: `RuneSetup.md`.
 
 ---
 
@@ -24,7 +26,7 @@ Canonical catalog: `Runes.md`. Nature / worldview: `Nature.md`. Rewrite pathway 
 - **Ch 19:** Components sit **buried deeply into** the runic symbols.
 - **Ch 49:** Chisel work can look almost finished; only a Runesmith notices **missing traces**.
 
-### Debugger vision (pathways / traces / colors)
+### Diagnosis vision (pathways / traces / colors)
 
 - **Ch 12 (first pull):** Glowing lines appear through the whole rune in various directions. Familiar.
 - **Ch 15:** Focus enhances vision like a **magnifying glass**. Surface marks hide deeper pathways that connect into **one closed circuit**. Looks like an electrical diagram / flow puzzle (rewrite; Source said circuit traces).
@@ -33,14 +35,14 @@ Canonical catalog: `Runes.md`. Nature / worldview: `Nature.md`. Rewrite pathway 
   - **Green** = correct pathways already in place
   - **Blue** = optimal layout the red paths should become (most efficient placement); blue does **not** sit on existing pathways the way red/green do
 - **Ch 15:** Mana cost while viewing. Can blink the overlay off. Blue mana from Roland runs the small pathways; tip effect **locks armed** until inserted (forced free activate weaker); hold trickles mana and warms the blade; he pulls mana back to deactivate.
-- **Ch 15:** Debugger shows faults; **Technology** fills rune knowledge gaps on encounter (active use; not only passive).
+- **Ch 15:** Diagnosis shows faults; **Technology** fills rune knowledge gaps on encounter (active use; not only passive).
 - **Ch 15–16 rewrite:** Stages / regions with jobs in the flow. No on-page transistors, resistors, chips, logic gates or binary (Source had those in the trial book beat).
-- **Ch 16 rewrite (full trial):** Continuous pass large areas → finer details. Debugger does **not** guide mid-draw; only grades a finished piece. First attempt mostly red (no functional activate). Mana-hand overlay onto beast skin cascades (~**1/4 MP**; hand implodes; Pollock scroll). Second success: five symbols; fist-sized heat orb. Urge to fantasize about applications but no time.
+- **Ch 16 rewrite (full trial):** Continuous pass large areas → finer details. Diagnosis does **not** guide mid-draw; only grades a finished piece. First attempt mostly red (no functional activate). Mana-hand overlay onto beast skin cascades (~**1/4 MP**; hand implodes; Pollock scroll). Second success: five symbols; fist-sized heat orb. Urge to fantasize about applications but no time.
 - **Ch 16 Source (fail / success):** Failed scroll **crimson** glow then fizzles / pattern vanishes. Success: **wisps of red light** compress into a small marble-hot orb. Three visible symbols after dry.
 - **Ch 19:** Every rune has **large segments** with different jobs in a **linear** chain. Pathways link stage to stage. All runes and by extension magic follow law / causality they were designed for. Fire Orb's five named regions; other lessers lack books but linear structure and progression imply the same rules. Custom work = rearrange large stages on one whole sheet. **Not** binary / buried chips. Design lock: `Nature.md`.
-- **Ch 21:** Debugger shows red on imperfect practice scroll. **No lines** on regular (non-runic) spell scrolls.
+- **Ch 21:** Diagnosis shows red on imperfect practice scroll. **No lines** on regular (non-runic) spell scrolls.
 - **Ch 33:** Overloaded pelt: center lights; mana in **six directions**; glistering pathways between linked fire-arrow runes.
-- **Ch 50:** Colored lines everywhere under deep Debugger (even plants); red / blue / green.
+- **Ch 50:** Colored lines everywhere under deep Diagnosis (even plants); red / blue / green.
 - **Ch 51:** Forge lit with **layered pathways** (some red); **prime rune** inside magic circles; pathways can float in air.
 - **Ch 75:** Music box: pathways all over, some to a side mana stone; expert work looks **condensed / smaller**.
 
@@ -69,7 +71,7 @@ Canonical catalog: `Runes.md`. Nature / worldview: `Nature.md`. Rewrite pathway 
 2. **Mana into tip:** Focus mana onto the **quill tip** and push it into the ink so the Scribe's mana can be transcribed.
 3. **Draw pathways:** Guide ink while laying pathways between stage regions. Looks like writing large letters; ink is building the working pattern under the symbol.
 4. **Fit the scroll:** Large schematic / sword-scale original must land as a working pattern on the parchment (Source: hard max size + 1:1 compress ban; rewrite Ch 16 stresses fit + simpler linear Fire Orb vs Detonation; no max-size hard rule on-page).
-5. **Debugger after:** Overlay red/green/blue on the finished sheet; redraw toward all-green for Highest schematics (Ch 15 Calligraphy redraw ~**1 hour**; Ch 17 memory + Debugger overlay).
+5. **Diagnosis after:** Overlay red/green/blue on the finished sheet; redraw toward all-green for Highest schematics (Ch 15 Calligraphy redraw ~**1 hour**; Ch 17 memory + Diagnosis overlay).
 6. **Ch 16 trial extras:** Do **not** mana-hand-pour a finished overlay onto thick beast skin mid-trial (cascade drain). Continuous large→fine pass; second attempt after committing the ideal (drown red in memory).
 7. **Ch 21:** Quill on yellow scroll; symbols appear slowly and connect into one runic spell.
 
@@ -79,7 +81,7 @@ Rune / craft deltas only. Tone and class-menu personality changes listed when th
 
 | Topic | Source | Story rewrite |
 |---|---|---|
-| How he frames Debugger / Technology | Circuitry + computer programming misread as rune knowledge; Circuitry skill named for class unlock | **Technology** (and Debugger) misread as rune knowledge; Technology skill named for unlock theory |
+| How he frames Diagnosis / Technology | Circuitry + computer programming misread as rune knowledge; Circuitry skill named for class unlock | **Technology** (and Diagnosis) misread as rune knowledge; Technology skill named for unlock theory |
 | Schematic XP attitude | Easy fast levels; half XP lost on class change; magical items = XP farm | Modest bonus; winter indoor alternative to snow fights; will not hop levels; runes **rare** to find (Source: cost an arm and a leg). Half-cut stays ledger-only; not restated on-page |
 | Who else can reverse-engineer | Implied rarity | Explicit: Identify, Analyze, Mana Sensing, runic classes can do similar; do not get complacent |
 | Runic Mana Scribe name | Complains naming sense (why so long) | Notes Rune Scribe / Runic Scribe would be shorter; keeps **Runic Mana Scribe** as interesting / specific |
@@ -89,14 +91,14 @@ Rune / craft deltas only. Tone and class-menu personality changes listed when th
 | Temporary skills timing | After the logic-gate digression | After reading the book, before the assemble beat (**Basic Mana Scribing**, **Basic Rune Scribing**, **Basic Rune Mastery** temporary) |
 | Quill method | Ink splits into many tiny pathways; hover fraction of a mm | Methodical large lines → finer details; one continuous pass; mana bonds ink to skin |
 | Visible letter count while writing | Three large letters | Five large letters |
-| First fail | Crimson glow → fizzle; pattern vanishes | Debugger red; central flame "like a turd"; no functional activate |
+| First fail | Crimson glow → fizzle; pattern vanishes | Diagnosis red; central flame "like a turd"; no functional activate |
 | Mid-fail blunder | None | Mana-hand overlay onto thick beast skin → cascade ~**1/4 MP**; hand implodes; Pollock scroll; cools with mana |
 | Success | Three symbols; marble-sized hot orb; last sand | Five symbols; pathways sink after infusion; **fist-sized** hot orb; last sand |
 | Return to inn | Falls off chair | **Ned** silk-holds him upright; chin scratch; Ned eats silk |
 
 ### Schematic only (no metal yet)
 
-- **Ch 15:** Pen and paper. Redraw whole diagram with improved pathways (~**1 hour**). All-green under Debugger → system awards schematic.
+- **Ch 15:** Pen and paper. Redraw whole diagram with improved pathways (~**1 hour**). All-green under Diagnosis → system awards schematic.
 - **Ch 16:** Trial Fire Orb scroll (class pass; not a schematic XP award).
 - **Ch 19:** Quill + drawing materials; recreate Fire Orb from memory (~1 hour → **[High] +600**); second redraw → **[Highest] +400**; total **1000**. Lesser quality ladder **100 / 200 / 400 / 600 / 1000**.
 
@@ -114,7 +116,7 @@ Rune / craft deltas only. Tone and class-menu personality changes listed when th
 
 ### Jerry-rig / multi-rune
 
-- **Ch 33:** Multiple fire-arrow runes on a pelt; connect with magical pathways; Debugger cleanup.
+- **Ch 33:** Multiple fire-arrow runes on a pelt; connect with magical pathways; Diagnosis cleanup.
 
 ---
 
@@ -122,7 +124,7 @@ Rune / craft deltas only. Tone and class-menu personality changes listed when th
 
 | Mode | Tool | What you see forming |
 |---|---|---|
-| Schematic | Quill / pen + paper | Full diagram; Debugger red/green/blue |
+| Schematic | Quill / pen + paper | Full diagram; Diagnosis red/green/blue |
 | Scroll | Quill + magical ink + monster parchment | Symbols + hidden pathways; blue→red / crimson fail / red wisps success |
 | Metal | Heated work + glowing hammer (or blue-glow fingers) | Symbols bit by bit; blue sparks; pathways through structure |
 | Pre-shape | Chisel | Near-finished inscriptions missing traces |
@@ -150,7 +152,7 @@ Quotes from `Source/*.md`. Early Ch 12–15 LOOK/MAKE largely match the rewrite 
 | **81–90** | Field scroll on raw monster skin: runic structures light up **orange** when mana-injected (slower than normal scrolls). |
 | **81–90** | After Runecraft evolve: eyes glow **deep purple**; can **zoom into a component** and see **code** like a programming language inside the hardware. |
 | **81–90** | Multi-rune trap: main runes on sheet metal; steel rods as mana transfer lines under dirt. |
-| **131–140** | Crystal orb: runic inscriptions **invisible to naked eye**; Debugger only. |
+| **131–140** | Crystal orb: runic inscriptions **invisible to naked eye**; Diagnosis only. |
 | **131–140** | Mana into eyes can pull a **hazy incomplete schematic** through a blocked card (fades fast). External runic devices: clear external traces + large runes. |
 | **131–140** | Shield work: traces form while **glowing bright red**, then settle and go hard to see. |
 | **161–170** | Runecrafting hammer **lights bright blue** and shows many runic symbols on itself; tap through chisel sends a **tiny mana bolt** that plants a tiny component on metal. |
@@ -169,7 +171,7 @@ Quotes from `Source/*.md`. Early Ch 12–15 LOOK/MAKE largely match the rewrite 
 | **691–700** | Arcane ink: pitch black with **blue veins** of mana → can shift **purple**; glow may fade if structure fails. |
 | **81–90** | Multi-rune trap activation: whole network lights like a **Christmas tree** / flash of electricity through rods. |
 | **151–160** | Some gear glows **rainbow** colors when active (stands out badly). |
-| **181–190** | Staff erosion: glowing symbols get **less clear** as runes wear. Eye of Truth variant: components everywhere in **uniform color** (vs Debugger's multi-color). |
+| **181–190** | Staff erosion: glowing symbols get **less clear** as runes wear. Eye of Truth variant: components everywhere in **uniform color** (vs Diagnosis's multi-color). |
 | **251–260** | Magical impression can **copy** runic structures (and some non-runic enchantments) into a detailed blueprint. |
 | **311–320** | Armor runes pale blue; overload / power skill can shift them **dark red** with aura. |
 | **521–530** | Overload can make internal runic structures **collapse**. Rune mage tweaks **internal** spell structure; Runesmith works more on **outer** components. |
@@ -213,7 +215,7 @@ Quotes from `Source/*.md`. Early Ch 12–15 LOOK/MAKE largely match the rewrite 
 
 ### Cross-cutting Source upgrades (ladder)
 
-1. **Sight:** Debugger red/green/blue → purple-eyed zoom into **code** inside components → True Runic Sight / 3D particle pathways → can see runes in spells, crystal, air, concealed gear (overreach = migraine).
+1. **Sight:** Diagnosis red/green/blue → purple-eyed zoom into **code** inside components → True Runic Sight / 3D particle pathways → can see runes in spells, crystal, air, concealed gear (overreach = migraine).
 2. **Paper:** Quill + magical ink + monster parchment → field wood-stick + raw skin → metal pen with ink channels; mind/voice scribing variants exist later.
 3. **Metal:** Heat + glowing hammer / blue fingers / patterned hammer face → hammer+chisel mana bolt → Ethereal Pathways bridging parts → Expert 3D stacking + Miniaturisation; optional metal wire buses vs ethereal.
 4. **Repair / alter:** Hammer reconstruct → Rune Mending (no hammer, grade decay) → Runic Restructuring (instant reshape to known diagram) → rune transmutation (cheap, coarse).

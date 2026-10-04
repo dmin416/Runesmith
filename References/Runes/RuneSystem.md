@@ -1,5 +1,7 @@
 # Rune System Redesign
 
+> **Design loot.** Live locks: Energy.md (eta_cond feel order, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md. Non-canon here: path-% dials, dark/deep steel names, mythril-as-titanium, orichalcum as reduced-eta wire, adamantium as forgeable supersteel.
+
 Basis for runes going forward (not frozen; dials stay open). **Nature / worldview lock:** `Nature.md` (segments, pathways, law and causality). Companion: setup mana in `RuneSetup.md`. Activation energy, path efficiency and heat: `Energy.md`. Named rune catalog and chapter first-seens: `Runes.md`.
 
 The original story used binary circuitry for runes. That model is dropped for rewrite law.
@@ -38,7 +40,7 @@ Stages 8 and 9 appear only at rune score above 1 (Common Low and up). Lesser run
 
 **The five ranks:** Lesser, Common, Greater, Grand, Legendary. **The five qualities:** Lowest, Low, Intermediate, High, Highest. A rune is named rank first and quality second (Common Low). Rank sets the scale of the machine: size, complexity and working ceiling. Quality sets how well the machine is built and so the position inside the rank. Harmonics (next section) set efficiency inside the ceiling. Output stops at the ceiling except for overrun (below). Extra mana fed into a scroll adds output up to it (canon: amplification is rank-capped).
 
-**Working ceiling = 10 J x 100^s** per activation or per run (power x run length for a sustained machine). Each rank is a band of 100 times from Lowest to Highest. Lowest of a rank equals Highest of the rank below (canon). Intermediate sits at 10 times the Lowest. Lesser steps: 10 J, 32 J, 100 J, 316 J, 1 kJ. Lesser Highest is the baseline anchor: **1 mana ≈ 10 J** paid (`Energy.md`, `../Science/ManaCast.md`). Copper sealed (η 0.80, G 1) yields **8 J** useful per mana; 100 mana → **800 J** useful. Open-air copper (G 3) yields **24 J** per mana at clean linear Highest. Story "about 100 MP" detonation beats are round Intermediate / open-air mixes, not a second constant.
+**Working ceiling = 10 J x 100^s** per activation or per run (power x run length for a sustained machine). Each rank is a band of 100 times from Lowest to Highest. Lowest of a rank equals Highest of the rank below (canon). Intermediate sits at 10 times the Lowest. Lesser steps: 10 J, 32 J, 100 J, 316 J, 1 kJ. Lesser Highest is the baseline anchor: **1 mana ≈ 10 J** paid (`Energy.md`, `../World/Science/Energy/ManaCast.md`). Copper sealed (η 0.80, G 1) yields **8 J** useful per mana; 100 mana → **800 J** useful. Open-air copper (G 3) yields **24 J** per mana at clean linear Highest. Story "about 100 MP" detonation beats are round Intermediate / open-air mixes, not a second constant.
 
 **Overrun.** The ceiling is soft. Overcharging, a rune done exceptionally well, or a Highest quality can push output past it by up to about 5 times. A Lesser Highest rune can reach about 5 kJ, above a Common Low. This is how a Lesser Highest rune can be powerful.
 
@@ -97,7 +99,7 @@ Natural mana carries a tone by element and by place. T is the match between the 
 - Linear layout: sloppy pathways leak mana before the converter. λ is the share that gets through: 0.16 at Lowest, 0.25 at Low, 0.4 at Intermediate, 0.63 at High and 1 at Highest. The same attack costs 1/λ times as much. Material efficiency cannot repair a leaking layout.
 - Resonant layout: overlapping regions lock when their tones share whole-number ratios. Locked overlap adds nothing to d. Each unlocked overlap adds discord to d.
 - Discord raises waste by the factor (1 + d) and can drag η_eff below the path's own η.
-- Red faults under the Debugger mark leaks (low λ) and discord (d).
+- Red faults under the Diagnosis mark leaks (low λ) and discord (d).
 - Skilled crafting cleans the layout and locks the overlaps.
 
 ### Ring-up and ring-down
@@ -160,4 +162,4 @@ Steel sword (η 0.85) with a 1 kg blade and a Lesser rune of identical size. Hig
 - Size of d per unlocked overlap.
 - Whether T comes from wielder affinity or locale or both.
 - Whether high-rank tones are audible to ordinary ears.
-- Reconcile Debugger red/green/blue vision (`TempRunes.md`) with leaks (λ) and discord (d) as red faults.
+- Reconcile Diagnosis red/green/blue vision (`TempRunes.md`) with leaks (λ) and discord (d) as red faults.

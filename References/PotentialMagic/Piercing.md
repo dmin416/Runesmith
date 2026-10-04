@@ -1,6 +1,6 @@
 # Piercing
 
-Hub: `PotentialMagic.md`. Related: `MassBoost.md`, `../Science/ManaCast.md` (Arrow punch / hardness).
+Hub: `PotentialMagic.md`. Related: `MassBoost.md`, `../World/Science/Energy/ManaCast.md` (Arrow punch / hardness).
 
 Mostly piercing. A slow dense ball drills a clean channel about its own width. No blast or fragmentation.
 

@@ -1,19 +1,24 @@
 # Runes
 
+> Named catalog. Path / ambient law: `Energy.md`. Magic nature: `Magic.md`. Design companions in this folder (ceilings, setup, LOOK/MAKE scrapes).
+
 Named rune catalog and chapter first-seens. Character skills that manipulate runes: `../Progression/Skills.md`.
 
 | File | Role |
 |---|---|
-| `Nature.md` | Worldview: segments, pathways, law / causality |
 | `Runes.md` | Named catalog / first-seens |
-| `RuneSystem.md` | Pathway model, ceilings, harmonics |
-| `RuneSetup.md` | Setup pour costs |
-| `Energy.md` | Path / ambient / wear |
-| `ManaMaterials.md` | Material path modes, fantasy metals, imbue / converters (proposal) |
-| `ChainMailCollaborative.md` | Shirt-wide rice-stone pool: burst at impact, recharge, passive drain |
-| `TempRunes.md` | Chapter LOOK/MAKE scrape (merge later) |
+| `Energy.md` | Path / ambient / wear / η_cond feel order |
+| `EnergyDesign.md` | Electrical analogy, wear / body-path proposals (path-% non-canon) |
+| `Magic.md` | Enchant vs rune vs scrolls |
+| `Nature.md` | Worldview: segments, pathways, law / causality |
+| `RuneSystem.md` | Pathway model, ceilings, harmonics (design) |
+| `RuneSetup.md` | Setup pour costs (design) |
+| `ManaMaterials.md` | Path material modes (design; Metals naming wins) |
+| `TempRunes.md` | Chapter LOOK/MAKE scrape |
+| `TempScrolls.md` | Spell scroll vs runic scroll scrape |
+| `ChainMailCollaborative.md` | Shirt-wide rice-stone pool research note |
 
-**Rewrite law (basis, not frozen):** nature lock in `Nature.md`. Engineering in `RuneSystem.md` (symbology, pathways, stages, ceilings, harmonics). Setup mana: `RuneSetup.md`. Activation energy and wear: `Energy.md`. Chapter LOOK/MAKE scrape: `TempRunes.md` (binary-circuit identity is dropped for rewrite; Debugger colors map to leaks and discord).
+**Rewrite note:** Binary-circuit identity is dropped. Diagnosis colors map to leaks and discord. Do not re-import Old path-% tables.
 
 ## Rune vs enchantment (Chapter 6 book)
 
@@ -37,17 +42,17 @@ Each rank uses sub-grades (Lowest / Low / Intermediate / High / Highest). First 
 
 ### Lesser Detonation Rune
 First seen: Chapter 14 (on watcher's heavy rapier tip; orange glow; tree explodes on thrust); schematic Chapter 15
-Explosive rune; early schematic. Chapter 14–15: on the watcher's heavy rapier tip (orange glow; internal blast on thrust; **125 MP** as found, more than Mana Arrow or Shield; SP overflow **1:1** if MP short). Hold-test: tip effect **locks armed** until inserted (forced free activate weaker); hold trickles mana and warms the blade. Roland creates the [Highest] quality schematic via Debugger pathway analysis (red/green/blue; Technology fills knowledge gaps) and Calligraphy redraw (~**1 hour**). Weak as a solo scroll unless combined (Chapter 18: considers Fire Orb + Detonation grenade). Chapter 37: pressure-trigger scroll mines (dormant until stepped on; ~1 hour active).
+Explosive rune; early schematic. Chapter 14–15: on the watcher's heavy rapier tip (orange glow; internal blast on thrust; **125 MP** as found, more than Mana Arrow or Shield; SP overflow **1:1** if MP short). Hold-test: tip effect **locks armed** until inserted (forced free activate weaker); hold trickles mana and warms the blade. Roland creates the [Highest] quality schematic via Diagnosis pathway analysis (red/green/blue; Technology fills knowledge gaps) and Calligraphy redraw (~**1 hour**). Weak as a solo scroll unless combined (Chapter 18: considers Fire Orb + Detonation grenade). Chapter 37: pressure-trigger scroll mines (dormant until stepped on; ~1 hour active).
 
 ### Lesser Impact Rune
 First seen: Chapter 12
-Impact or force rune. Engraved on Sahildr's new warhammer (bought with monthly savings). Roland is drawn to it and briefly sees glowing pathway lines through the symbol. Chapter 13 combat: timed mana blast can one-shot or incap a Wereboar. Chapter 18 Sahildr: the heavy head **gains weight** when the rune activates (mass or gravity; timing matters). He creates the [Highest] quality schematic in Chapter 18 (Debugger overlay; Drawing L1 breakthrough). Current form best on weapons but he fantasizes other component uses; poor as a solo scroll (just makes paper heavier). Chapter 27: speculates Heavy Magic / Heavy Impact Arrow (weight on descent) but paper tests are nearly useless. Chapter 73: common Impact (High) on Deep Iron Mace; increases weapon mass/weight mid-swing (timing-sensitive).
+Impact or force rune. Engraved on Sahildr's new warhammer (bought with monthly savings). Roland is drawn to it and briefly sees glowing pathway lines through the symbol. Chapter 13 combat: timed mana blast can one-shot or incap a Wereboar. Chapter 18 Sahildr: the heavy head **gains weight** when the rune activates (mass or gravity; timing matters). He creates the [Highest] quality schematic in Chapter 18 (Diagnosis overlay; Drawing L1 breakthrough). Current form best on weapons but he fantasizes other component uses; poor as a solo scroll (just makes paper heavier). Chapter 27: speculates Heavy Magic / Heavy Impact Arrow (weight on descent) but paper tests are nearly useless. Chapter 73: common Impact (High) on a mana-iron mace; increases weapon mass/weight mid-swing (timing-sensitive).
 
-**Rewrite science (Sahildr hammer):** compressed mana particles (Fire Piston cousin), not a charged store. **Paid 100 mana** one-shot. Useful output = 1000 × η × G. Earth boar skull crush does **not** need a huge instant boost (street warhammer **200–400 J** already exceeds measured cranial fracture bands). Full note: `../Science/ImpactRune.md`.
+**Rewrite science (Sahildr hammer):** compressed mana particles (Fire Piston cousin), not a charged store. **Paid 100 mana** one-shot. Useful output = mana × 10 × η_cond × G. Earth boar skull crush does **not** need a huge instant boost (street warhammer **200–400 J** already exceeds measured cranial fracture bands). Full note: `../Combat/ImpactRune.md`.
 
 ### Hardening / Strengthening Rune
 First seen: Chapter 73
-Active common rune. Coats the weapon in a thin mana layer that absorbs physical shocks. Drains mana fast if used on armor. Roland's Deep Iron Mace gets Hardening (Intermediate) paired with Impact.
+Active common rune. Coats the weapon in a thin mana layer that absorbs physical shocks. Drains mana fast if used on armor. Roland's mana-iron mace gets Hardening (Intermediate) paired with Impact.
 
 ### Lesser Fire Orb Rune
 First seen: Chapter 16
@@ -57,7 +62,7 @@ Fire orb projection rune. Roland's Runic Mana Scribe trial scroll.
 
 **Source (old model, dropped for rewrite law):** three main parts (fire / orb shape / control "program"); logic gates and binary; transistors/resistors/chips; Circuitry skill; naked-eye three symbols after dry; hard maximal size + compress off a large schematic.
 
-Later: Chapter 19 recreates from **memory** (no Debugger source item): first **[High]** (**+600 XP**, ~**1 hour**) then second pass **[Highest]** (**+400 XP**); total **1000**. Lesser quality XP ladder: **100 / 200 / 400 / 600 / 1000**. Chapter 21 first practice scroll ~45 min / +50 XP (still red under Debugger); activates fine at **0%** fire affinity. Chapter 36: first reusable metal form, Bronze Plate of the Fire Orb [Lesser: Lowest, High].
+Later: Chapter 19 recreates from **memory** (no Diagnosis source item): first **[High]** (**+600 XP**, ~**1 hour**) then second pass **[Highest]** (**+400 XP**); total **1000**. Lesser quality XP ladder: **100 / 200 / 400 / 600 / 1000**. Chapter 21 first practice scroll ~45 min / +50 XP (still red under Diagnosis); activates fine at **0%** fire affinity. Chapter 36: first reusable metal form, Bronze Plate of the Fire Orb [Lesser: Lowest, High].
 
 ### Lesser Fire Rune
 First seen: Chapter 194
@@ -65,11 +70,11 @@ Basic fire enchantment on weapons.
 
 ### Lesser Scorch Rune / Lesser Scorching
 First seen: Chapter 44
-Scorching fire effect on blades (safe for weapon and user). Roland borrows schematic [Low] via Debugger through glass at Balmyr's; crafts Bronze Leaf Shaped Sword of Lesser Scorching [Intermediate, High].
+Scorching fire effect on blades (safe for weapon and user). Roland borrows schematic [Low] via Diagnosis through glass at Balmyr's; crafts Bronze Leaf Shaped Sword of Lesser Scorching [Intermediate, High].
 
 ### Lesser Smoke Arrow Rune
 First seen: Chapter 26
-Smoke / smokescreen arrow. Roland grafts it **[Lowest]** by combining Common Fire Arrow + Gale Arrow parts via Debugger (~1 week of random swaps). Hoped for frostfire (possibly T3 territory); got a weak smokescreen with heavy red faults.
+Smoke / smokescreen arrow. Roland grafts it **[Lowest]** by combining Common Fire Arrow + Gale Arrow parts via Diagnosis (~1 week of random swaps). Hoped for frostfire (possibly T3 territory); got a weak smokescreen with heavy red faults.
 
 ### Common Frost Arrow Rune
 First seen: Chapter 26

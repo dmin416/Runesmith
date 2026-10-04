@@ -1,0 +1,265 @@
+# Source Creatures
+
+Inventory from `../Source/`. Index only.
+
+- Abomination - aberration or horror; first 211-220.md
+- Abyssal Abomination - first 211-220.md
+- Abyssal Cultist - first 611-620.md
+- Abyssal Ghoul - undead; first 601-610.md
+- Abyssal Parasite - first 231-240.md
+- Adolescent Ash Wolf - canine; juvenile or evolved form stage; first 91-100.md
+- Adolescent Gemstone Wolf - canine; juvenile or evolved form stage; first 91-100.md
+- Adolescent Mystical Ruby Wolf - canine; juvenile or evolved form stage; first 101-110.md
+- Adolescent Ruby Wolf - canine; juvenile or evolved form stage; first 91-100.md
+- Adolescent Volcanic Wolf - canine; juvenile or evolved form stage; first 91-100.md
+- Advanced Skeleton - undead; first 311-320.md
+- Alpha Dire Ruby Wolf - canine; first 351-360.md
+- Alpha Mystical Dire Ruby Wolf - canine; first 341-350.md
+- Alpha Mystical Dire Sapphire Wolf - canine; first 631-640.md
+- Alpha Ruby Dire Wolf - canine; first 351-360.md
+- Alpha Ruby Wolf - canine; first 381-390.md
+- Alpha Volcanic Dire Wolf - canine; first 341-350.md
+- Amphiptere - dragonkin; first 661-670.md
+- Ant - insect vermin or fungus; first 31-40.md
+- Artificial Spirit - construct or spirit construct; first 461-470.md
+- Ash Wolf - canine; first 91-100.md
+- Ashen Wolf - canine; first 91-100.md
+- Azure Lion - animal or beast; first 481-490.md
+- Azure Scaled Sea Serpent - animal or beast; first 631-640.md
+- Baby Salamander - animal or beast; juvenile or evolved form stage; first 71-80.md
+- Bat - animal or beast; first 1-10.md
+- Battle Golem - construct or spirit construct; first 101-110.md
+- Bear - animal or beast; first 31-40.md
+- Bee - insect vermin or fungus; first 661-670.md
+- Behemoth - animal or beast; first 101-110.md
+- Black Dragon - dragonkin; first 651-660.md
+- Blade Demon - fiend; first 571-580.md
+- Blazing Alpha Mystical Dire Ruby Wolf - canine; first 701-710.md
+- Blazing Alpha Volcanic Dire Wolf - canine; first 701-710.md
+- Blazing Blade Demon - boss or slain target; fiend; first 581-590.md
+- Blazing Skeleton - undead; first 251-260.md
+- Blazing Skeleton Warrior - undead; first 251-260.md
+- Boar - animal or beast; first 11-20.md
+- Calamity Dragon - dragonkin; first 271-280.md
+- Canine Fiend - canine; first 91-100.md
+- Carp - animal or beast; first 221-230.md
+- Centipede - insect vermin or fungus; first 121-130.md
+- Cerberus - canine; first 351-360.md
+- Chain Devil - fiend; first 81-90.md
+- Cockatrice - animal or beast; first 621-630.md
+- Corrupted Undead Amphiptere - boss or slain target; undead; first 661-670.md
+- Corrupted Undead Draconic Lord - boss or slain target; undead; first 661-670.md
+- Crimson Giant Rat - insect vermin or fungus; first 71-80.md
+- Crimson Kobold - humanoid monster; first 211-220.md
+- Crimson Kobold Warrior - humanoid monster; first 211-220.md
+- Deer - animal or beast; first 31-40.md
+- Demon - fiend; first 1-10.md
+- Devil - fiend; first 1-10.md
+- Dire Ash Wolf - canine; first 191-200.md
+- Dire Ruby Wolf - canine; first 191-200.md
+- Dire Wolf - canine; first 161-170.md
+- Drachinid - dragonkin; first 581-590.md
+- Draconic Lord - dragonkin; first 661-670.md
+- Dragon - dragonkin; first 1-10.md
+- Dragon Shade Stalker - dragonkin; first 681-690.md
+- Drake - dragonkin; first 431-440.md
+- Drake King - dragonkin; first 661-670.md
+- Dryad - plant or fey; first 211-220.md
+- Dungeon Rat - insect vermin or fungus; first 11-20.md
+- Eagle - animal or beast; first 531-540.md
+- Earth Elemental - spirit or elemental; first 111-120.md
+- Eldritch Horror - boss or slain target; aberration or horror; first 391-400.md
+- Elephant - animal or beast; first 351-360.md
+- Fairy - plant or fey; first 431-440.md
+- Fenrir - canine; Agni evolution option; first 341-350.md
+- Fire Elemental - spirit or elemental; first 51-60.md
+- Fire Slime - ooze or mimic; first 71-80.md
+- Fish - animal or beast; first 1-10.md
+- Flame Salamander - animal or beast; first 561-570.md
+- Flame Wolf - canine; first 351-360.md
+- Flame Wyvern - dragonkin; first 561-570.md
+- Flaming Skeleton - undead; first 71-80.md
+- Flaming Skeleton Soldier - undead; first 161-170.md
+- Flaming Skull - undead; first 71-80.md
+- Floating Golem - construct or spirit construct; first 341-350.md
+- Floral Cockatrice - boss or slain target; animal or beast; first 621-630.md
+- Fox - animal or beast; first 151-160.md
+- Frog - animal or beast; first 431-440.md
+- Gargoyle - first 261-270.md
+- Gemstone Wolf - canine; first 91-100.md
+- Ghost - undead; first 281-290.md
+- Ghoul - undead; first 181-190.md
+- Giant Golem - construct or spirit construct; first 681-690.md
+- Giant Praying Mantis - insect vermin or fungus; first 61-70.md
+- Giant Rat - insect vermin or fungus; first 11-20.md
+- Giant Spider - insect vermin or fungus; first 61-70.md
+- Goblin - humanoid monster; first 1-10.md
+- Goblin King - humanoid monster; first 541-550.md
+- Golem - construct or spirit construct; first 81-90.md
+- Golem Lord - boss or slain target; construct or spirit construct; first 531-540.md
+- Gray Hobgoblin Berserker - boss or slain target; humanoid monster; first 31-40.md
+- Greater Fenrir - canine; Agni evolution option; first 701-710.md
+- Greater Fire Elemental - spirit or elemental; first 521-530.md
+- Griffin - animal or beast; first 501-510.md
+- Hawk - animal or beast; first 11-20.md
+- Hellhound - canine; first 91-100.md
+- Hellhound Puppy - canine; juvenile or evolved form stage; first 91-100.md
+- High Elemental Storm Eagle - boss or slain target; spirit or elemental; first 531-540.md
+- High Shade Terror - boss or slain target; first 531-540.md
+- High Spirit Carp - boss or slain target; spirit or elemental; first 531-540.md
+- High Stone Golem - construct or spirit construct; first 531-540.md
+- Hobgoblin - humanoid monster; first 11-20.md
+- Hobgoblin Berserker - humanoid monster; first 31-40.md
+- Horned Swamp Toad - animal or beast; first 431-440.md
+- Hornet - insect vermin or fungus; first 101-110.md
+- Horse - animal or beast; first 11-20.md
+- Hydra - animal or beast; first 371-380.md
+- Hydra Tortoise - animal or beast; first 561-570.md
+- Ice Wolf - canine; first 701-710.md
+- Imp - fiend; first 81-90.md
+- Incubus - fiend; first 61-70.md
+- Infernal Dragon - dragonkin; first 71-80.md
+- Infernal Flaming Skull - boss or slain target; undead; first 341-350.md
+- Infernal Lich - boss or slain target; undead; first 171-180.md
+- Infernal Shade - first 531-540.md
+- Infernal Skeleton - undead; first 161-170.md
+- Infernal Skeleton Berserker - boss or slain target; undead; first 251-260.md
+- Infernal Skeleton Champion - boss or slain target; undead; first 161-170.md
+- Infernal Skeleton Spearmaster - boss or slain target; undead; first 251-260.md
+- Infernal Wyrm - dragonkin; first 271-280.md
+- Iron Golem - construct or spirit construct; first 81-90.md
+- Kobold - humanoid monster; first 211-220.md
+- Kobold Warrior - humanoid monster; first 211-220.md
+- Kraken - animal or beast; first 61-70.md
+- Lesser Abyssal Abomination - first 221-230.md
+- Lesser Dragon - dragonkin; first 581-590.md
+- Lesser Dragon Shade Stalker - boss or slain target; dragonkin; first 681-690.md
+- Lesser Mystical Ruby Fenrir - canine; Agni evolution option; first 341-350.md
+- Lesser Spiked Devil - fiend; first 81-90.md
+- Leviathan - animal or beast; first 561-570.md
+- Lich - undead; first 171-180.md
+- Lich King - boss or slain target; undead; first 641-650.md
+- Lion - animal or beast; first 331-340.md
+- Living Tree - plant or fey; first 401-410.md
+- Lizard - animal or beast; first 1-10.md
+- Lizardmen - humanoid monster; first 1-10.md
+- Lord of Fury - boss or slain target; first 531-540.md
+- Mana Ink Elemental - spirit or elemental; first 681-690.md
+- Mana Phantom - undead; first 401-410.md
+- Mana Ruby Wolf - canine; first 91-100.md
+- Mimic - ooze or mimic; first 81-90.md
+- Minotaur - animal or beast; first 531-540.md
+- Molten Infernal Skeleton Berserker - undead; first 521-530.md
+- Monster Fish - animal or beast; first 631-640.md
+- Mosquito - insect vermin or fungus; first 601-610.md
+- Moth - insect vermin or fungus; first 261-270.md
+- Mountain Goblin - humanoid monster; first 21-30.md
+- Mummy - undead; first 381-390.md
+- Mushroom Men - insect vermin or fungus; first 641-650.md
+- Mushroom People - insect vermin or fungus; first 641-650.md
+- Myrmeke - insect vermin or fungus; first 31-40.md
+- Myrmeke Queen - boss or slain target; insect vermin or fungus; first 31-40.md
+- Myrmeke Soldier - insect vermin or fungus; first 31-40.md
+- Myrmeke Worker - insect vermin or fungus; first 31-40.md
+- Mystical Dire Ruby Wolf - canine; first 191-200.md
+- Mystical Ruby Dire Wolf - canine; first 191-200.md
+- Mystical Ruby Fenrir - canine; Agni evolution option; first 341-350.md
+- Mystical Ruby Wolf - canine; first 101-110.md
+- Needle Moth - insect vermin or fungus; first 11-20.md
+- Needle Worm - insect vermin or fungus; first 11-20.md
+- Obsidian Golem - construct or spirit construct; first 531-540.md
+- Obsidian Skeleton - undead; first 261-270.md
+- Obsidian Skeleton Gargoyle - undead; first 261-270.md
+- Ogre - humanoid monster; first 221-230.md
+- Oni - fiend; first 571-580.md
+- Ooze - ooze or mimic; first 221-230.md
+- Orc - humanoid monster; first 41-50.md
+- Orthrus - canine; Agni evolution option; first 341-350.md
+- Owl - animal or beast; first 411-420.md
+- Pale Imp - fiend; first 81-90.md
+- Phantom - undead; first 281-290.md
+- Phoenix - animal or beast; first 341-350.md
+- Piranha - animal or beast; first 631-640.md
+- Praying Mantis - insect vermin or fungus; first 61-70.md
+- Purgatory Lich - boss or slain target; undead; first 281-290.md
+- Rat - insect vermin or fungus; first 1-10.md
+- Red Dragon - dragonkin; first 551-560.md
+- Red Orc - humanoid monster; first 321-330.md
+- Red Rat - insect vermin or fungus; first 91-100.md
+- Rock Golem - construct or spirit construct; first 521-530.md
+- Ruby Dire Wolf - canine; first 191-200.md
+- Ruby Golem - construct or spirit construct; first 81-90.md
+- Ruby Hound - canine; first 91-100.md
+- Ruby Salamander - animal or beast; first 121-130.md
+- Ruby Wolf - canine; first 81-90.md
+- Ruby Wolf Puppy - canine; juvenile or evolved form stage; first 81-90.md
+- Runic Golem - construct or spirit construct; first 101-110.md
+- Salamander - animal or beast; first 71-80.md
+- Scorpion - insect vermin or fungus; first 571-580.md
+- Serpent - animal or beast; first 561-570.md
+- Shade Stalker - first 681-690.md
+- Shade Terror - first 531-540.md
+- Shark - animal or beast; first 51-60.md
+- Silver Wolf - canine; first 61-70.md
+- Skeleton - undead; first 71-80.md
+- Skeleton Berserker - undead; first 251-260.md
+- Skeleton Champion - undead; first 161-170.md
+- Skeleton Soldier - undead; first 161-170.md
+- Skeleton Spearmaster - undead; first 251-260.md
+- Skeleton Warrior - undead; first 251-260.md
+- Slime - ooze or mimic; first 71-80.md
+- Snake - animal or beast; first 91-100.md
+- Solar Wolf - canine; Agni divine evolution line; first 701-710.md
+- Soul Carp - animal or beast; first 221-230.md
+- Specter - undead; first 441-450.md
+- Spider - insect vermin or fungus; first 31-40.md
+- Spider Golem - construct or spirit construct; first 161-170.md
+- Spiked Boar - animal or beast; first 11-20.md
+- Spiked Devil - fiend; first 81-90.md
+- Spirit Carp - spirit or elemental; first 531-540.md
+- Stone Giant - first 531-540.md
+- Stone Golem - construct or spirit construct; first 531-540.md
+- Storm Eagle - animal or beast; first 531-540.md
+- Succubus - fiend; first 61-70.md
+- Sun Wolf - canine; Agni divine evolution line; first 401-410.md
+- Sunlight Wolf - canine; Agni divine evolution line; first 341-350.md
+- Tiger - animal or beast; first 121-130.md
+- Titan - animal or beast; first 561-570.md
+- Toad - animal or beast; first 431-440.md
+- Tortoise - animal or beast; first 561-570.md
+- Tower Spirit - construct or spirit construct; first 411-420.md
+- Treant - plant or fey; first 641-650.md
+- Turtle - animal or beast; first 101-110.md
+- Undead Amphiptere - undead; first 661-670.md
+- Undead Draconic Lord - undead; first 661-670.md
+- Unicorn - animal or beast; first 111-120.md
+- Vampire - undead; first 21-30.md
+- Venomous Forest Wyrm - dragonkin; first 581-590.md
+- Venomous High Ghoul - boss or slain target; undead; first 181-190.md
+- Venomous Toad - animal or beast; first 641-650.md
+- Viper - first 281-290.md
+- Volcanic Dire Wolf - canine; first 191-200.md
+- Volcanic Golem - construct or spirit construct; first 81-90.md
+- Volcanic Hydra Tortoise Titan - boss or slain target; animal or beast; first 561-570.md
+- Volcanic Salamander - animal or beast; first 91-100.md
+- Volcanic Wolf - canine; first 91-100.md
+- Volcanic Worm - insect vermin or fungus; first 121-130.md
+- Vulture - animal or beast; first 411-420.md
+- Wasp - insect vermin or fungus; first 581-590.md
+- Water Elemental - spirit or elemental; first 531-540.md
+- Wereboar - first 11-20.md
+- Werewolf - first 291-300.md
+- Whale - animal or beast; first 661-670.md
+- Wind Elemental - spirit or elemental; first 31-40.md
+- Wisp - spirit or elemental; first 181-190.md
+- Wolf - canine; first 11-20.md
+- Wolf of Eclipse - canine; first 701-710.md
+- Wooden Commander - construct or spirit construct; first 301-310.md
+- Wooden Lord Commander - construct or spirit construct; first 311-320.md
+- Wooden Soldier - construct or spirit construct; first 301-310.md
+- Wooden Soldier Captain - construct or spirit construct; first 301-310.md
+- Wooly Mammoth - animal or beast; first 351-360.md
+- Worm - insect vermin or fungus; first 11-20.md
+- Wyrm - dragonkin; first 271-280.md
+- Wyvern - dragonkin; first 431-440.md
+- Zombie - undead; first 221-230.md

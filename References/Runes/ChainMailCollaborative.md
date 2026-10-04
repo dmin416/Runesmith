@@ -1,6 +1,8 @@
 # Chain Mail as One Collaborative Rune
 
-Research note: one shirt-wide rune network that pools rice-grain stones across links into the struck point. Stone rates: `../Science/ManaStones.md`. Path vs cast Useful: `Energy.md` / `../Science/ManaCast.md`. Strike energy bands: `../Combat/AttackScale.md`.
+> **Design loot.** Live locks: Energy.md (eta_cond feel order, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md. Non-canon here: path-% dials, dark/deep steel names, mythril-as-titanium, orichalcum as reduced-eta wire, adamantium as forgeable supersteel.
+
+Research note: one shirt-wide rune network that pools rice-grain stones across links into the struck point. Stone rates: `../World/Science/Energy/ManaStones.md`. Path vs cast Useful: `Energy.md` / `../World/Science/Energy/ManaCast.md`. Strike energy bands: `../Combat/AttackScale.md`.
 
 **Assumptions:** the same rice stone (**19** mana, **42** mana/s burst, **0.7** mana/s sustainable input) and **25,000** links (about **0.6 m²**, roughly **1** link per **25 mm²**). One stone per link unless noted. Refill from ambient or body over time is separate from rune logic. Useful joules use **η = 3** as a direct-cast upper bound (see Verdict).
 

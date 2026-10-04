@@ -1,14 +1,10 @@
 # Attack Scale
 
-Joule ladder for physical hits and mana barriers. Use this when a fight beat asks “does the shield hold?” or “how hard is that thrust?” Full formulas live in `../Science/ManaCast.md` and `../Progression/Progression.md`. This file is the **order-of-magnitude map** plus worked locks.
+Order-of-magnitude map for physical hits and mana barriers. Cast law: `../Runes/Energy.md`. Attributes: `../Progression/Progression.md`. Tip hardness / spell punch tables: `../World/Science/Energy/ManaCast.md`. Mage Hands timing: `MageDefense.md`.
 
-**Street baseline:** untrained adult **STR 15 / AGI 15**.
+## Street baseline
 
----
-
-## Physical output (STR / AGI)
-
-From `../Progression/Progression.md` / `../Science/ManaCast.md`:
+Untrained adult **STR 15 / AGI 15**.
 
 ```
 P        = 25 × AGI                         W
@@ -50,11 +46,9 @@ KE_tip ≈ ½ × m_eff × (k × v_s)²
 
 At `m_eff = 1.2 kg` and `k = 2–2.5`, AGI **120** tip KE sits **~4.3–6.7 kJ**; AGI **200** sits **~7–11 kJ**.
 
-**Table weapons at street stats** (Science human list): rapier thrust **30–60 J**, sword cut **60–130 J**, warhammer **200–400 J**. Those are **AGI ~15** anchors. Do **not** paste them onto a high-AGI T2 without scaling.
+**Table weapons at street stats:** rapier thrust **30–60 J**, sword cut **60–130 J**, warhammer **200–400 J**. Those are **AGI ~15** anchors. Do **not** paste them onto a high-AGI T2 without scaling.
 
 Rough scale of table thrust to high AGI: multiply by **AGI/15** if you only need a quick check (same √S speed → linear KE in AGI). Prefer the tip-KE formula for specialists.
-
----
 
 ## Mana Shield absorb pool
 
@@ -81,7 +75,7 @@ N        = floor(Pool / J_threat)    # whole attacks; N = 0 → pierces
 
 **Shape matters more than a small overcharge.** Same cast as a hard disk can stop what a body bubble cannot.
 
-### Profile pools (focused disk, M=100) for orientation
+### Profile pools (focused disk, M=100)
 
 | Profile | INT | L | Pool |
 |---|---|---|---|
@@ -91,9 +85,7 @@ N        = floor(Pool / J_threat)    # whole attacks; N = 0 → pierces
 | Adept | 100 | 5 | ~17 kJ |
 | Master | 200 | 7 | ~39 kJ |
 
----
-
-## Threat ladder (Science)
+## Threat ladder
 
 Ch 14 watcher Gale tip (AGI **120**, `k≈2–2.5`, `m_eff` 0.8–1.2) sits about **~3–7 kJ** before tip detonation.
 
@@ -109,13 +101,11 @@ Ch 14 watcher Gale tip (AGI **120**, `k≈2–2.5`, `m_eff` 0.8–1.2) sits abou
 | Dragon claw | 35,000 | — | — |
 | Trebuchet stone | 90,000 | — | — |
 
-Weapon rune blasts (e.g. detonation tip ~**100 MP** activation) sit on top of kinetic tip KE when the tip is lit.
-
----
+Weapon rune blasts (e.g. detonation tip) sit on top of kinetic tip KE when the tip is lit. Rune Useful uses η_cond × G (`../Runes/Energy.md`), not μ(INT).
 
 ## Worked lock: Ch 14 watcher vs Reyna shield
 
-**Levels:** watcher / T2 fencer overall **L55** (T1 **25** + ~**30** into T2). Becky / Sahildr / Reyna overall **~45** (second T1 deep, e.g. **25+~20**). Roland Mage **L25**. Sahildr’s “just advanced” line is trash talk; he is not a fresh T2.
+**Levels:** watcher / T2 fencer overall **L55** (T1 **25** + ~**30** into T2). Becky / Sahildr / Reyna overall **~45** (second T1 deep, e.g. **25+~20**). Roland Mage **L25**. Sahildr's "just advanced" line is trash talk; he is not a fresh T2.
 
 **Roland:** Mage L25 rewrite, INT **137**, Mana Shield **L6**. Casts a **bubble** on Reyna, screams / overcharges → treat **M ≈ 150–200**. Bubble pool **~6.7–9.0 kJ**.
 
@@ -128,23 +118,17 @@ Weapon rune blasts (e.g. detonation tip ~**100 MP** activation) sit on top of ki
 | AGI 120 + Gale Step (`k≈2–2.5`) | **~3–7 kJ** |
 | + tip detonation | higher still (blasts through after the tip holds) |
 
-**On-page result:** bubble holds a moment, tip bends then **blasts through** with explosion; Reyna’s dagger cannot fully fend → shoulder graze. Gale tip KE sits under or at the bubble’s low end; tip detonation finishes the pierce. A **focused disk** at the same mana (**~25–50 kJ**) would stop that thrust.
+**On-page result:** bubble holds a moment, tip bends then **blasts through** with explosion; Reyna's dagger cannot fully fend → shoulder graze. Gale tip KE sits under or at the bubble's low end; tip detonation finishes the pierce. A **focused disk** at the same mana (**~25–50 kJ**) would stop that thrust.
 
 Do not re-litigate this beat with street weapon table numbers.
 
----
-
-## Spell attack scale (pointer)
-
-Mana Bolt / Arrow useful energy:
+## Spell Useful energy
 
 ```
 Useful (J) = mana × 10 × η(L) × μ(INT)
 ```
 
-Voice sets mana (Bolt normal **25**, Arrow **2×** Bolt). Overcharge = mana used. Hardness gates for tips: `../Science/ManaCast.md`. Healing potions close flesh; they are not joule weapons (`../Items/Items.md`).
-
----
+Voice sets mana (Bolt normal **25**, Arrow **2×** Bolt). Overcharge = mana used. Hardness gates for tips: `../World/Science/Energy/ManaCast.md`. Healing potions close flesh; they are not joule weapons (`../Items/Items.md`).
 
 ## Quick checks
 
@@ -153,5 +137,10 @@ Voice sets mana (Bolt normal **25**, Arrow **2×** Bolt). Overcharge = mana used
 3. **Is a skill multiplying speed?** `k` on tip speed squares into KE.
 4. **N = 0** means pierce. **N ≥ 1** means that whole attack is eaten (then the pool drops for the next).
 
-Mage vs 2x physicalist (Mana Hands redirects, timing, energy): `MageDefense.md`.  
-**3x** tissue vs piercing depth / blunt survival: same file (`3x Everything`).
+## Locked keep
+
+Street STR/AGI 15 baseline. Tip KE from effective mass and tip speed. Speed skills raise tip speed factor k (KE scales with k²). Shield pools in joules; focused disk ≫ bubble per mana. Ch 14 bubble vs Gale tip lock above. Spell Useful as above. Hardness tables live in ManaCast.
+
+## Open
+
+Late raid math beyond the ladder stays unset until a fight beat needs a hard number.

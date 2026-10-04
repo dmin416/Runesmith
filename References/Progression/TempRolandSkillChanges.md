@@ -1,5 +1,7 @@
 # Temp: Roland Skill Changes
 
+> **Skill redesign loot.** Live skill law: Progression.md / Skills.md. Apply or merge when a beat needs it; not a second lock file.
+
 Temporary pass. Apply world laws from `../Ideas.md`: skills **L1–L9 then evolve**, effects must be felt, ranged focus, no Source padding. Merge into `Skills.md` / chapter screens when locked; delete or archive this file after.
 
 **Global rules for every skill below**

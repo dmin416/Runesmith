@@ -1,5 +1,7 @@
 # Spells
 
+> **Design loot / named catalog.** Magic foundation: `../Runes/Magic.md`. Cast physics: `../World/Science/Energy/ManaCast.md`. Path law: `../Runes/Energy.md`. Hands timing vs physicalists: `MageDefense.md`.
+
 Named magic and commonly referenced spell effects. Runic scroll versions are noted when the text treats them as spells.
 
 ## Mana and force
@@ -8,15 +10,15 @@ Named magic and commonly referenced spell effects. Runic scroll versions are not
 First seen: Chapter 5
 Focused mana projectile; early core mage spell. Tutorial clone demonstrates chant + palm form before the skill dump. Damage scales with Intelligence. Chapter 7–9 field use: egg-sized bolt after a full chant (*Source of all magic, heed my call!* / *Gather before me and strike down my enemies, Mana Bolt!* or shortened closing *Mana Bolt!*). Fine vs eyes and other weak spots; not rapid-fire. **Must chant while shaping**; shaping alone evaporates. Whisper chant works but lowers power. Panting or running collapses the cast. Aim can track with Dexterity / prior FPS habit. Chapter 27: lesser elemental grafts (same research track as Mana Arrow). Chapter 37: inscribed on bronze paddle wands (~75 MP per cast through the item).
 
-**Cast law (rewrite physics):** `Useful = mana × 10 × η(L) × μ(INT)` with `η(1)=0.3`, `η(L)=1+(L-2)×2/7` for L2–L9 (L2=1.0 … L9=3.0), and `μ=(INT/15)^0.8`. Voice sets mana: Mental **10**, Whisper **15**, Quiet **20**, Normal **25**, Loud **40**, Very loud **50**. **Overcharging a spell is equal to the mana used.** **1 mana ≈ 10 J** paid. Goblin skull/eye clear on L1 normal from mid INT; hardness and aim still gate armor. Full tables: `../Science/ManaCast.md`.
+**Cast law (rewrite physics):** `Useful = mana × 10 × η(L) × μ(INT)` with `η(1)=0.3`, `η(L)=1+(L-2)×2/7` for L2–L9 (L2=1.0 … L9=3.0), and `μ=(INT/15)^0.8`. Voice sets mana: Mental **10**, Whisper **15**, Quiet **20**, Normal **25**, Loud **40**, Very loud **50**. **Overcharging a spell is equal to the mana used.** **1 mana ≈ 10 J** paid. Goblin skull/eye clear on L1 normal from mid INT; hardness and aim still gate armor. Full tables: `../World/Science/Energy/ManaCast.md`.
 
 ### Mana Arrow
 First seen: Chapter 10
-Faster, more penetrating mana projectile than Mana Bolt. Costs more mana and needs a longer cast. Roland’s nest-opener from ~100 m trees; Chapter 11 entrance dungeon-rat one-shot. Class-granted with Mage progression (knowledge dump at level thresholds). Chapter 20 shop scroll: **1 small silver**. Chapter 27: Roland grafts lesser elemental variants (wind / fire / water) onto Mana Arrow base via Debugger research.
+Faster, more penetrating mana projectile than Mana Bolt. Costs more mana and needs a longer cast. Roland’s nest-opener from ~100 m trees; Chapter 11 entrance dungeon-rat one-shot. Class-granted with Mage progression (knowledge dump at level thresholds). Chapter 20 shop scroll: **1 small silver**. Chapter 27: Roland grafts lesser elemental variants (wind / fire / water) onto Mana Arrow base via Diagnosis research.
 
 **Locked chant:** *Source of all magic, heed my call. Gather before me and form an arrow to pierce through my enemies. Mana Arrow.* Short fight close: *Mana Arrow!*
 
-**Rewrite physics:** pure kinetic (no pop), 4 mm × 400 mm, 40 g. Same cast law as Mana Bolt at **2× voice mana** (Mental **20**, Whisper **30**, Quiet **40**, Normal **50**, Loud **80**, Very loud **100**). Overcharge = mana used. Punch `1.5 × R × A × t` (A = 0.1257 cm²). Hardness gate `H ≥ 1.5 R` before joules count: INT 40 clears mail, not brigandine/iron/steel. Hidden razor vanes slice on through-shots only. Full tables: `../Science/ManaCast.md` (Mana Arrow).
+**Rewrite physics:** pure kinetic (no pop), 4 mm × 400 mm, 40 g. Same cast law as Mana Bolt at **2× voice mana** (Mental **20**, Whisper **30**, Quiet **40**, Normal **50**, Loud **80**, Very loud **100**). Overcharge = mana used. Punch `1.5 × R × A × t` (A = 0.1257 cm²). Hardness gate `H ≥ 1.5 R` before joules count: INT 40 clears mail, not brigandine/iron/steel. Hidden razor vanes slice on through-shots only. Full tables: `../World/Science/Energy/ManaCast.md` (Mana Arrow).
 
 ### Magic Bolt
 First seen: Chapter 9
@@ -30,7 +32,7 @@ Guided or homing mana arrow variants.
 First seen: Chapter 10
 Mana barrier for caster or allies. One of Mage’s three basic class spells with Bolt and Arrow. Chapter 11 party cast on Sahildr vs a spiked boar: *Source of all magic, heed my call. Let your strength be mine and protect which I deem worthy.* / *Mana Shield!* Blue bubble forms then shrinks to a **hard disk** over the target’s front (Source: bubble aid only). Chapter 14: extra mana poured into the bubble around Reyna vs a T2 fencer thrust; still pierced but bought the parry. Chapter 27: can reshape lesser shield into a tight earth wall (and other elemental variants) via surface rune edits.
 
-**Rewrite physics:** `N = floor(20 × M × η × μ × S × R / J)` with shared η/μ. **Baseline M = 100.** Focused disk A = 0.2 m² (S = 1, R = 1); semicircle A = 6.28 m² (S ≈ 0.178, R = 1 - 0.628 t / M). Threat J table and hit counts: `../Science/ManaCast.md` (Mana Shield).
+**Rewrite physics:** `N = floor(20 × M × η × μ × S × R / J)` with shared η/μ. **Baseline M = 100.** Focused disk A = 0.2 m² (S = 1, R = 1); semicircle A = 6.28 m² (S ≈ 0.178, R = 1 - 0.628 t / M). Threat J table and hit counts: `../World/Science/Energy/ManaCast.md` (Mana Shield).
 
 ### Lesser Shield
 First seen: Chapter 167
@@ -38,7 +40,7 @@ Lower-tier shield spell.
 
 ### Mana Hands / Mana Hand / Mage Hand
 First seen: Chapter 10
-Move objects with mana (lift, fetch, hold, shove). Visible hands are optional; the name stuck. Weight and range scale with Intelligence. Self-discovered early (not a free class grant). Mage Hand is the common cast name later. Lift / throw / hold energy tables: `../Science/ManaCast.md` (Mana Hands). Mind-speed blade redirects vs a faster stronger attacker: `MageDefense.md`. Chapter 12 dungeon cook: eight concurrent Hands over skewers; ranks up on-page (unnoticed) and unlocks **Multitasking**.
+Move objects with mana (lift, fetch, hold, shove). Visible hands are optional; the name stuck. Weight and range scale with Intelligence. Self-discovered early (not a free class grant). Mage Hand is the common cast name later. Lift / throw / hold energy tables: `../World/Science/Energy/ManaCast.md` (Mana Hands). Mind-speed blade redirects vs a faster stronger attacker: `MageDefense.md`. Chapter 12 dungeon cook: eight concurrent Hands over skewers; ranks up on-page (unnoticed) and unlocks **Multitasking**.
 
 ### Lesser Mana Burst
 First seen: Chapter 437
@@ -52,7 +54,7 @@ Large destructive projectile spell.
 
 ### Ember
 First seen: Chapter 10
-Small fire via mana friction. Self-discovered early with Mana Hands. Utility ignite. Ignition energy table: `../Science/ManaCast.md` (Ember).
+Small fire via mana friction. Self-discovered early with Mana Hands. Utility ignite. Ignition energy table: `../World/Science/Energy/ManaCast.md` (Ember).
 
 ### Fire Bolt / Firebolt
 First seen: Chapter 31
@@ -100,7 +102,7 @@ Fast wind projectile scroll (faster than Fire Arrow; less fire damage). Roland b
 
 ### Lesser Smoke Arrow
 First seen: Chapter 26
-Weak smokescreen arrow. Roland grafts Lesser Smoke Arrow Rune **[Lowest]** by combining Common Fire Arrow + Gale Arrow parts (~1 week of random Debugger swaps). Hoped for frostfire; got a barely working smokescreen with heavy red faults.
+Weak smokescreen arrow. Roland grafts Lesser Smoke Arrow Rune **[Lowest]** by combining Common Fire Arrow + Gale Arrow parts (~1 week of random Diagnosis swaps). Hoped for frostfire; got a barely working smokescreen with heavy red faults.
 
 ## Ice, water, and cold
 
@@ -242,13 +244,13 @@ Cooling spell for environment or body.
 
 ### Light
 First seen: Chapter 1
-Simple light orb. **Roland:** not on sheet yet; listed under Future to gain in `Story/Notes/Skills.md` (with Detection and Sound Barrier).
+Simple light orb. **Roland:** not on sheet yet; listed under Future to gain in `../../Story/Notes/Skills.md` (with Detection and Sound Barrier).
 
 ### Detection (planned)
-Not gained yet. Sense living things / mana signatures in a radius. See `Story/Notes/Skills.md` Future to gain.
+Not gained yet. Sense living things / mana signatures in a radius. See `../../Story/Notes/Skills.md` Future to gain.
 
 ### Sound Barrier (planned)
-Not gained yet. Softens sound leaving or entering a small bubble. See `Story/Notes/Skills.md` Future to gain.
+Not gained yet. Softens sound leaving or entering a small bubble. See `../../Story/Notes/Skills.md` Future to gain.
 
 ### Gravity magic / gravity field
 First seen: Chapter 642

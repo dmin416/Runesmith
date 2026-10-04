@@ -1,6 +1,8 @@
 # Mana Materials Science
 
-Proposal note for path materials, fantasy metals and elemental craft. **Not fully locked.** Bookkeeping unit matches `Energy.md` (`1 mana = 10 J`). Earth alloy production: `../Science/Materials.md`. Ore map: `../Science/MetalOres.md`. Novel metal blurbs: `../Science/KitchenCraft.md`. Affinities: `../Progression/Attributes.md`. Path efficiencies in this file are the derived values. Values from `Energy.md` are not canon here.
+> **Design loot.** Live locks: Energy.md (eta_cond feel order, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md. Non-canon here: path-% dials, dark/deep steel names, mythril-as-titanium, orichalcum as reduced-eta wire, adamantium as forgeable supersteel.
+
+Proposal note for path materials, fantasy metals and elemental craft. **Not fully locked.** Bookkeeping unit matches `Energy.md` (`1 mana = 10 J`). Earth alloy production: `../World/Science/Metallurgy/EarthAlloys.md`. Ore map: `../World/Science/Metallurgy/MetalOres.md`. Novel metal blurbs: `../World/Science/Metallurgy/KitchenCraft.md`. Affinities: `../Progression/Attributes.md`. Path efficiencies in this file are the derived values. Values from `Energy.md` are not canon here.
 
 **1 mana = 10 J.** Path cost never changes. Efficiency and ambient gain change **output** and **waste** only.
 
@@ -139,7 +141,7 @@ Nonmagnetic austenitic hosts → **high η** (~75–76% on this dial). Best comm
 - **Quench is rare** on gear-grade stock. If it quenches, fall back toward ordinary poor-wire η (titanium-alloy band is the Earth dial for that fallback only) and dump heat. Do not treat quench as the normal failure of a mithril wand.
 - **Pattern stability:** written patterns follow Néel-Arrhenius fading. **Δ** is the stability factor and characteristic lifetime is about **1×10⁻⁹ s × e^Δ**. **Wipe T** is the temperature where that lifetime collapses to minutes or less (ordering / Curie analog). Gear-grade mythril aims for **Δ ≈ 45 or more**, which survives combat heat near **350 K** for days to years. A forge fire can still erase a pattern. That is a forge hazard, not a fight tax. Heat fade is not the deep-metal resistance axis (section 2).
 
-Shop notes: `../Science/CraftMetal.md` (Mythril). Sterling / eutectic metallurgy pointers: `../Science/Materials.md`.#### Superconducting windings (invent / prestige apps)
+Shop notes: `../World/Science/Metallurgy/CraftMetal.md` (Mythril). Sterling / eutectic metallurgy pointers: `../World/Science/Metallurgy/EarthAlloys.md`.#### Superconducting windings (invent / prestige apps)
 
 A superconducting winding is a coil of wire made from superconducting material. Like a copper winding, it carries current to create a magnetic field. The difference is that current flows with zero resistance (mythril / aether-mithril path mode).
 
@@ -169,7 +171,7 @@ Companions: `../Science/Batteries.md` (stone vs cell power), `../Science/Refined
 - **Aether mithril:** etherium phase. Superconducting **96%** dial. Higher Jc / storage.
 
 ### Orichalcum
-**Magical titanium** (`../Science/CraftMetal.md`). Goldish prestige metal. Mana mode: **reduced wire** at the titanium band (**~66.7%**, same dial as Ti-6Al-4V). Owns titanium’s poor mana conductivity and titanium shop chemistry. **Mythril is unrelated.** **Adamantium is the supersteel**, not this.
+**Magical titanium** (`../World/Science/Metallurgy/CraftMetal.md`). Goldish prestige metal. Mana mode: **reduced wire** at the titanium band (**~66.7%**, same dial as Ti-6Al-4V). Owns titanium’s poor mana conductivity and titanium shop chemistry. **Mythril is unrelated.** **Adamantium is the supersteel**, not this.
 
 - Poor channel. **Never** a rune host or written-pattern metal. Cannot be imbued.
 - Thick plate and armor pass almost no mana (Source anti-magic armor / anvil story). Thin foil still leaks.
@@ -177,7 +179,7 @@ Companions: `../Science/Batteries.md` (stone vs cell power), `../Science/Refined
 - Full orichalcum kit is rare prestige: mage-hostile, and empty of enchantments.
 
 ### Adamantium
-**Supersteel.** Magically saturated ultra-steel: extreme hardness and stiffness at weapon weight. Window-mode top path (~**98%**). Diamond-like thermal spreading + mana-supported hardness. Shop: `../Science/CraftMetal.md`.
+**Supersteel.** Magically saturated ultra-steel: extreme hardness and stiffness at weapon weight. Window-mode top path (~**98%**). Diamond-like thermal spreading + mana-supported hardness. Shop: `../World/Science/Metallurgy/CraftMetal.md`.
 
 **Forge story (aligned with novel):** heat **does** enter, but high **k** dumps it into tongs, anvil and air. Smiths must pour **infernal** power and fire-resist skill to keep the whole thermal mass at forging T. That is why records talk of deaths in the heat, not because the piece cannot be heated at all.
 
