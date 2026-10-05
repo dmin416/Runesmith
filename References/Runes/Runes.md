@@ -11,6 +11,7 @@ Named rune catalog and chapter first-seens. Character skills that manipulate run
 | `EnergyDesign.md` | Electrical analogy, wear / body-path proposals (path-% non-canon) |
 | `Magic.md` | Enchant vs rune vs scrolls |
 | `Nature.md` | Worldview: segments, pathways, law / causality |
+| `RuneCauseEffect.md` | Sample → segments learned → immediate applications (rewrite) |
 | `RuneSystem.md` | Pathway model, ceilings, harmonics (design) |
 | `RuneSetup.md` | Setup pour costs (design) |
 | `ManaMaterials.md` | Path material modes (design; Metals naming wins; path-% quarantined) |
@@ -75,7 +76,7 @@ Scorching fire effect on blades (safe for weapon and user). Roland borrows schem
 
 ### Lesser Smoke Arrow Rune
 First seen: Chapter 26
-Smoke / smokescreen arrow. Roland grafts it **[Lowest]** by combining Common Fire Arrow + Gale Arrow parts via Diagnosis (~1 week of random swaps). Hoped for frostfire (possibly T3 territory); got a weak smokescreen with heavy red faults.
+Smoke / smokescreen arrow. Rewrite: deliberate Fire + Gale stage graft via Diagnosis (isolate turbulence / incomplete burn). May land **[Lowest]** with heavy red faults if pathways are dirty; frostfire may need higher rank. Source's week of random swaps is dropped (`RuneCauseEffect.md`).
 
 ### Common Frost Arrow Rune
 First seen: Chapter 26
@@ -118,8 +119,7 @@ First seen: Chapter 35
 Fire resistance. Roland's Runic Blacksmith trial item: Ladle of Lesser Fire Resistance [Lesser: Lowest, High] (high rune on crude iron).
 
 ### Poison / curse resistance runes
-First seen: Chapter 12
-Elemental-resistance family Roland recreates for armor.
+First seen: Chapter 71 (recreates full elemental-resistance suite for armor, including rarer poison / curse). Not Ch 12: that beat is eating mild poison for a **skill** resistance, not a rune schematic.
 
 ### Lesser Light Rune
 First seen: Chapter 240

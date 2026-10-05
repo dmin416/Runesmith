@@ -7,6 +7,7 @@ Author design lock for how runes and magic work in the rewrite. Engineering deta
 | File | Role |
 |---|---|
 | `Nature.md` | What runes and magic *are* (this file) |
+| `RuneCauseEffect.md` | Sample → segments → what Roland builds next |
 | `RuneSystem.md` | Stages, ranks, harmonics, layout |
 | `RuneSetup.md` | Setup pour costs |
 | `Energy.md` | Activation, path / ambient / wear (eta_cond feel order) |
@@ -39,7 +40,7 @@ Author design lock for how runes and magic work in the rewrite. Engineering deta
 
 - Ch 15–16: Diagnosis shows large pathway stages in a flow. Technology fills knowledge gaps on encounter. Fire Orb trial = **five large regions** in a **linear chain** (giant letters). No binary / chips on-page.
 - Ch 19: segments are **large and linear**; pathways link stage to stage; shared rules across samples. Custom work = rearrange or swap **large stages** on a whole sheet (cut-paper overlays fail). Not a buried-code mystery.
-- Later grafts (Smoke Arrow, series/parallel tests) are experiments on this same causal machine model, not a second magic system.
+- Grafts are deliberate stage swaps on this causal model, not blind luck. Full unlock map: `RuneCauseEffect.md` (learn a job → use it immediately).
 
 ## Enchantments vs runes
 
