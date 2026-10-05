@@ -6,7 +6,8 @@ Things that still need resolving in live `References/`. Trust disk, not Grep gho
 
 1. **Fat Design absorb** Lean hubs + `*Design.md` / SourceLoot exist for Places, Creatures, Mounts, Economy, Races, Classes, Skills, AdventurerRanks. Pull when a beat needs them.
 2. **Runes design dials** Live under `References/Runes/` (`RuneSystem`, `RuneSetup`, `EnergyDesign`, `ManaMaterials`). Host η% / old path-% tables stay dead; quality η_cond is live in `Energy.md`. Metal parent names follow `Materials/Metals.md`. Pull setup ceilings only when a beat needs them.
-3. **PotentialMagic design use** Live under `References/PotentialMagic/`. Idea space only; do not invent D kit from it.
+3. **Rune fluency fill-as-written** Segment logic is locked (`RuneCauseEffect.md`). Sample schedule, seeker first-find, Edelgard product list, and schematic-XP retune stay open until chapter prose names them. Do not invent those dates.
+4. **PotentialMagic design use** Live under `References/PotentialMagic/`. Idea space only; do not invent D kit from it.
 
 ## Optional / preference
 

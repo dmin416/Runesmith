@@ -40,7 +40,8 @@ Lock live canon under `References/`. Rewrite prose: `Story/Chapters/`. Treat `Re
 
 ## Current next
 
-1. Soft Conflicts scrub when touching that file (Metals host wording, ManaMaterials Earth names, ChainMail/RuneSystem old worked math, tip-KE vs strike_power).
+1. User writes. Fill rune cause-effect, sample dates, and related notes **when a beat lands**; do not pre-schedule the catalog (`Runes/RuneCauseEffect.md`).
+2. Soft Conflicts scrub when touching that file (Metals host wording, ManaMaterials Earth names, ChainMail/RuneSystem old worked math, tip-KE vs strike_power).
 
 ## Just done
 

@@ -4,6 +4,8 @@
 
 This file is the living map of **what Roland learns when** and **what he does with it**. Source pacing that makes him sit on parts for months without combining them is discarded. He is intuitive and causal: once Diagnosis shows a segment's job, he uses it.
 
+**Fill as written.** The user writes chapters. Do not invent sample dates, product lists, or ledger rows ahead of the prose. When a beat names a sample or a graft, add the cause → effect here and update `Runes.md` if the name is new.
+
 ## Core rule
 
 1. A rune is a machine of **segments** (large stages with jobs). Same rules across samples (`Nature.md`).
