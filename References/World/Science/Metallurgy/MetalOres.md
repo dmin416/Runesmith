@@ -1,5 +1,8 @@
 # Where to Find Extractable Metals
 
+> **Earth / invent geography.** Gate with `../../Materials/Materials.md`.
+> COMMON extract focus: Cu, Fe, Ag, Au, Sn, calamine (for brass). Chromite→stainless, metallic Zn retort, Kroll Ti, Al = **SPECIALTY** / invent unless a beat locks them. Public Ti stock = **adamantium** (converted Ti, `Metals.md`); mundane sponge Ti not street.
+
 Earth ore geography and processing for a setting with alchemy and magical high heat. Alloy properties and industrial vacuum routes: `EarthAlloys.md`. Forge / barrier craft: `CraftMetal.md`. Hub: `../Science.md`.
 
 General terms:
@@ -21,7 +24,7 @@ Dark, heavy, olive-green rock like peridotite and serpentine.
 - **Found in:** chromite, dense black seams in layered intrusions and lumps in mountain belts where old ocean floor was pushed onto land.
 - **Processing:**
   1. Crush the chromite and pick out the heavy black grains by washing.
-  2. For alloying into steel: smelt the chromite with charcoal or coke in a very hot furnace. The result is ferrochrome (iron-chromium), which is added to molten iron to make stainless steel.
+  2. For alloying into steel: smelt the chromite with charcoal or coke in a very hot furnace. The result is ferrochrome (iron-chromium). Adding it to make stainless = **SPECIALTY** / invent (`Materials.md`); not Caldris baseline cookware or plate.
   3. For pure chromium: roast the ore with soda ash and lime in open air. This makes soluble sodium chromate.
   4. Leach with water and acidify to drop out chromium oxide.
   5. Reduce the oxide with powdered aluminum (thermite reaction) or with alchemy. Carbon alone leaves a brittle carbide.
@@ -161,13 +164,14 @@ Dark, heavy, olive-green rock like peridotite and serpentine.
 
 ### Zinc
 
-- **Found in:** sphalerite and smithsonite, often in limestone.
-- **Processing:**
+- **Found in:** sphalerite and smithsonite / calamine, often in limestone. **Calamine ore = COMMON** for brass.
+- **Baseline brass (COMMON):** cementation with calamine → `Brass.md` (no metallic Zn needed).
+- **Metallic Zn (SPECIALTY):**
   1. Roast sphalerite to zinc oxide (smithsonite just needs calcining).
   2. Mix the oxide with charcoal in a sealed retort with a cooled outlet.
   3. Heat above **907 °C**. Zinc boils off as vapor and condenses as liquid metal.
   4. Keep air out entirely or the vapor burns back to oxide.
-- **Notes:** Mixed with copper it makes brass. Zinc coating protects iron from rust. Brass production: `EarthAlloys.md`.
+- **Notes:** Do not assume Zn ingots as street stock. Galvanizing / pure-Zn shop = SPECIALTY. Earth alloy encyclopedia: `EarthAlloys.md`.
 
 ### Cadmium
 
@@ -214,14 +218,15 @@ Dark, heavy, olive-green rock like peridotite and serpentine.
 
 ### Titanium
 
-- **Found in:** rutile and ilmenite in black beach and river sands.
-- **Processing:**
+- **Terra public stock:** **adamantium** (converted Ti). Mundane Ti sponge / Kroll plate is **not** street form (`Metals.md`).
+- **Found in:** rutile and ilmenite in black beach and river sands (Earth / invent path).
+- **Processing (SPECIALTY invent):**
   1. Separate the black sand by magnet and washing.
   2. Heat rutile with carbon in a stream of chlorine gas. The product is titanium tetrachloride, a fuming liquid.
   3. Distill the liquid to purify it.
   4. Reduce with molten magnesium or sodium in a sealed vessel with no air.
   5. Dissolve out the magnesium chloride to leave porous titanium sponge then press and melt.
-- **Notes:** Melts at **1668 °C**. Hot titanium absorbs oxygen and nitrogen from air and turns brittle so the whole process must be shielded. Chlorine gas is deadly. Full Kroll detail: `EarthAlloys.md` (Ti-6Al-4V).
+- **Notes:** Melts at **1668 °C**. Hot titanium absorbs oxygen and nitrogen from air and turns brittle so the whole process must be shielded. Chlorine gas is deadly. Full Kroll detail: `EarthAlloys.md` (Ti-6Al-4V encyclopedia only).
 
 ### Zirconium
 

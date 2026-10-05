@@ -1,6 +1,6 @@
 # Rune Establishing Cost (Ideas)
 
-> **Design loot.** Live locks: Energy.md (eta_cond feel order, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md. Non-canon here: path-% dials, dark/deep steel names, mythril-as-titanium, orichalcum as reduced-eta wire, adamantium as forgeable supersteel.
+> **Design loot.** Live locks: Energy.md (eta_cond feel order, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md (Ag mythril, Au orihalcum, Cu aurium, Fe/steel dark→star, Ti adamantium). Non-canon here: path-% dials; adamantium as forgeable post-set supersteel.
 
 Basis for setup mana going forward (not frozen; dials stay open). Companion to the rune redesign in `RuneSystem.md` (ranks, qualities, harmonics) and the energy baseline in `Energy.md` (activation cost, efficiency, heat). Activation, efficiency and heat rules stay in those files.
 
@@ -11,7 +11,7 @@ Basis for setup mana going forward (not frozen; dials stay open). Companion to t
 | Term | Meaning |
 |---|---|
 | Setup | Mana the crafter pours once to establish the pathways in a material |
-| Activation | Mana paid every cast. Fixed cost from the baseline. Scrolls add a filtration tax (canon, ../Ideas.md). |
+| Activation | Energy paid every cast (mana; runic may use stamina, `Energy.md`). Fixed cost from the baseline. Runic scrolls add a filtration tax on that energy (canon, ../Ideas.md / Magic.md). |
 | Charge | Mana that sits inside the rune after setup and can feed activation |
 
 ## Does the setup mana stay in the rune?
@@ -98,26 +98,27 @@ A Lesser firecracker rune at L9 costs 100 mana or about one goblin leader stone 
 
 ### Material factor
 
-M = sqrt(strain capacity / 140). Capital against running cost. Better metal costs more to set and sheds less waste every cast.
+M = sqrt(strain capacity / 140). Capital against running cost. Cleaner path hosts cost more to set and shed less waste every cast. Waste feel follows each host's job in Energy.md. There is no locked (1 − η) column.
 
-| Metal | M | Lesser firecracker at L0 | Waste per mana (1 - η) |
+| Metal | M | Lesser firecracker at L0 | Waste feel |
 |---|---|---|---|
-| Iron | 0.71 | 710 | 0.40 |
-| Copper | 1.00 | 1,000 | 0.20 |
-| Steel | 1.22 | 1,220 | 0.15 |
-| Dark steel | 1.41 | 1,410 | 0.12 |
-| Mana steel | 2.00 | 2,000 | 0.08 |
-| Mythril | 2.83 | 2,830 | 0.05 |
-| Adamantium | 4.00 | 4,000 | 0.02 |
+| Iron | 0.71 | 710 | worst common path; cooks and dies fast |
+| Copper | 1.00 | 1,000 | decent mid host |
+| Steel | 1.22 | 1,220 | better than iron before conversion |
+| Darksteel | 1.41 | 1,410 | cleaner and tougher than steel |
+| Star steel | 2.00 | 2,000 | strong durable channel stock |
+| Mythril | 2.83 | 2,830 | cleanest common host |
 
-Mythril costs 4 times iron to set and wastes one eighth as much per cast.
+Orihalcum and adamantium are not setup hosts. Orihalcum swallows seating. Adamantium will not take alteration and may only cover a real inlay underneath.
+
+Mythril costs about 4 times iron to set and lasts far longer under the same cast load.
 
 ## Optional Modifiers
 
 | ID | Idea | Rule | Effect |
 |---|---|---|---|
 | O1 | Fineness premium | +25 percent per size step down (sword to dagger to card) | Card costs 1.56 times. Matches the canon that compression cuts headroom. |
-| O2 | Site density | Setup draws ambient like activation. Cost / sqrt(G). | Sealed 1.00. Indoors 0.82. Open air 0.58. Dense 0.41. Forges sit on mana-rich ground. |
+| O2 | Site density | Setup draws ambient like activation. Cost / A with A = √C. | Sealed A=1 → 1.00. Sample denser sites cheaper (indoors ~0.82, open air ~0.58, dense ~0.41). Forges sit on mana-rich ground. |
 | O3 | Pour rate and rush | 20 mana per minute. Pouring twice as fast adds 50 percent mana. | Time is a cost. Rushing burns extra mana. |
 | O4 | Team pour | N crafters pour in parallel with 1 percent sync loss per extra crafter | 20 crafters run at 0.81 x 20 = about 16 times the solo speed. |
 
@@ -126,11 +127,11 @@ Mythril costs 4 times iron to set and wastes one eighth as much per cast.
 | ID | Model | Setup mana | Activation | Notes |
 |---|---|---|---|---|
 | P1 | Spent structure (default) | Consumed into the pathways | Fully separate. Wielder or stone pays every cast. | Pathways are the whole value. Simplest bookkeeping. Everything below is optional on top. |
-| P2 | Standing charge | Setup spent plus an optional fill of the Reservoir | Draws charge first then the wielder | Capacity 1 mana per mm³ (stone figure as placeholder). A sword Reservoir of 500 mm³ holds 500 mana or 10 casts at 50. Storing costs 1.31 mana per mana (body 0.90 x intake 0.85). |
+| P2 | Standing charge | Setup spent plus an optional fill of the Reservoir | Draws charge first then the wielder | Capacity 1 mana per mm³ (stone figure as placeholder). A sword Reservoir of 500 mm³ holds 500 mana or 10 casts at 50. Storing costs extra mana for body-path feel and intake loss (digits open). |
 | P3 | Trickle refill | P2 plus slow ambient intake refills the charge | As P2 | Rate = intake area x local density. Idle weapons top up on mana-rich ground. |
 | P4 | Leak | P2 with charge decay of 2 percent per day | As P2 | 30 days leaves 55 percent. Prevents hoarding. Prepaid weapons need topping. |
 | P5 | Stone slot | Setup plus 10 percent for the socket | Stone supplies 40 percent (canon) so a 50 mana cast costs the wielder 30 | Stone capacity is volume-based (1 mana per mm³). Dump and refill rates are area-based and scale with quality; quality does not raise capacity (../World/Science/Energy/ManaStones.md). |
-| P6 | Standing reservation | Setup spent | Passive runes lock part of the pool while running. Example: 10 percent of the pool per piece (canon: 100 on a 1000 pool). | Upkeep is a locked pool with no drain. An adult pool of 2000 locks 200 per piece. |
+| P6 | Standing reservation | Setup spent | Passive runes lock part of the pool while running. Example: 10 percent of the pool per piece (canon: 100 on a 1000 pool). | Upkeep is a locked pool with no drain. A street all-15 MP of 210 locks about 21 per piece at that example rate. |
 | P7 | Maker bond | Setup leaves the maker's signature in the pattern | Maker pays 10 percent less. Others pay full. | Rewards keeping a signature weapon. Sale changes the bond. |
 | P8 | Material-paid setup | Ink or paste made from stone dust or monster blood pays part of setup at 70 percent recovery | Separate | A pea stone (180) yields 126 mana which covers a Lesser firecracker rune at L9 (100). A cube (1000) yields 700. |
 | P9 | Prepaid scroll | Setup plus the activation charge poured by the crafter | User pays only the start cost | Total = setup + 1.31 x activation. Common Fire Arrow at L5: 1,000 + 131 = 1,131 mana. Differs from the canon default where the user pays through filtration. |
@@ -152,7 +153,7 @@ Costs use the crafter's current setup (C and S and M applied).
 | C5 | Retune | 25 percent of setup | Moves the rune to a new natural tone. |
 | C6 | Compress | Fineness premium difference (O1) plus 25 percent | Re-sets into a smaller form. Headroom drops. |
 | C7 | Empower | No setup. Charge only (P11). | Break risk. |
-| C8 | Erase | No refund | Stored charge returns at 0.90 (body efficiency). |
+| C8 | Erase | No refund | Stored charge returns at living-path feel (digits open). |
 
 Upgrade payback on the steel sword attack: Intermediate to Highest saves 75 mana per cast (125 to 50) and costs two steps or 50 percent of setup. A Lesser firecracker rune at L0 pays back 500 in 6.7 casts. At L9 it pays back 50 in 0.7 casts.
 
@@ -173,11 +174,11 @@ Totals use unrounded factors (shown here to enough decimals to reproduce by hand
 
 ## Considerations
 
-- Early tension. A Lesser rune costs 900 at L1 or 0.45 of an adult pool (canon: running out of mana while crafting basic runes is a main early tension). At 20 mana per minute that is 45 min which matches the canon Fire Orb runic scroll at about 45 min if that scroll sits at C 1.
-- Scroll day. A Common Fire Arrow costs 2,000 at L0. Canon 5 to 6 a day costs 5,500 at L5 (2.75 adult pools) against a daily regen of 2.67 pools (9 h empty to full). That matches the canon L5 grind (Ch 22) and drains hard. The crafter finishes at zero and takes the canon headache and next-day regen debuff. At L9 the same day costs 1,100 or 0.55 of a pool.
+- Early tension. A Lesser rune costs 900 at L1. Street all-15 bare MP is **210** (`../Progression/Attributes.md`), so early setup is several street pools or needs stone banks (canon: running out of mana while crafting basic runes is a main early tension). At 20 mana per minute that is 45 min which matches the canon Fire Orb runic scroll at about 45 min if that scroll sits at C 1.
+- Scroll day. A Common Fire Arrow costs 2,000 at L0. Canon 5 to 6 a day costs 5,500 at L5 against street MP 210 that is many pool-fills; stones and ambient absorb carry the grind. That matches the canon L5 drain (Ch 22). The crafter finishes at zero and takes the canon headache and next-day regen debuff. At L9 the same day costs 1,100 (~5.2 street pools).
 - Quality is free at build. Every crafter builds the best quality reachable. Skill and comprehension gate the reach and mana does not.
-- Skill drives price. An L9 crafter sets the same rune for one ninth of an L1 crafter's mana (100 against 900 at Lesser) so masters undercut novices by nine times before wages. Scroll price can track setup mana (canon: runic Fire Arrow costs 6 to 7 times a regular scroll).
-- Setup is small next to a run. An airship setup costs 9 adult pools at L0 (0.9 pool at L9) against a 95 GJ run. Stone banks and ambient intake carry activation (rune file, Power source) and setup stays a crafter's job. Team pour (O4) only buys speed.
+- Skill drives price. An L9 crafter sets the same rune for one ninth of an L1 crafter's mana (100 against 900 at Lesser) so masters undercut novices by nine times before wages. Scroll price can track setup mana. Dusty shelf runic Fire Arrow can list ~6–7× a cheap regular (**vanity**); fair High Common is **10 SS** vs word Fire Arrow **6 SS** (`ScrollEconomy.md`).
+- Setup is small next to a run. An airship setup at L0 is tens of street-all-15 pools (far fewer at L9) against a 95 GJ run. Stone banks and ambient intake carry activation (rune file, Power source) and setup stays a crafter's job. Team pour (O4) only buys speed.
 - Setup adds no heat and no strain. Wear stays as in the baseline.
 - Mastery discounts activation only (canon), for both items and scrolls. It never touches setup cost.
 - Setup cost has exactly one discount channel per medium, never two stacked together. Items: **Runecraft**'s skill-level S factor only. Scrolls: **Basic Rune Scribing**'s skill-level S factor only (−10%/level, capped −90% at L9 — same shape as Runecraft, `Progression/Skills.md`). Both are skill bonuses, so both persist through any later class change.
@@ -186,7 +187,7 @@ Totals use unrounded factors (shown here to enough decimals to reproduce by hand
 ## Open Dials
 
 - Base progression of 1,000 and 2,000 and 3,000 and 5,000 and 10,000. Legendary top complexity assumes x2.
-- The adult pool of 2000 is a proposal. Every pool share above moves with it.
+- Street bare all-15 MP is **210** (`Attributes.md`). Large setup / scroll-day shares are stone-banked; do not invent a 2000 adult pool.
 - Complexity driver sizes. Skill ladder of 10 percent per level.
 - Pour rate of 20 mana per minute (fits the canon Fire Orb time at L1).
 - Charging efficiency (0.85 intake) and leak rate (2 percent per day) and stone slot socket cost (10 percent).

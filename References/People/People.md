@@ -1,6 +1,8 @@
 # People
 
-Cast hub. Locked character files only.
+Cast hub.
+
+**Locked character files:**
 
 | File | Role |
 |---|---|
@@ -8,14 +10,19 @@ Cast hub. Locked character files only.
 | `Helci.md` | Romance / emotional core; forge partner |
 | `Family.md` | House Arden |
 | `Ned.md` | Early tamed companion |
-| `NedDesign.md` | Ned combat / scaling design loot |
 | `Agni.md` | Later sacred mustelid companion |
 | `Rebecca.md` | Carwen archer / early party |
 | `Sahildr.md` | Carwen frontline |
 | `Reyna.md` | Carwen frontline |
-| `TempTeam.md` | Manstos Party 4 |
-| `Elodia.md` | Guild friend / later conflict hook |
+| `ManstosParty.md` | Manstos Party 4 |
+| `Elodia.md` | Guild friend / later conflict tie |
 | `Arthur.md` | Patron / city politics fuel |
+
+**Design / cast-track loot (not locked cast):**
+
+| File | Role |
+|---|---|
+| `NedDesign.md` | Ned combat / scaling design loot |
 | `Encounters.md` | Meeting tracks loot (not one party) |
 
 ## Lane rules (locked)
@@ -26,4 +33,4 @@ Cast hub. Locked character files only.
 - Ned = early tamed companion
 - Agni = later sacred mustelid; church pressure; not a wolf
 - Arthur = patron and city politics fuel
-- TempTeam / Manstos Party 4 = expedition orbit
+- Manstos Party 4 = expedition orbit (`ManstosParty.md`)

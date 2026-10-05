@@ -235,13 +235,13 @@ One or two Grand runesmiths per million people keeps trains a kingdom-level inve
 | E | Goblin ear bounty (Economy.md) | 5 lc (50 sc) |
 | S | Rice-grain magic stone (Economy.md) | 2 ss (200 sc) |
 | d | Stone drop rate | 1 in 5 |
-| H | Blood and parts per goblin, sold for scrolls and materials (default until Economy.md sets it) | 30 sc |
+| H | Blood and parts per goblin (locked; mostly blood for conduction ink / priming) | 30 SC (3 LC) |
 | w | Unskilled day wage (Economy.md) | 5 to 10 lc (50 to 100 sc) |
 
 ### Formulas
 
 - Average goblin value G = E + H + d × S = 120 sc
-- Kills per hunter per year to match a laborer K = 365 × w ÷ G
+- Kills per hunter per year to match a laborer K = **361** × w ÷ G (Caldris year)
 - Goblin-grade hunters Hg = Hunters + Bronze adventurers
 - Required kills per year = Hg × K
 - Stones per year = Required kills × d
@@ -250,10 +250,12 @@ One or two Grand runesmiths per million people keeps trains a kingdom-level inve
 
 | Wage | K | Hg | Kills per year | Stones per year |
 |---|---|---|---|---|
-| 5 lc | 152.08 | 15,495 | 2,356,531 | 471,306 |
-| 10 lc | 304.17 | 15,495 | 4,713,062 | 942,612 |
+| 5 lc | 150.42 | 15,495 | 2,330,706 | 466,141 |
+| 10 lc | 300.83 | 15,495 | 4,661,413 | 932,283 |
 
-Dungeons and monster spawns must replace 2.4 to 4.7 million goblin-grade monsters per million people every year or hunters starve out and the loot economy collapses. Villains add no kills; they skim value from hunters and merchants through theft and raids.
+Dungeons and monster spawns must replace about **2.3 to 4.7** million goblin-grade monsters per million people every year or hunters starve out and the loot economy collapses. Villains add no kills; they skim value from hunters and merchants through theft and raids.
+
+Ecology, carrying capacity, bargain tiers and **given-area worksheet:** `../Fauna/MonsterPopulation.md`.
 
 ## Historical Comparison
 

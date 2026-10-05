@@ -8,11 +8,14 @@ Fight doctrine for Terra. Numbers: `AttackScale.md`. Mana: `../Runes/Energy.md`.
 | `MageDefense.md` | Mana Hands redirects vs 2× physicalists; 3× tissue |
 | `Spells.md` | Named spell / scroll catalog (design loot) |
 | `Weapons.md` | Blade / loadout design |
+| `GearPrices.md` | Weapon / armor / repair price book |
 | `LightArmorLoadout.md` | Light kit vs plate-piercers; springs bad; buckler bracer |
 | `ShieldRuneDefense.md` | Rune shield: deflect > stop; mass/hardness/bash roles |
 | `ImpactRune.md` | Sahildr Impact hammer math |
 | `LivingArmor.md` | Living / Ned armor feel |
 | `SpeedVsIntellect.md` | Speed vs intellect combat notes |
+| `Firearms.md` | .50 / caliber performance; adamantium needle penetrators |
+| `Lasers.md` | Directed-light doctrine; blinder vs burner; counters (physics in Optics) |
 
 ## Narrative
 
@@ -49,7 +52,7 @@ Mana shields and barriers absorb in joules. Shape matters: a focused disk holds 
 
 ### Weapons
 
-Mundane iron/steel arms are common. Magical and runic stock sell as separate grades. Plate for knights. Mail and gambeson otherwise. Guns are not widespread; ship magic cannons exist. When plate no longer stops the main foe: `LightArmorLoadout.md`. Rune shield deflection: `ShieldRuneDefense.md`.
+Mundane iron/steel arms are common. Magical and runic stock sell as separate grades. Plate for knights. Mail and gambeson otherwise. Personal firearms not widespread (high-class archer ≈ cannon); ship magic cannons exist. When plate no longer stops the main foe: `LightArmorLoadout.md`. Rune shield deflection: `ShieldRuneDefense.md`.
 
 ### Party roles
 

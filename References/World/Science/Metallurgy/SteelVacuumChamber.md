@@ -1,5 +1,7 @@
 # Steel Vacuum Chamber
 
+> **Earth / invent build ref.** 304/316 stainless below = Earth best practice, **SPECIALTY** on Terra (`../../Materials/Materials.md`). Baseline Caldris chambers: Fe/steel + magic seals / vacuum craft in `Vacuum.md`, not stainless as street stock.
+
 Earth shop / build reference for a physical steel vacuum vessel. Mana pump-down costs and living-target vacuum rules stay in `Vacuum.md`. Metallurgy and welds: `CraftMetal.md`.
 
 ## Structure

@@ -33,7 +33,7 @@ A vacuum blocks conduction and convection, since both need matter to carry heat.
 
 - No oxygen means no oxidation or scale, so the metal comes out clean and bright.
 - Gases dissolved in the metal can be pulled out, which improves purity in alloys and reduces porosity.
-- Reactive metals like titanium (and **orichalcum**, magical titanium) can be processed without contamination.
+- Reactive metals like titanium (parent of **adamantium**) can be processed without contamination.
 
 ### Fire-specific problem
 

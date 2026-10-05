@@ -53,6 +53,31 @@ Example: at ~100 W, INT40 L2 (~22 J/mana) ≈ **4.6 mana/s**; INT500 L9 (~500 J/
 
 By ~12–13: adult **28** (no wisdom). Up to **32** with all wisdom.
 
+### Recoil a street adult can take
+
+About **80 kg**, street baseline STR/AGI **15** (`../../../Progression/Training.md`). Almost any total impulse is fine if spread out. Limits are peak force and how fast it lands. Launch math: `../Energy/Kinetic.md`, `../Energy/Projectiles.md`.
+
+**Sharp kick into the shoulder (recoil energy):**
+
+| Recoil energy | Feels like | Typical impulse |
+|---|---|---|
+| Under 20 J | Hunting rifle, fine all day | 10 to 15 N·s |
+| 40 to 60 J | Heavy magnum, painful after a few shots | 15 to 25 N·s |
+| 100 to 140 J | Elephant rifle, bruising, a few shots max | 25 to 35 N·s |
+| 200+ J | Injury risk | |
+
+Same impulse hurts less from a heavier weapon: recoil energy = impulse² ÷ (2 × weapon mass).
+
+**Steady push (force):**
+- Braced standing man holds about **300 to 500 N** before being pushed off balance.
+- Around **500 to 600 N**, boots start sliding on normal ground.
+- 400 N for 0.1 / 0.5 / 1 s → 40 / 200 / 400 N·s total impulse.
+
+**Launcher examples (60 g arrow):**
+- 1 km/s → 60 N·s; over 0.2 s ≈ 300 N. Easy.
+- 3 km/s → 180 N·s; over 0.5 s ≈ 360 N. Manageable braced.
+- Much past ~400 N·s needs prone, wall brace or a mount.
+
 ## Open
 
 - Exact h for cloak stealth when a beat needs it  

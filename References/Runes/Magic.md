@@ -4,7 +4,7 @@
 
 ## Narrative
 
-Magic follows laws and intention. Spells can form from the body alone, usually at low level, and can also be done intentionally. Thicker ambient mana can feed more mana into a cast (mana-in). It does not add a second output multiplier on direct skill casts; ambient gain G is for rune / item paths only (`Energy.md`). Elemental magic of many kinds exists; the main four are fire, water, earth, and wind. Space magic is a late wind derivative and powers common storage bags. Practical teleportation does not exist. Enchantments are purer magic: intention and laws together. Runic magic is purely rules-based. A mage who enchants an object uses intention, understanding, affinity, and knowledge; the magic flows and is set in place by intention and action. Runes do not need to be understood to be made. The pattern alone is enough, though it can be seen and learned if it is not obscured. Enchantments become part of the item and cannot be learned or observed the same way as runes. Magic scrolls need mana and must be read aloud; they let a mage cast a spell they could not cast on their own. Their efficiency and power are capped by the writer. Only runic scrolls can be used by anyone, either as an energy cast or as a prefilled activation, and runic scrolls can be open-ended.
+Magic follows laws and intention. Spells can form from the body alone, usually at low level, and can also be done intentionally. Thicker ambient mana can feed more mana into a cast (mana-in). Ambient osmosis `A = √C` also multiplies **useful** output on both direct skill casts and rune / item paths (`Energy.md`). Those are separate channels: mana-in changes how much you pay; `A` changes how much useful work that paid mana becomes. Elemental magic of many kinds exists; the main four are fire, water, earth, and wind. Space magic is a late wind derivative and powers common storage bags. Practical teleportation does not exist. Enchantments are purer magic: intention and laws together. Runic magic is purely rules-based. A mage who enchants an object uses intention, understanding, affinity, and knowledge; the magic flows and is set in place by intention and action. Runes do not need to be understood to be made. The pattern alone is enough, though it can be seen and learned if it is not obscured. Enchantments become part of the item and cannot be learned or observed the same way as runes. Magic scrolls need mana and must be read aloud; they let a mage cast a spell they could not cast on their own. Their efficiency and power are capped by the writer. Only runic scrolls can be used by anyone, either as an energy cast or as a prefilled activation, and runic scrolls can be open-ended.
 
 ## Detail
 
@@ -16,7 +16,7 @@ Magic follows laws and intention. Spells can form from the body alone, usually a
 
 **Body cast:** Spells can happen from the body alone. Usually low level. Can also be done intentionally.
 
-**Ambient draw:** Thick air / dungeons can let a caster push more mana into a body cast (mana-in). Direct casts still use only η(L) × μ(INT) on that mana. Ambient gain G is rune / item only.
+**Ambient draw:** Thick air / dungeons can let a caster push more mana into a body cast (mana-in). Useful output on that paid mana still runs `Useful = mana × 10 × η(L) × μ(INT) × A` with `A = √C`. Same ambient `A` multiplies rune / item paths after η_cond. Retired linear G is not used.
 
 **Insulation / barriers:** See `Energy.md` (insulation rune cost; barrier types).
 
@@ -26,7 +26,13 @@ Magic follows laws and intention. Spells can form from the body alone, usually a
 
 **Space magic:** Late derivative of wind.
 
-**Storage bags:** Common space-magic product. Living things cannot enter unless the user's level is extremely high. Borders on time magic: stored things are frozen. Bags cannot nest. Dead bodies can go in normal bags.
+**Storage bags:** Common space-magic product (late wind / space magic).
+- Living things cannot enter unless the user's level is extremely high.
+- Dead bodies can go in normal bags.
+- Bags cannot nest (repel).
+- Borders on time magic: stored things are frozen.
+- Dungeon mats (tusks, spikes, leather, herbs) are worth bagging out; most monster meat is not (tough, bad taste) except boar-type and deer-type game.
+- **Prices / V² capacity scale:** `../World/Society/SpatialBagPrices.md` (not law).
 
 **Teleportation:** None practical, or so far away it is basically unreachable. Travel uses trains and airships instead of teleport circles.
 
@@ -68,28 +74,28 @@ Surface symbols are not the whole working pattern. Working routes sit deeper and
 
 **Housing harm:** Because runes move mana on autopilot, they cause secondary host damage more easily than intention-based magics. Setting alone can ruin a poor host, let alone activation.
 
-### Magic scrolls
+### Magic scrolls (word / Mana Scribing)
 
 **Nature:** Different from enchantments and from runes. Chants and pathways are written down.
 
-**Who can use:** Needs mana. Not for people with no mana.
+**Who can use:** Needs **mana**. Not for people with no mana. Read aloud.
 
 **How used:** Read aloud. The writer's pathway forces the user's magic to follow it and cast the spell. The imprint covers gaps such as elemental affinity.
 
-**Point:** Cast a spell the user could not otherwise cast.
+**Point:** Cast a spell the user could not otherwise cast (wrong affinity, missing spell). Mage cross-affinity patch. Fuel is **mana only** (no stamina substitute).
 
 **Limit:** Efficiency and power are capped by the one who wrote it.
 
 ### Runic scrolls
 
-**Nature:** Rules-based scrolls. Only this scroll family can be used by anyone.
+**Nature:** Rules-based scrolls. **Only this scroll family can be used by anyone.**
 
 **Limit:** Can be open-ended. Not capped to a writer's personal efficiency and power the way magic scrolls are.
 
 **Type 1: Energy cast**
 
-- User supplies energy to cast.
-- Literally anyone can cast it (non-mages included).
+- User supplies **energy** to cast: **mana or stamina** (`Energy.md`: same cost from either pool).
+- Literally anyone can cast it (warriors, civilians, non-mages included), if they can pay the energy.
 
 **Type 2: Prefilled**
 

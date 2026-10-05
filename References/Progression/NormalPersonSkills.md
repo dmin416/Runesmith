@@ -1,6 +1,6 @@
 # Normal Person Skills
 
-> **Design loot.** Live locks: Progression.md (XP / tiers / reclass), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. Non-canon XP leftovers in Levels.md (RaceMult / class-change half-cut). Diagnosis is the live skill name (Old Debugger).
+> **Design loot.** Live locks: Progression.md (XP / tiers / reclass; `50 × L × RaceMult`), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. Levels.md holds live RaceMult table; Ch 4-19 XP ledger locked in Story/Notes/Experience.md. Diagnosis is the live skill name (Old Debugger).
 
 
 Skills any ordinary person in the setting can plausibly gain. Not locked behind a class, the Gamer / Source special set, or a profession track (Mage, Scribe, Blacksmith, Runesmith). Built for an adventurer who lives on combat and exploration.
@@ -83,7 +83,7 @@ Prefix ladder: `../Ideas.md` / `Levels.md` (Basic/Lesser → plain → Expert/Hi
 
 ## Excluded (not available to normal people)
 
-- **System / Special:** Identify, Analyze, Diagnosis, Mana Sense, Technology (Circuitry). Tied to the Gamer / Source set or status-system tools. Not learnable by an ordinary person on the normal ladder.
+- **System / Special:** Identify, Analyze, Diagnosis, Mana Sense, Technology, Fabrication. Tied to the Gamer / Source set or status-system tools. Not learnable by an ordinary person on the normal ladder.
 - **Mage-class locked:** Basic Mana Shaping, Basic Mana Regulation, Basic Incantation, Mana Bolt, Mana Arrow, Mana Shield, Mana Absorption, Mana Reinforcement, Ember, Mana Hands.
 - **Scribe / Runesmith / Blacksmith locked:** Basic Mana Scribing, Basic Rune Scribing, Basic Rune Mastery, Basic Forging, Basic Smithing Mastery, Basic Runecraft, Ethereal Pathways, Blacksmith's Heat Sense, Runic Blacksmith's Eyes, Basic Rune Compression.
 

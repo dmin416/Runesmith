@@ -52,20 +52,24 @@ Rough scale of table thrust to high AGI: multiply by **AGI/15** if you only need
 
 ## Mana Shield absorb pool
 
+Direct-cast barrier. Same ambient term as spell Useful (`Energy.md`).
+
 ```
-Pool (J) = 20 × M × η(L) × μ(INT) × S × R
+Pool (J) = 20 × M × η(L) × μ(INT) × S × R × A
 N        = floor(Pool / J_threat)    # whole attacks; N = 0 → pierces
+A        = √C                        # ambient; open ground A = 1
 ```
 
 - Baseline cast **M = 100** mana. Overcharge = mana spent.
 - `η(1)=0.3`; `η(L)=1+(L-2)×2/7` for L2–L9
 - `μ=(INT/15)^0.8`
-- **Focused disk:** A = 0.2 m² → **S = 1**, R = 1
-- **Bubble / semicircle:** A ≈ 6.28 m² → **S ≈ 0.178** (much weaker per mana)
+- **Focused disk:** area = 0.2 m² → **S = 1**, R = 1
+- **Bubble / semicircle:** area ≈ 6.28 m² → **S ≈ 0.178** (much weaker per mana)
+- Tables below are open-ground **A = 1**. Thicker fields multiply the pool by `A`.
 
 ### Roland Ch 14 rewrite (Shield L6, INT 137)
 
-`η(6) ≈ 2.14`, `μ(137) ≈ 5.87`
+`η(6) ≈ 2.14`, `μ(137) ≈ 5.87`, open ground **A = 1**
 
 | M (mana) | Focused disk | Bubble (S=0.178) |
 |---|---|---|
@@ -101,7 +105,7 @@ Ch 14 watcher Gale tip (AGI **120**, `k≈2–2.5`, `m_eff` 0.8–1.2) sits abou
 | Dragon claw | 35,000 | — | — |
 | Trebuchet stone | 90,000 | — | — |
 
-Weapon rune blasts (e.g. detonation tip) sit on top of kinetic tip KE when the tip is lit. Rune Useful uses η_cond × G (`../Runes/Energy.md`), not μ(INT).
+Weapon rune blasts (e.g. detonation tip) sit on top of kinetic tip KE when the tip is lit. Rune Useful uses η_cond × A (`A = √C`; `../Runes/Energy.md`), not μ(INT).
 
 ## Worked lock: Ch 14 watcher vs Reyna shield
 
@@ -125,10 +129,11 @@ Do not re-litigate this beat with street weapon table numbers.
 ## Spell Useful energy
 
 ```
-Useful (J) = mana × 10 × η(L) × μ(INT)
+Useful (J) = mana × 10 × η(L) × μ(INT) × A
+A          = √C                    # ambient; open ground A = 1
 ```
 
-Voice sets mana (Bolt normal **25**, Arrow **2×** Bolt). Overcharge = mana used. Hardness gates for tips: `../World/Science/Energy/ManaCast.md`. Healing potions close flesh; they are not joule weapons (`../Items/Items.md`).
+Voice sets mana (Bolt normal **25**, Arrow **2×** Bolt). Overcharge = mana used. Street / early-arc tables at **A = 1**. Hardness gates for tips: `../World/Science/Energy/ManaCast.md`. Healing potions close flesh; they are not joule weapons (`../Items/Items.md`).
 
 ## Quick checks
 
@@ -139,7 +144,7 @@ Voice sets mana (Bolt normal **25**, Arrow **2×** Bolt). Overcharge = mana used
 
 ## Locked keep
 
-Street STR/AGI 15 baseline. Tip KE from effective mass and tip speed. Speed skills raise tip speed factor k (KE scales with k²). Shield pools in joules; focused disk ≫ bubble per mana. Ch 14 bubble vs Gale tip lock above. Spell Useful as above. Hardness tables live in ManaCast.
+Street STR/AGI 15 baseline. Tip KE from effective mass and tip speed. Speed skills raise tip speed factor k (KE scales with k²). Shield pools in joules; focused disk ≫ bubble per mana; both shield and spell Useful × ambient `A`. Ch 14 bubble vs Gale tip lock above (open ground). Hardness tables live in ManaCast.
 
 ## Open
 

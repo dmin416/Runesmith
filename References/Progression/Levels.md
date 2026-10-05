@@ -1,6 +1,6 @@
 # Levels
 
-> **Quarantined XP leftovers / Design loot.** Live XP: `Progression.md`. RaceMult and class-change half-cut are dead. Retune chapter logs only. Diagnosis is the live skill name (Old Debugger).
+> **Live RaceMult table below.** Kill law: `Progression.md` (`50 × killed_L × RaceMult`). Ch 4–19 ledger locked in `Story/Notes/Experience.md`. Old `(49 + L)` / Mult **10/20** L1 samples quarantined. Diagnosis is the live skill name (Old Debugger). Narrative threat: `../World/Fauna/MonsterThreat.md`.
 
 How class levels, skill levels and tier multipliers work. Physical training timelines: `Training.md`.
 
@@ -34,11 +34,12 @@ Chapter screens stay truth when numbers appear. Packages below are the rewrite p
 |---|---|
 | 1 | L25 |
 | 2 | L50 |
-| 3+ | Continues; midpoints can unlock further trials |
+| 3 | L75 |
+| 4 and above | L100 each |
 
 Multiple past classes can sit on the sheet (primary / secondary; maxed lower tiers often go inactive). There is **no Tertiary active slot**.
 
-**Secondary class (Chapter 17):** unlocking a second class lets you keep **one** prior class as secondary to retain its special effects (e.g. Mage mana pool / regen). Switch secondary **once per day**; no item required. Overall level is the shared sum (rewrite Ch 17: Mage L25 + Scribe L1 → overall L26; half-cut bank fills **739 / 13000**). Extra Tier 1 classes slow the shared bar further; most people avoid a third T1.
+**Secondary class (Chapter 17):** unlocking a second class lets you keep **one** prior class as secondary to retain its special effects (e.g. Mage mana pool / regen). Switch secondary **once per day**; no item required. Overall level is the shared sum (rewrite Ch 17: Mage L25 + Scribe L1 → overall L26). Live reclass carries full bank (**1479 / 13000**); Old half-cut **739** quarantined. Extra Tier 1 classes slow the shared bar further; most people avoid a third T1.
 
 **Reclass rules (Chapter 5 book talk):** no hard limit on how many classes a person can hold over a life. You cannot leave a class for another until you have at least **25 levels** in the current one. Tier 1 classes must be finished to their **L25** cap. First ascension crystal use awards a class (Roland’s space still required a Yes/No confirm). Later crystal uses need a **trial** (battle, craft or puzzle). Used first-ascension crystal turns to dust.
 
@@ -46,14 +47,14 @@ Multiple past classes can sit on the sheet (primary / secondary; maxed lower tie
 
 Awards are **straightforward**: flat or simple by action. Class does **not** change how much XP an action is worth. Class only decides which package you get when the overall bar rolls.
 
-**Locked early anchors**
+**Locked early anchors (live law)**
 
 | Action | XP |
 |---|---|
-| Monster kill (solo, full credit) | **(49 + monster level) × RaceMult** |
-| Goblin L1 (estate bravery) | **50** (49+1) |
-| Goblin L2 / L3 / L4 (first Carwen group) | **51 / 52 / 53** |
-| Typical early forest goblin (~L4) | **53** (RaceMult 1.0) |
+| Monster kill (solo, full credit) | **50 × monster level × RaceMult** |
+| Goblin L1 (estate bravery) | **50** (RaceMult 1.0) |
+| Goblin L2 / L3 / L4 (live) | **100 / 150 / 200** |
+| Typical early forest goblin (~L4) | **200** (RaceMult 1.0) |
 | First Kill achievement (on top of the kill) | **+200** (Chapter 4; not every kill) |
 | First-time basic / lesser rune schematic at **[Highest]** | **1000** (quality ladder: **100 / 200 / 400 / 600 / 1000**; raise pays difference) |
 | Repeat scrolls / practice crafts | much less than first schematic (story: ~20 regular, ~50 runic until retuned) |
@@ -62,10 +63,10 @@ Awards are **straightforward**: flat or simple by action. Class does **not** cha
 
 | Fight | Monster level | Notes |
 |---|---|---|
-| Arden bravery test (age 9) | **Goblin L1** (HP 117) | Explicit status screen; XP **50** = 49+1 |
+| Arden bravery test (age 9) | **Goblin L1** (HP 117) | Explicit status screen; XP **50** |
 | Weekly estate training | L1-tier training stock | Same pen as bravery test; **50** each |
-| First Carwen forest group | **L2, L3 and L4** | Thought-ID; XP **51 / 52 / 53**; opens with mental ear bolt |
-| Later same-day chase kills | **L4 / L5** then **L3 / L4** | XP **53 / 54** (level-up) then **52 / 53**; Mage **L3→L4** when estate Mage doubles left the bar at **1250 / 1500** (`Experience.md`) |
+| First Carwen forest group | **L2, L3 and L4** | Live XP **100 / 150 / 200**; Old ledger **51 / 52 / 53** quarantined in `Experience.md` |
+| Later same-day chase kills | **L4 / L5** then **L3 / L4** | Live **200 / 250** then **150 / 200**; day end **1000 / 2000** at L4 (`Experience.md`) |
 | Later Carwen forest nests | higher than estate, still common goblins | Levels not always shown; treat as low single digits unless the chapter names them |
 
 Other notes:
@@ -76,31 +77,19 @@ Other notes:
 - **Pre-class XP** (Chapter 4–6): kills and achievements before first ascension bank with a **½ penalty** when the class finally applies. Estate bravery **250** + **55** more L1 goblins (**2750**) = bank **3000** → **1500** applied. Ascension starts Mage L1 empty; bank lands **Mage L3** empty. The bank applies **once** at the first ascension only. It does **not** refill for later class changes. See `Experience.md`.
 - **Second Tier 1 class** (Chapter 10 talk): most people do not ascend at age 10. There is **no XP gain debuff**. Kill XP stays the same. More classes means you need **more total experience** because overall level keeps climbing on the shared bar to raise each class. Combat second T1s take longest to push through that climb; lighter crafting second T1s level faster but grant weaker packages.
 
-### Kill XP formula
+### Kill XP formula (live)
 
 ```
-XP_from_kill = (49 + MonsterLevel) × RaceMult
+XP_kill = 50 × killed_L × RaceMult
 ```
 
-**Common goblin** (RaceMult 1.0): **49 + level**. Chapter 4 L1 → **50**. Round to nearest whole XP after RaceMult. No class modifier. Party contribution then splits that total.
+Round to nearest whole XP after RaceMult. No class modifier on the pool. Party contribution then splits that total. Hub: `Progression.md`.
 
-**Dungeon rat** (vermin-tier): **9 + level**. Weaker than a common goblin; uses its own base, not `(49 + level) × RaceMult`.
+**Common goblin** (RaceMult **1.0**): Chapter 4 L1 → **50**. L4 → **200**.
 
-**Needle Worm** (floor-2 ambusher): **24 + level**. Own vermin-ambusher base (above dungeon rat). Tiny **½ rice-grain** mana stone when it drops.
+**Carwen early anchors (draft dungeon L, RaceMult):** dungeon rat **L5 / 0.2** → solo **50**; Needle Worm **L16 / 0.5** → **400**; Needle Moth **L18 / 2.0** → **1,800**; Spiked Boar **L8 / 1.5** → **600** (idle **~1%** / active **~1/4**); Wereboar **L26 / 2.0** → **2,600** (evolved Spiked Boar; min **L26**).
 
-**Needle Moth** (floor-3 Needle Worm adult/elite): **99 + level**. Own base; not RaceMult. **L1** solo **100**. Rice-grain stone (**2 SS**) when it drops.
-
-**Spiked Boar** (low-level Emerald Wilderness trash): **499 + level**. Own base; not RaceMult. Early Floor 1 day (Ch 11): locked **L1** solo **500** (idle **5 XP = 1%**; full contribution share **125 = 1/4**).
-
-**Wereboar** (floor-3 Carwen elite): **999 + level**. Own base; not RaceMult. About **2×** a Spiked Boar. **L1** solo **1000** (idle **10 XP = 1%**; full party share **250 = 1/4**).
-
-**People / classed races** (humans, elves, beastmen, dwarves, etc. with classes; not monster races like goblins):
-
-```
-XP_from_person = 50 × OverallLevel
-```
-
-Split among the XP takers (Ch 14: five - Roland, Becky, Sahildr, Reyna, Ned). **Extra factors** (ability + contribution) push each award above or below an equal cut. Tamed companions take a share from the kill; they do not need to eat the corpse.
+**People / classed races** (humans, elves, beastmen, dwarves, etc. with classes; not monster races like goblins): RaceMult **1.0** → `50 × OverallLevel`. Split among the XP takers (Ch 14: five - Roland, Becky, Sahildr, Reyna, Ned). **Extra factors** (ability + contribution) push each award above or below an equal cut. Tamed companions take a share from the kill; they do not need to eat the corpse.
 
 **Ch 14 lock:** fencer overall **L55** → pool **2750**. Equal fifth **550**. Roland on-page **479** (extras below equal). Ned's share tips him **25→26** / **Greater Needle Worm**.
 
@@ -109,65 +98,64 @@ Split among the XP takers (Ch 14: five - Roland, Becky, Sahildr, Reyna, Ned). **
 - **Stats** set physical ceiling only: tip KE, sprint, HP pool (`../Combat/AttackScale.md`, street baseline STR/AGI **15**).
 - **Danger** is stats × skills × gear × tactics. A combat-classed person with actives (Gale Step), enchanted weapons and training hits far above a same-stat civilian or a same-level trash monster.
 - Same overall level: a fighter usually out-threats goblin-tier trash; dense beasts (Wereboar band) can still win a raw brawl on size and HP. Tier 2 skills make L55 specialists spike hard even when their sheet looks "only" mid-T2.
-- Do not treat overall level alone as threat. Read class tier, skill loadout and gear with the numbers. XP pool is **`50 × overall level`**.
+- Do not treat overall level alone as threat. Read class tier, skill loadout and gear with the numbers. People XP pool is **`50 × overall level`** (RaceMult 1.0).
 
-#### Race / species multipliers
+#### Race / species multipliers (live)
 
-Use the creature’s **family**, not every cosmetic variant name. Evolved or named bosses can stack a boss tag later; until then pick the closest row. L4 column uses `(49 + 4) × RaceMult` unless the row notes its own base.
+Use the creature’s **family**, not every cosmetic variant name. Evolved or named bosses can stack a boss tag later; until then pick the closest row. L4 column = `50 × 4 × RaceMult`.
 
 | Race / family | RaceMult | Examples | L4 solo XP |
 |---|---|---|---|
-| **Dungeon rat** (vermin) | — | Entrance corridor rats; use **9 + level** | **13** |
-| **Needle Worm** (floor-2 ambusher) | — | Spiky caterpillar; use **24 + level**; stone **½ rice** | **28** |
-| **Needle Moth** (floor-3 adult/elite) | — | Winged Needle Worm line; use **99 + level**; stone **rice** | **103** |
-| **Goblin** (common) | **1.0** | Green lowland goblin, estate training stock | **53** |
-| Mountain / gray goblin | 1.25 | Edelgard mountain goblin, gray forest goblin | 66 |
-| Goblin leader / elite goblin | 1.5 | Goblin Leader (not full king) | 80 |
-| Goblin King / king-tier | 2.0 | Cull-trigger king variants | 106 |
-| **Hobgoblin** | **1.75** | Wild hobgoblin, lab subjects | 93 |
-| Gray Hobgoblin Berserker | 2.25 | Rage / berserk hob | 119 |
-| **Spiked Boar** (low-level dungeon beast) | — | Emerald Wilderness floor-1 trash; use **499 + level** (Ch 11 day-one **L1 = 500**) | **503** |
-| Needle Worm / lesser ambusher | — | Floor-2 caterpillar; **24 + level** | **28** |
-| **Needle Moth** (floor-3) | — | Adult/elite winged form; **99 + level** (**L1 = 100**) | **103** |
-| **Wereboar** (floor-3 elite) | — | Gorilla body + boar head; use **999 + level** (**L1 = 1000**) | **1,003** |
-| **Myrmeke Worker** (giant ant) | **1.5** | Dog-sized mine ants | 80 |
-| Myrmeke Soldier | 2.5 | Horse-sized L50+ soldiers | 133 |
-| Myrmeke Queen | 4.0 | Nest boss | 212 |
-| **Orc** | **2.0** | Arena / wild orcs | 106 |
-| Red Orc High-Chieftain | 3.5 | Tier-3 orc leader | 186 |
-| **Greater Mantodea** (mantis) | **3.0** | Giant praying mantis | 159 |
-| Volcanic Kamacuras / fire mantis | 3.0 | Same band as mantis | 159 |
-| Skeleton / basic undead | 1.25 | Early blazing / fiery skeletons | 66 |
-| Devil / imp (lesser) | 2.0 | Pale Imp, Lesser Spiked Devil | 106 |
-| Golem (ruby / volcanic) | 3.0 | Mid dungeon constructs | 159 |
-| Drake / lesser dragon-kin | 3.5 | Later open-field threats | 186 |
-| **Default (unlisted monster)** | **1.5** | Anything not in this table | 80 |
+| **Dungeon rat** (vermin) | **0.2** | Entrance corridor rats | **40** |
+| **Needle Worm** (floor-2 ambusher) | **0.5** | Spiky caterpillar; stone **½ rice** | **100** |
+| **Goblin** (common) | **1.0** | Green lowland goblin, estate training stock | **200** |
+| Mountain / gray goblin | 1.25 | Edelgard mountain goblin, gray forest goblin | 250 |
+| Goblin leader / elite goblin | 1.5 | Goblin Leader (not full king) | 300 |
+| Skeleton / basic undead | 1.25 | Early blazing / fiery skeletons | 250 |
+| **Needle Moth** (floor-3 adult/elite) | **2.0** | Winged Needle Worm line; stone **rice** | **400** |
+| Goblin King / king-tier | 2.0 | Cull-trigger king variants | 400 |
+| Devil / imp (lesser) | 2.0 | Pale Imp, Lesser Spiked Devil | 400 |
+| **Hobgoblin** | **1.75** | Wild hobgoblin, lab subjects | 350 |
+| Gray Hobgoblin Berserker | 2.25 | Rage / berserk hob | 450 |
+| **Myrmeke Worker** (giant ant) | **1.5** | Dog-sized mine ants | 300 |
+| Myrmeke Soldier | 2.5 | Horse-sized L50+ soldiers | 500 |
+| Myrmeke Queen | 4.0 | Nest boss | 800 |
+| **Orc** | **2.0** | Arena / wild orcs | 400 |
+| Red Orc High-Chieftain | 3.5 | Tier-3 orc leader | 700 |
+| **Greater Mantodea** (mantis) | **3.0** | Giant praying mantis | 600 |
+| Volcanic Kamacuras / fire mantis | 3.0 | Same band as mantis | 600 |
+| Golem (ruby / volcanic) | 3.0 | Mid dungeon constructs | 600 |
+| Drake / lesser dragon-kin | 3.5 | Later open-field threats | 700 |
+| **Spiked Boar** (floor-1 beast) | **1.5** | Emerald Wilderness; draft common **~L8** (solo **600**) | **300** |
+| **Wereboar** (floor-3 elite) | **2.0** | Evolved Spiked Boar; **min L26** (solo **2,600**) | **400** |
+| **People / classed race** | **1.0** | Humans, elves, beastmen, dwarves with classes | **200** |
+| **Default (unlisted monster)** | **1.5** | Anything not in this table | 300 |
 
-Add new rows when a chapter names a repeat family. Prefer a band over inventing one-off decimals. Named chapter payouts (e.g. Gray Hobgoblin Berserker **950**) override the table when the prose shows a number.
+Add new rows when a chapter names a repeat family. Prefer a band over inventing one-off decimals. Named chapter payouts must match this law; ledger: `Story/Notes/Experience.md`.
 
-#### Worked early kills
+#### Worked early kills (live)
 
 | Kill | Level | RaceMult | XP |
 |---|---|---|---|
-| Estate bravery goblin | 1 | 1.0 | **50** (49+1) |
-| Dungeon rat (Ch 11 entrance) | low | — | **9 + level** (Roland **full solo**; party test) |
-| Needle Worm (Ch 12 floor 2) | low | — | **24 + level**; stone **½ rice** (**1 SS**) |
-| Needle Moth (Ch 13 floor 3) | low | — | **99 + level**; stone **rice** (**2 SS**) |
-| Spiked Boar (Ch 11 Emerald Wilderness) | **1** | — | Solo **500**; idle **+5 (1%)**; active **+125 (1/4)** each |
-| Wereboar (Ch 13 floor 3) | **1** | — | Solo **1000**; idle **+10 (1%)**; active **+250 (1/4)** each |
-| Person / classed race (Ch 14 fencer) | **55** | — | Pool **2750** (`50 × 55`); equal fifth **550**; Roland **479**; Ned tips **25→26** |
-| Carwen forest goblin | 3 | 1.0 | **52** |
-| Carwen forest goblin | 4 | 1.0 | **53** |
-| Same level hobgoblin | 4 | 1.75 | **93** |
-| Same level myrmeke worker | 4 | 1.5 | **80** |
-| Same level orc | 4 | 2.0 | **106** |
-| Same level greater mantis | 4 | 3.0 | **159** |
+| Estate bravery goblin | 1 | 1.0 | **50** |
+| Dungeon rat (Ch 11 entrance) | **5** | 0.2 | Solo **50**; Roland **full solo** on party test; active ~**12** / idle ~**1** |
+| Needle Worm (Ch 12 floor 2) | **16** | 0.5 | Solo **400**; active ~**100** / idle ~**4**; stone **½ rice** (**1 SS**) |
+| Needle Moth (Ch 13 floor 3) | **18** | 2.0 | Solo **1,800**; active ~**450** / idle ~**18**; stone **rice** (**2 SS**) |
+| Spiked Boar (Ch 11 Emerald Wilderness) | **8** | **1.5** | Solo **600**; idle **+6 (1%)**; active **+150 (1/4)** each |
+| Wereboar (Ch 13 floor 3) | **26** | **2.0** | Solo **2,600**; idle **+26 (1%)**; active **+650 (1/4)** each |
+| Person / classed race (Ch 14 fencer) | **55** | 1.0 | Pool **2750**; equal fifth **550**; Roland **479**; Ned tips **25→26** |
+| Carwen forest goblin | 3 | 1.0 | **150** |
+| Carwen forest goblin | 4 | 1.0 | **200** |
+| Same level hobgoblin | 4 | 1.75 | **350** |
+| Same level myrmeke worker | 4 | 1.5 | **300** |
+| Same level orc | 4 | 2.0 | **400** |
+| Same level greater mantis | 4 | 3.0 | **600** |
 
 Same level, harder race → more XP. That is the whole point of RaceMult.
 
-**Level-gap note (optional, not required for early arcs):** Source often treats far-weaker mobs as nearly worthless XP. If needed later, apply a soft penalty when the killer’s overall level is far above the monster (e.g. heavily reduced when gap ≥ 10). Do not use that to replace the base `(49 + MonsterLevel) × RaceMult` line.
+**Level-gap note (optional, not required for early arcs):** Source often treats far-weaker mobs as nearly worthless XP. If needed later, apply a soft penalty when the killer’s overall level is far above the monster (e.g. heavily reduced when gap ≥ 10). Do not use that to replace `50 × killed_L × RaceMult`.
 
-At class **cap**, further XP does not raise that class. Bank it for the next class change (partial carry, about half lost on change; Chapter 13–16: do not keep dungeon grinding at Mage L25 before switching; schematic XP also takes the half cut) or it sits until you switch. Do not invent a second XP bar per class. Crafting classes also earn less XP from monster fights than combat classes.
+At class **cap**, further XP does not raise that class. Bank it for the next class change (**no half-cut**; full carry; Ch 16 **1479** locked) or it sits until you switch. Do not invent a second XP bar per class. Crafting classes also earn less XP from monster fights than combat classes.
 
 ## Experience curve (overall level)
 
@@ -178,7 +166,7 @@ Source payouts were smaller (goblin ~15–20 XP, same **1000** first schematic).
 | Source beat | What happened | Implied cost (Source XP) |
 |---|---|---|
 | First adventurer day, Mage L3 | ~7 goblin ears; leveled once during the hunt | estate Mage doubles left **1250 / 1500**; hunt **263** finishes L3→L4 |
-| ~3 months forest grind | L4 → **L20** | **1,481** matched goblins + spell/skill XP (`Experience.md`) |
+| ~3 months forest grind | L4 → **L20** | **1,000** goblin kills (Goblin Hunter lock) + spell/skill XP (`Experience.md`); Old **1,481**/~53 Source pacing quarantined |
 | Party dungeon arc | ~half a year more toward Mage L25 cap | higher XP/fight than forest goblins |
 | First lesser schematic | **1000 XP** at **[Highest]** (quality ladder below); “couple of levels” if spent right after a fresh class (low L) | 1000 ≈ 1–2 levels near overall L2–L3 |
 | Late Source | bar called “exponential” and stubborn | rewrite stays **linear**; high constant makes late levels slow without a second curve |
@@ -197,20 +185,20 @@ Anchor: bank **3000** (Ch 4 bravery 250 + **55** estate L1×50), half on apply =
 XP_to_next(L) = 500 × L
 ```
 
-At L5: **2500 XP** ≈ **47 × L4 goblins** (empty bar). First-day forest kills alone are a small slice; spell/skill XP and denser hunting carry the early adventurer grind (Chapter 9–10).
+At L5: **2500 XP** ≈ **12.5 × L4 goblins** (empty bar; RaceMult 1.0 → **200** each). First-day forest kills alone are a small slice; spell/skill XP and denser hunting carry the early adventurer grind (Chapter 9–10).
 
-| Current L | XP to reach L+1 | Goblins @ 53 (empty bar) | First schematic 1000 |
+| Current L | XP to reach L+1 | Goblins @ 200 (empty bar) | First schematic 1000 |
 |---|---|---|---|
-| 1 | 500 | 9.4 | 2 levels |
-| 5 | 2500 | **47** | 0.4 level |
-| 10 | 5000 | 94 | 0.2 level |
-| 20 | 10000 | 189 | 0.1 level |
-| 25 | 12500 | 236 | 0.08 level |
-| 28 | 14000 | 264 | 0.07 level |
-| 50 | 25000 | 472 | 0.04 level |
-| 75 | 37500 | 708 | 0.03 level |
-| 100 | 50000 | 943 | 0.02 level |
-| 125 | 62500 | 1179 | 0.02 level |
+| 1 | 500 | 2.5 | 2 levels |
+| 5 | 2500 | **12.5** | 0.4 level |
+| 10 | 5000 | 25 | 0.2 level |
+| 20 | 10000 | 50 | 0.1 level |
+| 25 | 12500 | 62.5 | 0.08 level |
+| 28 | 14000 | 70 | 0.07 level |
+| 50 | 25000 | 125 | 0.04 level |
+| 75 | 37500 | 187.5 | 0.03 level |
+| 100 | 50000 | 250 | 0.02 level |
+| 125 | 62500 | 312.5 | 0.02 level |
 
 **Schematic check:** after class change at low overall L (e.g. L2–L3), **1000 XP** is about **two levels**. At Mage L25 it is a small fraction of a level. Spell/skill XP still matters early (Chapter 10: spell rank-ups often beat trash goblin kills).
 
@@ -221,23 +209,23 @@ XP_total_to_reach(N) = 500 × (1 + 2 + … + (N−1))
                      = 250 × (N−1) × N
 ```
 
-| Reach overall | Total XP from L1 | Rough goblin-equivalents (÷53) |
+| Reach overall | Total XP from L1 | Rough L4-goblin-equivalents (÷200) |
 |---|---|---|
-| 25 (one T1 maxed) | **150,000** | ~2,830 |
-| 50 | **612,500** | ~11,557 |
-| 75 (25+50) | **1,387,500** | ~26,179 |
-| 125 (25+50+50) | **3,875,000** | ~73,113 |
+| 25 (one T1 maxed) | **150,000** | ~750 |
+| 50 | **612,500** | ~3,063 |
+| 75 (25+50) | **1,387,500** | ~6,938 |
+| 125 (25+50+50) | **3,875,000** | ~19,375 |
 
 XP already spent stays spent. Goblin-counts are a yardstick only. Real paths mix dungeon mobs, skill XP, schematics and quests.
 
-**L4→L20 (Ch 9.5, locked):** enter **118 / 2000**; need ≈**91,882 XP**. **1,481** matched kills ≈**78,493 XP**; spell/skill ranks ≈**13,389**. See `Experience.md`. Empty-bar **L5→L20** alone is **90,000 XP** ≈ **1,698** goblins if kill-only with no overflow credit.
+**L4→L20 (Ch 9.5, locked):** **1,000** goblins incl. **8** T2 ambush leaders (L27, RaceMult **1.5**) + nest leaders + Shaman → kill XP **90,975** → **Mage L20**. Ledger: `Experience.md`.
 
 ### Sample grind checks
 
 | Action | XP | At L5 (need 2500) | At L25 (need 12500) | At L50 (need 25000) |
 |---|---|---|---|---|
-| Goblin L1 (49+1) | 50 | tiny | tiny | tiny |
-| Goblin L4 (49+4) | 53 | ~1/47 level | ~1/236 level | ~1/472 level |
+| Goblin L1 (RaceMult 1.0) | 50 | tiny | tiny | tiny |
+| Goblin L4 (RaceMult 1.0) | 200 | ~1/12.5 level | ~1/62.5 level | ~1/125 level |
 | First basic/lesser rune schematic | 1000 | 0.4 level | 0.08 level | 0.04 level |
 | First Common rune schematic (e.g. Fire Arrow) | **2000** (2× lesser) | 0.8 level | 0.16 level | 0.08 level |
 | Mana Arrow scroll (repeat craft) | 20 | tiny | tiny | tiny |
@@ -272,9 +260,8 @@ Chapter 14 narration: common Tier 2 packages grow about **×1.5** vs Tier 1 (for
 
 Rewrite law (also in `../Ideas.md`):
 
-- Skills rank **L1 through L9**. L9 is the hard max for that skill name.
-- **Until the first Tier 2 class is gained**, no skill may exceed **L9**. There is no L10 on any name in the T1 span.
-- Next step at L9 is **evolution** to the next prefix form, not L10 on the same name. The new name starts at L1 and is also hard-capped at L9 while he is still T1-only.
+- Skills rank **L1 through L9**. L9 is the hard max for that skill name at every tier.
+- There is **no L10** on any skill name. Next step at L9 is **evolution** to the next prefix form. The new name starts at L1 and is also hard-capped at L9.
 - **Evolution prefix ladder (rough convention):**
 
 | Tier | Prefix | Example |
@@ -286,7 +273,7 @@ Rewrite law (also in `../Ideas.md`):
 | 5 | Legendary / Grandmaster | Legendary Runecraft, Grandmaster Forging |
 
 - Higher prefix tracks (Expert / High and above) usually wait on Tier 2+ class gates unless a chapter locks an earlier exception.
-- **Special skills** (Technology, Circuitry-type, and similar) sit **outside** this ladder. No Basic→Expert→Overlord path. Separate rules; see `../Ideas.md`.
+- **Special skills** (Technology, Fabrication, Diagnosis, and similar) sit **outside** this ladder. No Basic→Expert→Overlord path. Separate rules; see `../Ideas.md`.
 - Effects and skill-tied stat bonuses scale with the current skill’s level.
 - Evolving a Basic skill grants the new form’s L1 attribute pad (+1 × level into favored attrs). Ch 13’s “free stat point” wording is that L1 pad, **not** a second bonus on top of it.
 - **Technique only:** level is form / efficiency / timing / decisions, not body power. L5 = dedicated adult amateur, L7 = competitive or professional, L9 = pinnacle of normal human technique on that prefix. Early Basic ranks by age: `Progression.md`.
@@ -320,25 +307,25 @@ After L3: `reps_to_next(L) = 35 × L` where L is the level you are leaving.
 - **Spells:** every finished cast (chant completes, spell leaves the hand).
 - **Technique skills** (Shaping, Incantation, Sword, Sneak, etc.): only **clean** reps. Misses, panics and interrupted casts do not. Field rule of thumb: about **40%** of raw attempts are clean.
 - **Mana Absorption / Mana Reinforcement:** every time the pool is spent down and topped back up. Cast → drain → absorb refill and reinforce hold count as uses. These run **constantly in combat** as mana is used, not only in town meditation. Clean-rate is higher than attack technique (~**70%**) because the loop is deliberate.
-- **Already high Basics (L8–L9):** do not restart the table at 0. Only the step to the next rank (or evolve) counts. Opponent/variety gates still apply (`Progression.md`: H2H / Sword / Sneak need real field work for the last tick / evolve). Hard cap remains **L9** until first T2 class.
+- **Already high Basics (L8–L9):** do not restart the table at 0. Only the step to the next rank (or evolve) counts. Opponent/variety gates still apply (`Progression.md`: H2H / Sword / Sneak need real field work for the last tick / evolve). Hard cap remains **L9** on every skill name; next step is evolve.
 - **Evening utility** (Ember cook-pot, Mana Hands mug lifts) can add uses outside the forest. Absorption / Reinforcement do **not** need a town-only track; hunts already cycle them hard.
 
 ### Ch 9.5 combat volume (locked)
 
-**1,481** goblin kills over ~**90** calendar days (~**16–17**/day). Lifetime through end of skip: **1,569**.
+**1,000** goblin kills over ~**90** calendar days (~**11**/day). Lifetime through end of skip ≈ **1,000** for Goblin Hunter (plus estate bank earlier). Stones: **218** rice-band + **8** leader-band (the **8** are L27 darker nest elites; size = level).
 
-Class need L4→L20 from enter bar **118 / 2000** ≈ **91,882 XP**. Kill XP at ~53 ≈ **78,493**. Spell/skill rank-ups supply the remaining ≈ **13,389**. Kill count is **not** cut by spell XP.
+Class need L4→L20 from enter bar **118 / 2000** ≈ **91,882 XP**. Kill XP uses live `50 × L × RaceMult` (common goblin **1.0**). Mix of L2–L5 trash plus the **8** L27 ambushes; spell/skill rank-ups fill the rest of the bar. Old Source **1,481** kills / ~**53** XP pacing is quarantined.
 
-Raw combat actions (order-of-magnitude, scaled to **1,481** kills): Mana Bolt ~**2,300** casts, Mana Arrow ~**800** (from late month 1), Mana Shield ~**270** (from month 2), short-sword finishes ~**740**, aimed shots (Bolt+Arrow) ~**3,100**, Basic Dodging clears ~**470** clean (clubs/spears/rocks; unlock month 1 → **L6**). Absorption / Reinforcement cycles track mana spend across that volume → both hit **L9**.
+Raw combat actions (order-of-magnitude, scaled to **1,000** kills): Mana Bolt ~**1,550** casts, Mana Arrow ~**540** (from late month 1), Mana Shield ~**180** (from month 2), short-sword finishes ~**500**, aimed shots (Bolt+Arrow) ~**2,100**, Basic Dodging clears ~**320** clean (clubs/spears/rocks; unlock month 1 → **L6**). Absorption / Reinforcement cycles track mana spend across that volume → both hit **L9**.
 
-Apply the curve → end ranks in `Story/Notes/Skills.md` Chapter 9.5. No skill past **L9** before T2.
+Apply the curve → end ranks in `Story/Notes/Skills.md` Chapter 9.5. Skill names hard-cap at **L9**, then evolve.
 
 ### Pre-ascension unlock rules (Chapter 4)
 
 - Most skills available before first class are **Basic** and combat-leaning.
 - Toy / non-weapon props may fail (ball toss did not unlock throwing; rock + dummy did). Stick ≠ spear for spear-throwing.
 - **Production / craft class skills** (smithing, etc.) do **not** unlock without the matching class. Combat hammer use is a different path.
-- Ambient mana absorption before Mage or Acolyte causes mana poisoning.
+- No mana pool → no active ambient absorb. Forced absorb before Mage/Acolyte = radiation-class mana poisoning (`../Runes/Energy.md`). Mana-rich sites may heal body/spirit; no stored mana on leaving.
 
 ### Skill attribute bonuses
 
@@ -358,7 +345,7 @@ Not every skill grants attributes. Identify, Analyze, Map Reading and Basic Math
 |---|---|---|
 | Diagnosis | 8 | Int +8 |
 | Technology | 7 | Dex +7, Int +7 |
-| Tinkerer | 8 | Dex +8 |
+| Fabrication | 8 | Dex +8 |
 | Cooking | 3 | Dex +3, Agi +3 |
 | Marksmanship | 7 | Dex +7 |
 | Expert Marksmanship | level | Dex +level, Will +level |
@@ -592,8 +579,8 @@ Real sheets also add childhood base, skills and traits on top.
 2. XP awards ignore class. Class-up changes growth package / rate, not the XP curve.
 3. Class-up into a multiplier class = **new growth rate on future levels**, not an instant ×N on the whole sheet.
 4. Craft-only classes may gain levels with little combat growth multiplier.
-5. Party XP fails across tier gaps.
+5. Party XP works across tier gaps. Award by **ability and contribution** (idle still gets a thin cut). Same-tier parties are preferred socially, not required.
 6. Skill L9 → evolve. Do not write L10 on the same skill name.
 7. When a chapter shows numbers, copy them into `Story/Notes/Status.md` and keep this file as the rule layer.
 8. If Source text says the sheet jumps at class-up, rewrite it to growth-rate talk instead.
-9. XP_to_next = **500 × overall level**. Kill XP = **(49 + monster level) × RaceMult** (common goblin = 49 + level). Dungeon rat = **9 + level**. Needle Worm = **24 + level**. Needle Moth = **99 + level**. Spiked Boar = **499 + level**. Wereboar = **999 + level**. People (classed races) = **50 × overall level** (Ch 14 L55 pool **2750** / Roland **479**). Pre-class bank half-penalty lands Mage L3 from bravery + **55** estate L1s (`Experience.md`). Change constants only if arcs feel wrong.
+9. XP_to_next = **500 × overall level**. Kill XP = **50 × killed_L × RaceMult** (goblin **1.0**; rat **0.2**; worm **0.5**; moth **2.0**; spiked boar **1.5**; wereboar **2.0**; people **1.0**; default unlisted **1.5**). Pre-class bank half-penalty lands Mage L3 from bravery + **55** estate L1s. Class-change half-cut stays dead. Chapter ledgers: `Experience.md`. Change constants only if arcs feel wrong. Narrative threat (not XP): `../World/Fauna/MonsterThreat.md`.

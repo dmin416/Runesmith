@@ -1,6 +1,6 @@
 # Projectiles
 
-Hub: `../Science.md`. Physical arrowhead forge / cast / aero: `../Metallurgy/Arrowheads.md`.
+Hub: `../Science.md`. Physical arrowhead forge / cast / aero: `../Metallurgy/Arrowheads.md`. Guided munitions / turn limits: `GuidedProjectiles.md`. Flywheel pairs / storage: `Generators.md`. Recoil / countermass: `Kinetic.md`.
 
 ## Sphere flight randomness
 
@@ -238,3 +238,79 @@ Inputs from `../../../Progression/Progression.md` and `StatusBreakdown.md`:
 
 - Pipeline: STR → W → ω; AGI → v_s and E_throw; tube → v; require KE_ball ≤ E_throw.
 - Matched STR ≈ AGI is the intended operating point. STR ≫ AGI fails the energy check.
+
+## Flywheel pinch launch
+
+Exit speed is at most rim surface speed. Cap: **KE = ½ m v_rim²**. Indestructible wheels (adamantium) remove the wheel-material rim limit; the projectile and contact physics remain. Paired wheels: `Generators.md`. Recoil after the shot leaves: `Kinetic.md`.
+
+### Energy cost to the wheels
+
+Wheels run at constant speed while the projectile starts at rest, so it slips during acceleration. Sliding friction turns as much energy into heat as it puts into the shot. Flywheels lose **m·v²** per shot (double the projectile KE). Staged pairs at stepped speeds raise efficiency to **n/(n+1)** (2 stages 67%, 4 → 80%, 9 → 90%, 19 → 95%).
+
+### Steel ball between rigid wheels
+
+| Rim speed | 1/4 in (1.05 g) | 3/8 in (3.55 g) | 1/2 in (8.4 g) |
+|---|---|---|---|
+| 300 m/s | 47 J | 160 J | 380 J |
+| 1,000 m/s | 525 J | 1,775 J | 4,200 J |
+| 3,000 m/s | 4,700 J | 16,000 J | 38,000 J |
+
+Refs: .22 LR ~160 J, 9mm ~500 J, 5.56 ~1,750 J, .308 ~3,500 J, .50 BMG ~18,000 J.
+
+Limits that stop a normal steel ball well below rim speed:
+- Rigid pinch contact is only a few mm. 1,000 m/s in 3 mm needs ~17 million g (~170 kN on a 1 g ball). Friction cannot deliver that at realistic clamp.
+- Bearing steel yields ~2 GPa under Hertzian contact; high clamp flattens or shatters the ball.
+- Slip heat ≈ ball KE on the surface. Melting 1 g steel ~950 J; near 1,000 m/s the surface melts or welds.
+- Feeding a resting ball into the nip is a glancing strike at full rim speed. Plastic above a few hundred m/s; hypervelocity-like above ~3 km/s.
+
+**Practical ceiling for solid steel on rigid wheels: about 300 to 600 m/s.** Higher needs staging, a sabot or a tougher projectile.
+
+### Indestructible ball (adamantium)
+
+Material limits drop. Cap is still **½ m v_rim²**; wheels still pay **m·v²**. Remaining limits: clamp force, vacuum around the rims, air after exit, energy stored in the wheels.
+
+| Rim speed | 1/4 in (1.05 g) | 3/8 in (3.55 g) | 1/2 in (8.4 g) |
+|---|---|---|---|
+| 10 km/s | 52 kJ | 177 kJ | 420 kJ |
+| 100 km/s | 5.3 MJ | 18 MJ | 42 MJ |
+| 0.1c | 113 t TNT | 380 t TNT | 900 t TNT |
+| 0.5c | 3.5 kt TNT | 12 kt TNT | 28 kt TNT |
+
+1 kg TNT = 4.2 MJ. Above ~0.1c use **KE = (γ − 1) m c²**. Over 3 mm contact, 10 km/s needs ~1.7 billion g (~17 MN on a 1 g ball). Hypersonic rims need a vacuum housing. Slip heat still equals ball KE; the ball survives but leaves glowing.
+
+**Sea-level sphere drag:** energy halves about every **21 m** (1/4 in) or **42 m** (1/2 in). A 3 km/s and a 100 km/s launch both dump ~99% of energy within ~140 m or ~280 m into a shock-heated air channel. Full energy at the target needs vacuum or very short range. Decay length for velocity (Cd ≈ 0.9): **L ≈ 2m / (ρ Cd A)**; energy decays twice as fast.
+
+### Arrow instead of ball
+
+Shaft contact along ~0.6 m (not 3 mm) cuts required grip ~200×. Grooved wheels or a fletchless fin-stabilized rod keep vanes clear. A 60 g, 8 mm arrow's energy halves roughly every **700 m** at sea level (vs 21 m for a 1/4 in ball). Long-rod penetrator at speed.
+
+| Speed (60 g war arrow) | Energy | Recoil momentum |
+|---|---|---|
+| 55 m/s (war longbow) | 90 J | 3.3 N·s |
+| 1,000 m/s | 30 kJ | 60 N·s |
+| 3,000 m/s | 270 kJ | 180 N·s |
+| 0.01c | 65 t TNT | 180,000 N·s |
+| 0.1c | 6.5 kt TNT | 1,800,000 N·s |
+
+.50 BMG recoil ~60 N·s ≈ braced handheld limit. Handheld flywheel arrows top out near **1 km/s** unless recoil is handled (`Kinetic.md`).
+
+### Non-magical signature (sense-magic worlds)
+
+- Stored: silent in vacuum housing. Mechanical bearings bleed heat. Enchanted bearings emit magic. Spin-up can be elsewhere and earlier.
+- Firing: slip heat at the wheels; sonic boom above sound speed; glowing air channel above several km/s. Loud and bright, not magical.
+- If adamantium itself carries a detectable aura, the launcher can be sensed even when idle.
+
+### Practical weapon tiers
+
+- **Handheld ≤ ~1 km/s:** silent until fired; rapid fire until wheels slow; ~300× longbow energy.
+- **Braced 1 to 3 km/s:** anti-armor / anti-monster.
+- **Mounted relativistic:** nuclear-scale per shot; wheels must store several times the shot energy.
+
+### Launch formulas
+
+- Classical projectile KE: **½ m v²**
+- Relativistic: **(γ − 1) m c²**, γ = 1 / √(1 − v²/c²)
+- Flywheel draw with full slip: **m v²**
+- Accel over contact length d: **a = v² / (2d)**; tangential force **F = m a**; clamp per wheel ≈ F / (2μ)
+- Staged efficiency (n equal steps): **n / (n + 1)**
+

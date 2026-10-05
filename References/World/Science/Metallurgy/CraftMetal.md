@@ -46,20 +46,28 @@ Wins: no mold grit, live shape tweak, fights surface tension on wire-thin gauges
 
 ### Mythril (shop)
 
-Matches `Metals.md`: **Mythril is saturated silver.** Shop frame ≈ Ag–Cu eutectic (~**72 Ag / 28 Cu**, melt ~**779 °C**). Pearlish warm silver. Work-hardens like silver alloy. Takes runes. **Not titanium.** Orichalcum is the titanium metal.
+Matches `Metals.md`: permanently converted **silver**. Shop frame ≈ Ag–Cu eutectic (~**72 Ag / 28 Cu**, melt ~**779 °C**). Pearlish warm silver. Work-hardens like silver alloy. Takes runes. **Not titanium.**
 
-### Orichalcum (shop)
+### Orihalcum (shop)
 
-Matches `Metals.md`: magical **titanium**. **Antimagic.** Open charcoal forge wrong (O/N brittle case). Vacuum / inert / barrier shell. Hot, gummy to machine, hard to cast. No enchantments; inlays possible but proximity interferes. Not a reduced-η wire path. Story: anvil inserts, mage-hostile plate.
+Matches `Metals.md`: permanently converted **gold**. Magic resistance = conversion %. Fights further cook; high purity needs deep dungeon or high altitude. No free enchantments; inlays possible but proximity interferes. Story: mage-hostile plate, antimagic fittings. Guild rank spelling **Orichalcum** is separate.
+
+### Aurium (shop)
+
+Matches `Metals.md`: permanently converted **copper**. Damps flowing mana; does not hard-block still mana. Linings for pipes, pumps, grips, casting rods. Low-grade COMMON-side industrial; high-grade steep.
+
+### Darkiron / star iron · darksteel / star steel (shop)
+
+Matches `Metals.md`: iron and steel conversion bands (dark → star). Prefer convert iron then carburize. Ordinary forge HT still applies until star grades change the story beat.
 
 ### Adamantium (shop)
 
-Matches `Metals.md` flex/form rules. **Once cast: indestructible.** Not a quench-and-temper forgeable supersteel.
+Matches `Metals.md`: permanently converted **titanium**. **Once cast: indestructible.** Not a quench-and-temper forgeable supersteel. Hot Ti parent needs vacuum / inert / barrier (O/N brittle case).
 
 - Shape is **final once cast and cooled**. No later cut, forge, quench-alter or repair  
-- Form filament / weave / knit / mail **while setting**  
+- Form **mail links** (and other final shapes) **while setting**  
 - After set: indestructible to ordinary force; destroy only by resonance / mana vibration  
-- Thick stock rigid in use; fine filament flexible (`R_min = 500 × t`)
+- **No stretch. No bend.** Mail flexes at ring links only. Dead: Adamweave / cloth / `R_min`
 
 ### Blade / tool HT order
 
@@ -86,13 +94,58 @@ Temper immediately after quench. Bond before quench.
 
 **Steel:** finery → cementation → vacuum scrape + hot press composites → forge → normalize → austenitize → quench → sub-zero → temper.
 
-**Powder (magic edge):** atomize melt (Hands shear jet) → vacuum tumble → blend → HIP-like Hands + Ember → full density → HT. Never quench porous powder.
+**Powder (magic edge):** atomize melt (Hands shear jet) → vacuum tumble → blend → HIP-like Hands + Ember → full density → HT. Never quench porous powder. Full write-up: `MagicPowderMetallurgy.md` (dies/porosity/vacuum weld removed by magic; powder make + mage labor stay; Ag powder cooks to mythril faster).
 
 | Metal | Harden | Relative quality |
 |---|---|---|
 | Bronze | Cold work | Lowest |
 | Steel | Q+T | High |
 | Powder steel | Q+T after dense | Highest retention + toughness |
+
+### Forged vs cast hardware (hinges)
+
+Same alloy (steel), forged vs flawless casting:
+
+| Property | Forged advantage |
+|---|---|
+| Tensile | 5–15% (≈25% vs typical porous castings) |
+| Yield | 10–20% |
+| Fatigue | 30–50% |
+| Impact toughness | 2–3× |
+| Ductility (elongation) | 1.5–2× |
+
+Perfect casting kills most porosity/shrinkage so static strength almost catches up. Remainder is grain: cast keeps coarse dendrites; forge breaks them into fine elongated grains.
+
+**Circular knuckle:** wrap a strap around a pin and grain flow follows the curve. Hinge load is hoop stress so fibers run with the load. Fatigue and impact gains peak here. Cast grain is random with no preferred strong direction.
+
+Limits: an unfused wrap can uncurl under heavy load; a forge weld holds about **70–90%** of parent. Across the grain a forging can be weaker than a casting; hinges rarely load that way.
+
+**Cast iron vs wrought iron** (different metals, larger gap):
+
+| | Tensile | Elongation | Shock |
+|---|---|---|---|
+| Cast iron | 150–250 MPa | ~0 | Shatters |
+| Hammered wrought | 300–380 MPa | 25–35% | Bends first |
+
+Hammered hinge ≈ **1.5–2×** tension and **10×+** slam resistance. Medieval door hinges were forged for this.
+
+**Tin bronze:** cold hammer work-hardens to about **2–3×** as-cast hardness/strength. Ductility falls unless annealed between passes.
+
+**Wrought iron vs steel** (strap / knuckle; yield decides bend-out-of-round):
+
+| Material | Tensile MPa | Yield MPa | Elong. | vs wrought |
+|---|---|---|---|---|
+| Wrought iron | 290–380 | 170–240 | 25–35% | Baseline |
+| Mild steel (0.15–0.25% C) | 400–450 | 250–370 | 25–35% | 1.2–1.4× T / 1.4–1.7× Y |
+| Med-C normalized (0.45% C) | 570–620 | 310–400 | 15–20% | 1.6–2× T / ~1.8× Y |
+| Med-C Q+T | 700–950 | 500–800 | 10–18% | 2.5–3× T / 3–4× Y |
+| High-C / spring HT | 1,000–1,600 | 800–1,400 | 5–10% | 3.5–5× T / 4–6× Y |
+
+Fatigue repeat stress ≈ wrought 150–180 MPa · mild ~200 · Q+T 350–450 (heavy door ≈ **2–2.5×** for steel). Wear: wrought ~100 HB; hardened steel 250–600 HB (pin/knuckle wear is the usual hinge fail). Mild toughness matches or beats wrought; over-hard high-C can snap on a sudden blow.
+
+Wrought still wins on easy forge welding, slag-fiber rust slowing and fibrous crack arrest. Knuckle risks: transverse strength ~**70–80%** of along-fiber; wrong wrap splits on slag lines; bent too cold/tight delaminates (high-P cold-short cracks at room T).
+
+**Ideal pre-modern hinge:** wrought strap and knuckle (weld + outdoor life) with a hardened steel pin (wear).
 
 ### Always
 

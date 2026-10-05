@@ -2,6 +2,8 @@
 
 Earth research anchors for Ned's silk (binding, lines, Bindweave). Map to Caldris; do not paste Earth species names into prose as if they are local. Companion: `../../../People/Ned.md`. Process pipeline: `Biomaterials.md`. Insect / silk craft notes: `RubberAndInsect.md`.
 
+**Powder feedstock (Ned invent):** Ned silk is cellulose. With strong dry mixed acid it nitrates into guncotton-grade nitrocellulose. Wet or weak acid only makes collodion (burns, poor propellant). Glycerin from his hemolymph is the nitroglycerin base. Acid and gland design live under `../../../People/NedDesign.md`.
+
 ## Spider Silks
 
 **Dragline (major ampullate)**

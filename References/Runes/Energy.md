@@ -2,7 +2,7 @@
 
 Spell-specific worked tables: `../World/Science/Energy/ManaCast.md`. Altitude density: `../World/Science/Energy/ManaConcentration.md`. Stone size / mass tables: `../World/Science/Energy/ManaStones.md`. Stone law: `../World/Materials/MonsterCores.md`. Metals / hosts: `../World/Materials/Metals.md`.
 
-Design companions: `EnergyDesign.md` (electrical analogy, wear stages, body-path proposals; path-% non-canon), `RuneSystem.md`, `RuneSetup.md`, `ManaMaterials.md`, `Nature.md`. Live lock: mythril = saturated silver / Ag–Cu; **orichalcum = antimagic** (magical titanium / refuse); **cast adamantium = indestructible**; η_cond = feel order in this file. Future spell idea math: `../PotentialMagic/PotentialMagic.md` (design loot; same cast law).
+Design companions: `EnergyDesign.md` (electrical analogy, wear stages, body-path proposals), `RuneSystem.md`, `RuneSetup.md`, `ManaMaterials.md`, `Nature.md`. Live lock: Ag→mythril; Au→orihalcum (MR=% / antimagic); Cu→aurium; Fe/steel→dark→star; Ti→adamantium cast-final (`../World/Materials/Metals.md`); η_cond = quality ladder in **20%** blocks (Lowest **0.2** → Highest **1.0**); host feel is narrative only. Future spell idea math: `../PotentialMagic/PotentialMagic.md` (design loot; same cast law).
 
 ## Narrative
 
@@ -37,11 +37,12 @@ Mana is an energy that saturates the world. It is both a particle and a spiritua
 **Direct cast law (locked):**
 
 ```
-Useful (J) = mana × 10 × η(L) × μ(INT)
+Useful (J) = mana × 10 × η(L) × μ(INT) × A
 
 η(1)   = 0.3
 η(L)   = 1 + (L - 2) × 2/7      // L2 = 1.0, L9 = 3.0
 μ(INT) = (INT / 15)^0.8         // INT 15 = 1×
+A      = √C                     // ambient; open ground A = 1
 ```
 
 | L | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
@@ -68,13 +69,13 @@ Useful (J) = mana × 10 × η(L) × μ(INT)
 
 ### Pools
 
-**Mana pool:** Only people with mana affinity have one. Size comes from stats. No fixed adult number.
+**Mana pool:** Only people with mana affinity have one. Size comes from stats (`../Progression/Attributes.md`). Street bare all-15 example is **MP 210**; there is no separate universal “adult pool = 2000.”
 
 **No affinity:** Body mana stays near air level. That amount sustains life. No pool to spend.
 
 **Life force:** Separate from the mana pool. Level tracks life force / soul / strength.
 
-**Stamina (SP):** Body resource. Same-cost alternate fuel for **runes**. Usually recovers faster than mana. Same rune cost paid from SP tires the body harder because SP also runs muscle and breath.
+**Stamina (SP):** Body resource. Same-cost alternate fuel for **runes** (including runic scrolls). Not a substitute for **word / magic scrolls** (those need mana). Usually recovers faster than mana. Same rune cost paid from SP tires the body harder because SP also runs muscle and breath.
 
 **Bottoming out:** Emptying any pool (MP, SP, or other) can make anyone really sick.
 
@@ -86,11 +87,21 @@ Useful (J) = mana × 10 × η(L) × μ(INT)
 
 **Seating / setting:** Pushing a rune into a host can strain or ruin that host. Seating is not free of wear.
 
-**Cast vs item:** Body skill casts and rune / item converters both use the **10 J** peg. Ambient helps more when the pattern can drink local mana density (thicker at altitude). Direct casts and rune paths use **different efficiency sources** (see Waste and control).
+**Cast vs item:** Body skill casts and rune / item converters both use the **10 J** peg. Ambient osmosis boosts useful output for **both** via `A = √C` (see below). Pathways still use different skill vs conductivity terms (see Waste and control).
 
 **Resonant runes:** High-grade / resonant work can use its own effective factors later (deep craft pass).
 
-**Ambient gain G (rune / item paths only):** G tracks **local mana density**. Density is like air and **rises with altitude**. Altitude curve: `../World/Science/Energy/ManaConcentration.md`. Dungeons and spiritual sites are also dense. A pattern that can drink outside mana hits harder in denser air. Direct skill casts take **no** ambient G. A rune with no outside intake (fully sealed / no breath to the air) cannot drink density and sits at the no-intake floor.
+**Ambient osmosis (spells and rune activation):** Mana prefers thinner air and higher spiritual worth (altitude, dungeons, holy/cursed sites, anywhere narrative marks thick). Not a vacuum: the field does not empty into the caster. Paid mana cost is unchanged; ambient only boosts **useful** output a partial amount.
+
+Relative concentration `C` vs open-ground baseline `C₀ = 1`. Law: `../World/Science/Energy/ManaConcentration.md`. Altitude digits: `../World/Space/Atmosphere.md`. Dungeon / spiritual additive: `../World/Geography/Dungeons.md`.
+
+```
+A = √(C / C₀) = √C
+```
+
+Kinetic-style: concentration ×4 → power ×2, not ×4. Ground open air: `A = 1`.
+
+Both pathways multiply by `A` after their own efficiency term. Fully sealed runes with no breath to the air sit at the no-intake floor (`A = 1` unless the beat says the seal still feels the room).
 
 **Local drain:** Not an everyday rule. Only at world-class / crazy plot scale.
 
@@ -102,9 +113,15 @@ Magical phenomena that are not enchanted or runed are temporary. Earth walls, ic
 
 **Fire's chemical energy is not the spell's energy.** A fire spell is an ignition source. With fuel present the fuel's own energy follows and is not part of the spell budget. With no fuel the fire is capped by the spell's Useful output. Do not scale mana cost by how energetic fire is in general.
 
-### Recovery
+### Recovery and who can absorb
 
-**Mana (mages):** Rate depends on mana left and total pool. Old equation family kept:
+**No mana pool → no active absorb.** People without a class mana pool (pre-Mage / pre-Acolyte and anyone else without a working pool) do **not** pull ambient mana into themselves on purpose. They have nothing to fill.
+
+**Mana-rich places can still help them:** a dense / spiritually thick field may ease the body and spirit (rest, recovery feel, narrative healing). That is **not** stored mana. When they leave, they do **not** carry a fuller tank; they never had one.
+
+**Forced / unnatural absorb is radiation-class danger.** Using Mana Sense (or similar) to see ambient mana and then **moving** that natural mana into a body that cannot hold it is unnatural. It poisons or kills (original Roland's death; D's early scare). Treat like radiation: visible / tangible mist does not make it safe to drink. Safe ambient absorb starts with a real pool (Mage, Acolyte, or equivalent).
+
+**Mana (with a pool):** Rate depends on mana left and total pool. Old equation family kept:
 
 | Term | Meaning | Symbol |
 |---|---|---|
@@ -117,42 +134,73 @@ Magical phenomena that are not enchanted or runed are temporary. Earth walls, ic
 - `b = 1 / (e^(a × T) − 1)` sets empty→full time `T` for a given body.
 - Time to full from `M` = `ln((P + b × P) / (M + b × P)) / a` hours.
 - Absorption speeds up as the tank fills.
-- Recovery scales with local mana density: higher altitude denser, plus dungeon / spiritual richness. Same air-like density law.
+- Recovery scales with local mana density: higher altitude denser, plus dungeon / spiritual richness (`A` / `C` feel; denser field → faster refill).
 
 **Stamina:** Body-based. Usually recovers faster than mana.
 
 ### Waste and control
 
-**Peg:** **1 mana = 10 J** at the converter input. Cost is paid first and does not change. Efficiency only changes useful output and waste.
+**Peg:** **1 mana = 10 J** at the converter input. Paid mana runs through one pathway. Efficiency (and bad-rune cost bloat) set useful output and waste.
 
 **Two pathways (do not stack):**
 
 | Pathway | Efficiency comes from | Formula feel |
 |---|---|---|
-| Direct skill cast | Skill level η(L) and Intelligence μ(INT) | `Useful = mana × 10 × η(L) × μ(INT)` |
-| Rune / item path | **Mana conductivity** of the channel, then ambient density gain G | `Useful = mana × 10 × η_cond × G` |
+| Direct skill cast | Skill η(L), Intelligence μ(INT), ambient `A` | `Useful = mana × 10 × η(L) × μ(INT) × A` |
+| Rune / item path | Rune quality level → η_cond, host feel, ambient `A` | `Useful = mana × 10 × η_cond × A` |
 
-These two rows are **alternatives, not a chain.** Never multiply η(L)/μ(INT) with η_cond/G on the same cast. Spell-worked tables: `../World/Science/Energy/ManaCast.md`.
+These two rows are **alternatives, not a chain.** Never multiply η(L)/μ(INT) with η_cond on the same cast. Both may take the same ambient `A = √C`. Spell-worked tables: `../World/Science/Energy/ManaCast.md`.
 
 **Stat-grant skills are never a multiplier.** Mana Shaping, Mana Regulation, Mana Absorption, Mana Reinforcement and kin only hand out flat INT/WIL (or similar). They raise output only by feeding `μ(INT)`. No second "shaping efficiency" term.
 
 **Cost reducers act before conversion.** Rune Mastery (−10%/level, capped −90%) lowers mana **paid**. It is not a second output multiplier. It can stack with mana-in channels because both only touch the mana figure that then runs through exactly one pathway row above.
 
-Electricity is the physical model for how mana **moves**. Mana is not electricity. Mana conductivity ranking is its own ladder (not ohm-meter copy-paste).
+Electricity is the physical model for how mana **moves through material** (flow, paths, waste heat, burst dumps). Mana is not electricity. **Mana conductivity is entirely narrative** and does **not** follow electrical conductivity. Prime example: gold is an excellent electrical conductor, but converted **orihalcum** is antimagic and will not carry a rune path at all.
 
 #### Mana conductivity (rune / item paths)
 
-η_cond is **mana conductivity** of the channel, not a caster power rank. Worse conductors waste more as heat and strain. Better conductors carry heavy flow cleanly. Geometry still matters: longer or thinner paths resist more.
+**Primary dial: rune quality level** (Lowest → Low → Intermediate → High → Highest; see `RuneSystem.md`). Locked as straight **20%** blocks of useful mana (`η_cond`). Waste = the rest (`1 − η_cond`) as heat / stray discharge.
 
-**Feel order (worst → best common path):**
+| Quality | η_cond | Useful share | Waste share |
+|---|---:|---:|---:|
+| Lowest | **0.20** | 20% | 80% |
+| Low | **0.40** | 40% | 60% |
+| Intermediate | **0.60** | 60% | 40% |
+| High | **0.80** | 80% | 20% |
+| Highest | **1.00** | 100% | ~0% (practically no waste) |
 
-iron → copper → steel → mana steel → body / blood ink → refined mana steel → mythril → adamantium (inlay)
+Example at open ground (`A = 1`): **100** mana paid → converter input **1,000 J** → Intermediate Useful **600 J** / waste **400 J**.
 
-Orichalcum refuses / antimagic. Direct casts never use η_cond. A mythril wand does not buff Mana Bolt; it wastes less on the **rune path**.
+Bad / low-quality runes can also show:
 
-When a scene needs a number, set η_cond from that feel (and real conductivity analogy if useful).
+1. **Same activation cost, weak power:** paid mana is normal; low η_cond softens Useful (table above).
+2. **High activation cost, average power:** the rune's **minimum** cost is bloated; you pay more to reach only middling Useful. Average output, expensive start.
 
-**Waste:** Most waste leaves with the discharge. The rest stays in the path as heat and strain. Poor conductivity + high flow burns hosts. Burst dumps can wreck a weak path in one shot.
+Host material is a second **narrative** feel axis (dirty iron vs clean mythril), not a second percent ladder. Geometry still matters: longer or thinner paths resist more *and* heat worse.
+
+**Heat away (scientific):** Waste still heats the channel. How fast that heat leaves uses real thermal conductivity, mass and geometry (`EnergyDesign.md`, `../World/Science/Metallurgy/OverheatedMetals.md`).
+
+**Common path hosts (feel by job, not electrical rank):**
+
+- **Iron:** workable but dirty. Heats and strains under flow.
+- **Copper:** decent everyday path. Easy industrial stock.
+- **Aurium:** keeps flow and **cuts waste** (damps / contains). Pipes, grips, linings. Detail: `../World/Materials/Metals.md`.
+- **Steel / darksteel / star steel:** weapon and tool channels. Dark/star stock holds up better under rune damage / strain than plain steel.
+- **Body / blood ink:** living path. Excellent handling; still breaks like flesh.
+- **Mythril:** cleanest common host for reusable runic gear.
+- **Orihalcum:** antimagic. Prime proof that mana conductivity ignores electricity: gold conducts current well; orihalcum swallows mana. Enchanting it is like projecting a movie onto black velvet: the image is swallowed and nothing seats. Not a rune host.
+- **Adamantium:** carries little to no mana. Enchanting it is like projecting a movie onto clear glass: the image passes through and will not stick and its indestructible cast-final body will not take alteration. Not a rune host. It makes a great indestructible cover over a proper rune inlay (mythril or other real path metal underneath).
+
+Direct casts never use η_cond. A mythril wand does not buff Mana Bolt; it only helps the **rune path** seated on it.
+
+**Waste (locked):** Total waste = paid converter input × `(1 − η_cond)` (before ambient; `A` boosts Useful only). Split that waste **50 / 50**:
+
+| Share | Goes where | Feel |
+|---|---|---|
+| **½** | Ambient | Leaves into the field / with the discharge as loose heat and stray mana |
+| **½** | Weapon / path | Stays in the host as **heat damage** and **corruption** (strain, channel burn, rune rot) |
+
+Example: Intermediate (`η_cond = 0.6`), **100** mana, `A = 1` → Useful **600 J**; waste **400 J** → **200 J** ambient + **200 J** into the weapon. Low quality + high flow cooks and corrupts hosts. Burst dumps can wreck a weak path in one shot. Heat-away after that uses real thermal conductivity, mass and geometry (`OverheatedMetals.md`).
 
 #### Narrative path (when you are not doing joule math)
 
@@ -160,5 +208,6 @@ Seating quality, channel fill, heat under flow, strain, plate life, whether the 
 
 ## Open
 
-- Numeric η_cond when a beat needs it
-- How dungeon / spiritual thickness stacks on the altitude curve when a beat needs it
+None on η_cond / spiritual sites.
+
+**Spiritual sites (locked feel):** as saturated as the narrative calls for, between ordinary ambient and dungeon thickness, maybe a little higher than ambient. No fixed `D` table. Dungeon floor ops stay in `../World/Geography/Dungeons.md`; `C`/`A` law: ManaConcentration.md.

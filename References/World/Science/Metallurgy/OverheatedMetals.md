@@ -1,6 +1,6 @@
 # Overheated And Burned Metals
 
-Earth metallurgy reference for craft and rune-heat beats.
+Earth metallurgy reference for craft and rune-heat beats. Stainless row = Earth compare only (**SPECIALTY** on Terra; `../../Materials/Materials.md`).
 
 ## Rule of thumb
 
@@ -52,3 +52,19 @@ Zinc boils at 907 °C. White zinc oxide smoke. Alloy shifts toward copper. Fume 
 | Damage start | Thin edges first | Whole piece (copper); edges (bronze) |
 | Overheat grain fix | Normalizing | Cold work then anneal |
 | Burn | Boundary oxide, carbon loss | Boundary oxide / steam, alloy loss |
+
+## Path heat (mana pulse)
+
+For a small trace and one pulse, path heat / corruption load is **half of waste** (other half ambient). Waste = converter input × `(1 − η_cond)` per `../../../Runes/Energy.md`. Path law and host order: `../../../Runes/ManaMaterials.md` sections 1–2.
+
+`dT ≈ Q_path / (m × c)` once path heat is known. Real thermal conductivity then sheds that heat (Earth ladder above).
+
+Relative order for the same mass and same mana pulse:
+- **Iron** runs hottest.
+- **Copper** warms little and sheds heat well.
+- **Mythril** barely warms.
+- **Lead** can still risk melt if pulses stack before heat leaves, because its heat capacity is low.
+- **Orihalcum** is not a path. Heat from blocked flow only.
+- **Adamantium** is not a path host. Cover plates may warm from contact heat, not from carrying the channel.
+
+Stacked pulses without pause remain dangerous on poor hosts.

@@ -18,20 +18,22 @@ Related: `AttackScale.md`, `../World/Science/Energy/ManaCast.md` (Mana Hands), `
 
 ## Attack speed by technique
 
+**Combat tip KE law:** `AttackScale.md` (street arm-chain tip `v_s = 15 m/s` at AGI 15; `KE_tip ≈ ½ × m_eff × (k × v_s)²`). Rows below are **technique subsets** for Mana Hands timing, not a second street baseline.
+
 | Attack | Ready to contact | Peak tip speed | Added reach | Recovery to guard |
 |---|---|---|---|---|
 | Short stab | 0.12 to 0.20 s | 5 to 8 m/s | none | 0.15 to 0.25 s |
 | Short wrist cut | 0.15 to 0.25 s | 8 to 12 m/s | none | 0.20 to 0.30 s |
 | Lunge thrust | 0.30 to 0.45 s | 4 to 6 m/s at the hand | 0.8 to 1.2 m | 0.40 to 0.70 s |
-| Full swing | 0.35 to 0.65 s | 15 to 25 m/s | small | 0.40 to 0.80 s |
+| Full swing / committed tip | 0.35 to 0.65 s | **15 m/s** street (AGI 15; scales with AttackScale) | small | 0.40 to 0.80 s |
 
 At **2x** speed the short stab lands in about **0.075 s** and the lunge in about **0.15 to 0.22 s**. The short stab is the fastest effective attack within arm reach. The lunge is the fastest way to cover distance with a point.
 
 ## Physics and energy
 
 - Speed costs energy quadratically. Kinetic energy needed is about `2md²/t²`. Halving the time quadruples the energy and multiplies power by eight.
-- A stab moves an effective mass of **1.5 to 2.5 kg** over **0.4 to 0.6 m** and delivers roughly **20 to 45 J**. Penetrating clothing and flesh needs about **10 to 25 J**.
-- A full swing carries **50 to 90 J** in the blade alone. Most of the surplus is wasted braking the arc.
+- A **short stab** (reduced tip speed **5–8 m/s**, tight m_eff) delivers roughly **20 to 45 J**. Penetrating clothing and flesh needs about **10 to 25 J**.
+- A **committed street tip** at AGI 15 follows AttackScale (~**90 J** at m_eff **0.8 kg**, k **1**). Table sword cut **60–130 J** / warhammer **200–400 J** are the same street anchors. Do not treat the short-stab band as the world tip baseline.
 - A lunge puts **150 to 250 kg·m/s** of body momentum behind the point. Momentum does not drive penetration but it keeps the blade from stalling and adds shove.
 - Muscle efficiency of **20 to 25%** makes metabolic cost four to five times the mechanical work.
 

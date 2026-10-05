@@ -12,7 +12,7 @@ Runesmith World features hunters, swordsmen, knights, monsters, goblins and king
 - Plate armor for heavily armored knights, mail and gambeson otherwise
 - Castles, stone walls and fortified towns
 - Horse-drawn transport, sailing ships, water mills and wind mills
-- No firearms: magic fills the role of ranged and heavy weaponry
+- Personal firearms not widespread: high-class archers hit like cannons; magic / bows fill most ranged and heavy roles. Ship magic cannons exist (`Technology.md`)
 - No printing press, no mass manufacturing
 - Candles, torches and hand-copied books
 
@@ -66,7 +66,7 @@ Social structure stays medieval (kingdoms, nobles, knights, Royals) while techno
 - Monster taming implies professions (tamer / breeder / beastmaster) and links to skills: Roland's **Basic Taming** (Ch 12) / Ned path in `../../People/Ned.md`, `../Fauna/Mounts.md`
 - Trains and steam power mean long-distance travel and bulk hauling exist beyond horse and cart
 - Magic stones replace or supplement fuel and lighting
-- Magic takes the place of firearms and explosives in warfare and industry
+- High-tier archery and magic cover most roles Earth gives to firearms and explosives; personal guns stay niche
 - Royal control of airships gives the crown a strategic and status advantage
 
 ## Skills and system (already defined)

@@ -46,6 +46,7 @@ Stone law (capacity, dump, input, Q): `../../Materials/MonsterCores.md`. Tables 
 - Stones are renewable. Constant low-level enchantments sit at or under sustainable draw (MonsterCores).
 - A stone twice the diameter holds eight times the mana.
 - Cutting a fist core into rice-sized pieces raises total recharge about **29×** at the same total capacity (more SA).
+- Artificial stones: space / max-`C` cook under pressure (`MonsterCores.md`). Clay–silica–carbon seeds preferred; not the cheap rice market.
 
 ### Quality examples (Q from MonsterCores)
 

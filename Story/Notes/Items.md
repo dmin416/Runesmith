@@ -12,16 +12,16 @@ Roland's gear and carried items by chapter. Follow `CrossCheck.md`. Chapter text
 | Ch 6→7 estate Mage | **25× Goblin L1** (pairs) | Already Mage; bar toward L4 |
 | Ch 7 last pen | in the **25** | Level not shown on-page |
 | Ch 9 forest day | **7** | Bounty + stones |
-| Ch 9.5 timeskip (~3 months) | **1,481** | Locked; ~16–17/day over ~90 days; ends Mage **L20** |
-| **Lifetime through Ch 9.5** | **1,569** | 81 estate + 7 + 1,481 |
+| Ch 9.5 timeskip (~3 months) | **1,000** | Locked; trash + nest leaders + **8** T2 ambush L27 + Shaman; ~**11**/day; ends Mage **L20** |
+| **Lifetime through Ch 9.5** | **1,088** | 81 estate + 7 + 1,000 |
 | Ch 10 nest opener | **7** | **1** at level + **6** slightly lower; **+2** stones |
-| **Lifetime through Ch 10** | **1,576** | |
+| **Lifetime through Ch 10** | **1,095** | |
 
-**Mana stones (goblin drop law):** leaders **1/30** of kills; leader stone **1/3** of leaders (**5×** rice, **10 SS**); common rice-grain **1/5** of non-leaders (**2 SS**).
+**Mana stones:** size = monster **level** (`References/World/Materials/MonsterCores.md`). Wild drop ~**1/5**; evolved always. Leader-band ≈ **L27+**. No 1/30 chief table.
 - Pre-class / estate leftovers: Ch 9 sells **3** rice-grain at **2 SS** (1 forest + 2 estate).
 - Ch 7: **+1** rice-grain from the second pen goblin (kept into the Ch 9 sale pile).
-- Ch 9.5 (**1,481** kills): leaders **49** → leader stones **16**; non-leaders **1,432** → rice-grain **286**. All **kept**. End pouch **6,000 LC**. Ledger: `Experience.md`.
-- Ch 10 nest: **+2** rice-grain → **288** rice + **16** leader on person.
+- Ch 9.5 (**1,000** kills): **218** rice-band + **8** leader-band (from **8×** L27 T2 ambush). All **kept**. End pouch **3,595 LC**. Ledger: `Experience.md`.
+- Ch 10 nest: **+2** rice-band → **220** rice + **8** leader on person.
 ## Chapter 4
 
 Ninth birthday bravery test kit:
@@ -111,21 +111,21 @@ Three-month Carwen grind (rewrite bridge; Source has no separate chapter).
 - Forest lunch: **3** jerky sticks bought; otherwise rabbits / goblin-camp prey.
 
 **Gained during the skip (not a single shop day)**
-- **Goblin left ears** – **1,481** steel-board turn-ins (**5 LC** each → **+7,405 LC**). Funds lodging, meals, repairs and robe.
-- **Rice-grain mana stones ×286** + **leader stones ×16** (**5×** rice; **10 SS** each) gathered in Ch 9.5; **kept** after Ch 9 day one.
-- Enter pouch **875 LC** → end pouch **6,000 LC** (**6 SG**) after lodging / breakfast+dinner / **3** jerky / cloak **300** / repairs / robe / food-hunt tastes. Full ledger: `Experience.md`.
+- **Goblin left ears** – **1,000** steel-board turn-ins (**5 LC** each → **+5,000 LC**). Funds lodging, meals, repairs and robe.
+- **Rice-band mana stones ×218** + **leader-band stones ×8** gathered in Ch 9.5 (size = level); **kept** after Ch 9 day one.
+- Enter pouch **875 LC** → end pouch **3,595 LC** after lodging / breakfast+dinner / **3** jerky / cloak **300** / repairs / robe / food-hunt tastes. Full ledger: `Experience.md`.
 - **Mana Arrow** (late month 1 class grant) then **Mana Shield** (month 2).
 - **Mana Absorption** and **Mana Reinforcement** self-taught from ambient → body-store drills (same skill as common books; discovery just takes longer).
 - Title **Goblin Hunter** (month 3; past **1000** kills into the skip). Nickname Little Goblin Slayer (guild hall).
-- End of skip: Mage **L20**; lifetime goblin kills **1,569**; spell/skill ranks in `Skills.md` Ch 9.5.
+- End of skip: Mage **L20**; lifetime goblin kills **1,088**; spell/skill ranks in `Skills.md` Ch 9.5.
 
-**Still carrying into Ch 10:** leather (repaired), shortsword (repaired), hunting knife, thick wool cloak, spare robe, small mirror, adventurer card, local map, calligraphy stock, coin pouch (**6,000 LC**), **286** rice-grain + **16** leader mana stones, buried class-up crystal.
+**Still carrying into Ch 10:** leather (repaired), shortsword (repaired), hunting knife, thick wool cloak, spare robe, small mirror, adventurer card, local map, calligraphy stock, coin pouch (**3,595 LC**), **218** rice-band + **8** leader mana stones, buried class-up crystal.
 
 ## Chapter 10
 
-**Present day after Ch 9.5.** Same Carwen kit plus thick wool cloak and spare robe from the grind; upstairs inn room rented. Goblin Hunter title. Nest opener: **7** kills (**1** at level, **6** slightly lower), **2** rice-grain stones, underseasoned gamey boar leg. Guild ear turn-in **+35 LC**. Armor and sword already long repaired. Party invite with Becky / Sahildr / Reyna at chapter end. Pouch **6,000 LC** into chapter → **6,035 LC** after guild; stones **286→288** rice + **16** leader.
+**Present day after Ch 9.5.** Same Carwen kit plus thick wool cloak and spare robe from the grind; upstairs inn room rented. Goblin Hunter title. Nest opener: **7** kills (**1** at level, **6** slightly lower), **2** rice-grain stones, underseasoned gamey boar leg. Guild ear turn-in **+35 LC**. Armor and sword already long repaired. Party invite with Becky / Sahildr / Reyna at chapter end. Pouch **3,595 LC** into chapter → **3,630 LC** after guild; stones **218→220** rice + **8** leader.
 
-**Still carrying into Ch 11:** leather (repaired), shortsword (repaired), hunting knife, thick wool cloak, spare robe, small mirror, adventurer card, local map, calligraphy stock, coin pouch (**6,035 LC**), **288** rice-grain + **16** leader mana stones, buried class-up crystal.
+**Still carrying into Ch 11:** leather (repaired), shortsword (repaired), hunting knife, thick wool cloak, spare robe, small mirror, adventurer card, local map, calligraphy stock, coin pouch (**3,630 LC**), **220** rice-band + **8** leader mana stones, buried class-up crystal.
 
 ## Chapter 11
 
@@ -146,11 +146,11 @@ First dungeon day with Becky / Sahildr / Reyna. Carry-in from Ch 10 unchanged un
 | Enter from Ch 10 | | **6,035** |
 | Equal 4-way party share | +128 | **6,163** |
 
-**Still carrying after Ch 11 day 1:** leather (repaired), shortsword (repaired), hunting knife, thick wool cloak, spare robe, small mirror, adventurer card, local map, calligraphy stock, coin pouch (**6,163 LC**), **288** rice-grain + **16** leader mana stones, buried class-up crystal.
+**Still carrying after Ch 11 day 1:** leather (repaired), shortsword (repaired), hunting knife, thick wool cloak, spare robe, small mirror, adventurer card, local map, calligraphy stock, coin pouch (**3,758 LC**), **220** rice-band + **8** leader mana stones, buried class-up crystal.
 
 ### Ch 11→12 trial weeks (~2 weeks, **7** more Floor-1 days)
 
-Equal-split haul locked in `Experience.md`: mats **~2,184** + **15** stones **1,500** → team **~3,684** → Roland **+921 LC**. Lodging **−126** + food **−140** over **14** days. Pouch **6,163 → ~6,818 LC**. Personal stone bank unchanged.
+Equal-split haul locked in `Experience.md`: mats **~2,184** + **15** stones **1,500** → team **~3,684** → Roland **+921 LC**. Lodging **−126** + food **−140** over **14** days. Pouch **6,163 → ~4,413 LC**. Personal stone bank unchanged.
 
 **Coin ledger**
 
@@ -162,7 +162,7 @@ Equal-split haul locked in `Experience.md`: mats **~2,184** + **15** stones **1,
 | Food (14 days) | −140 | **6,818** |
 | Iron Flagon first round (Ch 12) | −45 | **6,773** |
 
-**Still carrying into Ch 12 binge:** leather (repaired), shortsword (repaired), hunting knife, thick wool cloak, spare robe, small mirror, adventurer card, local map, calligraphy stock, coin pouch (**~6,818 LC** before drink / **~6,773** after first round), **288** rice-grain + **16** leader mana stones, buried class-up crystal.
+**Still carrying into Ch 12 binge:** leather (repaired), shortsword (repaired), hunting knife, thick wool cloak, spare robe, small mirror, adventurer card, local map, calligraphy stock, coin pouch (**~4,413 LC** before drink / **~4,368** after first round), **220** rice-band + **8** leader mana stones, buried class-up crystal.
 
 ## Chapter 12
 
@@ -180,11 +180,11 @@ Iron Flagon first round **−45 LC**. Floor-2 Needle Worm cook + tame run. Party
 | Iron Flagon first round (3 half-gal weak spirits) | −45 | **~6,773** |
 | Becky lock-repair toss | +? (small; not counted) | **~6,773** |
 
-**Still carrying into Ch 13:** leather (repaired), shortsword (repaired), hunting knife, thick wool cloak, spare robe, small mirror, adventurer card, local map, calligraphy stock, coin pouch (**~6,773 LC** after drink; later Floor-2 sale share not itemized on-page), **288** rice-grain + **16** leader mana stones, buried class-up crystal, **tamed Needle Worm** (green scarf).
+**Still carrying into Ch 13:** leather (repaired), shortsword (repaired), hunting knife, thick wool cloak, spare robe, small mirror, adventurer card, local map, calligraphy stock, coin pouch (**~4,368 LC** after drink; later Floor-2 sale share not itemized on-page), **220** rice-band + **8** leader mana stones, buried class-up crystal, **tamed Needle Worm** (green scarf).
 
 ## Chapter 13
 
-Half-year Floor-3 run. Companion named **Ned**. Kill / XP / haul / pouch locks: `Experience.md` Ch 13 (**1,102** kills; **Mage L25**; pouch **11,641 LC** at `"*Not bad.*"`).
+Half-year Floor-3 run. Companion named **Ned**. Kill / XP / haul / pouch locks: `Experience.md` Ch 13 (**342** kills; **Mage L25**; pouch **5,977 LC** at `"*Not bad.*"`).
 
 **Gained / kept (Ned harvest)**
 - **Ned** (named) – same core-bearing Needle Worm; carried as companion / green scarf.
@@ -192,7 +192,7 @@ Half-year Floor-3 run. Companion named **Ned**. Kill / XP / haul / pouch locks: 
 - **Ned needles** – occasional harvest from ever-growing spikes (spice / materials; still sell poorly if sold).
 - **Ned blood** – occasional harvest (cumin-like paralytic seasoning stock from Ch 12 use).
 
-**Still carrying (mid Ch 13 before watcher fight):** kit after half-year wear (sword repairs; boots wore down; leather cracked), **Ned**, dried **parsleaves**, occasional needle/blood stocks, coin pouch (**11,641 LC**), **288** rice-grain + **16** leader mana stones, buried class-up crystal, **low-grade healing / recovery potions** in bag (at least one used Ch 14).
+**Still carrying (mid Ch 13 before watcher fight):** kit after half-year wear (sword repairs; boots wore down; leather cracked), **Ned**, dried **parsleaves**, occasional needle/blood stocks, coin pouch (**5,977 LC**), **220** rice-band + **8** leader mana stones, buried class-up crystal, **low-grade healing / recovery potions** in bag (at least one used Ch 14).
 
 ## Chapter 14
 
@@ -209,7 +209,7 @@ Watcher ambush / party rescue. Carry-in from Ch 13.
 - **Dodging L7**.
 - Watcher’s heavy detonation **rapier** kept in Ch 15 loot beat. Tip blast **125 MP** (inefficient rune). Shortfall pulls **SP** at **1:1** (1 SP per missing MP). Ch 17 Basic Rune Mastery L1 **−10%** cut on activation. Girls take armor sale + watcher’s spatial bag (Ch 15).
 
-**Still carrying after fight / into Ch 15 talk:** worn kit, **Ned** (now Greater Needle Worm), parsleaves / needle-blood stocks, coin pouch (**11,641 LC** until later sales), stone bank, buried class-up crystal, remaining potions if any. Rapier claimed in the Ch 15 loot beat (not yet on him mid-fight).
+**Still carrying after fight / into Ch 15 talk:** worn kit, **Ned** (now Greater Needle Worm), parsleaves / needle-blood stocks, coin pouch (**5,977 LC** until later sales), stone bank, buried class-up crystal, remaining potions if any. Rapier claimed in the Ch 15 loot beat (not yet on him mid-fight).
 
 ## Chapter 15
 
@@ -225,7 +225,7 @@ Confession / loot / cremation / inn study. Carry-in from Ch 14.
 - Watcher body burned in Mana Shield + wood (**1000 MP**); ash / bone scraps left.
 - Girls take armor sale + watcher’s spatial bag.
 
-**Still carrying into Ch 16:** worn kit, detonation rapier, **Ned** (Greater Needle Worm), parsleaves / needle-blood stocks, coin pouch (**11,641 LC**), stone bank, class-up crystal (on table), Detonation [Highest] schematic knowledge, remaining potions if any.
+**Still carrying into Ch 16:** worn kit, detonation rapier, **Ned** (Greater Needle Worm), parsleaves / needle-blood stocks, coin pouch (**5,977 LC**), stone bank, class-up crystal (on table), Detonation [Highest] schematic knowledge, remaining potions if any.
 
 ## Chapter 16
 
@@ -243,7 +243,7 @@ Class-change trial night. Carry-in from Ch 15.
 **Scene props**
 - **Ned** silk-ties him upright in the inn chair on return; eats the silk after chin-scratch.
 
-**Still carrying into Ch 17:** worn kit, detonation rapier, **Ned**, parsleaves / needle-blood stocks, pouch **11,641 LC**, stone bank, Detonation [Highest] schematic knowledge, new Scribe skills; class crystal spent.
+**Still carrying into Ch 17:** worn kit, detonation rapier, **Ned**, parsleaves / needle-blood stocks, pouch **5,977 LC**, stone bank, Detonation [Highest] schematic knowledge, new Scribe skills; class crystal spent.
 
 ## Chapter 17
 
@@ -269,12 +269,12 @@ Impact copy + farewell. Carry-in from Ch 17.
 **Gained**
 - **Lesser Impact Rune [Highest]** schematic (paper) + **Drawing L1** + **1000 XP**.
 - Adventurer rank **Bronze → Steel** (Miss Cellica).
-- Party's smaller **spatial bag** with starter coin (they keep watcher bag ~2×). Peek deferred alone; Ch 19 locks gift **10 SG** inside **on top of** his personal pouch (**11,641 LC**).
+- Party's smaller **spatial bag** with starter coin (they keep watcher bag ~2×). Peek deferred alone; Ch 19 locks gift **10 SG** inside **on top of** his personal pouch (**5,977 LC**).
 
 **Left behind / farewell**
 - Carwen kit packed into the new bag. Hugs Becky / Sahildr / Reyna; magic train toward Edelgard.
 
-**Still carrying into Ch 19:** Steel card, detonation rapier, **Ned**, parsleaves / needle-blood stocks, Detonation + Impact [Highest] schematics, Scribe skills, personal pouch **11,641 LC** + parting gift **10 SG** (**total 21,641 LC**), stone bank.
+**Still carrying into Ch 19:** Steel card, detonation rapier, **Ned**, parsleaves / needle-blood stocks, Detonation + Impact [Highest] schematics, Scribe skills, personal pouch **5,977 LC** + parting gift **10 SG** (**total 15,977 LC**), stone bank.
 
 ## Chapter 19
 
@@ -285,8 +285,8 @@ Edelgard arrival / guild / Singing Crow.
 - **Lesser Fire Orb Rune** schematic (paper) – memory redraw: first **[High]** (**+600 XP**, **over** 1 hour; uneven); thin-sheet trace → **[Highest]** (**+400 XP**). Total **1000**. Lesser quality ladder: **100 / 200 / 400 / 600 / 1000**. Three Highest lesser schematics now (Detonation + Impact + Fire Orb).
 
 **Spent**
-- Solaria collection plate **−1 SS (−10 LC)** at the station (Source copper; rewrite silver) → **21,641 → 21,631 LC**.
-- City map **−19 LC** → **21,612 LC**.
-- Singing Crow room **−14 LC** (Steel-band pick; a bit above Carwen **1 SS**; **not** the **2 SS** better-inn tier) → wallet **21,598 LC**.
+- Solaria collection plate **−1 SS (−10 LC)** at the station (Source copper; rewrite silver) → **15,977 → 15,967 LC**.
+- City map **−19 LC** → **15,948 LC**.
+- Singing Crow room **−14 LC** (Steel-band pick; a bit above Carwen **1 SS**; **not** the **2 SS** better-inn tier) → wallet **15,934 LC**.
 
-**Still carrying after room / schematic:** Steel card, detonation rapier, **Ned**, Edelgard city map, Detonation + Impact + Fire Orb [Highest] schematics, parsleaves / needle-blood stocks, wallet **21,598 LC**, stone bank.
+**Still carrying after room / schematic:** Steel card, detonation rapier, **Ned**, Edelgard city map, Detonation + Impact + Fire Orb [Highest] schematics, parsleaves / needle-blood stocks, wallet **15,934 LC**, stone bank.

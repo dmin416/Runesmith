@@ -1,6 +1,6 @@
 # Rune System Redesign
 
-> **Design loot.** Live locks: Energy.md (eta_cond feel order, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md. Non-canon here: path-% dials, dark/deep steel names, mythril-as-titanium, orichalcum as reduced-eta wire, adamantium as forgeable supersteel.
+> **Design loot.** Live locks: Energy.md (eta_cond feel order, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md (Ag mythril, Au orihalcum, Cu aurium, Fe/steel dark→star, Ti adamantium). Non-canon here: path-% dials; adamantium as forgeable post-set supersteel.
 
 Basis for runes going forward (not frozen; dials stay open). **Nature / worldview lock:** `Nature.md` (segments, pathways, law and causality). Companion: setup mana in `RuneSetup.md`. Activation energy, path efficiency and heat: `Energy.md`. Named rune catalog and chapter first-seens: `Runes.md`.
 
@@ -38,9 +38,9 @@ Stages 8 and 9 appear only at rune score above 1 (Common Low and up). Lesser run
 
 ## Rank Scale
 
-**The five ranks:** Lesser, Common, Greater, Grand, Legendary. **The five qualities:** Lowest, Low, Intermediate, High, Highest. A rune is named rank first and quality second (Common Low). Rank sets the scale of the machine: size, complexity and working ceiling. Quality sets how well the machine is built and so the position inside the rank. Harmonics (next section) set efficiency inside the ceiling. Output stops at the ceiling except for overrun (below). Extra mana fed into a scroll adds output up to it (canon: amplification is rank-capped).
+**The five ranks:** Lesser, Common, Greater, Grand, Legendary. **The five qualities:** Lowest, Low, Intermediate, High, Highest. A rune is named rank first and quality second (Common Low). Rank sets the scale of the machine: size, complexity and working ceiling. Quality sets how well the machine is built and so the position inside the rank. **Flow, useful effect and waste follow quality level** (`Energy.md`): Highest = practically no waste; Lowest is the worst. Bad runes show as same-cost weak power, or high minimum activation cost for only average power. Harmonics (next section) refine seating inside that quality band. Output stops at the ceiling except for overrun (below). Extra mana fed into a scroll adds output up to it (canon: amplification is rank-capped).
 
-**Working ceiling = 10 J x 100^s** per activation or per run (power x run length for a sustained machine). Each rank is a band of 100 times from Lowest to Highest. Lowest of a rank equals Highest of the rank below (canon). Intermediate sits at 10 times the Lowest. Lesser steps: 10 J, 32 J, 100 J, 316 J, 1 kJ. Lesser Highest is the baseline anchor: **1 mana ≈ 10 J** paid (`Energy.md`, `../World/Science/Energy/ManaCast.md`). Copper sealed (η 0.80, G 1) yields **8 J** useful per mana; 100 mana → **800 J** useful. Open-air copper (G 3) yields **24 J** per mana at clean linear Highest. Story "about 100 MP" detonation beats are round Intermediate / open-air mixes, not a second constant.
+**Working ceiling = 10 J x 100^s** per activation or per run (power x run length for a sustained machine). Each rank is a band of 100 times from Lowest to Highest. Lowest of a rank equals Highest of the rank below (canon). Intermediate sits at 10 times the Lowest. Lesser steps: 10 J, 32 J, 100 J, 316 J, 1 kJ. Lesser Highest is the baseline anchor: **1 mana ≈ 10 J** paid (`Energy.md`, `../World/Science/Energy/ManaCast.md`). Rune useful output uses `Useful = mana × 10 × η_cond × A` with ambient `A = √C` and η_cond from Energy.md quality **20%** blocks (Lowest **0.2** → Highest **1.0**; host feel narrative only). Story "about 100 MP" detonation beats are round Intermediate / open-air mixes, not a second constant.
 
 **Overrun.** The ceiling is soft. Overcharging, a rune done exceptionally well, or a Highest quality can push output past it by up to about 5 times. A Lesser Highest rune can reach about 5 kJ, above a Common Low. This is how a Lesser Highest rune can be powerful.
 
@@ -54,7 +54,7 @@ Stages 8 and 9 appear only at rune score above 1 (Common Low and up). Lesser run
 
 **Lesser size (set by crafter skill).** Even at low skill a Lesser rune fits easily on a paddle just under tennis racket size or on a single sword. With skill it fits a dagger. At the top of the basic skill (L9) it fits a playing card or an arrow, about the smallest any rune gets. Compression keeps the ceiling and cuts overrun headroom (canon: overload headroom drops).
 
-**Power source (proposed).** Lesser runs on the wielder. An adult pool of 2000 mana gives about 60 kJ in open air, which reaches Common High (32 kJ) and nearly Common Highest (100 kJ). Common Highest needs about 3,300 mana at baseline yield (1.7 adult pools) so stone banks and ambient intake carry it and everything above. Baseline gains of 1 to 6 assume a hand-sized intake. Larger machines carry intakes sized to the machine and draw more (`Energy.md` section 3: draw is capped by intake size and local density). The wielder pays only the fixed start cost. Steam picture: the wielder opens the valve and the environment is the boiler.
+**Power source (proposed).** Lesser runs on the wielder. Street bare all-15 MP is **210** (`../Progression/Attributes.md`). At clean feel and open ground that is only a few kJ of paid input, so Common High / Highest and everything above need stone banks and ambient intake. Larger machines carry intakes sized to the machine and draw more (`Energy.md`: draw capped by intake size and local density). The wielder pays only the fixed start cost. Steam picture: the wielder opens the valve and the environment is the boiler.
 
 ## Harmonics and Resonance
 
@@ -64,7 +64,7 @@ A linear rune fires once through the stages in order. A resonant rune has stages
 - Supercharger (Resonator). The ringing overlap acts as a tuned intake that amplifies the ambient draw. Sealed space keeps gain 1 so resonance adds nothing there.
 - Calling on natural mana. The rune does not force ambient mana. It sings the tone the environment answers to. This is how a rune calls on natural mana and the laws of magic.
 
-Cost is never changed. Only η_eff and H_eff change output and waste.
+Cost is never changed. Layout quality, resonance, and path feel change useful output and waste. Locked conversion: `Energy.md` (`Useful = mana × 10 × η_cond × A`).
 
 ### Rune score and tiers
 
@@ -74,31 +74,36 @@ Rank index: Lesser 1, Common 2, Greater 3, Grand 4, Legendary 5. Quality fractio
 
 **u = max(0, s - 1)** is the resonance score (0 to 4).
 
-- **Lesser Lowest (s 0):** ugly, linear, wasteful and weak. A sloppy layout leaks 84 percent of the mana before it reaches the converter (λ 0.16) so the same attack costs 6.25 times as much as at Highest. Ceiling 10 J.
+- **Lesser Lowest (s 0):** ugly, linear, wasteful and weak. A sloppy layout leaks most of the mana before it reaches the converter (λ about 0.16) so the same attack costs far more than at Highest. Ceiling 10 J.
 - **Lesser Highest (s 1):** linear, beautiful, efficient and still weak but can be powerful. A clean layout leaks nothing (λ 1) so it wastes only what its path material wastes. The 1 kJ ceiling keeps it weak against higher ranks but overrun lets it reach 5 kJ. It delivers the full baseline yield and matches a Common Lowest (canon).
 - **Above s = 1:** resonance. Every step adds Recovery, tuning and ring-up.
 
-### Formulas
+### Formulas (design loot; layout / resonance only)
+
+**Live activation law is only** `Energy.md`: `Useful = mana × 10 × η_cond × A` with `A = √C` and η_cond = quality **20%** blocks. Host feel is narrative; **no locked host η%**. Retired linear **G** and copper/steel η% tables are dead (do not paste them back as working math).
+
+Layout / resonance dials below are **proposed design loot**, not a second live pathway:
 
 - Layout efficiency: **λ = 0.16^(1 - s)** for s below 1 (0.4 at Intermediate). λ = 1 from s = 1 up.
-- Recovery: **r = 0.125 x u**
-- Effective efficiency: **η_eff = 1 - (1 - η x λ) x (1 - r) x (1 + d)**
-- Effective gain factor: **H_eff = 1 + 0.25 x u x T**
-- **Output = cost x 10 J x η_eff x [1 + (G - 1) x H_eff]**
-- **Waste = cost x 10 J x (1 - η_eff)**
-- Ring-up time: **0.75 s x u**. Linear runes fire instantly.
+- Recovery: **r = 0.125 × u**
+- η_cond: Energy.md quality ladder (0.2 / 0.4 / 0.6 / 0.8 / 1.0).
+- Effective path through layout / recovery / discord (proposed): **η_eff = 1 - (1 - η_cond × λ) × (1 - r) × (1 + d)**
+- Resonance boost on ambient (proposed): **H_eff = 1 + 0.25 × u × T**
+- **Proposed output = cost × 10 J × η_eff × A × H_eff**. Sealed / no breath: A = 1 unless the beat says otherwise.
+- **Proposed waste = cost × 10 J × (1 - η_eff)**
+- Ring-up time: **0.75 s × u**. Linear runes fire instantly.
 
-η path efficiency and G ambient gain: `Energy.md` section 3. T tuning. d discord. With s = 1 and d = 0 the result equals the untuned baseline.
+T tuning. d discord. With s = 1, d = 0, H_eff = 1 the proposed row collapses toward the live Energy.md rune pathway.
 
 ### Natural mana tones
 
-Natural mana carries a tone by element and by place. T is the match between the pattern's tone and the local tone of its element (0 to 1). Wielder affinity is the proposed source of T. A rune at 0 percent affinity still activates (canon: Lesser Fire Orb) with T = 0 and plain ambient gain.
+Natural mana carries a tone by element and by place. T is the match between the pattern's tone and the local tone of its element (0 to 1). Wielder affinity is the proposed source of T. A rune at 0 percent affinity still activates (canon: Lesser Fire Orb) with T = 0 and plain ambient `A` (no extra H_eff boost).
 
 ### Layout efficiency and discord
 
 - Linear layout: sloppy pathways leak mana before the converter. λ is the share that gets through: 0.16 at Lowest, 0.25 at Low, 0.4 at Intermediate, 0.63 at High and 1 at Highest. The same attack costs 1/λ times as much. Material efficiency cannot repair a leaking layout.
 - Resonant layout: overlapping regions lock when their tones share whole-number ratios. Locked overlap adds nothing to d. Each unlocked overlap adds discord to d.
-- Discord raises waste by the factor (1 + d) and can drag η_eff below the path's own η.
+- Discord raises waste by the factor (1 + d) and can drag η_eff below the path's own η_cond.
 - Red faults under the Diagnosis mark leaks (low λ) and discord (d).
 - Skilled crafting cleans the layout and locks the overlaps.
 
@@ -110,37 +115,17 @@ Natural mana carries a tone by element and by place. T is the match between the 
 
 ### Substrate
 
-Path material is the instrument. Timbre: iron thuds, copper hums, steel rings, dark steel tolls, mana steel and mythril chime, adamantium sings pure. Recovery returns a share of the path's own waste and never more so the substrate sets the ceiling.
+Path material is the instrument. Timbre is per host (`Energy.md`): iron thuds, copper hums, aurium damps, steel rings, darksteel tolls, body/blood, star steel and mythril chime. Not a locked rank order. **Adamantium is not a path host** (clear glass cover over a real inlay). **Orihalcum** is antimagic block, not a channel. Recovery returns a share of the path's own waste and never more so the substrate sets the ceiling.
 
-Lower waste means proportionally lower heat and strain on the path. Legendary Highest halves the path's waste per cast. A leaking layout multiplies it (same attack case below).
+Lower waste means proportionally lower heat and strain on the path. Legendary Highest halves the path's waste per cast. A leaking layout multiplies it.
 
-### Worked cases
+### Worked cases (illustrative layout λ only)
 
-Copper (η 0.80), open air (G 3). Clean linear baseline yield: **24 J** per mana (10 × 0.80 × 3). Yield per mana shows efficiency only. Output stops at the ceiling before any overrun.
+Host η% and linear **G** rows are **not** used here. Pick η_cond from Energy.md quality table; multiply by `A = √C`.
 
-- Lesser Lowest (s 0): η_eff 0.128. Yield 3.8 J with 8.7 J waste. The 10 J ceiling is reached at about 2.6 mana.
-- Lesser Highest (s 1): yield 24 J with 2.0 J waste. The 1 kJ ceiling is reached at about **42 mana**.
-- Common Highest (s 2), T 1: η_eff 0.825. Yield 28.9 J with 1.75 J waste.
-- Legendary Highest (s 5), T 1: η_eff 0.90. Yield 45 J (**1.88× vs open-air Lesser Highest baseline of 24 J**) with 1.0 J waste.
-- Legendary Highest, T 0.5: yield 36 J.
-- Legendary Highest, sealed space (G 1): yield 9 J from the turbo alone (**5×** below the open-air Legendary Highest yield).
+Layout cost anchor (same attack, same size): Highest **50** mana, Intermediate **125** mana (λ 0.4). The Intermediate pays more for the same converter delivery because the layout leaks. Path life and heat follow that waste ratio on identical size. Better hosts (toward mythril) widen the gap between clean and sloppy layouts; adamantium never sits on this ladder as a channel.
 
-### Same attack, same size
-
-Steel sword (η 0.85) with a 1 kg blade and a Lesser rune of identical size. Highest costs 50 mana for the attack and Intermediate costs 125 mana (anchor), which sets Intermediate λ at 0.4. Both deliver **425 J** at the converter (**1275 J** in open air) so the extra 75 mana of the Intermediate is pure waste.
-
-| | Highest | Intermediate |
-|---|---|---|
-| Cost | 50 mana | 125 mana |
-| Input | 500 J | 1250 J |
-| Waste | 75 J (15 percent) | 825 J (66 percent) |
-| Waste in mana | 7.5 | 82.5 |
-| Retained heat | 38 J (0.08 K) | 413 J (0.84 K) |
-| Casts to strain limit | about 2800 | about 250 |
-
-- Waste ratio is 11 to 1 on steel: 2.5 x (1 - 0.4η) / (1 - η). Iron 4.75, copper 8.5, mythril 31, adamantium 76. A better path widens the gap.
-- Path life falls in the same ratio on identical size.
-- Cost of the same attack by quality: Lowest 313, Low 198, Intermediate 125, High 79, Highest 50 mana.
+Cost of the same attack by quality (layout λ only): Lowest 313, Low 198, Intermediate 125, High 79, Highest 50 mana.
 
 ## Visible Designs and Magical Vision
 
@@ -162,4 +147,4 @@ Steel sword (η 0.85) with a 1 kg blade and a Lesser rune of identical size. Hig
 - Size of d per unlocked overlap.
 - Whether T comes from wielder affinity or locale or both.
 - Whether high-rank tones are audible to ordinary ears.
-- Reconcile Diagnosis red/green/blue vision (`TempRunes.md`) with leaks (λ) and discord (d) as red faults.
+- Reconcile Diagnosis red/green/blue vision (`RuneCraftScrapes.md`) with leaks (λ) and discord (d) as red faults.

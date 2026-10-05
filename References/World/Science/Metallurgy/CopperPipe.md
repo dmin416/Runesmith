@@ -1,6 +1,8 @@
 # Copper Pipe
 
-How to make, harden, join and fail copper tube. Brass fittings: `Brass.md`. Overheat: `OverheatedMetals.md`. Vacuum cast help: Old `SteelVacuumChamber.md` / `Vacuum.md` until pulled.
+> COMMON Cu tube / fittings. Companion metals: bronze/brass COMMON. Stainless beside Cu = **SPECIALTY** (`../../Materials/Materials.md`), not default shop stock.
+
+How to make, harden, join and fail copper tube. Brass fittings: `Brass.md`. Overheat: `OverheatedMetals.md`. Vacuum help: `SteelVacuumChamber.md`, `Vacuum.md`.
 
 ## Narrative
 

@@ -11,7 +11,7 @@ Attribute growth from these skills follows **+1 × skill level** (`Levels.md`). 
 | **Basic Mathematics** (already had) | Decades of school and work math. Already on his sheet at transfer. He does not unlock arithmetic from HP formulas. | Ch 2 “You have learned Basic Mathematics” |
 | **Analyze** (first in-Terra unlock) | First new skill on Terra. Same moment he reverse-engineers status math: he is analyzing a system. Start Analyze L1 here; Identify stays the boy’s shallow scan. | Analyze at Ch 81 (Runesmith Lord) |
 | **Hastened Reading** L2 | Lifetime of novels, manuals, tech docs, skimming for the useful part. Already on sheet at transfer at L2 with Intelligence +2. Library grind levels it further, does not invent it at Ch 308. | Ch ~308 |
-| **Parallel Thinking** (skill or trait) | Modern multitasking: work, hobby projects, mental checklists, holding several failure modes at once. Debugger already implies this. | Ch ~148 as late ability |
+| **Parallel Thinking** (skill) | Modern multitasking: work, hobby projects, mental checklists, holding several failure modes at once. Debugger already implies this. Level = true parallel count. | Ch ~148 |
 | **Logical Thinker** (trait, already in rewrite) | Keep. It justifies early Analyze / Parallel Thinking. Will +5, Int +5. | — |
 | **Fast Learning** / **Knowledge Retention** (boy + adult) | Keep. Pair with Hastened Reading so book work is visibly unfair early. | — |
 | **Map Reading** (already had) | Maps, GPS habits, reading diagrams and floor plans. Already on his sheet at transfer. Not unlocked at Ch 35. | Ch ~35 |
@@ -79,5 +79,5 @@ These should stay behind class, pain, or politics even if he is clever:
 ## Open naming
 
 - **Mana Absorption** and **Mana Reinforcement** are separate store skills unlocked in Ch 9.5 (self-taught ambient pull / body store). Do not merge Absorption into Regulation.
-- Parallel Thinking as **trait** vs **skill**: trait fits transfer; skill fits if the system rewards multitasking practice.
+- Parallel Thinking is a **skill** (rewrite lock). Source called it a trait; ignore that.
 - Analyze vs Identify: Identify = name/tag; Analyze = formulas, rates, failure points, “how does this work.”

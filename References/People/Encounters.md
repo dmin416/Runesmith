@@ -41,7 +41,7 @@ All-women party after their fourth left with a man. Distrust men at night camps.
 | 14 | Watcher ambush (surveillance-only Arden hire; nearly a year; backer tip). Chase: Ned left-arm needles; tip-blast tree; **Dodging L7**; damage **8/31/46**; self-potion heal. Party vs fencer **L55** (girls **~45**); Gale Step + tip blast vs overcharged bubble; Mana Arrow thigh; Ned + hammer kill; **+479 XP**; Ned → **Greater Needle Worm** **26/4x**; confession starts. |
 | 15 | Partial confession; on-site Mana Shield cremation (**1000 MP**); Roland keeps rapier (+ boots to Sahildr); [Highest] Detonation schematic + Runic Scholar (**+1000 XP**; bank **1479**). |
 | 16 | Class change: Runic Mana Scribe (fire-orb trial). |
-| 17 | L26 sheet (Scribe L1; half-cut bank only); Ned wake; shield-muffled rapier test; loot split; shows Edelgard on map; letters to father/Martha; leaves alone for craft; asks for Sahildr's hammer. |
+| 17 | L26 sheet (Scribe L1; full bank carry, no half-cut); Ned wake; shield-muffled rapier test; loot split; shows Edelgard on map; letters to father/Martha; leaves alone for craft; asks for Sahildr's hammer. |
 | 18 | Impact [Highest] + Drawing L1; Bronze→Steel ("pretty nice"); parting bag; hugs farewell; train to Edelgard. Girls take Steel/Silver caravan escort elsewhere (cry after). |
 | 19 | Roland arrives Edelgard; meets Helci at Singing Crow; Fire Orb [Highest] from memory. |
 
@@ -59,7 +59,7 @@ First seen Chapter 19 (Singing Crow Inn). Named Helci on first meeting. Half-gno
 | 25 | Roland reflects on Helci; no new meeting. Deal focus at Exeor's (manager IDs his class). |
 | 26 | Still at Singing Crow; Roland sees her running around the inn (alive; no nannying). |
 | 27 | On Manstos Grotto muster (~20); spots Roland's black robe (eyes wide then narrow). |
-| 28 | Scout L10 status; joins Party 4 (Dalrak, Selanar, Orson, Roland); carriage ride. Same expedition party continues through the mine / Myrmeke stretch (Orson, Dalrak, Selanar, Helci). |
+| 28 | Scout at high Basic (L9 hard-cap / evolve track); joins Party 4 (Dalrak, Selanar, Orson, Roland); carriage ride. Same expedition party continues through the mine / Myrmeke stretch (Orson, Dalrak, Selanar, Helci). |
 | 29 | Camp watch apology; Hush tent; enters assigned mine shaft with party. |
 | 30 | First Myrmeke fights; +1 Scout level; trapped after cave-in. |
 | 31 | Defends "Roland" name; peppermint trails; Soldier L53 kill; more ants incoming. |
@@ -69,9 +69,9 @@ First seen Chapter 19 (Singing Crow Inn). Named Helci on first meeting. Half-gno
 | 35 | Absent (smith trial / workshop ask). |
 | 41 | Absent (bail / contract talk). |
 | 42 | Returns as guild part-time workshop assistant at Roland's new warehouse. |
-| 43 | Hunter T1 (second class). Broke; stays for errand pay. Arrowheads + stew. Roland hides Runecraft. |
+| 43 | Hunter **T2** (second class; `Helci.md`). Broke; stays for errand pay. Arrowheads + stew. Roland hides Runecraft. |
 | 44 | Climbs open window; catches Roland with flaming bronze scorching sword. |
-| 45 | Silence deal for Mana Slash shortsword. ~17. Sees him as Enchantsmith. |
+| 45 | Silence deal for Mana Slash shortsword. **18**. Sees him as Enchantsmith. |
 | 46 | Follows to second weapon shop; Solaria distraction for Mana Slash borrow. Delivers Sharp longsword to Exeor. |
 | 47 | Left Edelgard ~2 months prior for dungeon city (farewell gift / note). |
 | 51 | Not present. Abyssal / cult greater illusion uses a twisted Helci form (and Sahildr / Arden maid Martha) to break Roland. |
@@ -147,7 +147,7 @@ First seen Chapter 58 (cave after rockslide).
 | Chapter | Encounter |
 |---|---|
 | 58 | Moon-elf Lady Aredhel and Logon (collar; Logon took Roland's sword); Half-Orc Golgrim with club. Fight mountain goblins/hobgoblin outside cave. |
-| 59 | Bolia backstory. Roland melts hobgoblin with Fire Arrow; clears goblins; Debugger on collar runes; asks to examine collar. |
+| 59 | Bolia backstory. Roland melts hobgoblin with Fire Arrow; clears goblins; Diagnosis on collar runes; asks to examine collar. |
 | 60 | Collars off; alias Carmine; party toward river village; Bocanach L46 fight (coordination fails). |
 | 61 | Formation lecture; Greater Mantodea L57 (scythe forelegs); Golgrim in the fight; Charisma 24 noted. |
 | 62 | Reach village; bandits hold it with hostages; Carmine party scouts from trees. |

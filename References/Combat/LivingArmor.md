@@ -31,7 +31,7 @@ Catch muscle locks for hours near free. A pin lasts until release or the joint c
 ### Per-point conversions (human 15 anchors)
 
 ```
-deadlift_kg     = 8 × STR_eff
+deadlift_kg     = 6 × STR_eff              // same law as AttackScale / Attributes
 leg_force_N     = 135 × STR_eff
 grip_N          = 128 × STR_eff          // use catch STR_eff for pins
 strike_vs_human = STR_eff / 15
@@ -43,7 +43,7 @@ STR_per_kg      = STR / mass_kg
 min_STR_lunge   ≈ 0.2 × mass_kg          // rough run/lunge floor
 ```
 
-Example at STR 21 / AGI 6: deadlift 168 kg, grip (catch) 2688 N, swings at 0.4× human speed (~2.5× longer wind-up). Hard hit if it connects. Fast fighter steps inside.
+Example at STR 21 / AGI 6: deadlift 126 kg, grip (catch) 2688 N, swings at 0.4× human speed (~2.5× longer wind-up). Hard hit if it connects. Fast fighter steps inside.
 
 ### Where the numbers come from (rebuild kit)
 
@@ -88,4 +88,4 @@ Lunge floor: need ~2.75 × body weight peak leg force. 54 kg × 9.81 × 2.75 ≈
 ## Open
 
 - Named Terra species / dungeon floor placement
-- Plate material upgrades (refined mana steel, mythril shell) once a beat needs them
+- Plate material upgrades (star steel, mythril shell) once a beat needs them

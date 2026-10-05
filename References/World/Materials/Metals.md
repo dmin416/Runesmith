@@ -1,204 +1,273 @@
 # Metals
 
-> What is common vs specialty: `Materials.md`. Shop metallurgy: `../Science/Metallurgy/CraftMetal.md`. Beast mats: `../Science/Biomaterials/Biomaterials.md`. Path efficiency: `../../Runes/Energy.md`.
+> Availability tags: `Materials.md`. Ambient altitude `C` / soak `A = √C`: `../Science/Energy/ManaConcentration.md`. Shop craft: `../Science/Metallurgy/CraftMetal.md`. Path η_cond: `../../Runes/Energy.md`.
 
 ## Narrative
 
-Metal saturation ladders and rune-host law. Common-use list (including bronze, stone, brick, clay, beast mats) lives in `Materials.md`.
+Metals convert under mana concentration. Temporary charge bleeds off. Permanent conversion starts past a conductivity threshold and rises with time and soak. Names are **bands on one conversion meter**, not separate Earth elements.
 
 ## Detail
 
-**Rule:** Saturation ladders differ by material. Some stay grades. Some full-saturate into a new named material. Brass craft: `../Science/Metallurgy/Brass.md`.
+**Locks (parent lines):**
+- **Silver → mythril**
+- **Gold → orihalcum**
+- **Copper → aurium**
+- **Iron → darkiron / star iron**
+- **Steel → darksteel / star steel**
+- **Titanium → adamantium**
 
-**Naming:** Prefer one public name per role. Do not keep a parade of near-synonyms for steel grades (dark steel, deep steel, black steel as separate metals). Extra labels are shop grades or dead aliases. Mana iron / mana steel and refined mana iron / refined mana steel are the live saturation names.
+Dead: mythril=titanium · orihalcum=titanium · adamantium=iron/steel.
 
-**Rune hosts:** Basically anything can hold a rune. Setting pushes mana into the material through an inlay or engraving channel that must be filled to make the rune. Setting and activation are different.
+**Rune hosts:** Almost anything can hold a rune. Poor hosts can burn from setting alone. Thermal: `../Science/Metallurgy/OverheatedMetals.md`. Aurium linings cut burn from flowing mana.
 
-**Non-metal hosts:** Bone, hide, scale, and gem paths are real. They are usable rune hosts, not metal-only.
+**Low-impact solids (not metal conversion lines):** **Clay**, **silicon / silica**, and **carbon** soak mana poorly. They charge less, convert less, and stay near their mundane properties under ordinary ambient (including most dungeon cooks). Use for molds, kiln body, glass/sand matrix, charcoal fuel that does not turn into magic metal, and inert carriers around hot mana work. They are not antimagic like orihalcum; they are simply stubborn and dull to mana.
 
-**Poor hosts:** Materials that handle mana poorly, or take too much energy while being imbued, can be ruined by **setting alone**, not only by activation. Plain steel and similar are in this danger band.
+### Ambient soak (same atmosphere as spells)
 
-**Corruption damage:** Any mana movement is technically unnatural. Runes are autopilot mana movement, so they cause secondary host harm more easily than intention-based magics. Mana moving in or next to a poor host can locally superheat and burn it. Harm is not guaranteed every time. Thermal reference: `../Science/Metallurgy/OverheatedMetals.md`.
+Metal absorption uses the same open-air `A = √C` as spells. **Law:** `../Science/Energy/ManaConcentration.md`. **Altitude / haze digit tables:** `../Space/Atmosphere.md`. Do not restate the ladder here.
 
-**Craft path vs skill:** Rune / item paths use **mana conductivity** for η_cond (`../../Runes/Energy.md`). Direct skill casts use η(L) × μ(INT) only. Narrative path covers seating, geometry, heat, and strain when joule math is off-page.
+Dungeons and spiritual sites hold **more pervasive** mana than the small floor-add formula alone suggests. Treat deep-delve / spiritual soak as a **narrative thickness** that can match high open-air cook bands without flying (`../Geography/Dungeons.md`). The floor `C = C(h) + k×(D/N)` ladder stays the mild spell-feel guide; metal cook in those places is story-weighted, not forced to that mild digit.
 
-### Iron / steel
+**Find vs cook:** dungeon hoards and mines more often yield **old already-converted metal** (geological / core-age soak) than metal that converted while an adventurer watched. Fresh in-delve cook still happens; it is the rarer story.
 
-Most levels.
+### Charge vs conversion
 
-| Saturation | Name | Notes |
-|---|---|---|
-| Mundane | Iron / steel | Ordinary stock |
-| Slight | Mana iron / mana steel | Light mana saturation |
-| Heavy | Refined mana iron / refined mana steel | Heavy mana saturation |
-| Full | Adamantium | Different material. **Once cast: indestructible** to ordinary force. Cannot be enchanted. Runic inlays OK. Final shape. Destroy only by resonant sound or mana vibration. |
+**Temporary charge:** metal near mana picks up a charge that bleeds away when it leaves. Still ordinary metal. Silver near a mage charges and discharges without converting.
 
-### Adamantium (flex and form)
+**Permanent conversion:** only after soak passes that metal's threshold. Further above threshold → faster. Nears completion asymptotically:
 
-**Lock:** Cast adamantium is **indestructible** (ordinary force). Not forgeable supersteel after set.
-
-**Core rules once cast and cooled:**
-
-- Indestructible to ordinary force. Only resonant sound or mana vibration destroys it
-- **Bends but never stretches.** Axial length under pull is fixed. No plastic set. Every flex springs back to the exact cast shape
-- Stiffness well above steel. Human blows never reach the stretch limit on thick stock, so blades and plate feel rigid
-
-**Why thickness decides bend:**
-
-Bending stretches the outer fiber and compresses the inner. Adamantium allows only a tiny surface strain before it stops dead.
+- **90%** ≈ 3× the time to half
+- **99%** ≈ 7× the time to half
 
 ```
-ε_max = 0.001          // 0.1% stretch limit (~1/5 of spring steel)
-R_min = (t / 2) / ε_max = 500 × t
+Converted = 1 − exp(−speed × (A − threshold) × time)
 ```
 
-`t` = thickness. `R_min` = tightest bend radius to the neutral surface.
+Time in different rich places **adds**. A bar can cook partway in a dungeon and finish on an airship.
 
-| Thickness t | R_min | Feel in use |
-|---|---|---|
-| 0.02 mm | 1 cm | Silk-like thread |
-| 0.1 mm | 5 cm | Fine cloth thread |
-| 1 mm | 50 cm | Stiff wire |
-| 5 mm | 2.5 m | Blade: rigid in the hand |
-| 20 mm | 10 m | Plate / vault stock: rigid |
+**Starting soak** (better conductors start lower). Read `A(h)` from `ManaConcentration.md` (`C = P₀/P`, then haze):
 
-**Flexible forms** (all shaped while the filament is still setting):
+```
+threshold_A ≈ 200 / conductivity_%_of_copper
+start_h = lowest altitude where A(h) ≥ threshold_A
+cook rate ∝ speed × max(0, A − threshold_A)
+```
 
-| Form | Behavior |
+Dead: `start_altitude ≈ 20 mi × log₁₀(...)` (that assumed old `C = 10^(h/10)`).
+
+Speed order once started: **gold > silver > copper > iron > steel > titanium**. Iron ≈ 4× titanium; 1% carbon steel ≈ 2× titanium.
+
+### Conversion table
+
+| Metal | Becomes | Cond. vs Cu | thr_A | Starts above (open air) | Notes |
+|---|---|---|---|---|---|
+| Silver | **Mythril** | ~105% | ~1.9 | ~6 mi (`A` ~2) | First to start. Best common rune host below aetherium |
+| Copper | **Aurium** | 100% | ~2.0 | ~6–7 mi | Close behind silver |
+| Gold | **Orihalcum** | ~70% | ~2.9 | ~9 mi (`A` ~2.8) | Fastest once started. MR = % conversion |
+| Iron | **Darkiron** → **star iron** | ~17% | ~12 | ~21 mi (`A` ~12) | Holds mana poorly vs Ag/Cu |
+| Steel (~1% C) | **Darksteel** → **star steel** | ~10% | ~20 | ~26 mi (`A` ~20) | Carbon slows cook. Prefer convert iron then carburize |
+| Titanium | **Adamantium** | ~3.5% | ~57 | ~36 mi (`A` ~57; between 31–40 mi) | Slowest. Cast-final |
+
+### Mythril (silver)
+
+Any permanently converted silver is **mythril**. Quality = conversion band.
+
+| Quality | Conversion |
 |---|---|
-| Adamant thread | Drawn from the melt before set. Thread, wire, bowstring |
-| Adamweave | Woven to final shape while setting. Drapes and folds. Zero give under pull |
-| Adamant knit | Loops give until they pull straight, then stop hard |
-| Adamant cord | Braid / twist while setting. Bends around anything. Never lengthens, snaps or frays |
-| Adamant mail | Rings of filament or wire. Flex at the links. Each ring stays rigid |
+| Low mythril | <25% |
+| Standard mythril | 40–60% |
+| Fine mythril | >80% |
+| True mythril | >95% |
+| Pure mythril | 100% |
 
-Fine Adamweave shirt about **1–2 kg**. Mail heavier.
+Open air: no mythril below ~6 mi (`A` under thr). Dungeons / spiritual sites are the low sources. Elemental alignment stays **mythril** (no separate red-mythril brand).
 
-**Forming rules:**
+Shop frame is often Ag–Cu eutectic. Look: **pearlish** light silvery gold. Reusable runic gear. **Not titanium.** Unrelated to orihalcum (converted gold) and adamantium (converted Ti, cast-final).
 
-- Shape is final when set. No cut, hem, resize or repair afterward. Weave or knit the finished garment, rope or net while it sets
-- Destroyed means gone. No patch
-- Resonance pitch falls as thickness rises. Thin cloth dies to a shrill tone. Plate needs a deep one. Mixed thread sizes in one cloth = many pitches = easier accidental kill
+Mana path mode is **superconducting** from conversion, not from mundane Ag–Cu alone (transport law: `../../Runes/ManaMaterials.md` section 1; feel order: `../../Runes/Energy.md`).
 
-**What it does not stop (force still reaches the body):**
+- Steady flow near lossless up to a high **Jc**. Pulses pay a little AC-loss feel. Digits unset.
+- **Quench is rare** on gear-grade stock. If it quenches, fall back toward ordinary poor-wire feel and dump heat. Do not treat quench as the normal failure of a mythril wand.
+- **Pattern stability:** written patterns follow Néel-Arrhenius fading. **Δ** is the stability factor and characteristic lifetime is about **1×10⁻⁹ s × e^Δ**. **Wipe T** is the temperature where that lifetime collapses to minutes or less (ordering / Curie analog). Gear-grade mythril aims for **Δ ≈ 45 or more**, which survives combat heat near **350 K** for days to years. A forge fire can still erase a pattern. That is a forge hazard, not a fight tax. Heat fade is separate from dark/star rune-life resistance (`../../Runes/ManaMaterials.md` section 2).
 
-- Blunt impact through uncut cloth (ribs, bruise)
-- Thrust that drives the weave into flesh without piercing it
-- Conducted heat (conducts like steel; cloth does not burn but the wearer can)
-- Crush and constriction (unbreakable net still squeezes)
+**Element lean (modes on plain mythril, not separate brand metals):** fire / water / dark-absorber / aether-phase.
 
-**Zero-stretch consequences:**
+#### Superconducting windings (invent / prestige apps)
 
-- Climbing / fall arrest: full jolt, no rope stretch. Cord survives. Bones may not. Real climbing rope stretches on purpose
-- Bowstring: ideal. Draw energy goes into the arrow
-- Restraints and nets: no wriggle-stretch escape
-- Armor cloth: spreads the hit across the weave. Wearer still takes the force
+A superconducting winding is a coil of wire made from superconducting material. Like a copper winding, it carries current to create a magnetic field. The difference is that current flows with zero resistance (mythril / aether-mythril path mode).
 
-**Uses:** Adamweave linings and undershirts, cord / rigging / restraints, bowstrings, nets, sails, straps, bags, mail.
+**What zero resistance does**
+- **No heat:** copper windings lose energy as heat (I²R loss). A superconducting winding loses nothing on steady DC however much current it carries.
+- **Persistent current:** with the coil's ends joined in a closed loop, current circulates forever with no power supply. SMES coils and MRI magnets work this way. Etherium is the dedicated persistent-store metal; mythril windings can hold a persistent electrical current in the coil loop.
+- **Much higher current density:** copper carries about 2 to 10 A/mm² before overheating. Current Earth superconductors carry 100 to 1,000+ A/mm². Gear-grade mythril still has a **Jc** ceiling; aether mythril aims higher.
+- **Stronger fields:** more current in less space creates far stronger magnetic fields from a compact coil.
 
-### Silver
+**Earth limits vs Caldris mythril**
+- **Critical temperature:** Earth superconductors need cooling to between -269 °C and about -200 °C. Room-temperature mythril removes the cooling plant.
+- **Critical field and critical current:** above a certain field or current, superconductivity collapses (a quench). Stored energy then turns into heat at once and can destroy the coil. Mythril **keeps Jc / quench** (rare on gear stock). Do not write it as perfect unlimited current.
+- **Magnetic pressure:** strong fields push the windings outward. Adamantium or high-strength frames contain this; orihalcum is mana-resistant cladding / anvil damp, not the winding itself.
+- **AC losses:** Earth superconductors lose a little when current changes quickly. Mythril pulses pay a little AC-loss feel. Steady DC is near lossless.
 
-| Saturation | Name | Notes |
+**Role in a flywheel / motor stack**
+- **Motor/generator:** superconducting windings on the stator create a strong field. The rotor's magnets (or its own superconducting windings) turn through it. Charging speeds the rotor up and discharging slows it down.
+- **Magnetic bearings:** superconductors push out magnetic fields (Meissner) and can lock magnets in place (flux pinning). This holds the rotor centered with no contact. Orihalcum plates are **mana-resistant** cladding (MR block), not superconducting bearings. Do not confuse shield stock with winding current.
+- **Efficiency:** with no winding I²R loss, conversion between motion and electricity sits above 99% on the electrical side. Remaining losses are bearings, windage, and power electronics / rune converters.
+
+Companions: `../Science/Energy/Batteries.md` (stone vs cell power), `../Science/Energy/RefinedMana.md` (Stillwire stone-refined wire; Lightthread), stone sockets as the mana feed.
+
+### Orihalcum (gold)
+
+Any permanently converted gold is **orihalcum**. Magic resistance equals conversion % from the first moment. High-grade orihalcum is a different material from gold. Gold conducts electricity well; orihalcum still blocks mana. Mana conductivity does not follow electrical conductivity (`../../Runes/Energy.md`).
+
+| Conversion | Magic resistance |
+|---|---|
+| 25% | 25% |
+| 50% | 50% |
+| 75% | 75% |
+| 100% | 100% |
+
+Orihalcum resists mana, so it fights further conversion. Nature stalls at low grades; high purity needs overwhelming concentration (deep dungeon cook or high altitude). Enchanting it is like projecting a movie onto black velvet: the image is swallowed and nothing seats. Refuses free enchantments; proximity still interferes with nearby work.
+
+**Spelling:** metal = **orihalcum**. Guild rank name **Orichalcum** can stay as rank spelling.
+
+- Thick plate and armor pass almost no mana at high conversion %. Thin foil still leaks.
+- In a mostly-mythril anvil, a little orihalcum **blocks** stray forge mana.
+- Full orihalcum kit is rare prestige: mage-hostile, empty of free enchantments.
+- **Never** a rune host. **Mythril is unrelated.** **Adamantium is converted Ti**, not this.
+
+### Aurium (copper)
+
+Converted copper. Mundane copper is already a **decent mana path**. Aurium keeps that and **cuts waste**: it damps / contains flowing mana so less junk energy burns the host or leaks sideways. Not a hard block like orihalcum.
+
+| | Still mana | Flowing mana |
 |---|---|---|
-| Mundane | Silver | Ordinary stock |
-| Magical | Mana silver | Mana-saturated silver |
-| High / full | Mythril | **Saturated silver** (shop Ag–Cu). Extremely mana conductive. Best common rune host below aetherium. **Not titanium.** |
+| Aurium | Passes | Contained and damped (less waste) |
+| Orihalcum | Blocked | Blocked |
 
-**Lock:** Mythril is silver-line. Orichalcum is titanium-line. Never swap them.
+`Insulation ≈ conversion` (burn vs bare metal falls as % rises). Ideal linings for mana pipes, pumps, grips, casting rods, stone wraps. Copper is COMMON, so low-grade aurium is industrial stock; high-grade is steep.
 
-**Elemental mythril:** Mythril can take elemental alignment. No special public variant names for now (not “red mythril” as a separate brand). Elemental versions stay **mythril only**, not every magic metal.
+### Darkiron / star iron (iron)
 
-### Titanium
+| Conversion | Name |
+|---|---|
+| <80% | **Darkiron** |
+| ≥80% | **Star iron** |
 
-| Saturation | Name | Notes |
-|---|---|---|
-| Full only (known) | Orichalcum | **Antimagic** metal. Magical titanium. Mundane titanium is not the public form people know. Will not take enchantments. Runic inlays are possible but proximity interferes; not smooth. **Not mythril.** Not a reduced-η wire path. |
+Same property line; dark look vs name at 80%. Mana-friendlier and tougher under damage as % rises. Meteoric iron that cooked in space for ages often falls as **star iron** (live “star metal” finds lean this way).
 
-### Aetherium
+ODS-like mana-rich Fe stock. Hard to melt (magical blast furnaces). Harder to inscribe than ordinary iron. Still ferromagnetic (poor path feel vs austenitic hosts: `../../Runes/ManaMaterials.md` section 2).
 
-**What:** Refined mana stones.
+### Darksteel / star steel (steel)
 
-**Role:** Best mana flow known. Above mythril for conduction.
+| Conversion | Name |
+|---|---|
+| <80% | **Darksteel** |
+| ≥80% | **Star steel** |
 
-### Arcanium
+Prime melee adventurer stock. Conversion improves **mana flow** in channels and **endurance under rune damage** (strain / burn resistance rises with %). Carbon slows conversion: smiths convert **iron → star iron**, then forge steel, faster than cooking blade steel at altitude. Darkiron → darksteel the same way.
 
-**What:** Brittle mana crystal (wand / staff / rune-plate stock).
+Nonmagnetic austenitic hosts when the channel zone is converted. Cleaner path feel than ferromagnetic iron-line steel. Best common rune channels in steel weapons: convert the channel zone; keep hardened bulk elsewhere. Darksteel sits under star steel on the Energy.md ladder (`../../Runes/Energy.md`).
 
-**Role:** Very high mana conductivity. Too fragile for blades or armor. Distinct from aetherium (refined stone metal/path stock); arcanium is the crystal form used in foci and plates.
+### Adamantium (titanium)
+
+Converted titanium. **Molten: cast once.** After set: indestructible to ordinary force. No forge, cut, or reshape. Destroy only by resonant sound / mana vibration. Every piece must be cast in final form. Mundane titanium is not street stock.
+
+**Enchanting:** adamantium carries little to no mana. Enchanting it is like projecting a movie onto clear glass: the image passes through and will not stick and its indestructible cast-final construction will not take alteration. It is not a rune host. It makes a great indestructible cover over a proper rune inlay in a real path metal underneath.
+
+Extreme hardness and stiffness at weapon weight. Diamond-like thermal spreading plus mana-supported hardness. Orihalcum tools work by **starving mana support** at the contact face so brittle cleavage becomes possible on unfinished stock. Inscription stays hardest of the commons.
+
+#### Form (cast-final)
+
+**Locks:**
+- **No stretch in any way.** No axial give, no elastic lengthening, no outer-fiber strain, no plastic set
+- **No bend.** Solid adamantium never curves. Rod, wire, pole, plate, blade, vault: cast shape only
+- Dead: `ε_max` / `R_min`, Adamweave, adamant cloth, knit, thread drapes, cord that “bends around” by filament flex
+
+**Adamant mail:** the flexible product. Cast rings (or links) while setting; join into mail before they finish set. **Flex is only at the links.** Each ring is rigid, unstretchable adamantium. Shirt / hauberk / curtain armor, not cloth.
+
+**Does not stop:** blunt through mail, thrust that drives rings into flesh, conducted heat, crush/constriction.
+
+Infernal forge talk in Source maps to pre-set work or cutting mana support, not post-set quench-and-temper steel.
+
+**Uses:** mail armor, mail curtains, linked screens, rigid cast parts (poles, plate, blades, vault stock, tower members, flywheel rims / axles / housings).
+
+**Firearms invent (cast-final jobs):**
+- **Barrel / chamber:** adamantium does not erode under hot powder gas. Double-base smokeless becomes the strongest practical propellant because barrel wear is gone. Chamber pressure is no longer limited by the tube; recoil, the shooter's body and the projectile surviving the pressure are the limits. Indestructible does not mean heat-proof: a steel-weight .50 barrel still climbs tens of °C per hot shot.
+- **Penetrator needle:** tungsten-dense cast needle about one third of the caliber in diameter, four calibers long, about a quarter of the bullet's weight, seated in a copper (or brass) slug. On armor impact the soft metal flattens and strips; the needle keeps going on a tiny point. It never blunts, bends or shatters. Hole is narrow (~4–8 mm). Behind armor it kills what it hits and throws some spall, with less wide damage than a copper bullet that gets through. Against flesh the copper still wounds; the needle separates and overpenetrates. Dig it out of a wreck and seat it in a fresh copper bullet. If density is only steel-like, cut needle penetration figures by about 60%. Full tier tables: `../../Combat/Firearms.md`.
+
+### Durium and durasteel
+
+**Durium:** hard brittle carbide/boride-like ore (dark blue sheen). **Durasteel:** durium particles in a darksteel matrix (cermet). Alone, slightly better than darksteel on rune-life from lattice damage under flow (`../../Runes/ManaMaterials.md` section 2). Etherium mix pushes enchant life toward mythril. **Aether durasteel** adds a thin mana-active phase for fire-gear buffs; still a poor wire.
 
 ### Etherium
 
-**What:** Spirit / ether condensed metal.
+Persistent-current store. Tower cores stay mostly **stationary** because motion bleeds pinned flux. Mixes raise Jc / storage and lower toughness. Over-Jc **quench** dumps the store as heat. Transfer feel is very clean. Digits unset. Path mode: persistent store (`../../Runes/ManaMaterials.md` section 1).
 
-**Role:** Persistent store and spirit-leaning craft stock. Light, hard to work with ordinary fire. Used in alloys and specialty gear when the story needs it.
+### Star silver, arcanite, and resistium
 
-### Enchantment refusals
+**Star silver:** clean silver-copper feel with radiation-hard rune-life bonus on the lattice-damage axis (`../../Runes/ManaMaterials.md` section 2). **Arcanite:** reserved prestige crystal. **Resistium:** ODS-style **additive**; inherits host path feel, raises rune life on the lattice-damage axis (section 2).
 
-Adamantium and orichalcum refuse enchantments. Runes are the workaround path (orichalcum still interferes by proximity).
+### Altitude vs time (open-air finish bands)
+
+Cook is excess soak, not a log-altitude cheat:
+
+```
+(A − threshold_A) × time × speed ≈ K_%     // K_50 ≈ ln 2; K_90 ≈ ln 10; K_99 ≈ ln 100
+```
+
+Fixed % → 10× time allows ~1/10 the excess `A` (read new height from `ManaConcentration.md`). Faster metal (gold) finishes nearer its start height; titanium needs huge excess `A` or geological time.
+
+**Planning anchors** (continuous open-air soak ≈ **1 year**). Heights are table landmarks, not the old `+20 mi × log₁₀` ladder.
+
+| Metal | ~50% / 1 yr | ~80% / 1 yr | ~99% / 1 yr |
+|---|---|---|---|
+| Gold | ~12 mi (`A` ~4) | ~20 mi (`A` ~11) | ~30 mi (`A` ~32) |
+| Silver | ~15 mi | ~22 mi (`A` ~14) | ~35 mi |
+| Copper | ~18 mi | ~25 mi (`A` ~19) | ~40 mi (`A` ~93) |
+| Iron | ~50 mi (`A` ~320) | ~62 mi Kármán (`A` ~1.7×10³) | ~100 mi (`A` ~1.8×10⁴) |
+| Steel (1% C) | ~55 mi | ~62–100 mi | ~200 mi (`A` ~1.3×10⁵) |
+| Titanium | ~100 mi | ~249 mi orbit (`A` ~2.7×10⁵) | ~370 mi+ / moon floor |
+
+Gold / silver / copper can finish high grades in atmosphere on long cooks. Iron / steel want mesosphere–space or dungeon-equivalent `C`. Titanium high grades want orbit, moon soak, or deep dungeon. Moon ores at solar-wind floor are geological cooks (`ManaConcentration.md`; deposit split `../Space/Moons.md`).
+
+Dungeon / spiritual soak is **narrative-pervasive**: a sea-level deep delve or holy/cursed site can match a high open-air cook band without flying. Mild floor `ΔC` digits are spell-feel only. Loot bias: **find old converted stock** more often than watch metal finish cooking on the trip.
+
+### Story consequences
+
+- Low-grade orihalcum common in dungeon **hoards** (old cook); high-grade wants long open-air cook, ~20–30 mi, or a narratively thick delve / spiritual site
+- Low-grade aurium cheap (COMMON Cu); high-grade conduits costly
+- Mythril: dungeon/spiritual finds and low sources; open air ≥~6 mi
+- Star iron (≥80%): Kármán-band year cook, meteors, moon iron, or dungeon-equivalent narrative soak; darkiron from shorter high-ground / delve cooks
+- Star steel: mostly forged from star iron; darksteel = affordable melee band
+- Adamantium: hardest; year-scale high % is orbital / exobase; Terra crust deposits near nonexistent; moon / meteor Ti paths exist; dungeon adamantium is almost always **old find**, not fresh cook
+- Silver near mages charges without converting → mythril stays rare
 
 ### Property anchors (planning)
 
-Units: c in J/g·K, k in W/m·K, melt °C, hardness Mohs unless noted, ρ in g/cm³. Alloy bands vary.
+Mundane Earth-like rows unchanged in feel. Named magic stock:
 
-**Mundane (Earth-like):**
-
-| Metal | c | k | Melt | Hardness | ρ |
-|---|---|---|---|---|---|
-| Iron | 0.45 | 80 | 1538 | 4 | 7.87 |
-| Steel | 0.49 | 50 | 1370–1510 | 4–6.5 | 7.85 |
-| Copper | 0.39 | 401 | 1085 | 3 | 8.96 |
-| Bronze | 0.38 | 50 | ~950 | 3 | 8.8 |
-| Silver | 0.24 | 429 | 962 | 2.5 | 10.5 |
-| Gold | 0.13 | 318 | 1064 | 2.5–3 | 19.3 |
-| Lead | 0.13 | 35 | 327 | 1.5 | 11.3 |
-| Tin | 0.23 | 67 | 232 | 1.5 | 7.3 |
-| Zinc | 0.39 | 116 | 420 | 2.5 | 7.14 |
-| Nickel | 0.44 | 91 | 1455 | 4 | 8.91 |
-| Platinum | 0.13 | 72 | 1768 | 3.5 | 21.5 |
-| Electrum | ~0.17 | 70–100 | 1000–1050 | 2.5–3 | 13–16 |
-| Mercury | 0.14 | 8 | −39 | liquid | 13.5 |
-
-**Named magic stock (purpose-fit numbers, not lab law):**
-
-| Material | Mana flow | c | k | Melt | Hardness | ρ |
-|---|---|---|---|---|---|---|
-| Mythril | Excellent (best common host below aetherium); saturated silver / Ag–Cu | 0.24 | 300 | ~779 shop eutectic | 5.5 | ~10 |
-| Orichalcum | Very poor (antimagic); magical titanium | 0.52 | 22 | ~1668 | 6 | 4.5 |
-| Adamantium | Excellent inlay path; refuses free enchant | 0.47 | 50 | ~1540 cast | Indestructible once set (not forge-HT stock) | 8.0 |
-| Aetherium | Best metal/path flow | - | - | - | - | - |
-| Arcanium | Highest (brittle crystal) | 0.80 | 1.5 | ~1700 | 6.5 | 3.0 |
-| Etherium | High spiritual | - | - | not normal fire | ~2 | ~0.3 |
-
-### Star metal
-
-Meteoric nickel-iron. Dark gray, etched lattice. Holds an edge past steel. Resists outside enchantment. Often harms spirits / extraplanar. Hard to forge (sulfide cracks, poor forge-weld). Scarce supply; smiths may fold with other stock to stretch it. Seals, prison bindings, heirloom blades.
-
-### Ebonite (shadow ore path)
-
-**Separate from** iron saturation grades. Mana iron / mana steel stay on the iron ladder above. Ebonite is its own black ore line.
-
-| Grade | Feel | Role |
+| Material | Mana / magic | Role |
 |---|---|---|
-| Unrefined ebonite | Stronger than iron, brittle, weak shadow affinity | Heavy weapons, plate, dungeon fittings |
-| Refined ebonite | Denser, matte light-absorbing, amplifies shadow / fear / necro when the story needs it | Military / stealth blades and armor |
+| Mythril | Excellent flow | Rune host (Ag line) |
+| Aurium | Damps flowing mana | Pipes, grips, wraps (Cu line) |
+| Orihalcum | Antimagic = % | Shield stock (Au line) |
+| Darkiron / star iron | Rising with % | Fe line |
+| Darksteel / star steel | Rising with % | Melee blades / plate |
+| Adamantium | Little/no mana; hard to alter (cast-final) | Indestructible cover over a real rune inlay |
+| Durium / durasteel / aether durasteel | Earth-lean matrix; poor wire | Cermet armor and prestige hammers |
+| Arcanium / aetherium | Stone refine line | `MonsterCores.md` |
+| Etherium | Persistent store; clean transfer | Tower cores, mixes |
+| Star silver / resistium | Host-dependent | Rune-life additives |
+| Arcanite | Reserved crystal | Prestige |
 
-Needs a hotter forge than plain iron. Higher refine may carry cold aura or nightmare side effects if locked in prose later.
+### Ebonite (shadow ore)
 
-### Relative rank (feel)
-
-| Material | Strength | Weight | Mana | Rarity feel |
-|---|---|---|---|---|
-| Mythril | High | Light | Very high | Rare |
-| Orichalcum | High | Light | Anti | Very rare |
-| Adamantium | Indestructible (cast-final) | Heavy | High inlay path / no enchant | Legendary |
-| Star metal | Very high | Heavy | Resist enchant | Very rare |
-| Unrefined ebonite | Med-high | Heavy | Low shadow | Uncommon |
-| Refined ebonite | High | Very heavy | Med shadow | Uncommon |
-| Arcanium | Low (brittle) | Light | Highest | Rare |
-| Etherium | Low | Very light | High spirit | Very rare |
+Separate from Fe conversion. Own black ore line. Unrefined / refined grades as before when a beat needs them.
 
 ## Open
 
-- Saturation ladders for non-common metals (only if a beat needs them; default = specialty / ignored)
-- Ebonite ore geography and exact side-effect locks
-- Star metal drop / hunt economy
+- Converted-% host feel vs quality η_cond (quality ladder already locked in `Energy.md`)
+- Absolute cook `speed` / `K_%` digits (finish table is landmark planning only)
+- Ebonite geography
+- Guild-rank spelling Orichalcum vs metal orihalcum (keep both unless prose confuses)
+

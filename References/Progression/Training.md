@@ -107,7 +107,7 @@ Condensed average ~**6**.
 
 ### Stats by age (daily training and decent nutrition)
 
-Body baseline from age plus steady training. **Not** the untrained civilian curve. Skill traits (Technology, Tinkerer, etc.) can push a sheet above these numbers, especially Dexterity.
+Body baseline from age plus steady training. **Not** the untrained civilian curve. Skill traits (Technology, Fabrication, etc.) can push a sheet above these numbers, especially Dexterity.
 
 | Age | STR | VIT | END | AGI | DEX | Avg |
 |---|---|---|---|---|---|---|

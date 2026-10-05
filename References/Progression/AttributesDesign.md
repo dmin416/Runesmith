@@ -1,6 +1,6 @@
 # Attributes
 
-> **Design loot.** Live locks: Progression.md (XP / tiers / reclass), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. Non-canon XP leftovers in Levels.md (RaceMult / class-change half-cut). Diagnosis is the live skill name (Old Debugger).
+> **Design loot.** Live locks: Progression.md (XP / tiers / reclass; `50 × L × RaceMult`), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. Levels.md holds live RaceMult table; Ch 4-19 XP ledger locked in Story/Notes/Experience.md. Diagnosis is the live skill name (Old Debugger).
 
 
 Attribute explanations from the status screen. First seen: Chapter 2.
@@ -85,7 +85,7 @@ First worked out by Roland in Chapter 2. Checked against later status sheets.
 - SP = (Endurance x 10) + (Strength x 3) + (Agility x 3)
 - MP = (Intelligence x 10) + (Willpower x 4)
 
-**Cast law:** `Useful (J) = mana × 10 × η(L) × μ(INT)` with `η(1)=0.3`, `η(L)=1+(L-2)×2/7` (L2=1 … L9=3), `μ=(INT/15)^0.8`. See `../World/Science/Energy/ManaCast.md`.
+**Cast law:** `Useful (J) = mana × 10 × η(L) × μ(INT) × A` with `η(1)=0.3`, `η(L)=1+(L-2)×2/7` (L2=1 … L9=3), `μ=(INT/15)^0.8`, ambient `A = √C` (open ground **A = 1**). See `../World/Science/Energy/ManaCast.md` / `../Runes/Energy.md`.
 
 Skill, trait and class bonuses can raise displayed MP above the bare attribute total. Chapter 23: low mana → dizzy/sleepy; **zero MP** → splitting headache and possible pass-out, plus a next-day mana-regen debuff.
 

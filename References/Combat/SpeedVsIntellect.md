@@ -71,13 +71,17 @@ Your time → think only (`0.02 s` at 10× INT). You win every exchange magic ca
 
 1. **Not detected** (ambush, behind, close bullets already in flight)  
 2. **Shield fails** (energy, momentum into body, coverage gaps, already grappled)  
-3. **Attack fails** (orichalcum / star metal, enemy shields, own shield blocking outbound spell)  
+3. **Attack fails** (orihalcum / star metal, enemy shields, own shield blocking outbound spell)  
 4. **Resources** (mana attrition, many angles)  
 5. **Bad decisions** (feints, illusions)
 
 Shield then attack ≈ two activations (~0.04 s) still beats a 2.65× jab window in the worked example.
 
 Close bullet rule of thumb: pistol ~360 m/s inside ~7 m and rifle ~850 m/s inside ~17 m finish inside 0.02 s think. Need pre-trigger read or faster detection.
+
+### Laser aim (think-bound)
+
+Once the beam is on target, light speed removes the dodge term. The fight is aim and track: Think + any turret slew. High INT / Parallel Thinking operators close that gap against superhuman movers. Doctrine: `Lasers.md`. Physics: `../World/Science/Energy/Optics.md`.
 
 ### Sound and echolocation (sensing floor)
 

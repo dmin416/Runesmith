@@ -31,7 +31,7 @@ Quiet Ward / sound barriers care about **leaving** intensity (dB). Pitch and ran
 | Visible red | ~620 to 750 nm | | Longest visible. |
 | Visible orange | ~590 to 620 nm | | |
 | Visible yellow | ~570 to 590 nm | | |
-| Visible green | ~495 to 570 nm | | Eye peak sensitivity. |
+| Visible green | ~495 to 570 nm | | Eye peak. Yellow-green peak: 1 W = 683 lm (max). Looks about 5× brighter than red at equal power (laser blinding: `Optics.md`, `../../../Combat/Lasers.md`). |
 | Visible blue | ~450 to 495 nm | | |
 | Visible violet | ~380 to 450 nm | | Shortest visible. |
 | UV-A | 315 to 400 nm | | Tanning, blacklight. Reaches ground. |

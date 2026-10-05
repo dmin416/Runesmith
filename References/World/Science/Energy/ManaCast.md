@@ -1,19 +1,19 @@
 # Mana Cast Physics
 
 Hub: `../Science.md`.
-**Shared cast / path law:** `../../../Runes/Energy.md` (η(L), μ(INT), η_cond, G, mana-in, no-stack rules, voice baselines).
-This file is spell-specific worked tables only (Bolt, Arrow, Shield, Hands, Ember, anchors).
+**Shared cast / path law:** `../../../Runes/Energy.md` (η(L), μ(INT), η_cond, ambient `A = √C`, mana-in, no-stack rules, voice baselines).
+This file is spell-specific worked tables only (Bolt, Arrow, Shield, Hands, Ember, anchors). Tables below are at open-ground **A = 1** unless a row says otherwise. Multiply Useful by `A` in thicker fields.
 Cast blurbs also in Old `Combat/Spells.md` until absorbed.
 
 ## Kinetic vs thermal mana (rough guide)
 
 The dividing line in this system: **kinetic magic is still cheaper than bulk thermal work**, but mid/high casts now carry hundreds to thousands of joules so small melts get realistic. Latent heat and plasma remain the walls.
 
-Mana per gram uses `mana = joules / (10 × η × μ)`.
+Mana per gram uses `mana = joules / (10 × η × μ × A)` (tables at **A = 1**).
 
 ### Joules per mana (k = 0.8)
 
-`J/mana = 10 × η(L) × μ(INT)`
+`J/mana = 10 × η(L) × μ(INT) × A` (tables use A = 1)
 
 | INT | L1 | L2 | L3 | L4 | L5 | L6 | L7 | L8 | L9 |
 |---|---|---|---|---|---|---|---|---|---|
@@ -112,7 +112,7 @@ Feel guides for elemental and force effects. Match cast Useful energy to these r
 Blunt bean/egg. **Pop = kinetic = Useful** from the shared cast law.
 
 ```
-Useful = mana × 10 × η(L) × μ(INT)
+Useful = mana × 10 × η(L) × μ(INT) × A     // A = √C; tables at A = 1
 Speed = √(2 × Useful / 0.084 kg)
 Ram pressure = ½ ρ v²    (ρ = 2,000 kg/m³)
 ```
@@ -176,7 +176,7 @@ At 400 mm and ~7,950 kg/m³ this is 400 × √(7,950/1,050) ≈ **1,101 mm**. Tr
 Same cast law as Mana Bolt. Pure kinetic (no pop). Mass 40 g. **Voice costs are 2× Bolt** for the same named rung. Overcharge = mana spent.
 
 ```
-Kinetic = mana × 10 × η(L) × μ(INT)
+Kinetic = mana × 10 × η(L) × μ(INT) × A     // A = √C; tables at A = 1
 Speed = √(2 × Kinetic / 0.04 kg)
 ```
 
@@ -210,7 +210,7 @@ E_punch = 1.5 × R × A × t
 A = 0.1257 cm²
 ```
 
-R in MPa, t in cm, E in J. Cost scales with diameter squared (4 mm = 25% of an 8 mm shaft). Mana to pay that joule cost: `mana = joules / (10 × η(L) × μ(INT))`.
+R in MPa, t in cm, E in J. Cost scales with diameter squared (4 mm = 25% of an 8 mm shaft). Mana to pay that joule cost: `mana = joules / (10 × η(L) × μ(INT) × A)` (tables at **A = 1**).
 
 | Material | R | Thickness | Joules | Mana L1 INT 40 | Mana L2 INT 40 |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@ Three razor vanes at 120°. Each is 60 mm long and reaches 20 mm from the shaft 
 
 #### Goblin kill paths (through and through, between ribs)
 
-Mana from cast law (`mana = joules / (10 × η × μ)`). Soft kills are cheap; hardness gate still decides armor.
+Mana from cast law (`mana = joules / (10 × η × μ × A)`, tables at **A = 1**). Soft kills are cheap; hardness gate still decides armor.
 
 | Path | Joules | Mana L1 INT 40 | Mana L2 INT 40 | Time to death |
 |---|---|---|---|---|
@@ -424,20 +424,21 @@ Barrier hit count from the shared cast law, scaled by shield area and hold time.
 **Fight-scale map** (physical tip KE vs shield pools, worked Ch 14 lock): `../../../Combat/AttackScale.md`.
 
 ```
-N = floor( 20 × M × η(L) × μ(INT) × S × R / J )
+N = floor( 20 × M × η(L) × μ(INT) × S × R × A / J )
 
 M      = shield mana
 J      = threat energy (J)
 η(1)   = 0.3
 η(L)   = 1 + (L - 2) × 2/7              // L2-L9
 μ(INT) = (INT / 15)^0.8
-S      = √(0.2 / A)                     // A = shield area, m²
-R      = 1 - (0.1 × A × t) / M          // t = seconds held
+A      = √C                               // ambient; open ground A = 1
+S      = √(0.2 / area)                    // area = shield face, m²
+R      = 1 - (0.1 × area × t) / M         // t = seconds held
 ```
 
-The leading **20** is `2 × 10`: paid joules per mana times the focused 45° absorb share (50% of threat). Whole attacks only; round down.
+The leading **20** is `2 × 10`: paid joules per mana times the focused 45° absorb share (50% of threat). Whole attacks only; round down. Tables at open-ground **A = 1**.
 
-| Shape | A | S | R |
+| Shape | area | S | R |
 |---|---|---|---|
 | Focused disk | 0.2 m² | 1 | 1 (no area bleed) |
 | Semicircle | 6.28 m² | 0.178 | 1 - 0.628 t / M |

@@ -79,7 +79,7 @@ Ch 13 combat/technique ranks (half-year slate): Mana Shield **L3→L6**; Mana Ar
 
 **Ch 17:** Basic Rune Mastery L1 tested on the detonation rapier (Mana Shield muffles tip blast; **−10%** activation). No new skill unlocks. Hammer borrow set up for Ch 18. Details: `Skills.md` / `Notes.md`.
 
-**Ch 18:** **Drawing L1** (Basic Drawing L9 breakthrough via Impact schematic Debugger overlay). **Lesser Impact Rune [Highest]** + **1000 XP**. Bar **1739 / 13000**. Details: `Skills.md` / `Notes.md`.
+**Ch 18:** **Drawing L1** (Basic Drawing L9 breakthrough via Impact schematic Debugger overlay). **Lesser Impact Rune [Highest]** + **1000 XP**. Bar **2479 / 13000**. Details: `Skills.md` / `Notes.md`.
 
 ## Runic Blacksmith era (~Ch 35–80)
 
@@ -164,5 +164,5 @@ No further Roland-named skill unlocks found in Source. Late chapters mostly Agni
 - Class body lines (Overlord’s Organs, etc.) are traits in Source, not skills.
 - Rune Arch-Knight / Rune Transmuter skill packages belong to Robert and Lucille, not Roland.
 - Duel Meister / High-Lord / Aura Master / Stamina Surge are Arthur’s.
-- Parallel Thinking appears as a trait-linked ability in Source; omitted here as non-skill unless you want it listed separately.
+- Parallel Thinking: rewrite **skill** (Source called it a trait). Level = true parallel count; see `References/World/Science/Body/FocusCapacity.md`. Not listed on early sheet until unlock (~Ch 148).
 - Smithing Mastery L2 “+1 Str” in Source is the skill’s level-bonus line under rewrite (+1 × level to Strength once the skill lists Strength).

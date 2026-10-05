@@ -1,6 +1,10 @@
 # Earth Alloys
 
-Earth production and property reference for metals and carbon materials. Roland-knowledge / shop path. Ore find and extract routes: `MetalOres.md`. Magic heat, barrier molds and vacuum craft: `CraftMetal.md`, `Vacuum.md`, `SteelVacuumChamber.md`. Forge products: `BlacksmithProducts.md`. Era: `../../Tech/Technology.md`.
+> **Earth encyclopedia / Roland-knowledge.** Not Terra street stock.
+> Availability gate: `../../Materials/Materials.md`. Brass / calamine: `Brass.md`. Magic metals: `../../Materials/Metals.md`.
+> Metallic Zn, Ni, Cr, Al, stainless, powder steels, aerospace Ti alloys, carbon fiber, graphene = **SPECIALTY** or **NO** as baseline. Prefer COMMON Cu/Fe/Ag/Au/Sn/bronze/brass + MAGIC lines in prose.
+
+Earth production and property reference for metals and carbon materials. Ore find and extract routes: `MetalOres.md`. Magic heat, barrier molds and vacuum craft: `CraftMetal.md`, `Vacuum.md`, `SteelVacuumChamber.md`. Forge products: `BlacksmithProducts.md`. Era: `../../Tech/Technology.md`.
 
 Numbers are typical industrial / lab bands, not locked story law.
 

@@ -1,6 +1,7 @@
 # Economy Design
 
-> **Design loot / price book.** Lean lock: Economy.md. Cores: ../Materials/MonsterCores.md.
+> **Design loot / price book.** Lean lock: `Economy.md`. Cores: `../Materials/MonsterCores.md`.
+> Domain books: food `../../Food/FoodPrices.md`; gear `../../Combat/GearPrices.md`; scrolls `../../Runes/ScrollEconomy.md`; bags `SpatialBagPrices.md`; story ledger/prices `../../../Story/Notes/CoinLedger.md` + `StoryPrices.md`.
 
 ## Rewrite price lock
 
@@ -46,7 +47,73 @@ Use these rewrite anchors first. Prefer them over older Source-era numbers when 
 
 Peg constant: **5 large copper (LC) = 1 historical penny (d)**
 
+**Purchasing power feel:** `Economy.md` (1 SS ≈ 1–2 unskilled days; 1 LS ≈ 10–20 days; 1 SG ≈ half a year).
+
 ---
+
+## Pricing method (days of labor)
+
+Coin face values drift; a day's unskilled work does not. Price and sanity-check goods in **days of unskilled labor**. England is the reference set for historical anchors below. Live unskilled band: **5–10 LC/day** (mid **~7.5 LC**). Skilled town craft ~**2–3×** (**15–25 LC/day** ≈ **2 SS**). Master / Tier-1 classed crafter often **~3–5 SS/day** when work is steady.
+
+### Era mix by production method
+
+| Category | Borrows from | Reason |
+|---|---|---|
+| Food and livestock | Medieval→Victorian (stable in labor-days) | Farm effort tracks labor; tamed monster farming can discount slightly |
+| Common textiles | Victorian or cheaper | Needle Worms make silk at will; common silk is not a luxury |
+| Iron and steel goods | Victorian / steam | Industry and steam power |
+| Books, word scrolls, runic scrolls | Medieval hand labor | No mass printing; every copy costs skilled hours + mana |
+| Long-distance travel | Victorian on rail; medieval off-rail | Trains on main routes only |
+| Mana-converted metals, class items, spatial gear | Medieval warhorse / treasure tier | Personal power and logistics cheats stay rare |
+
+### Patterns to keep
+
+1. Farm goods track labor-days across eras.
+2. Manufactured goods collapse when steam/machines apply.
+3. Distant goods collapse when rail/ships apply.
+4. Skill hours stay expensive (custom armor fit, books, scrolls, medicine, law).
+5. Status / power goods hold value (war mounts, spatial bags, true mythril gear).
+
+### Working fair bands (design; chapter locks above win on conflict)
+
+Working at unskilled mid **~7.5 LC/day**:
+
+| Item | Fair band | Basis |
+|---|---|---|
+| Loaf of bread | **1 LC** | Staple |
+| Mug of ale | **1–2 LC** | Staple (gallon ale still ~**5 LC**) |
+| Chicken | **5–10 LC** | ~1 day |
+| Sheep | **6–8 SS** | ~10 days; slight monster-farm discount vs pure medieval |
+| Cow or ox | **7–10 LS** | ~100 days |
+| Plain wool clothes, full set | **4–8 SS** | Ready-made / steam-era cloth feel |
+| Needle Worm silk shirt | **1–2 SS** | Cheap silk (not Earth medieval silk-yard prices) |
+| Boots | **3–6 SS** | Common footwear |
+| Iron knife or hand axe | **1–3 SS** | Steam-made |
+| Plain steel sword (working) | **1–3 LS** | Steam-made blade; peasant floor stays **~30 LC** |
+| Full plate (common steel) | **3–8 SG** | Medieval harness cut by steam industry |
+| Finest parade / proof plate | up to **~1 LG** | Historical top kit still exists |
+| Star steel plate | **5–10×** common steel plate | Conversion + rarity |
+| Mythril / orihalcum / adamantium gear | By conversion grade and host job | Metals.md; not Earth silk math |
+| Ordinary riding horse | **8–15 LS** | ~150 days |
+| High-grade riding / show mount | up to **~1 LG** | Historical £10 tier |
+| Trained war mount or war monster | **2–10 SG** | Common combat mount band |
+| Legendary destrier / apex stock | up to **~10 LG** | Historical top destrier; rare |
+| Plain handwritten book | **2–5 LS** | No printing |
+| Illuminated / reference book | **1–5 SG** | Skilled hours |
+| Spell grimoire | **5+ SG** | Skill item / power premium |
+| Working-class room (not full inn board) | **~1 SS/week** | ~20% of laborer week; commoners cook at home |
+| Modest town house (quiet) | **5–15 SG** | Years of wages |
+| Boom-town house + workshop plot | **~30 SG** | Locked Albrook-style access premium |
+| Rail, third class | **~0.3 LC/mile** (100 mi ≈ **3 SS**) | Victorian ratio |
+| Rail, first class | **~3×** third | Victorian ratio |
+| Spatial bag (~2 m³) | **5 SG** used / **7–10 SG** market | Locked; larger follows SpatialBagPrices.md (not a flat 5–50) |
+| Debt / criminal labor contract, unskilled | **1–3 SG** | ~1–3 years wages |
+| Classed / skilled contract | **5–20+ SG** | Skill multiplies |
+
+**Roland scroll income check:** settled High Common Fire Arrow at **~10 SS** each, **~10/week** → **~1 SG/week** gross (~**1 LS/day** before fees). About **10×** a steady classed crafter day. Rare skill, high income, still far below landed nobility. Shop scroll locks: `../../Runes/ScrollEconomy.md`.
+
+---
+
 
 ## 1. Currency Ladder (Caldris coins)
 
@@ -82,7 +149,7 @@ Three metals, each with a small and large coin. Each tier is x10 the one below i
 | Lodging (nightly) | 1 SS | 10 | 2d |
 | Singing Crow (Edelgard, nightly) | 14 LC | 14 | ~2.8d |
 | Better inn (nightly) | 2 SS | 20 | 4d |
-| Monthly lodging (10% off, **28** nights at 1 SS) | 252 LC | 252 | 4s 2d |
+| Monthly lodging (10% off, **30** nights at 1 SS) | 270 LC | 270 | 4s 6d |
 | Cabin (Arden) | free | 0 | - |
 
 Inn meals are under §11 and the Rewrite price lock.
@@ -197,7 +264,7 @@ Mats are **not** a top-up. On Floor 1 they usually match or beat stone pay. Comm
 | Material | LC value | Notes |
 |---|---|---|
 | Hide/pelt | 20-40 LC | tanner/leatherworker market |
-| Meat | usually worthless; 40-100 LC for "good" species | most monster meat is tough and bad-tasting and gets left behind; wild boar/deer are the exception; **dungeon Spiked Boar meat is skipped** (dense/bad; Ch 11) |
+| Meat | often low resale; 40-100 LC when fresh/"good" species move fast | tastes good but **spoils fast**; value is time-to-market / preserve, not toughness; never-eaten ban still holds for goblins/undead |
 | Bone/tooth/claw | 15-30 LC | crafting material; some species (e.g. needle worm spikes) sell poorly regardless |
 | Venom gland or rare organ | 40-80 LC | alchemist/apothecary market |
 | Full corpse, sold whole to a buyer who processes it | 60-120 LC | same tier as "larger monster component" above |
@@ -253,30 +320,7 @@ Ch 13 half-year drop pace: stones **~50%** of Wereboar / Spiked Boar kills; Need
 
 ## 11. Food & Drink
 
-| Item | Historical price | LC value |
-|---|---|---|
-| Inn meal (porridge + jerky) | rewrite lock | **5 LC** |
-| Breakfast add-on | rewrite lock | **+5 LC** |
-| Forest lunch jerky (per stick) | rewrite lock | **~2 LC** |
-| Ale (gallon) | ~1d | 5 LC |
-| Wine, cheap (gallon) | ~4d | 20 LC |
-| Wine, good (gallon) | ~8d | 40 LC |
-| Fortified / ~40 proof (20% ABV), gallon | ~1.5× cheap wine | **~30 LC** |
-| Half-gallon pitcher (weak spirits, ~40 proof) | Iron Flagon / Ch 12 | **~15 LC** |
-| Three half-gallon pitchers (weak spirits) | Ch 12 first round | **~45 LC** |
-| Poor spirit / tavern rotgut (~80 proof, 40% ABV), gallon | steam-age still commodity | **50-70 LC** |
-| Better distillate / aged brandy, gallon | clean cuts or wood age | **1-2 LS** |
-| Tavern dram / shot (~30-40 ml poor spirit) | impulse pour | **3-5 LC** |
-| Tavern double / small glass | two shots neat | **6-8 LC** |
-| Quart bottle (~1 L) poor spirit | takeaway jug | **15-25 LC** |
-| Cheese (2 lb) | 1d | 5 LC |
-| Eggs (2 dozen) | 1d | 5 LC |
-
-Live animals are under §14. Cloth and candles are under §12 / §22.
-
-**Spirits tech note:** Caldris has magic steam trains and noble airships, so copper boilers, condensers and stills exist. Adventurer towns sell **poorly distilled** firewater (harsh, bad heads/tails cuts, sometimes watered). It is common, not rare alchemy. Nobles drink cleaner or aged stock. Iron Flagon / Ch 12: **weak spirits (~40 proof, ≥20% ABV)**, half-gallon pitchers **~15 LC** each, three-pitcher round **~45 LC**. Roland pays the full first round (**45 LC** = **9** goblin ears) to celebrate. Full ~80 proof rotgut is **50-70 LC**/gallon (dram **3-5 LC**). Distill / liqueur process: `Food/Food.md` (Steam-era spirits and liqueurs).
-
----
+Moved: `../../Food/FoodPrices.md` (tables + spirits tech note). Wealth ladder: `../../Food/Food.md`.
 
 ## 12. Goods & Materials
 
@@ -284,7 +328,7 @@ Live animals are under §14. Cloth and candles are under §12 / §22.
 |---|---|---|
 | Peasant tunic cloth (per yard) | 8d-1s 3d | 40-75 LC |
 | Best wool (per yard) | 5s | 300 LC |
-| Silk (per yard) | 10-12s | 600-720 LC |
+| Silk (per yard, Earth medieval import) | 10-12s | 600-720 LC (Earth luxury; **not** Caldris Needle Worm common silk) |
 | Furs added to a garment | £2-3 | 2,400-3,600 LC |
 | Tallow candle (1 lb) | 1.5d | ~7-8 LC |
 
@@ -295,6 +339,9 @@ Live animals are under §14. Cloth and candles are under §12 / §22.
 | Item | Historical price | LC value |
 |---|---|---|
 | Plain wool tunic (cloth + labor) | 2-4s | 120-240 LC |
+| Plain wool clothes, full set (fair Caldris) | labor-days / steam cloth | **4–8 SS** |
+| Needle Worm silk shirt (fair Caldris) | monster silk at will | **1–2 SS** |
+| Boots (fair Caldris) | Victorian-ish | **3–6 SS** |
 | Shoes, plain (estimate, unsourced) | ~4-8d | 20-40 LC |
 | Fine damask gown | 53s 4d | 3,200 LC |
 | Velvet bonnet, gold-trimmed | 33s 4d | 2,000 LC |
@@ -303,17 +350,21 @@ Live animals are under §14. Cloth and candles are under §12 / §22.
 
 ## 14. Animals
 
+Historical England rows kept for research. **Fair Caldris bands** (labor-days method above) win for ordinary stock: chicken **5–10 LC**, sheep **6–8 SS**, cow/ox **7–10 LS**, ordinary riding horse **8–15 LS**, trained war mount / war monster **2–10 SG**. High-grade show mounts and legendary destriers stay at the dear historical tiers.
+
 | Animal | Historical price | LC value |
 |---|---|---|
 | Chicken | 1-2d | 5-10 LC |
 | Goose | 6d | 30 LC |
-| Sheep | 10-17d | 50-85 LC |
+| Sheep | 10-17d | 50-85 LC (fair Caldris **6–8 SS**) |
 | Pig | 24d | 120 LC |
-| Cow | 10-20s | 600-1,200 LC |
+| Cow | 10-20s | 600-1,200 LC (fair Caldris **7–10 LS**) |
 | Draught/pack horse | 10-20s | 600-1,200 LC |
+| Ordinary riding horse | labor-days band | **8–15 LS** |
 | High-grade riding horse | £10 | 12,000 LC (1.2 LG) |
+| Trained war mount / war monster | fantasy combat stock | **2–10 SG** |
 | Warhorse (destrier, top tier) | up to £80 | up to 96,000 LC (9.6 LG) |
-| Tamed monster draft-beast (field labor, stronger than ox/horse) | fantasy-only, no historical anchor | 20,000-40,000 LC (2-4 LG) |
+| Tamed monster draft-beast (field labor, stronger than ox/horse) | fantasy-only | 20,000-40,000 LC (2-4 LG) |
 
 ---
 
@@ -349,134 +400,17 @@ Sources: Postan on English land values; Ostsiedlung and bastide studies; Penn's 
 
 ## 16. Weapons & Armor
 
-| Item | Historical price | LC value |
-|---|---|---|
-| Cheap / peasant sword (1340s) | 6d | **30 LC** |
-| Working sword, decent quality | 6s-£2 | 360-2,400 LC |
-| Fine sword | up to 100s (£5) | up to 6,000 LC |
-| Exceptional/masterwork sword | £5+ | 6,000+ LC |
-| Leather armor (merchant inventory, late 13th) | 5s | **300 LC (3 LS)** |
-| Dagger (estimate, unsourced) | ~2-5s | 120-300 LC |
-| Morion (open helmet) | 3s 4d | 200 LC |
-| Burgonet (helmet) | 4s | 240 LC |
-| Bascinet, with lining | 13s 4d + 3s 4d | 1,000 LC |
-| Normal cuirass with pauldrons | 26s 8d | 1,600 LC |
-| Complete corselet | 30s | 1,800 LC |
-| Target/shield of proof | 30s | 1,800 LC |
-| Cuirass of proof with pauldrons | 40s | 2,400 LC |
-| Complete lance armor (jousting harness) | £3 6s 8d | 4,000 LC |
-| Mail armor | 100s (£5) | 6,000 LC |
-| Squire's plate armor | £5-£6 16s 8d | 6,000-8,200 LC |
-| Full plate armor, finest quality | £8 6s 8d | ~10,000 LC (1 LG) |
-| Total armor kit owned by a knight (full set, all pieces) | £16 6s 8d | ~19,600 LC (~2 LG) |
-
-### Mundane repairs (early adventurer kit)
-
-Fair-town rates. Anchors: brigandine mend **3d (15 LC)**; plate refurb trips **4s-7s**; corselet clean **5d**; strap/rivet job **1s 4d**; tools (axe **5d**, spade **3d**).
-
-| Job | Fair LC | Notes |
-|---|---|---|
-| Leather patch / stitch | **15-40 LC** | Tanner labor + scrap |
-| Leather heavy overhaul | **50-100 LC** | Several torn panels |
-| Sword sharpen + light chips | **20-50 LC** | Routine smith |
-| Sword serious regrind | **50-150 LC** | Edge almost gone |
-| Hunting knife sharpen / light fix | **10-25 LC** | Ear + core work |
-| Hunting knife heavy / replace | **30-120 LC** | Worn out butcher blade; new dagger band |
-| Both, light visit | **~40-80 LC** | Typical hard-week tune-up |
-| Both, heavy visit | **~1-2 LS** | Before replacing the blade |
-| Replace cheap shortsword | **~30 LC** floor | Peasant blade; working steel higher |
-| Replace basic leather set | **~300 LC** | Buy new instead of endless patches |
-
-**Butchering / core cut:** ears and rice-grain stones need a blade in the corpse. Prefer the **hunting knife** for that; using the shortsword for coring chips and dulls the fighting edge faster. Over a long grind (hundreds of cores), knife needs its own light tunes; if he cores with the sword, add roughly **+25-50%** to sword repair for that span.
-
-**Plate / mail maintenance (historical):** cleaning rust off a corselet, 5d (**25 LC**) each. Varnishing, restrapping and riveting a helmet and corselet, 1s 4d (**80 LC**). Barrel treatment for cleaning mail, 9d (**45 LC**).
-
-### Runic repairs
-
-Simple runic weapon or armor fix (restore pathways, not a full rewrite): **~3 LS** fair rate. Full re-craft or rare materials sit much higher.
-
-### Merchant upcharge
-
-Any greedy merchant can upcharge. Fair rates above assume a known customer in a town with competition. Outsiders, kids in torn gear, dungeon-gate stalls, or one-smith towns commonly ask **+25% to 2x**. Worse gouging is allowed when the plot needs it. Buyers can haggle, walk, or wait for a friendlier shop.
-
----
+Moved: `../../Combat/GearPrices.md` (kit prices + mundane / runic repairs). Blade design: `../../Combat/Weapons.md`.
 
 ## 17. Spell Scrolls & Runic Crafting
 
-| Item | Cost | LC value |
-|---|---|---|
-| Blank monster-skin scrolls, ~A5 (bundle of 10) | 9 SS | 90 |
-| Mana Arrow spell scroll (shop) | 1 SS | 10 |
-| Fire Arrow spell scroll (shop, T2) | 3 SS | 30 |
-| Fireball spell scroll (shop) | ~6 SS | ~60 |
-| Runic Orb of Light scroll (Exeor) | >=1 LS | >=100 |
-| Runic Fire Arrow scroll (Exeor shelf, ~6-7x regular) | 2 LS | 200 |
-| Runic Fire Arrow [Common][High] (auction) | up to ~9 SS | up to ~90 |
-| Mithril runic gear | >=1 LG | >=10,000 |
-
-Independent scribe income: roughly 10 scrolls/week ~ 1 SG. Platform/shop cuts vary by contract: a first-timer's sale carries a 25% fee; an exclusive multi-year store contract can drop to 15% commission with facilities and cheaper materials in exchange, backed by a mana-based penalty for breaking the contract early. Blank monster-skin paper is cheaper than magic-wood paper and covers low-tier spells; scroll grade tracks how much power was injected during crafting (device-checked), not just craftsmanship. ~A5 blanks cover T1-T2 spells.
-
-### Chapter contract beats (Libra / Exeor)
-
-- Roland's first Libra Fire Arrow boxes (2x5): **4L+5S** and **4L+7S** (~1 SG gross; **25%** first-timer fee).
-- Seller #64 payout (Ch 23): gross **9L+2S** -> net **6L+9S** after 25%.
-- Ongoing Fire Arrow deposits: ~10 scrolls/week ~ **1 SG**.
-- Ch 21 Edelgard Scribe shops: price mats so only intermediate scrolls profit for independents; academy students get softer contracts; solo acts face multi-year cursed deals (**-60% mana** on breach until term ends). Libra entry **2 SS**.
-- Ch 25 Exeor offer: exclusive sell-to-store, **15%** commission, **3 years**, workspace + cheaper mats, **-30%** mana breach curse (not instant); facilities can cover later Blacksmith needs. Merchant council of top owners meets every **3 months** (recruit upstarts, then crush holdouts).
-- Ch 26 signed: mana signature (not name); identity secret; **min price** vs auction / no undersell; status-hide **armband**; basement office free rent; basic mats supplied; min **10 common scrolls/week** (+ bonus); Fire Arrow ~1 hour with mana left for a second.
-- Ch 27: weekends + **25** leave days/year (can batch mins early); brand nicknames **Crimson Comet / Red Star / Scarlet Runesmith**; High/Highest only; shipped to other cities; affordable vs regular scrolls for support casters; schematic sale price huge (kept private); Fire Arrow **5-6**/day compacted.
-
----
+Moved: `../../Runes/ScrollEconomy.md` (shop SKUs + Libra / Exeor contracts). Craft/use laws: `../../Runes/Magic.md`, `../../Runes/ScrollCraftScrapes.md`.
 
 ## 18. Spatial/Storage Bags
 
-| Item | Cost | LC value |
-|---|---|---|
-| ~**2 m³** spatial bag, second-hand | **5 SG** | 5,000 |
-| Same size, typical market (new / fair) | **7–10 SG** | 7,000–10,000 |
-| Larger / expedition bag (~**6 m³**) | ~**70–100 SG** (~**10×**) | ~70,000–100,000 |
-
-Dungeon materials (tusks, spikes, leather, herbs) are worth carrying out; most monster meat isn't (tough, bad taste, usually left behind) - boar-type and deer-type monsters are the exception and are worth hauling out like real game. Only dead bodies can go in a bag; living beings cannot. Bags do not nest (repel).
-
-### Cost ↔ capacity scale (locked)
-
-Canon anchors (Ch 11):
-- Party bag **≈ 2 m³** → market **7–10 SG** (mid **8.5 SG**); second-hand steal **5 SG** (~**60%** of market)
-- “Bigger ones” cost about **10×** → **~70–100 SG**
-- Watcher bag (Ch 18) **≈ 2×** party volume → **≈ 4 m³**
-- Roland’s workshop upgrade (Ch 36) **≈ 3×** his prior bag → **≈ 6 m³** if he started from the ~2 m³ parting gift
-
-**Formula** (market / fair price):
-
-```
-V₀ = 2 m³
-P₀ = 8.5 SG          mid of the 7–10 band
-Price(V) = P₀ × (V / V₀)²
-SecondHand ≈ 0.6 × Price(V)
-```
-
-Price scales with **volume squared** (bigger pocket = harder spatial enchantment). That makes **3× volume ≈ 9× price**, which matches Becky’s “about ten times” for the next real step up (~**6 m³**).
-
-| Capacity | Market (formula) | Second-hand (~0.6×) | Notes |
-|---|---|---|---|
-| **1 m³** | **~2.1 SG** | **~1.3 SG** | Small satchel / starter |
-| **2 m³** | **7–10 SG** (use **8.5**) | **5 SG** steal | Ch 11 party bag |
-| **4 m³** | **~34 SG** | **~20 SG** | Watcher bag (~2× party) |
-| **6 m³** | **~76 SG** (~**70–100**) | **~46 SG** | Ch 11 “10×” band; Ch 36 3× upgrade |
-| **10 m³** | **~210 SG** | **~130 SG** | Porter / mule insert |
-| **20 m³** | **~850 SG** | **~510 SG** | Rare expedition / workshop stock |
-
-Rule of thumb: **double the volume → about 4× the price**. Trade down used bags near **60%** of fair unless the seller is desperate.
-
-### Chapter notes
-
-- Becky's party bag (Ch 11): slightly under **2 m³**; bought second-hand from a retiring adventurer for **5 SG** (a steal vs typical **7–10 SG**). Steel party **skimped on drinks** about a **year** to scrape that buy (~**110** skipped ~**45 LC** three-pitcher weak-spirit rounds; Source said “year of work”). That sits fine against Floor-1 gross (**~17–33 SG**/person/year): soft living, repairs, and kit eat most of a cautious year, so a **5 SG** bag still feels like a long scrape. Bigger bags ~**10×** (≈ **6 m³** on the scale above). House Arden higher-status servants carried similar bags.
-- Needle Worm spikes sell poorly (Ch 12). Needle Worm core: **½ rice-grain** (**1 SS**). Needle Moth core: **rice-grain** (**2 SS**).
-- Ch 15: living beings cannot enter; **dead** bodies can (Becky offers bag + dungeon dump; Roland refuses and burns the watcher on-site instead). Watcher's bag goes to the girls with the armor sale.
-- Ch 18 parting gift: party's smaller spatial bag with starter coin (they keep the watcher's bag, about twice as large ≈ **4 m³**). Ch 19: bag holds **10 SG** (more than the 5 he wanted of their ~20).
-- Ch 36: Roland exchanges for a larger model that holds **three times** as much (≈ **6 m³** if prior was ~2 m³).
-
----
+**Prices / V² scale:** `SpatialBagPrices.md`.
+**Laws** (no living, dead OK, no nest, freeze): `../../Runes/Magic.md`.
+Stone size pegs in bag chapter notes: `../Materials/MonsterCores.md` (Needle Worm **½** rice **1 SS**; Needle Moth rice **2 SS**).
 
 ## 19. Potions (unpriced in canon - flagged, not estimated)
 
@@ -491,7 +425,7 @@ Hangover potions and **healing / recovery potions** both exist and are in circul
 | Hangover potion | **8-15 LC** | Cheap enough that skipping it is stingy, not ruinous; ~1-1.5 days unskilled or ~2-3 goblin ears |
 | Low-grade healing / recovery (drink + pour) | **20-50 LC (2-5 SS)** | Above hangover; below a full inn night; "quite the penny" vs priest heal in Ch 33 |
 | Dungeon-gate version of either | market x **1.25+** | Canon markup Ch 71 |
-| T3 High Priest curse heal (Solaria) | **9 SG** | Canon Ch 53 (not a potion) |
+| T3 High Priest curse heal (Solaria) | **9 SG** | Locked Ch 53 (`Economy.md`; not a potion) |
 
 ---
 
@@ -565,64 +499,22 @@ Present in canon as a legal institution, not currently assigned a market value. 
 
 ## 23. Mana Stones (monster cores)
 
-First seen: Chapter 7. Gem-like crystals that form inside some monsters. Used as crafting / fuel ingredients (mana-stone trains, later runic slots). Servants at Arden claimed cores as Baron property; Roland starts pocketing them. Mana Sense can detect a stone in a corpse without cutting. Evolved monsters (one+ evolution) always have a core; more evolutions -> larger/denser. Size is not always quality; stones can rate lesser->legendary like runes. Chapter 11: dungeon spiked-boar chest stone ≈ **goblin-leader** size. Value tracks physical size (mana density), not rarity or danger.
+Law / size / drop chance: `../Materials/MonsterCores.md` and `../Science/Energy/ManaStones.md`.
 
-### Goblin drop rates (locked)
+**Street pegs only (keep here):**
 
-| Band | Share of kills | Stone chance | Stone size |
-|---|---|---|---|
-| Common goblin | **29/30** | **1 in 5** | Rice-grain |
-| Goblin leader (nest chief / darker leader) | **1 in 30** | **1 in 3** | **5×** rice-grain volume |
+| Size / source | Price |
+|---|---|
+| Needle Worm tiny (**½×** rice) | **1 SS** |
+| Rice-grain / Needle Moth | **2 SS** |
+| Goblin-leader / Spiked Boar chest (**5×**) | **1 LS** |
+| Marble (~16 mm, stepped) | **1.5–4 LS** (mid **~2 LS**) |
 
-Overall: rice-grain ≈ **(29/30)×(1/5) ≈ 1 in 5.2** kills. Leader stone ≈ **1 in 90** kills.
-
-### Size -> price ladder
-
-**Linear band (rice → leader only):** same Common Q, price ∝ volume. Rice-grain = **2 SS = 20 LC**. Leader / Spiked Boar chest = **5×** volume → **10 SS = 1 LS = 100 LC**.
-
-**Above leader (stepped, not linear):** guild street prices do **not** keep scaling with raw mm³. A **16 mm** marble is ~**113×** rice volume (~**2.3 SG** if linear) but Common market settles at **1.5–4 LS** (mid **~2 LS**): harder to move whole, buyers prefer shards for recharge, guilds soft-cap large-core stickers. Quality still multiplies the size band (`../Science/ManaStones.md`: `Price ≈ Price_size(V) × Q`).
-
-| Size / source | Volume vs rice | Price | Rule |
-|---|---|---|---|
-| Needle Worm / sand-size tiny | **½×** | **1 SS = 10 LC** | Linear; larger than a sand grain, half a rice-grain; Ch 12 |
-| Needle Moth | **1×** | **2 SS = 20 LC** | Same band as goblin rice; Ch 13 |
-| Rice-grain (common goblin) | **1×** | **2 SS = 20 LC** | Linear; rewrite Ch 9 |
-| Mountain-goblin / "few small silvers" | **~1.5–3×** | **30–60 LC (3–6 SS)** | Linear band; locked with §9 |
-| Fingernail (worker ant / similar) | **~2–4×** | **~40–80 LC (4–8 SS)** | Linear; between rice and leader |
-| Goblin-leader / Spiked Boar dungeon | **5×** | **10 SS = 1 LS = 100 LC** | Linear cap of this band; Ch 11 |
-| Marble (hobgoblin, soldier ant; ~**16 mm**) | **~113×** | **1.5–4 LS** (mid **~2 LS**) | **Stepped** above leader; not linear |
-| Larger / multi-evolution cores | — | **few LS → SG** | Stepped size bands + Q |
-
-Capacity at Q1: Needle Worm tiny **~9–10** mana → rice-grain **19** → leader **~95** → marble **~2,145** (`../Science/ManaStones.md`).
-
----
+Full drop tables and capacity: MonsterCores / ManaStones. Do not restate size law here.
 
 ## 24. Early Coin Ledger (through Chapter 9.5)
 
-Currency first detailed Chapter 8. Roland's starting pouch after departure counts as exactly **1 SG** (mixed copper and silver). Basic Mathematics / arithmetic can show a hovering total over a coin pile.
-
-Units in large copper. **1 SS = 10 LC**, **1 LS = 100 LC**, **1 SG = 1000 LC**.
-
-| Step | Change | Running (LC) |
-|---|---|---|
-| Ch 8 pouch (= 1 SG) | | **1000** |
-| Gate entry | -5 | 995 |
-| Guild card (2 LS) | -200 | **795** |
-| Ch 9 inn meal | -5 | 790 |
-| Ch 9 library map (1 SS) | -10 | **780** |
-| Ch 9 ear bounty (7x5) | +35 | 815 |
-| Ch 9 mana stones (3x2 SS) | +60 | **875** |
-| Ch 9.5 ear bounty (1,481×5) | +7,405 | 8,280 |
-| Ch 9.5 lodging (252×3) | -756 | 7,524 |
-| Ch 9.5 food (breakfast 5 + dinner 5 × 90; jerky ×3 @ ~2) | -906 | 6,618 |
-| Ch 9.5 thick wool cloak (nice-ish) | -300 | 6,318 |
-| Ch 9.5 repairs / spare robe / food-hunt tastes | -318 | **6,000** |
-
-Chapter 9 turn-in "**95 LC** richer" is income only (35+60), before meal/map already spent. Monthly lodging quote in Ch 9 is ~**10%** off (**28** × 1 SS = **280** → **252 LC**). Same rate through Ch 13 (Hilde's advertised monthly discount; Source **5%** discarded). Breakfast is **+5 LC** on the lodging quote; dinner is the **5 LC** inn tray. Forest lunch: **3** jerky sticks (~**2 LC** each); other midday meals are rabbits and other prey taken from goblin camps (no coin).
-
-After Ch 9 day one he **keeps** stones (no further stone sales in Ch 9.5). End Ch 9.5 / into Ch 10: pouch **6,000 LC** (**6 SG**); stones **286** rice-grain + **16** leader. Full kill/stone notes: `Experience.md`, `../../Items/Items.md`.
-
----
+Moved: `../../../Story/Notes/CoinLedger.md`.
 
 ## 25. Beds & Furniture (historical anchors)
 
@@ -687,91 +579,7 @@ Prices stayed close to flat through most of the medieval period then climbed sha
 
 ## 26. Canon Story Prices (compiled from chapters)
 
-Hard numbers only, with chapter cites. Prefer the **Rewrite price lock** when a row here matches a lock item. Soft phrases without amounts omitted here (see §27 for extrapolations).
-
-### Early loop (Ch 8-13)
-
-| Item | Price | Ch |
-|---|---|---|
-| Starting pouch | **1 SG** (mixed copper/silver) | 8 |
-| Gate entry | **5 LC** (refunded if card; free exit with card) | 8-9 |
-| Adventurer card | **2 LS** | 8 |
-| Latrine cleaning (bronze board) | **10 LC / day** | 8 |
-| Goblin ear (steel board) | **5 LC** each | 8-9 |
-| Inn meal (porridge + jerky) | **5 LC** | 9 |
-| Lodging / night | **1 SS**; breakfast **+5 LC** | 9 |
-| Better inn / night | **2 SS** | lock |
-| Monthly lodging discount | **10%** → **252 LC** (Hilde advertised; Ch 9–13) | 9, 13 |
-| Library map | **1 SS** | 9 |
-| Rice-grain mana stone | **2 SS** | 9 |
-| Class-change crystal | **2 SG** | 13, 34 |
-| Commoner household income | **~4 LS / month** | 13 |
-
-### Craft / auction / contract (Ch 11-27)
-
-| Item | Price | Ch |
-|---|---|---|
-| Spatial bag ~2 m³ | second-hand **5 SG**; typical **7–10 SG**; scale `Price ∝ V²` → ~6 m³ ≈ **10×** | 11 |
-| Three half-gallon tavern pitchers (weak spirits, ~40 proof) | **~45 LC** | 12 |
-| Roland pays first round (3 half-gal) | **45 LC** (**9** goblin ears) | 12 |
-| Mana Arrow scroll (shop) | **1 SS** | 20 |
-| Fire Arrow scroll (shop, T2) | **3 SS** | 20 |
-| Fireball scroll (shop talk) | **~6 SS** | 20 |
-| Blank monster-skin x10 | **9 SS** total (**9 LC** each blank) | 20 |
-| Runic Orb of Light | **>=1 LS** | 20 |
-| Runic Fire Arrow (Exeor shelf) | **2 LS** | 20 |
-| Intermediate Fire Arrow (regular) | **2-4 SS** | 22 |
-| High Common runic Fire Arrow | up to **~9 SS** | 22 |
-| Highest Common | **~2-3x** High | 22 |
-| Libra entry | **2 SS** | 21 |
-| First auction boxes (2x5 High/Highest) | **4LS+5SS** and **4LS+7SS** | 22 |
-| Auction gross / net | **9LS+2SS** -> **6LS+9SS** after **25%** | 22-23 |
-| Auction commission ladder | first **25%**, can fall to **10%** | 22 |
-| Weekly Fire Arrow volume | **~10 scrolls ~ ~1 SG** | 23 |
-| Party gift cash runway | **10 SG** lasted **~half year** of mats (not ten months) | 22 |
-| Exeor commission / term / curse | **15%**, **3 years**, **-30%** mana | 25-26 |
-| Refused shop contracts | **-60%** mana breach | 21 |
-| Quota | **>=10** common scrolls / week | 26-27 |
-| Leave | weekends + **25** unpaid days/year | 27 |
-| Mithril runic gear floor | **>=1 LG** | 27 |
-
-### Mid / late hard numbers (Ch 44-75)
-
-| Item | Price | Ch |
-|---|---|---|
-| Cheapest enchanted armor | **at least a few SG** | 44 |
-| Assassin loot (gear + bag sold) | **>20 SG**; Roland had **~15 SG** already; girls **+5 SG** | 17 |
-| Parting bag cash | **10 SG** | 18-19 |
-| T3 High Priest curse heal | **9 SG** | 53 |
-| Severance (contract) | **100 SG** (= **10 LG**); actual payout **150 SG** + skill book | 53-54 |
-| Family living benchmark | **100 SG** ~ **25-30 years** tax+food only | 53 |
-| Ship passage (one-way, below deck) | **5 LS**; grub extra | 65 |
-| Street food | **a few LC** | 68 |
-| Farmhouse + land (run-down, less fields) | **~30 SG** (paid slightly under full quote; over 30 SG in prose) | 69-70 |
-| Home ownership bar | **~30 SG** class takes most adventurers serious saving | 75 |
-| Albrook auction paddle | **1 SS** | 74 |
-| Music box starting bid | **4 LS** | 74 |
-| Dungeon-gate potion markup | **>=25%** over market | 71 |
-| Steel map discount | **5%** | 19-20 |
-| Mundane light sword + leather repair | **~40-80 LC** | lock |
-| Mundane heavy both | **~1-2 LS** | lock |
-| Runic repair (simple) | **~3 LS** | lock (not mundane kit) |
-| Merchant upcharge | **+25% to 2x** common; worse allowed | lock |
-| Crystal ball | **4 SG / 8 SG** | lock |
-| Black market purchase (reference) | **2 SG** | lock |
-
-### Soft canon (useful, no hard number)
-
-- Helci day-to-day: often **no LS** in pouch; lives meal to meal (Ch 47).
-- Bronze/Steel adventuring: not high pay; real money opens at **Silver** (needs T2) (Ch 14).
-- Mage backline kit: not regular frontline hits; shortsword still needs repairs; boots wore down; leather cracked; Ch 13 half-year kit **−790 LC** (sword **480** + boots **60** + leather **250**). Frontline sword death ~month 5 is not his case.
-- Ch 13 half-year Floor-3 slate locked in `Experience.md` (**1,102** kills; pouch **11,641 LC**). Wereboar mats mid **156 LC**.
-- Sell permit in town "costs quite the penny" (Ch 14).
-- Weaker adventurers taxed **more** at dungeon gates than stronger ranks (Ch 68; no %).
-- Skill books: "many golden coins"; Basic Rune Compression ~**half a year** of his work (Ch 41-47).
-- Common recovery potion vs priest: potion is the cheap option (Ch 33).
-
----
+Moved: `../../../Story/Notes/StoryPrices.md`.
 
 ## 27. Extrapolated Bands (story-anchored)
 
@@ -798,7 +606,7 @@ Rough commoner monthly split of **400 LC** (extrapolated):
 | Clothes / tools / misc | 40-60 | ~10-15% |
 | Buffer / salt / repairs | remainder |
 
-Inn living is **not** a peasant budget: 1 SS lodging + 5 LC meal = **15 LC/day** = **420 LC / 28 nights** before breakfast -> more than a full commoner month on room+one meal alone. Commoners cook at home.
+Inn living is **not** a peasant budget: 1 SS lodging + 5 LC meal = **15 LC/day** = **450 LC / 30 nights** before breakfast -> more than a full commoner month on room+one meal alone. Commoners cook at home.
 
 ### Staple food (extrapolated vs inn meal 5 LC and street food "few LC")
 
@@ -862,7 +670,7 @@ Tavern weak-spirit pitcher prices are locked in the Rewrite price lock and §11.
 
 **Peasant / commoner year:** use **~4 LS/month** income and §27 food split. Do **not** put them in inns every night. Latrine wage alone is poverty; assume farm share, spouse work, or town trade.
 
-**Early adventurer month:** lodging **252 LC** monthly (10% off, **28** nights) or camp; food 100-200 LC if cooking/trail; ears+stones as variable income; mundane repair **~40-80 LC** light / **1-2 LS** heavy (merchants may upcharge).
+**Early adventurer month:** lodging **270 LC** monthly (10% off, **30** nights) or camp; food 100-200 LC if cooking/trail; ears+stones as variable income; mundane repair **~40-80 LC** light / **1-2 LS** heavy (merchants may upcharge).
 
 **Break-even goblin day (no stone):** 7 ears = 35 LC = 7 inn meals or 3.5 lodging nights. **One rice-grain stone (20 LC)** = 4 ears. Cores still help; ears alone can cover basic room+meal if volume is high.
 
@@ -878,7 +686,7 @@ Tavern weak-spirit pitcher prices are locked in the Rewrite price lock and §11.
 - Albrook / dungeon tax **percent**
 - Slavery sale prices
 - Exact workshop rent when not company-covered
-- Deep Iron / Black Steel / raw mithril per weight
+- Darkiron / star iron / darksteel / star steel / mythril / orihalcum / aurium / adamantium per weight (`Materials/Metals.md`)
 - Physician day-rate vs temple
 - Interest / pawn rates
 - Tithe or manor due % for Caldris peasants

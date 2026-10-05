@@ -1,6 +1,6 @@
 # Blacksmith Products
 
-What a skilled smith makes, how hard it is and rough time/fuel/force. Metallurgy: later `CraftMetal.md`. Machine path: later `../Invent/MedievalIndustrialization.md`. Cookware: later `KitchenCraft.md`. Heads: `Arrowheads.md`. Structural: `StructuralForge.md`.
+What a skilled smith makes, how hard it is and rough time/fuel/force. Metallurgy: `CraftMetal.md`. Machine path: `../Invent/MedievalIndustrialization.md`. Cookware production is Food-domain (`../../../Food/KitchenCraft.md`), not a metal-law source here. Heads: `Arrowheads.md`. Structural: `StructuralForge.md`.
 
 ## Narrative
 

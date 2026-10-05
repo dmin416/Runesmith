@@ -18,3 +18,5 @@ Tables in this folder quote **effect joules** and **mana at ημ = 1** (L2, INT 
 | `Piercing.md` | Penetration and overpen behavior |
 | `KillEfficiency.md` | Pierce vs blast per kill |
 | `PoolAndStorage.md` | Pool, regen, bottled chemical energy |
+| `ContainedCoherentRupture.md` | Contained metal-bond rupture → powder (THz tunes) |
+| `SuperEnergyPowder.md` | Magical powder multipliers, densify-on-impact, formulas |

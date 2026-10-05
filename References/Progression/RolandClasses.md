@@ -1,6 +1,6 @@
 # RolandClasses
 
-> **Design loot.** Live locks: Progression.md (XP / tiers / reclass), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. Non-canon XP leftovers in Levels.md (RaceMult / class-change half-cut). Diagnosis is the live skill name (Old Debugger).
+> **Design loot.** Live locks: Progression.md (XP / tiers / reclass; `50 × L × RaceMult`), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. Levels.md holds live RaceMult table; Ch 4-19 XP ledger locked in Story/Notes/Experience.md. Diagnosis is the live skill name (Old Debugger).
 
 
 Roland’s class path. Planned vs attained. Follow `CrossCheck.md` when status screens change.
@@ -16,7 +16,7 @@ Roland’s class path. Planned vs attained. Follow `CrossCheck.md` when status s
 | 3 | Runic Blacksmith | T1 | Chapter 34–35 | Prestige Blacksmith. e.g. L19 Ch 47; L20 Ch 62; L21 Ch 68; L25 by Ch 77 |
 | 4 | Runesmith Lord | T2 | Chapter 78–81 | Prestige over plain Runesmith. Max L50 before next class |
 | 5 | Runic Engineer | T2 | Chapter 191–196 | Second T2. Later L50. Rune Mage was expected but unavailable |
-| 6 | Runic Battlemaster Overlord | T3 | Chapter 318 | Primary late class. Source text still says Runesmith Overlord until rewritten. Levels climb through late Source (e.g. L15, L21… L77+) |
+| 6 | Runic Battlemaster Overlord | T3 | Chapter 318 | Primary late class. Source text still says Runesmith Overlord until rewritten. Levels climb through late Source; rewrite T3 hard-cap is **L75** (`Progression.md`) |
 
 Late composite status (example ~Chapter 681+): T3 Runic Battlemaster Overlord (**Primary**), T2 Runic Engineer (**Secondary**). T2 Runesmith Lord and T1 Mage / Runic Mana Scribe / Runic Blacksmith sit maxed and **inactive** (no Tertiary slot; only one secondary keeps special effects, `Levels.md`).
 
@@ -66,12 +66,12 @@ Offered beside it at T3: Advanced Runesmith, Master Runesmith, Master Runesmith 
 - Chapter 7: ~3 months of weekly **2× L1** estate clears fill **1250 / 1500** toward L4. Last pen pair on-page. Sent to Carwen cabin (pressure toward army). Packs calligraphy books. Live Basic skill screen uses age-10 `Progression.md` targets (Sword/H2H/Sneak L8; Running/Sprint/Climbing/Throwing/Leather L9).
 - Chapter 8: Bronze adventurer (first name only). Guild orb **Mage L3** on the rewrite stack (Source was Mage L5 old sheet). Class-up crystal buried for Blacksmith / Mana Scribe.
 - Chapter 9: First Carwen hunt finishes Mage **L3→L4**. End pouch **875 LC**.
-- Chapter 9.5: ~3 months Carwen grind → Mage **L20**; Goblin Hunter (past **1000** kills); Mana Absorption / Reinforcement self-taught to **L9**; end pouch **6,000 LC** (**6 SG**) / **286** rice-grain + **16** leader stones; thick wool cloak **300 LC**.
-- Chapter 10: present day after timeskip; nest **+7** / stones **288** rice + **16** leader / pouch **6,035 LC**; rewrite L20 sheet; Mana Scribe before Blacksmith (magic-track lean); Edelgard goal; joins Becky / Sahildr / Reyna (age dodge **Roughly**).
-- Chapter 11: first dungeon day (Emerald Wilderness). Party XP = ability + contribution (Source T1-in-T2 zero block dropped). Mana Shield hard disk. Day haul lock **+128 LC** → pouch **6,163 LC**. Trial weeks → pouch **~6,818 LC** / bar **~2,774/10k**.
-- Chapter 12: Iron Flagon first round **−45 LC**; Alcohol / Dance / Pain / Sleep pads; Floor-2 Needle Worm cook + **12**-worm pocket (**+492 XP**) + **Basic Taming** green-scarf pet; Mana Hands ≥**L7**; Multitasking; lesser impact rune sight; still Mage L20 (**~3,266/10k**).
-- Chapter 13: half-year Floor-3 → **Mage L25**; **1,102** kills / pouch **11,641 LC**; Calligraphy **L9**; Live Source sheet still on-page; rewrite target Str **49** / Int **137** / MP **2292** (`StatusBreakdown.md`). Ned overall **~25**.
+- Chapter 9.5: ~3 months Carwen grind → Mage **L20**; Goblin Hunter (lifetime **1000**); Mana Absorption / Reinforcement self-taught to **L9**; end pouch **3,595 LC** / **218** rice-band + **8** leader-band stones (size = level); thick wool cloak **300 LC**.
+- Chapter 10: present day after timeskip; nest **+7** / stones **220** rice + **8** leader / pouch **3,630 LC**; rewrite L20 sheet; Mana Scribe before Blacksmith (magic-track lean); Edelgard goal; joins Becky / Sahildr / Reyna (age dodge **Roughly**).
+- Chapter 11: first dungeon day (Emerald Wilderness). Party XP = ability + contribution (Source T1-in-T2 zero block dropped). Mana Shield hard disk. Spiked Boar **L8** RaceMult **1.5**; day **456** XP / haul **+128 LC** → pouch **3,758 LC**. Trial weeks → pouch **~4,413 LC** / bar **~8,540/10k**.
+- Chapter 12: Iron Flagon first round **−45 LC**; Alcohol / Dance / Pain / Sleep pads; Floor-2 Needle Worm cook + tame (**12** worms **+1,272** → bar **~9,812/10k**); Mana Hands ≥**L7**; Multitasking; lesser impact rune sight; still Mage L20.
+- Chapter 13: half-year Floor-3 → **Mage L25** (**342** kills; Wereboar **min L26** RaceMult **2**); pouch **~5,977 LC**; Calligraphy **L9**; rewrite target Str **49** / Int **137** / MP **2292** (`StatusBreakdown.md`). Ned overall **~25**.
 - Chapter 14: watcher ambush; people XP **+479** banks; Dodging **L7**; Ned **25→26** Greater Needle Worm.
-- Chapter 16: class change → **Runic Mana Scribe** (Fire Orb trial; five-region linear; mana-hand blunder; Ned silk). Half-cut bank **739** into L26 bar.
+- Chapter 16: class change → **Runic Mana Scribe** (Fire Orb trial; five-region linear; mana-hand blunder; Ned silk). Full bank **1479 / 13000** (no half-cut).
 - Chapter 17: overall **L26** / Scribe **L1** (no kills). Shows party **Edelgard**; letters to father / Martha ready to send. Leaves alone for craft; borrows Sahildr's hammer into Ch 18.
-- Chapter 18: **Lesser Impact [Highest]** + **Drawing L1** (**+1000 XP**; bar **1739 / 13000**). **Bronze → Steel**. Parting spatial bag; hugs goodbye; magic train toward Edelgard (≥1 week).
+- Chapter 18: **Lesser Impact [Highest]** + **Drawing L1** (**+1000 XP**; bar **2479 / 13000**). **Bronze → Steel**. Parting spatial bag; hugs goodbye; magic train toward Edelgard (≥1 week).

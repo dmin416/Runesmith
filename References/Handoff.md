@@ -12,20 +12,27 @@ Lock live canon under `References/`. Rewrite prose: `Story/Chapters/`. Treat `Re
 
 - World holds Materials, Fauna, Geography, Society, Tech, Science/ (+ `*Design.md` fat companions where present)
 - Science is under `World/Science/` (Energy, Metallurgy, Biomaterials, Body, Invent, Vehicle)
+- Food holds kitchen craft / kit / meat cook (not Metallurgy)
 - People cast hub: `References/People/People.md`
 - Living conflict list: `References/OpenFixes.md`
+- Narrative threat dial: `World/Fauna/MonsterThreat.md`
 
 ## Hard locks (do not reopen)
 
-- Kill XP: `XP_kill = 50 × killed_L`. `XP_to_next = 500 × L`. No RaceMult. No half-cut on class change. Pre-class bank ½ only.
+- Kill XP: `XP_kill = 50 × killed_L × RaceMult`. `XP_to_next = 500 × L`. RaceMult table in `Progression/Levels.md` (goblin **1.0**; people **1.0**; Spiked Boar **1.5**; Wereboar **2.0** min L26; Needle Worm **0.5**; Needle Moth **2.0**; …). Party early cut ~**1%** idle / ~**1/4** active. No half-cut on class change. Pre-class bank ½ only.
+- Rune η_cond: quality **20%** blocks (Lowest **0.2** → Highest **1.0**). `Useful = mana × 10 × η_cond × A`. Waste: **½** ambient / **½** weapon heat+corruption. Host feel narrative only.
+- Ch 4–19 XP ledger locked in `Story/Notes/Experience.md` (Ch 9.5 **1,000** → Mage L20; Ch 13 **342** kills → Mage L25; reclass bank **1479 → 2479 → 3479**).
 - Tiers: T1 25, T2 50, T3 75, T4+ 100 each.
-- Mythril = saturated silver / Ag–Cu. Orichalcum = antimagic magical titanium. Cast adamantium = indestructible.
-- Iron: mundane → mana iron/steel → refined mana iron/steel → adamantium. No dark/deep iron-steel names in live law.
-- Cores: ~1 mana/mm³; street pegs in ManaStones.md. Never eaten: goblins/goblin-kin + undead.
+- Metal conversion (`Materials/Metals.md`): **Ag → mythril**; **Au → orihalcum** (MR = %); **Cu → aurium**; **Fe → darkiron / star iron**; **steel → darksteel / star steel**; **Ti → adamantium** (cast-final). Dead: mythril=Ti, orihalcum=Ti, adamantium=Fe/steel.
+- Ambient altitude: `C = P₀/P(h)` in bound air; haze `C = C_exo × n_exo/n` to solar-wind floor; `A = √C` (`ManaConcentration.md`). Same soak for spells and metal cook.
+- Cores: ~1 mana/mm³; street pegs in ManaStones.md. **Stone size = monster level** (`MonsterCores.md`); never Old 1/30 chief→leader-stone. Never eaten: goblins/goblin-kin + undead.
 - Diagnosis (not Debugger). Helci 18 workshop; T1 Scout / T2 Hunter / T3 Ranger / T2 Assassin.
 - Guild ranks: 8. Wayland = person; Albrook = place. Steel shrink ~2%.
 - Terra Earth-sized; 24h day; two moons (red/blue) hang near each other; year **361** days (12×30 + New Year's Day).
-- Materials hub: `World/Materials/Materials.md` (Earth elements; common Cu/Fe/Ag/Au/Sn/bronze + stone/mortar/brick/clay + beast mats; magic Fe/steel, mythril, orichalcum, stone derivatives; else specialty).
+- Materials hub: `World/Materials/Materials.md` (COMMON base metals + build; MAGIC conversion lines mythril/orihalcum/aurium/dark-star Fe-steel/adamantium; stone arcanium → aetherium).
+- Monster meat tastes good but spoils fast. Personal firearms not widespread (high-class archer ≈ cannon); ship magic cannons exist.
+- Ambient: spells + runes `A = √C`. Dungeon: `C = C(h) + k×(D/N)`, `D` = boss tier (T1→1…). Spiritual sites: narrative between ambient and dungeon, maybe a little higher than ambient (no fixed `D`).
+- No mana pool → no active absorb. Rich fields may heal body/spirit; no stored mana on leaving. Forced absorb = radiation-class poison.
 
 ## Source loot
 
@@ -33,11 +40,16 @@ Lock live canon under `References/`. Rewrite prose: `Story/Chapters/`. Treat `Re
 
 ## Current next
 
-1. **Ask:** G dungeon / spiritual ambient stack pick (candidates in `World/Science/Energy/ManaConcentration.md`).
-2. Design / Runes number pulls when a beat needs them.
-3. Experience chapter retune only with story work (`Progression/Levels.md` + `Story/Notes/Experience.md`).
+1. Soft Conflicts scrub when touching that file (Metals host wording, ManaMaterials Earth names, ChainMail/RuneSystem old worked math, tip-KE vs strike_power).
 
 ## Just done
 
+- η_cond locked as **20%** quality blocks (0.2 → 1.0).
+- MonsterThreat.md shipped + linked; Goblin Leader threat **1.1** / L_ref **27**.
+- Spiked Boar RaceMult **1.5** / Wereboar **2.0** (min L26); Ch 11–19 XP kill counts + bars retuned; full reclass bank.
+- Kitchen craft under `Food/` (not Metallurgy).
+- Metal conversion rewrite: Ag→mythril, Au→orihalcum, Cu→aurium, Fe/steel→dark/star, Ti→adamantium.
+- Ambient retune: `C = P₀/P` (+ exosphere haze floor); metal start/finish soak recalibrated to that `A`.
+- Ch 9.5 locked: **1,000** goblins incl. **8** T2 L27 ambush → Mage L20; stones **218** rice-band + **8** leader-band (by level); pouch **3,595 LC**.
 - Entire `Old/` deleted after Story / Images / Source / References / rules absorbed.
 - Live rules: `.cursor/rules/{directed-line-edits,story-formatting,project-canon}.mdc`.

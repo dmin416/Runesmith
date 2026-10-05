@@ -1,8 +1,8 @@
-# Temp: Rune Look and Craft Descriptions
+# Rune Craft Scrapes
 
-> **Design loot.** Live locks: Energy.md (eta_cond feel order, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md. Non-canon here: path-% dials, dark/deep steel names, mythril-as-titanium, orichalcum as reduced-eta wire, adamantium as forgeable supersteel.
+> **Design loot.** Live locks: Energy.md (eta_cond feel order, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md (Ag mythril, Au orihalcum, Cu aurium, Fe/steel dark→star, Ti adamantium). Non-canon here: path-% dials; adamantium as forgeable post-set supersteel.
 
-Temporary scrape of chapter prose on how runes / runic enchantments look and how Roland makes them (hand, quill, hammer, chisel). Not a world-law file.
+Chapter prose scrape: how runes / runic enchantments look and how Roland makes them (hand, quill, hammer, chisel). Not a world-law file.
 
 Canonical catalog: `Runes.md`. Nature / worldview: `Nature.md`. Rewrite pathway model: `RuneSystem.md` (binary circuitry dropped; Diagnosis red = leaks / discord). Setup pour costs: `RuneSetup.md`.
 

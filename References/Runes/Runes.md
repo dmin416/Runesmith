@@ -1,24 +1,25 @@
 # Runes
 
-> Named catalog. Path / ambient law: `Energy.md`. Magic nature: `Magic.md`. Design companions in this folder (ceilings, setup, LOOK/MAKE scrapes).
+> Named catalog. Path / ambient law: `Energy.md`. Magic nature: `Magic.md`. Design companions in this folder (ceilings, setup, craft scrapes).
 
 Named rune catalog and chapter first-seens. Character skills that manipulate runes: `../Progression/Skills.md`.
 
 | File | Role |
 |---|---|
 | `Runes.md` | Named catalog / first-seens |
-| `Energy.md` | Path / ambient / wear / η_cond feel order |
+| `Energy.md` | Path / ambient / wear / η_cond host feel |
 | `EnergyDesign.md` | Electrical analogy, wear / body-path proposals (path-% non-canon) |
 | `Magic.md` | Enchant vs rune vs scrolls |
 | `Nature.md` | Worldview: segments, pathways, law / causality |
 | `RuneSystem.md` | Pathway model, ceilings, harmonics (design) |
 | `RuneSetup.md` | Setup pour costs (design) |
-| `ManaMaterials.md` | Path material modes (design; Metals naming wins) |
-| `TempRunes.md` | Chapter LOOK/MAKE scrape |
-| `TempScrolls.md` | Spell scroll vs runic scroll scrape |
+| `ManaMaterials.md` | Path material modes (design; Metals naming wins; path-% quarantined) |
+| `RuneCraftScrapes.md` | Chapter LOOK/MAKE scrape |
+| `ScrollCraftScrapes.md` | Word vs runic scroll craft scrape |
+| `ScrollEconomy.md` | Shop SKUs, fair bands, Libra / Exeor contracts |
 | `ChainMailCollaborative.md` | Shirt-wide rice-stone pool research note |
 
-**Rewrite note:** Binary-circuit identity is dropped. Diagnosis colors map to leaks and discord. Do not re-import Old path-% tables.
+**Rewrite note:** Binary-circuit identity is dropped. Diagnosis colors map to leaks and discord. Do not re-import Old path-% tables. Mana motion is narrative per-host feel; heat away is scientific. Street all-15 pool example lives in `EnergyDesign.md` / `../Progression/Attributes.md` formulas.
 
 ## Rune vs enchantment (Chapter 6 book)
 
@@ -48,7 +49,7 @@ Explosive rune; early schematic. Chapter 14–15: on the watcher's heavy rapier 
 First seen: Chapter 12
 Impact or force rune. Engraved on Sahildr's new warhammer (bought with monthly savings). Roland is drawn to it and briefly sees glowing pathway lines through the symbol. Chapter 13 combat: timed mana blast can one-shot or incap a Wereboar. Chapter 18 Sahildr: the heavy head **gains weight** when the rune activates (mass or gravity; timing matters). He creates the [Highest] quality schematic in Chapter 18 (Diagnosis overlay; Drawing L1 breakthrough). Current form best on weapons but he fantasizes other component uses; poor as a solo scroll (just makes paper heavier). Chapter 27: speculates Heavy Magic / Heavy Impact Arrow (weight on descent) but paper tests are nearly useless. Chapter 73: common Impact (High) on a mana-iron mace; increases weapon mass/weight mid-swing (timing-sensitive).
 
-**Rewrite science (Sahildr hammer):** compressed mana particles (Fire Piston cousin), not a charged store. **Paid 100 mana** one-shot. Useful output = mana × 10 × η_cond × G. Earth boar skull crush does **not** need a huge instant boost (street warhammer **200–400 J** already exceeds measured cranial fracture bands). Full note: `../Combat/ImpactRune.md`.
+**Rewrite science (Sahildr hammer):** compressed mana particles (Fire Piston cousin), not a charged store. **Paid 100 mana** one-shot. Useful output = mana × 10 × η_cond × A (`A = √C`). Earth boar skull crush does **not** need a huge instant boost (street warhammer **200–400 J** already exceeds measured cranial fracture bands). Full note: `../Combat/ImpactRune.md`.
 
 ### Hardening / Strengthening Rune
 First seen: Chapter 73

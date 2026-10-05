@@ -171,7 +171,7 @@ All seven **40** attribute perks active (Vit/End already past 40 from Sleep pads
 
 MP = ((73×10)+(60×4)) × 1.06 = 970 × 1.06 = **1028** (Mage L3).
 
-Guild measuring crystal (Ch 8) uses this block. Estate Mage weekly doubles leave the XP bar at **1250 / 1500**. First paid hunt (Ch 9) levels **L3 → L4** (overflow **13 / 2000**, then **118 / 2000** after two more kills).
+Guild measuring crystal (Ch 8) uses this block. Estate Mage weekly doubles leave the XP bar at **1250 / 1500**. First paid hunt (Ch 9) levels **L3 → L4** (overflow **100 / 2000**, day ends **1000 / 2000**).
 
 ### Mage L4 (Ch 9 end) — full stack, still age-10 body
 
@@ -290,8 +290,8 @@ Method: Source live growth from Ch 13 Source sheet → later live full sheet, ap
 | 13 | L25 | Mage L25 | **47/61/57/47/52/137/135/12/7** | **626 / 2292 / 844** |
 | 14 | L25 | Mage L25 | **47/62/57/47/52/137/135/12/7** | **626 / 2292 / 847** |
 | 16 | L26 | Scribe L1 | **47/62/58/47/52/138/136/12/7** | **626 / 2309 / 847** |
-| 17 | L26 | Scribe L1 | **47/62/58/47/52/138/136/12/7** | **626 / 2309 / 847** (bar **739 / 13000**) |
-| 18 | L26 | Scribe L1 | **47/62/68/47/52/138/136/12/7** | **626 / 2309 / 847** (Drawing tree Dex **+10**; bar **1739 / 13000**) |
+| 17 | L26 | Scribe L1 | **47/62/58/47/52/138/136/12/7** | **626 / 2309 / 847** (bar **1479 / 13000**) |
+| 18 | L26 | Scribe L1 | **47/62/68/47/52/138/136/12/7** | **626 / 2309 / 847** (Drawing tree Dex **+10**; bar **2479 / 13000**) |
 | 23 | L35 | Scribe L10 | **48/63/79/51/54/147/145/13/7** | **675 / 2460 / 895** |
 | 27 | L45 | Scribe L20 | **49/64/92/52/56/157/154/14/7** | **691 / 2623 / 921** |
 | 34 | L50 | Scribe L25 | **51/66/99/54/57/162/158/14/7** | **714 / 2702 / 943** |

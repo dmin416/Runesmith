@@ -9,7 +9,12 @@ Food and drink hub. Wealth feel is locked here. Deep cook / camp / ingredient ta
 | `EssentialFlavorings.md` | Adventure flavorings (core ten) |
 | `EssentialIngredients.md` | Cuts, camp methods, pairings |
 | `FoodDesign.md` | Earth table anchors, no-pot camp, spirits process, dungeon seasoning notes |
-| `MagicalMeatCookware.md` | Proposal only: potency-preserving pans |
+| `FoodPrices.md` | Inn / tavern / spirits price book |
+| `Hemolymph.md` | Ned / insect hemolymph as complete food (design) |
+| `KitchenKit.md` | Core / full / upgrade cookware gear lists |
+| `KitchenCraft.md` | Cookware production methods (Food domain; metal law stays in Materials/Metals) |
+| `MagicalMeatCookware.md` | Potency-preserving pans / vacuum meat cookware; uniform-heat whole-animal cook (proposal) |
+| `MagicalCooking.md` | Kitchen magic outcomes (chill, dry, time, sort, selective heat; design loot) |
 
 ## Narrative
 
@@ -57,7 +62,7 @@ Potato, tomato, maize, chili, squash, turkey, chocolate and coffee exist where t
 
 Rough spirits reach the poor. Aged quality spirits mark craftsman / small merchant (tier 3) and up. Distill / liqueur process: `FoodDesign.md` (Steam-era spirits and liqueurs). Tavern prices: `../World/Society/Economy.md`.
 
-Monster meat tastes good. Ordinary tables can eat game-like cuts more often when markets sell dungeon or wild meat cheap. **Never eaten:** goblins (and goblin-kin), ghouls, zombies, liches and other undead. Parts and stones only where those drop. Nobody cooks that. Potency-preserving pans (proposal): `MagicalMeatCookware.md`.
+Monster meat tastes good but **spoils fast**. Eat, preserve (smoke/salt), mage-freeze, or use cookware tricks soon after the kill. Ordinary tables can eat game-like cuts when markets move it quickly. **Never eaten:** goblins (and goblin-kin), ghouls, zombies, liches and other undead. Parts and stones only where those drop. Nobody cooks that. Potency-preserving pans (proposal): `MagicalMeatCookware.md`.
 
 ### Inn rule
 

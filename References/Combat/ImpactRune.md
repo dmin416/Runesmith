@@ -8,18 +8,19 @@ From `Energy.md` conversion layers:
 
 ```
 Paid cost is fixed.
-Useful (J) = mana × 10 × η_cond × G
+Useful (J) = mana × 10 × η_cond × A
+A = √C   // ambient osmosis; Energy.md / ManaConcentration.md
 ```
 
-This is a **rune** stroke. Use mana conductivity and ambient G only. Do **not** also multiply η(L) or μ(INT).
+This is a **rune** stroke. Use mana conductivity and ambient `A` only. Do **not** also multiply η(L) or μ(INT).
 
 | Lock | Value |
 |---|---|
 | Full activate | **100 mana** |
 | Input at peg | **1,000 J** |
-| Worked example | η_cond = 1, G = 1 → **1,000 J** Useful |
+| Worked example | η_cond = 1, A = 1 (open ground) → **1,000 J** Useful |
 
-Steel in story is a **mid** conductor (worse than mythril, better than iron). When a chapter needs steel η_cond or site G, set η_cond from conductivity feel and G from local mana density (altitude first; dungeons / spiritual sites also dense).
+Steel in story is a **mid** conductor (worse than mythril, better than iron). When a chapter needs steel η_cond or site `A`, set η_cond from conductivity feel and `C` from altitude + dungeon/spiritual thickness, then `A = √C`.
 
 That Useful **is** the energy the stroke adds to the head (ΔKE).
 
@@ -48,7 +49,7 @@ Momentum scales as **a × b**. KE scales as **a × b²**. Velocity is the strong
 | Baseline tip speed | **8 m/s** |
 | Baseline KE | **½ × 20 × 8² = 640 J** |
 
-### Worked example (η_cond = 1, G = 1)
+### Worked example (η_cond = 1, A = 1)
 
 ```
 KE₁ = KE₀ + Useful = 640 + 1,000 = 1,640 J
@@ -67,7 +68,7 @@ a = b = (KE₁ / 640)^(1/3) ≈ 1.37
 |---|---|---|
 | **27.4 kg** | **11.0 m/s** | ½ × 27.4 × 11.0² ≈ **1,658 J** ≈ KE₁ |
 
-Scale any other η_cond × G by multiplying Useful first, then rebuild a from `a = ((KE₀ + Useful) / KE₀)^(1/3)`.
+Scale any other η_cond × A by multiplying Useful first, then rebuild a from `a = ((KE₀ + Useful) / KE₀)^(1/3)`.
 
 **Duration:** peak lasts about the swing window **~0.2 s** (`AttackScale.md`), then dumps. More mana = stronger stroke in that window, not a longer buff.
 
@@ -75,4 +76,4 @@ Partial feed: Useful scales with mana paid.
 
 ## Open
 
-- Steel η_cond and site G when a fight beat needs exact joules
+- Steel η_cond and site `A` (`√C`) when a fight beat needs exact joules

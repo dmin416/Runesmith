@@ -1,8 +1,10 @@
 # Creatures Design
 
-> **Design loot.** Lean lock: Creatures.md. Full Source inventory: ../../SourceLoot/Creatures.md.
+> **Design loot.** Lean lock: `Creatures.md`. Source index: `../../SourceLoot/Creatures.md`.
+>
+> **XP law (live):** `XP_kill = 50 × killed_L × RaceMult`. Family table: `../../Progression/Levels.md`. Pre-class bank **½** only (first class). No class-change half-cut. Party share = contribution split of that kill XP. Narrative threat: `MonsterThreat.md`. Ledger: `Story/Notes/Experience.md`.
 
-Enemy and wild monsters from the story. Tamed mounts are also listed in Mounts.md when relevant.
+Enemy and wild monsters from the story. Tamed mounts: `Mounts.md` / `MountsDesign.md`.
 
 ### Blazing Skeleton Warrior / Archer
 First seen: Chapter 4
@@ -10,13 +12,17 @@ Reanimated patrol skeletons.
 
 ### Goblin
 First seen: Chapter 4
-Common early foe. Roland’s first kill is a **Goblin L1** (HP 117/117) in the Arden mansion dungeon bravery test. About **120 cm** tall, green, rusty short blade. Estate training stock for age-9 tests, weekly **1v1** clears into the pre-class bank, then weekly **2× L1** clears for ~3 months after Mage (Chapter 7 finale still uses the pen). Kill XP **50** (49+1; RaceMult 1.0); First Kill achievement adds **+200**. Live in groups with a strength hierarchy; chiefs are often evolved soldiers or shamans. Chapter 9 Carwen farm-forest: L2–L5 trash with clubs/spears; tribal alarm screams; Hobgoblin chiefs feared. Chapter 10: darker-green nest leaders; Roland snipes from ~100 m with Mana Arrow; guerrilla lure tactics clear many nests over three months. Bounty proof: left ear.
+Common early foe. Roland’s first kill is a **Goblin L1** (HP 117/117) in the Arden mansion dungeon bravery test. About **120 cm** tall, green, rusty short blade. Estate training stock for age-9 tests, weekly **1v1** clears into the pre-class bank, then weekly **2× L1** clears for ~3 months after Mage (Chapter 7 finale still uses the pen). RaceMult **1.0**; kill XP **50 × L** (**L1 = 50**); First Kill achievement adds **+200**. **Never eaten.** Live in groups with a strength hierarchy; chiefs are often evolved soldiers or shamans. Chapter 9 Carwen farm-forest: L2–L5 trash with clubs/spears; tribal alarm screams; Hobgoblin chiefs feared. Chapter 10: darker-green nest leaders; Roland snipes from ~100 m with Mana Arrow; guerrilla lure tactics clear many nests over three months. Bounty proof: left ear.
 
-**Mana stones:** about **1 in 30** goblins is a **leader**. Common kills drop a **rice-grain** stone about **1 in 5**. Leaders drop a **5× rice-grain** stone about **1 in 3** (overall leader stone ≈ **1 in 90** kills). Prices: rice-grain **2 SS**; leader **10 SS** (`Economy.md`).
+**Mana stones:** **Size = level** (`../Materials/MonsterCores.md`). Wild drop ~**1/5**; evolved always. Common / nest-chief goblins (low L) → rice-grain peg if they drop. Leader-band (**5×** rice, **1 LS**) needs about **L27+** on the curve, not “1 in 30 were chiefs.” Prices: `../Society/Economy.md`.
 
 ### Goblin Shaman
 First seen: Chapter 10 (guild gossip; kill in late Ch 9.5)
-Evolved goblin chief type. Named rewrite kill: **Goblin Shaman L23** (above Roland’s Mage L20 when he took it; counts inside the Ch 9.5 **1,481**). Guild hall talk in Chapter 10 references it as “last time.” Counts as a **leader** for stone size when a core drops.
+Evolved goblin chief type. Named rewrite kill: **Goblin Shaman L23** (RaceMult **1.5**; inside Ch 9.5 **1,000**). Guild hall talk in Chapter 10 references it as “last time.” Stone size follows **level**, not title: L23 ≈ large rice / ~2× rice on the MonsterCores curve. **Not** leader-band (leader volume needs ~**L27+**).
+
+### Goblin Leader (T2 ambush)
+First seen: Chapter 9.5 (Carwen grind)
+Darker / evolved nest elites at overall **L27** (leader-band stone floor + T2-band threat). RaceMult **1.5**. Occasional canopy ambushes in months 2–3 (**8** locked in the skip). Not Hobgoblin. Always drop **leader-band** cores (evolved + L27).
 
 ### Dragon (egg)
 First seen: Chapter 7
@@ -32,23 +38,23 @@ Smarter evolved goblin. Used as lab subjects and wild dungeon foes.
 
 ### Dungeon Rat
 First seen: Chapter 11
-Giant rat in Carwen dungeon entrance corridors. Weaker than a common goblin. Roland one-shots one with Mana Arrow on his first party delve and takes **full solo XP** (party test kill; no share split). Kill XP **9 + level** (vermin-tier base; not the goblin **49 + level** line).
+Giant rat in Carwen dungeon entrance corridors (draft **~L5**). Weaker than a common goblin. Roland one-shots one with Mana Arrow on his first party delve and takes **full solo XP** (party test kill; no share split). RaceMult **0.2** (L5 solo **50**).
 
 ### Spiked Boar
 First seen: Chapter 11
-Low-level Emerald Wilderness floor-1 trash. Large muscular boar with thick tusks and bone spikes on the spine. Extremely strong and durable; face shots far less effective than on goblins. Not very agile; limb/joint hits help slow them. Charges tanks; party loot includes tusks, spine spikes and leather (meat skipped: tough and bad tasting). Chest mana stone ≈ **goblin-leader** size (**5×** rice-grain; guild price **10 SS**). Kill XP **499 + level** (own base; not RaceMult). Ch 11 day-one lock: **L1** solo **500**. Idle spectate **5 XP (1%)**; full party contribution share **125 XP (1/4)**.
+Emerald Wilderness floor-1 beast (draft common **~L8**). Large muscular boar with thick tusks and bone spikes on the spine. Extremely strong and durable; face shots far less effective than on goblins. Not very agile; limb/joint hits help slow them. Charges tanks; party loot includes tusks, spine spikes and leather. Meat tastes good but spoils fast (lean food lock). Chest mana stone can reach **leader-band** volume via **body-size mod**, not title (`../Materials/MonsterCores.md`). RaceMult **1.5**. Threat **2.7** (`MonsterThreat.md`). Ch 11 day-one: **L8** solo **600**; idle **~6 (1%)**; active **~150 (1/4)**.
 
 ### Needle Worm
 First seen: Chapter 12
-Leaf-green spiky caterpillar ambusher on Carwen Dungeon floor 2. Camouflages in trees; flings itself headfirst. Looks like a normal fuzzy caterpillar scaled up; fine hairs as thick as thin knitting needles. Green blood is **paralytic** and tastes like **cumin** / numb spice (Roland seasons Spiked Boar skewers with it in Ch 12; Reyna first asks what he is doing, then warns that broken needles release poison). Distinctive scent (armpit comparison in party banter). Spikes sell poorly. One-trick ambush threat, especially while the party is busy with boars. Mana stone: **tiny** (larger than a grain of sand; locked **½ rice-grain** volume). Kill XP **24 + level** (own base; above dungeon rat **9 + level**; not RaceMult). Roland tames a **core-bearing** specimen in Ch 12 (**Basic Taming** L1); wears it as a green scarf. Named **Ned** (Ch13); companion design/stats in `../People/Ned.md`. Floor-3 adult form for the wild line: **Needle Moth**. Ned’s tamed path: **Needle Worm → Greater Needle Worm → King Worm → Wyrm → Ormr** (needles, silk, poison, physical resilience; full ramps in `../People/Ned.md`; levels add up to overall **525**).
+Leaf-green spiky caterpillar ambusher on Carwen Dungeon floor 2 (draft **~L16**). Camouflages in trees; flings itself headfirst. Looks like a normal fuzzy caterpillar scaled up; fine hairs as thick as thin knitting needles. Green blood is **paralytic** and tastes like **cumin** / numb spice (Roland seasons Spiked Boar skewers with it in Ch 12; Reyna first asks what he is doing, then warns that broken needles release poison). Distinctive scent (armpit comparison in party banter). Spikes sell poorly. One-trick ambush threat, especially while the party is busy with boars. Mana stone: **tiny** (larger than a grain of sand; locked **½ rice-grain** volume). RaceMult **0.5** (L16 solo **400**; active ~**100**). Threat **1.1**. Roland tames a **core-bearing** specimen in Ch 12 (**Basic Taming** L1); wears it as a green scarf. Named **Ned** (Ch13); companion lock: `../../../People/Ned.md`. Biomechanics / ramps: `NeedleWorm.md`. Floor-3 adult form for the wild line: **Needle Moth**. Ned’s tamed path: **Needle Worm → Greater Needle Worm → King Worm → Wyrm → Greater Wyrm → Ormr** (needles, silk, poison, physical resilience; levels add up to overall **450**).
 
 ### Needle Moth
 First seen: Chapter 13 (floor-3 multi-type fights; design lock)
-Adult / elite form of the Needle Worm line. Large leaf-green moth (or moth-butterfly blend) with needle-scale wings and the same armpit musk / paralytic green ichor family. Floor-3 Carwen common threat alongside Wereboars. **Fight style:** hide in canopy or fly above the party and spread a light poison powder (weaker than needle venom / broken-spine dumps; still a real status threat in packs). Sometimes dive-rams with a harder, less-spiked head than the worm's needle-fling. Kill XP **99 + level** (own base; not RaceMult). **L1** solo **100**. Mana stone: **rice-grain** (**2 SS**) when it drops (above worm tiny).
+Adult / elite form of the Needle Worm line (draft **~L18**). Large leaf-green moth (or moth-butterfly blend) with needle-scale wings and the same armpit musk / paralytic green ichor family. Floor-3 Carwen common threat alongside Wereboars. **Fight style:** hide in canopy or fly above the party and spread a light poison powder (weaker than needle venom / broken-spine dumps; still a real status threat in packs). Sometimes dive-rams with a harder, less-spiked head than the worm's needle-fling. RaceMult **2.0** (L18 solo **1,800**; active ~**450**). Threat **1.4**. Mana stone: **rice-grain** (**2 SS**) when it drops (above worm tiny).
 
 ### Wereboar
 First seen: Chapter 12 (named as floor-3 target); fought Chapter 13
-Floor-3 Carwen Dungeon foe. Gorilla-like body with a boar head. Stronger and denser XP than Floor-1 Spiked Boars. Strongest common threat at that depth for Roland's party. Sahildr's lesser-impact hammer can one-shot or incap with a timed mana blast; high mana cost makes it situational. Kill XP **999 + level** (own base; not RaceMult). **L1** solo **1000**; idle **10 XP (1%)**; full party share **250 XP (1/4)**. Mats mid **156 LC** (**2×** Spiked Boar); chest stone leader-sized **100 LC** when present (**~50%** Ch 13 slate). Full Ch 13 kill/loot lock: `Experience.md`.
+Floor-3 Carwen Dungeon foe. **Evolution of Spiked Boar.** **Minimum overall L26.** Gorilla-like body with a boar head. Strongest common threat at that depth for Roland's party. Sahildr's lesser-impact hammer can one-shot or incap with a timed mana blast; high mana cost makes it situational. RaceMult **2.0** (L26 solo **2,600**; idle **~26 (1%)**; active **~650 (1/4)**). Threat **4.5** (`MonsterThreat.md`). Mats mid **156 LC** (**2×** Spiked Boar); chest stone **leader-band** (**100 LC**) when present (**~50%** Ch 13 slate; size = level). Full Ch 13 kill/loot lock: `../../../Story/Notes/Experience.md`.
 
 ### Goblin Leader / Goblin King
 First seen: Chapter 11 (size comparison only; spiked-boar stone ~goblin-leader size)
@@ -72,7 +78,7 @@ Gray-skinned forest goblins near Edelgard.
 
 ### Gray Hobgoblin Berserker
 First seen: Chapter 37
-Tier-2 gray hobgoblin with a berserk/red-skin rage skill. Roland kills one at L59 in the Edelgard goblin forest (+950 XP); title evolves to Goblin Slaughterer.
+Tier-2 gray hobgoblin with a berserk/red-skin rage skill. Roland kills one at L59 in the Edelgard goblin forest (live **50 × 59 = 2950** XP; Old note **+950** = quarantine); title evolves to Goblin Slaughterer.
 
 ### Infernal Skeleton Champion / Berserker / Spearmaster / Guardian
 First seen: Chapter 37

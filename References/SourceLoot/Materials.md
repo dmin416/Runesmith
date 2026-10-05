@@ -6,12 +6,15 @@ Scan of `../Source/`. First-seen range in notes when clear. Spelling follows Sou
 
 | Source spelling (loot) | Live lock |
 |---|---|
-| Dark / deep iron or steel (and aether deep steel grades) | **Mana iron / mana steel**, then **refined mana iron / refined mana steel**, then adamantium |
-| Mithril / mythril | Saturated silver / Ag–Cu (live spelling **mythril** preferred in Materials) |
-| Orichalcum | Antimagic magical titanium |
-| Adamantium (cast) | Indestructible |
+| Dark / deep iron or steel (and aether deep steel grades) | **Darkiron / darksteel** → **star iron / star steel** (Fe/steel conversion bands) |
+| Mithril / mythril | Converted **silver** (live spelling **mythril**) |
+| Orichalcum | Converted **gold** → **orihalcum** (MR = %; guild rank may keep Orichalcum spelling) |
+| Adamantium (cast) | Converted **titanium**; cast-final indestructible |
+| (no Source name) | Converted **copper** → **aurium** |
 
 This file keeps Source strings for retune. Live metal law: `../World/Materials/Metals.md`.
+
+**Non-canon as forge metals:** Source **color mithril / mithril grades** (black / blue / crimson / red mythril, etc.). Live: plain **mythril**; elemental lean is a **mode** only (`../Runes/ManaMaterials.md`). Do not re-import color brands into Metals.
 
 - Abyssal star steel - meteorite-like ore / alloy stock; first clear name `631-640`
 - Adamantium - top adventurer rank and rare indestructible craft metal; glossary `1-10`; smithing detail `161-170`

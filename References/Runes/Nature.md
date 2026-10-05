@@ -1,6 +1,6 @@
 # Nature of Runes and Magic
 
-> **Design loot.** Live locks: Energy.md (eta_cond feel order, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md. Non-canon here: path-% dials, dark/deep steel names, mythril-as-titanium, orichalcum as reduced-eta wire, adamantium as forgeable supersteel.
+> **Design loot.** Live locks: Energy.md (eta_cond feel order, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md (Ag mythril, Au orihalcum, Cu aurium, Fe/steel dark→star, Ti adamantium). Non-canon here: path-% dials; adamantium as forgeable post-set supersteel.
 
 Author design lock for how runes and magic work in the rewrite. Engineering detail (ceilings, harmonics, setup, cast law) lives in the companion files below. This note is the worldview layer.
 
@@ -11,7 +11,7 @@ Author design lock for how runes and magic work in the rewrite. Engineering deta
 | `RuneSetup.md` | Setup pour costs |
 | `Energy.md` | Activation, path / ambient / wear (eta_cond feel order) |
 | `Runes.md` | Named catalog / first-seens |
-| `TempRunes.md` | Chapter LOOK/MAKE scrape |
+| `RuneCraftScrapes.md` | Chapter LOOK/MAKE scrape |
 | `../World/Science/Energy/ManaCast.md` | Spell cast law (1 mana ≈ 10 J) |
 
 ## Core design

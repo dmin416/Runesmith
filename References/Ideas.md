@@ -35,16 +35,16 @@ Rewrite directions for this project. Source is loot, not a script. Reader stop p
 
 ## Systems
 
-- **Rails to keep:** Debugger + runecraft, tier/dungeon milestones (shortened and paid), a base to bank power, escalating pressure (nobles, cult, church, school).
+- **Rails to keep:** Diagnosis + runecraft, tier/dungeon milestones (shortened and paid), a base to bank power, escalating pressure (nobles, cult, church, school).
 - **Economy:** contracts, patents, sales, commissions. Profit early is allowed. Conflict then comes from politics and identity, not poverty.
-- **Future products (Earth tech import):** mana-stone lamps, **printing**, pins/pens/matches/soap/toilet paper, **bicycle**, steel process and other civilian tech Caldris lacks. Shortlist + print pathway below. Patents and guild heat follow. Keep personal kit upgrades tied to the same breakthroughs. Era baseline: `World/Technology.md`.
+- **Future products (Earth tech import):** mana-stone lamps, **printing**, pins/pens/matches/soap/toilet paper, **bicycle**, steel process and other civilian tech Caldris lacks. Shortlist + print pathway below. Patents and guild heat follow. Keep personal kit upgrades tied to the same breakthroughs. Era baseline: `World/Tech/Technology.md`.
 - **Progression split:** early = build the machine (kit, prices, XP routes). Then = conflict that spends that machine.
 - **Personal power:** every major workshop breakthrough should also upgrade his ranged kit / armor OS so levels and golems do not diverge for years.
 - **Gamer-manga skills:** skills must do something you feel in play. No paper bonuses that never change a fight, craft or plan. If a skill is on the sheet, it either unlocks a real option, changes a hard limit or stacks into a build the reader can track.
 
 ### Future products: printing and civilian tech
 
-Earth research seed for a later shop arc (not locked). Steam and rail already exist in Caldris; printing press and many cheap civilian goods are missing or rare in `World/Technology.md`. Roland's modern mind can skip centuries of trial and error. Machine-tool dependency and bare-forge timelines: `../Science/MedievalIndustrialization.md`. Century-by-century craft catalog: `../Science/CraftsmanByCentury.md`.
+Earth research seed for a later shop arc (not locked). Steam and rail already exist in Caldris; printing press and many cheap civilian goods are missing or rare in `World/Tech/Technology.md`. Roland's modern mind can skip centuries of trial and error. Machine-tool dependency and bare-forge timelines: `World/Science/Invent/MedievalIndustrialization.md`. Century-by-century craft catalog: `World/Science/Invent/CraftsmanByCentury.md`.
 
 #### Civilian product shortlist
 
@@ -54,7 +54,7 @@ Cheap high-volume goods first. Presses and steel process come when the shop can 
 |---|---|---|
 | **Safety pin** | 1849 (Hunt) | Fasten cloaks, diapers, kit; tiny metal + spring know-how |
 | **Bobby pin** | early 1900s | Hair / small clamp; stamped spring steel |
-| **Pencil (wood + graphite)** | Roland invents (no common Terra pencil; no Edelgard lump graphite) | Schematic redraws; Conté-style synthetic core; Ned toxin-free spike assist (`../Science/WritingTools.md`) |
+| **Pencil (wood + graphite)** | Roland invents (no common Terra pencil; no Edelgard lump graphite) | Schematic redraws; Conté-style synthetic core; Ned toxin-free spike assist (`World/Science/Invent/WritingTools.md`) |
 | **Ball pen** | 1930s–1940s (Bíró); after he has metalworking | Beats quill and dip for clerks; needs fine ball + ink paste |
 | **Playing cards** | medieval → mass print | Already known as a product; press makes them cheap and uniform |
 | **Matches** | 1820s–1850s (friction / safety) | Pocket fire without flint kits; chemistry + wood sticks |
@@ -63,11 +63,11 @@ Cheap high-volume goods first. Presses and steel process come when the shop can 
 | **Toilet paper** | 1850s–1890s commercial | Soft roll / sheet packs; paper machine unlocks volume |
 | **Printing press** | Gutenberg → steam / rotary | Breaks hand-copy bottleneck; full pathway below |
 | **Bicycle** | 1817 draisine → 1880s safety bike | Personal travel without a horse; needs chain, bearings, wire spokes, rubber or leather tires |
-| **Mana-stone lamps** | — | Civilian light (rice-grain sustain ≈ candle-to-desk; `../Science/ManaStones.md`) |
+| **Mana-stone lamps** | - | Civilian light (rice-grain sustain ≈ candle-to-desk; `World/Science/Energy/ManaStones.md`) |
 
 #### Solo startup plan
 
-Start with products that need only hand tools and cheap inputs. Their cash pays for the steel furnace, the press, the bicycle and the ball pen. **Pencil** is an earlier personal invent (`../Science/WritingTools.md`): synthetic graphite + casing; Ned toxin-free spike for clean cores. Not sold as a shop product until he chooses to productize it.
+Start with products that need only hand tools and cheap inputs. Their cash pays for the steel furnace, the press, the bicycle and the ball pen. **Pencil** is an earlier personal invent (`World/Science/Invent/WritingTools.md`): synthetic graphite + casing; Ned toxin-free spike for clean cores. Not sold as a shop product until he chooses to productize it.
 
 ##### Build order
 
@@ -126,7 +126,7 @@ Start with products that need only hand tools and cheap inputs. Their cash pays 
 
 - **Known target:** Gutenberg needed years of trial and error. A time traveler knows the finished system and skips straight to it.
 - **Core kit:** Adjustable hand mold, steel punches and copper matrices, type metal (roughly 80% lead, 15% antimony, 5% tin), boiled linseed oil and lampblack ink and a screw press.
-- **Caldris shortcut:** Steam and rail already exist. The gap is the press. Skip the wooden screw press and build an iron-frame press with steam or magic-stone power (rice-grain sustain ≈ candle-to-desk lamp if sold as light products; `../Science/ManaStones.md` stone rates).
+- **Caldris shortcut:** Steam and rail already exist. The gap is the press. Skip the wooden screw press and build an iron-frame press with steam or magic-stone power (rice-grain sustain ≈ candle-to-desk lamp if sold as light products; `World/Science/Energy/ManaStones.md` stone rates).
 - **Skills system:** Printer, typesetter and type-cutter can become trained trades so a workforce levels fast (`Progression/NormalPersonSkills.md` / class skills).
 
 #### Things to make and patent
@@ -196,7 +196,7 @@ Each prefix is its own skill name with its own L1–L9 bar. Trees pick one namin
 
 **Special skills (outside the evolution track):**
 - Some skills are **not** on the Basic→…→Legendary ladder at all.
-- Examples: **Technology**, Source-era **Circuitry**, and similar transfer / category skills.
+- Examples: **Technology**, **Fabrication**, and similar transfer / category skills.
 - They are gained once (or under their own rules), do not evolve through the prefix scheme, and may not level by the standard tier ladder. Treat as their own category when writing sheets and upgrades.
 
 ### World laws: nature of runes and magic
@@ -227,9 +227,11 @@ Source often lists skills that sound foundational but do nothing. Rewrite rule: 
 
 **Rune Mastery (rewrite default):**
 
-Scrolls stay "anyone can use." Activation still costs mana. The scroll's safe path runs the user's mana through a **filtration sequence** so a non-mage does not wreck the pattern. That safety tax is real MP. Setup pour costs and prepaid scroll variants: `Runes/RuneSetup.md`. Pathway model and harmonics: `Runes/RuneSystem.md`.
+**Word / magic scrolls:** need mana; read aloud; not for people with no mana (`Runes/Magic.md`).
 
-Mastery lets the holder **bypass filtration** and feed mana straight into the spell pattern.
+**Runic scrolls:** only family usable by anyone. Activation costs **energy** (mana **or** stamina; `Runes/Energy.md`). Safe path can run that energy through a **filtration sequence** so an unskilled user does not wreck the pattern. That safety tax is real paid energy (MP or SP). Setup pour costs and prepaid scroll variants: `Runes/RuneSetup.md`. Pathway model and harmonics: `Runes/RuneSystem.md`.
+
+Mastery lets the holder **bypass filtration** and feed energy straight into the pattern.
 
 - **-10% activation cost per skill level** on the rune rank that form covers.
 - **Capped at -90%** (L9). Never free. The last 10% is the irreducible pattern cost.
@@ -404,16 +406,16 @@ Idea map. Overlaps the T1 table above; keep both until names lock.
 - **Fragmentation Burst** - A compressed charge that splits into multiple smaller explosions on impact.
 
 **Vacuum**
-- **Void Pull** - Vacuum that draws targets or objects toward its center before collapsing. On resisting people: full-body ground-sealed shell rules in `../Science/Vacuum.md`.
-- **Suffocate** - Sustained vacuum deny-air. **No cheap pocket.** Vitality and the target's magic resist raw mana air-manipulation. Must enclose the whole body with a standoff shell **sealed to the ground** (or equivalent closed volume) unless the target cannot resist at all except by sitting in otherwise impenetrable armor. Injury sequence and costs: `../Science/Vacuum.md`.
+- **Void Pull** - Vacuum that draws targets or objects toward its center before collapsing. On resisting people: full-body ground-sealed shell rules in `World/Science/Metallurgy/Vacuum.md`.
+- **Suffocate** - Sustained vacuum deny-air. **No cheap pocket.** Vitality and the target's magic resist raw mana air-manipulation. Must enclose the whole body with a standoff shell **sealed to the ground** (or equivalent closed volume) unless the target cannot resist at all except by sitting in otherwise impenetrable armor. Injury sequence and costs: `World/Science/Metallurgy/Vacuum.md`.
 
 **Sound Waves**
 - **Sonic Boom** - A concentrated wave released in a single directional strike.
 - **Disorient Wave** - A wide wave tuned to disrupt balance and focus rather than deal damage.
-- Sound power, Q, air–tissue coupling, echolocation L9: `../Science/Sound.md`.
+- Sound power, Q, air–tissue coupling, echolocation L9: `World/Science/Energy/Sound.md`.
 
 **Mana Jet / Flight**
-- Cost follows `../Science/Flight.md` math at the caster's η(L) and μ(INT). No locked expensive or cheap flight.
+- Cost follows `World/Science/Energy/Flight.md` math at the caster's η(L) and μ(INT). No locked expensive or cheap flight.
 
 **Static Charge**
 - **Shock Touch** - A static charge delivered through direct contact.
@@ -447,7 +449,7 @@ Same height as Source, tighter path, crew-based instead of lonely craftsman.
 
 ### What still works from Source
 
-- Transmigrant + Debugger → runecraft
+- Transmigrant + Diagnosis → runecraft
 - Albrook (or equivalent) as base
 - Church / cult pressure
 - Bigger stage later if wanted
@@ -479,9 +481,9 @@ See `Story/Notes/Early Logical Skills.md`. Short version: Basic Mathematics and 
 - Exact Wayland reveal timing to Helci and the trio.
 - What concrete help Elodia gives Roland first (and what conflict that buys later).
 - How much Armand / Lobelia stay attached to that thread.
-- Finalize Early Logical Skills naming (Ambient Mana Absorption vs early Regulation; Parallel Thinking trait vs skill).
-- Temp skill rewrite pass: `Progression/TempRolandSkillChanges.md` (merge then delete).
+- Finalize Early Logical Skills naming (Ambient Mana Absorption vs early Regulation). Parallel Thinking = **skill** (rewrite lock).
+- Skill redesign loot: `Progression/SkillsRedesign.md` (merge accepted rows into Skills / SkillsDesign).
 - Name and lock the Tier 2+ passive telekinesis / mage-hand skill above Mana Shaping (`Ideas.md` Systems).
-- **Goblin Hunter** unlock threshold: **1000** goblin kills (locked). Ch 9.5 grants it in month 3 once past **1000** into the skip; end skip at **1,481** Carwen kills / **1,569** lifetime; Ch 10 nest → **1,576** lifetime (`Experience.md`). Later Goblin Slaughterer may need its own kill or boss gate.
+- Later **Goblin Slaughterer** may need its own kill or boss gate (Goblin Hunter **1000** is locked in `Experience.md` / SkillsDesign).
 - Ordinary-person skill list + L9 training times: `Progression/NormalPersonSkills.md` (through Expert; no system acceleration).
-- **Regular vs runic scroll craft (open):** Drawing / making **regular magic scrolls** (incantation / word / mana-ink path) is different from **runic scrolls**. Ch 21 already shows Debugger blank on regulars and different laws; timings differ (~10 min Mana Arrow vs ~45 min Fire Orb runic). Still need to learn and lock the full difference (skills, process, what Drawing covers for each, Identify readout, materials). Not locked yet.
+- **Regular vs runic scroll craft (open):** Drawing / making **regular magic scrolls** (incantation / word / mana-ink path) is different from **runic scrolls**. Ch 21 already shows Diagnosis blank on regulars and different laws; timings differ (~10 min Mana Arrow vs ~45 min Fire Orb runic). Still need to learn and lock the full difference (skills, process, what Drawing covers for each, Identify readout, materials). Not locked yet.

@@ -10,7 +10,7 @@ Named magic and commonly referenced spell effects. Runic scroll versions are not
 First seen: Chapter 5
 Focused mana projectile; early core mage spell. Tutorial clone demonstrates chant + palm form before the skill dump. Damage scales with Intelligence. Chapter 7–9 field use: egg-sized bolt after a full chant (*Source of all magic, heed my call!* / *Gather before me and strike down my enemies, Mana Bolt!* or shortened closing *Mana Bolt!*). Fine vs eyes and other weak spots; not rapid-fire. **Must chant while shaping**; shaping alone evaporates. Whisper chant works but lowers power. Panting or running collapses the cast. Aim can track with Dexterity / prior FPS habit. Chapter 27: lesser elemental grafts (same research track as Mana Arrow). Chapter 37: inscribed on bronze paddle wands (~75 MP per cast through the item).
 
-**Cast law (rewrite physics):** `Useful = mana × 10 × η(L) × μ(INT)` with `η(1)=0.3`, `η(L)=1+(L-2)×2/7` for L2–L9 (L2=1.0 … L9=3.0), and `μ=(INT/15)^0.8`. Voice sets mana: Mental **10**, Whisper **15**, Quiet **20**, Normal **25**, Loud **40**, Very loud **50**. **Overcharging a spell is equal to the mana used.** **1 mana ≈ 10 J** paid. Goblin skull/eye clear on L1 normal from mid INT; hardness and aim still gate armor. Full tables: `../World/Science/Energy/ManaCast.md`.
+**Cast law (rewrite physics):** `Useful = mana × 10 × η(L) × μ(INT) × A` with `η(1)=0.3`, `η(L)=1+(L-2)×2/7` for L2–L9 (L2=1.0 … L9=3.0), `μ=(INT/15)^0.8`, and ambient `A = √C` (open ground **A = 1**). Voice sets mana: Mental **10**, Whisper **15**, Quiet **20**, Normal **25**, Loud **40**, Very loud **50**. **Overcharging a spell is equal to the mana used.** **1 mana ≈ 10 J** paid. Goblin skull/eye clear on L1 normal from mid INT; hardness and aim still gate armor. Full tables: `../World/Science/Energy/ManaCast.md`.
 
 ### Mana Arrow
 First seen: Chapter 10
@@ -32,7 +32,7 @@ Guided or homing mana arrow variants.
 First seen: Chapter 10
 Mana barrier for caster or allies. One of Mage’s three basic class spells with Bolt and Arrow. Chapter 11 party cast on Sahildr vs a spiked boar: *Source of all magic, heed my call. Let your strength be mine and protect which I deem worthy.* / *Mana Shield!* Blue bubble forms then shrinks to a **hard disk** over the target’s front (Source: bubble aid only). Chapter 14: extra mana poured into the bubble around Reyna vs a T2 fencer thrust; still pierced but bought the parry. Chapter 27: can reshape lesser shield into a tight earth wall (and other elemental variants) via surface rune edits.
 
-**Rewrite physics:** `N = floor(20 × M × η × μ × S × R / J)` with shared η/μ. **Baseline M = 100.** Focused disk A = 0.2 m² (S = 1, R = 1); semicircle A = 6.28 m² (S ≈ 0.178, R = 1 - 0.628 t / M). Threat J table and hit counts: `../World/Science/Energy/ManaCast.md` (Mana Shield).
+**Rewrite physics:** `N = floor(20 × M × η × μ × S × R × A / J)` with shared η/μ and ambient `A = √C` (open ground **A = 1**). **Baseline M = 100.** Focused disk area = 0.2 m² (S = 1, R = 1); semicircle area = 6.28 m² (S ≈ 0.178, R = 1 - 0.628 t / M). Threat J table and hit counts: `../World/Science/Energy/ManaCast.md` (Mana Shield).
 
 ### Lesser Shield
 First seen: Chapter 167

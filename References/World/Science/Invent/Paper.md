@@ -58,17 +58,19 @@ Shop price ≠ one craftsman’s full day per sheet.
 
 **Proceed with these bands.** The only soft feel is rough blank ≈ ear/meal; that is intentional city retail, not a claim that finishing one blank takes a full day of labor. If street stalls ever need to feel dirt-cheap, use the **2–3 LC** bottom of the band without changing the rest of the ladder.
 
-### Later scroll mats (provisional, for Ch 20+ rewrite)
+### Later scroll mats (Ch 20+ rewrite fair)
 
-Leave room between blank and finished scroll:
+Leave room between blank and finished scroll. Finished locks: `../../../Runes/ScrollEconomy.md`.
 
-| Item | Provisional fair | Notes |
+| Item | Fair | Notes |
 |---|---:|---|
 | Rough magical blank | **~4–5 LC** | Or **~4–5 SS** per **10** pack |
 | Magical paper sheet | **~30–40 LC** | Premium vs blanks |
-| Finished T1 regular scroll (e.g. Mana Arrow) | **~25–40 LC** | Blank + ink + labor + mana; not blank+1 |
-| Finished T2 regular (e.g. Fire Arrow) | **~50–80 LC** | Above T1 |
-| Early runic shelf | **several×** regular | Specialist craft time |
+| Ink (per T1) | **~10 LC** typical (**5–15**) | Soft |
+| Finished T1 regular (Mana Arrow Intermediate) | **3 SS** | Locked fair |
+| Finished T2 regular (Fire Arrow Intermediate) | **6 SS** | Locked fair |
+| Dusty Low runic shelf | **1.5–2 LS** | Vanity list |
+| Fair High Common runic Fire Arrow | **10 SS** | **10 × 10 SS = 1 SG**/week |
 
 Old Source **blank 9 LC / Mana Arrow 10 LC** pair is discarded as a lock. It left no craft margin.
 
@@ -147,4 +149,4 @@ Within a stock. Global shop order follows the LC table.
 - Implements: `WritingTools.md`
 - Ned gel-nodule hide / ink path: `../../../People/Ned.md`
 - Ears, pelts, boar mats: `../../Society/Economy.md`
-- Rune surfaces: Old `Runes/Nature.md`, Old `Runes/TempRunes.md`
+- Rune surfaces: `../../../Runes/Nature.md`, `../../../Runes/RuneCraftScrapes.md`

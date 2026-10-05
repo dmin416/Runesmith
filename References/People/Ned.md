@@ -2,7 +2,7 @@
 
 ## Narrative
 
-Ned is D's first tamed companion, a Floor-2 Needle Worm worn as a green scarf. D steers him away from the wild moth line into a stronger worm path built for charges, needles, silk, poison, and durability. Harvest materials: `../World/Science/Biomaterials/Biomaterials.md`. Silk Earth anchors: `../World/Science/Biomaterials/BiologicalSilks.md`. Fat combat / scaling tables: `NedDesign.md`.
+Ned is D's first tamed companion, a Floor-2 Needle Worm worn as a green scarf. D steers him away from the wild moth line into a stronger worm path built for charges, needles, silk, poison, and durability. Harvest materials: `../World/Science/Biomaterials/Biomaterials.md`. Silk Earth anchors: `../World/Science/Biomaterials/BiologicalSilks.md`. Species body / scaling: `../World/Fauna/NeedleWorm.md`. Training design: `NedDesign.md`. Skill grind: `../Progression/CompanionSkillLeveling.md`.
 
 ## Detail
 
@@ -20,17 +20,20 @@ Ned is D's first tamed companion, a Floor-2 Needle Worm worn as a green scarf. D
 
 **Wild path he rejects:** Needle Moth (flight, powder)
 
-**Steered path:** Needle Worm → Greater Needle Worm → King Worm → Wyrm → Ormr
+**Steered path:** Needle Worm → Greater Needle Worm → King Worm → Wyrm → Greater Wyrm → Ormr
+
+Same tier caps as people / monsters (`../Progression/Progression.md`): T1 **25**, T2 **50**, T3 **75**, T4+ **100** each.
 
 | Form | Tier | Levels in form | Overall band | Capability mult |
 |---|---|---|---|---|
 | Needle Worm | T1 | 25 | 1–25 | 1x → 3x |
 | Greater Needle Worm | T2 | 50 | 26–75 | 4x → 7x (jump +1 at 26) |
-| King Worm | T3 | 100 | 76–175 | 9x → 13x (jump +2 at 76) |
-| Wyrm | T4 | 150 | 176–325 | 16x → 21x (jump +3 at 176) |
-| Ormr | T5 | 200 | 326–525 | 25x → 31x (jump +4 at 326) |
+| King Worm | T3 | 75 | 76–150 | 9x → 13x (jump +2 at 76) |
+| Wyrm | T4 | 100 | 151–250 | 16x → 21x (jump +3 at 151) |
+| Greater Wyrm | T5 | 100 | 251–350 | 25x → 31x (jump +4 at 251) |
+| Ormr | T6 | 100 | 351–450 | 36x → 43x (jump +5 at 351) |
 
-Levels add up (max overall **525**). Body base **1 m / 10 kg**. Multipliers scale the sheet; Luck stays fixed.
+Levels add up (max overall **450**). Body base **1 m / 10 kg**. Multipliers scale the sheet; Luck stays fixed.
 
 **Chapter locks:** Ch 12 tame = overall **1** / **1x**. Ch 13 half-year end ≈ **25** / **~3x**. Ch 14 watcher kill → Greater overall **26** / **4x**. Ch 15–19 stays **26** / **4x** with Roland L26.
 
@@ -39,6 +42,8 @@ Levels add up (max overall **525**). Body base **1 m / 10 kg**. Multipliers scal
 **Combat identity:** Single explosive attacks (spring charge / spike). Durability and fast seal. Dumps Dexterity and Intelligence. Not a clever duelist.
 
 **Tools for D:** Needles, hemolymph, parsleaves. Later silk, gel nodules, toxin-free write spikes.
+
+**Powder feedstock (invent):** cellulose silk; glycerin from hemolymph; strong dry acid rebuilt from eating his own hard spikes (mineralized sulfur / nitrogen stores). Output is capped by whichever of cellulose, glycerin or acid he makes least of. Gland / Hammett / batch math: `../World/Science/Energy/GunpowderFirearms.md`.
 
 **Talk:** D talks to him as a self-talk outlet for plans and training.
 

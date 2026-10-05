@@ -28,7 +28,7 @@ D is a modern crafter who wakes in the child body named Roland Arden. He is **D*
 
 - Technology ≠ Fabrication. One understands. One makes.
 - Diagnosis finds faults / weak points in systems (including rune pathways later).
-- Exact Old split (Tinkerer vs Technology) can be folded into Fabrication + Technology.
+- Old Source names (Debugger / Circuitry / Tinkerer) map to Diagnosis / Technology / Fabrication. Do not reinstate the Old names.
 - Golems stay side projects next to his personal ranged and magic path.
 
 ### Open

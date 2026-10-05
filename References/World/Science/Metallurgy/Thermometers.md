@@ -6,7 +6,7 @@ Use for invent beats (brew / weather thermometers, oven dials, forge probes). Do
 
 **Accuracy:** solid popular physics / craft summary. Ranges and fixed points are order-of-magnitude, good enough for prerequisite checks. Galinstan and Type letter codes are Earth labels; use setting names in prose.
 
-**Caldris readout** (`../../Tech/Technology.md`): craftsman + early-industrial magitech. **In reach or near-reach:** alcohol-in-glass (glassblowing + distillation + ice/boil calibration), bimetallic oven dials (brass / steel strip, coil, pointer). Mercury or glycerin high-temp liquid tubes if glass and sealing exist. **Invent or prestige:** thermocouples with a galvanometer (fine wire, magnets, cold junction), mythril / refined-mana-steel high-temp pairs, adamantium sheaths, magic-stabilized fill liquids, enchanted uniform bore. Heat Sense and heat runes can substitute for instruments until craft catches up.
+**Caldris readout** (`../../Tech/Technology.md`): craftsman + early-industrial magitech. **In reach or near-reach:** alcohol-in-glass (glassblowing + distillation + ice/boil calibration), bimetallic oven dials (brass / steel strip, coil, pointer). Mercury or glycerin high-temp liquid tubes if glass and sealing exist. **Invent or prestige:** thermocouples with a galvanometer (fine wire, magnets, cold junction), mythril / star-steel high-temp pairs, adamantium sheaths, magic-stabilized fill liquids, enchanted uniform bore. Heat Sense and heat runes can substitute for instruments until craft catches up.
 
 Companions: `CraftMetal.md`, `../Body/Body.md` (thermal math), `../Invent/WritingTools.md` (kiln / heat-rune craft), Old `References/Ideas.md` (civilian tech).
 
@@ -73,13 +73,13 @@ Real Type S and R thermocouples use pure platinum for one leg and a platinum-rho
 
 | Metal | Verdict | Reasoning |
 |---|---|---|
-| **Mythril** | Best choice | Magically saturated Ag–Cu; pearlish silvery gold; drawable specialist wire. Stable high-conductivity mana leg. Not titanium. |
-| **Refined mana steel** | Good as the alloy partner | Responds to mana, which gives the second leg a different voltage curve. Alone it drifts with ambient mana, so keep it as a minor alloying element. |
+| **Mythril** | Best choice | Converted silver; pearlish silvery gold; drawable specialist wire. Stable high-conductivity mana leg. Not titanium. |
+| **Star steel** | Good as the alloy partner | Responds to mana, which gives the second leg a different voltage curve. Alone it drifts with ambient mana, so keep it as a minor alloying element. |
 | **Adamantium** | Poor as a wire | Cast-final sheath once set. Too hard to draw into fine wire and too inert for a useful thermocouple leg. Probe armor for forge / kiln heat. |
 
 **Recommended high-temperature pair**
 - Leg A: pure mythril.
-- Leg B: mythril alloyed with a small amount of refined mana steel (the equivalent of platinum-rhodium).
+- Leg B: mythril alloyed with a small amount of star steel (the equivalent of platinum-rhodium).
 - Sheath: adamantium tube, so the probe survives forge or kiln conditions.
 
 **Materials and tools (all pairs)**

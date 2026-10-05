@@ -15,15 +15,15 @@ Live status / XP / class foundation. Guild ranks: `AdventurerRanks.md`.
 | `Skills.md` | Skill law thin hub |
 | `SkillsDesign.md` | Named skills / traits catalog |
 | `NormalPersonSkills.md` | Ordinary L9 training clocks |
-| `TempRolandSkillChanges.md` | Skill redesign pass |
+| `SkillsRedesign.md` | Skill redesign pass |
 | `Training.md` | Age / technique / endurance tracks |
-| `Levels.md` | **Quarantined** XP leftovers (RaceMult / half-cut); retune logs only |
+| `Levels.md` | RaceMult family table (live) + worked early kills |
 | `../SourceLoot/RolandStatus.md` | Source status scrape |
-| `../../Story/Notes/Experience.md` | Chapter XP ledger (retune later) |
+| `../../Story/Notes/Experience.md` | Chapter XP ledger (Ch 4–19 locked) |
 
 ## Narrative
 
-Everyone has a status system with attributes and resources. Skills like Identify, Analyze, and Mana Sense exist. Affinities gate elemental mage paths. Classes and monster evolutions share the same tier caps (T1 25, T2 50, T3 75, T4+ 100 each). Combat and production paths are both valid. Overall level is a sheet number that sets XP needed to advance. Before a Mage or Acolyte class, absorbing ambient mana poisons or kills. Enchanting and runecrafting are different crafts. Diagnosis is D-only. Death is death; only D is a transmigrator.
+Everyone has a status system with attributes and resources. Skills like Identify, Analyze, and Mana Sense exist. Affinities gate elemental mage paths. Classes and monster evolutions share the same tier caps (T1 25, T2 50, T3 75, T4+ 100 each). Combat and production paths are both valid. Overall level is a sheet number that sets XP needed to advance. No mana pool → no active ambient absorb. Mana-rich places may heal body/spirit without storing mana. Forced absorb before Mage/Acolyte (or any no-pool body) poisons or kills like radiation (`../Runes/Energy.md`). Enchanting and runecrafting are different crafts. Diagnosis is D-only. Death is death; only D is a transmigrator.
 
 ## Detail
 
@@ -41,7 +41,7 @@ Everyone has a status system with attributes and resources. Skills like Identify
 
 **Affinities:** Matter for elemental mage paths. Detail: `Attributes.md`.
 
-**Skill ranks:** Technique / basic skill soft-cap around **L9**. Class skills can go past basic caps with the class. Full tables later.
+**Skill ranks:** Every skill name hard-caps at **L9**, then **evolves** to the next prefix form (starts at L1). No L10 on the same name. Class skills use the same L9 → evolve rule. Full tables: `Levels.md` / `Skills.md`.
 
 **Tiers (people and monsters):** Same tier ladder for person classes and monster evolutions.
 
@@ -64,18 +64,18 @@ XP_to_next(L) = 500 × L
 **Kill XP (solo full credit):**
 
 ```
-XP_kill = 50 × killed_L
+XP_kill = 50 × killed_L × RaceMult
 ```
 
-Even fight (same level) ≈ **10%** of the killer's bar. Weaker prey pays less. Stronger prey pays more. Party contribution splits the pool. People kills use the same shape. No RaceMult multiplier.
+Round to nearest whole XP after RaceMult. Family table: `Levels.md`. Common goblin **RaceMult = 1.0**. Same level, harder race → more XP. At RaceMult 1.0, even fight (same level) ≈ **10%** of the killer's bar. Weaker / stronger level still scales the pool. Party contribution splits the pool. People / classed races use **RaceMult 1.0** (same `50 × L` shape). Default unlisted monster **1.5**.
 
-**Party XP:** Split by ability and contribution. Idle / spectating can still take a thin cut (~1% of the kill in Old early dungeon). Active help raises the cut. Exact split math returns with Experience retune.
+**Party XP:** Split by ability and contribution. Early dungeon lock: idle / spectating ~**1%** of the kill; active help ~**1/4**. Later beats can refine the formula without reopening those counts.
 
 **Craft / schematic XP:** First-time basic / lesser rune schematic at **[Highest]** pays **1000** XP. Quality ladder toward that: **100 / 200 / 400 / 600 / 1000** (raise pays the difference). Repeat copies / practice crafts pay much less. Spell and skill rank-ups can also award XP.
 
 **Pre-class bank:** XP before first ascension banks and applies at first class with a **½** penalty. One-time only. Does not refill for later class changes.
 
-**Experience logs:** Quarantined leftovers in `Levels.md` and `../../Story/Notes/Experience.md`. Retune against this file's kill line; do not re-import RaceMult or class-change half-cut.
+**Experience logs:** Quarantined leftovers in `Levels.md` and `../../Story/Notes/Experience.md`. Retune chapter digits against this kill line; do not re-import class-change half-cut or Old `(49 + L)` / own-base formulas.
 
 ### Resources from attributes
 
@@ -91,7 +91,7 @@ Class and skill bonuses can raise displayed pools above the bare formulas (e.g. 
 
 **Ascension / class crystal:** Needed to gain or change class. First use awards a class (confirm). Later uses need a trial (battle, craft, or puzzle). First-use crystal turns to dust.
 
-**Reclass:** No hard lifetime class count. Cannot leave a class for another until at least **25** levels in the current one. Tier 1 classes must be finished to their **L25** cap before leaving. **No half-cut bank on class change** (Old half-cut dropped). Exact overflow / carry into the next class returns with Experience retune.
+**Reclass:** No hard lifetime class count. Cannot leave a class for another until at least **25** levels in the current one. Tier 1 classes must be finished to their **L25** cap before leaving. **No half-cut bank on class change** (Old half-cut dropped). Cap overflow banks in full; Ch 16 carry **1479** locked in `Experience.md`.
 
 **Multiple classes:** Primary plus at most **one** secondary that keeps special effects. Switch secondary **once per day**. No tertiary active slot. Maxed lower tiers can sit inactive on the sheet.
 
@@ -105,7 +105,7 @@ Class and skill bonuses can raise displayed pools above the bare formulas (e.g. 
 
 **XP measure:** Kill XP tracks fight difficulty. Craft and practice still pay from repetition, exertion, and danger.
 
-**People-kill XP:** Exists. High-stakes. Same `50 × overall level` shape.
+**People-kill XP:** Exists. High-stakes. `50 × overall level × RaceMult 1.0`.
 
 **Skills → attributes:** Skill levels can raise attributes.
 
@@ -119,4 +119,4 @@ Class and skill bonuses can raise displayed pools above the bare formulas (e.g. 
 
 ## Open
 
-Party split exact math. Class-change XP carry detail. Experience chapter retune against live `50 × killed_L`. Pull fat class / skill cards when a beat needs them.
+Pull fat class / skill cards when a beat needs them. Later party-split formula refinements beyond early ~**1%** / ~**1/4** if a fight needs them.

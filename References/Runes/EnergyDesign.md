@@ -1,12 +1,10 @@
 # Energy Design
 
-> **Design loot.** Live locks: Energy.md (eta_cond feel order, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md. Non-canon here: path-% dials, dark/deep steel names, mythril-as-titanium, orichalcum as reduced-eta wire, adamantium as forgeable supersteel.
+> **Design loot.** Live locks: Energy.md (two axes: narrative mana motion, scientific heat; no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md. Non-canon here: old path-% tables; adamantium as forgeable post-set supersteel.
 
-Old path-efficiency percent tables and worked cases that use them are proposals only. Prefer feel-order eta_cond when a beat needs a number.
+Electricity is the physical model for how mana **moves through material**. Mana is not electricity. **Mana conductivity is entirely narrative** and does not follow electrical conductivity (prime example: gold conducts current; **orihalcum** blocks mana). Do not turn ohm-meters into η_cond %.
 
-Electricity is the physical model for how mana moves. Mana is not electricity. Its conductivity ranking differs (section 2).
-
-**Related:** spell cast joules with skill η and INT μ live in `../World/Science/Energy/ManaCast.md` (`1 mana ≈ 10 J` paid, Useful = mana × 10 × η × μ). This file is the **path / ambient / wear** baseline (cost × **10 J** × path efficiency × ambient gain). Resonant runes replace η and G with η_eff and H_eff from `RuneSystem.md`. Setup pour costs live in `RuneSetup.md` and do not add heat or strain. **10 J per mana is the locked standard** for cast and path formulas. Shirt-wide stone pool example: `ChainMailCollaborative.md`. Material modes and fantasy-metal path notes (proposal): `ManaMaterials.md`.
+**Related:** cast joules in `../World/Science/Energy/ManaCast.md`. Path law + feel order in `Energy.md`. Ambient `A = √C` in `../World/Science/Energy/ManaConcentration.md`. Setup pours in `RuneSetup.md`. Material story notes in `ManaMaterials.md`. **10 J per mana** locked.
 
 ---
 
@@ -35,74 +33,70 @@ Electricity is the physical model for how mana moves. Mana is not electricity. I
 
 ---
 
-## 2. Mana Conductivity (canon)
+## 2. Two axes (canon)
 
-Metals from worst to best: **iron, copper, steel, dark steel, mana steel, mythril, adamantium.** Worse paths waste more of the cost and strain faster. Better paths carry heavy flow with little waste. Mythril: magically saturated Ag–Cu, pearlish silvery gold. Orichalcum: magical titanium (reduced η). Adamantium: **supersteel**. Shop: `../World/Science/Metallurgy/CraftMetal.md`.
+Live stamp: `Energy.md`. Shop metals: `../World/Materials/Metals.md`.
 
-The human body conducts at about 90 percent efficiency, between dark steel and mana steel (section 10). Monster blood is proposed at the same value and its placement stays open (section 12).
+**Mana motion** is narrative. It is the story ranking for how cleanly a host carries mana. There is no locked path percentage.
 
-- The wielder's body conducts well so the wielder can be source or return.
-- Scroll ink uses monster blood or other mana materials for a low-resistance trace. Ordinary or iron-based ink resists strongly.
-- Longer or thinner paths resist more. A thin line of a poor conductor heats fiercely.
-- Not yet placed: silver, gold, bronze, brass, tin, lead, bone, hide, scales, hemolymph.
+**Heat away** is scientific. Waste still heats the groove and the host sheds that heat by real thermal conductivity, mass and geometry.
+
+A host can move mana well and still burn if it is thin or a poor heat sink. A great heat sink can still waste mana if it sits low on the motion ladder.
+
+### Host ladder (narrative)
+
+Order below is worst to best common path feel. These are full story jobs, not efficiency percents.
+
+**Iron** moves mana poorly. Channels run hot, waste hard and die under strain. It is cheap practice stock for short-lived work.
+
+**Copper** is a decent mana path among common metals. It is the usual mid host and it spreads heat well when waste does land.
+
+**Aurium** keeps copper’s decent flow and also cuts waste by damping and containing flowing mana. It suits pipes, grips, linings and wraps. It is not the top rune host.
+
+**Steel** moves mana better than iron while it is still mundane. It is everyday blade and tool stock before conversion.
+
+**Darksteel** moves mana better than plain steel and endures rune damage and strain more cleanly. It is affordable enchanted melee stock.
+
+**Body and blood ink** are good living paths. They sit between darksteel and star steel on feel. The wielder can be source or return and scroll traces want blood or mana materials rather than ordinary iron ink.
+
+**Star steel** carries strong flow and holds up under heavy channel use. It is prime stock for rune weapons and plate.
+
+**Mythril** is the best common clean host. It is the usual metal for reusable runic gear.
+
+**Orihalcum** is antimagic. Enchanting it is like projecting a movie onto black velvet: the image is swallowed and nothing seats. It is plate, anvil damp and mage-hostile fittings, not a rune host.
+
+**Adamantium** carries little to no mana. Enchanting it is like projecting a movie onto clear glass: the image passes through and will not stick and its indestructible cast-final construction will not take alteration. It is not a rune host. It makes a great indestructible cover over a proper rune inlay set in a real path metal underneath.
+
+Longer or thinner paths hurt motion and pile heat at once so thin iron lines cook first. Mundane silver and gold convert into mythril and orihalcum with those story jobs. Bronze, brass, tin, lead, bone, hide and scales stay unplaced until a beat needs them.
 
 ---
 
-## 3. Cost, Efficiency and Ambient Gain
+## 3. Cost, output and ambient
 
-Cost comes first and is fixed. A 100 mana spell costs 100 mana and a 50 mana spell costs 50 mana. Path material, environment, ambient mana and efficiency never change it. They only change output energy and waste.
+Cost comes first and is fixed. Path material and ambient never change mana paid. They change useful output, waste feel and how hard the host cooks.
 
-**Output = cost × 10 J × path efficiency × ambient gain**
+```
+Useful ≈ mana × 10 J × η_cond × A
+A = √C    // ManaConcentration.md; not old gain 1 / 3 / 6
+```
 
-Reference: 100 mana paid is 1000 J at the converter input. Copper (80 percent) in a closed system delivers **800 J** useful and **200 J** waste. Cast-law Useful joules (`../World/Science/Energy/ManaCast.md`) use the same 10 J unit with spell η(L) and μ(INT) instead of path η.
+η_cond follows the live quality ladder in `Energy.md` (**0.2 / 0.4 / 0.6 / 0.8 / 1.0**). Direct skill casts use η(L) × μ(INT) instead of η_cond; both pathways may use the same ambient `A`.
 
-Direct skill casts take no ambient gain. Gain applies only to rune and item converters (`../World/Science/Energy/ManaCast.md` no-stacking rule).
+Waste splits **½** ambient / **½** path heat+corruption (`Energy.md`). Aurium’s job on copper-line gear is cutting waste. Darksteel and star steel’s job on melee gear is surviving the path half. Heat rise after that follows metal science (`OverheatedMetals.md`).
 
-Figures here assume a clean linear rune (Lesser Highest). Rune rank and grade replace path efficiency and ambient gain with η_eff and H_eff. Formula: rune file, Harmonics and Resonance (when locked).
-
-The converter draws ambient mana from the air and land. An open system has a large reservoir. A closed pattern with no intake is self-constrained and gets gain 1.
-
-| Path | Efficiency (proposed) | Output per 100 mana (gain 1) | Waste per 100 mana | Strain capacity (kJ waste per kg, proposed) |
-|---|---|---|---|---|
-| Iron | 60 percent | 600 J | 400 J | 70 |
-| Copper (reference) | 80 percent | 800 J | 200 J | 140 |
-| Steel | 85 percent | 850 J | 150 J | 210 |
-| Dark steel | 88 percent | 880 J | 120 J | 280 |
-| Mana steel | 92 percent | 920 J | 80 J | 560 |
-| Mythril | 95 percent | 950 J | 50 J | 1120 |
-| Adamantium | 98 percent | 980 J | 20 J | 2240 |
-| Human body | 90 percent | 900 J | 100 J | burst tolerance only (section 10) |
-| Monster blood | 90 percent (placement open) | 900 J | 100 J | not set |
-
-**Waste works like a gun.** A gun wastes most of its propellant energy yet still delivers high force. Here waste leaves two ways. Most exits with the discharge. The rest stays in the path as heat (proposed 50 percent of waste). Waste also strains the path directly (section 7). Ambient gain acts at the converter after the path so it adds output and adds no waste.
-
-| Environment | Gain (proposed) |
-|---|---|
-| Sealed or warded space | 1 |
-| Indoors | 1.5 |
-| Open air | 3 |
-| Mana-dense area | 6 |
-| Recently drained area | 1 to 1.5 |
-
-- Extra output comes from ambient mana so energy is conserved. Ambient mana enters at the converter and never crosses the pathway.
-- Ambient mana is finite and locally depleted by use. It recovers as mana spreads in. Rapid recasting in one spot trends toward gain 1.
-- Draw is capped by intake size and local density.
+Richer air, dungeons and spiritual sites raise ambient `A`. Sealed patterns with no intake sit near the floor unless the beat says otherwise. Local ambient can thin if the same spot is spammed and recovers as mana drifts back.
 
 ---
 
 ## 4. Caster Pools and Recovery
 
-Cost is identical from either pool. Stamina is the smaller pool so the same cost tires the body more. Stamina also runs breathing and muscle while mana does not.
+Live stamp also in `Energy.md`. Pool maximum `P` comes from stats. Sizes are not a universal adult lock.
 
-Example pools for an adult man: mana 2000, stamina 300 (proposed).
+Rune cost can be paid from mana or stamina. The paid number is the same either way. Paying from stamina tires harder because SP also runs breath and muscle, not because SP is always the smaller tank. Emptying either pool can make someone really sick. Only people with a real mana pool can absorb ambient mana on purpose. No-pool bodies do not actively absorb. Forced absorb is radiation-class danger.
 
-| Cost | Share of mana | Share of stamina |
-|---|---|---|
-| 50 | 2.5 percent | 17 percent |
-| 125 | 6.3 percent | 42 percent |
-| 150 | 7.5 percent | 50 percent |
+### Mana recovery (science)
 
-**Mana recovery (proposed).** Mana returns from the ambient supply through skin and lungs. It works like an attractive force pulling through an opening: the larger the force the faster the recovery. Empty to full takes T = 9 hours in open air for every body.
+Mana returns from the ambient supply through skin and lungs. It works like an attractive force pulling through an opening: the larger the force the faster the recovery. Empty to full takes a reference time `T` in open air for a given body.
 
 | Analogy | What it contributes |
 |---|---|
@@ -110,46 +104,83 @@ Example pools for an adult man: mana 2000, stamina 300 (proposed).
 | Magnetism | Flux through a surface is field strength times area. The field comes from the internal mana and permeability sets how well flux passes. |
 | Vacuum | Suction draws the surroundings in through an opening. The opening's area caps the flow. |
 
-| Term | Limits | Symbol |
+| Term | Meaning | Symbol |
 |---|---|---|
-| Force | How hard the tank pulls. Internal mana plus a baseline pull. | F = M + b × P |
-| Absorptive surface | How much can enter. Skin and lungs relative to an adult man of 175 cm. | S = (height / 175 cm)² |
-| Permeability | How well mana passes through tissue, in adult-man equivalents. | Rob |
+| Force | How hard the tank pulls. Current mana plus a baseline pull. | `F = M + b × P` |
+| Absorptive surface | Skin and lungs relative to a 175 cm adult reference. | `S = (height / 175 cm)²` |
+| Permeability | How well mana passes through tissue, in adult-man equivalents. | `Rob` |
 
-**Rate (mana/h) = k × S × Rob × F = a × (M + b × P)** with a = k × S × Rob and k = 0.25 per hour.
+```
+Rate (mana/h) = k × S × Rob × F = a × (M + b × P)
+a = k × S × Rob
+k = 0.25 per hour
+b = 1 / (e^(a × T) − 1)
+Time to full from M = ln((P + b × P) / (M + b × P)) / a   // hours
+```
 
-- M: current mana. P: maximum mana, set by intelligence.
-- **b = 1 / (e^(a × T) − 1)** is the baseline pull as a fraction of P. It fixes empty to full at exactly T for any S, Rob and P.
-- Time to full from M = ln((P + b × P) / (M + b × P)) / a hours.
-- Absorption speeds up at every fill level. Larger S × Rob gives a smaller baseline pull and a sharper rise as the tank fills.
+`M` is current mana. `P` is maximum pool from stats. `b` sets empty-to-full at exactly `T` for that body. Absorption speeds up as the tank fills. Larger `S × Rob` gives a smaller baseline pull and a sharper rise as the tank fills. Richer ambient (higher `A = √C`) shortens effective `T`. Thinner or drained rooms lengthen it. Stamina recovers on body rules and usually comes back faster than mana.
 
-Adult man (S = 1, Rob = 1, a = 0.25, P = 2000):
+### Worked example: street adult, all stats 15
 
-| Start fill | Rate | Time to full |
+Untrained adult street man. Baseline, not an athlete. No class packages. Detail feel anchors live in `../Progression/Attributes.md` (and AttackScale combat rows).
+
+| Stat | Real feel at 15 |
+|---|---|
+| STR | ~90 kg max deadlift |
+| VIT | ~45-year constitution potential (abstract) |
+| END | ~3 L/min VO₂ max |
+| AGI | ~375 W burst; sprint ~6 m/s (~13 mph) |
+| DEX | ~15 pegboard pegs (right hand) |
+| INT | ~7.5 digit working-memory span; cast μ = 1 |
+| WILL | ~30 years effective life experience |
+| Vit/End heal | M = 1.0 (normal adult blood recovery) |
+
+If Cha/Luck are also 15, that is ordinary social luck, not perks (perks gate at 40).
+
+Bare pool formulas at 15 all (no class bonuses):
+
+| Pool | Formula | Value |
 |---|---|---|
-| 0 percent | 59 mana/h | 9 h |
-| 10 percent | 109 mana/h | about 6.5 h |
-| 30 percent (70 percent drained) | 209 mana/h | about 4 h |
-| 50 percent | 309 mana/h | about 2.4 h |
-| 70 percent | 409 mana/h | about 1.3 h |
-| 90 percent | 509 mana/h | about 0.4 h |
+| HP | (Vit×10) + (End×3) | **195** |
+| SP | (End×10) + (Str×3) + (Agi×3) | **240** |
+| MP | (Int×10) + (Will×4) | **210** |
 
-- Rate at a given fill scales with P. Times do not depend on P.
-- Environment scales T by 3 / gain: sealed 27 h, indoors 18 h, open air 9 h, mana-dense 4.5 h. A recently drained area recovers slowly.
+A street adult with no Mage/Acolyte still has no usable mana pool to absorb into. The MP number is the sheet formula once a pool exists.
+
+Reference body for absorb math: `S = 1`, `Rob = 1`, so `a = 0.25` per hour. Planning open-air empty-to-full: `T = 9` h. Example mana pool once it exists: **P = 210**.
+
+```
+a × T = 0.25 × 9 = 2.25
+b = 1 / (e^2.25 − 1) ≈ 1 / 8.487 ≈ 0.1178
+b × P ≈ 0.1178 × 210 ≈ 24.7
+Rate = 0.25 × (M + 24.7) mana/h
+Time to full = ln((210 + 24.7) / (M + 24.7)) / 0.25 hours
+```
+
+| Start M | Fill | Rate from formula | Time to full from formula |
+|---|---|---|---|
+| 0 | 0% | 0.25 × 24.7 ≈ **6.2** mana/h | **9 h** |
+| 21 | 10% | 0.25 × 45.7 ≈ **11.4** mana/h | ≈ **6.5 h** |
+| 63 | 30% | 0.25 × 87.7 ≈ **21.9** mana/h | ≈ **4 h** |
+| 105 | 50% | 0.25 × 129.7 ≈ **32.4** mana/h | ≈ **2.4 h** |
+| 147 | 70% | 0.25 × 171.7 ≈ **42.9** mana/h | ≈ **1.3 h** |
+| 189 | 90% | 0.25 × 213.7 ≈ **53.4** mana/h | ≈ **0.4 h** |
+
+Times to full do not depend on `P`. Absolute rate scales with `P`. On this street sheet SP (**240**) and MP (**210**) are the same order. Paying a rune from SP still tires harder because stamina also runs breath and muscle, not because the tank is tiny.
 
 ---
 
 ## 5. Fire's Energy Is Not the Spell's Energy
 
-- 1 kg of dry wood holds about 16 MJ. A 150 mana spell through steel in open air outputs about **3.8 kJ**, roughly **1/4200** of that.
-- A fire spell is an ignition source. With fuel present the fuel's own energy follows and is not part of the spell. With no fuel the fire is capped by the spell's output.
+- 1 kg of dry wood holds about 16 MJ. Converter input at 150 mana is **1.5 kJ** before path feel and ambient `A`. Even a strong open-air useful hit sits in the low kilojoule band, roughly **1/4000** of that wood stack.
+- A fire spell is an ignition source. With fuel present the fuel's own energy follows and is not part of the spell. With no fuel the fire is capped by the spell's useful output.
 - Cost is never scaled by how energetic fire is in general.
 
 ---
 
 ## 6. Scale Ladder
 
-Converter input (cost × 10 J) before path efficiency and gain. Output = input × path η × gain (copper closed: × 0.8).
+Converter input is cost × 10 J. Useful output is that input × narrative η_cond × ambient `A` (`A = √C`). Digits for η_cond stay unset. The ladder below is the raw converter input so story scale stays honest before path and air multiply it.
 
 | Cost | Input | Comparable |
 |---|---|---|
@@ -165,9 +196,9 @@ Converter input (cost × 10 J) before path efficiency and gain. Output = input �
 
 **Strain is the primary wear. Heat is secondary.**
 
-- **Strain (corruption).** Waste energy passing through a path damages it directly at any temperature. Path life in casts = mass × strain capacity / waste per cast. Strain shows as dulled or mottled metal and rising resistance with no heat tint. Damaged paths lose efficiency which raises waste which raises strain. Sharp corners and narrow sections concentrate strain.
-- **Heat.** Retained heat raises temperature and speeds strain. Heat damage follows the stages below. Each component has a rated flow at a safe steady temperature.
-- **Burst limit.** A single cast fails the first section whose waste per kg exceeds its burst tolerance. Waste concentrates in narrow sections and small masses so those fail first. Metals: 4 percent of strain capacity per cast (iron 2800 J/kg to adamantium 89,600 J/kg, proposed). Living tissue: about 430 J/kg (section 10).
+- **Strain (corruption).** Waste energy passing through a path damages it directly at any temperature. Path life in casts = mass × strain capacity / waste per cast. Strain shows as dulled or mottled metal and rising path resistance with no heat tint. A damaged path wastes harder and cooks faster. Sharp corners and narrow sections concentrate strain.
+- **Heat.** Retained heat raises temperature and speeds strain. Heat damage follows the stages below. Each component has a rated flow at a safe steady temperature. Thermal conductivity, mass and geometry set how fast that heat leaves (`OverheatedMetals.md`).
+- **Burst limit.** A single cast fails the first section whose waste per kg exceeds its burst tolerance. Waste concentrates in narrow sections and small masses so those fail first. Metals: 4 percent of strain capacity per cast (iron about 2800 J/kg up through mythril-class stock, proposed). Living tissue: about 430 J/kg (section 10). Adamantium is not a path host so it is not on this burst ladder.
 
 | Stage | Effect | Threshold |
 |---|---|---|
@@ -202,105 +233,101 @@ Other wear: thermal cycling fatigues joints and bends. Oxidation adds surface fi
 
 ## 9. Worked Cases
 
-### A. Fire arrow (100 mana, copper, closed system: 800 J)
+### A. Fire arrow (100 mana, copper host)
 
-Open air (gain 3) triples every energy figure and multiplies speed by about 1.7. Speed v = √(2E / m) at 20 g. A bow arrow flies at 60 to 90 m/s.
+Converter input is **1000 J**. Useful output = 1000 J × η_cond × `A` with η_cond unset on a copper-feel host. Richer air raises useful energy and tip speed. Speed v = √(2E / m) at 20 g once useful motion energy `E` is known. A bow arrow flies at 60 to 90 m/s.
 
-| Split | Motion | Heat | Speed |
+The rune still splits useful energy between tip motion and tip heat. Example splits of whatever useful energy lands:
+
+| Split | Motion share | Heat share | Feel |
 |---|---|---|---|
-| Slow and hot | 50 J | 750 J | about 70 m/s |
-| Balanced | 100 J | 700 J | about 100 m/s |
-| Fast | 250 J | 550 J | about 160 m/s |
-| Very fast and cool | 500 J | 300 J | about 225 m/s |
+| Slow and hot | small | most | soft hit, strong ignition |
+| Balanced | modest | large | pierce plus burn |
+| Fast | large | modest | hard hit, weaker flame |
+| Very fast and cool | most | small | kinetic first |
 
-Balanced split at the target:
-- Dry wood needs about 240 J per cm³ to reach ignition so 700 J covers about 3 cm³.
-- Flesh at 3.5 J/g/K: 5 g rises about 40 K (past the 60 C damage threshold). 2 g rises about 100 K and chars.
-- Heat alone rarely kills. The motion pierces and the flame ignites cloth, hide, wood, thatch and hair.
-- A 2 kg steel breastplate rises under 1 K. Plate ignores the fire. Only the motion matters against it.
-- Energy scales linearly with cost and gain. Heat delivered falls with distance so range is a heat budget.
+At the target the science stays ordinary:
+- Dry wood needs about 240 J per cm³ to reach ignition. Delivered tip heat sets how much wood volume can light.
+- Flesh at 3.5 J/g/K: a few grams past about 60 C take burn damage. Heat alone rarely kills.
+- The motion pierces and the flame ignites cloth, hide, wood, thatch and hair.
+- A 2 kg steel breastplate barely warms. Plate ignores the fire. Only the motion matters against it.
+- Energy scales with cost and ambient `A`. Heat delivered falls with distance so range is a heat budget.
 
-### B. Sword explosive spell (150 mana, open air, gain 3)
+### B. Sword explosive spell (150 mana, open air)
 
-Feed line runs down the blade and the emitter sits at the tip where potential concentrates. The burst converts stored charge into a rapid discharge that heats and expands the air at the tip. Burst energy goes into the air. The blade takes strain from waste and heat from the retained half (1 kg blade at 490 J/K, no cooling). Input = **150 × 10 J/mana = 1,500 J** (locked standard).
+Feed line runs down the blade and the emitter sits at the tip where potential concentrates. The burst converts stored charge into a rapid discharge that heats and expands the air at the tip. Burst energy goes into the air. The blade takes strain from waste and heat from the retained half (1 kg blade at about 490 J/K, no cooling). Converter input = **150 × 10 J = 1,500 J**.
 
-| Blade path | Efficiency | Output (gain 3) | Output sealed (gain 1) | Heat per cast | Casts to strain limit |
-|---|---|---|---|---|---|
-| Iron | 60 percent | 2700 J | 900 J | 0.61 K | about 120 |
-| Copper | 80 percent | 3600 J | 1200 J | 0.31 K | about 470 |
-| Steel | 85 percent | 3825 J | 1275 J | 0.23 K | about 930 |
-| Dark steel | 88 percent | 3960 J | 1320 J | 0.18 K | about 1,600 |
-| Mana steel | 92 percent | 4140 J | 1380 J | 0.12 K | about 4,700 |
-| Mythril | 95 percent | 4275 J | 1425 J | 0.08 K | about 15,000 |
-| Adamantium | 98 percent | 4410 J | 1470 J | 0.03 K | about 75,000 |
+Useful tip energy and waste follow each host's job (`Energy.md`). Absolute joules stay unset until η_cond digits are needed. Same-mass blade feel (examples, not a locked rank):
 
-- Strain limits a blade long before heat does. Iron fails by strain at about **120** casts; uncooled retained heat at that point totals only about 73 K.
-- A rounded or damaged tip concentrates less and weakens the burst. A film of blood or other mana material on the blade lowers surface resistance. Grip material sets how much flow passes from the wielder into the blade.
+| Blade path | Useful tip feel | Waste and cook | Strain life |
+|---|---|---|---|
+| Iron | weak | runs hottest, wastes hardest | shortest |
+| Copper | decent everyday | sheds heat well when waste lands | short to moderate |
+| Steel | solid weapon stock | everyday stock before conversion | moderate |
+| Darksteel | cleaner weapon channel | endures strain better | long |
+| Star steel | strong channel under load | holds under heavy channel use | very long |
+| Mythril | cleanest common host | barely warms | effectively permanent |
+
+Adamantium and orihalcum are not blade path hosts. Adamantium can cover a real inlay. Orihalcum swallows seating.
+
+- Strain limits a blade long before heat does. Dirty hosts die first. Mythril lasts.
+- A rounded or damaged tip concentrates less and weakens the burst. A film of blood or other mana material on the blade helps surface seating. Grip material sets how cleanly flow passes from the wielder into the blade.
 
 ### C. Scroll that bursts into flame
 
-Paper carries no meaningful mana flow so flow follows the ink line. A thin trace concentrates power in a tiny mass and paper conducts heat poorly. About 30 J into 0.1 g of paper reaches ignition (about 230 C). A 3 mana scroll with blood ink (90 percent, placement open) delivers about 27 J closed and about 81 J in open air.
+Paper carries no meaningful mana flow so flow follows the ink line. A thin trace concentrates power in a tiny mass and paper conducts heat poorly. About 30 J into 0.1 g of paper reaches ignition (about 230 C). A 3 mana scroll with blood ink uses the body / blood path feel. Useful energy scales with that feel and ambient `A`. Absolute closed and open-air joules stay unset.
 
-The scroll is a fuse that is also the load. It burns when flow exceeds what the trace carries and it is single-use by nature. Stronger or fresher monster blood or mana steel, mythril or adamantium powder in the ink delays ignition. Wider traces spread heat. Mineral-treated paper resists ignition longer.
+The scroll is a fuse that is also the load. It burns when flow exceeds what the trace carries and it is single-use by nature. Stronger or fresher monster blood or star steel or mythril powder in the ink delays ignition. Wider traces spread heat. Mineral-treated paper resists ignition longer. Adamantium powder does not help as a path additive because adamantium is not a path host.
 
 ### D. Enchanted metal plate
 
-Plate life is set by strain first. Life in casts = mass × strain capacity / waste per cast so a thicker plate and a better metal last longer. Iron fails first. Copper and steel last moderately. Dark steel and mana steel last long. Mythril and adamantium are effectively permanent.
+Plate life is set by strain first. Life in casts = mass × strain capacity / waste per cast so a thicker plate and a cleaner host last longer. Iron fails first. Copper and steel last moderately. Darksteel and star steel last long. Mythril is effectively permanent for ordinary work. Adamantium is a cover, not the rune plate. Orihalcum will not take the enchant.
 
-Heat is secondary. Retained heat warms the plate each use and speeds strain. Narrow sections and sharp corners are hot spots. A corrupted plate looks dulled or mottled. It loses efficiency and runs warmer than before. Eventually a joint loosens or a section opens. Running below the rated flow lasts far longer. Repair means re-plating the pattern or replacing fittings.
+Heat is secondary. Retained heat warms the plate each use and speeds strain. Narrow sections and sharp corners are hot spots. A corrupted plate looks dulled or mottled. It wastes harder and runs warmer than before. Eventually a joint loosens or a section opens. Running below the rated flow lasts far longer. Repair means re-plating the pattern or replacing fittings.
 
 ### E. Copper paddle firing fire arrows (story case)
 
-Assumptions: a copper plate slightly smaller than a tennis racket at about 0.45 kg (heat capacity about 180 J/K for any metal at this mass) with 100 mana per arrow. Retained heat is half of waste. Ambient gain adds output and does not change waste.
+Assumptions: a copper plate slightly smaller than a tennis racket at about 0.45 kg (heat capacity about 180 J/K for any metal at this mass) with 100 mana per arrow. Retained path heat is **half of waste** (`Energy.md`). Ambient `A` raises useful tip energy and does not change waste feel.
 
-| Paddle metal | Waste per arrow | Heat per arrow | Arrows to strain limit |
-|---|---|---|---|
-| Iron | 400 J | 1.1 K | about 79 |
-| Copper | 200 J | 0.6 K | about 315 |
-| Steel | 150 J | 0.4 K | about 630 |
-| Dark steel | 120 J | 0.3 K | about 1050 |
-| Mana steel | 80 J | 0.2 K | about 3150 |
-| Mythril | 50 J | 0.14 K | about 10,000 |
-| Adamantium | 20 J | 0.06 K | about 50,000 |
+Paddle feel matches the host jobs in section 2. Iron cooks and dies first. Copper is the story everyday host and sheds heat well. Steel / darksteel / star steel / mythril each last longer under channel use in their own way. Absolute waste joules and arrow counts stay unset until η_cond digits are needed.
 
-Copper: many arrows fly before the plate is warm (about 60 rapid arrows for 35 K) and hot (about 120 for 70 K). The plate sheds heat to the air between volleys. The strain limit arrives near 315 arrows. Corruption is the main cause of damage and heat only speeds it.
+Copper still carries many arrows before the plate is warm and more before it is hot. The plate sheds heat to the air between volleys. Corruption is the main cause of damage and heat only speeds it.
 
 ---
 
 ## 10. Human Body as a Path
 
-The body conducts like a fine metal (90 percent efficiency, **100 J** of waste per 100 mana) and breaks like flesh. Living tissue tolerates about 430 J of waste per kg of section per cast (proposed) against 2800 to 89,600 J/kg for metals.
+The body is a good living path (body / blood feel). It still breaks like flesh. Living tissue tolerates about 430 J of waste per kg of section per cast (proposed). Metals tolerate far more per kg.
 
 - Waste concentrates in narrow sections and at the emitter. Proposed shares: torso and shoulder 15 percent, upper arm 15, forearm 20, wrist and hand 50.
 - A cast fails the first section whose waste per kg exceeds tolerance. Limits scale linearly with robustness.
-- Injury is strain (corruption). Heat is negligible: at 500 mana the hand retains about 125 J which warms 0.72 kg of tissue by about 0.05 K.
+- Injury is strain (corruption). Heat in tissue is usually negligible next to strain because flesh is a large heat sink for the waste that stays.
 - Tissue below its limit is assumed to recover. Above the limit it takes lasting damage.
 
-**Character at 1.3 adult men, 500 mana burst (500 J total waste)**
+**Section geometry (1.3 adult-man body).** Masses and shares below are anatomy. Absolute waste joules per cast scale with how hard the living path wastes. Digits for that waste feel stay unset with the rest of η_cond.
 
-| Section | Mass | Share | Waste | Load per kg | Mana to reach 430 J/kg |
-|---|---|---|---|---|---|
-| Torso and shoulder | 13 kg | 15 percent | 75 J | 6 J/kg | about 37,000 |
-| Upper arm | 2.6 kg | 15 percent | 75 J | 29 J/kg | about 7500 |
-| Forearm | 1.56 kg | 20 percent | 100 J | 64 J/kg | about 3400 |
-| Wrist and hand | 0.72 kg | 50 percent | 250 J | 347 J/kg | about 620 |
+| Section | Mass | Share of path waste |
+|---|---|---|
+| Torso and shoulder | 13 kg | 15 percent |
+| Upper arm | 2.6 kg | 15 percent |
+| Forearm | 1.56 kg | 20 percent |
+| Wrist and hand | 0.72 kg | 50 percent |
 
-- Every cast below about 620 mana loads the hand under tolerance and the rest of the body far under it.
-- At about 620 mana the wrist and hand reach tolerance and injury begins. At about 1240 mana the hand loads at double tolerance and is mangled while the forearm stays intact.
+- The wrist and hand take half the path waste so they hit tolerance first.
+- Proposed bare physical cap lands near **473 × Rob** mana at the hand for an ordinary body path. Injury begins at the cap. The hand is mangled at twice the cap. Absolute section loads wait on unset waste digits.
 - Robustness is in adult-man equivalents for a 140 cm body and scales with height cubed as he grows (210 cm is 3.4 times).
-- Output at 90 percent: 500 to 1000 mana yields about 4.5 to 9 kJ in a closed system and about 13.5 to 27 kJ in open air.
-- Fix: place a high-tolerance metal in the final section so the peak waste lands in metal. A 0.5 kg mythril focus tolerates about 22 kJ of waste per cast.
+- Useful output from body casts still follows converter input × living-path feel × ambient `A`.
+- Fix: place a high-tolerance metal focus in the final section so the peak waste lands in metal. Mythril foci last. Adamantium cover can shield an inlay. Orihalcum will not seat as a channel.
 
 **Instantaneous channel limit.** Mana expands and contracts explosively so a cast is not limited by intake or recovery. Three things limit it: mental focus, robustness and the tissue's capacity to withstand.
 
-- **Focus cap = 473 × Foc** mana in one instant. Foc is mental focus in adult-man equivalents and does not scale with body size. A cast also cannot exceed current mana M.
-- **Physical cap = (430 J/kg × 0.55 kg × Rob) / (0.5 × 10 J × (1 − η))** mana at the hand, about **473 × Rob** for the human body (η = 0.90). Tissue tolerance, hand mass and hand waste share set the top. Conductivity sets the waste per mana so higher η raises the cap. Injury begins at the cap and the hand is mangled at twice the cap.
+- **Focus cap = 473 × Foc** mana in one instant (proposed). Foc is mental focus in adult-man equivalents and does not scale with body size. A cast also cannot exceed current mana M.
+- **Physical cap ≈ 473 × Rob** mana at the hand for the ordinary living path (proposed). Tissue tolerance, hand mass and hand waste share set the top. Cleaner living path feel raises the cap. Injury begins at the cap and the hand is mangled at twice the cap.
 - **Safe channel = min(focus cap, physical cap).** Channeling between the physical cap and the focus cap is possible and injures. Above the focus cap the cast cannot be held and fizzles (proposed).
 
 **Focus-formed channels (rare).** A mage with a weak body and overwhelming intellect and focus can form mana channels through the body along the path to the emitter. Few can. Channels are insulated pipes made of mana. Mana on mana wastes far less than any metal and the pipe holds its waste so little reaches the tissue.
 
-- **Channel efficiency η_ch = 0.99** (proposed).
-- **Physical cap with channels = 473 × Rob × (1 − η_body) / (1 − η_ch) = 4730 × Rob** mana. Ten times the bare cap.
+- **Physical cap with channels ≈ 4730 × Rob** mana (proposed). About ten times the bare living-path cap.
 - **Focus upkeep:** the pipes take a quarter of focus (proposed) and leave 0.75 × the focus cap to hold the cast.
 - **Safe channel with channels = min(0.75 × 473 × Foc, 4730 × Rob)** while focus holds. Example: Rob 0.3 and Foc 3 give a bare cap of about 142 and a safe channel of about 1064 with channels.
 - **Rebound.** If focus breaks or the mana in the channel runs out the pipe collapses and half of the carried energy discharges into the tissue (proposed). Severity = 0.5 × mana in the channel / bare physical cap. Below 1 is harmless. Injury begins at 1 and the hand is mangled at 2. The example carrying 1064 has a severity of about 3.75 and the limb is destroyed. Lower loads rebound proportionally less.
@@ -309,16 +336,16 @@ The body conducts like a fine metal (90 percent efficiency, **100 J** of waste p
 
 ## 11. Rules
 
-1. Cost is fixed by the spell. Path, material, environment and efficiency change output and waste and never the cost.
+1. Cost is fixed by the spell. Path feel, material and ambient change useful output and waste and never the cost.
 2. Output never exceeds converter input plus ambient mana drawn.
-3. Flow needs a potential difference and a path. Every material has a conductivity rank and every path an efficiency below 100 percent.
+3. Flow needs a potential difference and a path. Every host has a narrative motion rank. There is no locked path percentage.
 4. Waste leaves with the discharge or stays in the path as heat. Waste also strains the path directly.
 5. Strain is the primary wear and heat is secondary. Heat damage follows the section 7 thresholds. A single cast also fails the first section whose waste per kg exceeds its burst tolerance.
 6. Points and thin edges concentrate potential. Stored energy releases far faster than it was stored.
-7. Ambient mana is finite and locally depleted and recovers over time. A closed pattern with no intake gets no gain.
+7. Ambient mana is finite and locally depleted and recovers over time. A closed pattern with no intake sits near the ambient floor.
 8. Fire's own chemical energy is not part of the spell.
-9. Cost is identical from mana or stamina. Stamina is the smaller pool so it tires the caster faster.
-10. Mana absorption rises with the mana already in the tank. Empty to full takes 9 hours in open air for every body.
+9. Cost is identical from mana or stamina. Paying from stamina tires harder because SP also runs breath and muscle, not because SP is always the smaller tank.
+10. Mana absorption rises with the mana already in the tank. Empty to full takes 9 hours in open air for every body that can absorb.
 11. Instantaneous channel is capped by mental focus and injures above the physical cap set by robustness and tissue tolerance.
 12. Focus-formed channels (rare) carry mana in mana with little waste and raise the safe channel above the physical cap while focus holds. Loss of focus or an emptied channel rebounds part of the carried energy into the tissue.
 
@@ -327,16 +354,16 @@ The body conducts like a fine metal (90 percent efficiency, **100 J** of waste p
 ## 12. Open Dials
 
 - Return path: closed loop through the wielder or one-way dissipation at the load.
-- Storage: resolved in ../World/Science/Energy/ManaStones.md (fast area-gated dump at Q × SA mana/s; slower refill).
+- Storage: resolved in ../World/Science/Energy/ManaStones.md and ../World/Materials/MonsterCores.md (dump setup-gated, not SA-capped; recharge area-gated).
 - Potential scale: higher potential lowers waste but needs better insulation. Set how high craftsmen can push it.
-- Ambient mana: gain per environment, recovery rate after a cast, intake size limit per rune grade.
+- Ambient mana: `A = √C` per environment, recovery after a cast, intake size limit per rune grade.
 - Waste split: share retained as heat (proposed 50 percent).
-- Strain capacity per kg for each metal (proposed values in section 3).
-- Pools: maximum mana is set by intelligence and is not modeled here. Stamina size and stamina recovery. Mana recovery constant k (0.25 per hour) and open-air empty-to-full time T (9 h).
-- Skills system: skill level could raise efficiency and strain capacity without breaking conservation.
+- Strain capacity per kg for each real path metal (proposed).
+- Pools: sheet formulas in `../Progression/Attributes.md`. Street all-15 bare example in section 4. Mana recovery constant k (0.25 per hour) and open-air empty-to-full time T (9 h).
+- Skills system: skill level could raise useful feel and strain capacity without breaking conservation.
 - Human path: tissue burst tolerance (430 J/kg proposed), waste share per section and strain recovery rate.
 - Body growth: robustness scales with height cubed from the 140 cm baseline and continues past 210 cm (proposed).
 - Focus: mana per 1.0 Foc (**473** proposed) and the fizzle rule above the focus cap.
-- Channels: efficiency (0.99), focus upkeep (0.25) and rebound share (0.5), all proposed.
-- Placement of monster blood in the metal order. The human body is set at 90 percent.
+- Channels: focus upkeep (0.25) and rebound share (0.5), both proposed. Channel waste feel stays narrative.
+- Monster blood path feel vs body ink (already near). Absolute η_cond digits if a beat ever needs them.
 - Unplaced materials: see section 2.

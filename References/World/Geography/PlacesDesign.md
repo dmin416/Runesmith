@@ -1,6 +1,6 @@
 # Places Design
 
-> **Design loot.** Lean lock: Places.md. Full Source inventory: ../../SourceLoot/Places.md.
+> **Design loot.** Lean lock: Places.md. Population / monster planning: PlacesPopulation.md. Full Source inventory: ../../SourceLoot/Places.md.
 
 Locations from the rewrite. First-seen chapter is for this rewrite, not the source dump alone.
 
@@ -20,7 +20,7 @@ Personal trial realm shaped from the user’s memories. Roland’s is his old Ea
 
 ## Terra
 
-World with **two moons** (one red, one blue) that hang near each other. First noted: Chapter 4 night sky. Planet is **Earth-sized**. Day is **24 hours**.
+World with **two moons** (one red, one blue) that hang near each other. First noted: Chapter 4 night sky. Planet is **Earth-sized**. Day is **24 hours**. Moon deposits: `../Space/Moons.md`.
 
 ### Kingdom of Caldris
 First seen: Chapter 2
@@ -67,7 +67,7 @@ Chapter 8–9: small walled town (monster defense). Gate fee 5 large copper; adv
 
 ### Carwen inn
 First seen: Chapter 9
-Cheap inn where Roland eats his first town meal and later rents a room upstairs during the Ch 9.5 goblin grind (present day in Chapter 10). Large waitress in festival-style wench dress; muscular one-eyed scarred bartender. Bard with lute. First meal: porridge + grilled meat for **5 large copper** (bland; porridge alone would be **2 LC**). Lodging quote **1 small silver**/night; +**5 large copper** breakfast; monthly ~**10%** off in Ch 9 (**28** × 1 SS = **280** → **252 LC**); same **10%** / **252 LC** through Ch 13 (Source **5%** / **~266 LC** discarded; see `Economy.md`). Keepers named Hilde (bar lady) and Boris (bartender husband).
+Cheap inn where Roland eats his first town meal and later rents a room upstairs during the Ch 9.5 goblin grind (present day in Chapter 10). Large waitress in festival-style wench dress; muscular one-eyed scarred bartender. Bard with lute. First meal: porridge + grilled meat for **5 large copper** (bland; porridge alone would be **2 LC**). Lodging quote **1 small silver**/night; +**5 large copper** breakfast; monthly ~**10%** off in Ch 9 (**30** × 1 SS = **300** → **270 LC**); same **10%** / **270 LC** through Ch 13 (Source **5%** discarded; see `../Society/Economy.md` + `EconomyDesign.md`). Keepers named Hilde (bar lady) and Boris (bartender husband).
 
 ### Carwen dungeon
 First seen: Chapter 10 (entry planned; first delve Chapter 11)
@@ -115,7 +115,7 @@ Hidden black-market web under Edelgard, entered through the sewers (rotating wal
 
 ### Balmyr's Weapons
 First seen: Chapter 44
-Edelgard weapon shop (sword and ax sign). Owner is a Runesmith on the Weaponsmith path. Ground floor: mundane iron/steel. Upper floor: Silver+ enchanted commons. Lesser rune display cases on the floor Roland uses for Debugger borrowing.
+Edelgard weapon shop (sword and ax sign). Owner is a Runesmith on the Weaponsmith path. Ground floor: mundane iron/steel. Upper floor: Silver+ enchanted commons. Lesser rune display cases on the floor Roland uses for Diagnosis borrowing.
 
 ### Libra Auction House
 First seen: Chapter 21
@@ -139,11 +139,11 @@ Large southern Caldris island under an aristocrat Duke. Central volcano + S-rank
 
 ### Albrook
 First seen: Chapter 55 (named; destination); Chapter 68 (arrived)
-Small town in a Dragnis Island valley by a new volcanic dungeon (smoke from a mountain that burst through recently; ~6 months old by Chapter 71). Early boom: wall under construction; south gate fee; poor quarter → traders' street → market square. Red-brick buildings; glass windows rarer toward the edges. Absentee noble; commoner mayor/manager. Adventurer guild renovating a large house (sign going up). Roland registers as Wayland (Chapter 68: claims Steel; Chapter 70: issued Bronze for lack of prior-card info; dungeon free entry). Chapter 69–70: buys abandoned red-brick farmhouse + log shack ~40 min outside town (**~30 SG** rewrite lock; large cellar; skips triple-price extra farmland; ~half acre). Boom-town plot pricing: `Economy.md` §15 (not quiet-frontier dirt rates). Plans cellar runic workshop + dummy shed smithy; renovation firm booked ≥3 weeks out. Chapter 77 (~1 year later): log+barbed wall; thieves hit dummy shed; Solaria church; dungeon entrance card checks after a farmer dies; potion cart → fixed store; Roland known as crimson-armored craftsman / "disciple."
+Small town in a Dragnis Island valley by a new volcanic dungeon (smoke from a mountain that burst through recently; ~6 months old by Chapter 71). Early boom: wall under construction; south gate fee; poor quarter → traders' street → market square. Red-brick buildings; glass windows rarer toward the edges. Absentee noble; commoner mayor/manager. Adventurer guild renovating a large house (sign going up). Roland registers as Wayland (Chapter 68: claims Steel; Chapter 70: issued Bronze for lack of prior-card info; dungeon free entry). Chapter 69–70: buys abandoned red-brick farmhouse + log shack ~40 min outside town (**~30 SG** rewrite lock; large cellar; skips triple-price extra farmland; ~half acre). Boom-town plot pricing: `../Society/EconomyDesign.md` §15 (not quiet-frontier dirt rates). Plans cellar runic workshop + dummy shed smithy; renovation firm booked ≥3 weeks out. Chapter 77 (~1 year later): log+barbed wall; thieves hit dummy shed; Solaria church; dungeon entrance card checks after a farmer dies; potion cart → fixed store; Roland known as crimson-armored craftsman / "disciple."
 
 ### Albrook Dungeon
 First seen: Chapter 71 (entered)
-Labyrinth-type volcanic dungeon believed linked to the main Dragnis Infernal Dragon Dungeon (S-rank supervolcano; dragon unbeaten). Unrated; possible high-tier spill if connected. Flaming-skull gate (~5 m; spell enchantments, no runes on Debugger). Safe hub with corridors; monsters cannot leave dungeon bounds. Floor maps sold by guild; periodic loot chests; heat rises deeper; mining section past labyrinth. ~10 labyrinth floors (~+5 monster level each; floor 10 ~L50 / some T2). Floor 1: Fire Slimes, Fiery Skeletons (cap ~L10), Baby Salamanders named; deeper: Crimson Giant Rats, Baby Salamanders fought (~floor 4). Floor 7: magic trap rooms (sealed stone walls + ceiling spawn holes) with Lesser Troglodytes. Crowded upper floors with bronze/steel youths. Expansions can reshape terrain. Packing Mules support long expeditions.
+Labyrinth-type volcanic dungeon believed linked to the main Dragnis Infernal Dragon Dungeon (S-rank supervolcano; dragon unbeaten). Unrated; possible high-tier spill if connected. Flaming-skull gate (~5 m; spell enchantments, no runes on Diagnosis). Safe hub with corridors; monsters cannot leave dungeon bounds. Floor maps sold by guild; periodic loot chests; heat rises deeper; mining section past labyrinth. ~10 labyrinth floors (~+5 monster level each; floor 10 ~L50 / some T2). Floor 1: Fire Slimes, Fiery Skeletons (cap ~L10), Baby Salamanders named; deeper: Crimson Giant Rats, Baby Salamanders fought (~floor 4). Floor 7: magic trap rooms (sealed stone walls + ceiling spawn holes) with Lesser Troglodytes. Crowded upper floors with bronze/steel youths. Expansions can reshape terrain. Packing Mules support long expeditions.
 
 ### Happy Rooster
 First seen: Chapter 73
@@ -151,7 +151,7 @@ Albrook poultry restaurant. Commoner kitchens lean on **salt** (and cheap local 
 
 ### Albrook auction house
 First seen: Chapter 73 (under renovation)
-Not open yet in Ch 73; adventurers still forced to sell through the guild. Opens Chapter 74 (paddle fee and music-box starting bid land there; see `Economy.md`).
+Not open yet in Ch 73; adventurers still forced to sell through the guild. Opens Chapter 74 (paddle fee and music-box starting bid land there; see `../Society/EconomyDesign.md`).
 
 ### Luden
 First seen: Chapter 56 (named; destination)

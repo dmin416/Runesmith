@@ -34,13 +34,13 @@ Design notes for blades and loadouts. Story gear lists stay in `../../Story/Note
 - Thick at the base for parrying, tapering to a narrow, rigid point
 - Blade length about 95 to 100 cm, slightly longer than a standard side sword and close to rapier reach
 
-### What supersteel (adamantium) adds
+### What adamantium adds
 
 - Same strength at less weight, allowing a longer blade without losing speed
 - Holds an edge longer and resists bending or snapping on hard parries
 - Does not fix bad geometry; the cross-section still decides whether it cuts
 
-**Supersteel** in design notes means **adamantium**, not mythril.
+**Adamantium** = converted titanium, cast-final. Not mythril. Not forgeable post-set supersteel.
 
 The corrected pair (front hook, diamond blade, pommel disc retained) covers reach, thrusting, cutting, off-hand defense, blade binding and armored grappling.
 
@@ -70,7 +70,7 @@ Heavy thrust rapier with an **inefficient lesser tip-detonation** rune.
 - **Activation cost (as found):** **125 MP**
 - **Hold-test (Ch 15):** tip effect **locks armed** until inserted (forced free activate weaker); hold trickles mana and warms the blade; pulling mana back deactivates
 - **Shortfall:** if MP is insufficient the rune finishes from **SP** at **1 SP per missing MP** (same blast; stamina bite)
-- **On-page blast feel (Ch 15):** about **~7.3 kJ** tip-coupled (local wood / soft spoil, not a tree-feller). Rune Useful follows `../Runes/Energy.md` (**η_cond × G**, not μ(INT)). Old μ(INT) pricing discarded.
+- **On-page blast feel (Ch 15):** about **~7.3 kJ** tip-coupled (local wood / soft spoil, not a tree-feller). Rune Useful follows `../Runes/Energy.md` (**η_cond × A**, `A = √C`; not μ(INT)). Old μ(INT) pricing discarded.
 - **Rune Mastery** later cuts the MP share (~**1%** at Basic L1); SP overflow still covers any remainder the same way
 - Why warriors rarely spam it: shallow MP pool + SP drain when the pool bottoms out
 
@@ -121,3 +121,24 @@ Heavy thrust rapier with an **inefficient lesser tip-detonation** rune.
 - Adds grip.
 - Cushions impacts on the bar.
 - Reduces ringing and slipping when the bar is struck.
+
+## Runic weapons (channel classes)
+
+Path feel ladder: `../Runes/Energy.md`. Host roles: `../Runes/ManaMaterials.md` section 2. Metal specs: `../World/Materials/Metals.md`. Path heat order: `../World/Science/Metallurgy/OverheatedMetals.md`.
+
+| Class | Construction | Failure |
+|---|---|---|
+| A. Engraved plain steel | Groove in ferromagnetic steel | Hot channel, electromigration-like pits, few charges |
+| B. Mana-inlaid steel | Channel converted to austenitic darksteel / star steel | Leakage into bulk; slow wear. Best mundane default |
+| C. Magical monolith | Pattern written in mythril (or covered by adamantium) | Heat above ordering / wipe T fades pattern. Keep cool |
+| D. Orihalcum layer | Shield / anvil insert | Never the channel. Antimagic / proximity interfere; no written runes |
+
+**Inlay rule:** same-metal phase conversion beats foreign-metal inlay (avoids galvanic attack at the border).
+
+Darksteel still wastes more than star steel. Rune-life bonus: `../Runes/ManaMaterials.md` section 2. **Star steel** channel runs cooler. **Mythril** barely warms and stays reusable if kept under wipe T. **Adamantium** covers a real inlay. **Orihalcum** is shield or anvil only.
+
+### Worked channel (path heat)
+
+Channel **2 mm** wide, **1 mm** deep, **60 cm** long (**1.2 cm³**). One **100 mana** pulse. Path heat / corruption = **½** of waste (`Energy.md` η_cond table). Mass and heat capacity still matter for rise.
+
+Relative peak rise for that geometry: plain hardened steel and darksteel cook hardest, star steel cooler, mythril barely warm. Orihalcum never is a weapon channel. Adamantium never is the channel itself.

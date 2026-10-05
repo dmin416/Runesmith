@@ -379,7 +379,7 @@ Three-month Carwen grind. Goblins track Roland’s overall level. Field-use curv
 
 **Unlock path (prose):** outside-body mana hold → Willpower. Ambient pull → **Mana Absorption** + **Mana Regulation**. Same breath forced into blood/bone as a store → **Mana Reinforcement** (self-taught; takes longer than a book buy; same store skill as common dealer books). **Basic Dodging** unlocks month 1 when he clears clubs/spears on purpose. **Mana Arrow** sticks/pillow drills after late month-1 unlock. **Mana Shield** chalk-line circle drills after month-2 unlock. Ember / Mana Hands stay evening self-discovery drills.
 
-### Combat end ranks (~90 days, **1,481** kills; mana cycled all day)
+### Combat end ranks (~90 days, **1,000** kills; mana cycled all day)
 
 | Skill / spell | Start (Ch 9) | Combat end | Why |
 |---|---|---|---|
@@ -404,7 +404,7 @@ Three-month Carwen grind. Goblins track Roland’s overall level. Field-use curv
 | **Identify / Analyze** | low | **+0–1** | occasional peeks |
 | **Ember / Mana Hands** | self L1 | Ember **L6** / Hands **L5** | evening self-discovery drills; light field use |
 
-Month story beats stay: Month 1 ≈ Mage L11–12 + Arrow unlock; Month 2 ≈ L16–17 + Shield + nickname; Month 3 → **L20** + **Goblin Hunter** (past **1000** kills). Kill / coin / stone ledger: `Experience.md`.
+Month story beats stay: Month 1 ≈ Mage L11–12 + Arrow unlock; Month 2 ≈ L16–17 + Shield + nickname; Month 3 → **L20** + **Goblin Hunter** (lifetime **1000** at skip kill **#912**). Kill / coin / stone ledger: `Experience.md`.
 
 ### Future to gain (not yet on sheet)
 
@@ -476,11 +476,11 @@ No new traits.
 ## Chapter 12
 
 Gained: **Basic Alcohol Resistance** L1 (**Endurance +1**); forced tavern drinking; hangover potions exist; theorises other exposure resistances. On-page: `**You have gained the Basic Alcohol Resistance skill.**` Morning check: **Sleep Resistance** **L4→L5** (**Vitality +1**, **Endurance +1**); **Dance** L1 (**Agility +1**); **Pain Resistance** L1 (**Willpower +1**, **Endurance +1**). Night pad total: **Agi +1**, **Vit +1**, **End +3**, **Will +1**. Floor-2 cook also unlocks **Poison Resistance** L1 (**Vitality +1**, **Endurance +1**; popup ignored).
-Uses Mana Arrow, Mana Bolt and Identify (Needle Worm). Floor-2 cook: Needle Worm blood as cumin seasoning on boar skewers; eight Mana Hands over the coals. **Mana Hands** levels on-page (he does not notice; enters cook at **L6**, at least **L7** after). Gains **Multitasking** L1 (**Intelligence +1**, **Dexterity +1**; he does not notice). Crunches a needle for the spice; ignores **Poison Resistance** unlock popup; Mana Sense hunt for a core-bearing Needle Worm to tame as a pet (party gapes). Clears **12** nearby worms (**L16–L18**, **+492 XP**) then tames the core worm (offer meat/leaves, Mana Shield stall ~100 hits then stacked shields, Willpower stare-down; worm bows and passes out; he wears it as a green scarf). Gains **Basic Taming** L1 (**Charisma +1**). First clear look at a lesser impact rune on Sahildr's hammer (glowing pathway lines). Still Mage L20 (bar **~3,266 / 10,000** after the pocket; L25 is Ch 13 half-year). Chapter pad total **Agi +1 / Vit +2 / End +4 / Will +1 / Int +1 / Dex +1 / Cha +1**.
+Uses Mana Arrow, Mana Bolt and Identify (Needle Worm). Floor-2 cook: Needle Worm blood as cumin seasoning on boar skewers; eight Mana Hands over the coals. **Mana Hands** levels on-page (he does not notice; enters cook at **L6**, at least **L7** after). Gains **Multitasking** L1 (**Intelligence +1**, **Dexterity +1**; he does not notice). Crunches a needle for the spice; ignores **Poison Resistance** unlock popup; Mana Sense hunt for a core-bearing Needle Worm to tame as a pet (party gapes). Clears **12** nearby worms (**L16–L18**, **+1,272 XP** at ~1/4 share) then tames the core worm (offer meat/leaves, Mana Shield stall ~100 hits then stacked shields, Willpower stare-down; worm bows and passes out; he wears it as a green scarf). Gains **Basic Taming** L1 (**Charisma +1**). First clear look at a lesser impact rune on Sahildr's hammer (glowing pathway lines). Still Mage L20 (bar **~9,812 / 10,000** after the pocket; L25 is Ch 13 half-year). Chapter pad total **Agi +1 / Vit +2 / End +4 / Will +1 / Int +1 / Dex +1 / Cha +1**.
 
 ## Chapter 13
 
-Half-year Floor-3 grind → **Mage L25**. Kill/XP/loot/pouch: `Experience.md` (**1,102** kills; skill XP **4,608**; pouch **11,641 LC**).
+Half-year Floor-3 grind → **Mage L25**. Kill/XP/loot/pouch: `Experience.md` (**342** kills; skill XP **4,608**; pouch **~5,977 LC**).
 
 **Rewrite attribute pads from these ranks** (spells no attr; Calligraphy / Temperature Resistance no attr line): Sword **+3 Str**; Dodging tree **+9 Agi** (Basic **L6→L9**, **Dodging L1→L6**); Sneaking **+2 Agi**; Throwing **+2 Dex**; Incantation **+2 Int/+2 Will**; Alcohol **+3 End**; Poison **L1→L6** **+5 Vit / +5 End**; Recovery **L1→L5** **+5 Vit / +5 End**. Full sheet: `StatusBreakdown.md` / `Status.md`.
 
@@ -539,7 +539,7 @@ No new named skills. Basic Rune Mastery L1 tested on the detonation rapier (**�
 ## Chapter 18
 
 Gained: **Drawing L1** (**Dexterity +1**). Basic Drawing was already **L9** (**Dexterity +9** baked). Drawing tree Dex total: **+10**. Breakthrough via Runic Mana Scribe diagrams (Debugger overlay copy of Sahildr's Impact hammer; not scribing).
-Created **Lesser Impact Rune [Highest]** schematic (**+1000 XP** → bar **1739 / 13000**). Two Highest lesser schematics now (Detonation + Impact). Fire Orb schematic still pending. Component-fantasy beat: current forms weapon-best but other applications imagined.
+Created **Lesser Impact Rune [Highest]** schematic (**+1000 XP** → bar **2479 / 13000**). Two Highest lesser schematics now (Detonation + Impact). Fire Orb schematic still pending. Component-fantasy beat: current forms weapon-best but other applications imagined.
 
 ## Chapter 19
 

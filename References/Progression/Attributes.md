@@ -6,7 +6,18 @@ Live attribute list and resource formulas. Fat blurbs / perk notes: `AttributesD
 
 Strength, Agility, Dexterity, Vitality, Endurance, Intelligence, Willpower, Charisma, Luck.
 
-Untrained adult street baseline for physical scale work: **STR 15 / AGI 15** (`../Combat/AttackScale.md`).
+Untrained adult street baseline is **15 across the board**: not an athlete. Physical combat anchors at STR/AGI 15: street tip KE and weapon rows in `../Combat/AttackScale.md` (rapier ~30–60 J, sword cut ~60–130 J, warhammer ~200–400 J). Cha/Luck 15 is ordinary social luck, not perks (perks gate at 40). No class packages assumed.
+
+| Stat | Real feel at 15 |
+|---|---|
+| STR | ~90 kg max deadlift |
+| VIT | ~45-year constitution potential (abstract) |
+| END | ~3 L/min VO2 max |
+| AGI | ~375 W burst; sprint ~6 m/s (~13 mph) |
+| DEX | ~15 pegboard pegs (right hand) |
+| INT | ~7.5 digit working-memory span; cast μ = 1 |
+| WILL | ~30 years effective life experience |
+| Vit/End heal | M = 1.0 (normal adult blood recovery) |
 
 ## Resources (locked)
 
@@ -15,6 +26,8 @@ HP = (Vitality × 10) + (Endurance × 3)
 SP = (Endurance × 10) + (Strength × 3) + (Agility × 3)
 MP = (Intelligence × 10) + (Willpower × 4)
 ```
+
+Bare all-15 (no class bonuses): **HP 195**, **SP 240**, **MP 210**. A street adult with no Mage/Acolyte still has no usable mana pool to absorb into; the MP number is the sheet formula once a pool exists.
 
 Class and skill bonuses can raise displayed pools above the bare formulas.
 

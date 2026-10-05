@@ -6,7 +6,7 @@ Name on status: **Roland Arden**. Public alias: **Wayland**. No separate "D" sta
 
 Highest character level seen on a Roland status dump: **L252** (`681-690`).
 
-Highest primary class level seen: **T3 Runesmith Overlord L77** (`681-690`).
+Highest primary class level seen in Source: **T3 Runesmith Overlord L77** (`681-690`). Rewrite T3 hard-cap is **L75** (`../Progression/Progression.md`); do not re-import L77 as live.
 
 Notes:
 
@@ -328,7 +328,7 @@ Attribute order is always: Strength, Agility, Dexterity, Vitality, Endurance, In
 | Fast Learning | `1-10` | Int +5. |
 | Knowledge Retention | `1-10` | Int +3, Will +5. |
 | Blessed by Mana | `1-10` / `101-110` | Mage ascension with high Int. MP percent growth. Later percent values rise with tiers. |
-| Parallel Thinking | `151-160` | Multithread thoughts. Later called / treated as Multiple Minds in prose. |
+| Parallel Thinking | `151-160` | Source: trait popup. Rewrite: **skill** (true parallels). See FocusCapacity. |
 | Creativity | `191-200` | Engineer trial. |
 | Tier 2 (Lord) multiplier | `81-90` | x2 basic stats (no luck/cha). |
 | Tier 3 (Overlord) multiplier | `311-320` | x4.5 basic stats (no luck/cha). |

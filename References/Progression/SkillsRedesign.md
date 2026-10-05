@@ -1,8 +1,8 @@
-# Temp: Roland Skill Changes
+# Skills Redesign
 
-> **Skill redesign loot.** Live skill law: Progression.md / Skills.md. Apply or merge when a beat needs it; not a second lock file.
+> **Design loot.** Live skill law: Progression.md / Skills.md. Fat catalog: SkillsDesign.md. Apply or merge when a beat needs it; not a second lock file.
 
-Temporary pass. Apply world laws from `../Ideas.md`: skills **L1–L9 then evolve**, effects must be felt, ranged focus, no Source padding. Merge into `Skills.md` / chapter screens when locked; delete or archive this file after.
+Apply world laws from `../Ideas.md`: skills **L1–L9 then evolve**, effects must be felt, ranged focus, no Source padding. Copy accepted rows into `Skills.md` / `SkillsDesign.md` and wipe them here.
 
 **Global rules for every skill below**
 
@@ -18,13 +18,13 @@ Temporary pass. Apply world laws from `../Ideas.md`: skills **L1–L9 then evolv
 
 ## Transfer / Chapter 2 sheet
 
-*(Merged into `Skills.md` / locked elsewhere; wiped here: Debugger, Technology, Cooking, Marksmanship / Expert Marksmanship, Acting, Basic Mathematics, Map Reading.)*
+*(Merged into `Skills.md` / locked elsewhere; wiped here: Diagnosis, Technology, Fabrication, Cooking, Marksmanship / Expert Marksmanship, Acting, Basic Mathematics, Map Reading.)*
 
 ### Sleep Resistance L4
 **Rule:** −10% sleep needed per level (L4 = 60% of a normal night). Evolve at L9 → **Sleep Immunity**, same −10%/level until floor **1%** (~one night / 100 days). Vit +1 / End +1 per level. Ordinary resistance (not system-special); also listed in `NormalPersonSkills.md`. Full table: `Skills.md`.
 
-### Tinkerer L8
-**Change:** Physical / mechanical craft side (Ch 4 clock parts fit). Craft speed and salvage on non-rune junk. e.g. +10% assembly speed / level, fewer botched jury-rigs. Evolve → **Expert Tinkerer** (already in Source ~171): work on higher-tier materials and golem parts. Pair with Rapid Assembly later; do not stack three empty “craft better” lines. **Not yet in `Skills.md` as Expert Tinkerer.**
+### Fabrication L8
+**Change:** Physical / mechanical craft side (Ch 4 clock parts fit). Craft speed and salvage on non-rune junk. e.g. +10% assembly speed / level, fewer botched jury-rigs. Old Source name Tinkerer / Expert Tinkerer. Live name **Fabrication**. Pair with Rapid Assembly later; do not stack three empty “craft better” lines.
 
 ### Hastened Reading L2
 **Change:** Real time cut. e.g. −10% reading time per level while retention holds (cap with Knowledge Retention). L9 ≈ near skim-speed with full takeaway. Evolve → **Speed Comprehension**: technical schematics and rune texts. Already at transfer; library levels it.
@@ -33,13 +33,13 @@ Temporary pass. Apply world laws from `../Ideas.md`: skills **L1–L9 then evolv
 **Change:** Names and tags only. Depth caps by level: L1 name; mid: material; L9: plain properties without formulas. Does **not** replace Analyze. Evolve → **High Identify** or stays shallow while Analyze evolves (preferred: keep Identify cheap/fast, Analyze deep/slow).
 
 ### Analyze L1
-**Change:** Formulas, rates, failure points. First in-Terra unlock. Scaling: more systems at once, less MP/time. L9: full status-style breakdown of a lesser device/rune. Evolve → **High Analyze**: people, noble gear, greater structures (Source High Analyze). Pair with Debugger.
+**Change:** Formulas, rates, failure points. First in-Terra unlock. Scaling: more systems at once, less MP/time. L9: full status-style breakdown of a lesser device/rune. Evolve → **High Analyze**: people, noble gear, greater structures (Source High Analyze). Pair with Diagnosis.
 
 ### Mana Sense L1
 **Change:** Range, resolution, filter (air vs people vs runes). Hard meters: sense radius and “can tell density bands.” L9: map a room’s mana. Evolve → **Mana Perception** / feeds **Eyes of Mana**. Childhood grind is intentional and visible.
 
-### Parallel Thinking (add early; trait or skill)
-**Change:** Hold N mental tracks (1 + level, or fixed by tier). Required for multi-rune layouts and aiming while debugging. Evolve → **Multiple Minds** at high tier (Source late naming). Decide trait vs skill once; if skill, L1–L9 then evolve.
+### Parallel Thinking (skill)
+**Change:** **Skill** (not a trait). Level = number of true parallels; each gets capacity ÷ N at full use of that fraction. L1–L9 then evolve. Required for multi-rune layouts and aiming while debugging. Tables: `../World/Science/Body/FocusCapacity.md`.
 
 ---
 
@@ -80,7 +80,7 @@ World law: **Basic X** maxes at L9 → evolves to non-Basic form. Chapter 7 alre
 **Above Shaping (Ideas):** separate **passive** telekinesis / mage-hand skill (name TBD), unlockable only after a **Tier 2** class. Not a normal L9 evolve. Distinct from the Ch 10 **Mana Hands** spell. See `../Ideas.md` Systems.
 
 ### Basic Mana Regulation
-**Change:** Ambient absorption rate and pool stability. Hard regen % or MP/min per level. L9: fight without sitting. Evolve → **Mana Regulation**: combat regen / overflow control. Early practice before class still allowed.
+**Change:** Ambient absorption rate and pool stability. Hard regen % or MP/min per level. L9: fight without sitting. Evolve → **Mana Regulation**: combat regen / overflow control. **Only with a mana pool.** Pre-class / no-pool forced absorb is radiation-class poison (not practice).
 
 ### Basic Incantation
 **Change:** Cast time cut, not flavor. e.g. −10% chant time per level (cap), or skip one word tier at high level. Evolve → silent/short cast for lesser spells. Matters for bolt spam.
@@ -208,7 +208,7 @@ World law: **Basic X** maxes at L9 → evolves to non-Basic form. Chapter 7 alre
 
 ## Spells and skills to favor early (ranged build)
 
-Priority level-ups: Marksmanship, Mana Bolt→Arrow tree, Rune Mastery, Runecraft, Compression, Restructuring, Mana Regulation, Sneaking, Tinkerer, Analyze/Debugger.
+Priority level-ups: Marksmanship, Mana Bolt→Arrow tree, Rune Mastery, Runecraft, Compression, Restructuring, Mana Regulation, Sneaking, Fabrication, Analyze/Diagnosis.
 
 Deprioritize: sword, heavy armor, bash, speech-lord skills. Flavor only (no redesign pass): Cooking, Technology, Acting, Basic Mathematics, Map Reading. Sleep Resistance: locked −10%/level → Sleep Immunity floor 1% in `Skills.md`.
 
@@ -217,10 +217,10 @@ Deprioritize: sword, heavy armor, bash, speech-lord skills. Flavor only (no rede
 ## Open decisions
 
 - Exact % tables for Incantation, Running, Marksmanship (keep one formula style across **build** skills where possible). Flavor skills (Sleep, Cooking, Technology, Acting, Math, Map Reading) skip %.
-- Parallel Thinking: trait vs skill.
+- Parallel Thinking: locked as **skill**.
 - Whether Identify evolves or stays forever shallow.
 - Display names for the five Rune Mastery forms.
 - Which Source combat skills get cut vs parked at low level in the rewrite.
-- Advanced Debugger: Tier 3 vs Tier 4 gate (class, trial, or both).
+- Advanced Diagnosis: Tier 3 vs Tier 4 gate (class, trial, or both).
 
 When a row is accepted, copy the final text into `Skills.md` and wipe that row here.
