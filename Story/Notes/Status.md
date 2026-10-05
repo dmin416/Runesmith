@@ -305,7 +305,7 @@ XP shown matches live `50 × goblin_L` (RaceMult **1.0**).
 
 ## Chapter 9.5
 
-Three-month rewrite grind (Source has no separate chapter; Ch 10 opens already at L20). **1,000** goblin kills (incl. **8** T2 leader ambushes L27); lifetime **1,088**. Field-use curve in `Levels.md`; end ranks in `Skills.md` Ch 9.5. **L9 hard cap until first T2.** Absorption / Reinforcement cycle whenever mana is spent → both **L9** (Reinforcement self-taught from ambient→body store, not a book). Also: Shaping **L6**, Regulation **L7**, Incantation **L6**, Bolt **L7**, Arrow **L5**, Shield **L3**, Hand to Hand / Leather / Sprint stay **Basic L9**; Running / Climbing / Sneaking / Throwing / Swordsmanship → **plain L1**; Marksmanship → **Expert Marksmanship L1**; **Basic Dodging L6**. Ember **L6** / Hands **L5** (evenings). End **Mage L20** → Int **129** / Will **127** / MP **2158**; physicals **46/50/56/41/42**; HP **536** / SP **708**. Evolve pads **additive** (Basic L9 stay + Level 2 L1; L1 pad is the evolve “free stat”, not an extra). Month beats: ~L11–12 + Arrow + Dodging; ~L16–17 + Shield + nickname; L20 + Goblin Hunter (past **1000** kills). Coin end **3,595 LC**; stones **218** rice-band + **8** leader (kept after Ch 9 day one). Food: inn breakfast+dinner; **3** jerky bought; other lunches = goblin prey. Cloak **300 LC**. Ledger: `Experience.md`.
+Three-month rewrite grind (Source has no separate chapter; Ch 10 opens already at L20). **1,000** goblin kills (incl. **8** T2 leader ambushes L27); lifetime **1,088**. Field-use curve in `Levels.md`; end ranks in `Skills.md` Ch 9.5. **L9 hard cap until first T2.** Absorption / Reinforcement cycle whenever mana is spent → both **L9** (Reinforcement self-taught from ambient→body store, not a book). Also: Shaping **L6**, Regulation **L7**, Incantation **L6**, Bolt **L7**, Arrow **L5**, Shield **L3**, Hand to Hand / Leather / Sprint stay **Basic L9**; Running / Climbing / Sneaking / Throwing / Swordsmanship → **plain L1**; Marksmanship → **Expert Marksmanship L1**; **Basic Dodging L6**. Heat **L6** / Hands **L5** (evenings). End **Mage L20** → Int **129** / Will **127** / MP **2158**; physicals **46/50/56/41/42**; HP **536** / SP **708**. Evolve pads **additive** (Basic L9 stay + Level 2 L1; L1 pad is the evolve “free stat”, not an extra). Month beats: ~L11–12 + Arrow + Dodging; ~L16–17 + Shield + nickname; L20 + Goblin Hunter (past **1000** kills). Coin end **3,595 LC**; stones **218** rice-band + **8** leader (kept after Ch 9 day one). Food: inn breakfast+dinner; **3** jerky bought; other lunches = goblin prey. Cloak **300 LC**. Ledger: `Experience.md`.
 
 ## Chapter 10
 
@@ -491,7 +491,7 @@ No full status screen. Gains **1000 XP** from Lesser Impact [Highest] schematic.
 
 ## Chapter 19
 
-No full status screen. Enter wallet **21,641 LC** (personal **11,641** + parting gift **10 SG**). Solaria tip **−1 SS (−10 LC)** → **21,631**. Guild city map list **2 SS** / Steel **5%** → **−19 LC** → **21,612 LC**. Singing Crow room **−14 LC** → **21,598 LC**. Fire Orb memory redraw: **[High] +600 XP** (over 1 hour; uneven) then thin-sheet **[Highest] +400 XP** (total **1000**). Three Highest lesser schematics now. Train week (**both drills every day**, mana at **~99%** regen ceiling; Ned nibble/poke + **needle-catch / feed-back**): Sound Production **L9**, Echolocation **L9**, Multitasking **L8**, Throwing **L2**, Shaping **L9**, Regulation **L9**, Ember **L9**, Heat **L6**, Cold **L6**, Pain **L8**, Poison **L7**, Recovery **L9** (no Rapid Recovery yet; ~**2 years**); Hands / Absorption / Reinforcement / Sense stay **L9**; Incantation **L8** (`Skills.md` Ch 19 math). Lodging: The Singing Crow Inn, Edelgard (**14 LC**/night; Steel-band; skipped peasant hostel). Meets Helci.
+No full status screen. Enter wallet **21,641 LC** (personal **11,641** + parting gift **10 SG**). Solaria tip **−1 SS (−10 LC)** → **21,631**. Guild city map list **2 SS** / Steel **5%** → **−19 LC** → **21,612 LC**. Singing Crow room **−14 LC** → **21,598 LC**. Fire Orb memory redraw: **[High] +600 XP** (over 1 hour; uneven) then thin-sheet **[Highest] +400 XP** (total **1000**). Three Highest lesser schematics now. Train week (**both drills every day**, mana at **~99%** regen ceiling; Ned nibble/poke + **needle-catch / feed-back**): Sound Production **L9**, Echolocation **L9**, Multitasking **L8**, Throwing **L2**, Shaping **L9**, Regulation **L9**, Heat **L9**, Heat Resistance **L6**, Cold **L6**, Pain **L8**, Poison **L7**, Recovery **L9** (no Rapid Recovery yet; ~**2 years**); Hands / Absorption / Reinforcement / Sense stay **L9**; Incantation **L8** (`Skills.md` Ch 19 math). Lodging: The Singing Crow Inn, Edelgard (**14 LC**/night; Steel-band; skipped peasant hostel). Meets Helci.
 
 **Rewrite:** inherits Ch 17 rewrite. Wallet **15,977 → 15,934 LC** after tip + map + room (`Items.md`). Personal **~5,977 LC** never replaced by the gift alone. Fire Orb **High→Highest** **+1000 XP** total → bar **3479 / 13000** (`Experience.md`). Lesser quality ladder: **100 / 200 / 400 / 600 / 1000**. Source one-shot Highest **+1000** discarded.
 
@@ -659,7 +659,7 @@ No Roland status screen. Still L45 / Scribe L20 off-page. Helci Scout L10 status
 
 ## Chapter 29
 
-No full status screen. Still L45. Uses Ember, Hush and mana sphere light. Four belt spellbooks ready. No XP or money changes.
+No full status screen. Still L45. Uses Heat, Hush and mana sphere light. Four belt spellbooks ready. No XP or money changes.
 
 **Rewrite:** inherits Ch 27 rewrite sheet.
 
@@ -813,7 +813,7 @@ No full attribute sheet. Helci knows he can Runecraft (cover: young Enchantsmith
 
 ## Chapter 46
 
-No full attribute sheet. First store Sharp Runic Steel Longsword sold via Exeor. Time skip toward ~1.5 years in Edelgard smith arc.
+No full attribute sheet. First store Sharp Runic Steel Longsword sold via Exeor. Time skip of 2 years 7 months in the Edelgard smith arc.
 
 **Rewrite:** long skip into Ch 47 full sheet (**L69** / Blacksmith **L19**).
 

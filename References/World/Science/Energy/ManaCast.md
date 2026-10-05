@@ -2,7 +2,7 @@
 
 Hub: `../Science.md`.
 **Shared cast / path law:** `../../../Runes/Energy.md` (η(L), μ(INT), η_cond, ambient `A = √C`, mana-in, no-stack rules, voice baselines).
-This file is spell-specific worked tables only (Bolt, Arrow, Shield, Hands, Ember, anchors). Tables below are at open-ground **A = 1** unless a row says otherwise. Multiply Useful by `A` in thicker fields.
+This file is spell-specific worked tables only (Bolt, Arrow, Shield, Hands, Heat, anchors). Tables below are at open-ground **A = 1** unless a row says otherwise. Multiply Useful by `A` in thicker fields.
 Cast blurbs also in Old `Combat/Spells.md` until absorbed.
 
 ## Kinetic vs thermal mana (rough guide)
@@ -338,9 +338,9 @@ Katana edge hardness ~**400 MPa** clears R up to **267 MPa** (matches an arrow a
 
 See also Old `Combat/Spells.md` (Mana Bolt, Mana Arrow) until absorbed.
 
-## Ember
+## Heat
 
-Ignition energy needed at the target. Ember pays Useful joules into heat at a point; match the row to what he is trying to light.
+Ignition energy needed at the target. Heat pays Useful joules into heat at a point; match the row to what he is trying to light.
 
 | Target | Energy needed |
 |---|---|
@@ -616,4 +616,4 @@ Core rupture rows are **mana cores / mana stones**, not jewelry gems. Unbreakabl
 | 30° | 25% |
 | 15° | 7% |
 
-See also `../../../Combat/Spells.md` (Ember, Mana Hands, Mana Shield).
+See also `../../../Combat/Spells.md` (Heat, Mana Hands, Mana Shield).

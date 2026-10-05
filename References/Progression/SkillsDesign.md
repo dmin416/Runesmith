@@ -157,7 +157,7 @@ Passive. Reduces felt pain; hard to unlock without sustained suffering. Early un
 
 **Willpower +1 per level**, **Endurance +1 per level.**
 
-**Thermal grill drill (Ch 19):** alternating **real** hot and cold mana patches on the skin in a grid (hot enough to redden/blister, cold enough to frostbite lightly). Earth thermal-grill illusion is the *idea* seed only; training past the harmless band so Heat and Cold Resistance actually rank. Also grinds **Pain Resistance**, **Recovery**, **Ember** (heat dumps) and fine **Mana Shaping / Regulation**. He meters the pool near **~99%** and soaks Regulation regen with grill intensity (soft clicks alone underspend). **Ned** adds shallow intentional nibbles / tip-pokes (Pain + same-family Poison). When Recovery lags he pours a little low-grade potion on the patch and continues so unused regen is not wasted. Keep damage shallow on purpose. Chapter 19 week: **Pain L1 ??? L8**, Heat/Cold ??? **L6**, Poison **L6 ??? L7**, Recovery **L5 ??? L9** with **no Rapid Recovery** yet (full table: `Story/Notes/Skills.md` Ch 19).
+**Thermal grill drill (Ch 19):** alternating **real** hot and cold mana patches on the skin in a grid (hot enough to redden/blister, cold enough to frostbite lightly). Earth thermal-grill illusion is the *idea* seed only; training past the harmless band so Heat and Cold Resistance actually rank. Also grinds **Pain Resistance**, **Recovery**, **Heat** (heat dumps) and fine **Mana Shaping / Regulation**. He meters the pool near **~99%** and soaks Regulation regen with grill intensity (soft clicks alone underspend). **Ned** adds shallow intentional nibbles / tip-pokes (Pain + same-family Poison). When Recovery lags he pours a little low-grade potion on the patch and continues so unused regen is not wasted. Keep damage shallow on purpose. Chapter 19 week: **Pain L1 ??? L8**, Heat Resistance/Cold ??? **L6**, Poison **L6 ??? L7**, Recovery **L5 ??? L9** with **no Rapid Recovery** yet (full table: `Story/Notes/Skills.md` Ch 19).
 
 ### Pain Immunity (evolve)
 Evolves from Pain Resistance at **L9** when timing fits. Same **???10% per level** until floor **1% felt pain**. Will +1 / End +1 per level. Still not a heal; extreme trauma and system / divine backlash can punch through.
@@ -215,7 +215,7 @@ Evolves from Recovery at **L9** when timing fits (**~2 years** after Ch 19 in th
 
 ### Sound Production
 First seen: Chapter 19 (train cabin)
-Active / technique. Make controlled clicks, taps and tones with the body (tongue click, finger snap) or with **mana pressure pulses** shaped in air (Ember???s cousin: pressure instead of heat). Soft cabin volume is nearly free mana. Loud combat ping scales with `../Science/Sound.md` power equations. **Pitch control** is part of the grind: push pulses **above or below** ordinary human hearing so the ping is for the caster???s return map, not for an audience.
+Active / technique. Make controlled clicks, taps and tones with the body (tongue click, finger snap) or with **mana pressure pulses** shaped in air (Heat???s cousin: pressure instead of heat). Soft cabin volume is nearly free mana. Loud combat ping scales with `../Science/Sound.md` power equations. **Pitch control** is part of the grind: push pulses **above or below** ordinary human hearing so the ping is for the caster???s return map, not for an audience.
 
 **Levels:** cleaner pitch, sharper attack, tighter direction and optional enhancement (louder / thinner / multi-click bursts) without wasting draw.
 

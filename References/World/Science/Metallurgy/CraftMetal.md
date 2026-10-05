@@ -4,7 +4,7 @@ Modern metallurgy aims with Caldris forge + magic. Named metal locks: `../../Mat
 
 ## Narrative
 
-Magic gives even heat, pressure and clean faces. It does not wish-chemistries or skip soak time. Ember heats. Hands and barriers push, scour and mold. Knowledge picks the carbon and HT cycle.
+Magic gives even heat, pressure and clean faces. It does not wish-chemistries or skip soak time. Heat heats. Hands and barriers push, scour and mold. Knowledge picks the carbon and HT cycle.
 
 ## Detail
 
@@ -12,7 +12,7 @@ Magic gives even heat, pressure and clean faces. It does not wish-chemistries or
 
 | Job | Tool |
 |---|---|
-| Heat / soak | Ember, forge fire, heat runes |
+| Heat / soak | Heat, forge fire, heat runes |
 | Force / vacuum boundary / scour / stir / geometry | Mana Hands, barrier molds |
 | What alloy / HT to aim at | Knowledge |
 
@@ -94,7 +94,7 @@ Temper immediately after quench. Bond before quench.
 
 **Steel:** finery → cementation → vacuum scrape + hot press composites → forge → normalize → austenitize → quench → sub-zero → temper.
 
-**Powder (magic edge):** atomize melt (Hands shear jet) → vacuum tumble → blend → HIP-like Hands + Ember → full density → HT. Never quench porous powder. Full write-up: `MagicPowderMetallurgy.md` (dies/porosity/vacuum weld removed by magic; powder make + mage labor stay; Ag powder cooks to mythril faster).
+**Powder (magic edge):** atomize melt (Hands shear jet) → vacuum tumble → blend → HIP-like Hands + Heat → full density → HT. Never quench porous powder. Full write-up: `MagicPowderMetallurgy.md` (dies/porosity/vacuum weld removed by magic; powder make + mage labor stay; Ag powder cooks to mythril faster).
 
 | Metal | Harden | Relative quality |
 |---|---|---|

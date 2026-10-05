@@ -52,9 +52,9 @@ Large destructive projectile spell.
 
 ## Fire
 
-### Ember
+### Heat
 First seen: Chapter 10
-Small fire via mana friction. Self-discovered early with Mana Hands. Utility ignite. Ignition energy table: `../World/Science/Energy/ManaCast.md` (Ember).
+Small fire via mana friction. Self-discovered early with Mana Hands. Utility ignite. Ignition energy table: `../World/Science/Energy/ManaCast.md` (Heat).
 
 ### Fire Bolt / Firebolt
 First seen: Chapter 31

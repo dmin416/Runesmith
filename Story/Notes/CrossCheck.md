@@ -133,5 +133,5 @@ Still needs attention when touching these beats:
 | Meal / lodging quotes | `References/World/Society/Economy.md`, PlacesDesign, Ch 9 Notes | Meal **5 LC**; lodging **1 SS**/night + **5 LC** breakfast; monthly ~**10%** on **30** nights → **270 LC**. Year = **12×30 + New Year's Day** (**361**). |
 | Goblin Hunter title | `Skills.md` / `Status.md` Ch 9.5–10 | Past **1000** kills into the skip; card text matches chapter. |
 | Ch 10 nest ledger | `Experience.md`, `Items.md`, `Status.md`, `Notes.md` | **+7** kills → **1,095**; pouch **3,630 LC**; stones **220** rice + **8** leader. |
-| Source delay skills | `Roland's Skills.md`, `Early Logical Skills.md` | Absorption/Reinforcement already owned in rewrite; Ember/Hands self-taught Ch 9.5; later book chapters = rank practice only. |
+| Source delay skills | `Roland's Skills.md`, `Early Logical Skills.md` | Absorption/Reinforcement already owned in rewrite; Heat/Hands self-taught Ch 9.5; later book chapters = rank practice only. |
 | Search Scrybe | Story / Notes / References / `.cursor` | Must stay empty. `Source/` may keep Scrybe. |

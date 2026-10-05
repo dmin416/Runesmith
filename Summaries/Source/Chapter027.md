@@ -6,7 +6,7 @@ Source dump: `References/Source/21-30.md` (catalog entry `# 29`).
 
 - **Another ~6 months** of Emporium work; **>1 year** in Edelgard total.
 - Signs up for expedition; departs in **2 days**.
-- Age still ~11. Season not named (sun still up when he leaves workshop).
+- Age 12. Season not named (sun still up when he leaves workshop).
 
 ## Cast
 

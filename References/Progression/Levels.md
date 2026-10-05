@@ -308,7 +308,7 @@ After L3: `reps_to_next(L) = 35 × L` where L is the level you are leaving.
 - **Technique skills** (Shaping, Incantation, Sword, Sneak, etc.): only **clean** reps. Misses, panics and interrupted casts do not. Field rule of thumb: about **40%** of raw attempts are clean.
 - **Mana Absorption / Mana Reinforcement:** every time the pool is spent down and topped back up. Cast → drain → absorb refill and reinforce hold count as uses. These run **constantly in combat** as mana is used, not only in town meditation. Clean-rate is higher than attack technique (~**70%**) because the loop is deliberate.
 - **Already high Basics (L8–L9):** do not restart the table at 0. Only the step to the next rank (or evolve) counts. Opponent/variety gates still apply (`Progression.md`: H2H / Sword / Sneak need real field work for the last tick / evolve). Hard cap remains **L9** on every skill name; next step is evolve.
-- **Evening utility** (Ember cook-pot, Mana Hands mug lifts) can add uses outside the forest. Absorption / Reinforcement do **not** need a town-only track; hunts already cycle them hard.
+- **Evening utility** (Heat cook-pot, Mana Hands mug lifts) can add uses outside the forest. Absorption / Reinforcement do **not** need a town-only track; hunts already cycle them hard.
 
 ### Ch 9.5 combat volume (locked)
 
@@ -429,7 +429,7 @@ Tier 1 cast loop: imagine the **spell circle** (formula) + shape mana + chant, i
 
 - Class level thresholds can dump a spell into the mind (incantation + construction).
 - Books / teachers / self-experimentation for extras. Spellbooks are expensive.
-- Mage’s three basics: Mana Bolt, Mana Arrow, Mana Shield. Ember and Mana Hands are self-discovered early in the rewrite (trial and error; Source used a low-grade Arden book).
+- Mage’s three basics: Mana Bolt, Mana Arrow, Mana Shield. Heat and Mana Hands are self-discovered early in the rewrite (trial and error; Source used a low-grade Arden book).
 
 ## Tier multipliers
 

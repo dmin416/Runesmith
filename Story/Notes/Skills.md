@@ -377,7 +377,7 @@ No new traits. First paid hunt. Ending: adventure / meal / rest steps (not Sourc
 
 Three-month Carwen grind. Goblins track Roland’s overall level. Field-use curve: `Levels.md` (Climbing anchors + `35×L` steps; technique clean-rate ~**40%**; Absorption/Reinforcement ~**70%** on mana-spend cycles). **All skills hard-cap at L9 until first T2 class.**
 
-**Unlock path (prose):** outside-body mana hold → Willpower. Ambient pull → **Mana Absorption** + **Mana Regulation**. Same breath forced into blood/bone as a store → **Mana Reinforcement** (self-taught; takes longer than a book buy; same store skill as common dealer books). **Basic Dodging** unlocks month 1 when he clears clubs/spears on purpose. **Mana Arrow** sticks/pillow drills after late month-1 unlock. **Mana Shield** chalk-line circle drills after month-2 unlock. Ember / Mana Hands stay evening self-discovery drills.
+**Unlock path (prose):** outside-body mana hold → Willpower. Ambient pull → **Mana Absorption** + **Mana Regulation**. Same breath forced into blood/bone as a store → **Mana Reinforcement** (self-taught; takes longer than a book buy; same store skill as common dealer books). **Basic Dodging** unlocks month 1 when he clears clubs/spears on purpose. **Mana Arrow** sticks/pillow drills after late month-1 unlock. **Mana Shield** chalk-line circle drills after month-2 unlock. Heat / Mana Hands stay evening self-discovery drills.
 
 ### Combat end ranks (~90 days, **1,000** kills; mana cycled all day)
 
@@ -402,7 +402,7 @@ Three-month Carwen grind. Goblins track Roland’s overall level. Field-use curv
 | **Marksmanship** | L7 | **L9 → Expert Marksmanship L1** | constant aimed casts; Expert pads **Dex +1 / Will +1** per level |
 | **Mana Sense** | L9 | **L9** | already capped |
 | **Identify / Analyze** | low | **+0–1** | occasional peeks |
-| **Ember / Mana Hands** | self L1 | Ember **L6** / Hands **L5** | evening self-discovery drills; light field use |
+| **Heat / Mana Hands** | self L1 | Heat **L6** / Hands **L5** | evening self-discovery drills; light field use |
 
 Month story beats stay: Month 1 ≈ Mage L11–12 + Arrow unlock; Month 2 ≈ L16–17 + Shield + nickname; Month 3 → **L20** + **Goblin Hunter** (lifetime **1000** at skip kill **#912**). Kill / coin / stone ledger: `Experience.md`.
 
@@ -414,13 +414,13 @@ Pure-mana T1 utilities. Book / academy / self-shape later. Not gained in Ch 9–
 |---|---|
 | **Detection** (name TBD) | Sense living things / mana signatures in a radius. Nest clears, ambush watch, dungeon corners. |
 | **Sound Barrier** (name TBD) | Softens sound leaving (or entering) a small bubble. Quiet camp, muffles loud casts, party whispers. Not true Stealth. |
-| **Light** (Orb of Light / Mana Light) | Handheld or stuck glow for night forest, caves, reading. Ember’s light cousin without needing fire. |
+| **Light** (Orb of Light / Mana Light) | Handheld or stuck glow for night forest, caves, reading. Heat’s light cousin without needing fire. |
 
 ## Chapter 10
 
 Present day after the Ch 9.5 timeskip. Title: Goblin Hunter (all goblins hostile; lower-level ones hit softer and sometimes fear; innate sense for nearby goblin locations). Nest opener uses Mana Arrow from ~100 m then melee finishes; no new skill unlocks on-page.
 
-Spells after three months (class grants Bolt / Arrow / Shield; Ember + Mana Hands discovered on his own):
+Spells after three months (class grants Bolt / Arrow / Shield; Heat + Mana Hands discovered on his own):
 
 ```
 ════════ SPELLS ════════
@@ -434,7 +434,7 @@ An arrow made purely from mana. Has increased speed and penetrative power compar
 Mana Shield L3       Spell
 A mana shield that shields the caster or their allies from harm.
 
-Ember L6             Spell
+Heat L6             Spell
 By causing friction with mana the caster can create a small fire.
 
 Mana Hands L5        Spell
@@ -572,14 +572,14 @@ Field-use curve (`Levels.md`): cum clean uses to reach L = **1 / 10 / 50 / 155 /
 | **Mana Reinforcement** | **L9** | **L9** | Cap. |
 | **Basic Incantation** | **L8** | **L8** | Almost no chanting. |
 | **Mana Sense** | **L9** | **L9** | Cap. |
-| **Ember** (heat production) | **L6** | **L9** | Hot patches every day at regen-soaking intensity. |
+| **Heat** (heat production) | **L6** | **L9** | Hot patches every day at regen-soaking intensity. |
 | **Heat Resistance** | — | **L6** | Harder real burns daily; dose-gates after early days → **L6**. |
 | **Cold Resistance** | **L1** | **L6** | Inn L1 + daily frost half at the same intensity → **L6**. |
 | **Pain Resistance** | **L1** | **L8** | Grill sting + Ned tip pricks + missed launches → **L8**. |
 | **Poison Resistance** | **L6** | **L7** | Daily shallow Ned toxin on pricks/misses; same family soft credit → **L7**. |
 | **Recovery** | **L5** | **L9** | Universal blood+wound knit each cycle (+ potion when lagging). L5→L9 = **910** clean; ~75% of ~1240 covers it (**10×** exit rate). **No evolve on the train.** **Rapid Recovery** waits for the next ~**2 years** of mixed trauma. |
 
-**Attr pads from this week only** (exit − enter): Sound Prod **+9 Int / +9 Dex**; Echo **+9 Will / +9 Int**; Multitask **+7 Int / +7 Dex**; Throwing **+1 Dex**; Shaping **+6 Int / +3 Will** (Int-heavy ×3 levels); Regulation **+2 Int / +4 Will**; Ember none (spell); Heat **+6 Vit / +6 End**; Cold **+5 Vit / +5 End**; Pain **+7 Will / +7 End**; Poison **+1 Vit / +1 End**; Recovery **+4 Vit / +4 End**.
+**Attr pads from this week only** (exit − enter): Sound Prod **+9 Int / +9 Dex**; Echo **+9 Will / +9 Int**; Multitask **+7 Int / +7 Dex**; Throwing **+1 Dex**; Shaping **+6 Int / +3 Will** (Int-heavy ×3 levels); Regulation **+2 Int / +4 Will**; Heat none (spell); Heat Resistance **+6 Vit / +6 End**; Cold **+5 Vit / +5 End**; Pain **+7 Will / +7 End**; Poison **+1 Vit / +1 End**; Recovery **+4 Vit / +4 End**.
 
 **Sheet note:** fold these into the Ch 19 rewrite when the live L26 Scribe sheet is retconned; do not invent a second full status screen on the train.
 
@@ -623,7 +623,7 @@ No new Roland skills. Pack of compact Mana Bolt / Mana Arrow scrolls. Helci: Sco
 
 ## Chapter 29
 
-Uses Ember (friction ignition), Hush (30-min sound dome) and mana sphere light. Fire Arrow plus lesser runic Mana Arrow / Mana Bolt scrolls for Rune Mastery grind.
+Uses Heat (friction ignition), Hush (30-min sound dome) and mana sphere light. Fire Arrow plus lesser runic Mana Arrow / Mana Bolt scrolls for Rune Mastery grind.
 
 ## Chapter 30
 

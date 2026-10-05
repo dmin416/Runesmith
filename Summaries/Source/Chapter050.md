@@ -6,7 +6,7 @@ Source dump: `References/Source/51-60.md` (catalog entry `# 52`).
 
 - Council meeting ~evening → ~**8 pm** end; curfew in ~1 hr.
 - Same night Roland visits Emporium ~past 8 pm.
-- ~**1.5 years** after mine/thieves resolution. Season: dark cold night.
+- **3 years** after the mine, **2 years 7 months** after the thieves. Season: dark cold night.
 
 ## Council (before attack)
 

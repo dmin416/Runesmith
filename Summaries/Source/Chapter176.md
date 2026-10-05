@@ -4,7 +4,7 @@ Source dump: `References/Source/171-180.md` (catalog entry `# 178`).
 
 ## Morning after
 
-- Spoon escape + pillow swap. Larger bed after dating. Pillow to face for staring. Agni tackle; sausage distract. ~4 years in Albrook; Robert army track; Lucienne at magic academy (discovery risk). Fort: stone/steel walls, night stun voltage, golem patrols. Breakfast; weekend break mood.
+- Spoon escape + pillow swap. Larger bed after dating. Pillow to face for staring. Agni tackle; sausage distract. 5 or 6 years in Albrook; Robert army track; Lucienne at magic academy (discovery risk). Fort: stone/steel walls, night stun voltage, golem patrols. Breakfast; weekend break mood.
 
 ## Gift
 

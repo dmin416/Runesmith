@@ -57,7 +57,7 @@ Vibrate water-saturated soil past a **threshold acceleration** → grains lose c
 
 ### Singing Flame (thermoacoustic)
 
-Heat gradient ↔ high-amplitude sound, no moving parts (~30–41% of Carnot in real devices; runs reverse as a cooler). Tune a forge / campfire / Ember so waste heat feeds other sound apps when heat and acoustic scales match. Cross-link Ember and `../Body/Body.md` heat stealth ↔ Sound.
+Heat gradient ↔ high-amplitude sound, no moving parts (~30–41% of Carnot in real devices; runs reverse as a cooler). Tune a forge / campfire / Heat so waste heat feeds other sound apps when heat and acoustic scales match. Cross-link Heat and `../Body/Body.md` heat stealth ↔ Sound.
 
 ### Resonant shattering
 

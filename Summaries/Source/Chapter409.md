@@ -4,7 +4,7 @@ Source dump: `References/Source/411-420.md` (catalog entry `# 411`).
 
 ## Events
 
-- Middle-deck airship; signal blocked (no Elodia call). ~11–12 years in world. Mercenaries shake down rabbit-race porter (robe scam → assault intent). Roland floats her, binds scar-faced leader, lightning threat vs archer; forces silence. Acts as cranky mage. Lands; can’t inspect engines. Guard duty resumes.
+- Middle-deck airship; signal blocked (no Elodia call). about 17 years in world, age 22. Mercenaries shake down rabbit-race porter (robe scam → assault intent). Roland floats her, binds scar-faced leader, lightning threat vs archer; forces silence. Acts as cranky mage. Lands; can’t inspect engines. Guard duty resumes.
 
 ## Major plot points
 

@@ -43,7 +43,7 @@ Source dump: `References/Source/11-20.md` (catalog entry `# 12`).
 | Mana Bolt | L7 | Class basic |
 | Mana Arrow | L5 | Faster / more pierce than bolt |
 | Mana Shield | L3 | Class basic |
-| Ember | L6 | Friction fire; from Arden spellbook |
+| Heat | L6 | Friction fire; from Arden spellbook |
 | Mana Hands | L5 | Weight/range from Int; from book |
 
 - Class gave 3 basics; books teach more; auto-learn on level prompts inserts chant/circle knowledge.

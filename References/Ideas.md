@@ -266,7 +266,7 @@ Idea only. Not on early sheets.
 
 ### Tier 1 Mage: foundational applications
 
-Idea map for what a common **Class / Tier 1 Mage** is expected to learn besides raw combat spam. Split **skills** (passive / always-training) from **spells** (chants). Roland’s **0% elemental affinity** blocks true fire/water/wind/earth schools; he can still take pure-mana and friction tricks (Ember already). Academy or book paths teach more than the class dump.
+Idea map for what a common **Class / Tier 1 Mage** is expected to learn besides raw combat spam. Split **skills** (passive / always-training) from **spells** (chants). Roland’s **0% elemental affinity** blocks true fire/water/wind/earth schools; he can still take pure-mana and friction tricks (Heat already). Academy or book paths teach more than the class dump.
 
 #### Already locked (Roland early kit)
 
@@ -280,7 +280,7 @@ Idea map for what a common **Class / Tier 1 Mage** is expected to learn besides 
 | Skill | Mana Reinforcement | Store / reinforce (rewrite Ch 9.5) |
 | Spell | Mana Bolt → Arrow | Ranged attack tree |
 | Spell | Mana Shield | Barrier |
-| Spell | Ember | Tiny friction fire (book) |
+| Spell | Heat | Tiny friction fire (book) |
 | Spell | Mana Hands | Active mana-move / telekinesis (hands optional) |
 
 #### Foundations a T1 mage might still learn
@@ -289,7 +289,7 @@ Group by job, not by flashy name. Prefer small spells or skill drills that chang
 
 **1. Light and signal**
 - **Orb of Light / Mana Light:** handheld or stuck glow. Night camps, caves, reading without a torch.
-- **Flare / Signal Spark:** short bright ping for party distance. Ember’s louder cousin.
+- **Flare / Signal Spark:** short bright ping for party distance. Heat’s louder cousin.
 - **Dim / Shade:** thin mana veil that softens glare or hides a candle from far eyes (not true invisibility).
 
 **2. Force and motion (still T1-active, not the T2 passive)**
@@ -312,7 +312,7 @@ Group by job, not by flashy name. Prefer small spells or skill drills that chang
 - Book/academy: basic **Analyze** synergy for spell formulas (Roland has Analyze from status work; most mages buy or grind a weaker form).
 
 **5. Utility campcraft**
-- **Ember** (already): light tinder.
+- **Heat** (already): light tinder.
 - **Dry / Wick:** pull moisture off cloth or powder. Pure-mana version is slow; water mages cheat.
 - **Chill Touch (mana):** draw heat into the pool for a cool patch. Not ice magic. Preserve meat a few hours.
 - **Cleanse Spot:** scrub dirt or weak residue off a surface. Holy lines do disease; this is scrubbing only.
@@ -332,7 +332,7 @@ Group by job, not by flashy name. Prefer small spells or skill drills that chang
 **8. Craft-adjacent (why mages become Scribes)**
 - Hold a stable **spell circle** in air long enough to copy it (Shaping + Incantation).
 - Push mana through ink / quill (leads to **Mana Scribing**).
-- Soft **heat / pressure** on a small point (Ember + Hands) for sealing wax, glue, soft annealing. Not a forge.
+- Soft **heat / pressure** on a small point (Heat + Hands) for sealing wax, glue, soft annealing. Not a forge.
 
 #### Roland filter (0% affinity)
 

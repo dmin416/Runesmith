@@ -6,7 +6,7 @@ Source dump: `References/Source/21-30.md` (catalog entry `# 26`).
 
 - Same forest day as Ch 23 cliffhanger; return by ~**7 pm** supper.
 - Helci: **16+**, recent ascension; orphan → church → left at 14 → 2 years work → bought stone.
-- Calendar note: **24-hour days**, **13 months**/year.
+- Calendar note: **24-hour days**, **12 months** of 30 days, plus New Year's Day.
 - Season not named; windy forest.
 
 ## Cast
@@ -48,4 +48,4 @@ Source dump: `References/Source/21-30.md` (catalog entry `# 26`).
 1. Helci fully introduced (hybrid scout orphan).
 2. Roland’s scroll combat saves her; “Little Goblin Slayer” echo in title.
 3. Relationship seed: debt + pride + shared inn.
-4. World calendar detail (13 months).
+4. World calendar detail (12 months of 30 days, plus New Year's Day).

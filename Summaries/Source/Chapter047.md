@@ -4,7 +4,7 @@ Source dump: `References/Source/41-50.md` (catalog entry `# 49`).
 
 ## Time
 
-- **~1.5–2 years** as blacksmith since workshop start; Helci left **~2 months** ago.
+- **2 years 7 months** as a blacksmith since the workshop start; Helci left **~2 months** ago.
 - Season: **winter**, snowing; quiet year+ after prior chaos.
 - Roland ~**183 cm**, growth-spurt lean muscle; looks older.
 

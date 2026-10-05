@@ -46,7 +46,7 @@ Map flavor to Caldris; do not paste Earth month names or trade cities into prose
 
 ## Cooking without a pot
 
-Earth technique for trail / camp meals (Roland forest lunches, goblin-camp prey, Ember drills). In Caldris prose: prefer leaves, clay, green sticks and ash over foil. Potatoes and other crops from the list above are fine wherever the scene needs them.
+Earth technique for trail / camp meals (Roland forest lunches, goblin-camp prey, Heat drills). In Caldris prose: prefer leaves, clay, green sticks and ash over foil. Potatoes and other crops from the list above are fine wherever the scene needs them.
 
 ### Fire setup
 

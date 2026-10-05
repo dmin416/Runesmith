@@ -1,6 +1,6 @@
 # Volcanic Island Resources: Old Eroded Island with Recent Renewed Volcanism
 
-Companion to `VolcanicIslandEcology.md`. Places: `Places.md` (Dragnis-class islands).
+Companion to `VolcanicIslandEcology.md`. Crops and farming systems: `VolcanicIslandCrops.md`. Places: `Places.md` (Dragnis-class islands).
 
 ## The Geological Baseline
 

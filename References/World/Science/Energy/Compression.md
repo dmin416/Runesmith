@@ -41,7 +41,7 @@ T₂ = T₁ × (V₁/V₂)^(γ−1)     // γ_air = 1.4
 W = P₁ V₁ /(γ−1) × [(V₁/V₂)^(γ−1) − 1]
 ```
 
-10:1 from 293 K → **~736 K** (~463 °C), above cellulose char. 1 L / 10:1 → **W ≈ 383 J** (~38 mana at ημ 1). Flameless tinder / lamp / powder ignition. Ember pays heat **at the fuel**. Fire Piston pays **compression work** on a gas pocket.
+10:1 from 293 K → **~736 K** (~463 °C), above cellulose char. 1 L / 10:1 → **W ≈ 383 J** (~38 mana at ημ 1). Flameless tinder / lamp / powder ignition. Heat pays heat **at the fuel**. Fire Piston pays **compression work** on a gas pocket.
 
 ### Frost Breath (adiabatic expansion)
 

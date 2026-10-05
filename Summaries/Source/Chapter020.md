@@ -5,7 +5,7 @@ Source dump: `References/Source/21-30.md` (catalog entry `# 22`).
 ## Time
 
 - Morning after Edelgard arrival (Ch 19).
-- ~**6 years** in world; ~half year adventuring behind him. Age ~11. Season: still autumn-cool mountain city (not restated).
+- ~**6 years** in world; ~half year adventuring behind him. Nearly 11. Season: still autumn-cool mountain city (not restated).
 
 ## Cast
 

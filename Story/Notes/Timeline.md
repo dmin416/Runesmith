@@ -4,7 +4,7 @@ Life clock from `Summaries/Source/`. Year 0 is the wake on the Arden estate (cha
 
 **Age = 5 + world years.** He is 10 at year 5, 15 at year 10, 22 at year 17.
 
-A day is 24 hours. The rewrite year is 12 months of 30 days, plus New Year's Day (361 days). Half a year in these skips is 6 months. Three months stays three months. Source summary chapter 24 still says 13 months. The rewrite chapter replaced that line.
+A day is 24 hours. A year is 12 months of 30 days, plus New Year's Day (361 days). Half a year in these skips is 6 months. Three months stays three months.
 
 ## Three-month skips
 
@@ -90,14 +90,14 @@ Chapter 27's "still 11" does not survive the estate skip of 3 months. He arrives
 
 | Ch | What the summary says | Age | Year |
 |---|---|---|---|
-| 20 | Morning after the train. Half a year of adventuring behind him. Autumn-cool. **Off:** written as 6 years and age ~11. Same day as chapter 21 | 10 and 9 months | 5 years 9 months |
+| 20 | Morning after the train. Half a year of adventuring behind him. Autumn-cool. Nearly 11. **Off:** the summary still says about 6 years. Same day as chapter 21 | 10 and 9 months | 5 years 9 months |
 | 21 | Same day, fifth shop by sunset. **Not yet 11.** This line is the arrival age | 10 and 9 months | 5 years 9 months |
 | 22 | About half a year after the chapter 21 decision. Age still about 11. Party gold lasted that half year of materials, not 10 months | 11 and 3 months | 6 years 3 months |
 | 23 | **Timeskip: another 3 months.** Total about 9 months of Edelgard grind since arrival. Age still about 11. Then the forest and Helci | 11 and 6 months | 6 years 6 months |
-| 24 | Helci is past 16. Church until 14, then 2 years of work, then the stone. Rewrite calendar, stated in this chapter: 24-hour days, 12 months of 30 days, plus New Year's Day. Source summary still says 13 months | — | 6 years 6 months |
+| 24 | Helci is past 16. Church until 14, then 2 years of work, then the stone. Calendar: 24-hour days, 12 months of 30 days, plus New Year's Day | — | 6 years 6 months |
 | 25 | Half a year or more since the first Emporium visit. This is the chapter 22–23 stretch, not a new half year. Contract offered at 3 years (the rejected one was 6) | 11 and 6 months | 6 years 6 months |
 | 26 | Signs. Still 11. First combo in about a week | 11 and 6 months | 6 years 6 months |
-| 27 | Another 6 months. **Off:** written as still 11. He has been in Edelgard 1 year 3 months (9 months, then these 6). The running total is 12 and 0 months. The Emporium contract, signed at 11 and 6 months, is only about 6 months old here. Departs for the mine in 2 days. Carwen party was 1 year 3 months ago. Contract leave is weekends plus 25 days a year | 12 and 0 months | 7 years |
+| 27 | Another 6 months. Age 12. He has been in Edelgard 1 year 3 months (9 months, then these 6). The Emporium contract, signed at 11 and 6 months, is only about 6 months old here. Departs for the mine in 2 days. Carwen party was 1 year 3 months ago. Contract leave is weekends plus 25 days a year | 12 and 0 months | 7 years |
 | 28 | Helci: months after the forest, then about 4 months with a caravan, still Scout L10. Those months sit inside the 6 since chapter 23, not after the mine. Carriage about 2 days | 12 and 0 months | 7 years |
 | 30–32 | Mine entry the same afternoon. Edelgard to the mine is about 2 days. A real rescue would be about a week | 12 and 0 months | 7 years |
 | 33 | Return from the mine, a few days after chapter 27. **Off:** "about 1 year into the contract approaching." He has been under contract about 6 months. The 1-year mark is still about 6 months ahead. A few months of scrolls from Blacksmith | 12 and 0 months | 7 years |
@@ -108,11 +108,11 @@ Chapter 27's "still 11" does not survive the estate skip of 3 months. He arrives
 | 41 | Has worked for Exeor more than 1 year. Chilly night. That is the contract, not the city. At chapter 27 the contract was about 6 months old. At this summer it is about 11 months, so the line is about 1 month early if this is the same week as the warehouse | 12 and 5 months | 7 years 5 months |
 | 42 | Contract extended 1 year. Border heir is 2–3 years out | 12 and 5 months | 7 years 5 months |
 | 43 | Helci starts. A few months after Manstos, from her side | 12 and 5 months | 7 years 5 months |
-| 46 | Quiet months, then a montage the summary calls about 1 year 6 months. **Off.** From this summer, age 12 and 5 months, to the winter of year 10 is about 2 years 7 months | 12 and 5 months, landing at 15 | 7 years 5 months → 10 years |
-| 47 | About 1 year 6 months to 2 years as a blacksmith since the workshop. Helci left about 2 months ago. 183 cm. Winter. **Off on the length.** Workshop was age 12 and 5 months. This night is age 15. That is about 2 years 7 months, not 1 year 6 months to 2 years | 15 | 10 years |
+| 46 | Quiet months, then a montage of 2 years 7 months. From this summer, age 12 and 5 months, to the winter of year 10 | 12 and 5 months, landing at 15 | 7 years 5 months → 10 years |
+| 47 | 2 years 7 months as a blacksmith since the workshop. Helci left about 2 months ago. 183 cm. Winter | 15 | 10 years |
 | 48 | Windy winter night into dawn. About 10 years in this world. This is the lock for the end of Edelgard | 15 | 10 |
-| 50 | Council, same cold night as the departure arc. Count's eldest is about 6 months from the border. **Off:** "about 1 year 6 months after the mine and thieves." The mine is his 12th year (3 years before this night). The thieves are 5 months after the mine. From that thieves night to this one is 2 years 7 months | 15 | 10 years |
-| 55 | Leaves by train. Dungeon on the island formed a couple of months ago. Louis has a couple of months before Armand returns. **Off:** written as about 9 years | 15 | 10 |
+| 50 | Council, same cold night as the departure arc. Count's eldest is about 6 months from the border. 3 years after the mine. 2 years 7 months after the thieves | 15 | 10 years |
+| 55 | Leaves by train. Dungeon on the island formed a couple of months ago. Louis has a couple of months before Armand returns. 10 years in this world | 15 | 10 |
 
 Edelgard is about **4 years 3 months** (5 years 9 months in this world, through 10 years). Age 10 and 9 months to 15.
 
@@ -166,7 +166,7 @@ Island year 0 = world year 10 = age 15.
 | 163 | Mirror: 15 or 16 years in this world. About 3 years of research made the golem. From age 17 (year 12) those 3 years land on year 15, age 20. The "or 16" is the high side, age 21. Do not add the 3 years on top of 15–16 | 20–21 | 15–16 | 5–6 |
 | 164 | Same soft multi-year landing. L116 | 20–21 | 15–16 | 5–6 |
 | 171 | Lobelia has been rising for 3 years. Same 3-year window | 20–21 | 15–16 | 5–6 |
-| 176 | **Off:** about 4 years in Albrook. This chapter is after the mirror, so the stay is 5 or 6 years. Lucienne is at the academy. Robert is on an army track | 20–21 | 15–16 | 5–6 |
+| 176 | 5 or 6 years in Albrook. Lucienne is at the academy. Robert is on an army track | 20–21 | 15–16 | 5–6 |
 | 178 | Orphanage has about 3 months to vacate | 20–21 | 15–16 | 5–6 |
 | 191 | About 15 years since Earth. Low end of the mirror. Family faces have gone blurry. No stated skip between 176 and here, so this stays on that same 15 | ~20 | ~15 | ~5 |
 
@@ -186,7 +186,7 @@ These years happen inside trials. Real time outside is seconds, or a stopped clo
 
 ## From the mirror to Lucienne at 15
 
-Chapter 409 is on the airship, before he finds her. The summary says 11–12 years in this world. The mirror was already 15 or 16. Her class is about 15 (chapter 434). She was turning 3 when he was 10, so he is **22**, world year **17**, about **7 years** on the island.
+Chapter 409 is on the airship, before he finds her. About 17 years in this world, age 22. Her class is about 15 (chapter 434). She was turning 3 when he was 10, so that is world year **17**, about **7 years** on the island.
 
 | Ch | What the summary says | Age | Year | Island |
 |---|---|---|---|---|
@@ -200,7 +200,7 @@ Chapter 409 is on the airship, before he finds her. The summary says 11–12 yea
 | 328 | Less than 1 week since Tier 3 | ~21 | ~16 | ~6 |
 | 340 | About 3 weeks since the duel | ~21 | ~16 | ~6 |
 | 405–406 | Weeks overland, or an airship from Isgard. He hopes for a month or two of research. Arthur allows months away | ~22 | ~17 | ~7 |
-| 409 | Airship. **Off:** 11–12 years in this world | 22 | 17 | 7 |
+| 409 | Airship. About 17 years in this world, age 22 | 22 | 17 | 7 |
 | 410 | Still about 1 day and 12 hours of escort after Clawridge | 22 | 17 | 7 |
 | 419 | Finds Lucienne in the medical wing | 22 | 17 | 7 |
 | 434 | About 2 weeks since he reached the Institute. Freshman class about 15. Lucienne is Mage L15. Class trip moved up to about 3 days | 22 | 17 | 7 |
@@ -235,18 +235,10 @@ Add these on top of world year 17. They are gaps between events, not a new total
 
 Each line is a summary, or a rewrite note that copies one. The right-hand number is the clock above.
 
-1. **Summary chapter 20, and `Notes.md` at the Edelgard morning.** Written as about 6 years in this world and age about 11. He left the estate 3 months after turning 10, then spent half a year in Carwen. Arrival is **age 10 and 9 months, 5 years 9 months** in this world. Chapter 21, the same day, says he is not yet 11.
+1. **Summary chapter 20, and `Notes.md` at the Edelgard morning.** Written as about 6 years in this world. Arrival is **5 years 9 months**, nearly 11. Chapter 21, the same day, says he is not yet 11.
 2. **`Notes.md` at the Iron Flagon.** Written as about 6 years in this world. That night is the end of Carwen. **5 years 9 months, age 10 and 9 months.**
-3. **Summary chapter 27.** Written as still 11 after more than a year in Edelgard. Count the 3 months on the estate. He arrived at 10 and 9 months. Nine months of craft, then another 6, is his **12th** year.
-4. **Summary chapter 46, and `Notes.md` chapter 47 ("about 1 year 6 months later").** The montage is not 1 year 6 months. Warehouse summer is age 12 and 5 months. The landing is age 15, about 10 years in this world. That is **about 2 years 7 months**.
-5. **Summary chapter 47.** "About 1 year 6 months to 2 years as a blacksmith since the workshop" is short. Same span as the row above: **about 2 years 7 months**.
-6. **Summary chapter 50.** "About 1 year 6 months after the mine and thieves" cannot sit in the same week as chapter 48. From the mine to this night is **3 years**. From the thieves, 5 months after the mine, it is **2 years 7 months**.
-7. **Summary chapter 33.** "About 1 year into the contract" on the ride home from the mine. He signed, then the chapter 27 skip of 6 months, then a trip of days. He is **about 6 months** in. The 1-year mark is about a month after the warehouse summer, not this carriage.
-8. **Summary chapter 55.** Departure is written as about 9 years. Chapter 48, days or weeks earlier in the same departure, is about 10. He is **15, world year 10**. The 9-year line is a year low.
-9. **Summary chapter 82.** First party "about 5 years" ago. He met them at 10 and 6 months and he is just past 16. **About 5 years 6 months.** The "10 or more years in this world" on that same line is fine. Year 11 is more than 10.
-10. **Summary chapter 112.** Robert last seen "about 6 or more years" ago. Departure was at 10 and 3 months, and this is just past 16. **About 5 years 9 months.**
-11. **Summary chapter 134.** The assassin is "about 6 years" ago. Carwen ended at age 10 and 9 months, and this talk is age 17. **About 6 years 3 months.**
-12. **Summary chapter 176.** About 4 years in Albrook. Chapter 163 already put him at 15 or 16 years in this world, which is 5 or 6 years on the island, and 176 is after that. **5 or 6 years in Albrook.**
-13. **Summary chapter 409.** About 11–12 years in this world. The mirror was already 15 or 16, and Lucienne's class of about 15 puts him at 22. **About 17 years in this world, age 22, about 7 years on the island.**
-14. **`Outline.md` opening.** He does not wake as a ten-year-old. He wakes at **5**. Ten is the ascension. He leaves **3 months** after that. The goblin at nine and the Mage at ten, later in that same paragraph, are already right.
-15. **Source summary chapter 24.** The year is written as 13 months. The rewrite of that same night says 12 months of 30 days, plus New Year's Day. The clock above uses the rewrite year, so half a year is 6 months.
+3. **Summary chapter 33.** "About 1 year into the contract" on the ride home from the mine. He signed, then the chapter 27 skip of 6 months, then a trip of days. He is **about 6 months** in. The 1-year mark is about a month after the warehouse summer, not this carriage.
+4. **Summary chapter 82.** First party "about 5 years" ago. He met them at 10 and 6 months and he is just past 16. **About 5 years 6 months.** The "10 or more years in this world" on that same line is fine. Year 11 is more than 10.
+5. **Summary chapter 112.** Robert last seen "about 6 or more years" ago. Departure was at 10 and 3 months, and this is just past 16. **About 5 years 9 months.**
+6. **Summary chapter 134.** The assassin is "about 6 years" ago. Carwen ended at age 10 and 9 months, and this talk is age 17. **About 6 years 3 months.**
+7. **`Outline.md` opening.** He does not wake as a ten-year-old. He wakes at **5**. Ten is the ascension. He leaves **3 months** after that. The goblin at nine and the Mage at ten, later in that same paragraph, are already right.

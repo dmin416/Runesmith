@@ -34,7 +34,7 @@ Dreux = Count house. Aristocrats vs royalists. Roland glad out of succession.
 ## People remembered / parting
 
 - Marlo → capital (Exeor HQ); Helci → other dungeon city; elven gnome assistant; three expedition guys (unseen since).
-- ~9 years in world; loner path.
+- 10 years in world; loner path.
 
 ## Identity reset
 

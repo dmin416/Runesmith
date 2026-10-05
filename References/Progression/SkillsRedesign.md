@@ -88,8 +88,8 @@ World law: **Basic X** maxes at L9 → evolves to non-Basic form. Chapter 7 alre
 ### Mana Bolt (Spell)
 **Change:** Spells also L1–L9 then evolve (Mana Bolt → Mana Arrow is already that pattern; keep). Damage and cast cost scale clearly. Prefer evolving along ranged tree: Bolt → Arrow → Pierce / Volley forms.
 
-### Mana Arrow / Mana Shield / Ember / Mana Hands (Ch 10)
-**Change:** Each needs a job. Arrow: anti-armor speed. Shield: HP absorb number. Ember: utility ignite / Mass Boost primer. Hands: reload, brace launcher, carry ammo. No dead spells on the sheet.
+### Mana Arrow / Mana Shield / Heat / Mana Hands (Ch 10)
+**Change:** Each needs a job. Arrow: anti-armor speed. Shield: HP absorb number. Heat: utility ignite / Mass Boost primer. Hands: reload, brace launcher, carry ammo. No dead spells on the sheet.
 
 ---
 

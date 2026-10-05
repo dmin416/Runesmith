@@ -4,7 +4,7 @@ Source dump: `References/Source/41-50.md` (catalog entry `# 48`).
 
 ## Time
 
-- Night courier delivery (timeless cursed forest weeks compressed); next dawn Roland finishes sword; Helci distraction heist same day; montage to **~1.5 years** later.
+- Night courier delivery (timeless cursed forest weeks compressed); next dawn Roland finishes sword; Helci distraction heist same day; montage to **2 years 7 months** later.
 - Season: night forest / moons frozen in curse.
 
 ## Abyss cult subplot
@@ -21,7 +21,7 @@ Source dump: `References/Source/41-50.md` (catalog entry `# 48`).
 - Second shop borrow for **Mana Slash**: crowded case; Helci Solaria-zealot distraction + tackle + song → ejected; enough memory + notes.
 - Lends her interim steel sword; promises Mana Slash in ~week.
 - Boss lets him drop scroll grind for runic swords (more profit).
-- Cliff: quiet months until **1.5 year** mark changes.
+- Cliff: quiet months until the **2 years 7 months** mark.
 
 ## Major plot points
 

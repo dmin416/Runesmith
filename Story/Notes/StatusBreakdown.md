@@ -87,7 +87,7 @@ Redesign: Running → Endurance. Sprint → Vitality (+ Endurance). Hand to Hand
 | Reading Proficiency | INT, WILL | 9 | INT +9, WILL +9 | 9 | INT +9, WILL +9 |
 | Mana Sense | INT, WILL | 9 | INT +9, WILL +9 | 9 | INT +9, WILL +9 |
 
-Identify: no attribute line. Basic Mana Shaping → Int +2 / Will +1 per level. Basic Mana Regulation → Int +1 / Will +2 per level. Basic Incantation → Int +1 / Will +1 per level. **Mana Absorption** → Int +1 / Will +2 per level (Will-heavy recover grind). **Mana Reinforcement** → Int +1 / Will +1 per level (same as Incantation) plus the % max-MP → base-stats while active. Spells (Bolt / Arrow / Shield / Ember / Hands) → **no** attribute pads.
+Identify: no attribute line. Basic Mana Shaping → Int +2 / Will +1 per level. Basic Mana Regulation → Int +1 / Will +2 per level. Basic Incantation → Int +1 / Will +1 per level. **Mana Absorption** → Int +1 / Will +2 per level (Will-heavy recover grind). **Mana Reinforcement** → Int +1 / Will +1 per level (same as Incantation) plus the % max-MP → base-stats while active. Spells (Bolt / Arrow / Shield / Heat / Hands) → **no** attribute pads.
 
 Leather reaches **L9 by age 10** (daily armor wear on the drill loop; was L6).
 
@@ -209,7 +209,7 @@ Combat math: `Levels.md` field-use curve; table in `Skills.md` Ch 9.5. **L9 hard
 | Mana Absorption | — | **L9** | constant pull as mana is spent (combat) |
 | Mana Reinforcement | — | **L9** | held while the pool is working (combat) |
 | Mana Bolt / Arrow / Shield | L1 / — / — | **L7 / L5 / L3** | combat casts |
-| Ember / Mana Hands | self | **L6 / L5** | evenings + light field use |
+| Heat / Mana Hands | self | **L6 / L5** | evenings + light field use |
 | Basic Dodging | — | **L6** | live clears vs clubs/spears/rocks |
 | Reading / Mana Sense | L9 | L9 | unchanged |
 

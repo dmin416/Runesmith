@@ -11,7 +11,7 @@ Source dump: `References/Source/31-40.md` (catalog entry `# 31`).
 
 | Name | Role |
 |---|---|
-| **Roland** | Ember campfire; first watch with Helci; Hush spell; light orb in mine |
+| **Roland** | Heat campfire; first watch with Helci; Hush spell; light orb in mine |
 | **Helci** | Short orange hair now; apologizes for forest; shares adventurer talk |
 | **Dalrak** | Drunk snoring; morning rolls onto Roland; prefers “robust dwarven women” |
 | **Orson** | Snores; contemplates dwarf wives; frontline swagger |

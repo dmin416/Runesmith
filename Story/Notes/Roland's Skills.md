@@ -48,7 +48,7 @@ Age-10 technique targets: see `Progression.md` / Ch 7 note in `Skills.md`. Chapt
 28. Basic Dodging – Ch 9.5 month 1 – unlocks on purposeful clear vs clubs/spears; Agility +level; **L6** by end of skip. Ch 13: **Basic L9** then evolve → **Dodging**. Ch 14: **Dodging L7** mid-chase.
 29. Mana Arrow (Spell) – Ch 9.5 late month 1 – Mage class grant
 30. Mana Shield (Spell) – Ch 9.5 month 2 – Mage class grant
-31. Ember (Spell) – Ch 9.5 – self-discovered evening drills (cook-pot spark); **L6** by end of skip; on-page Ch 10. Source used an Arden book
+31. Heat (Spell) – Ch 9.5 – self-discovered evening drills (cook-pot spark); **L6** by end of skip; on-page Ch 10. Source used an Arden book
 32. Mana Hands (Spell) – Ch 9.5 – self-discovered evening drills (mug lifts); **L5** by end of skip; on-page Ch 10. Trial weeks (Ch 11→12): idle waiting casts in dungeon → **L6**. Ch 12 cook (eight concurrent Hands) → at least **L7** (unnoticed). Ch 13 half-year → **L9**. Move objects with mana; visible hands optional. Source used an Arden book
 33. Mana Absorption – Ch 9.5 – self-taught ambient pull between hunts; **L9** by end of skip
 34. Mana Reinforcement – Ch 9.5 – self-taught body store from the same drills; **L9** by end; same skill as common dealer books (discovery takes longer). Source delayed to book Ch 54 / learn Ch 56 (rewrite: already owned; skip or reframe that purchase)
@@ -60,7 +60,7 @@ Age-10 technique targets: see `Progression.md` / Ch 7 note in `Skills.md`. Chapt
 37c. Sound Production – Ch 19 – free-placement mana + tongue clicks daily; **L1 → L9**; **Intelligence +1**, **Dexterity +1** per level
 37d. Echolocation – Ch 19 – Ned move / click-locate eyes closed daily + needle-in-flight catches; **L1 → L9**; **Willpower +1**, **Intelligence +1** per level; ladder in `Science/Sound.md`
 37e. Multitasking – Ch 12 cook **L1**; Ch 19 dual drills daily → **L8**; **Intelligence +1**, **Dexterity +1** per level
-37f. Train mana foundations – Ch 19 (both every day): Shaping **L6→L9**, Regulation **L7→L9**, Ember **L6→L9**; Hands / Absorption / Reinforcement / Sense stay **L9**; Incantation **L8**; Recovery **L5→L9**; Poison **L6→L7**; Throwing **L1→L2**. Full math: `Skills.md` Ch 19.
+37f. Train mana foundations – Ch 19 (both every day): Shaping **L6→L9**, Regulation **L7→L9**, Heat **L6→L9**; Hands / Absorption / Reinforcement / Sense stay **L9**; Incantation **L8**; Recovery **L5→L9**; Poison **L6→L7**; Throwing **L1→L2**. Full math: `Skills.md` Ch 19.
 38. Sleep Resistance – Ch 12 – climbs **L4 → L5** (**Vitality +1**, **Endurance +1** that tick)
 39. Poison Resistance – Ch 12 – Needle Worm blood / needle crunch; popup ignored; **L1**; daily Ned toxin seasoning through Ch 13–19 (~187 days) → **L6**; Ch 19 train tip-pricks → **L7**; **Vitality +1**, **Endurance +1** per level
 39a. Recovery – Ch 13 – daily Mana Hands skin poke + 150 mL bleed/knit to Ned; unlock **L1 → L5**; Ch 19 grill → **L9**; small-wound close time **−10%/level**; **Vitality +1**, **Endurance +1** per level; evolve → Rapid Recovery

@@ -139,7 +139,7 @@ Deduplicated Roland skills / spells. Max L and a source range where that high (o
 | Mana Arrow | 5 | `11-20` |
 | Mana Shield | 3 | `11-20` |
 | Mana Hands | 5 | `11-20` |
-| Ember | 6 | `11-20` |
+| Heat | 6 | `11-20` |
 
 ### Rune craft / scribe / smith
 
@@ -345,7 +345,7 @@ Attribute order is always: Strength, Agility, Dexterity, Vitality, Endurance, In
 ### Affinities
 
 - No numbered elemental affinity panel for Roland himself in the scanned dumps.
-- Prose: he starts as a mage **without elemental affinities** and uses friction Ember (`31-40`).
+- Prose: he starts as a mage **without elemental affinities** and uses friction Heat (`31-40`).
 - Rune affinity is referenced in play (debugging + rune affinity for traps) but not as a discrete affinity score on his status.
 - Blessed by Mana is the main mana-affinity-style trait.
 
