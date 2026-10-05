@@ -17,7 +17,7 @@ Named rune catalog and chapter first-seens. Character skills that manipulate run
 | `ManaMaterials.md` | Path material modes (design; Metals naming wins; path-% quarantined) |
 | `RuneCraftScrapes.md` | Chapter LOOK/MAKE scrape |
 | `ScrollCraftScrapes.md` | Word vs runic scroll craft scrape |
-| `ScrollEconomy.md` | Shop SKUs, fair bands, Libra / Exeor contracts |
+| `ScrollEconomy.md` | Shop SKUs, fair bands, Libra / Grimboodle contracts |
 | `ChainMailCollaborative.md` | Shirt-wide rice-stone pool research note |
 
 **Rewrite note:** Binary-circuit identity is dropped. Diagnosis colors map to leaks and discord. Do not re-import Old path-% tables. Mana motion is narrative per-host feel; heat away is scientific. Street all-15 pool example lives in `EnergyDesign.md` / `../Progression/Attributes.md` formulas.

@@ -10,7 +10,7 @@ Labor-days / steam-era fair bands: `../World/Society/EconomyDesign.md`. Historic
 |---|---|---|
 | Cheap / peasant sword (1340s) | 6d | **30 LC** |
 | Iron knife or hand axe (fair Caldris) | steam-made | **1–3 SS** |
-| Plain steel sword, working (fair Caldris) | steam-made | **1–3 LS** |
+| Plain steel sword, working (fair Caldris) | steam-made / Lock | **1–4 LS** |
 | Working sword, decent quality (historical span) | 6s-£2 | 360-2,400 LC |
 | Fine sword | up to 100s (£5) | up to 6,000 LC |
 | Exceptional/masterwork sword | £5+ | 6,000+ LC |
@@ -18,18 +18,20 @@ Labor-days / steam-era fair bands: `../World/Society/EconomyDesign.md`. Historic
 | Dagger (estimate, unsourced) | ~2-5s | 120-300 LC |
 | Morion (open helmet) | 3s 4d | 200 LC |
 | Burgonet (helmet) | 4s | 240 LC |
-| Bascinet, with lining | 13s 4d + 3s 4d | 1,000 LC |
-| Normal cuirass with pauldrons | 26s 8d | 1,600 LC |
-| Complete corselet | 30s | 1,800 LC |
-| Target/shield of proof | 30s | 1,800 LC |
-| Cuirass of proof with pauldrons | 40s | 2,400 LC |
-| Complete lance armor (jousting harness) | £3 6s 8d | 4,000 LC |
-| Mail armor | 100s (£5) | 6,000 LC |
-| Squire's plate armor | £5-£6 16s 8d | 6,000-8,200 LC |
-| Full plate, common steel (fair Caldris, steam-cut) | labor-days method | **3–8 SG** |
-| Full plate armor, finest quality | £8 6s 8d | ~10,000 LC (1 LG) |
+| Bascinet, with lining | 13s 4d + 3s 4d | **1 SG** (Lock) |
+| Mail armor | 100s (£5) | **5–6 SG** (Lock) |
+| Squire's plate armor | £5-£6 16s 8d | 6,000-8,200 LC (**6–8 SG** Lock band) |
+| Full plate, common steel (fair Caldris) | Lock | **6–10 SG** |
+| Ready-made Milanese / top common | £8 6s 8d | **~10 SG** (Lock) |
+| Knight's full armor kit | £16 6s 8d | **15–20 SG** (Lock) |
+| Duke-grade / parade armor | Woodstock-scale | up to **~12 LG** (Lock) |
 | Star steel plate | conversion premium | **5–10×** common steel plate |
-| Total armor kit owned by a knight (full set, all pieces) | £16 6s 8d | ~19,600 LC (~2 LG) |
+| Mithril runic gear floor | Lock | **≥1 LG** (mithril minimum; not a ceiling on complex non-mithril work) |
+| Mage robe (enchanted) | Lock | **2–5 SG** |
+| Enchanted weapon / runic shield | Lock | **5–10 SG** |
+| Runic prosthetic | Lock | **10–30 SG** |
+| Runic carriage | Lock | **5–20 SG** |
+| Standard golem | Lock | **2–5 LG** (unique auction **~6×** build) |
 
 ### Mundane repairs (early adventurer kit)
 

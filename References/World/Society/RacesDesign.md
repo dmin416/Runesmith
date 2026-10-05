@@ -26,7 +26,7 @@ Tied to the Holy Kingdom of Alexandria and Solarian faith. Default elf Identify 
 
 ### Moon Elf
 First seen: Chapter 26 (rival talk); on-page true forms Chapter 34 / 39
-Homeland associated with Bolia (council of elders rather than a single monarch). Linked to Lunaria and Lunaris. Silvery-white hair is common; prose compares them to dark elves. Do not get along with Sun elves. Arthur’s mother and her household are moon elves; Aredhel and Logon also appear (Chapter 58–64: moon-elf slaves from caravan; Bolia Irithyl household; Golgrim Half-Orc ally; part ways after village rescue). Edelgard: Zilyana (Exeor attendant; Chapter 39 true form white hair, dark brown skin, silver eyes, shadow travel) and Ziron (Chapter 39; gold eyes, dual curved short swords, runic black leather; Chapter 52: moon-elf male fights Abyssal Warlock outside Exeor).
+Homeland associated with Bolia (council of elders rather than a single monarch). Linked to Lunaria and Lunaris. Silvery-white hair is common; prose compares them to dark elves. Do not get along with Sun elves. Arthur’s mother and her household are moon elves; Aredhel and Logon also appear (Chapter 58–64: moon-elf slaves from caravan; Bolia Irithyl household; Golgrim Half-Orc ally; part ways after village rescue). Edelgard: Zilyana (Grimboodle attendant; Chapter 39 true form white hair, dark brown skin, silver eyes, shadow travel) and Ziron (Chapter 39; gold eyes, dual curved short swords, runic black leather; Chapter 52: moon-elf male fights Abyssal Warlock outside Grimboodle).
 
 ### Half-Elf
 First seen: Chapter 100

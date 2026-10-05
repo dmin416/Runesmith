@@ -8,14 +8,20 @@ Labor-days method: `../World/Society/EconomyDesign.md` (unskilled mid **~7.5 LC/
 
 | Item | Historical price | LC value |
 |---|---|---|
-| Loaf of bread (fair) | staple | **1 LC** |
-| Mug of ale (fair) | staple | **1–2 LC** |
+| Loaf of bread (fair) | rewrite lock | **1–2 LC** |
+| Mug of ale (fair) | rewrite lock | **1 LC** (tavern **2 LC**) |
 | Home loaf / porridge day (1 person) | below inn | **1–3 LC** |
 | Inn meal (porridge + jerky) | rewrite lock | **5 LC** |
 | Breakfast add-on | rewrite lock | **+5 LC** |
 | Forest lunch jerky (per stick) | rewrite lock | **~2 LC** |
-| Chicken (live / table bird) | ~1–2d | **5–10 LC** |
-| Ale (gallon) | ~1d | 5 LC |
+| Chicken (live / table bird) | rewrite lock | **3–5 LC** |
+| Goose | rewrite lock | **30 LC** |
+| Eggs | rewrite lock | **1 LC per 5** |
+| Cheese | rewrite lock | **2–3 LC / lb** |
+| Spices (common) | rewrite lock | **6–18 SS / lb** |
+| Saffron | rewrite lock | **7–9 LS / lb** |
+| Ale (gallon, medium) | ~1d | **5 LC** |
+| Ale (gallon, good) | rewrite lock | **7–8 LC** |
 | Wine, cheap (gallon) | ~4d | 20 LC |
 | Wine, good (gallon) | ~8d | 40 LC |
 | Fortified / ~40 proof (20% ABV), gallon | ~1.5× cheap wine | **~30 LC** |
@@ -26,8 +32,8 @@ Labor-days method: `../World/Society/EconomyDesign.md` (unskilled mid **~7.5 LC/
 | Tavern dram / shot (~30-40 ml poor spirit) | impulse pour | **3-5 LC** |
 | Tavern double / small glass | two shots neat | **6-8 LC** |
 | Quart bottle (~1 L) poor spirit | takeaway jug | **15-25 LC** |
-| Cheese (2 lb) | 1d | 5 LC |
-| Eggs (2 dozen) | 1d | 5 LC |
+| Cheese (2 lb) | 1d | 5 LC (Lock **2–3 LC/lb**) |
+| Eggs (2 dozen) | 1d | 5 LC (Lock **1 LC per 5**) |
 
 Live animals are under §14. Cloth and candles are under §12 / §22.
 
@@ -49,3 +55,11 @@ Live animals are under §14. Cloth and candles are under §12 / §22.
 | Tavern dram / shot (poor spirit, ~80 proof) | **3-5 LC** |
 | Gallon poor spirit / tavern rotgut | **50-70 LC** |
 | Gallon better distillate / aged brandy | **1-2 LS** |
+| Chicken / fowl | **3–5 LC** |
+| Loaf of bread | **1–2 LC** |
+| Ale, good (gallon) | **7–8 LC** |
+| Goose | **30 LC** |
+| Eggs | **1 LC per 5** |
+| Cheese | **2–3 LC / lb** |
+| Spices (common) | **6–18 SS / lb** |
+| Saffron | **7–9 LS / lb** |

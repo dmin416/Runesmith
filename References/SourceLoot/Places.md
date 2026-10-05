@@ -42,7 +42,7 @@ Inventory from `../Source/`. Index only.
 - Edelgard - craft city / first 11-20.
 - Emberpeak - volcano near Isgard / first 401-410.
 - Emerald Wilderness - Carwen Dungeon first level / first 11-20.
-- Exeor's Magic Emporium - shop (also Exeter's typo, Exeor's Emporium) / first 21-30.
+- Grimboodle's Magic Emporium - rewrite Edelgard magic shop / first 21-30. (Old Source scrap used a different brand name.)
 - Farbell - magical town near institute / first 411-420.
 - Flord - dungeon exploration city / first 201-210.
 - Foxian Palace - named entertainment house / first 371-380.

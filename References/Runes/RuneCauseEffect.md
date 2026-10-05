@@ -124,7 +124,7 @@ Rewrite default: he buys **study samples early** and strips them. Brand income c
 |---|---|
 | Frost and Gale converters; shared arrow body confirmed | Frost Arrow, Gale Arrow, chill tools, push/gust tools |
 | Side-by-side elemental arrows | Deliberate grafts: Smoke (turbulence), seeking fire, frostfire attempts (may fault until rank allows) |
-| More scroll SKUs | Quota / politics with Exeor; keeps Highest boards hidden |
+| More scroll SKUs | Quota / politics with Grimboodle; keeps Highest boards hidden |
 
 ### Mine / field (whenever samples + need)
 

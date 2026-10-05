@@ -37,7 +37,7 @@ Passive. Increased proficiency in assuming roles and controlling expression. +Ch
 
 ### Identify
 First seen: Chapter 2
-Passive. Identifies names and basic properties of the world. Chapter 9: levels from reading and general knowledge (Roland finds the link odd). Chapter 15: still cannot peek other people's stats. Chapter 25: high Identify (Exeor manager) can read class and level off a person unless a status-hide enchantment blocks it. Chapter 26: Roland's Identify on Zilyana returns only **Sun Elf**.
+Passive. Identifies names and basic properties of the world. Chapter 9: levels from reading and general knowledge (Roland finds the link odd). Chapter 15: still cannot peek other people's stats. Chapter 25: high Identify (Grimboodle manager) can read class and level off a person unless a status-hide enchantment blocks it. Chapter 26: Roland's Identify on Zilyana returns only **Sun Elf**.
 
 ### Analyze / High Analyze
 First seen: Chapter 2

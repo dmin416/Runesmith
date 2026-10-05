@@ -1,7 +1,7 @@
 # Economy Design
 
-> **Design loot / price book.** Lean lock: `Economy.md`. Cores: `../Materials/MonsterCores.md`.
-> Domain books: food `../../Food/FoodPrices.md`; gear `../../Combat/GearPrices.md`; scrolls `../../Runes/ScrollEconomy.md`; bags `SpatialBagPrices.md`; story ledger/prices `../../../Story/Notes/CoinLedger.md` + `StoryPrices.md`.
+> **Design loot / price book.** Lean lock: `Economy.md`. **Approved item list:** `PriceCatalog.md`. **History vs Recommended (promotion queue):** `ValueReference.md`. Cores: `../Materials/MonsterCores.md`.
+> Domain books: food `../../Food/FoodPrices.md`; gear `../../Combat/GearPrices.md`; scrolls `../../Runes/ScrollEconomy.md`; bags `SpatialBagPrices.md`; story chronology `../../../Story/Notes/StoryPrices.md`; early ledger `../../../Story/Notes/CoinLedger.md`.
 
 ## Rewrite price lock
 
@@ -18,11 +18,14 @@ Use these rewrite anchors first. Prefer them over older Source-era numbers when 
 | Inn dinner (porridge + meat) | **5 LC** |
 | Forest lunch jerky | **~2 LC**/stick (Ch 9.5: **3** bought; other lunches = goblin prey) |
 | Thick wool cloak (nice-ish, mattress/comforter) | **300 LC** |
-| Lodging / night | **1 SS** |
+| Shared inn bed / night | **5 LC** |
+| Lodging / night (private room) | **1 SS** (≈ **2×** shared) |
 | Singing Crow / night (Edelgard) | **14 LC** (a bit above Carwen; not 2x) |
 | Solaria station tip (Edelgard, Ch 19) | **1 SS** |
-| Monthly lodging (10% off, **30** nights) | **270 LC** |
+| Monthly lodging (10% off, **30** nights) | **270 LC** (private-room rate) |
 | Better inn / night | **2 SS** |
+| Kitchen servant / maid | **1–2 SS / month + board** |
+| Head-Knight wage | **2–4 SG / month** peacetime; **~7 SG / month** on campaign |
 | Tavern: 3 half-gallon pitchers (weak spirits, ~40 proof) | **~45 LC** |
 | Tavern share (Roland, 1/3 of round) | **15 LC** |
 | Tavern first round (Roland pays all 3, Ch 12) | **45 LC** |
@@ -31,10 +34,14 @@ Use these rewrite anchors first. Prefer them over older Source-era numbers when 
 | Gallon poor spirit / tavern rotgut | **50-70 LC** |
 | Gallon better distillate / aged brandy | **1-2 LS** |
 | Run-down farm / workshop plot | **~30 SG** |
-| Ship passage (one-way, below deck) | **5 LS** |
+| Ship passage, coastal hop (one-way, below deck) | **3–5 LS**; Albrook Ch 65 = **5 LS**; grub extra |
+| Ship passage, long voyage with meals | **2–5 SG** |
 | Family living reserve (**100 SG**) | **~25-30 years** tax+food |
 | Leather armor (new, basic) | **~300 LC (3 LS)** |
-| Cheap shortsword (new, floor) | **~30 LC**; working blade **~360 LC+** |
+| Cheap shortsword (new, floor) | **~30 LC**; working blade **1–4 LS** (good shop / upcharge can sit near **~360 LC+**) |
+| Full plate (common steel) | **6–10 SG** |
+| Knight's full armor kit | **15–20 SG** |
+| Duke-grade / parade armor | up to **~12 LG** |
 | Mundane leather patch / stitch | **15-40 LC** |
 | Mundane sword sharpen + light chips | **20-50 LC** |
 | Mundane both, light smith/tanner visit | **~40-80 LC** |
@@ -42,8 +49,88 @@ Use these rewrite anchors first. Prefer them over older Source-era numbers when 
 | Runic weapon / armor repair (simple) | **~3 LS** |
 | Crystal ball | **4 SG / 8 SG** |
 | Black market purchase (reference) | **2 SG** |
+| Chicken / fowl | **3–5 LC** |
+| Sheep | **6–8 SS** (tamed-monster farm discount) |
+| Cow | **5–6 LS** |
+| Ox | **7–8 LS** |
+| Cheap trained mount | **2–5 SG** |
+| War horse | **5–20 SG**; elite / destrier up to **~10 LG** |
+| Plain wool clothes (full set) | **4–8 SS** |
+| Heavy fulled or dyed outfit | **2–3 LS** |
+| Cottage purchase | **2–3 SG** |
+| Craftsman's / modest town house | **10–20 SG** |
+| Foot guard (archer grade) | **15 LC / day** |
+| Mounted guard | **30 LC / day** |
+| Armored guard (man-at-arms) | **60 LC / day** |
+| Knight on campaign | **120 LC / day** |
+| Master carpenter | **15–20 LC / day** |
+| Master mason | **20 LC / day** |
+| Knight's riding horse | **5–6 SG** |
+| High-grade riding / show horse | **10–12 SG** (≈1 LG) |
+| Craftsman's house rent | **1 LS / month** (**1 SG 2 LS / year**) |
+| Merchant's house rent | **2.4–3.6 SG / year** |
+| Merchant's house purchase | **40–80 SG** |
+| Shoes | **3 SS** |
+| Boots | **5 SS–1 LS** |
+| Plain handwritten book | **3–6 LS** |
+| University board | **~6 SG / year** |
+| Ordinary knight ransom | **100–200 SG** |
+| Elite knight ransom | **~500 SG** |
+| Knight Commander ransom | **~1,000 SG** |
+| Peasant dowry | **1–4 SG** |
+| Gentry / esquire's daughter dowry | **~80 SG** |
+| Loaf of bread | **1–2 LC** |
+| Ale, good (gallon) | **7–8 LC** |
+| Goose | **30 LC** |
+| Eggs | **1 LC per 5** |
+| Cheese | **2–3 LC / lb** |
+| Spices (common) | **6–18 SS / lb** |
+| Saffron | **7–9 LS / lb** |
+| Pig | **1.2–1.8 LS** |
+| Draught / cart horse | **6–12 LS** |
+| Horse fodder | **5–8 LC / horse / day** |
+| Helmet (bascinet, with lining) | **1 SG** |
+| Mail shirt | **5–6 SG** |
+| Ready-made plate suit (Milanese-grade common) | **10 SG** |
+| Linen undershirt | **4 SS** |
+| Fur-lined garment | **4 LS** |
+| Best wool cloth | **3 LS / yard** |
+| Fashionable noble gown | **12–60 SG** |
+| Squire wage | **7–10 SS / month + keep** |
+| Page / boy servant | **5 LC–3 SS / month + board** |
+| Chantry priest | **~5–6 SG / year** |
+| Cottage rent | **3 LS / year** |
+| Illuminated / reference book | **1–5 SG** |
+| Book section rental (pecia) | **3–5 LC** |
+| Gold ring with ruby | **~1.5 SG** |
+| Gold ring with diamond | **~9 SG** |
+| Voyage bedding | **5–6 LS** (resells ~half) |
+| Healing potion, Low / Mid / High / Greater | **2–5 SS** / **1–2 LS** / **5–10 LS** / **1–3 SG** |
+| Hangover potion | **8–15 LC** |
+| Guild mana potion (employee rate) | **2–4 SS** |
+| Porter / clerk | **8–12 LC / day** / **10–15 LC / day** |
+| T3 barrier mage / T4 cleric / Platinum party | **4–6 LS / day** / **1–2 SG / day** / **1–3 SG / day** |
+| Regional map / horse rental | **3–5 SS** / **1–2 SS / day** |
+| Airship / teleport gate ticket / old gate activation | **2–5 SG** / **5 LS–2 SG** per person / **1–5 SG** per activation |
+| Skill book T1 / T2 / T3 | **2–5 SG** / **10–25 SG** / **50–100 SG** |
+| Church services | **≈9×** engine casting labor |
+| Scar-concealment / curing miracle / limb regen / divine elixir | **2–5 SG** / **9–30 SG** / **15–30 SG** / **30–100 SG** |
+| Mage robe / enchanted weapon or shield | **2–5 SG** / **5–10 SG** |
+| Runic prosthetic / runic carriage | **10–30 SG** / **5–20 SG** |
+| Standard golem | **2–5 LG** (unique auction **~6×** build) |
+| Stall protection fee | **2–5 SS / week** |
+
+**Bare "gold":** when Source or prose says a number of gold coins without small/large, read **SG** unless large gold / LG is stated.
+
+**Mithril floor:** runic mithril gear **≥1 LG** is a **mithril minimum**, not a ceiling on complex non-mithril enchanted work. A runic prosthetic or carriage can sit above **10 SG** because of crafting complexity.
 
 **Merchant upcharge:** listed prices are fair-town / known-customer rates. Any greedy merchant, guild stall, or dungeon-gate seller can mark up (especially vs outsiders, kids, or people in damaged gear). **+25% to 2x** is common; worse gouging happens when the buyer has no other smith in town. Haggle, walk away, or use a known shop.
+
+**Haggle / resale / auction (locked ratios):**
+- Haggle off ask: about **20–25%** (crystal ball, Bleed Hex sword)
+- Used / second-hand magic goods: about **0.5–0.6×** fair market (spatial bags ~0.6×)
+- Unique custom item at auction: about **~6×** build floor (spider golem **>2 LG** → **12 LG**)
+
 
 Peg constant: **5 large copper (LC) = 1 historical penny (d)**
 
@@ -80,37 +167,74 @@ Working at unskilled mid **~7.5 LC/day**:
 
 | Item | Fair band | Basis |
 |---|---|---|
-| Loaf of bread | **1 LC** | Staple |
-| Mug of ale | **1–2 LC** | Staple (gallon ale still ~**5 LC**) |
-| Chicken | **5–10 LC** | ~1 day |
-| Sheep | **6–8 SS** | ~10 days; slight monster-farm discount vs pure medieval |
-| Cow or ox | **7–10 LS** | ~100 days |
-| Plain wool clothes, full set | **4–8 SS** | Ready-made / steam-era cloth feel |
+| Loaf of bread | **1–2 LC** (Lock) | Staple |
+| Mug of ale | **1 LC** (tavern markup **2 LC**) (Lock) | Staple; medium gallon **5 LC**, good **7–8 LC** (Lock) |
+| Goose / eggs / cheese | **30 LC** / **1 LC per 5** / **2–3 LC/lb** (Lock) | Staples |
+| Spices / saffron | **6–18 SS/lb** / **7–9 LS/lb** (Lock) | Luxury food |
+| Chicken | **3–5 LC** (Lock) | Below old 5–10 LC band |
+| Sheep | **6–8 SS** (Lock) | Monster-farm discount vs medieval ~85 LC |
+| Pig | **1.2–1.8 LS** (Lock) | Market hog |
+| Cow | **5–6 LS** (Lock) | Split from ox |
+| Ox | **7–8 LS** (Lock) | Draft stock |
+| Plain wool clothes, full set | **4–8 SS** (Lock) | Ready-made / steam-era cloth |
+| Heavy fulled or dyed outfit | **2–3 LS** (Lock) | Same tier as thick cloak **300 LC** |
+| Linen undershirt / fur garment / wool yard / noble gown | **4 SS** / **4 LS** / **3 LS/yard** / **12–60 SG** (Lock) | Clothing extras |
 | Needle Worm silk shirt | **1–2 SS** | Cheap silk (not Earth medieval silk-yard prices) |
-| Boots | **3–6 SS** | Common footwear |
+| Boots | **5 SS–1 LS** | Above shoes **3 SS** |
 | Iron knife or hand axe | **1–3 SS** | Steam-made |
-| Plain steel sword (working) | **1–3 LS** | Steam-made blade; peasant floor stays **~30 LC** |
-| Full plate (common steel) | **3–8 SG** | Medieval harness cut by steam industry |
-| Finest parade / proof plate | up to **~1 LG** | Historical top kit still exists |
+| Plain steel sword (working) | **1–4 LS** (Lock band) | Steam-made; peasant floor stays **~30 LC** |
+| Helmet / mail shirt / ready plate | **1 SG** / **5–6 SG** / **10 SG** (Lock) | Armor pieces |
+| Full plate (common steel) | **6–10 SG** (Lock) | Squire to Milanese ready-made |
+| Knight's full armor kit | **15–20 SG** (Lock) | Complete harness |
+| Duke-grade / parade armor | up to **~12 LG** (Lock) | Woodstock-scale |
 | Star steel plate | **5–10×** common steel plate | Conversion + rarity |
 | Mythril / orihalcum / adamantium gear | By conversion grade and host job | Metals.md; not Earth silk math |
 | Ordinary riding horse | **8–15 LS** | ~150 days |
-| High-grade riding / show mount | up to **~1 LG** | Historical £10 tier |
-| Trained war mount or war monster | **2–10 SG** | Common combat mount band |
-| Legendary destrier / apex stock | up to **~10 LG** | Historical top destrier; rare |
-| Plain handwritten book | **2–5 LS** | No printing |
-| Illuminated / reference book | **1–5 SG** | Skilled hours |
+| Draught / cart horse | **6–12 LS** (Lock) | Below riding band |
+| Horse fodder | **5–8 LC / horse / day** (Lock) | Daily upkeep |
+| Cheap trained mount | **2–5 SG** (Lock) | Keeps warhorses off every Silver party |
+| War horse | **5–20 SG** (Lock) | Combat mount |
+| Elite destrier / apex | up to **~10 LG** (Lock) | Historical top destrier |
+| High-grade riding / show mount | **10–12 SG** (≈1 LG) (Lock) | Historical £10 tier |
+| Knight's riding horse | **5–6 SG** (Lock) | Mid mount |
+| Plain handwritten book | **3–6 LS** (Lock) | No printing |
+| Illuminated / reference book | **1–5 SG** (Lock) | Skilled hours |
+| Book section rental | **3–5 LC** (Lock) | Pecia copy |
 | Spell grimoire | **5+ SG** | Skill item / power premium |
-| Working-class room (not full inn board) | **~1 SS/week** | ~20% of laborer week; commoners cook at home |
-| Modest town house (quiet) | **5–15 SG** | Years of wages |
+| University board | **~6 SG / year** (Lock) | Student keep |
+| Squire / page / priest | **7–10 SS/mo + keep** / **5 LC–3 SS/mo + board** / **~5–6 SG/year** (Lock) | Household / clergy |
+| Cottage rent | **3 LS / year** (Lock) | Rural lease |
+| Ruby / diamond ring / voyage bedding | **~1.5 SG** / **~9 SG** / **5–6 LS** half resale (Lock) | Valuables and travel |
+| Cottage purchase | **2–3 SG** (Lock) | Small house |
+| Craftsman's / modest town house | **10–20 SG** (Lock) | Quiet town |
+| Merchant's house purchase | **40–80 SG** (Lock) | Urban wealth |
+| Craftsman's house rent | **1 LS / month** (Lock) | **1 SG 2 LS / year** |
+| Merchant's house rent | **2.4–3.6 SG / year** (Lock) | Urban rent |
+| Shoes | **3 SS** (Lock) | Common footwear |
+| Boots | **5 SS–1 LS** (Lock) | Working boots |
+| Foot / mounted / armored guard | **15 / 30 / 60 LC / day** (Lock) | Archer → man-at-arms |
+| Knight on campaign | **120 LC / day** (Lock) | Wartime hire |
+| Master carpenter / mason | **15–20 / 20 LC / day** (Lock) | Skilled craft |
+| Ordinary / elite / Commander ransom | **100–200 / ~500 / ~1,000 SG** (Lock) | Captive scale |
+| Peasant / gentry dowry | **1–4 SG / ~80 SG** (Lock) | Marriage settlements |
 | Boom-town house + workshop plot | **~30 SG** | Locked Albrook-style access premium |
+| Working-class room (not full inn board) | **~1 SS/week** | ~20% of laborer week; commoners cook at home |
 | Rail, third class | **~0.3 LC/mile** (100 mi ≈ **3 SS**) | Victorian ratio |
 | Rail, first class | **~3×** third | Victorian ratio |
 | Spatial bag (~2 m³) | **5 SG** used / **7–10 SG** market | Locked; larger follows SpatialBagPrices.md (not a flat 5–50) |
+| Healing potions Low→Greater | **2–5 SS** / **1–2 LS** / **5–10 LS** / **1–3 SG** (Lock) | Consumable ladder; Greater is rare single-use |
+| Hangover / guild mana (employee) | **8–15 LC** / **2–4 SS** (Lock) | Separate products |
+| Porter / clerk / T3 barrier / T4 cleric / Platinum | **8–12 LC** / **10–15 LC** / **4–6 LS** / **1–2 SG** / **1–3 SG** per day (Lock) | Magic hire premium |
+| Map / horse rental / airship / teleport / old gate | **3–5 SS** / **1–2 SS/day** / **2–5 SG** / **5 LS–2 SG**/person / **1–5 SG** activation (Lock) | Travel ladder |
+| Skill books T1 / T2 / T3 | **2–5 / 10–25 / 50–100 SG** (Lock) | Permanent purchase |
+| Church services / elixirs | **≈9×** casting labor; scar **2–5** / curing **9–30** / limb **15–30** / divine **30–100 SG** (Lock) | Curse heal **9 SG** ÷ T3 Highest **1,024 LC** ≈ **8.8×** |
+| Mage robe / weapon-shield / prosthetic / carriage | **2–5 / 5–10 / 10–30 / 5–20 SG** (Lock) | Complexity can exceed mithril floor |
+| Standard golem | **2–5 LG** (Lock); unique **~6×** build | Auction ratio Lock |
+| Stall protection fee | **2–5 SS / week** (Lock) | Concrete guild fee; percent Soft |
 | Debt / criminal labor contract, unskilled | **1–3 SG** | ~1–3 years wages |
 | Classed / skilled contract | **5–20+ SG** | Skill multiplies |
 
-**Roland scroll income check:** settled High Common Fire Arrow at **~10 SS** each, **~10/week** → **~1 SG/week** gross (~**1 LS/day** before fees). About **10×** a steady classed crafter day. Rare skill, high income, still far below landed nobility. Shop scroll locks: `../../Runes/ScrollEconomy.md`.
+**Roland scroll income check:** settled High Common Fire Arrow at **~10 SS** each, **~10/week** → **~1 SG/week** gross (~**1 LS/day** before fees). About **10×** a steady classed crafter day. Rare skill, high income, still far below landed nobility. Word-scroll cost engine + shop locks: `../../Runes/ScrollEconomy.md` (Mana Arrow Intermediate **3 SS**, Fire Arrow Intermediate **6 SS**; word-scribe Intermediate day ~**35 LC**, separate from runic brand).
 
 ---
 
@@ -146,7 +270,8 @@ Three metals, each with a small and large coin. Each tier is x10 the one below i
 
 | Item | Cost | LC value | Real-value equivalent |
 |---|---|---|---|
-| Lodging (nightly) | 1 SS | 10 | 2d |
+| Shared inn bed (nightly) | 5 LC | 5 | 1d |
+| Lodging / private room (nightly) | 1 SS | 10 | 2d |
 | Singing Crow (Edelgard, nightly) | 14 LC | 14 | ~2.8d |
 | Better inn (nightly) | 2 SS | 20 | 4d |
 | Monthly lodging (10% off, **30** nights at 1 SS) | 270 LC | 270 | 4s 6d |
@@ -339,10 +464,14 @@ Moved: `../../Food/FoodPrices.md` (tables + spirits tech note). Wealth ladder: `
 | Item | Historical price | LC value |
 |---|---|---|
 | Plain wool tunic (cloth + labor) | 2-4s | 120-240 LC |
-| Plain wool clothes, full set (fair Caldris) | labor-days / steam cloth | **4–8 SS** |
+| Plain wool clothes, full set (fair Caldris) | labor-days / steam cloth | **4–8 SS** (Lock) |
+| Linen undershirt | Lock | **4 SS** |
+| Fur-lined garment | Lock | **4 LS** |
+| Best wool cloth | Lock | **3 LS / yard** |
+| Fashionable noble gown | Lock | **12–60 SG** |
 | Needle Worm silk shirt (fair Caldris) | monster silk at will | **1–2 SS** |
-| Boots (fair Caldris) | Victorian-ish | **3–6 SS** |
-| Shoes, plain (estimate, unsourced) | ~4-8d | 20-40 LC |
+| Boots (fair Caldris) | Victorian-ish | **3–6 SS** (Lock boots **5 SS–1 LS**) |
+| Shoes, plain (estimate, unsourced) | ~4-8d | 20-40 LC (Lock **3 SS**) |
 | Fine damask gown | 53s 4d | 3,200 LC |
 | Velvet bonnet, gold-trimmed | 33s 4d | 2,000 LC |
 
@@ -350,20 +479,21 @@ Moved: `../../Food/FoodPrices.md` (tables + spirits tech note). Wealth ladder: `
 
 ## 14. Animals
 
-Historical England rows kept for research. **Fair Caldris bands** (labor-days method above) win for ordinary stock: chicken **5–10 LC**, sheep **6–8 SS**, cow/ox **7–10 LS**, ordinary riding horse **8–15 LS**, trained war mount / war monster **2–10 SG**. High-grade show mounts and legendary destriers stay at the dear historical tiers.
+Historical England rows kept for research. **Fair Caldris locks** win for ordinary stock: chicken **3–5 LC**, goose **30 LC**, sheep **6–8 SS**, pig **1.2–1.8 LS**, cow **5–6 LS**, ox **7–8 LS**, draught horse **6–12 LS**, ordinary riding horse **8–15 LS**, cheap trained mount **2–5 SG**, war horse **5–20 SG**, elite destrier up to **~10 LG**. High-grade show mounts stay near **10–12 SG**. Horse fodder **5–8 LC / horse / day**.
 
 | Animal | Historical price | LC value |
 |---|---|---|
-| Chicken | 1-2d | 5-10 LC |
-| Goose | 6d | 30 LC |
-| Sheep | 10-17d | 50-85 LC (fair Caldris **6–8 SS**) |
-| Pig | 24d | 120 LC |
-| Cow | 10-20s | 600-1,200 LC (fair Caldris **7–10 LS**) |
-| Draught/pack horse | 10-20s | 600-1,200 LC |
+| Chicken | 1-2d | 5-10 LC (fair Lock **3–5 LC**) |
+| Goose | 6d | 30 LC (Lock) |
+| Sheep | 10-17d | 50-85 LC (fair Lock **6–8 SS**) |
+| Pig | 24d | 120 LC (fair Lock **1.2–1.8 LS**) |
+| Cow | 10-20s | 600-1,200 LC (fair Lock **5–6 LS**; ox **7–8 LS**) |
+| Draught/pack horse | 10-20s | 600-1,200 LC (fair Lock **6–12 LS**) |
 | Ordinary riding horse | labor-days band | **8–15 LS** |
 | High-grade riding horse | £10 | 12,000 LC (1.2 LG) |
-| Trained war mount / war monster | fantasy combat stock | **2–10 SG** |
-| Warhorse (destrier, top tier) | up to £80 | up to 96,000 LC (9.6 LG) |
+| Cheap trained mount | Lock | **2–5 SG** |
+| War horse | Lock | **5–20 SG** |
+| Warhorse (destrier, elite) | up to £80–£100 | up to **~10 LG** (Lock ceiling) |
 | Tamed monster draft-beast (field labor, stronger than ox/horse) | fantasy-only | 20,000-40,000 LC (2-4 LG) |
 
 ---
@@ -404,7 +534,7 @@ Moved: `../../Combat/GearPrices.md` (kit prices + mundane / runic repairs). Blad
 
 ## 17. Spell Scrolls & Runic Crafting
 
-Moved: `../../Runes/ScrollEconomy.md` (shop SKUs + Libra / Exeor contracts). Craft/use laws: `../../Runes/Magic.md`, `../../Runes/ScrollCraftScrapes.md`.
+Moved: `../../Runes/ScrollEconomy.md` (shop SKUs + Libra / Exeor contracts + word-scroll cost engine). Craft/use laws: `../../Runes/Magic.md`, `../../Runes/ScrollCraftScrapes.md`.
 
 ## 18. Spatial/Storage Bags
 
@@ -412,20 +542,26 @@ Moved: `../../Runes/ScrollEconomy.md` (shop SKUs + Libra / Exeor contracts). Cra
 **Laws** (no living, dead OK, no nest, freeze): `../../Runes/Magic.md`.
 Stone size pegs in bag chapter notes: `../Materials/MonsterCores.md` (Needle Worm **½** rice **1 SS**; Needle Moth rice **2 SS**).
 
-## 19. Potions (unpriced in canon - flagged, not estimated)
+## 19. Potions and church elixirs
 
-Hangover potions and **healing / recovery potions** both exist and are in circulation. Absolute shop prices are **not stated on-page**. Item behavior: `../../Items/Items.md`.
+Hangover potions and **healing / recovery potions** both exist and are in circulation. Absolute Source shelf prices were unset; rewrite Lock bands below. Item behavior: `../../Items/Items.md`.
 
 **Healing / recovery potion (rewrite lock):** health brew that **closes wounds** (drink and/or pour). Flesh knits under the liquid; heat runs through torn muscle and staunches bleed. Pain of the brew can exceed the wound. Low-grade seals holes but leaves residual soreness. Not “numbers tick up while the cut stays open.” Hangover potions are separate (Carwen Ch 12; Roland skips them to save coin). Low-grade recovery / healing appears Ch 14 (watcher fight; from his bag). Dungeon-gate stalls mark potions up **>=25%** over market (Ch 71).
 
-### Extrapolated potion band (pegged to wages + stinginess)
+### Potion and church bands (Lock)
 
-| Item | Estimated | Why |
+| Item | Price | Why |
 |---|---|---|
-| Hangover potion | **8-15 LC** | Cheap enough that skipping it is stingy, not ruinous; ~1-1.5 days unskilled or ~2-3 goblin ears |
-| Low-grade healing / recovery (drink + pour) | **20-50 LC (2-5 SS)** | Above hangover; below a full inn night; "quite the penny" vs priest heal in Ch 33 |
-| Dungeon-gate version of either | market x **1.25+** | Canon markup Ch 71 |
-| T3 High Priest curse heal (Solaria) | **9 SG** | Locked Ch 53 (`Economy.md`; not a potion) |
+| Hangover potion | **8–15 LC** (Lock) | Skipping it is stingy, not ruinous; ~1–1.5 days unskilled |
+| Healing Low / Mid / High / Greater | **2–5 SS** / **1–2 LS** / **5–10 LS** / **1–3 SG** (Lock) | ×10 coin feel; Greater is rare single-use |
+| Guild mana potion (employee) | **2–4 SS** (Lock) | Separate product, not a cheap heal |
+| Dungeon-gate potion markup | market × **1.25+** (Lock) | Canon Ch 71 |
+| Church services | **≈9×** engine casting labor (Lock) | Curse heal **9 SG** ÷ T3 Highest casting labor **1,024 LC** ≈ **8.8×** |
+| Scar-concealment elixir | **2–5 SG** (Lock) | Under miracle band |
+| T3 High Priest curse heal (Solaria) | **9 SG** (Lock) | Ch 53; curing-miracle floor |
+| Curing miracle | **9–30 SG** (Lock) | Harder cures climb |
+| Limb regeneration elixir | **15–30 SG** (Lock) | Above curse-heal floor |
+| Divine elixir | **30–100 SG** (Lock) | Top church consumable |
 
 ---
 
@@ -475,7 +611,8 @@ Present in canon as a legal institution, not currently assigned a market value. 
 | Ferry, per horseman | 1d | 5 LC |
 | Bridge/road toll, cart with one horse | ~1.5d | ~7-8 LC |
 | Carriage hire, per stage (10-12 miles) plus driver's tip | 1s | 60 LC |
-| Horse fodder/stabling, per night (estimate from group spending) | ~2-3d | 10-15 LC |
+| Horse fodder / horse / day (Lock) | ~7 LC historical mid | **5–8 LC** |
+| Horse fodder/stabling, per night (group estimate, older) | ~2-3d | 10-15 LC (prefer Lock fodder band) |
 
 **Household fuel & light**
 
@@ -623,12 +760,14 @@ Tavern weak-spirit pitcher prices are locked in the Rewrite price lock and §11.
 
 | Item | Price | Basis |
 |---|---|---|
-| Ship one-way (merchant, below deck) | **5 LS** | Rewrite Ch 65 |
+| Ship one-way coastal (merchant, below deck) | **3–5 LS** (Albrook **5 LS**) | Rewrite Ch 65 |
+| Ship long voyage with meals | **2–5 SG** | ValueReference Lock |
 | Ship food | extra; assume **~10-20 LC / day** | Extrapolated from trail/inn |
 | Caravan passenger berth (with goods) | **cheap**; often **15-40 LC / day** equivalent | Soft canon + escort wage bands |
 | Gate / small town entry | **~5 LC** class | Canon Carwen; Albrook "small fee" |
 | Coach stage (historical) | **60 LC** | §22 |
-| Horse fodder/stable night | **10-15 LC** | §22 |
+| Horse fodder / horse / day | **5–8 LC** | ValueReference Lock |
+| Horse fodder/stable night (older group estimate) | **10-15 LC** | §22; prefer Lock fodder |
 
 ### Healing & services
 
@@ -682,7 +821,7 @@ Tavern weak-spirit pitcher prices are locked in the Rewrite price lock and §11.
 
 ## 29. Still Unknown (do not invent until needed)
 
-- Absolute potion shelf prices (only markup and extrapolations)
+- Exact runic blank/ink mat cost (word engine T1–T5 is Lock; runic mats still placeholder)
 - Albrook / dungeon tax **percent**
 - Slavery sale prices
 - Exact workshop rent when not company-covered
@@ -699,7 +838,7 @@ Tavern weak-spirit pitcher prices are locked in the Rewrite price lock and §11.
 
 Full Source (chs 1-711) was swept. Hard `small/large` prices cluster early; late book often says bare "gold" (= large/regular when glossed). **Superseded Source numbers** (do not reuse in rewrite): commoner 1 SG/mo; rice-grain 4 SS; cheap inn 2 SS; tavern >1 LS; farm 100 SG; ship 1 SG; "100 SG >5 years" living; repair 1 SG; crystal ball 10/20 SG; black-market entry 5 SG; house phrase 10 LG.
 
-**Kept:** latrine 10 LC; ear 5 LC; gate 5 LC; card 2 LS; bags 5-10 SG; class crystal 2 SG; scroll ladder; heal 9 SG; severance 100/150 SG; golem auction LG-scale; skill book (price unset); mithril floor 1 LG.
+**Kept:** latrine 10 LC; ear 5 LC; gate 5 LC; card 2 LS; bags 5-10 SG; class crystal 2 SG; word scroll engine T1–T5; heal 9 SG (**≈9×** T3 Highest casting); severance 100/150 SG; golem **2–5 LG** + **~6×** unique; skill books T1–T3; potion ladder; mithril floor **≥1 LG** (mithril minimum).
 
 ## 31. Rewrite status
 

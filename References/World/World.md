@@ -161,7 +161,7 @@ Coin ladder, prices, taxes, guild cuts: `Society/Economy.md`. Auction houses, ba
 - Mage privileges can include land grants / taxes for nobles who qualify
 - Forges, smithies, and workshops can be hired or rented in craft cities
 - Armorers and weapon shops sell mundane and magical gear as separate stock
-- Spell scrolls and runic goods are sold (Exeor-style shops)
+- Spell scrolls and runic goods are sold (Grimboodle-style shops)
 - Contracts can bind with mana signatures / curses
 
 ### City life

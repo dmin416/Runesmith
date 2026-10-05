@@ -60,12 +60,12 @@ Shop price ≠ one craftsman’s full day per sheet.
 
 ### Later scroll mats (Ch 20+ rewrite fair)
 
-Leave room between blank and finished scroll. Finished locks: `../../../Runes/ScrollEconomy.md`.
+Leave room between blank and finished scroll. Finished locks and full word-scroll cost engine: `../../../Runes/ScrollEconomy.md`.
 
 | Item | Fair | Notes |
 |---|---:|---|
-| Rough magical blank | **~4–5 LC** | Or **~4–5 SS** per **10** pack |
-| Magical paper sheet | **~30–40 LC** | Premium vs blanks |
+| Rough magical blank (maker → wholesale → retail) | **~2.2 / 4 / 5 LC** | Hide stack in ScrollEconomy; retail **~4–5 LC** or **~4–5 SS** per **10** pack |
+| Magical paper sheet | **~30–40 LC** | Premium vs blanks; Tier 3+ word scrolls |
 | Ink (per T1) | **~10 LC** typical (**5–15**) | Soft |
 | Finished T1 regular (Mana Arrow Intermediate) | **3 SS** | Locked fair |
 | Finished T2 regular (Fire Arrow Intermediate) | **6 SS** | Locked fair |
@@ -73,6 +73,21 @@ Leave room between blank and finished scroll. Finished locks: `../../../Runes/Sc
 | Fair High Common runic Fire Arrow | **10 SS** | **10 × 10 SS = 1 SG**/week |
 
 Old Source **blank 9 LC / Mana Arrow 10 LC** pair is discarded as a lock. It left no craft margin.
+
+#### Monster-skin blank cost stack (locked feel)
+
+Per hide, **8** A5 cut, **6** good sheets. Rice-grain core **2 SS** treats **10** hides (**2 LC** dust per hide).
+
+| Line | Cost |
+|---|---|
+| Raw hide (byproduct haul) | **2 LC** |
+| Finish labor | **6 LC** |
+| Mana-conditioning cycle | **3 LC** |
+| Mana stone dust | **2 LC** |
+| **Total / maker per sheet** | **13 LC / 2.2 LC** |
+| Wholesale / retail | **4 LC / 5 LC** |
+
+Earth parchment piece-rate history sets **mundane parchment only**, not magical blanks.
 
 ## Why the four markets diverge
 

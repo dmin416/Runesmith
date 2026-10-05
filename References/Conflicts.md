@@ -95,7 +95,7 @@ Cross-file conflict inventory. Every `.md` under `References/` was read for this
 - **Why:** Prefilled stamped coequal vs non-default research.
 
 ### C-RUNE-23 (resolved)
-- **Win:** Dusty shelf vanity **~2 LS** (~6–7× old cheap regular list). Fair High Common Fire Arrow **10 SS** (~1.5–2× word Fire Arrow at **6 SS**). Income: **10 × 10 SS = 1 SG**/week. `ScrollEconomy.md`.
+- **Win:** Dusty shelf vanity **~2 LS** (~**3×** word Fire Arrow at **6 SS**). Fair High Common Fire Arrow **10 SS** (~1.7× word). Income: **10 × 10 SS = 1 SG**/week. `ScrollEconomy.md`.
 
 ### C-RUNE-24 (stale-design)
 - **A:** `RuneCraftScrapes.md` Ch 62: better metals hold charges because **mana-resistant**

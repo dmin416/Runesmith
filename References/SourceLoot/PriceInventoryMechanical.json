@@ -1,0 +1,990 @@
+[
+ {
+  "file": "1-10.md",
+  "line": 26,
+  "ch": "",
+  "prices": [
+   "10 large copper coins",
+   "1 small silver coin"
+  ],
+  "snippet": "10 large copper coins = 1 small silver coin"
+ },
+ {
+  "file": "1-10.md",
+  "line": 28,
+  "ch": "",
+  "prices": [
+   "10 small silver coins",
+   "1 large silver coin"
+  ],
+  "snippet": "10 small silver coins = 1 large silver coin"
+ },
+ {
+  "file": "1-10.md",
+  "line": 30,
+  "ch": "",
+  "prices": [
+   "10 large silver coins",
+   "1 small gold coin"
+  ],
+  "snippet": "10 large silver coins = 1 small gold coin"
+ },
+ {
+  "file": "1-10.md",
+  "line": 32,
+  "ch": "",
+  "prices": [
+   "10 small gold coins",
+   "1 large gold coin"
+  ],
+  "snippet": "10 small gold coins = 1 large gold coin"
+ },
+ {
+  "file": "1-10.md",
+  "line": 34,
+  "ch": "",
+  "prices": [
+   "10 large gold coins"
+  ],
+  "snippet": "10 large gold coins = 1 royal gold coin"
+ },
+ {
+  "file": "1-10.md",
+  "line": 2727,
+  "ch": "8",
+  "prices": [
+   "one small gold coin",
+   "ten large silver coins"
+  ],
+  "snippet": "\"This comes down to exactly one small gold coin... or ten large silver coins...what I have here are...\""
+ },
+ {
+  "file": "1-10.md",
+  "line": 2729,
+  "ch": "8",
+  "prices": [
+   "one large copper coin"
+  ],
+  "snippet": "In this world, there were three types of coins with two variations. Each coin had a small and large version. The cheapest one was the small copper coin. Ten of "
+ },
+ {
+  "file": "1-10.md",
+  "line": 2747,
+  "ch": "8",
+  "prices": [
+   "five large copper coins"
+  ],
+  "snippet": "It was time to go back to the town he had arrived, he remembered the path that the coachman took and backtracked. He was slower on foot but with some jogging, h"
+ },
+ {
+  "file": "1-10.md",
+  "line": 2751,
+  "ch": "8",
+  "prices": [
+   "five large copper coins"
+  ],
+  "snippet": "One of the guards asked while giving him five large copper coins back in exchange for the small silver coin."
+ },
+ {
+  "file": "1-10.md",
+  "line": 2867,
+  "ch": "8",
+  "prices": [
+   "two large silver coins"
+  ],
+  "snippet": "\"You will have to make a payment of two large silver coins for your adventurer card, if you agree please fill out this form and wait till it's made.\""
+ },
+ {
+  "file": "1-10.md",
+  "line": 2895,
+  "ch": "8",
+  "prices": [
+   "10 large coppers"
+  ],
+  "snippet": "'Requesting a worker for latrine cleaning, 10 large coppers a day.'"
+ },
+ {
+  "file": "1-10.md",
+  "line": 2909,
+  "ch": "8",
+  "prices": [
+   "5 large copper"
+  ],
+  "snippet": "'Goblins have been appearing close to the farms and are killing the livestock. 5 large copper per goblin, left ear needed as proof.'"
+ },
+ {
+  "file": "101-110.md",
+  "line": 2609,
+  "ch": "107",
+  "prices": [
+   "one large silver"
+  ],
+  "snippet": "Roland wondered if there would be a market for such items. This weapon made sense to him who could actually produce the ammo himself. But for an adventurer payi"
+ },
+ {
+  "file": "101-110.md",
+  "line": 2913,
+  "ch": "108",
+  "prices": [
+   "eight large silver coins"
+  ],
+  "snippet": "\u201cThat will be eight large silver coins.\u201d"
+ },
+ {
+  "file": "11-20.md",
+  "line": 50,
+  "ch": "9",
+  "prices": [
+   "5 large copper coins"
+  ],
+  "snippet": "The whole thing cost him 5 large copper coins."
+ },
+ {
+  "file": "11-20.md",
+  "line": 54,
+  "ch": "9",
+  "prices": [
+   "two small silvers",
+   "five large copper coins"
+  ],
+  "snippet": "He left the coins on the table, the large lady instantly swooped in to grab those coins of the table. Like a hawk diving for a nice plump mouse on the field. He"
+ },
+ {
+  "file": "11-20.md",
+  "line": 172,
+  "ch": "9",
+  "prices": [
+   "35 large copper coins",
+   "2 small silver coins",
+   "155 large copper coins"
+  ],
+  "snippet": "With this, he had earned 35 large copper coins from the monster subjugation quest. The tiny mana stone he acquired went for 2 small silver coins each, he had tw"
+ },
+ {
+  "file": "11-20.md",
+  "line": 758,
+  "ch": "11",
+  "prices": [
+   "five small gold coins"
+  ],
+  "snippet": "\"This one? We were lucky and we got it off a retiring adventurer, it was quite a steal for five small gold coins!\""
+ },
+ {
+  "file": "11-20.md",
+  "line": 760,
+  "ch": "11",
+  "prices": [
+   "ten small gold coins"
+  ],
+  "snippet": "\"The bigger ones can cost ten times as much, even one like this mostly goes from seven to ten small gold coins.\""
+ },
+ {
+  "file": "11-20.md",
+  "line": 877,
+  "ch": "12",
+  "prices": [
+   "one large silver coin"
+  ],
+  "snippet": "Roland was looking at some coins on the table, the numbers hovering above them indicated the sum. It was a number above 100 which would put it above one large s"
+ },
+ {
+  "file": "11-20.md",
+  "line": 893,
+  "ch": "12",
+  "prices": [
+   "twenty large copper coins"
+  ],
+  "snippet": "He grumbled under his nose, mostly saddened by the fact that he got peer pressured into chipping in. He lost a whole twenty large copper coins that were worth c"
+ },
+ {
+  "file": "11-20.md",
+  "line": 1294,
+  "ch": "13",
+  "prices": [
+   "two small gold coins",
+   "one small gold coin"
+  ],
+  "snippet": "He hesitated about taking the class change stone sooner, they were quite costly at two small gold coins a pop. This was the price of more than a monthly income "
+ },
+ {
+  "file": "11-20.md",
+  "line": 2414,
+  "ch": "17",
+  "prices": [
+   "twenty small gold coins"
+  ],
+  "snippet": "Roland nodded, apparently with the sold equipment the girls managed to get over twenty small gold coins. He already had fifteen of those in the dimensional bag "
+ },
+ {
+  "file": "11-20.md",
+  "line": 2428,
+  "ch": "17",
+  "prices": [
+   "one gold coin",
+   "one gold coin"
+  ],
+  "snippet": "His head was apparently worth more than one gold coin, which he wasn't sure was that flattering. While he was thinking he noticed that his party leader's eyes w"
+ },
+ {
+  "file": "131-140.md",
+  "line": 469,
+  "ch": "130",
+  "prices": [
+   "one gold"
+  ],
+  "snippet": "Just like any other merchant he needed some help. For now, he didn\u2019t quite have the money to get himself competent protection. The most he could hope for is sil"
+ },
+ {
+  "file": "131-140.md",
+  "line": 3013,
+  "ch": "138",
+  "prices": [
+   "twenty small gold coins"
+  ],
+  "snippet": "\u201cYou have a keen eye for such a young lad, just for that you can have it for twenty small gold coins.\u201d"
+ },
+ {
+  "file": "141-150.md",
+  "line": 1277,
+  "ch": "143",
+  "prices": [
+   "one small gold coin"
+  ],
+  "snippet": "\u201cYes, it will cost \u2026 one small gold coin.\u201d"
+ },
+ {
+  "file": "151-160.md",
+  "line": 1495,
+  "ch": "154",
+  "prices": [
+   "five small gold coins"
+  ],
+  "snippet": "He placed five small gold coins on the counter and the large person quickly swiped it. Roland wasn\u2019t sure where his gold disappeared to but it was apparent that"
+ },
+ {
+  "file": "151-160.md",
+  "line": 1531,
+  "ch": "154",
+  "prices": [
+   "five small gold coins"
+  ],
+  "snippet": "If he entered there without it, he would be able to go around but no one would actually trade with him. Then he would also not be able to return without paying "
+ },
+ {
+  "file": "201-210.md",
+  "line": 507,
+  "ch": "201",
+  "prices": [
+   "two small gold coins"
+  ],
+  "snippet": "\u201cLadies and gentlemen, I would like to bring your attention to this set of six high-grade elixirs. These have been distilled from the finest Daga\u2019s hearts and a"
+ },
+ {
+  "file": "201-210.md",
+  "line": 615,
+  "ch": "201",
+  "prices": [
+   "two large gold coins"
+  ],
+  "snippet": "\u201cAs this is a well-crafted runic construct, we will be starting our bid at two large gold coins!\u201d"
+ },
+ {
+  "file": "201-210.md",
+  "line": 621,
+  "ch": "201",
+  "prices": [
+   "two large gold coins"
+  ],
+  "snippet": "The two large gold coins would not cover the manufacturing costs for the golem. If no one else placed a bid then he would be in the red and without a golem that"
+ },
+ {
+  "file": "201-210.md",
+  "line": 623,
+  "ch": "201",
+  "prices": [
+   "Two large gold coins",
+   "three large gold coins",
+   "Three large gold coins"
+  ],
+  "snippet": "\u201cTwo large gold coins, do I perhaps hear three large gold coins? Three large gold coins for this beautiful magical creation?\u201d"
+ },
+ {
+  "file": "201-210.md",
+  "line": 625,
+  "ch": "201",
+  "prices": [
+   "Two gold coins",
+   "twenty small gold coins",
+   "Two gold coins"
+  ],
+  "snippet": "Even when the elven lady stalled the people here shook their heads around. Two gold coins was already a large sum of money that was equal to twenty small gold c"
+ },
+ {
+  "file": "201-210.md",
+  "line": 629,
+  "ch": "201",
+  "prices": [
+   "Three large gold coins"
+  ],
+  "snippet": "\u201cThree large gold coins to the madam in white!\u201d"
+ },
+ {
+  "file": "201-210.md",
+  "line": 651,
+  "ch": "201",
+  "prices": [
+   "twelve large gold coins"
+  ],
+  "snippet": "\u201cT-twelve large gold coins to the dwarven gentleman with the red face, does the beautiful lady in white wish to offer more?\u201d"
+ },
+ {
+  "file": "201-210.md",
+  "line": 759,
+  "ch": "202",
+  "prices": [
+   "twelve large gold coins"
+  ],
+  "snippet": "The auction was over and at this moment Roland was in the office with an auction house clerk responsible for giving out the earnings. Thanks to the strange rich"
+ },
+ {
+  "file": "201-210.md",
+  "line": 761,
+  "ch": "202",
+  "prices": [
+   "one small gold coin"
+  ],
+  "snippet": "\u201cIsn\u2019t there too much in here? You only took out one small gold coin, this is not the price we agreed on.\u201d"
+ },
+ {
+  "file": "201-210.md",
+  "line": 765,
+  "ch": "202",
+  "prices": [
+   "one small gold coin"
+  ],
+  "snippet": "He was also required to present a minimum of ten items in a year otherwise, he would need to pay a fine. This was an understandable clause as he was given a bet"
+ },
+ {
+  "file": "201-210.md",
+  "line": 1659,
+  "ch": "205",
+  "prices": [
+   "four small silver"
+  ],
+  "snippet": "\u201cThere be, four small silver for the night, if ye want food with it it will be five.\u201d"
+ },
+ {
+  "file": "201-210.md",
+  "line": 1667,
+  "ch": "205",
+  "prices": [
+   "four small silver coins"
+  ],
+  "snippet": "After dropping the four small silver coins he was given a key with a number attached to it. With there not being any curfew it meant that it would probably rema"
+ },
+ {
+  "file": "201-210.md",
+  "line": 2463,
+  "ch": "208",
+  "prices": [
+   "four golds",
+   "twenty-five silvers"
+  ],
+  "snippet": "While the new adventurers were getting their tasks handed out he took some time to look at them. There were two new gold ranked adventurers coming along. Togeth"
+ },
+ {
+  "file": "21-30.md",
+  "line": 42,
+  "ch": "19",
+  "prices": [
+   "ten small gold coins",
+   "five small gold"
+  ],
+  "snippet": "He had already gone through the storage bag that his previous party members gave him. He wanted to go back and throw it at their faces as they left ten small go"
+ },
+ {
+  "file": "21-30.md",
+  "line": 273,
+  "ch": "20",
+  "prices": [
+   "three small silver coins"
+  ],
+  "snippet": "In one of the display cases, he saw some rolled-up scrolls. This one he was looking at had a mana arrow spell inscribed onto it. He looked at the price and saw "
+ },
+ {
+  "file": "21-30.md",
+  "line": 281,
+  "ch": "20",
+  "prices": [
+   "six small silvers",
+   "three small silvers"
+  ],
+  "snippet": "\u201cExcuse me, why does this fire arrow spell only cost six small silvers when it\u2019s a tier 2 spell while this mana arrow spell costs three small silvers?\u201d"
+ },
+ {
+  "file": "21-30.md",
+  "line": 285,
+  "ch": "20",
+  "prices": [
+   "one large silver"
+  ],
+  "snippet": "\u201cEven though it\u2019s a tier 2 spell it isn\u2019t that much more potent, it also depends on the person making these scrolls and materials. If it was a fireball spell it"
+ },
+ {
+  "file": "21-30.md",
+  "line": 301,
+  "ch": "20",
+  "prices": [
+   "5 small silver",
+   "5 large copper coins",
+   "10 small silver",
+   "three small silver"
+  ],
+  "snippet": "The ten blank scrolls cost him 5 small silver, which put them at 5 large copper coins apiece. Ink for ten Mana Arrows would run about another 10 small silver. S"
+ },
+ {
+  "file": "21-30.md",
+  "line": 337,
+  "ch": "20",
+  "prices": [
+   "2 large silver coins",
+   "6 small silver coins"
+  ],
+  "snippet": "There wasn\u2019t a spell under the price of a large silver coin and that was the Orb of Light. The Fire Arrow spell cost 2 large silver coins. This was a large gap "
+ },
+ {
+  "file": "21-30.md",
+  "line": 560,
+  "ch": "21",
+  "prices": [
+   "two small silver"
+  ],
+  "snippet": "\"Step right in, the entrance fee is only two small silver, practically nothing!\""
+ },
+ {
+  "file": "21-30.md",
+  "line": 753,
+  "ch": "22",
+  "prices": [
+   "6 small silver coins"
+  ],
+  "snippet": "A regular Intermediate Fire Arrow spell went for about 6 small silver coins but this was a runic spell scroll. They worked a bit differently than the regular on"
+ },
+ {
+  "file": "21-30.md",
+  "line": 755,
+  "ch": "22",
+  "prices": [
+   "10 small silver coins"
+  ],
+  "snippet": "\u201cInteresting, I\u2019d say this scroll could even go for up to 10 small silver coins, not bad for a common spell scroll.\u201d"
+ },
+ {
+  "file": "21-30.md",
+  "line": 761,
+  "ch": "22",
+  "prices": [
+   "10 small silver coins",
+   "15 small silver"
+  ],
+  "snippet": "His eyebrow moved even higher as he saw that one of these scrolls was at the highest rating. This was something he didn\u2019t get to see often, an item with the \u2018hi"
+ },
+ {
+  "file": "21-30.md",
+  "line": 803,
+  "ch": "22",
+  "prices": [
+   "ten small gold coins"
+  ],
+  "snippet": "The ten small gold coins that his party members had graciously given him started not to seem like such a big sum. He thought that it could even last him for ten"
+ },
+ {
+  "file": "21-30.md",
+  "line": 835,
+  "ch": "22",
+  "prices": [
+   "5 small silver"
+  ],
+  "snippet": "\u201cWe start the bidding at 5 small silver!\u201d"
+ },
+ {
+  "file": "21-30.md",
+  "line": 853,
+  "ch": "22",
+  "prices": [
+   "3 large silver coins"
+  ],
+  "snippet": "\u201cWe have put them in a set of five, in each box, there are 4 scrolls at the \u2018high\u2019 grade and 1 at the \u2018highest\u2019 grade, we will be starting the bid for the first"
+ },
+ {
+  "file": "21-30.md",
+  "line": 857,
+  "ch": "22",
+  "prices": [
+   "4 large silver",
+   "5 small silver",
+   "one small gold coin"
+  ],
+  "snippet": "He was finally seeing the fruit of his labor getting appreciated. It was like a large weight was lifted off his shoulders and he could finally relax. The first "
+ },
+ {
+  "file": "21-30.md",
+  "line": 958,
+  "ch": "23",
+  "prices": [
+   "9 large silver coins",
+   "2 small silver coins"
+  ],
+  "snippet": "\u201cSeller number 64\u2026 you have earned a total of 9 large silver coins and 2 small silver coins.\u201d"
+ },
+ {
+  "file": "21-30.md",
+  "line": 960,
+  "ch": "23",
+  "prices": [
+   "6 large silver coins"
+  ],
+  "snippet": "\u201cWith a commission of 25%, you are left with 6 large silver coins and 9 small ones.\u201d"
+ },
+ {
+  "file": "21-30.md",
+  "line": 962,
+  "ch": "23",
+  "prices": [
+   "2 large silvers"
+  ],
+  "snippet": "The man did a fast recounting while Roland nodded. He lost 2 large silvers and 3 small ones due to the auction houses fee. He wasn\u2019t mad though as he understood"
+ },
+ {
+  "file": "21-30.md",
+  "line": 978,
+  "ch": "23",
+  "prices": [
+   "one small gold coin"
+  ],
+  "snippet": "The more of the highest runes were added the better the prices got. Roland was slowly regaining his lost fortune, he deposited ten scrolls each every week while"
+ },
+ {
+  "file": "211-220.md",
+  "line": 1353,
+  "ch": "214",
+  "prices": [
+   "thousand gold coins"
+  ],
+  "snippet": "\u201cThe village? Yeah, I was about to win ten thousand gold coins from that stingy merchant but then I woke up here\u2026wait did you hear that?\u201d"
+ },
+ {
+  "file": "221-230.md",
+  "line": 1725,
+  "ch": "225",
+  "prices": [
+   "five gold"
+  ],
+  "snippet": "The others smiled as it was the truth, if they stayed in this city and trained in the dungeon they could probably reach level one hundred in a short time. Then "
+ },
+ {
+  "file": "231-240.md",
+  "line": 2237,
+  "ch": "236",
+  "prices": [
+   "one large silver"
+  ],
+  "snippet": "\u201cI\u2019ll put one large silver on the giant woman, just look at those muscles!\u201d"
+ },
+ {
+  "file": "231-240.md",
+  "line": 2273,
+  "ch": "236",
+  "prices": [
+   "ten small gold coins"
+  ],
+  "snippet": "\u201cI think that\u2019s still debatable, the two idiots made a bet\u2026 if the guy wins she has to spend the night with him but if he loses she gets ten small gold coins?\u201d"
+ },
+ {
+  "file": "231-240.md",
+  "line": 2277,
+  "ch": "236",
+  "prices": [
+   "Ten small gold coins"
+  ],
+  "snippet": "Senna shrugged while Roland started wondering where such a ridiculous bet came from. Ten small gold coins were a large sum of money and probably the reason why "
+ },
+ {
+  "file": "241-250.md",
+  "line": 1047,
+  "ch": "242",
+  "prices": [
+   "two gold"
+  ],
+  "snippet": "Roland didn\u2019t want to remain in the dark, he needed to know if information about him was out there. If the two golden order paladins he ran in were safe and sou"
+ },
+ {
+  "file": "251-260.md",
+  "line": 1153,
+  "ch": "253",
+  "prices": [
+   "fifty small gold coins"
+  ],
+  "snippet": "If he received a skill that he spent fifty small gold coins on the previous month, he would feel like a fool. Yet after gaining twenty-five levels in this class"
+ },
+ {
+  "file": "261-270.md",
+  "line": 345,
+  "ch": "260",
+  "prices": [
+   "five gold"
+  ],
+  "snippet": "\u201cOkay, while the idiot recovers how about we discuss this mission? Don\u2019t you think that it's a bit strange that the guild master gathered us all up? What could "
+ },
+ {
+  "file": "291-300.md",
+  "line": 1751,
+  "ch": "295",
+  "prices": [
+   "one silver"
+  ],
+  "snippet": "Bernir caught up to the party as he was the slowest of the group. When he got there he could see a very serious-looking Aubron glancing into the distance while "
+ },
+ {
+  "file": "301-310.md",
+  "line": 1575,
+  "ch": "305",
+  "prices": [
+   "one gold",
+   "hundred gold"
+  ],
+  "snippet": "Everything started making more sense as this whole trial was shaping up to be some sort of game. The plus one gold was probably how much of it he would gain per"
+ },
+ {
+  "file": "301-310.md",
+  "line": 1587,
+  "ch": "305",
+  "prices": [
+   "one gold",
+   "one gold"
+  ],
+  "snippet": "\u201cOkay\u2026 first I need to send someone out to scout for more resources, this small encampment is generating one gold but everything costs at least one gold\u2026\u201d"
+ },
+ {
+  "file": "301-310.md",
+  "line": 1671,
+  "ch": "305",
+  "prices": [
+   "twenty-five gold"
+  ],
+  "snippet": "While his scout unit and stables that cost twenty-five gold units were being assembled he decided to visit the city blacksmith. It was clear to him that his tro"
+ },
+ {
+  "file": "31-40.md",
+  "line": 1551,
+  "ch": "34",
+  "prices": [
+   "two small gold coins"
+  ],
+  "snippet": "The only slight fear that he had was that there would be a different class option like the last time. This would be good news but he still could fail his class "
+ },
+ {
+  "file": "321-330.md",
+  "line": 861,
+  "ch": "322",
+  "prices": [
+   "ten small gold coins"
+  ],
+  "snippet": "\u201cI see that the gentleman has a keen eye, I\u2019ll part with it for a measly ten small gold coins.\u201d"
+ },
+ {
+  "file": "321-330.md",
+  "line": 869,
+  "ch": "322",
+  "prices": [
+   "nine large silvers"
+  ],
+  "snippet": "\u201cSeven and nine large silvers!\u201d"
+ },
+ {
+  "file": "331-340.md",
+  "line": 1627,
+  "ch": "335",
+  "prices": [
+   "one silver coin"
+  ],
+  "snippet": "\u201cYou want me to believe that? Nevertheless, if you don\u2019t want to talk, then that\u2019s fine. The truth will come out eventually as it always does but don\u2019t think yo"
+ },
+ {
+  "file": "341-350.md",
+  "line": 699,
+  "ch": "341",
+  "prices": [
+   "thousand gold coins"
+  ],
+  "snippet": "\u201cJust as the two Lords have agreed on, a thousand gold coins for the Knight Commander and another five hundred for the others.\u201d"
+ },
+ {
+  "file": "341-350.md",
+  "line": 2315,
+  "ch": "347",
+  "prices": [
+   "hundred gold coins",
+   "hundred gold coins"
+  ],
+  "snippet": "Roland looked at a small sack filled with various precious gems. After letting his calculation-related skills do the work he was given a gold price of around tw"
+ },
+ {
+  "file": "361-370.md",
+  "line": 1915,
+  "ch": "365",
+  "prices": [
+   "hundred gold coins",
+   "hundred gold coins"
+  ],
+  "snippet": "\u201cI guess I can part with a hundred gold coins\u2026"
+ },
+ {
+  "file": "361-370.md",
+  "line": 1919,
+  "ch": "365",
+  "prices": [
+   "hundred gold",
+   "hundred golden coins"
+  ],
+  "snippet": "A quick deal was made of the guild paying a fine. On the surface, it would look like they paid a sum of five hundred golden coins but ninety percent of it would"
+ },
+ {
+  "file": "381-390.md",
+  "line": 525,
+  "ch": "381",
+  "prices": [
+   "one gold coin",
+   "one gold coin"
+  ],
+  "snippet": "\"I'll wager one gold coin on him not lasting more than a minute!\""
+ },
+ {
+  "file": "381-390.md",
+  "line": 527,
+  "ch": "381",
+  "prices": [
+   "One gold coin",
+   "One gold coin"
+  ],
+  "snippet": "\"One gold coin on under a minute!\""
+ },
+ {
+  "file": "381-390.md",
+  "line": 531,
+  "ch": "381",
+  "prices": [
+   "two large silvers"
+  ],
+  "snippet": "\"I'll put down two large silvers on his arm getting broken!\""
+ },
+ {
+  "file": "381-390.md",
+  "line": 533,
+  "ch": "381",
+  "prices": [
+   "Two large silvers"
+  ],
+  "snippet": "\"Two large silvers on a limb breaking!\""
+ },
+ {
+  "file": "41-50.md",
+  "line": 833,
+  "ch": "42",
+  "prices": [
+   "two silver"
+  ],
+  "snippet": "The two silver moons continued to brighten the sky like two crescent daggers. Soon a new day dawned bringing new events with it."
+ },
+ {
+  "file": "411-420.md",
+  "line": 1683,
+  "ch": "416",
+  "prices": [
+   "two silver"
+  ],
+  "snippet": "Students were chatting around with each other as the news spread of a new arrival at the institute. The two silver-badged students soon forwarded the informatio"
+ },
+ {
+  "file": "421-430.md",
+  "line": 2409,
+  "ch": "428",
+  "prices": [
+   "thousand gold coins"
+  ],
+  "snippet": "\u201cAs a consequence of your actions, Lady Viola, you are hereby suspended from attending classes for the next two months. This suspension will serve as a period o"
+ },
+ {
+  "file": "421-430.md",
+  "line": 2413,
+  "ch": "428",
+  "prices": [
+   "thousand gold coins"
+  ],
+  "snippet": "\u2018A thousand gold coins is nothing for a noble house like that, she won\u2019t have to work for it for even a minute\u2026\u2019"
+ },
+ {
+  "file": "51-60.md",
+  "line": 1060,
+  "ch": "53",
+  "prices": [
+   "nine small gold"
+  ],
+  "snippet": "The old man was a tier 3 High Priest and the treatment required Roland to fork over nine small golden coins. Normally he would need months of crafting and makin"
+ },
+ {
+  "file": "51-60.md",
+  "line": 1192,
+  "ch": "53",
+  "prices": [
+   "100 small gold coins"
+  ],
+  "snippet": "The number he would be getting is 100 small gold coins or 10 regular sized gold coins. This was quite a staggering number, this would let a regular family life "
+ },
+ {
+  "file": "51-60.md",
+  "line": 1503,
+  "ch": "54",
+  "prices": [
+   "150 small gold coins"
+  ],
+  "snippet": "Roland moved over and looked inside the bag, he was greeted by quite a bit of golden coins. 150 small gold coins to be exact and next to the bag was a book. Thi"
+ },
+ {
+  "file": "591-600.md",
+  "line": 2433,
+  "ch": "598",
+  "prices": [
+   "ten gold"
+  ],
+  "snippet": "Broad cobblestone paths wound between manicured hedges, each shaped into mythical beasts such as gryphons, dragons, and even the rare phoenix. Water from a crys"
+ },
+ {
+  "file": "611-620.md",
+  "line": 775,
+  "ch": "612",
+  "prices": [
+   "one silver"
+  ],
+  "snippet": "Everyone froze, staring at the Duke as his aura burst to life. It was still aura energy, yet its coloring was different. For most, it was crimson, but here it s"
+ },
+ {
+  "file": "641-650.md",
+  "line": 345,
+  "ch": "640",
+  "prices": [
+   "ten gold coins",
+   "ten gold coins"
+  ],
+  "snippet": "The gnome mage held out both hands, but Roland was not sure what to make of the gesture. If the gnome was offering ten gold coins for his new suit of armor, the"
+ },
+ {
+  "file": "661-670.md",
+  "line": 1387,
+  "ch": "663",
+  "prices": [
+   "ten gold"
+  ],
+  "snippet": "The glowing lines across the mural intensified until the entire wall shone like molten gold. The pillars depicted in the carving began to radiate actual streams"
+ },
+ {
+  "file": "671-680.md",
+  "line": 1991,
+  "ch": "675",
+  "prices": [
+   "Five silver"
+  ],
+  "snippet": "\u201cFive silver tha\u2019 they\u2019ll get stuck deep in a mountain!\u201d"
+ },
+ {
+  "file": "71-80.md",
+  "line": 164,
+  "ch": "69",
+  "prices": [
+   "hundred small gold coins"
+  ],
+  "snippet": "Roland moved inside, the house was nice and spacious. The wooden floor creaked with each step that he took but that was fine. It also had a large cellar built i"
+ },
+ {
+  "file": "71-80.md",
+  "line": 295,
+  "ch": "70",
+  "prices": [
+   "100 small gold coins"
+  ],
+  "snippet": "The adventurer card was one of the rare items with which you could use as identification. Without it, he would need to prove his origin, or apply for citizenshi"
+ },
+ {
+  "file": "71-80.md",
+  "line": 1215,
+  "ch": "74",
+  "prices": [
+   "one small silver coin"
+  ],
+  "snippet": "Roland wasn\u2019t that strapped for cash, plus the fee was only one small silver coin. With this, he was also able to get a seat for himself while anyone that wasn\u2019"
+ },
+ {
+  "file": "71-80.md",
+  "line": 1239,
+  "ch": "74",
+  "prices": [
+   "four large silver coins"
+  ],
+  "snippet": "\u201cThe starting price will be\u2026 four large silver coins.\u201d"
+ },
+ {
+  "file": "71-80.md",
+  "line": 1338,
+  "ch": "75",
+  "prices": [
+   "hundred small gold coins"
+  ],
+  "snippet": "This cycle continued till the adventurer in question either made enough money to rent themselves a room or they perished while trying. Not many adventurers coul"
+ },
+ {
+  "file": "81-90.md",
+  "line": 1923,
+  "ch": "87",
+  "prices": [
+   "one silver"
+  ],
+  "snippet": "Besides the leader, all the others were in their high 40s in levels. After the leader finally advanced it was decided to wander below the 10th level. Bernir fel"
+ },
+ {
+  "file": "91-100.md",
+  "line": 789,
+  "ch": "91",
+  "prices": [
+   "three large copper coins"
+  ],
+  "snippet": "\u201cThat will be three large copper coins!\u201d"
+ },
+ {
+  "file": "91-100.md",
+  "line": 2457,
+  "ch": "97",
+  "prices": [
+   "two small silvers"
+  ],
+  "snippet": "\u201cNo idea, though Devyn and his boys aren\u2019t pushovers. This might be interesting. I\u2019ll put two small silvers on those idiots...\u201d"
+ },
+ {
+  "file": "91-100.md",
+  "line": 2497,
+  "ch": "97",
+  "prices": [
+   "Ten gold coins",
+   "Ten gold coins"
+  ],
+  "snippet": "\u201cTen gold coins does sound reasonable, doesn\u2019t it?\u201d"
+ },
+ {
+  "file": "91-100.md",
+  "line": 2501,
+  "ch": "97",
+  "prices": [
+   "Ten gold"
+  ],
+  "snippet": "\u201cTen gold too much for you? How about you leave us that armor of yours along with your shield and sword?\u201d"
+ }
+]

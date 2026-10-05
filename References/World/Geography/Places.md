@@ -18,7 +18,7 @@ Early story starts at the Arden estate in Caldris, then moves through towns and 
 
 **Carwen:** Mid-kingdom walled adventurer town. Guild, inn, mana-train station, nearby dungeon and goblin forest. First party forms here. Cabin lodging outside town early on.
 
-**Edelgard:** Craft / mountain city. Dwarves and gnomes common. Mines and smith trade. Singing Crow inn. Exeor's Magic Emporium and workshops. No local dungeon (hired clears / wild work). Higher inn rates than Carwen.
+**Edelgard:** Craft / mountain city. Dwarves and gnomes common. Mines and smith trade. Singing Crow inn. Grimboodle's Magic Emporium and workshops. No local dungeon (hired clears / wild work). Higher inn rates than Carwen.
 
 **Luden:** Southern port city. Caravan / sail hub toward Dragnis Island and Albrook.
 

@@ -14,7 +14,7 @@ Focused mana projectile; early core mage spell. Tutorial clone demonstrates chan
 
 ### Mana Arrow
 First seen: Chapter 10
-Faster, more penetrating mana projectile than Mana Bolt. Costs more mana and needs a longer cast. Roland’s nest-opener from ~100 m trees; Chapter 11 entrance dungeon-rat one-shot. Class-granted with Mage progression (knowledge dump at level thresholds). Chapter 20 shop scroll: **1 small silver**. Chapter 27: Roland grafts lesser elemental variants (wind / fire / water) onto Mana Arrow base via Diagnosis research.
+Faster, more penetrating mana projectile than Mana Bolt. Costs more mana and needs a longer cast. Roland’s nest-opener from ~100 m trees; Chapter 11 entrance dungeon-rat one-shot. Class-granted with Mage progression (knowledge dump at level thresholds). Chapter 20 shop scroll: **3 small silver** (Intermediate fair). Chapter 27: Roland grafts lesser elemental variants (wind / fire / water) onto Mana Arrow base via Diagnosis research.
 
 **Locked chant:** *Source of all magic, heed my call. Gather before me and form an arrow to pierce through my enemies. Mana Arrow.* Short fight close: *Mana Arrow!*
 
@@ -78,23 +78,23 @@ Chanted large fire storm.
 
 ### Fire Arrow / Firebolt Arrow
 First seen: Chapter 20 (shop scrolls)
-Tier 2 fire projectile. Regular shop scroll **3 small silver** (not much stronger than Mana Arrow; power depends on maker and materials). Runic Fire Arrow at Exeor costs **2 large silver** (~6–7×) because a Runesmith must produce it.
+Tier 2 fire projectile. Regular shop scroll Intermediate **6 small silver** (not much stronger than Mana Arrow; power depends on maker and materials). Runic Fire Arrow dusty shelf at Grimboodle costs **2 large silver** (~3× vanity list; fair High **10 SS**) because a Runesmith must produce it.
 
 ### Fireball
 First seen: Chapter 20 (shop talk)
-Stronger fire AOE scroll; shop talk ~**6 small silver**.
+Stronger fire AOE scroll; shop talk **≈1 large silver**.
 
 ### Runic Fire Arrow
-First seen: Chapter 20 (Exeor shelf); Roland's product Chapter 22
-Runic scroll form of a fire arrow. User can feed extra mana to amplify output (rank-capped). Chapter 22 Libra: Common grade; High ≈ up to **9 SS**; Highest near a grade jump (half-step toward Greater). Roland's first auction: ten scrolls (8 High + 2 Highest), comet logo, two boxes of five → 4L+5S and 4L+7S. Perfect schematic from a shop sample pays **2×** lesser schematic XP. Common scribing is much harder than lesser and drains mana hard (zero MP → headache/pass out + next-day regen debuff). Chapter 23: Low/Lowest rejects bound as a scrap grimoire; pages crumble on cast; no chant; used to grind Rune Mastery on mountain goblins.
+First seen: Chapter 20 (Grimboodle shelf); Roland's product Chapter 22
+Runic scroll form of a fire arrow. User can feed extra mana to amplify output (rank-capped). Chapter 22 Libra: Common grade; High ≈ up to **10 SS**; Highest about **12–15 SS** (near a grade jump / half-step toward Greater). Roland's first auction: ten scrolls (8 High + 2 Highest), comet logo, two boxes of five → 4L+5S and 4L+7S. Perfect schematic from a shop sample pays **2×** lesser schematic XP. Common scribing is much harder than lesser and drains mana hard (zero MP → headache/pass out + next-day regen debuff). Chapter 23: Low/Lowest rejects bound as a scrap grimoire; pages crumble on cast; no chant; used to grind Rune Mastery on mountain goblins.
 
 ### Runic Orb of Light
 First seen: Chapter 20
-Cheap end of Exeor's dusty runic shelf (≥1 large silver). Utility light. Chapter 25: Roland tries to buy a sample for schematic research.
+Cheap end of Grimboodle's dusty runic shelf (≥1 large silver). Utility light. Chapter 25: Roland tries to buy a sample for schematic research.
 
 ### Runic Aqua Ball
 First seen: Chapter 20
-Water-ball runic scroll on Exeor's dusty shelf. Chapter 25: Roland tries to buy a sample for schematic research.
+Water-ball runic scroll on Grimboodle's dusty shelf. Chapter 25: Roland tries to buy a sample for schematic research.
 
 ### Runic Gale Arrow
 First seen: Chapter 26 (sample + [Highest] schematic); combat use Chapter 38
@@ -123,7 +123,7 @@ First seen: Chapter 26
 Frost arrow runic scroll. Roland buys a sample and creates Common Frost Arrow Rune **[Highest]** (+**2000 XP**). Shares the arrow-body rune with other elemental arrows.
 
 ### Frost Bolt
-First seen: Chapter 25 (Exeor runic shelf)
+First seen: Chapter 25 (Grimboodle runic shelf)
 Ice/frost bolt scroll. Roland tries to buy a runic Frost Bolt sample for schematics (purchase deferred until the manager talk). Chapter 26: citywide sample hunt continues for elemental bolt/arrow variants.
 
 ### Greater Quagmire

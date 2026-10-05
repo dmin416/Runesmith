@@ -56,7 +56,7 @@ First seen Chapter 19 (Singing Crow Inn). Named Helci on first meeting. Half-gno
 | 19 | Gnome waitress at The Singing Crow. Roland bumps into her (boss: "stop flirting"). |
 | 20 | Still at the inn; Roland avoids irritable Helci at breakfast. |
 | 23–24 | First forest hunt fails; Roland clears five Mountain Goblins from a cliff; rope + mana stone; tsundere sausage "thanks" at the inn. |
-| 25 | Roland reflects on Helci; no new meeting. Deal focus at Exeor's (manager IDs his class). |
+| 25 | Roland reflects on Helci; no new meeting. Deal focus at Grimboodle's (manager IDs his class). |
 | 26 | Still at Singing Crow; Roland sees her running around the inn (alive; no nannying). |
 | 27 | On Manstos Grotto muster (~20); spots Roland's black robe (eyes wide then narrow). |
 | 28 | Scout at high Basic (L9 hard-cap / evolve track); joins Party 4 (Dalrak, Selanar, Orson, Roland); carriage ride. Same expedition party continues through the mine / Myrmeke stretch (Orson, Dalrak, Selanar, Helci). |
@@ -72,7 +72,7 @@ First seen Chapter 19 (Singing Crow Inn). Named Helci on first meeting. Half-gno
 | 43 | Hunter **T2** (second class; `Helci.md`). Broke; stays for errand pay. Arrowheads + stew. Roland hides Runecraft. |
 | 44 | Climbs open window; catches Roland with flaming bronze scorching sword. |
 | 45 | Silence deal for Mana Slash shortsword. **18**. Sees him as Enchantsmith. |
-| 46 | Follows to second weapon shop; Solaria distraction for Mana Slash borrow. Delivers Sharp longsword to Exeor. |
+| 46 | Follows to second weapon shop; Solaria distraction for Mana Slash borrow. Delivers Sharp longsword to Grimboodle. |
 | 47 | Left Edelgard ~2 months prior for dungeon city (farewell gift / note). |
 | 51 | Not present. Abyssal / cult greater illusion uses a twisted Helci form (and Sahildr / Arden maid Martha) to break Roland. |
 

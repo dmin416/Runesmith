@@ -1,6 +1,6 @@
 # Volcanic Island Ecology
 
-Hotspot / shield-island ecology for places like Dragnis-class volcanic islands. Geology first, then what can live there. Places: `Places.md`.
+Hotspot / shield-island ecology for places like Dragnis-class volcanic islands. Geology first, then what can live there. Places: `Places.md`. Resources for an old island with renewed volcanism: `VolcanicIslandResources.md`.
 
 ## Narrative
 

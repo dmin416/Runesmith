@@ -1,6 +1,6 @@
 # Economy
 
-> **Monster cores / mana stones:** `../Materials/MonsterCores.md` + `../Science/Energy/ManaStones.md`. **Size = level** (not chief title / Old 1/30). Foundations locked; late price sweeps later. Fat price book: `EconomyDesign.md`. Earth church paid-service anchors: `ChurchPaidServices.md` (design loot, not law).
+> **Monster cores / mana stones:** `../Materials/MonsterCores.md` + `../Science/Energy/ManaStones.md`. **Size = level** (not chief title / Old 1/30). Foundations locked; late price sweeps later. **Item price catalog:** `PriceCatalog.md`. Fat design book: `EconomyDesign.md`. Story chronology: `../../../Story/Notes/StoryPrices.md`. Earth church paid-service anchors: `ChurchPaidServices.md` (design loot, not law).
 
 ## Narrative
 
@@ -56,7 +56,9 @@ Each tier jumps roughly “a day → two weeks → half a year.” Test any pric
 | Goblin parts H (blood / materials) | **3 LC** (30 SC); with ear + expected rice stone → kill value **G = 12 LC**. Ecology: `../Fauna/MonsterPopulation.md` |
 | Rice-grain mana stone (low) | 2 SS |
 | Leader-band mana stone (~5× rice) | 1 LS |
-| Carwen inn night | 1 SS |
+| Carwen inn night (private room) | **1 SS** |
+| Shared inn bed | **5 LC** |
+| Better inn / night | **2 SS** |
 | Monthly lodging (30 nights, 10% off) | 270 LC |
 | Singing Crow night (Edelgard) | 14 LC |
 | Gate entry | 5 LC |
@@ -64,30 +66,84 @@ Each tier jumps roughly “a day → two weeks → half a year.” Test any pric
 | Starting pouch scale | about 1 SG |
 | Class-change crystal | 2 SG |
 | Unskilled day wage band | about 5–10 LC |
-| Run-down farm / workshop plot | **~30 SG** (Albrook boom-town: usable house + cellar on ~½ acre near walls / road / dungeon approach; not quiet-frontier dirt. Extra cleared farmland ~triple) |
+| Kitchen servant / maid | **1–2 SS / month + board** |
+| Head-Knight wage | **2–4 SG / month** peacetime; **~7 SG / month** campaign |
+| Ship coastal hop (below deck) | **3–5 LS** (Albrook **5 LS**); grub extra |
+| Ship long voyage with meals | **2–5 SG** |
+| Chicken / fowl | **3–5 LC** |
+| Sheep | **6–8 SS** |
+| Cow | **5–6 LS** |
+| Ox | **7–8 LS** |
+| Cheap trained mount | **2–5 SG** |
+| War horse | **5–20 SG** (elite up to **~10 LG**) |
+| Cottage purchase | **2–3 SG** |
+| Modest town house | **10–20 SG** |
+| Full plate (common steel) | **6–10 SG** |
+| Knight's full armor kit | **15–20 SG** |
+| Plain wool set / heavy outfit | **4–8 SS** / **2–3 LS** |
+| Run-down farm / workshop plot | **~30 SG** (Albrook boom-town) |
 | Family living reserve | **100 SG** ≈ **25–30 years** tax + food |
+| Foot / mounted / armored guard | **15 / 30 / 60 LC / day** |
+| Knight on campaign | **120 LC / day** |
+| Master carpenter / mason | **15–20 LC / day** / **20 LC / day** |
+| Knight's riding / high-grade horse | **5–6 SG** / **10–12 SG** |
+| Craftsman rent / merchant rent | **1 LS / month** / **2.4–3.6 SG / year** |
+| Merchant's house purchase | **40–80 SG** |
+| Shoes / boots | **3 SS** / **5 SS–1 LS** |
+| Plain book / university board | **3–6 LS** / **~6 SG / year** |
+| Knight ransom (ordinary / elite / commander) | **100–200 / ~500 / ~1,000 SG** |
+| Peasant / gentry dowry | **1–4 SG** / **~80 SG** |
+| Bread / good ale gallon | **1–2 LC** / **7–8 LC** |
+| Goose / eggs / cheese | **30 LC** / **1 LC per 5** / **2–3 LC/lb** |
+| Spices / saffron | **6–18 SS/lb** / **7–9 LS/lb** |
+| Pig / draught horse / fodder | **1.2–1.8 LS** / **6–12 LS** / **5–8 LC/horse/day** |
+| Helmet / mail / ready plate | **1 SG** / **5–6 SG** / **10 SG** |
+| Undershirt / fur garment / wool yard / noble gown | **4 SS** / **4 LS** / **3 LS/yard** / **12–60 SG** |
+| Squire / page / priest | **7–10 SS/mo + keep** / **5 LC–3 SS/mo + board** / **~5–6 SG/year** |
+| Cottage rent / illuminated book / book section | **3 LS/year** / **1–5 SG** / **3–5 LC** |
+| Ruby / diamond ring / voyage bedding | **~1.5 SG** / **~9 SG** / **5–6 LS** (half resale) |
+| Healing potions (Low / Mid / High / Greater) | **2–5 SS** / **1–2 LS** / **5–10 LS** / **1–3 SG** |
+| Hangover / guild mana (employee) | **8–15 LC** / **2–4 SS** |
+| Porter / clerk / T3 barrier / T4 cleric / Platinum | **8–12 LC** / **10–15 LC** / **4–6 LS** / **1–2 SG** / **1–3 SG** per day |
+| Map / horse rental / airship / teleport ticket / old gate | **3–5 SS** / **1–2 SS/day** / **2–5 SG** / **5 LS–2 SG**/person / **1–5 SG** activation |
+| Skill books T1 / T2 / T3 | **2–5 SG** / **10–25 SG** / **50–100 SG** |
+| Church elixirs (scar / curing / limb / divine) | **2–5 SG** / **9–30 SG** / **15–30 SG** / **30–100 SG** |
+| Church services | **≈9×** engine casting labor |
+| Mage robe / enchanted weapon-shield / prosthetic / carriage | **2–5 SG** / **5–10 SG** / **10–30 SG** / **5–20 SG** |
+| Standard golem | **2–5 LG** (unique auction **~6×** build) |
+| Stall protection fee | **2–5 SS / week** |
+
+**Bare "gold"** without small/large = **SG**. Haggle **~20–25%** off ask; used magic **~0.5–0.6×**; unique auction **~6×** build floor. Mithril runic gear floor **≥1 LG** is a mithril minimum, not a ceiling on complex non-mithril enchanted work. Full tables: `PriceCatalog.md`, `EconomyDesign.md`, `ValueReference.md`.
 
 ### Potions
 
 Behavior: `../../Items/Items.md`. Graded Lowest → Highest. Healing and recovery potions **close flesh** when drunk or poured. Heat runs through torn muscle and staunches bleed. The brew can hurt worse than the wound. This is body mending in the story, not a game meter.
 
-| Grade / item | Effect / price feel |
+| Grade / item | Effect / price |
 |---|---|
-| Lowest / low-grade healing | Seals holes; leaves residual soreness. Not equal to a strong priest mend. About **2–5 SS** |
-| Hangover potion | Separate item from healing. About **8–15 LC** |
-| Higher grades | Close more; leave less ache. Prices later |
+| Low healing | Seals holes; leaves residual soreness. **2–5 SS** |
+| Mid healing | **1–2 LS** |
+| High healing | **5–10 LS** |
+| Greater healing | **1–3 SG** (rare single-use; not a skill-book substitute) |
+| Hangover potion | Separate item from healing. **8–15 LC** |
+| Guild mana potion | Employee rate **2–4 SS**. Mana restore, not a cheap heal |
 
 Dungeon-gate stalls mark potions up about **25% or more** over normal market.
 
-**Draft potion ladder (open; not locked):** Low **2–5 SS** (above) → Mid **1–2 LS** → High **5–10 LS** → Greater **1–3 SG**. Follows the ×10 coin feel when the ladder is opened.
-
-### Church miracle (locked)
+### Church (locked)
 
 | Service | Price | Notes |
 |---|---|---|
-| T3 High Priest curse heal (Solaria) | **9 SG** | Ch 53 list. ~1–2 years commoner household / soft living. Earth fee feel: `ChurchPaidServices.md` (miracle-tier, not parish pennies) |
+| Church services | **≈9×** engine casting labor | Anchor: **9 SG** curse heal ÷ T3 Highest casting labor **1,024 LC** ≈ **8.8×** |
+| Scar-concealment elixir | **2–5 SG** | Cosmetic / stigma |
+| T3 High Priest curse heal (Solaria) | **9 SG** | Ch 53 list; curing-miracle floor |
+| Curing miracle | **9–30 SG** | Harder cures climb the band |
+| Limb regeneration elixir | **15–30 SG** | Above curse-heal floor |
+| Divine elixir | **30–100 SG** | Top church consumable |
+
+Earth fee feel: `ChurchPaidServices.md` (miracle-tier, not parish pennies).
 
 ### Open
 
-- Full shop tables and late prices
-- Full potion grade price ladder above low-grade (draft band above)
+- Soft late bands: power armor, orichalcum set, mithril/orichalcum anvil; percent town finance (protection / tax / loans)
+- Word scroll engine T1–T5 (blanks, ink, mana labor, shop table): locked in `../../Runes/ScrollEconomy.md`

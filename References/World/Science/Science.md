@@ -9,7 +9,7 @@ Earth-physics and craft anchors. Cast / mana law hub: `../../Runes/Energy.md`.
 | `Metallurgy/` | Forge metals, Earth alloys, ores, vacuum, gem seats, kitchen metal |
 | `Biomaterials/` | Animal / Ned material process, rubber, insect stocks, wood |
 | `Energy/` | Stones, cast tables, batteries, fans, compression, flight, waves |
-| `Body/` | Skin/limbs/teeth, Gut Check (ART), falling, mind-body skill |
+| `Body/` | Skin/limbs/teeth, Gut Check (ART), falling, mind-body skill, 360 vision |
 | `Invent/` | Century invent ladder, industrialization, paper, writing tools |
 | `Vehicle/` | Suspension, wheels, roads, mobile home / caravan |
 
@@ -80,6 +80,7 @@ Earth-physics and craft anchors. Cast / mana law hub: `../../Runes/Energy.md`.
 | `Body/Falling.md` | Fall thresholds, Shepherd's Leap |
 | `Body/MindBodySkill.md` | Recall ≠ motor skill (Drawing etc.) |
 | `Body/FocusCapacity.md` | Mental capacity (N men); Multitasking split %; Parallel Thinking skill (N parallels) |
+| `Body/Vision360.md` | Full-sphere vision: acuity, Rig A / Band B / Helm C, tiers, ten-men mind |
 
 ### Invent
 

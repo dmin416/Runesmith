@@ -17,7 +17,7 @@ Chapter and Source scrape for word vs runic scroll craft, use, skills, and chapt
 | Can overcharge / amplify? | **No user amplify called out.** Strength is locked by **how much mana the scribe poured while writing**. Bigger INT / pool at craft → stronger grade. | **Yes.** User may feed extra **energy** (mana or stamina) up to a **rank ceiling** (`RuneSystem.md`). Compression **cuts overload headroom**. Empower / Overload / overrun (~5× ceiling) are runic-side tools. |
 | Diagnosis / upgrade? | Diagnosis does not work. | Diagnosis works; Roland upgrades bought lows to High / Highest schematics. |
 | Time / XP (Ch 21) | Mana Arrow ~**10 min**, **+20 XP** | Fire Orb runic ~**45 min**, **+50 XP** (imperfect). Five regulars ≈ one runic time for more XP. |
-| Price feel | Cheap bulk (Mana Arrow shop **3 SS** rewrite; Source had **1 SS**). | ~**6–7×** regular (Fire Arrow runic **2 LS** vs regular **3 SS**). Dusty shelf until high-grade brand sells. |
+| Price feel | Cheap bulk (Mana Arrow shop **3 SS** rewrite; Source had **1 SS**). | Fair High Common ~**1.7×** word Fire Arrow (**10 SS** vs **6 SS**). Dusty shelf **1.5–2 LS** is vanity list, not the fair buy. |
 
 ---
 
