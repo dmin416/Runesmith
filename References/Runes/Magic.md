@@ -97,7 +97,8 @@ Surface symbols are not the whole working pattern. Working routes sit deeper and
 - User supplies **energy** to cast: **mana or stamina** (`Energy.md`: same cost from either pool).
 - Literally anyone can cast it (warriors, civilians, non-mages included), if they can pay the energy.
 
-**Type 2: Prefilled**
+**Type 2: Prefilled (optional research variant, not canon default)**
 
+- Canon default is Type 1 (empty, user pays activation; `RuneSetup.md` P1, `ScrollEconomy.md`). Prefilled is the P9 prepaid option and is not equal in standing.
 - Already charged. Waiting to be activated.
 - Literally anyone can activate it.

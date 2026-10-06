@@ -46,6 +46,7 @@ Capacity ≈ **V** mana at **1 mana/mm³**. Width is whatever shape the stone ha
 
 - **Smaller than normal for their level:** core runs **smaller** but **higher quality**.
 - **Much bigger than normal for their level:** core can run **bigger**, or **higher quality**, or a mix.
+- **Spiked Boar (L8) and Wereboar (L26) lock:** both are large-bodied beasts, so the body-size mod is **hard-locked** on: Spiked Boar chest stone is **leader-band (1 LS)**, Wereboar the same or higher. Size = level alone would drop L8 to rice-band (2 SS) and collapse the dungeon wage, so do not drop this mod for these species.
 - **Super monsters (dragons and peers):** can have **large and high quality** stones together.
 
 **Evolved monsters:** One or more evolutions → always have a core. More evolutions → larger / denser tendency (still read through the level curve + mods).
