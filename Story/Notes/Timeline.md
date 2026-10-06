@@ -71,7 +71,7 @@ He arrives at 10 and 3 months. The first skip here is another 3 months. The half
 
 ## Edelgard
 
-Arrival is 5 years 9 months in this world, age 10 and 9 months, not yet 11. Chapter 21 is that same day and says not yet 11. Chapter 20's "6 years" and "age ~11" are the lines that are off.
+Arrival is 5 years 9 months in this world, age 10 and 9 months, nearly 11. Chapter 21 is that same day and says not yet 11.
 
 Counted forward from that morning. Months are added as written. Six months is half a year. Three months stays three months.
 
@@ -90,7 +90,7 @@ Chapter 27's "still 11" does not survive the estate skip of 3 months. He arrives
 
 | Ch | What the summary says | Age | Year |
 |---|---|---|---|
-| 20 | Morning after the train. Half a year of adventuring behind him. Autumn-cool. Nearly 11. **Off:** the summary still says about 6 years. Same day as chapter 21 | 10 and 9 months | 5 years 9 months |
+| 20 | Morning after the train. Half a year of adventuring behind him. Autumn-cool. 5 years 9 months in this world. Nearly 11. Same day as chapter 21 | 10 and 9 months | 5 years 9 months |
 | 21 | Same day, fifth shop by sunset. **Not yet 11.** This line is the arrival age | 10 and 9 months | 5 years 9 months |
 | 22 | About half a year after the chapter 21 decision. Age still about 11. Party gold lasted that half year of materials, not 10 months | 11 and 3 months | 6 years 3 months |
 | 23 | **Timeskip: another 3 months.** Total about 9 months of Edelgard grind since arrival. Age still about 11. Then the forest and Helci | 11 and 6 months | 6 years 6 months |
@@ -100,7 +100,7 @@ Chapter 27's "still 11" does not survive the estate skip of 3 months. He arrives
 | 27 | Another 6 months. Age 12. He has been in Edelgard 1 year 3 months (9 months, then these 6). The Emporium contract, signed at 11 and 6 months, is only about 6 months old here. Departs for the mine in 2 days. Carwen party was 1 year 3 months ago. Contract leave is weekends plus 25 days a year | 12 and 0 months | 7 years |
 | 28 | Helci: months after the forest, then about 4 months with a caravan, still Scout L10. Those months sit inside the 6 since chapter 23, not after the mine. Carriage about 2 days | 12 and 0 months | 7 years |
 | 30–32 | Mine entry the same afternoon. Edelgard to the mine is about 2 days. A real rescue would be about a week | 12 and 0 months | 7 years |
-| 33 | Return from the mine, a few days after chapter 27. **Off:** "about 1 year into the contract approaching." He has been under contract about 6 months. The 1-year mark is still about 6 months ahead. A few months of scrolls from Blacksmith | 12 and 0 months | 7 years |
+| 33 | Return from the mine, a few days after chapter 27. About 6 months into the contract. A few months of scrolls from Blacksmith | 12 and 0 months | 7 years |
 | 34 | Sabotage for about 6 months. Back from the mine about 5 months, so the trouble started about a month before he returned. Contract elapsed about 11 months. About 2 years 1 month left on the 3-year term. The summary's "about 2 years left" matches | 12 and 5 months | 7 years 5 months |
 | 36 | Age over 12. Summer. Moves into the warehouse | 12 and 5 months | 7 years 5 months |
 | 37 | About 170 cm. Age about 12 or a little past | 12 and 5 months | 7 years 5 months |
@@ -140,7 +140,7 @@ Island year 0 = world year 10 = age 15.
 | 73 | About 1 week in Albrook. Mace took 2 days. Wants Tier 2 within 1 year | 15 | 10 | 1 week |
 | 74 | Renovation is a few days to a week. About 1 month in Albrook by auction day | 15 | 10 | 1 month |
 | 77 | More than 1 year in Albrook. Combined L75. Sixteen | 16 | 11 | ~1 |
-| 82 | About 10 or more years in this world. That fits year 11. **Off:** first party "about 5 years" ago. He met them at 10 and 6 months. He is just past 16. That is about 5 years 6 months | 16 | 11 | ~1 |
+| 82 | About 10 or more years in this world. That fits year 11. First party about 5 years 6 months ago. He met them at 10 and 6 months. He is just past 16 | 16 | 11 | ~1 |
 | 83 | About 1 month to finish the armor, inside this same year | 16 | 11 | ~1 |
 | 91 | Bernir's questions include "a year here." Matches the chapter 77 year, not a new skip | 16 | 11 | ~1 |
 | 93 | About 1 month with Agni | 16 | 11 | ~1 |
@@ -149,14 +149,14 @@ Island year 0 = world year 10 = age 15.
 | 105 | Armand is about 22. That is Armand, not Roland | 16 | 11 | ~1 |
 | 108 | In about 1 month the academy youths arrive. He remembers leaving Lucienne at about 3. That memory is right | 16 | 11 | ~1 |
 | 110 | Expedition pack: 2 months of fluid for a 1-month stay | 16 | 11 | ~1 |
-| 112 | Robert last seen about 6 or more years ago. He left at 10 and 3 months and is just past 16, so it is about 5 years 9 months. The "6 or more" is a few months high. Robert is 3 years older. Flashback is Roland at about 6 | 16 | 11 | ~1 |
+| 112 | Robert last seen about 5 years 9 months ago. He left at 10 and 3 months and is just past 16. Robert is 3 years older. Flashback is Roland at about 6 | 16 | 11 | ~1 |
 | 117 | About 4 days, then about 1 week, in the hot region. That region has been unmapped for about a year | 16 | 11 | ~1 |
 | 120 | Albrook side is about 1 week into the expedition. Bernir's sabaton is about 10 days of work | 16 | 11 | ~1 |
 | 122 | Bernir has missed him about 3–4 weeks | 16 | 11 | ~1 |
 | 123 | Sleep Immunity: about 1 week without sleep. About 1 day in the second labyrinth | 16 | 11 | ~1 |
 | 128 | About 2 or more weeks in. The cover story is 3 weeks underground. They surface for the remaining week | 16 | 11 | ~1 |
 | 131 | Bank branch is about 1–2 months old | ~17 | ~12 | ~2 |
-| 134 | Assassin was about 6 years ago. The assassin was at the end of Carwen, age 10 and 9 months, 5 years 9 months in this world. He is about 17 here. That gap is about **6 years 3 months**. The summary is 3 months short | ~17 | ~12 | ~2 |
+| 134 | Assassin was about 6 years 3 months ago. The assassin was at the end of Carwen, age 10 and 9 months. He is about 17 here | ~17 | ~12 | ~2 |
 | 135 | Lucienne is 10 and has insisted he is alive for about 7 years. 3 + 7 = 10. He left at 10 and 3 months, so 7 years later is 17 and 3 months. The summary rounds that to 17. This line is the lock for the round year | 17 | 12 | 2 |
 | 136 | He thinks Lucienne may not be able to travel for another 5–10 years. A guess, not a skip. She is 15 at chapter 434, which is 5 years later | 17 | 12 | 2 |
 | 138 | Age 17 | 17 | 12 | 2 |
@@ -231,14 +231,4 @@ Add these on top of world year 17. They are gaps between events, not a new total
 | 702 | Half a year of Agni-mana set aside |
 | 706 | Half a year of prep for the Quinquennial convocation |
 
-## Corrections
-
-Each line is a summary, or a rewrite note that copies one. The right-hand number is the clock above.
-
-1. **Summary chapter 20, and `Notes.md` at the Edelgard morning.** Written as about 6 years in this world. Arrival is **5 years 9 months**, nearly 11. Chapter 21, the same day, says he is not yet 11.
-2. **`Notes.md` at the Iron Flagon.** Written as about 6 years in this world. That night is the end of Carwen. **5 years 9 months, age 10 and 9 months.**
-3. **Summary chapter 33.** "About 1 year into the contract" on the ride home from the mine. He signed, then the chapter 27 skip of 6 months, then a trip of days. He is **about 6 months** in. The 1-year mark is about a month after the warehouse summer, not this carriage.
-4. **Summary chapter 82.** First party "about 5 years" ago. He met them at 10 and 6 months and he is just past 16. **About 5 years 6 months.** The "10 or more years in this world" on that same line is fine. Year 11 is more than 10.
-5. **Summary chapter 112.** Robert last seen "about 6 or more years" ago. Departure was at 10 and 3 months, and this is just past 16. **About 5 years 9 months.**
-6. **Summary chapter 134.** The assassin is "about 6 years" ago. Carwen ended at age 10 and 9 months, and this talk is age 17. **About 6 years 3 months.**
-7. **`Outline.md` opening.** He does not wake as a ten-year-old. He wakes at **5**. Ten is the ascension. He leaves **3 months** after that. The goblin at nine and the Mage at ten, later in that same paragraph, are already right.
+The chapters, notes, outline, summaries, and source dumps use this clock.

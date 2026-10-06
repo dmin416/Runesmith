@@ -6,7 +6,7 @@ Source dump: `References/Source/31-40.md` (catalog entry `# 35`).
 
 - Nightmare (old-Earth apartment / Queen through monitor) → wakes in carriage to Edelgard.
 - Return trip faster; he out cold half way; days off to sleep then grind.
-- ~**1 year** into Emporium contract approaching; **3 levels** to blacksmith (~months of scrolls).
+- About **6 months** into the Emporium contract; **3 levels** to blacksmith (~months of scrolls).
 - Season not named.
 
 ## Escape aftermath (told)

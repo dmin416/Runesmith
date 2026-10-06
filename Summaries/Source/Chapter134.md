@@ -12,7 +12,7 @@ Source dump: `References/Source/131-140.md` (catalog entry `# 136`).
 
 ## Talk
 
-- Robert: family thinks Roland dead; **Wentworth searched**. Roland rejects return (tyrant father; assassin from estate ~6 years ago; suspects Francine / Reyner / Edwin / even Robert). Lists hierarchy: mistress-born bottom; slap-on-wrist justice.
+- Robert: family thinks Roland dead; **Wentworth searched**. Roland rejects return (tyrant father; assassin from estate about **6 years 3 months** ago; suspects Francine / Reyner / Edwin / even Robert). Lists hierarchy: mistress-born bottom; slap-on-wrist justice.
 - Won’t return till strong enough. Robert apologizes for childhood bullying; still wants home; agrees **silence** if Roland stays in contact via Lucille’s crystal. Tease Lucille romance → Robert flustered denial. Outside party left in dark.
 
 ## Major plot points

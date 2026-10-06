@@ -6,7 +6,7 @@ Source dump: `References/Source/81-90.md` (catalog entry `# 84`).
 
 - **Rune Mending**: huge MP cost; each mend degrades grade (highest→high after 2); still useful for prolonging charges; wants mana-regen skills.
 - **Runesmith Lord’s Eyes**: software edit on finished items; spell code buried in runes (scribe language); can recolor light spell etc.; plan multi-element sword modes / pre-coded switches; combat recode risky if unfocused.
-- Next class at L100 or max Lord to L50; ~**10+ years** in world; cult + childhood soldier still linger; wonders about first party (~5 yrs) and Arden family.
+- Next class at L100 or max Lord to L50; ~**10+ years** in world; cult + childhood soldier still linger; wonders about first party (about **5 years 6 months**) and Arden family.
 
 ## Gauntlet craft (first deep-steel armor piece)
 

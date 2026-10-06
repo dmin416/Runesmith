@@ -5,7 +5,7 @@ Source dump: `References/Source/111-120.md` (catalog entry `# 114`).
 ## Flashback / identity
 
 - Childhood: older **Robert** beats ~6yo **Roland**; maid Martha comforts Roland; **Lady Francine** (Robert’s mother) tends Robert, ignores Roland.
-- Knight at guild = **Robert Arden**, youngest mistress-born brother; last seen ~6+ years ago (family gathering; he was squire). Now large young man.
+- Knight at guild = **Robert Arden**, youngest mistress-born brother; last seen about **5 years 9 months** ago (family gathering; he was squire). Now large young man.
 - Fear: hunting him vs coincidence academy credit mission (cross sea = merits; finish early). Robert ~3 years older; graduation age.
 
 ## Guild encounter
