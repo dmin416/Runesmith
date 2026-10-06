@@ -99,6 +99,8 @@ Ch 14 watcher Gale tip (AGI **120**, `k≈2–2.5`, `m_eff` 0.8–1.2) sits abou
 | Longbow arrow | 100 | — | — |
 | Warhammer / greatsword | 200–400 | heavy melee | well below Gale tip |
 | Volley, 10 warbow | 1,250 | — | below Gale tip |
+
+Bow / compound / Strength draw dial: `Bows.md` (STR 15 compound ~97 J).
 | Ogre club | 3,400 | — | ≈ soft / mid Gale tip |
 | Ballista bolt | 6,000 | — | ≈ hard / top Gale tip |
 | Horse + rider canter | 19,000 | — | full body KE (above tip) |

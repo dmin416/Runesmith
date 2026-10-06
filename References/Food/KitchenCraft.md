@@ -1,32 +1,32 @@
 # Kitchen Craft
 
-> **Food domain.** Cookware **production methods** (how to make the gear). Gear lists: `KitchenKit.md`. Pan culture / vacuum pans: `MagicalMeatCookware.md`. Story hooks: `../../Story/Notes/KitchenCraftHooks.md`.
+> **Food domain.** Cookware **production methods** (how to make the gear). Material picks / kitchen physics: `CookwareAndKnives.md`. Gear lists: `KitchenKit.md`. Pan culture / vacuum pans: `MagicalMeatCookware.md`. Story hooks: `../../Story/Notes/KitchenCraftHooks.md`.
 >
 > Metal **law** stays in `../World/Materials/Metals.md`. Shop forge how-to: `../World/Science/Metallurgy/CraftMetal.md`. Shop tool tiers: `../World/Science/Invent/MedievalIndustrialization.md`. Vacuum weld: `../World/Science/Metallurgy/Vacuum.md`. Do not park cookware law inside metallurgy hubs.
 
-Setting assumptions: adventuring world with no electricity. Maker is a blacksmith, enchanter, and mage. Power comes from muscle, water, wind, gravity, or enchantment. Anything mechanical must be built before it can build other things.
+Setting assumptions: adventuring world with no electricity. No aluminum, no petroleum, no synthetic nonstick. Maker is a blacksmith, enchanter, and mage. Power comes from muscle, water, wind, gravity, or enchantment. Anything mechanical must be built before it can build other things.
 
 ## Kitchen knife metal picks
 
-Metal names follow `../World/Materials/Metals.md`. This table is cookware / kitchen kit only.
+Metal names follow `../World/Materials/Metals.md`. Full by-type ladder: `CookwareAndKnives.md`. This table is production shorthand only.
 
 | Use | Metal |
 |---|---|
 | Peasant or starter knife | Iron |
-| Everyday chef's knife | Steel (tier-1 default) |
-| Runesmith's working knife | Darksteel (tier-2 default) |
-| Enchanted knife cast often | Star steel or mythril |
-| Luxury reusable runic knife | Mythril (thin plate over a core) |
-| Noble or prestige set | Orihalcum (no enchant path) |
-| Legendary heirloom | Adamantium |
-| Handle fittings and ferrules | Copper or bronze |
+| Everyday chef's knife | Hardened high-carbon steel (1095-class) |
+| Runesmith's working knife | Darksteel |
+| Best sharpenable kitchen steel | Pure star steel (or san-mai star steel core / darksteel clad) |
+| Hide / scale work | Durasteel core, darksteel cladding |
+| Fruit / table (nonreactive) | Silver or mythril |
+| Legendary heirloom | Adamantium (weakness-honed; no flex for fillet/boning) |
+| Bolsters and fittings | Aurium, orihalcum, copper or bronze (not blade metals) |
 | Decorative inlay | Silver or gold |
 
 ### Substitutions for cookware sections below
 
-- **Stainless:** use steel for plain cookware. For hex lattice / tri-ply faces use mythril.
-- **Magic steel:** darksteel for durable runes, or star steel for a high-conductivity host.
-- **Rune disc (pan):** copper is cheap mid conductivity. Mythril or star steel for luxury.
+- **No aluminum / stainless.** Plain cookware is iron, carbon steel, copper (lined) or cast iron. Corrosion-resistant faces: tin lining, silver lining, glass enamel or mythril fruit-contact.
+- **Magic steel:** darksteel for durable runes, or star steel for tough high-% Fe-line stock. Star iron for crack-proof skillets / Dutch ovens.
+- **Rune disc (pan):** copper or aurium mid conductivity. Mythril heating rune under adamantium for even point-source heat (bolt-on plate; do not cast mythril into the pour).
 - **Iron skillet:** worst common host. Rune-core pans want steel or better.
 
 ## Production methods by item
@@ -34,7 +34,7 @@ Metal names follow `../World/Materials/Metals.md`. This table is cookware / kitc
 ### Core and Full Minimal Kit
 
 #### 1. 12 inch skillet
-- **Material:** Cast iron or carbon steel. Stainless is not available without chromium alloy knowledge or magic. Use steel for plain cookware; for corrosion-resistant faces see knife-section substitutions (mythril).
+- **Material:** Cast iron or carbon steel. No aluminum. No synthetic nonstick; season with oil and heat. For enamel / magic upgrades see `CookwareAndKnives.md`.
 - **Cast iron method:** Carve a wooden pattern (two halves for a lip). Pack green sand around the pattern in a two-part flask. Remove the pattern and cut a gate and vent. Melt iron in a furnace with a bellows or a heat rune. Pour. Let cool. Break out the sand. Clean the casting with files and a grindstone. Machine the cooking surface smooth on a lathe if available. Season with oil and heat.
 - **Forged carbon steel method:** Heat a sheet or billet. Hammer over a stake or into a swage die to raise the sides. Planish (smooth hammering) the interior. Rivet or forge-weld a handle on. Season.
 - **Fast version:** A press with a die stamps a flat disc into a pan shape in one stroke.
@@ -55,7 +55,7 @@ Metal names follow `../World/Materials/Metals.md`. This table is cookware / kitc
 - **Magic assist:** Heat distribution rune. Weight-reduction enchantment for transport.
 
 #### 4. Sheet pan
-- **Material:** Iron sheet, steel sheet, or aluminum (unlikely without magic).
+- **Material:** Iron sheet or steel sheet. No aluminum.
 - **Method (no mill):** Forge a billet flat with a sledge and hand hammers. Repeat heating and hammering until thin. This is slow and uneven.
 - **Method (rolling mill):** Pass heated bar through rollers repeatedly. Cut to size with shears. Fold or wire the edges for stiffness. Hammer the corners.
 - **Method (press):** Stamp a flat sheet with a rimmed die.

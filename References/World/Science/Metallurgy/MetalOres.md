@@ -219,14 +219,14 @@ Dark, heavy, olive-green rock like peridotite and serpentine.
 ### Titanium
 
 - **Terra public stock:** **adamantium** (converted Ti). Mundane Ti sponge / Kroll plate is **not** street form (`Metals.md`).
-- **Found in:** rutile and ilmenite in black beach and river sands (Earth / invent path).
+- **Found in:** rutile, ilmenite, leucoxene and titanomagnetite in black beach and river sands; residual Ti-rich laterite on old wet volcanic islands (Earth / invent path). Quantities, grades and volcanic recovery: `Titanium.md`.
 - **Processing (SPECIALTY invent):**
-  1. Separate the black sand by magnet and washing.
+  1. Separate the black sand by magnet and washing (titanomagnetite jumps to a magnet; ilmenite is only weakly magnetic; rutile is nonmagnetic).
   2. Heat rutile with carbon in a stream of chlorine gas. The product is titanium tetrachloride, a fuming liquid.
   3. Distill the liquid to purify it.
   4. Reduce with molten magnesium or sodium in a sealed vessel with no air.
   5. Dissolve out the magnesium chloride to leave porous titanium sponge then press and melt.
-- **Notes:** Melts at **1668 °C**. Hot titanium absorbs oxygen and nitrogen from air and turns brittle so the whole process must be shielded. Chlorine gas is deadly. Full Kroll detail: `EarthAlloys.md` (Ti-6Al-4V encyclopedia only).
+- **Notes:** Melts at **1668 °C**. Hot titanium absorbs oxygen and nitrogen from air and turns brittle so the whole process must be shielded. Chlorine gas is deadly. Most mined Ti becomes pigment, not metal. Full Kroll and USGS figures: `Titanium.md`. Alloy encyclopedia: `EarthAlloys.md` (Ti-6Al-4V).
 
 ### Zirconium
 

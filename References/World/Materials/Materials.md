@@ -20,7 +20,8 @@ MAGIC Au: orihalcum (converted gold; magic resistance = % conversion)
 MAGIC Cu: aurium (converted copper; damps flowing mana; industrial insulator)
 MAGIC Fe: darkiron (<80%) → star iron (≥80%)
 MAGIC steel: darksteel (<80%) → star steel (≥80%); often forged from star iron + carbon
-MAGIC Ti: adamantium (converted titanium; cast-final indestructible; mundane Ti not street)
+MAGIC Ti: adamantium (converted titanium; cast-final indestructible; heat spreader / ~0 expansion / sound-resonance weakness; mundane Ti not street). Detail: `Metals.md`
+MAGIC V-line: durium (vanadium anchor; dark blue ore; crude brittle / refined strong) · durium carbide ≈ VC hard particle · durasteel = darksteel + 20–35% vol carbide (steel-weight cermet) · aether durasteel (fire-gear refine) · etherium mix → rune life toward mythril. Specs: `Metals.md`
 MAGIC stone: arcanium (less refined) · aetherium (better / refined) · artificial space-cook stones (MonsterCores) · Stillwire/Lightthread invent · cores MonsterCores.md
 MAGIC moon ore: red/blue moon deposits (`../Space/Moons.md`); ages of space-ambient soak; prestige when reachable; not a new Earth element
 

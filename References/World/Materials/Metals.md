@@ -4,7 +4,7 @@
 
 ## Narrative
 
-Metals convert under mana concentration. Temporary charge bleeds off. Permanent conversion starts past a conductivity threshold and rises with time and soak. Names are **bands on one conversion meter**, not separate Earth elements.
+Metals convert under mana concentration. Temporary charge bleeds off. Permanent conversion starts past a conductivity threshold and rises with time and soak. Names are **bands on one conversion meter**, not separate Earth elements. Living foundry / metal-slime conversion vessel: `../Fauna/Slimes.md`.
 
 ## Detail
 
@@ -195,9 +195,88 @@ Infernal forge talk in Source maps to pre-set work or cutting mana support, not 
 - **Barrel / chamber:** adamantium does not erode under hot powder gas. Double-base smokeless becomes the strongest practical propellant because barrel wear is gone. Chamber pressure is no longer limited by the tube; recoil, the shooter's body and the projectile surviving the pressure are the limits. Indestructible does not mean heat-proof: a steel-weight .50 barrel still climbs tens of °C per hot shot.
 - **Penetrator needle:** tungsten-dense cast needle about one third of the caliber in diameter, four calibers long, about a quarter of the bullet's weight, seated in a copper (or brass) slug. On armor impact the soft metal flattens and strips; the needle keeps going on a tiny point. It never blunts, bends or shatters. Hole is narrow (~4–8 mm). Behind armor it kills what it hits and throws some spall, with less wide damage than a copper bullet that gets through. Against flesh the copper still wounds; the needle separates and overpenetrates. Dig it out of a wreck and seat it in a fresh copper bullet. If density is only steel-like, cut needle penetration figures by about 60%. Full tier tables: `../../Combat/Firearms.md`.
 
+#### Heat and sound (follows from no-bend stiffness)
+
+**Why it conducts heat so well:** heat in a solid moves as lattice vibrations (phonons) plus free electrons. Phonon conduction scales with sound speed and with how far a vibration travels before scattering. A stiffer lattice carries vibration faster. A lattice that never yields is also almost perfectly elastic, so vibrations scatter far less and travel farther. Diamond is the real example: the stiffest common material is also the best heat conductor. Adamantium sits past diamond on stiffness, so it sits past diamond on conductivity.
+
+"Doesn't bend" applies at the scale of hands, hammers and siege engines. Atoms still vibrate at atomic scale, which is how heat and sound move through it.
+
+**Why expansion is ~0:** thermal expansion comes from uneven atomic vibration pushing atoms apart. A lattice that holds its shape against all force holds it against heat too.
+
+| Material | Conductivity (W/m·K) | Diffusivity (m²/s) | Expansion (ppm/K) | Sound speed (m/s) |
+|---|---|---|---|---|
+| Titanium (CP) | ~22 | ~9×10⁻⁶ | 8.6 | ~6,100 |
+| Steel | ~45–50 | ~1.2×10⁻⁵ | ~12 | ~5,900 |
+| Copper | ~400 | ~1.1×10⁻⁴ | 16.5 | ~4,700 |
+| Diamond | ~2,200 | ~1.2×10⁻³ | ~1 | ~18,000 |
+| **Adamantium** | **~3,000** | **~1.25×10⁻³** | **~0** | **~20,000** |
+
+Planning anchors (set piece, ~Ti density **~4.6 g/cm³**): tensile / hardness = no ordinary failure (indenter fails); pours molten ~**1,700 °C**; after set, no melt under ordinary forge heat. Specific heat ~**0.52 J/g·K**.
+
+**Heat spread time (rough, t ≈ L² / diffusivity):**
+
+| Distance | Titanium | Steel | Adamantium |
+|---|---|---|---|
+| Through 3 mm plate | ~1 s | ~0.75 s | <0.01 s |
+| Across 30 cm | ~3 hours | ~2 hours | ~70 s |
+| Across 1 m | ~1.3 days | ~1 day | ~13 min |
+
+**Consequences (locked feel):**
+- **No hot spots.** Flame on one point spreads across the whole piece fast. A torch on a blade tip warms the hilt within a minute or two.
+- **Plate armor is a heat spreader.** The plate never fails to fire or frost. It pulls that heat or cold across the whole suit and into the wearer. A thick insulating underlayer (padded gambeson, Needle Worm silk, wool) is mandatory.
+- **Mail spreads heat far less than plate.** Links touch only at small contact points, so heat crosses link to link slowly.
+- **Heat sinks.** Ideal for cooling plates, quench blocks and forge tooling. Pairs with etherium tower cores (over-Jc quench dumps heat). Adamantium cladding over a mana-path metal also pulls mana-burn heat away from hot spots.
+- **No thermal shock.** Near-zero expansion means it never warps or cracks from sudden heating or cooling.
+- **Joint mismatch.** Steel rivets and mounts expand in heat while adamantium does not, so joints tighten or loosen with temperature. Steel cast around an adamantium part shrinks onto it as it cools (strong shrink-fit for hilts and mounts).
+- **Exact-size casting.** It sets with no shrink, so molds need no shrinkage allowance. High conductivity freezes it fast against mold walls; pours must be fast into preheated molds.
+- **It rings.** Near-zero internal damping means a struck plate rings like a bell for a long time. Adamantium-armored fighters are loud in combat.
+- **Kitchen.** Even heat, no warp, inert surface, hot handles, ringing pots. Full pan / knife picks: `../../Food/CookwareAndKnives.md`.
+
+**What indestructible means:** shape and structure hold under any ordinary force. Edges never dull. Force still transmits through it. A war hammer on adamantium plate leaves the plate untouched while the wearer still takes the momentum (concussions, bruising, broken bones under it).
+
+#### Weakness / working method (locked destroy path)
+
+**Lock:** destroy / soften after set only by **resonant sound / mana vibration** (same family as the Blaha–Langenecker acoustic softening analog). Each casting has its own resonant frequency; a sustained tone at that frequency softens or shatters it. Tuned tools (singing chisels, resonant presses) soften a line or zone for shaping or a clean cut. **Adamant mail:** every link rings at a slightly different frequency, so one tone breaks only a few links. **Plate** is one frequency, so one tone threatens the whole piece.
+
+The stiffness that makes adamantium a top heat conductor also gives the ~20 km/s sound speed and near-zero damping that lets resonant vibration build. Heat physics already supports the sound weakness.
+
+Inspirational alternate (not locked): electroplastic / forced dense mana current through a zone to loosen the lattice (runesmith-only work; armored fighters fear strong mages). Do not use unless a beat reopens this lock.
+
+#### Handling (works with the locked weakness)
+
+- **Cast to net shape.** Mold design is the real craft. Holes, slots, threads and edge geometry get cast in.
+- **Cast sharp, stay sharp.** A blade edge cast into the mold never dulls.
+- **Mechanical joining.** Star steel or darksteel rivets through cast-in holes. Other metals cast around adamantium for hilts, mounts and frames.
+- **Cast-in-place chain.** Each new mail link is cast closed through already-set links.
+- **Cladding.** Adamantium covers a real mana-path metal underneath.
+- **Ordinary moving and lifting.** Light enough (Ti density band) for normal handling.
+
 ### Durium and durasteel
 
-**Durium:** hard brittle carbide/boride-like ore (dark blue sheen). **Durasteel:** durium particles in a darksteel matrix (cermet). Alone, slightly better than darksteel on rune-life from lattice damage under flow (`../../Runes/ManaMaterials.md` section 2). Etherium mix pushes enchant life toward mythril. **Aether durasteel** adds a thin mana-active phase for fire-gear buffs; still a poor wire.
+**Earth anchor: vanadium.** Durium is Terra’s vanadium-line magic metal. The hard particle inside durasteel is **durium carbide**, the analog of **vanadium carbide (VC, ~2,800 HV)**. Dead: tungsten-carbide density model (old ~12.5 g/cm³ durium / ~9–10 g/cm³ durasteel).
+
+**Why vanadium (not W / Cr / Mo):**
+- Real high-wear tool and knife steels (CPM 10V, S90V, 15V) use hard VC particles in a tough steel matrix. Same job as durasteel.
+- Vanadium metal is steel-gray with a bluish tint; many vanadium compounds are blue. Durium ore’s dark blue sheen follows.
+- Pure vanadium is fairly ductile. Small C / N / O make it badly brittle, so crude cavern-smelted durium is brittle on its own; clean refined durium is much stronger than iron.
+- Historic wootz / Damascus research: trace vanadium in Indian ore formed carbide bands behind pattern and edge-holding. Fits Roland upgrading a forge from a mine find.
+
+| Option | Hard particle | Why it fits less |
+|---|---|---|
+| **Vanadium** | VC ~2,800 HV | Best match |
+| Tungsten | WC ~2,200–2,600 HV | Classic cermet, but heavy and gray; would make durasteel ~20–25% heavier than steel |
+| Chromium | Cr carbides ~1,500–1,800 HV | Softer; reads as stainless / corrosion |
+| Molybdenum | Mo carbides ~1,500–2,000 HV | Bluish-gray ore, but real role is hot strength more than wear |
+
+**Durium:** refined vanadium-line metal from dark-blue ore (looks iron-like at a glance). Crude smelt = brittle; refined metal ≫ iron strength. **Durasteel:** darksteel matrix + **20–35% vol** durium carbide particles (cermet). Alone, only a little better than darksteel on rune-life from lattice damage under flow (`../../Runes/ManaMaterials.md` section 2). Etherium mix pushes enchant life toward mythril. **Aether durasteel** adds a thin mana-active phase for fire-gear buffs; still a poor wire.
+
+| Material | Density (g/cm³) | Tensile (MPa) | Mohs | Vickers HV | Melting (°C) |
+|---|---|---|---|---|---|
+| Durium, refined metal | **~6.0** | **~800** | **~6.5** | **~250** | **~1,910** |
+| Durium carbide (particle) | **~5.7** | brittle | **~9–9.5** | **~2,800** | **~2,800** |
+| Durasteel (darksteel + 20–35% carbide by vol) | **~7.3–7.5** | **1,200–1,600** | **8–8.5** | **900–1,300** | Matrix limited |
+
+Durasteel weighs about the same as ordinary steel (not 20–25% heavier). Weapons, armor, and golem parts keep normal handling weight.
 
 ### Etherium
 
@@ -254,7 +333,7 @@ Mundane Earth-like rows unchanged in feel. Named magic stock:
 | Darkiron / star iron | Rising with % | Fe line |
 | Darksteel / star steel | Rising with % | Melee blades / plate |
 | Adamantium | Little/no mana; hard to alter (cast-final) | Indestructible cover over a real rune inlay |
-| Durium / durasteel / aether durasteel | Earth-lean matrix; poor wire | Cermet armor and prestige hammers |
+| Durium / durasteel / aether durasteel | Earth-lean matrix; poor wire; **V / VC** density (steel-weight durasteel) | Cermet armor, tools, prestige hammers, golems |
 | Arcanium / aetherium | Stone refine line | `MonsterCores.md` |
 | Etherium | Persistent store; clean transfer | Tower cores, mixes |
 | Star silver / resistium | Host-dependent | Rune-life additives |
@@ -264,10 +343,109 @@ Mundane Earth-like rows unchanged in feel. Named magic stock:
 
 Separate from Fe conversion. Own black ore line. Unrefined / refined grades as before when a beat needs them.
 
+---
+
+## Inspirational physical numbers (NOT LOCKED)
+
+> **Big note — inspirational only.** Tables below are Earth-anchored planning feel for scenes that need a digit. They are **not** rewrite locks. Locked law stays in the sections above (conversion lines, cook order, mana roles, adamantium cast-final / heat / sound weakness, vanadium–durium link). Prefer locked text on conflict. Promote a row into a lock only when a beat needs that number.
+
+### Mundane baselines (Earth, room temp, annealed unless noted)
+
+Cold working raises tensile strength and hardness on all of these.
+
+| Mundane | Density (g/cm³) | Tensile (MPa) | Mohs | Vickers HV |
+|---|---|---|---|---|
+| Silver (pure) | 10.49 | 140–170 | 2.5 | ~25 |
+| Gold (pure) | 19.32 | 100–130 | 2.5 | ~25 |
+| Copper (pure) | 8.96 | 210–220 | 3 | ~50 (cold-worked ~100) |
+| Iron (pure / wrought) | 7.87 | 200–350 | 4 | 60–80 |
+| Steel, mild (1018) | 7.85 | ~440 | ~4.5 | ~130 |
+| Steel, medium carbon (1045) | 7.85 | 565–625 | ~5 | ~170 |
+| Steel, high carbon hardened (1095) | 7.85 | 1,500–2,000+ | 7–8 | 700–800 (60–65 HRC) |
+| Titanium (commercially pure) | 4.51 | 345–450 | 6 | ~145 |
+
+### Suggested conversion scaling (inspirational)
+
+Conversion does not add mass. Mana restructures the lattice; density shifts only slightly while strength and hardness climb.
+
+- **Density, melting point:** linear. `P(c) = P0 + (P100 − P0) × c`
+- **Strength, hardness, toughness:** back-loaded. `P(c) = P0 + (P100 − P0) × c^1.5`
+- `c` = conversion fraction (0–1). Half conversion ≈ **~35%** of the strength gain (why fine / pure cost so much).
+
+### Mythril (from silver) — inspirational grades
+
+Keeps silver’s ductility at every grade. Draws to wire; takes fine inscription. Not a blade metal on its own.
+
+| Grade | Conversion | Density (g/cm³) | Tensile (MPa) | Mohs | Vickers HV | Melting (°C) |
+|---|---|---|---|---|---|---|
+| Silver | 0% | 10.49 | 150 | 2.5 | 25 | 962 |
+| Low | ~20% | 10.35 | ~200 | 2.8 | ~40 | ~1,000 |
+| Standard | ~50% | 10.15 | ~345 | 3.4 | ~80 | ~1,055 |
+| Fine | ~85% | 9.90 | ~580 | 4.5 | ~145 | ~1,120 |
+| Pure | 100% | 9.80 | ~700 | 5 | ~180 | ~1,150 |
+
+### Darkiron / star iron (from iron) — inspirational grades
+
+Higher melt is the “hard to melt” feel. Still ferromagnetic.
+
+| Grade | Conversion | Density (g/cm³) | Tensile (MPa) | Mohs | Vickers HV | Melting (°C) |
+|---|---|---|---|---|---|---|
+| Iron | 0% | 7.87 | 260 | 4 | 70 | 1,538 |
+| Darkiron | ~50% | 7.84 | ~560 | 4.7 | ~170 | ~1,645 |
+| Star iron | 80% | 7.82 | ~860 | 5.4 | ~270 | ~1,710 |
+| Star iron, pure | 100% | 7.80 | ~1,100 | 6 | ~350 | ~1,750 |
+
+### Darksteel / star steel (from steel) — inspirational multipliers
+
+Steel has no single baseline; apply to the parent grade.
+
+- Tensile: `× (1 + 0.8 c^1.5)`
+- Hardness: `× (1 + 0.2 c^1.5)` (hardened steel is already near its ceiling)
+- Fracture toughness K_IC: `× (1 + 2 c^1.5)` — **real sell:** mundane steel trades toughness for hardness; star steel breaks that trade
+- Melting: `+ 200 c` °C
+- Density: 7.85 → ~7.80
+
+| Base | Conversion | Tensile (MPa) | Mohs | Vickers HV | K_IC (MPa√m) |
+|---|---|---|---|---|---|
+| 1095 hardened | 0% | ~1,750 | 7–8 | ~750 | ~20 |
+| 1095 darksteel | ~50% | ~2,250 | ~8 | ~800 | ~34 |
+| 1095 star steel | 80% | ~2,750 | ~8 | ~860 | ~49 |
+| 1095 star steel, pure | 100% | ~3,150 | 8+ | ~900 | ~60 |
+| 1045 star steel, pure | 100% | ~1,070 | ~5.5 | ~205 | ~150+ |
+
+Pure hardened star steel holds the toughness of a mundane medium-carbon steel at blade-edge hardness.
+
+### Orihalcum and aurium (pure) — inspirational
+
+| Magical | Density (g/cm³) | Tensile (MPa) | Mohs | Vickers HV | Melting (°C) | Notes |
+|---|---|---|---|---|---|---|
+| Orihalcum | 18.8 | ~520 | 4.5 | ~160 | ~1,350 | Malleable at low/standard for cladding foil. Heavy. Cladding over a frame, not a frame. |
+| Aurium | 8.7 | ~520 | 4 | ~140 | ~1,200 | Seamless tube / sheet linings. Work-hardened bronze range. |
+
+### Related magic materials — inspirational physicals
+
+Durium / durasteel **vanadium / VC** densities and HV in the locked Durium section above win over any older WC sheet. Rows here are feel only.
+
+| Magical | Density (g/cm³) | Tensile (MPa) | Mohs | Vickers HV | Heat limit (°C) | Notes |
+|---|---|---|---|---|---|---|
+| Arcanium | ~3.3 | ~250 | 6.5 | ~650 | Disperses ~1,200 | Stone-metal. Brittle ceramic with a little metallic give. Disperses instead of melting (condensed mana will not stay condensed). |
+| Aetherium | ~3.0 | ~650 | 7 | ~850 | Disperses ~1,500 | Purer / lighter than arcanium. Draws to fiber (mana fiber-optic feel). |
+| Etherium | ~6.2 | ~900 cold-drawn | 5 | ~250 | Melts ~1,900 | NbTi-superconductor-wire feel. Ductile enough for tower-core coils. |
+| Durium (refined metal) | ~6.0 | ~800 | ~6.5 | ~250 | Melts ~1,910 | Prefer locked V-line table above. |
+| Durium carbide | ~5.7 | brittle | ~9–9.5 | ~2,800 | Melts ~2,800 | VC analog particle. |
+| Durasteel | ~7.3–7.5 | 1,200–1,600 | 8–8.5 | 900–1,300 | Matrix limited | Steel-weight cermet; 20–35% vol carbide. Prefer locked table above. |
+| Aether durasteel | ~7.0–7.4 | 1,200–1,600 | 8–8.5 | 900–1,300 | Matrix limited | Durasteel + thin aether phase; slightly lighter. |
+| Star silver | ~10.1 | ~450 | 3.5 | ~120 | Melts ~900 | Sterling-like; lower melt than mythril from Cu content. |
+| Resistium | ~5.0 (powder) | n/a (additive) | 7.5 | ~700 | Stable past host melt | ODS-style. Dose ~0.3–1.0% by weight; +20–40% hot strength / creep without changing host density much. |
+| Arcanite | ~3.6 | n/a (crystal) | 9.5 | ~2,600 | Disperses ~2,000 | Reserved prestige. Diamond-class hardness; clean cleavage. Placeholder. |
+| Ebonite | ~10.8 | ~700 | 6.5 | ~400 | Melts ~1,900 | Baseline grade only. |
+
 ## Open
 
 - Converted-% host feel vs quality η_cond (quality ladder already locked in `Energy.md`)
 - Absolute cook `speed` / `K_%` digits (finish table is landmark planning only)
 - Ebonite geography
 - Guild-rank spelling Orichalcum vs metal orihalcum (keep both unless prose confuses)
+- Promote any inspirational physical row above only when a scene needs that digit
+- Inspirational alternate adamantium weakness (forced mana current / electroplastic) stays Soft unless reopened
 

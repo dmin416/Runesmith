@@ -103,7 +103,7 @@ Opposite bands (Fire↔Water, Earth↔Wind) in one lattice strain it. Layered / 
 | Element | Band | Imbue effect | Best host lean |
 |---|---|---|---|
 | Fire | Red / infrared | Raises melting point and emissivity. Can recycle waste heat as fire mana | Tungsten, graphite, mythril (fire lean) |
-| Earth | Yellow / ochre | Raises density and hardness. Cuts expansion and wear. Can raise rune life on the radiation-damage axis | Tungsten alloys, WC-Co, darkiron / star iron |
+| Earth | Yellow / ochre | Raises density and hardness. Cuts expansion and wear. Can raise rune life on the radiation-damage axis | Vanadium / VC (durium line), tungsten alloys, WC-Co, darkiron / star iron |
 | Wind | Green | Cuts density. Raises stiffness per weight and strike response | High-stiffness light alloys, nitinol, carbon fiber |
 | Water | Blue | Raises specific heat and corrosion immunity. Self-healing lean | Cupronickel, bronze, mythril (water lean) |
 | Aether | All four | Passes every band with least loss | Etherium, aether durasteel |
@@ -159,6 +159,7 @@ All pairs are layered or multiphase. A uniform lattice cannot hold opposite band
 | Mythril | none required for SC path; element lean is mode only | Native superconducting host (`Metals.md`) |
 | CP titanium | Water | Bound |
 | WC-Co / tungsten heavy / pure W | Earth / Fire (W) | Bound / native |
+| Durium / durium carbide (V / VC anchor) | Earth | Bound / native (carbide) |
 | Lead and tin | Water or Earth | Loose |
 | Etherium / aether durasteel | Aether | Native / bound |
 | Adamantium | none | Cannot be imbued (clear glass; not a path host; cover only) |

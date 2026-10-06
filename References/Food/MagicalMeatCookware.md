@@ -2,7 +2,7 @@
 
 **Proposal / rough idea. Not law.**
 
-How to cook magical beast meat so potency stays in the dish instead of dispersing. World lock: meat tastes good but **spoils fast** (`Food.md`). Cookware production: `KitchenCraft.md` (Food domain). Broader kitchen magic (time, chill, sort, selective heat): `MagicalCooking.md`. Metal names: `../World/Materials/Metals.md`. Does not change `../Runes/Energy.md`.
+How to cook magical beast meat so potency stays in the dish instead of dispersing. World lock: meat tastes good but **spoils fast** (`Food.md`). Material picks: `CookwareAndKnives.md`. Cookware production: `KitchenCraft.md` (Food domain). Broader kitchen magic (time, chill, sort, selective heat): `MagicalCooking.md`. Metal names: `../World/Materials/Metals.md`. Does not change `../Runes/Energy.md`.
 
 ## Best choice: silver-lined copper
 

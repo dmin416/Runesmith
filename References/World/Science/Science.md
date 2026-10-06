@@ -23,6 +23,7 @@ Earth-physics and craft anchors. Cast / mana law hub: `../../Runes/Energy.md`.
 | `Metallurgy/MagicPowderMetallurgy.md` | Magic PM: conjured dies / HIP / vacuum weld; powder + mage labor limits |
 | `Metallurgy/EarthAlloys.md` | Earth alloy / carbon production encyclopedia (not Terra metal law) |
 | `Metallurgy/MetalOres.md` | Ore geography and extract routes |
+| `Metallurgy/Titanium.md` | Ti sources, USGS quantities, volcanic placer / laterite recovery |
 | `Metallurgy/Brass.md` | Cu–Zn melt, work, fittings |
 | `Metallurgy/CopperPipe.md` | Tube temper, join, water kill |
 | `Metallurgy/OverheatedMetals.md` | Burn / overheat by metal |

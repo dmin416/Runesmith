@@ -1,6 +1,6 @@
 # Weapons
 
-> **Design loot.** Hardness / pierce gates: `../World/Science/Energy/ManaCast.md`. Attack map: `AttackScale.md`. Light kit: `LightArmorLoadout.md`. Rune shield: `ShieldRuneDefense.md`.
+> **Design loot.** Hardness / pierce gates: `../World/Science/Energy/ManaCast.md`. Attack map: `AttackScale.md`. Bows / crossbows / limb materials: `Bows.md`. Light kit: `LightArmorLoadout.md`. Rune shield: `ShieldRuneDefense.md`.
 
 Design notes for blades and loadouts. Story gear lists stay in `../../Story/Notes/Items.md`. Consumable types: `../Items/Items.md`.
 

@@ -98,7 +98,7 @@ Giant praying mantis. Scythe forelegs can cut metal.
 
 ### Fire Slime
 First seen: Chapter 71
-Semi-transparent ball with a red core. Spits heated liquid that can melt skin. Physical hits fail on the body; mana-infused weapons or spells kill without destroying the sellable core. Weak but swarm fast. Early Albrook Dungeon corridor fodder.
+Semi-transparent ball with a red core. Spits heated liquid that can melt skin. Physical hits fail on the body; mana-infused weapons or spells kill without destroying the sellable core. Weak but swarm fast. Early Albrook Dungeon corridor fodder. Metal / lava slime expansion: `Slimes.md`.
 
 ### Fiery Skeleton
 First seen: Chapter 72

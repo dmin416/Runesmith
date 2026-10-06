@@ -12,6 +12,7 @@ Food and drink hub. Wealth feel is locked here. Deep cook / camp / ingredient ta
 | `FoodPrices.md` | Inn / tavern / spirits price book |
 | `Hemolymph.md` | Ned / insect hemolymph as complete food (design) |
 | `KitchenKit.md` | Core / full / upgrade cookware gear lists |
+| `CookwareAndKnives.md` | Pan / knife material picks and kitchen physics (no Al / petroleum / synthetic nonstick) |
 | `KitchenCraft.md` | Cookware production methods (Food domain; metal law stays in Materials/Metals) |
 | `MagicalMeatCookware.md` | Potency-preserving pans / vacuum meat cookware; uniform-heat whole-animal cook (proposal) |
 | `MagicalCooking.md` | Kitchen magic outcomes (chill, dry, time, sort, selective heat; design loot) |

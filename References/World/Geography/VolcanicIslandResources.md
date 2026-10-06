@@ -138,7 +138,7 @@ An old island has far more surface water than a young one. Erosion has carved va
 - **Laterite and bauxite:**
   - Thick iron-aluminum crusts on old, wet uplands.
   - Kauaʻi and Maui hold low-grade ferruginous bauxite, surveyed in the mid-1900s and never mined.
-  - Hawaiian laterites are notably high in titanium.
+  - Hawaiian laterites are notably high in titanium (upper-end weathered soils can exceed 10% TiO₂; never mined there). Detail: `../Science/Metallurgy/Titanium.md`.
 - **Fresh ash on old soil:** new ashfall blankets leached ground with fresh nutrients and rejuvenates farmland downwind of the vents.
 - **Alluvial valley soils:** the best farmland on the island. Deep, fertile and well-watered.
 - **Clays:**
@@ -184,7 +184,7 @@ An old island has far more surface water than a young one. Erosion has carved va
 |---|---|---|
 | Iron | Bog iron, laterite, magnetite and ilmenite placers in streams and beaches, possible skarn (see Contact Zones) | Best iron prospects of any version of this island |
 | Aluminum | Bauxitic laterite | Needs industrial processing |
-| Titanium | Laterite, ilmenite placers | Needs industrial processing |
+| Titanium | Laterite, ilmenite / titanomagnetite placers | Needs industrial processing for metal; pigment and Fe–Ti slag possible earlier. `../Science/Metallurgy/Titanium.md` |
 | Manganese | Oxide crusts at hot springs and in old alteration zones | Pigment and alloy use |
 | Copper | Native copper in old basalt vesicles, trace sulfides in old calderas, possible skarn | Small deposits at most |
 | Nickel, chromium | Mantle nodules, olivine-rich cumulates | Traces |

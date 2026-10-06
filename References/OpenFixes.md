@@ -34,7 +34,7 @@ Things that still need resolving in live `References/`. Trust disk, not Grep gho
 - Progression hubs + Design companions; Training age tracks; Attributes blood/affinity/perks; AdventurerRanks chapter detail
 - SourceLoot Materials naming gate
 - Old root flats / People / Food / World / Science / Items / Combat / PotentialMagic / Runes / Progression cleared into live
-- Kitchen craft under `Food/` (KitchenCraft / KitchenKit / MagicalMeatCookware); not Metallurgy
+- Kitchen craft under `Food/` (CookwareAndKnives / KitchenCraft / KitchenKit / MagicalMeatCookware); not Metallurgy
 - Fire≠spell lock in Energy; segments/pathways in Magic
 - `Old/Source/` → `References/Source/`
 - Live Story replaced with moved `Old/Story/` (Chapters / Notes / Undone / Outline)

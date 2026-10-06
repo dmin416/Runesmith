@@ -50,8 +50,8 @@ This file keeps Source strings for retune. Live metal law: `../World/Materials/M
 - Divine crystal - holy energy crystal (with empyrean); `251-260`
 - Dragon scales - high-level dragon part (black dragon scales speculated); `661-670`
 - Dragonbone / lesser dragonbone - structural monster bone beams / staffs; `651-660`
-- Durasteel - deep steel + durium alloy; `161-170`
-- Durium - dark blue hard brittle ore; base for durasteel; `161-170`
+- Durasteel - darksteel + durium carbide (VC analog; steel-weight); `161-170`; `World/Materials/Metals.md`
+- Durium - vanadium-line metal; dark blue ore; crude brittle / refined strong; base for durasteel; `161-170`; `World/Materials/Metals.md`
 - Earth elemental crystals - earth temple drops; `531-540`
 - Ebony - wood for hilts / fittings; `371-380`
 - Eldergold - rare divine-leaning metal rarer than mithril; `531-540`

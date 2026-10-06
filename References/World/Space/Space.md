@@ -12,3 +12,4 @@ Hub for Terra near-space and moons. World: `../World.md`. Ambient mana vs altitu
 | `OrbitEnergy.md` | Min mechanical energy per kg and full station to LEO / GEO |
 | `Hydrolox.md` | LH2/LOX chemistry, production, station propellant / power budget |
 | `Moons.md` | Red / blue moons; space-soaked deposits and craft split |
+| `InvisibleMoonTower.md` | Planning feel: invisible tapered adamantium Moon-throw tower (not locked) |

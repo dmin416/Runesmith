@@ -56,6 +56,7 @@ Anything a spider or insect makes is in scope. Prefer record bands for story pea
 | Armor cloth / pad | Aciniform-style wrap silk |
 | Fine sewing cloth | Cocoon silk ~0.5 GPa |
 | Best spring | Resilin |
+| Bow limb laminate | Low-hysteresis Needle Worm silk in shellac (fiberglass/carbon analog); detail `../../../Combat/Bows.md` |
 | Hard tips | Metal-enriched cuticle |
 | Permanent bond | Phenoloxidase hemolymph |
 | Wet seal | Caddisfly silk |

@@ -2,7 +2,7 @@
 
 > **Design loot / proposal.** Not street law. Wealth and never-eaten locks: `Food.md`. Potency pans / whole-animal heat: `MagicalMeatCookware.md`. Kit: `KitchenKit.md`. Does not change `../Runes/Energy.md` until a beat invents named spells or runes.
 
-Kitchen outcomes magic can buy if heat, water, time, sorting or kinetics are under control. Strongest pair for hard problems: **time acceleration + selective heating**.
+Kitchen outcomes magic can buy if heat, water, time, sorting or kinetics are under control. Strongest pair for hard problems: **accounted stimulation + selective heating**. Fermentation and aging speedups are never free; costs live in `CompressedTimeStimulation.md`.
 
 ## Removing heat
 
@@ -19,9 +19,11 @@ Kitchen outcomes magic can buy if heat, water, time, sorting or kinetics are und
 
 ## Speeding up time locally
 
-- **Aging:** Dry-aged beef normally 30 to 60 days. Cheese, wine, whiskey, cured ham and balsamic take months to decades.
-- **Fermentation:** Bread rising, sourdough, kimchi, miso, yogurt and soy sauce on demand.
-- **Braising:** Tough-cut / collagen problem: eight hours of breakdown in a minute.
+Not lazy time magic. Practitioner has no time manipulation. Acceleration is stimulation plus full input accounting: `CompressedTimeStimulation.md`. Totals stay fixed; rates × N; cooling, transport, bolstering and pathway balance set the bill.
+
+- **Aging:** Dry-aged beef normally 30 to 60 days. Cheese, wine, whiskey, cured ham and balsamic take months to decades. Price per pathway; heat-only ages taste cooked.
+- **Fermentation:** Bread rising, sourdough, kimchi, miso, yogurt, vinegar and soy sauce on demand. Moderate N near the natural ceiling is cheap; high N is industrial (mana stones / runic vats).
+- **Braising:** Tough-cut / collagen problem: eight hours of breakdown in a minute. Same divergent-reaction wall as MagicalMeatCookware; blunt heat alone fails.
 
 ## Slowing time
 
@@ -69,5 +71,5 @@ Kitchen outcomes magic can buy if heat, water, time, sorting or kinetics are und
 ## Open
 
 - Which effects are pure mana vs frost/heat affinity vs runic kitchen gear
-- Cost / skill floor so this does not erase every Food wealth ladder overnight
-- Named products (chill plate, time-box, sorter stone) when a beat invents them
+- Cost / skill floor for non-time kitchen effects so this does not erase every Food wealth ladder overnight (time/ferment costs: `CompressedTimeStimulation.md`)
+- Named products (chill plate, sorter stone, runic vat) when a beat invents them
