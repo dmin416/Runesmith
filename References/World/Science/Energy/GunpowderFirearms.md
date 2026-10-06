@@ -132,10 +132,7 @@ Below pH 0 chemists use the Hammett scale. Each step of 1 means 10 times stronge
 
 ### How Ned Could Work
 
-- **Spikes as feedstock:** Sulfuric acid needs sulfur. Nitric acid needs nitrogen. Ned's spikes can be mineralized stores of sulfur and nitrogen compounds that he grinds down and digests to rebuild as acid. Eating his own spikes recycles the elements instead of creating them from nothing. Spike hardness affects chewing and armor. Acid strength comes from the chemistry inside the gland.
-- **Two glands or one:** Two glands, one nitric and one sulfuric, mirror the real mixed-acid setup. One magical gland producing a single acid that both nitrates and absorbs water replaces both.
-- **Self-protection:** Acid sacs lined with chitin and mucus like a stomach, with a separate output duct like a bombardier beetle.
-- **Water control:** A worm is mostly water. A gland that pumps out acid with almost no water in it is the most magical part of Ned and the part that decides whether his acid makes guncotton or collodion.
+Gland layout (two sacs or one, chitin lining, dry output, spikes as mineral stores): `../../Fauna/NeedleWorm.md`. Nitration chemistry stays here.
 
 ### Ned Acid Formula
 

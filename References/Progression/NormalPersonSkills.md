@@ -83,7 +83,8 @@ Prefix ladder: `../Ideas.md` / `Levels.md` (Basic/Lesser → plain → Expert/Hi
 
 ## Excluded (not available to normal people)
 
-- **System / Special:** Identify, Analyze, Diagnosis, Mana Sense, Technology, Fabrication. Tied to the Gamer / Source set or status-system tools. Not learnable by an ordinary person on the normal ladder.
+- **D-only:** Diagnosis, Technology, Fabrication. Not learnable by an ordinary person on the normal ladder.
+- **In the world:** Identify and Analyze exist. Mana Sense is an aptitude some people have (`Skills.md`).
 - **Mage-class locked:** Basic Mana Shaping, Basic Mana Regulation, Basic Incantation, Mana Bolt, Mana Arrow, Mana Shield, Mana Absorption, Mana Reinforcement, Heat, Mana Hands.
 - **Scribe / Runesmith / Blacksmith locked:** Basic Mana Scribing, Basic Rune Scribing, Basic Rune Mastery, Basic Forging, Basic Smithing Mastery, Basic Runecraft, Ethereal Pathways, Blacksmith's Heat Sense, Runic Blacksmith's Eyes, Basic Rune Compression.
 

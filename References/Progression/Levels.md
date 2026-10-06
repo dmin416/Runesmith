@@ -155,7 +155,7 @@ Same level, harder race → more XP. That is the whole point of RaceMult.
 
 **Level-gap note (optional, not required for early arcs):** Source often treats far-weaker mobs as nearly worthless XP. If needed later, apply a soft penalty when the killer’s overall level is far above the monster (e.g. heavily reduced when gap ≥ 10). Do not use that to replace `50 × killed_L × RaceMult`.
 
-At class **cap**, further XP does not raise that class. Bank it for the next class change (**no half-cut**; full carry; Ch 16 **1479** locked) or it sits until you switch. Do not invent a second XP bar per class. Crafting classes also earn less XP from monster fights than combat classes.
+At class **cap**, further XP does not raise that class. Bank it for the next class change (**no half-cut**; full carry; Ch 16 **1479** locked) or it sits until you switch. Do not invent a second XP bar per class. Class does not change what a monster fight pays (`Progression.md`).
 
 ## Experience curve (overall level)
 
@@ -247,7 +247,7 @@ Ch 19 Fire Orb: memory **[High] +600** then **[Highest] +400** = **1000**.
 
 Chapter 26 common schematic stacking: Intermediate common = **1000 XP**; then perfecting to Highest adds another **1000** (total **2000** = **2×** lesser Highest). Going straight to Highest also pays **2000**. No further XP for redoing the same schematic past that cap. Perfect common schematic from a shop sample pays **2×** lesser (`Spells.md` Fire Arrow).
 
-Chapter 21 timing: regular Mana Arrow ~**10 min** / 20 XP; Fire Orb runic ~**45 min** / 50 XP (imperfect). Five regular scrolls ≈ one runic's time for more XP; schematics still dominate leveling. Shop magic contracts can curse breach with **−60% mana** until the term ends. Common schematics pay **2×** lesser (Chapter 22 Fire Arrow).
+Chapter 21 timing: regular Mana Arrow ~**10 min** / 20 XP; Fire Orb runic ~**45 min** / 50 XP (imperfect). Five regular scrolls ≈ one runic's time for more XP; schematics still dominate leveling. Shop breach curses: `../Runes/ScrollEconomy.md`. Common schematics pay **2×** lesser (`Progression.md`).
 
 Chapter 14 narration: common Tier 2 packages grow about **×1.5** vs Tier 1 (forward-only on new levels). Fresh T2 physicals still burn hard on active skills (**stamina**; Gale Step and similar). A coordinated T1 party deep into second classes can beat a green T2. **Ch 14 lock:** Arden watcher fencer is overall **L55** (not green); Becky / Sahildr / Reyna overall **~45**; Roland Mage **L25**. Party coordination + skill waste still beats him.
 
@@ -423,7 +423,7 @@ At age 10 with Basics at Progression targets, skills/traits supply most of STR/A
 
 ## Spell casting (Chapter 10)
 
-Tier 1 cast loop: imagine the **spell circle** (formula) + shape mana + chant, in sequence. Fail any step and the spell sizzles. Intelligence helps visualize and recall circles. Higher tiers use larger circles and longer chants; skills reduce mental strain.
+Tier 1 cast loop: `../Runes/Magic.md`.
 
 **How spells are learned**
 

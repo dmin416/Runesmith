@@ -65,28 +65,6 @@ Brute fracture energy: E_punch = 1.5 × R × A × t (`ManaCast.md`). Resonance d
 
 ### Echolocation (skill-gated, L9 cap)
 
-Mana cheap (sound rates above). Bottleneck is attention / cortex. Caps at **L9**.
-
-| Skill | Rough reps | Capability |
-|---|---|---|
-| L1 | - | Full attention; little else while active |
-| L2–L4 | hundreds of pulses | Walk / defend; poor fight; miss fine detail |
-| L5–L7 | thousands | Gross detection near-auto; attention for fine ID |
-| L8–L9 | tens of thousands | Fully automatic spatial sense while fighting / casting |
-
-**Story lock (Ch 19):** tongue + free-placement mana pings with Ned **and** thermal grill **every day** at the **regen ceiling** (~99% pool). Needle-catch drill (Ned short-launches; Roland eyes-shut catch; tip fed back to Ned) clears Echolocation fight-quality. Exit **Sound Production L9**, **Echolocation L9** (full table: `Story/Notes/Skills.md` Ch 19). Skill cards: Old `Progression/Skills.md` until absorbed.
-
-Signature Recognition sub-skills from reps against specific cues (footsteps, voice, breath, heartbeat). Sighted casters compete with vision for the same processing unless eyes closed / blind (trained blind echolocators use visual cortex for the image).
-
-### Sonic identification of structures
-
-Low-energy diagnostic ping (single-digit mana or less at ημ 1 for a detectable return). Solid rings clean; crack / void / foreign mass shifts pitch, decay or splits peaks. Same L9 ladder as echolocation, specialized on structure types:
-
-| Skill | Capability |
-|---|---|
-| L1 | Solid vs hollow only |
-| L2–L4 | Material type + rough void size |
-| L5–L7 | Cracks / seams / weak points for a follow-up shatter or compression strike |
-| L8–L9 | Fine detail: natural flaw vs hidden trap / false wall / concealed lock |
+Mana cheap (sound rates above). Bottleneck is attention / cortex. Rank card, including fully automatic spatial sense, and sonic identification: `../../../Progression/SkillsDesign.md`. Chapter 19 needle-catch drill and the L9 exits: `../../../../Story/Notes/Skills.md`.
 
 Q sharpens frequency resolution. Air–stone is fine. Air–tissue interior still needs coupling.

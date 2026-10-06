@@ -14,7 +14,6 @@ Lock live canon under `References/`. Rewrite prose: `Story/Chapters/`. Treat `Re
 - Science is under `World/Science/` (Energy, Metallurgy, Biomaterials, Body, Invent, Vehicle)
 - Food holds kitchen craft / kit / meat cook (not Metallurgy)
 - People cast hub: `References/People/People.md`
-- Living conflict list: `References/OpenFixes.md`
 - Narrative threat dial: `World/Fauna/MonsterThreat.md`
 
 ## Hard locks (do not reopen)
@@ -37,20 +36,3 @@ Lock live canon under `References/`. Rewrite prose: `Story/Chapters/`. Treat `Re
 ## Source loot
 
 `References/Source/`: raw Source dump (72 range files). `References/SourceLoot/`: Creatures (261), Places (89), RolandStatus (96), Materials (131 + live naming gate).
-
-## Current next
-
-1. User writes. Fill rune cause-effect, sample dates, and related notes **when a beat lands**; do not pre-schedule the catalog (`Runes/RuneCauseEffect.md`).
-2. Soft Conflicts scrub when touching that file (Metals host wording, ManaMaterials Earth names, ChainMail/RuneSystem old worked math, tip-KE vs strike_power).
-
-## Just done
-
-- η_cond locked as **20%** quality blocks (0.2 → 1.0).
-- MonsterThreat.md shipped + linked; Goblin Leader threat **1.1** / L_ref **27**.
-- Spiked Boar RaceMult **1.5** / Wereboar **2.0** (min L26); Ch 11–19 XP kill counts + bars retuned; full reclass bank.
-- Kitchen craft under `Food/` (not Metallurgy).
-- Metal conversion rewrite: Ag→mythril, Au→orihalcum, Cu→aurium, Fe/steel→dark/star, Ti→adamantium.
-- Ambient retune: `C = P₀/P` (+ exosphere haze floor); metal start/finish soak recalibrated to that `A`.
-- Ch 9.5 locked: **1,000** goblins incl. **8** T2 L27 ambush → Mage L20; stones **218** rice-band + **8** leader-band (by level); pouch **3,595 LC**.
-- Entire `Old/` deleted after Story / Images / Source / References / rules absorbed.
-- Live rules: `.cursor/rules/{directed-line-edits,story-formatting,project-canon}.mdc`.

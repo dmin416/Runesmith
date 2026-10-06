@@ -126,3 +126,29 @@ Ultra-pure copper at liquid helium temperatures can be several hundred times mor
 ## Capacitor banks for pulsed lasers
 
 Dynamos or generators feed Leyden-jar style capacitor banks, then dump into flash tubes (ruby) or high-voltage discharge tubes (copper vapor, CO2). Most laser input becomes waste heat at the tube, so cooling still dominates the installation size. Optics and gas feedstock: `Optics.md`. Fight use: `../../../Combat/Lasers.md`.
+
+## Superconducting windings
+
+Mythril metal law stays in `../../../Materials/Metals.md`. This section is the machine use.
+
+A superconducting winding is a coil of wire made from superconducting material. Like a copper winding, it carries current to create a magnetic field. The difference is that current flows with zero resistance (mythril / aether-mythril path mode).
+
+**What zero resistance does**
+- **No heat:** copper windings lose energy as heat (I²R loss). A superconducting winding loses nothing on steady DC however much current it carries.
+- **Persistent current:** with the coil's ends joined in a closed loop, current circulates forever with no power supply. SMES coils and MRI magnets work this way. Etherium is the dedicated persistent-store metal; mythril windings can hold a persistent electrical current in the coil loop.
+- **Much higher current density:** copper carries about 2 to 10 A/mm² before overheating. Current Earth superconductors carry 100 to 1,000+ A/mm². Gear-grade mythril still has a **Jc** ceiling; aether mythril aims higher.
+- **Stronger fields:** more current in less space creates far stronger magnetic fields from a compact coil.
+
+**Earth limits vs Caldris mythril**
+- **Critical temperature:** Earth superconductors need cooling to between -269 °C and about -200 °C. Room-temperature mythril removes the cooling plant.
+- **Critical field and critical current:** above a certain field or current, superconductivity collapses (a quench). Stored energy then turns into heat at once and can destroy the coil. Mythril **keeps Jc / quench** (rare on gear stock). Do not write it as perfect unlimited current.
+- **Magnetic pressure:** strong fields push the windings outward. Adamantium or high-strength frames contain this; orihalcum is mana-resistant cladding / anvil damp, not the winding itself.
+- **AC losses:** Earth superconductors lose a little when current changes quickly. Mythril pulses pay a little AC-loss feel. Steady DC is near lossless.
+
+**Role in a flywheel / motor stack**
+- **Motor/generator:** superconducting windings on the stator create a strong field. The rotor's magnets (or its own superconducting windings) turn through it. Charging speeds the rotor up and discharging slows it down.
+- **Magnetic bearings:** superconductors push out magnetic fields (Meissner) and can lock magnets in place (flux pinning). This holds the rotor centered with no contact. Orihalcum plates are **mana-resistant** cladding (MR block), not superconducting bearings. Do not confuse shield stock with winding current.
+- **Efficiency:** with no winding I²R loss, conversion between motion and electricity sits above 99% on the electrical side. Remaining losses are bearings, windage, and power electronics / rune converters.
+
+Companions: `Batteries.md` (stone vs cell power), `RefinedMana.md` (Stillwire stone-refined wire; Lightthread), stone sockets as the mana feed.
+

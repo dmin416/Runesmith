@@ -1,6 +1,6 @@
 # Skills
 
-> **Design loot.** Live locks: Progression.md (XP / tiers / reclass), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. Non-canon XP leftovers in Levels.md (RaceMult / class-change half-cut). Diagnosis is the live skill name (Old Debugger).
+> **Design loot.** Live locks: Progression.md (XP / tiers / reclass), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. Non-canon XP leftover in Levels.md: the class-change half-cut. RaceMult is the live table in `Levels.md`. Diagnosis is the live skill name (Old Debugger).
 
 
 System and class skills and traits named in the story. Companion (Agni) and ally skills included when named. Traits start after the skill catalog under **Traits**.
@@ -230,13 +230,40 @@ Passive / sense once unlocked. Build a spatial picture from sound returns. Caps 
 | Band | Rough reps | Feel |
 |---|---|---|
 | L1 | unlock | Full attention; little else while active |
-| L2???L4 | hundreds of pulses | Walk / simple track; miss fine detail |
+| L2???L4 | hundreds of pulses | Walk / defend; poor fight; miss fine detail |
 | L5???L7 | thousands | Gross detection near-auto; attention for fine ID |
 | L8???L9 | tens of thousands | Automatic spatial sense while fighting / casting |
 
 **Willpower +1 per level**, **Intelligence +1 per level.**
 
-**Ch 19 week:** unlock **L1 ??? L9** with Ned as a moving cabin target **and** short needle launches: plant mana click ??? eyes shut ??? catch the tip ??? feed it back into Ned???s mouth (spider-web recycle). Live projectile returns clear the fight-quality gate. Both sound and thermal drills run **every day** at the **regen ceiling** (~99% pool). Full week math: `Story/Notes/Skills.md` Ch 19.
+**Ch 19 week:** unlock **L1 ??? L9** with Ned as a moving cabin target **and** short needle launches: plant mana click ??? eyes shut ??? catch the tip ??? feed it back into Ned???s mouth (spider-web recycle). Live projectile returns clear the fight-quality gate. Exit **Sound Production L9**, **Echolocation L9**. Both sound and thermal drills run **every day** at the **regen ceiling** (~99% pool). Full week math: `Story/Notes/Skills.md` Ch 19.
+
+Signature recognition grows from reps against specific cues (footsteps, voice, breath, heartbeat). Sighted casters compete with vision for the same processing unless the eyes are closed.
+
+### Sonic identification
+Low-energy diagnostic ping. Same L9 ladder as Echolocation, specialized on structure. Solid rings clean. A crack, void, or foreign mass shifts pitch, decay, or splits the peaks. Q sharpens frequency resolution. Air to stone is fine. Air to tissue still needs coupling. Physics: `../World/Science/Energy/Sound.md`.
+
+| Rank | Feel |
+|---|---|
+| L1 | Solid vs hollow only |
+| L2–L4 | Material type and rough void size |
+| L5–L7 | Cracks, seams, and weak points for a follow-up strike |
+| L8–L9 | Fine detail: natural flaw vs hidden trap, false wall, or concealed lock |
+
+### Gut Check
+Ordinary learnable skill. **One skill, no evolve.** Not Mage-locked. It is noticing the body veto.
+
+**Pads:** Willpower +1, Vitality +1 per level.
+
+| Rank | Feel |
+|---|---|
+| L1–L2 | Loud gut "no" after the fact. Easy to talk down |
+| L3–L4 | Flinch as it happens. Can re-check. Noisy when switched or sick |
+| L5–L6 | Trust in motion (door, food, step back). Tell switched vs a bad thing |
+| L7–L8 | Quiet danger ranking. Weak loads, not only panic |
+| L9 | Reliable veto under stress. Still fails empty puzzles. Load still scrambles until cleared |
+
+Unlock: survive real gut hits and pay attention, or deliberate lean and muscle practice. Does not replace Identify or Analyze. What the ART screen can read stays in `../World/Science/Body/ART.md`.
 
 ### Resilience
 First seen: Chapter 30 (Source deepen ~196)
@@ -287,6 +314,10 @@ Passive. Blend in; quieter footsteps. **Agility +level**. Chapter 23: evolves Ba
 ### Basic Throwing
 First seen: Chapter 4
 Passive. Thrown projectile. **Dexterity +level**. Unlocked with a rock and training dummy (toy ball does not count).
+
+### Gale Step
+First seen: Chapter 14 (Arden watcher, Tier 2 fencer)
+Wind-assisted movement. Feet glow green. The body blurs, is hard to read, and is much faster. Costs **stamina only**. Spamming it burns a fresh physical Tier 2 out. The detonation tip on that rapier is a separate weapon enchantment (`../Combat/Spells.md`).
 
 ### Dodging / Basic Dodging
 First seen: Chapter 9.5 (Source first clear was Chapter 14 ambush)

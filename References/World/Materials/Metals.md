@@ -94,26 +94,7 @@ Mana path mode is **superconducting** from conversion, not from mundane Ag–Cu 
 
 #### Superconducting windings (invent / prestige apps)
 
-A superconducting winding is a coil of wire made from superconducting material. Like a copper winding, it carries current to create a magnetic field. The difference is that current flows with zero resistance (mythril / aether-mythril path mode).
-
-**What zero resistance does**
-- **No heat:** copper windings lose energy as heat (I²R loss). A superconducting winding loses nothing on steady DC however much current it carries.
-- **Persistent current:** with the coil's ends joined in a closed loop, current circulates forever with no power supply. SMES coils and MRI magnets work this way. Etherium is the dedicated persistent-store metal; mythril windings can hold a persistent electrical current in the coil loop.
-- **Much higher current density:** copper carries about 2 to 10 A/mm² before overheating. Current Earth superconductors carry 100 to 1,000+ A/mm². Gear-grade mythril still has a **Jc** ceiling; aether mythril aims higher.
-- **Stronger fields:** more current in less space creates far stronger magnetic fields from a compact coil.
-
-**Earth limits vs Caldris mythril**
-- **Critical temperature:** Earth superconductors need cooling to between -269 °C and about -200 °C. Room-temperature mythril removes the cooling plant.
-- **Critical field and critical current:** above a certain field or current, superconductivity collapses (a quench). Stored energy then turns into heat at once and can destroy the coil. Mythril **keeps Jc / quench** (rare on gear stock). Do not write it as perfect unlimited current.
-- **Magnetic pressure:** strong fields push the windings outward. Adamantium or high-strength frames contain this; orihalcum is mana-resistant cladding / anvil damp, not the winding itself.
-- **AC losses:** Earth superconductors lose a little when current changes quickly. Mythril pulses pay a little AC-loss feel. Steady DC is near lossless.
-
-**Role in a flywheel / motor stack**
-- **Motor/generator:** superconducting windings on the stator create a strong field. The rotor's magnets (or its own superconducting windings) turn through it. Charging speeds the rotor up and discharging slows it down.
-- **Magnetic bearings:** superconductors push out magnetic fields (Meissner) and can lock magnets in place (flux pinning). This holds the rotor centered with no contact. Orihalcum plates are **mana-resistant** cladding (MR block), not superconducting bearings. Do not confuse shield stock with winding current.
-- **Efficiency:** with no winding I²R loss, conversion between motion and electricity sits above 99% on the electrical side. Remaining losses are bearings, windage, and power electronics / rune converters.
-
-Companions: `../Science/Energy/Batteries.md` (stone vs cell power), `../Science/Energy/RefinedMana.md` (Stillwire stone-refined wire; Lightthread), stone sockets as the mana feed.
+Mythril can hold a persistent electrical current in a coil. SMES, MRI, motors, and Meissner bearings: `../Science/Energy/Generators.md`.
 
 ### Orihalcum (gold)
 
@@ -193,7 +174,7 @@ Infernal forge talk in Source maps to pre-set work or cutting mana support, not 
 
 **Firearms invent (cast-final jobs):**
 - **Barrel / chamber:** adamantium does not erode under hot powder gas. Double-base smokeless becomes the strongest practical propellant because barrel wear is gone. Chamber pressure is no longer limited by the tube; recoil, the shooter's body and the projectile surviving the pressure are the limits. Indestructible does not mean heat-proof: a steel-weight .50 barrel still climbs tens of °C per hot shot.
-- **Penetrator needle:** tungsten-dense cast needle about one third of the caliber in diameter, four calibers long, about a quarter of the bullet's weight, seated in a copper (or brass) slug. On armor impact the soft metal flattens and strips; the needle keeps going on a tiny point. It never blunts, bends or shatters. Hole is narrow (~4–8 mm). Behind armor it kills what it hits and throws some spall, with less wide damage than a copper bullet that gets through. Against flesh the copper still wounds; the needle separates and overpenetrates. Dig it out of a wreck and seat it in a fresh copper bullet. If density is only steel-like, cut needle penetration figures by about 60%. Full tier tables: `../../Combat/Firearms.md`.
+- **Penetrator needle:** `../../Combat/Firearms.md`. The barrel line above is the metal law. Powder choice: `../Science/Energy/GunpowderFirearms.md`.
 
 #### Heat and sound (follows from no-bend stiffness)
 
@@ -351,18 +332,7 @@ Separate from Fe conversion. Own black ore line. Unrefined / refined grades as b
 
 ### Mundane baselines (Earth, room temp, annealed unless noted)
 
-Cold working raises tensile strength and hardness on all of these.
-
-| Mundane | Density (g/cm³) | Tensile (MPa) | Mohs | Vickers HV |
-|---|---|---|---|---|
-| Silver (pure) | 10.49 | 140–170 | 2.5 | ~25 |
-| Gold (pure) | 19.32 | 100–130 | 2.5 | ~25 |
-| Copper (pure) | 8.96 | 210–220 | 3 | ~50 (cold-worked ~100) |
-| Iron (pure / wrought) | 7.87 | 200–350 | 4 | 60–80 |
-| Steel, mild (1018) | 7.85 | ~440 | ~4.5 | ~130 |
-| Steel, medium carbon (1045) | 7.85 | 565–625 | ~5 | ~170 |
-| Steel, high carbon hardened (1095) | 7.85 | 1,500–2,000+ | 7–8 | 700–800 (60–65 HRC) |
-| Titanium (commercially pure) | 4.51 | 345–450 | 6 | ~145 |
+`../Science/Metallurgy/EarthAlloys.md`. Terra conversion grades stay below.
 
 ### Suggested conversion scaling (inspirational)
 

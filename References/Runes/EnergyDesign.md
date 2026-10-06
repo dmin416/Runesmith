@@ -122,30 +122,7 @@ Time to full from M = ln((P + b × P) / (M + b × P)) / a   // hours
 
 ### Worked example: street adult, all stats 15
 
-Untrained adult street man. Baseline, not an athlete. No class packages. Detail feel anchors live in `../Progression/Attributes.md` (and AttackScale combat rows).
-
-| Stat | Real feel at 15 |
-|---|---|
-| STR | ~90 kg max deadlift |
-| VIT | ~45-year constitution potential (abstract) |
-| END | ~3 L/min VO₂ max |
-| AGI | ~375 W burst; sprint ~6 m/s (~13 mph) |
-| DEX | ~15 pegboard pegs (right hand) |
-| INT | ~7.5 digit working-memory span; cast μ = 1 |
-| WILL | ~30 years effective life experience |
-| Vit/End heal | M = 1.0 (normal adult blood recovery) |
-
-If Cha/Luck are also 15, that is ordinary social luck, not perks (perks gate at 40).
-
-Bare pool formulas at 15 all (no class bonuses):
-
-| Pool | Formula | Value |
-|---|---|---|
-| HP | (Vit×10) + (End×3) | **195** |
-| SP | (End×10) + (Str×3) + (Agi×3) | **240** |
-| MP | (Int×10) + (Will×4) | **210** |
-
-A street adult with no Mage/Acolyte still has no usable mana pool to absorb into. The MP number is the sheet formula once a pool exists.
+Sheet, deadlift, and bare pools (HP 195, SP 240, MP 210): `../Progression/Attributes.md`.
 
 Reference body for absorb math: `S = 1`, `Rob = 1`, so `a = 0.25` per hour. Planning open-air empty-to-full: `T = 9` h. Example mana pool once it exists: **P = 210**.
 

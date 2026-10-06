@@ -49,19 +49,7 @@ Screen rooms, substances, exposure and goods. Mitigation should retest stronger.
 
 ### Skill: Gut Check (L1–L9)
 
-Ordinary learnable skill. **One skill, no evolve.** Not Mage-locked. Gamifies noticing the body veto.
-
-**Pads (draft):** Willpower +1, Vitality +1 per level.
-
-| Rank | Feel |
-|---|---|
-| L1–L2 | Loud gut “no” after the fact. Easy to talk down |
-| L3–L4 | Flinch as it happens. Can re-check. Noisy when switched/sick |
-| L5–L6 | Trust in motion (door, food, step back). Tell switched vs bad thing |
-| L7–L8 | Quiet danger ranking. Weak loads, not only panic |
-| L9 | Reliable veto under stress. Still fails empty puzzles. Load still scrambles until cleared |
-
-Unlock: survive real gut hits and pay attention, or deliberate lean/muscle practice. Does not replace Identify / Analyze. Do not collapse into Mana Sense unless a beat links them.
+Card, pads, and the L9 veto: `../../../Progression/SkillsDesign.md`. This file keeps what an ART screen can read.
 
 ## Open
 

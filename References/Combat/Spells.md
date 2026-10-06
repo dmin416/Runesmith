@@ -18,7 +18,7 @@ Faster, more penetrating mana projectile than Mana Bolt. Costs more mana and nee
 
 **Locked chant:** *Source of all magic, heed my call. Gather before me and form an arrow to pierce through my enemies. Mana Arrow.* Short fight close: *Mana Arrow!*
 
-**Rewrite physics:** pure kinetic (no pop), 4 mm × 400 mm, 40 g. Same cast law as Mana Bolt at **2× voice mana** (Mental **20**, Whisper **30**, Quiet **40**, Normal **50**, Loud **80**, Very loud **100**). Overcharge = mana used. Punch `1.5 × R × A × t` (A = 0.1257 cm²). Hardness gate `H ≥ 1.5 R` before joules count: INT 40 clears mail, not brigandine/iron/steel. Hidden razor vanes slice on through-shots only. Full tables: `../World/Science/Energy/ManaCast.md` (Mana Arrow).
+**Rewrite physics:** pure kinetic. Size, mass, voice mana steps, and the hardness gate are in `../World/Science/Energy/ManaCast.md`. Cast law: `../Runes/Energy.md`.
 
 ### Magic Bolt
 First seen: Chapter 9
@@ -32,7 +32,7 @@ Guided or homing mana arrow variants.
 First seen: Chapter 10
 Mana barrier for caster or allies. One of Mage’s three basic class spells with Bolt and Arrow. Chapter 11 party cast on Sahildr vs a spiked boar: *Source of all magic, heed my call. Let your strength be mine and protect which I deem worthy.* / *Mana Shield!* Blue bubble forms then shrinks to a **hard disk** over the target’s front (Source: bubble aid only). Chapter 14: extra mana poured into the bubble around Reyna vs a T2 fencer thrust; still pierced but bought the parry. Chapter 27: can reshape lesser shield into a tight earth wall (and other elemental variants) via surface rune edits.
 
-**Rewrite physics:** `N = floor(20 × M × η × μ × S × R × A / J)` with shared η/μ and ambient `A = √C` (open ground **A = 1**). **Baseline M = 100.** Focused disk area = 0.2 m² (S = 1, R = 1); semicircle area = 6.28 m² (S ≈ 0.178, R = 1 - 0.628 t / M). Threat J table and hit counts: `../World/Science/Energy/ManaCast.md` (Mana Shield).
+**Rewrite physics:** disk area, hit counts, and the shield formula are in `../World/Science/Energy/ManaCast.md`. Cast law: `../Runes/Energy.md`.
 
 ### Lesser Shield
 First seen: Chapter 167
@@ -78,7 +78,7 @@ Chanted large fire storm.
 
 ### Fire Arrow / Firebolt Arrow
 First seen: Chapter 20 (shop scrolls)
-Tier 2 fire projectile. Regular shop scroll Intermediate **6 small silver** (not much stronger than Mana Arrow; power depends on maker and materials). Runic Fire Arrow dusty shelf at Grimboodle costs **2 large silver** (~3× vanity list; fair High **10 SS**) because a Runesmith must produce it.
+Tier 2 fire projectile. Shop and runic prices, including Grimboodle's dusty shelf and fair High: `../Runes/ScrollEconomy.md` and `../World/Society/PriceCatalog.md`. Power depends on the maker and the materials. A Runesmith has to produce the runic form.
 
 ### Fireball
 First seen: Chapter 20 (shop talk)
@@ -86,7 +86,7 @@ Stronger fire AOE scroll; shop talk **≈1 large silver**.
 
 ### Runic Fire Arrow
 First seen: Chapter 20 (Grimboodle shelf); Roland's product Chapter 22
-Runic scroll form of a fire arrow. User can feed extra mana to amplify output (rank-capped). Chapter 22 Libra: Common grade; High ≈ up to **10 SS**; Highest about **12–15 SS** (near a grade jump / half-step toward Greater). Roland's first auction: ten scrolls (8 High + 2 Highest), comet logo, two boxes of five → 4L+5S and 4L+7S. Perfect schematic from a shop sample pays **2×** lesser schematic XP. Common scribing is much harder than lesser and drains mana hard (zero MP → headache/pass out + next-day regen debuff). Chapter 23: Low/Lowest rejects bound as a scrap grimoire; pages crumble on cast; no chant; used to grind Rune Mastery on mountain goblins.
+Runic scroll form of a fire arrow. User can feed extra mana to amplify output (rank-capped). Prices and the first Libra auction totals: `../Runes/ScrollEconomy.md`. A perfect schematic from a shop sample pays **2×** lesser schematic XP (`../Progression/Progression.md`). Common scribing is much harder than lesser and drains mana hard (zero MP → headache/pass out + next-day regen debuff). Chapter 23: Low/Lowest rejects bound as a scrap grimoire; pages crumble on cast; no chant; used to grind Rune Mastery on mountain goblins.
 
 ### Runic Orb of Light
 First seen: Chapter 20
@@ -188,7 +188,7 @@ Help retain or recover memories (trial or support context).
 
 ### Gale Step
 First seen: Chapter 14
-Wind-assisted movement skill (Arden watcher / T2 fencer). Feet glow green; body blurs; hard to read and much faster. Costs **stamina only** (physical class skill activation). Spamming burns a fresh physical T2 out. Nearly kills Reyna until Roland's Mana Shield intervenes. Detonation tip on the rapier is a separate weapon enchantment.
+Stamina movement skill. Card: `../Progression/SkillsDesign.md`. The Arden watcher's Gale Step nearly kills Reyna until Roland's Mana Shield intervenes.
 
 ### Levitation / Flotation / Floatation
 First seen: Chapter 262

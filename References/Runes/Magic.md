@@ -16,6 +16,8 @@ Magic follows laws and intention. Spells can form from the body alone, usually a
 
 **Body cast:** Spells can happen from the body alone. Usually low level. Can also be done intentionally.
 
+**Tier 1 cast loop:** Imagine the spell circle (the formula), shape the mana, then chant, in that order. Fail any step and the spell sizzles. Intelligence helps visualize and recall circles. Higher tiers use larger circles and longer chants. Skills reduce the mental strain. Must chant while shaping. Shaping alone evaporates.
+
 **Ambient draw:** Thick air / dungeons can let a caster push more mana into a body cast (mana-in). Useful output on that paid mana still runs `Useful = mana × 10 × η(L) × μ(INT) × A` with `A = √C`. Same ambient `A` multiplies rune / item paths after η_cond. Retired linear G is not used.
 
 **Insulation / barriers:** See `Energy.md` (insulation rune cost; barrier types).

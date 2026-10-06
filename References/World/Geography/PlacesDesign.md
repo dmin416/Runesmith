@@ -16,7 +16,7 @@ Directly behind the office. He walks around the block instead of jumping the fen
 
 ### Ascension space (first class)
 First seen: Chapter 5
-Personal trial realm shaped from the user’s memories. Roland’s is his old Earth apartment building plus a VR-headset tutorial field (grassy plain, training dummy, mage clone). Real body stays in place; long subjective time can equal seconds outside. First crystal use grants class; crystal becomes dust after.
+Personal trial realm shaped from the user’s memories. Roland’s is his old Earth apartment building plus a VR-headset tutorial field (grassy plain, training dummy, mage clone). Real body stays in place. Long subjective time can equal seconds outside (`../../../Progression/Progression.md`). First crystal use grants class; crystal becomes dust after.
 
 ## Terra
 

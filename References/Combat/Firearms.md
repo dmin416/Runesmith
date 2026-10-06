@@ -124,7 +124,7 @@ Russia developed exploding rifle bullets in the 1860s. The St. Petersburg Declar
 
 ## Copper Bullet Tiers: 10,000 to 50,000 ft-lbs
 
-Assumptions: monolithic copper bullets, close range, flat armor plate. The adamantium needle is tungsten-dense, about one third of the caliber in diameter, four calibers long and about a quarter of the bullet's weight. If adamantium is only as dense as steel, cut the needle penetration figures by about 60 percent.
+Assumptions: monolithic copper bullets, close range, flat armor plate. The adamantium needle is tungsten-dense, about one third of the caliber in diameter, four calibers long and about a quarter of the bullet's weight. The hole is narrow, about 4–8 mm. Behind armor it kills what it hits and throws some spall, with less wide damage than a copper bullet that gets through. Against flesh the copper still wounds. The needle separates and overpenetrates. Dig it out of a wreck and seat it in a fresh copper bullet. If adamantium is only as dense as steel, cut the needle penetration figures by about 60 percent.
 
 ### The Bullets
 

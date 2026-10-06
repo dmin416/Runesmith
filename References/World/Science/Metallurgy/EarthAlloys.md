@@ -8,6 +8,21 @@ Earth production and property reference for metals and carbon materials. Ore fin
 
 Numbers are typical industrial / lab bands, not locked story law.
 
+## Mundane baselines (room temp, annealed unless noted)
+
+Cold working raises tensile strength and hardness on all of these. Terra conversion grades stay in `../../Materials/Metals.md`.
+
+| Mundane | Density (g/cm³) | Tensile (MPa) | Mohs | Vickers HV |
+|---|---|---|---|---|
+| Silver (pure) | 10.49 | 140–170 | 2.5 | ~25 |
+| Gold (pure) | 19.32 | 100–130 | 2.5 | ~25 |
+| Copper (pure) | 8.96 | 210–220 | 3 | ~50 (cold-worked ~100) |
+| Iron (pure / wrought) | 7.87 | 200–350 | 4 | 60–80 |
+| Steel, mild (1018) | 7.85 | ~440 | ~4.5 | ~130 |
+| Steel, medium carbon (1045) | 7.85 | 565–625 | ~5 | ~170 |
+| Steel, high carbon hardened (1095) | 7.85 | 1,500–2,000+ | 7–8 | 700–800 (60–65 HRC) |
+| Titanium (commercially pure) | 4.51 | 345–450 | 6 | ~145 |
+
 ---
 
 ## Copper Family

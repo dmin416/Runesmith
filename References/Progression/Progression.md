@@ -71,7 +71,7 @@ Round to nearest whole XP after RaceMult. Family table: `Levels.md`. Common gobl
 
 **Party XP:** Split by ability and contribution. Early dungeon lock: idle / spectating ~**1%** of the kill; active help ~**1/4**. Later beats can refine the formula without reopening those counts.
 
-**Craft / schematic XP:** First-time basic / lesser rune schematic at **[Highest]** pays **1000** XP. Quality ladder toward that: **100 / 200 / 400 / 600 / 1000** (raise pays the difference). Repeat copies / practice crafts pay much less. Spell and skill rank-ups can also award XP.
+**Craft / schematic XP:** First-time basic / lesser rune schematic at **[Highest]** pays **1000** XP. Quality ladder toward that: **100 / 200 / 400 / 600 / 1000** (raise pays the difference). A first Common schematic pays **2×** that lesser Highest award (**2000** XP, Fire Arrow). Repeat copies / practice crafts pay much less. Spell and skill rank-ups can also award XP.
 
 **Pre-class bank:** XP before first ascension banks and applies at first class with a **½** penalty. One-time only. Does not refill for later class changes.
 
@@ -89,7 +89,7 @@ Class and skill bonuses can raise displayed pools above the bare formulas (e.g. 
 
 ### Ascension and classes
 
-**Ascension / class crystal:** Needed to gain or change class. First use awards a class (confirm). Later uses need a trial (battle, craft, or puzzle). First-use crystal turns to dust.
+**Ascension / class crystal:** Needed to gain or change class. First use awards a class (confirm). Later uses need a trial (battle, craft, or puzzle). First-use crystal turns to dust. The trial is a personal realm. Long subjective time inside can equal seconds outside. The place Roland sees is in `../World/Geography/PlacesDesign.md`.
 
 **Reclass:** No hard lifetime class count. Cannot leave a class for another until at least **25** levels in the current one. Tier 1 classes must be finished to their **L25** cap before leaving. **No half-cut bank on class change** (Old half-cut dropped). Cap overflow banks in full; Ch 16 carry **1479** locked in `Experience.md`.
 

@@ -21,7 +21,7 @@ From early narration (`../Source/11-20.md`):
 |---|---|
 | Bronze, Steel | Tier 1 |
 | Silver, Gold | Tier 2 |
-| Platinum and above | Tier 3+ |
+| Platinum, Mithril | Tier 3+ |
 | Orichalcum | Tier 4 territory |
 | Adamantium | Highest; rare titans (Tier 4 or 5 territory in talk) |
 

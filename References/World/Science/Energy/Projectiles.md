@@ -208,6 +208,8 @@ A hard throw puts on the order of **70–220 J** into a baseball when stats are 
 
 ### Roland ages 5–10 (formula stress test)
 
+Ages for these years: `../../../../Story/Notes/Timeline.md` (wake at 5 through ascension at 10). The untrained body curve is `../../../Progression/Training.md` (age 10 baseline STR 15, not 40). The pairs below are the padded sheet used to stress the throw, not a second life clock.
+
 Inputs from `../../../Progression/Progression.md` and `StatusBreakdown.md`:
 
 - Deadlift = 6 × STR kg. Overhead press W ≈ 0.5 × deadlift.

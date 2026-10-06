@@ -50,7 +50,7 @@ Explosive rune; early schematic. Chapter 14–15: on the watcher's heavy rapier 
 First seen: Chapter 12
 Impact or force rune. Engraved on Sahildr's new warhammer (bought with monthly savings). Roland is drawn to it and briefly sees glowing pathway lines through the symbol. Chapter 13 combat: timed mana blast can one-shot or incap a Wereboar. Chapter 18 Sahildr: the heavy head **gains weight** when the rune activates (mass or gravity; timing matters). He creates the [Highest] quality schematic in Chapter 18 (Diagnosis overlay; Drawing L1 breakthrough). Current form best on weapons but he fantasizes other component uses; poor as a solo scroll (just makes paper heavier). Chapter 27: speculates Heavy Magic / Heavy Impact Arrow (weight on descent) but paper tests are nearly useless. Chapter 73: common Impact (High) on a mana-iron mace; increases weapon mass/weight mid-swing (timing-sensitive).
 
-**Rewrite science (Sahildr hammer):** compressed mana particles (Fire Piston cousin), not a charged store. **Paid 100 mana** one-shot. Useful output = mana × 10 × η_cond × A (`A = √C`). Earth boar skull crush does **not** need a huge instant boost (street warhammer **200–400 J** already exceeds measured cranial fracture bands). Full note: `../Combat/ImpactRune.md`.
+**Rewrite science (Sahildr hammer):** `../Combat/ImpactRune.md` (100 mana, compressed-particle stroke, strength of 5 men, 640 J baseline).
 
 ### Hardening / Strengthening Rune
 First seen: Chapter 73
@@ -64,7 +64,7 @@ Fire orb projection rune. Roland's Runic Mana Scribe trial scroll.
 
 **Source (old model, dropped for rewrite law):** three main parts (fire / orb shape / control "program"); logic gates and binary; transistors/resistors/chips; Circuitry skill; naked-eye three symbols after dry; hard maximal size + compress off a large schematic.
 
-Later: Chapter 19 recreates from **memory** (no Diagnosis source item): first **[High]** (**+600 XP**, ~**1 hour**) then second pass **[Highest]** (**+400 XP**); total **1000**. Lesser quality XP ladder: **100 / 200 / 400 / 600 / 1000**. Chapter 21 first practice scroll ~45 min / +50 XP (still red under Diagnosis); activates fine at **0%** fire affinity. Chapter 36: first reusable metal form, Bronze Plate of the Fire Orb [Lesser: Lowest, High].
+Later: Chapter 19 recreates from **memory** (no Diagnosis source item): first **[High]** (**+600 XP**, ~**1 hour**) then second pass **[Highest]** (**+400 XP**); total **1000**. Lesser quality XP ladder: `../Progression/Progression.md`. Chapter 21 first practice scroll ~45 min / +50 XP (still red under Diagnosis); activates fine at **0%** fire affinity. Chapter 36: first reusable metal form, Bronze Plate of the Fire Orb [Lesser: Lowest, High].
 
 ### Lesser Fire Rune
 First seen: Chapter 194

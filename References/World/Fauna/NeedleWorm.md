@@ -391,6 +391,15 @@ v (m/s) = about 3.2 x sqrt(Strength)
 - Same energy in eight times the mass makes the ends about 2.8 times slower
 - A larger body raises mass and stroke so it needs its own scaling on top of this
 
+## Powder glands (invent)
+
+Nitration chemistry and batch math: `../Science/Energy/GunpowderFirearms.md`. This is the body layout only.
+
+- **Spikes as feedstock:** Sulfuric acid needs sulfur. Nitric acid needs nitrogen. Ned's spikes can be mineralized stores of sulfur and nitrogen compounds that he grinds down and digests to rebuild as acid. Eating his own spikes recycles the elements instead of creating them from nothing. Spike hardness affects chewing and armor. Acid strength comes from the chemistry inside the gland.
+- **Two glands or one:** Two glands, one nitric and one sulfuric, mirror the real mixed-acid setup. One magical gland producing a single acid that both nitrates and absorbs water replaces both.
+- **Self-protection:** Acid sacs lined with chitin and mucus like a stomach, with a separate output duct like a bombardier beetle.
+- **Water control:** A worm is mostly water. A gland that pumps out acid with almost no water in it is the most magical part of Ned and the part that decides whether his acid makes guncotton or collodion.
+
 ## Evolution / capability ramp (Ned line)
 
 Wild Needle Worms level into **Needle Moth** (Floor-3 adult: flight, needle-scale wings, dust/powder attacks). Ned does **not** take that line.

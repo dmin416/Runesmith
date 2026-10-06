@@ -59,6 +59,15 @@ Unskilled wage **w** = 5–10 LC/day → about **150–300** kills/hunter/yr.
 | **Required hunter kills / year** | **~2.3 million** | **~4.7 million** |
 | Stones / year (~1/5 drop) | ~0.47M | ~0.93M |
 
+**Worked Caldris integers** (same system, not rounded). Moved from `../Society/Population.md`.
+
+| Wage | K | Hg | Kills per year | Stones per year |
+|---|---|---|---|---|
+| 5 lc | 150.42 | 15,495 | 2,330,706 | 466,141 |
+| 10 lc | 300.83 | 15,495 | 4,661,413 | 932,283 |
+
+Dungeons and monster spawns must replace about **2.3 to 4.7** million goblin-grade monsters per million people every year or hunters starve out and the loot economy collapses. Villains add no kills. They skim value from hunters and merchants through theft and raids.
+
 **Demand is a loot-economy ceiling.** Part-time hunters, mixed income and edible meat lower sold goblin kills. Soldiers, militia, caravan guards and farmers raise total removals. This file solves for **sold hunter kills** and treats other removals separately.
 
 **H = 30 SC** is carried mostly by goblin blood (low-grade conduction ink, rune priming, stone-socket paste). Undead parts sit below that. Edible monsters add meat on top of H.

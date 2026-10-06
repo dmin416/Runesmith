@@ -231,4 +231,15 @@ Add these on top of world year 17. They are gaps between events, not a new total
 | 702 | Half a year of Agni-mana set aside |
 | 706 | Half a year of prep for the Quinquennial convocation |
 
+## Paper stock pegs
+
+These are what he writes on. They do not move the clock.
+
+| Beat | Stock |
+|---|---|
+| Ch 8–9 cabin / calligraphy | Mundane paper. No hard sheet price on the page |
+| Ch 16 trial | Magical ink and monster-skin from class-space stock |
+| Ch 19 schematics | Mundane drawing paper. He wants better tools |
+| Ch 20+ shop | Use the bands in `References/World/Science/Invent/Paper.md`. Do not keep the Source blank-equals-scroll trap |
+
 The chapters, notes, outline, summaries, and source dumps use this clock.

@@ -24,6 +24,8 @@ Steel in story is a **mid** conductor (worse than mythril, better than iron). Wh
 
 That Useful **is** the energy the stroke adds to the head (ΔKE).
 
+Sahildr has the strength of 5 men. The **640 J** baseline below is her swing. A street warhammer at AGI ~15 is **200–400 J** (`../Progression/Attributes.md`, `AttackScale.md`). That band is a different body.
+
 ## Model (locked)
 
 The mass / velocity boost is **not** stored energy in a charged state.

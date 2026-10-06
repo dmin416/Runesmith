@@ -22,12 +22,8 @@ Social structure stays medieval (kingdoms, nobles, knights). Tech reaches toward
 
 ### Gunpowder invent (not street baseline)
 
-Caldris does not mass-issue personal firearms. If someone invents or imports the chemistry:
+Caldris does not mass-issue personal firearms. The chemistry, from medieval powder through nitrocellulose and adamantium barrels: `../Science/Energy/GunpowderFirearms.md`.
 
-- **Medieval workshop band:** refined black powder can match 19th-century quality with full knowledge (smoke, fouling, iron corrosion stay). Sulfurless black powder is a weaker, less corrosive variant. Smokeless nitrocellulose is chemically possible from small alchemical acid batches but only as a tiny elite supply; stability and batch consistency are the walls.
-- **Victorian / magitech industrial band:** single-base smokeless (nitrocellulose), double-base (adds nitroglycerin), and even triple-base (nitroguanidine) are in reach. Acid volume and purity decide scale, not secret knowledge. Victorian is industrial; medieval is workshop quantities.
-- **Cleanest practical load:** stabilized single-base or triple-base with a lead-free non-corrosive primer and a jacketed or lead-free bullet. Lead from primers and bare lead bullets is the main health hazard, worse than the powder choice.
-- **Indestructible barrels** (adamantium cast-final) remove hot-gas erosion, so double-base becomes the strongest practical propellant. Chamber pressure then hits recoil, the shooter's body and whether the bullet survives, not the barrel.
 ### Missing or rare (invent / prestige)
 
 - Mass printing (not a thing; press / movable type = invent-only if D builds one)

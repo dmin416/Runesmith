@@ -87,13 +87,7 @@ m  = ρ × V                         V in cm³ → m in grams
 
 Identify, a recharge test, or a shop grading device reads Q. Weighing alone does not.
 
-**Market (guild buy):** size still dominates the sticker through the **leader** band (linear with volume; see `../../Society/Economy.md`). **Above leader**, guilds use **stepped size bands** (not linear mm³): a Common **16 mm** marble (~113× rice volume) sells around **1.5–4 LS** (mid **~2 LS**), not the ~2.3 SG a pure volume rule would imply. Quality is a multiplier on that size band:
-
-```
-Price ≈ Price_size(V) × Q
-```
-
-So a Common marble at ~**2 LS** mid-band becomes ~**20 LS** at dragon Q **10**, same volume and mass.
+**Market (guild buy):** `../../Society/PriceCatalog.md`. Size physics and the Q ladder stay in this file. A pure volume rule would price a 16 mm marble near 2.3 SG. The catalog does not.
 
 ### Vs chemical batteries
 

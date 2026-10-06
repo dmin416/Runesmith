@@ -29,7 +29,7 @@ Active dungeon near Carwen. Bronze cannot enter alone. Chapter 11 first party de
 - Exit the maze into a **massive jungle** interior (about a couple of kilometers across)
 - Artificial sun overhead; ground and grass feel real; mana density feels peculiar
 - Named on-page: **Emerald Wilderness**; **Steel**-rank hunting grounds
-- Early floor rhythm: mostly single **Spiked Boar** encounters on known routes (draft **~L8**; RaceMult **1.5**, solo **600**; `50 × L × RaceMult`)
+- Early floor rhythm: mostly single **Spiked Boar** encounters on known routes (draft **~L8**). XP: `../../Progression/Levels.md`
 - Boar fight notes (Ch 12): face shots far less effective than on goblins; extremely strong and durable; not very agile; limb/joint hits help slow them
 - Dungeon beasts drop mana stones more often and larger than outside goblins (density)
 
@@ -46,7 +46,7 @@ Active dungeon near Carwen. Bronze cannot enter alone. Chapter 11 first party de
 | Floor | Notes |
 |---|---|
 | 2 | Same forest biome as floor 1; higher chance of multi-monster packs; Needle Worms |
-| 3 | More vicious; multi-type fights; **Wereboars** (evolved Spiked Boar; **min L26**; RaceMult **2.0**, solo **2,600**) and **Needle Moths** (hide/fly high, light poison powder, harder less-spiked head ram; draft **~L18**; RaceMult **2.0**, solo **1,800**; rice-grain stone) |
+| 3 | More vicious; multi-type fights; **Wereboars** (evolved Spiked Boar; **min L26**) and **Needle Moths** (hide/fly high, light poison powder, harder less-spiked head ram; draft **~L18**; rice-grain stone). XP: `../../Progression/Levels.md` |
 | 4–9 | Not detailed in early party arc |
 | 10 | Boss; guild appointment; **1 week** respawn; strong parties / guilds hog the room |
 

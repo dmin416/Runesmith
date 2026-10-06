@@ -337,9 +337,7 @@ The old island has had time to grow rich soils and complex forest.
 - **Others:** ʻawa (kava), noni, ipu gourds and ʻōhiʻa ʻai (mountain apple).
 
 **Agriculture**
-- Old valleys support large irrigated taro terraces (loʻi) fed by ʻauwai ditches.
-- Dry slopes support field systems for sweet potato and dryland taro.
-- Later introductions include coffee, sugar, pineapple, macadamia and cattle ranching.
+- Farming, loʻi, dryland fields, and later introductions: `VolcanicIslandCrops.md`. The timber and fiber list above is what the slopes yield for craft.
 
 **Climate bands**
 - A wet windward side, dry leeward side, rain shadows, cloud forest and upland bog.

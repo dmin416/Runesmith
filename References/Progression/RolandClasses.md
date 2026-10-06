@@ -61,17 +61,4 @@ Offered beside it at T3: Advanced Runesmith, Master Runesmith, Master Runesmith 
 
 ## Early rewrite notes (Chapters 1–15)
 
-- Chapter 5: Tier 1 Mage via memory-apartment PC confirm. Affinities all 0%. Crystal dusts. Banked pre-class XP still pending Chapter 6 application.
-- Chapter 6: Mage L3 from one-time pre-class XP bank. Affinity dead-end. Plans Runesmith via Blacksmith and Mana Scribe. Lustile denied. Must earn keep as low-level mage; hide Arden name from crafting. Weekly goblin fights continue after class.
-- Chapter 7: ~3 months of weekly **2× L1** estate clears fill **1250 / 1500** toward L4. Last pen pair on-page. Sent to Carwen cabin (pressure toward army). Packs calligraphy books. Live Basic skill screen uses age-10 `Progression.md` targets (Sword/H2H/Sneak L8; Running/Sprint/Climbing/Throwing/Leather L9).
-- Chapter 8: Bronze adventurer (first name only). Guild orb **Mage L3** on the rewrite stack (Source was Mage L5 old sheet). Class-up crystal buried for Blacksmith / Mana Scribe.
-- Chapter 9: First Carwen hunt finishes Mage **L3→L4**. End pouch **875 LC**.
-- Chapter 9.5: ~3 months Carwen grind → Mage **L20**; Goblin Hunter (lifetime **1000**); Mana Absorption / Reinforcement self-taught to **L9**; end pouch **3,595 LC** / **218** rice-band + **8** leader-band stones (size = level); thick wool cloak **300 LC**.
-- Chapter 10: present day after timeskip; nest **+7** / stones **220** rice + **8** leader / pouch **3,630 LC**; rewrite L20 sheet; Mana Scribe before Blacksmith (magic-track lean); Edelgard goal; joins Becky / Sahildr / Reyna (age dodge **Roughly**).
-- Chapter 11: first dungeon day (Emerald Wilderness). Party XP = ability + contribution (Source T1-in-T2 zero block dropped). Mana Shield hard disk. Spiked Boar **L8** RaceMult **1.5**; day **456** XP / haul **+128 LC** → pouch **3,758 LC**. Trial weeks → pouch **~4,413 LC** / bar **~8,540/10k**.
-- Chapter 12: Iron Flagon first round **−45 LC**; Alcohol / Dance / Pain / Sleep pads; Floor-2 Needle Worm cook + tame (**12** worms **+1,272** → bar **~9,812/10k**); Mana Hands ≥**L7**; Multitasking; lesser impact rune sight; still Mage L20.
-- Chapter 13: half-year Floor-3 → **Mage L25** (**342** kills; Wereboar **min L26** RaceMult **2**); pouch **~5,977 LC**; Calligraphy **L9**; rewrite target Str **49** / Int **137** / MP **2292** (`StatusBreakdown.md`). Ned overall **~25**.
-- Chapter 14: watcher ambush; people XP **+479** banks; Dodging **L7**; Ned **25→26** Greater Needle Worm.
-- Chapter 16: class change → **Runic Mana Scribe** (Fire Orb trial; five-region linear; mana-hand blunder; Ned silk). Full bank **1479 / 13000** (no half-cut).
-- Chapter 17: overall **L26** / Scribe **L1** (no kills). Shows party **Edelgard**; letters to father / Martha ready to send. Leaves alone for craft; borrows Sahildr's hammer into Ch 18.
-- Chapter 18: **Lesser Impact [Highest]** + **Drawing L1** (**+1000 XP**; bar **2479 / 13000**). **Bronze → Steel**. Parting spatial bag; hugs goodbye; magic train toward Edelgard (≥1 week).
+Coin and XP for these chapters: `../../Story/Notes/Experience.md`. Chapter beats: `../../Story/Notes/Notes.md`. Attained classes stay in the tables above.
