@@ -74,7 +74,7 @@ Displayed = Body + Class levels + Skills/Traits (+ Other if needed)
 
 ## XP / coin quick rules
 
-- Kill XP: `50 × killed_L × RaceMult` (`Progression.md` / `Levels.md`). Goblin **1.0**; rat **0.2**; worm **0.5**; moth **2.0**; spiked boar **10**; wereboar **20**; people **1.0**. Ch 14 L55 pool **2750** / Roland **479**.
+- Kill XP: `50 × killed_L × RaceMult` (`Progression.md` / `Levels.md`). Goblin **1.0**; rat **0.2**; worm **0.5**; moth **2.0**; spiked boar **1.5**; wereboar **2.0**; people **1.0**. Ch 14 L55 pool **2750** / Roland **479**.
 - Class bar: `XP_to_next(L) = 500 × L`.
 - People danger ≠ sheet alone: stats × skills × gear × tactics (`Levels.md`). Companions take kill XP without eating the corpse.
 - Pre-class bank: half penalty, **one-time** on first ascension only (`Experience.md`).
