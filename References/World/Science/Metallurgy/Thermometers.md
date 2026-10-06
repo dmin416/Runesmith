@@ -8,7 +8,7 @@ Use for invent beats (brew / weather thermometers, oven dials, forge probes). Do
 
 **Caldris readout** (`../../Tech/Technology.md`): craftsman + early-industrial magitech. **In reach or near-reach:** alcohol-in-glass (glassblowing + distillation + ice/boil calibration), bimetallic oven dials (brass / steel strip, coil, pointer). Mercury or glycerin high-temp liquid tubes if glass and sealing exist. **Invent or prestige:** thermocouples with a galvanometer (fine wire, magnets, cold junction), mythril / star-steel high-temp pairs, adamantium sheaths, magic-stabilized fill liquids, enchanted uniform bore. Heat Sense and heat runes can substitute for instruments until craft catches up.
 
-Companions: `CraftMetal.md`, `../Body/Body.md` (thermal math), `../Invent/WritingTools.md` (kiln / heat-rune craft), Old `References/Ideas.md` (civilian tech).
+Companions: `CraftMetal.md`, `../Body/Body.md` (thermal math), `../Invent/WritingTools.md` (kiln / heat-rune craft), `../../../Ideas.md` (civilian tech).
 
 ---
 

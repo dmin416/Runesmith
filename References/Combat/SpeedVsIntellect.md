@@ -1,6 +1,6 @@
 # Speed Vs Intellect
 
-Think time vs move time when INT and physical stats diverge. Mage Hands / instant magic: `Combat.md`, Old `MageDefense.md`. Sound / ping limits sit at the end.
+Think time vs move time when INT and physical stats diverge. Mage Hands / instant magic: `Combat.md`, `MageDefense.md`. Sound / ping limits sit at the end.
 
 ## Narrative
 

@@ -83,7 +83,7 @@ On an **old, wet, tropical volcanic island**, intense chemical weathering of bas
 - The most weathered soils on older Hawaiian islands (Kauai type) can exceed 10% TiO₂. Treat that as an upper-end figure for long-weathered uplands, not a typical value.
 - The richest zones are the upper laterite horizons and ironstone crusts on stable, gently sloping uplands that have weathered for a long time.
 - Laterite can also feed placers: streams cutting through it carry the heavy Ti grains to the coast.
-- **Setting cross-reference:** see `VolcanicIslandResources.md` (Ti-rich laterite, never mined there).
+- **Setting cross-reference:** see `../../Geography/VolcanicIslandResources.md` (Ti-rich laterite, never mined there).
 
 So volcanoes produce the source rock. **Erosion** sorts it into black sand. **Weathering** leaves residual Ti in laterite. Both are real recovery paths. Pulling titanium directly from an active volcano is not.
 

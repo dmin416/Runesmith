@@ -47,7 +47,7 @@ Stages 8 and 9 appear only at rune score above 1 (Common Low and up). Lesser run
 | Rank | Ceiling, Lowest to Highest | Complexity | Examples |
 |---|---|---|---|
 | Lesser | 10 J to 1 kJ | One linear chain | Firecrackers (Low to Intermediate). Arrows and bolts (Intermediate to High). Wind blades, mana blades and shields (Intermediate to Highest). Small explosions (High to Highest). Fireworks (Highest). |
-| Common | 1 kJ to 100 kJ | A few coupled stages | Elemental arrows (a Common Fire Arrow at 100 mana in open air yields 3 kJ, Common Low), fireballs, weapon runes |
+| Common | 1 kJ to 100 kJ | A few coupled stages | Elemental arrows (a Common Fire Arrow at 100 mana, Low quality, open air, yields **400 J**, under this row's 1 kJ floor because η_cond is 0.4), fireballs, weapon runes |
 | Greater | 100 kJ to 10 MJ | A full working machine | Siege engines (a 100 kg stone at 50 m/s is 125 kJ), forges, wall wards, mill and pump engines |
 | Grand | 10 MJ to 1 GJ | A system of machines | Steam locomotive on a 10 minute run (0.9 GJ at 1.5 MW). Factory boilers. |
 | Legendary | 1 GJ to 100 GJ | A whole vessel | Locomotive on an hour-long run (5.4 GJ). Airship on an 8 hour leg at 3.3 MW (95 GJ). Fortress-wide wards. |

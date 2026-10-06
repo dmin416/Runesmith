@@ -1,10 +1,10 @@
 # Impact Rune (Sahildr hammer)
 
-Earth-physics model for Sahildr's **Lesser Impact** warhammer rune. Catalog: Old `Runes/Runes.md` until absorbed. Compression cousin: `../World/Science/Energy/Compression.md` (Fire Piston). Path law: `../Runes/Energy.md`. Unit: **1 mana ≈ 10 J** paid. Path metal: **steel** (mid conductivity feel).
+Earth-physics model for Sahildr's **Lesser Impact** warhammer rune. Catalog: `../Runes/Runes.md`. Compression cousin: `../World/Science/Energy/Compression.md` (Fire Piston). Path law: `../Runes/Energy.md`. Unit: **1 mana ≈ 10 J** paid. Path metal: **steel** (mid conductivity feel).
 
 ## Rules that drive the math
 
-From `Energy.md` conversion layers:
+From `../Runes/Energy.md` conversion layers:
 
 ```
 Paid cost is fixed.

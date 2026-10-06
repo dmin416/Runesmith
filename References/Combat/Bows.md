@@ -1,6 +1,6 @@
 # Bows
 
-> **Design loot.** Metal law: `../World/Materials/Metals.md`. Silk / resilin: `../World/Science/Biomaterials/BiologicalSilks.md`, `RubberAndInsect.md`. Threat-ladder KE feel: `AttackScale.md` (longbow row ~100 J). Kinetic runes: `../Runes/Energy.md`. Story gear lists stay in `../../Story/Notes/Items.md`.
+> **Design loot.** Metal law: `../World/Materials/Metals.md`. Silk / resilin: `../World/Science/Biomaterials/BiologicalSilks.md`, `../World/Science/Biomaterials/RubberAndInsect.md`. Threat-ladder KE feel: `AttackScale.md` (longbow row ~100 J). Kinetic runes: `../Runes/Energy.md`. Story gear lists stay in `../../Story/Notes/Items.md`.
 >
 > No aluminum / petroleum laminate. Limb and string jobs use wood, horn, sinew, star steel, Needle Worm silk and resilin.
 
@@ -37,12 +37,12 @@ A limb stores energy per kg of roughly σ² ÷ (2Eρ): strength squared over sti
 | Yew | ~900 | ~300 | Classic longbow wood |
 | Horn (compression side) | ~2,600 | ~870 | Belly layer of composite bows |
 | Sinew (tension side) | ~3,700 | ~1,200 | Back layer of composite bows |
-| **Pure star steel, hardened** | ~2,500 | ~830 | Composite-class storage with huge toughness. Ideal for crossbow prods. Uses inspirational star-steel strength band in `Metals.md`. |
+| **Pure star steel, hardened** | ~2,500 | ~830 | Composite-class storage with huge toughness. Ideal for crossbow prods. Uses inspirational star-steel strength band in `../World/Materials/Metals.md`. |
 | Mythril | ~180 | ~60 | Far too heavy and stiff. Inlays only. |
 | **Needle Worm silk in shellac matrix** (low-hysteresis bow grade) | ~10,000-20,000 | ~3,300-6,600 | Best limb material in the setting. Direct analog of modern fiberglass and carbon laminate limbs. |
-| Adamantium | 0 | 0 | Doesn't bend. Can't be a limb. Locked cast-final / no-bend in `Metals.md`. |
+| Adamantium | 0 | 0 | Doesn't bend. Can't be a limb. Locked cast-final / no-bend in `../World/Materials/Metals.md`. |
 
-Ordinary spider-type silk loses much of its stored energy as heat on recoil. Bow-grade Needle Worm silk has to be a low-hysteresis grade. Resilin returns about 97% and works as a thin energy-return layer (`RubberAndInsect.md`).
+Ordinary spider-type silk loses much of its stored energy as heat on recoil. Bow-grade Needle Worm silk has to be a low-hysteresis grade. Resilin returns about 95% and works as a thin energy-return layer (`../World/Science/Biomaterials/RubberAndInsect.md`).
 
 ## Rigid Parts: Where Adamantium Belongs
 

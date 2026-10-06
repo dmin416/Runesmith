@@ -104,7 +104,7 @@ D uses these on a regular basis. Quality tracks Ned's power, diet (stones, meat,
 
 **Needle vs plate (quick read)**
 
-At tame-band Strength ~20, ~1 cm spike, mild steel sheet ~2 mm is near the chip-and-punch edge. Harder armor needs much more Strength before tip H and core σ clear the 1.5× hardness and shear rules. Full tables: `../../../People/NedDesign.md`.
+At tame-band Strength ~20, ~1 cm spike, mild steel sheet ~2 mm is near the chip-and-punch edge. Harder armor needs much more Strength before tip H and core σ clear the 1.5× hardness and shear rules. Full tables: `../../Fauna/NeedleWorm.md`.
 
 ### Short template (copy for a new part)
 
@@ -122,4 +122,4 @@ Craft use / harvest rate:
 ## Open
 
 - Dead-loot N× sheets (horn, chitin, bone) when a scene needs one
-- Earth metal production tables are **not** this file (`Metallurgy/EarthAlloys.md` later)
+- Earth metal production tables are **not** this file (`../Metallurgy/EarthAlloys.md`)

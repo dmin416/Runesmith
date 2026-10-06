@@ -71,7 +71,7 @@ Heavy thrust rapier with an **inefficient lesser tip-detonation** rune.
 - **Hold-test (Ch 15):** tip effect **locks armed** until inserted (forced free activate weaker); hold trickles mana and warms the blade; pulling mana back deactivates
 - **Shortfall:** if MP is insufficient the rune finishes from **SP** at **1 SP per missing MP** (same blast; stamina bite)
 - **On-page blast feel (Ch 15):** about **~7.3 kJ** tip-coupled (local wood / soft spoil, not a tree-feller). Rune Useful follows `../Runes/Energy.md` (**η_cond × A**, `A = √C`; not μ(INT)). Old μ(INT) pricing discarded.
-- **Rune Mastery** later cuts the MP share (~**1%** at Basic L1); SP overflow still covers any remainder the same way
+- **Rune Mastery** cuts the MP share by **−10%** per level, cap **−90%** (`../Runes/Energy.md`). Basic L1 is **−10%**. SP overflow still covers any remainder the same way
 - Why warriors rarely spam it: shallow MP pool + SP drain when the pool bottoms out
 
 ## Triangular knuckle bow hand guard
@@ -139,6 +139,6 @@ Darksteel still wastes more than star steel. Rune-life bonus: `../Runes/ManaMate
 
 ### Worked channel (path heat)
 
-Channel **2 mm** wide, **1 mm** deep, **60 cm** long (**1.2 cm³**). One **100 mana** pulse. Path heat / corruption = **½** of waste (`Energy.md` η_cond table). Mass and heat capacity still matter for rise.
+Channel **2 mm** wide, **1 mm** deep, **60 cm** long (**1.2 cm³**). One **100 mana** pulse. Path heat / corruption = **½** of waste (`../Runes/Energy.md` η_cond table). Mass and heat capacity still matter for rise.
 
 Relative peak rise for that geometry: plain hardened steel and darksteel cook hardest, star steel cooler, mythril barely warm. Orihalcum never is a weapon channel. Adamantium never is the channel itself.

@@ -1,11 +1,11 @@
 # Attributes
 
-> **Design loot.** Live locks: Progression.md (XP / tiers / reclass; `50 × L × RaceMult`), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. Levels.md holds live RaceMult table; Ch 4-19 XP ledger locked in Story/Notes/Experience.md. Diagnosis is the live skill name (Old Debugger).
+> **Design loot.** Live locks: Progression.md (XP / tiers / reclass; `50 × L × RaceMult`), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. Levels.md holds live RaceMult table; Ch 4-19 XP ledger locked in `../../Story/Notes/Experience.md`. Diagnosis is the live skill name (Old Debugger).
 
 
 Attribute explanations from the status screen. First seen: Chapter 2.
 
-For physical and mental scale: untrained adult man average **15**, trained age tables (body + adult-mind Int/Will), and linear real-output conversion (Output = k × S), see `Progression.md`.
+For physical and mental scale: untrained adult man average **15**, trained age tables (body + adult-mind Int/Will), and linear real-output conversion (Output = k × S), see `Training.md`.
 
 ## Strength
 Indicates the physical power of an individual, increases attack damage and stamina slightly.
@@ -70,7 +70,7 @@ First seen: Chapter 5–6 skill card. Live card (**+2%** max MP, **+1%** regen p
 
 ## Attribute perks
 
-Rewrite map of one perk per core attribute at **40**. Full list and notes: `Skills.md` (Attribute perks under Traits).
+Rewrite map of one perk per core attribute at **40**. Full list and notes: `SkillsDesign.md` (Attribute perks under Traits).
 
 | Stat | Perk name | Perk theme | Threshold |
 |---|---|---|---|

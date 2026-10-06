@@ -2,7 +2,7 @@
 
 Earth cognitive-science note. **Memory is storage and recall. Drawing (and other craft) is motor execution.** They are separate skills.
 
-**Story use:** Diagnosis / Analyze / perfect recall can stock a clear image. That does **not** auto-grant Drawing levels. Hand control, proportions and error correction still need practice (and system skill ranks). Pair with Drawing under live `../../../Progression/Skills.md` (thin) and Old `Progression/Skills.md` / `NormalPersonSkills.md` until absorbed.
+**Story use:** Diagnosis / Analyze / perfect recall can stock a clear image. That does **not** auto-grant Drawing levels. Hand control, proportions and error correction still need practice (and system skill ranks). Pair with Drawing under live `../../../Progression/Skills.md` (thin) and `../../../Progression/NormalPersonSkills.md`.
 
 ## Core idea
 

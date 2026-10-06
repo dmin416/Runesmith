@@ -1,6 +1,6 @@
 # Wood Processing
 
-Natural seasoning and vacuum / heat magic shortcuts. Structural steel contrast: `../Metallurgy/StructuralForge.md`. Vacuum craft: Old `../Metallurgy/Vacuum.md` until pulled.
+Natural seasoning and vacuum / heat magic shortcuts. Structural steel contrast: `../Metallurgy/StructuralForge.md`. Vacuum craft: `../Metallurgy/Vacuum.md`.
 
 ## Narrative
 

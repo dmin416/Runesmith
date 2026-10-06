@@ -1,9 +1,9 @@
 # RolandClasses
 
-> **Design loot.** Live locks: Progression.md (XP / tiers / reclass; `50 × L × RaceMult`), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. Levels.md holds live RaceMult table; Ch 4-19 XP ledger locked in Story/Notes/Experience.md. Diagnosis is the live skill name (Old Debugger).
+> **Design loot.** Live locks: Progression.md (XP / tiers / reclass; `50 × L × RaceMult`), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. Levels.md holds live RaceMult table; Ch 4-19 XP ledger locked in ../../Story/Notes/Experience.md. Diagnosis is the live skill name (Old Debugger).
 
 
-Roland’s class path. Planned vs attained. Follow `CrossCheck.md` when status screens change.
+Roland’s class path. Planned vs attained. Follow `../../Story/Notes/CrossCheck.md` when status screens change.
 
 ## Attained path (rewrite)
 

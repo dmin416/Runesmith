@@ -43,6 +43,7 @@ Earth-physics and craft anchors. Cast / mana law hub: `../../Runes/Energy.md`.
 |---|---|
 | `Biomaterials/Biomaterials.md` | Process pipeline; N× vs living-stat scale; Ned harvest |
 | `Biomaterials/RubberAndInsect.md` | Latex, silk, glues; Ned strength/sticky targets |
+| `Biomaterials/BiologicalSilks.md` | Silk types; Ned cellulose silk |
 | `Biomaterials/WoodProcessing.md` | Seasoning + vacuum kiln |
 
 ### Energy
@@ -92,6 +93,7 @@ Earth-physics and craft anchors. Cast / mana law hub: `../../Runes/Energy.md`.
 | `Invent/MechanicalPrecision.md` | Shop precision / governors |
 | `Invent/Paper.md` | Paper economy and craft |
 | `Invent/PaperFormats.md` | Sheet sizes |
+| `Invent/Printing.md` | Gutenberg / civilian-product invent seed |
 | `Invent/WritingTools.md` | Pencil / pen invent path |
 
 ### Vehicle
@@ -101,6 +103,7 @@ Earth-physics and craft anchors. Cast / mana law hub: `../../Runes/Energy.md`.
 | `Vehicle/Suspension.md` | Caldris ceiling + active nine-part + Earth ladder |
 | `Vehicle/Wheels.md` | Wheel tech ladder + Caldris readout |
 | `Vehicle/Roads.md` | Road layers; medieval–Victorian era ladder; travel speeds |
+| `Vehicle/PerfectGlider/PerfectGlider.md` | Glider design study |
 | `Vehicle/MobileHome.md` | Caravan amenity bands + heat density |
 
 ## Locked conflict resolutions
@@ -110,7 +113,7 @@ Earth-physics and craft anchors. Cast / mana law hub: `../../Runes/Energy.md`.
 | Adamantium forge-supersteel vs cast-final | **Metals.md + CraftMetal shop:** final once cast; form while setting; no post-set forge |
 | Animal Materials vs Earth Materials | Animal = `Biomaterials/Biomaterials.md`. Earth = `Metallurgy/EarthAlloys.md` |
 | Stone dump SA-capped | **Dropped.** Law in `../Materials/MonsterCores.md`. Size tables: `Energy/ManaStones.md`. Compare: `Energy/Batteries.md` |
-| Path efficiency | **Mana conductivity** is narrative per host (`η_cond`); does not follow electrical conductivity. Direct casts and runes both take ambient `A = √C` (`../../Runes/Energy.md`) |
+| Path efficiency | **η_cond** is the quality ladder (**0.2** to **1.0**). Host feel is narrative and does not follow electrical conductivity. Direct casts and runes both take ambient `A = √C` (`../../Runes/Energy.md`) |
 | Cast law formulas | `../../Runes/Energy.md` (**1 mana = 10 J**; η(L); μ(INT)). Spell tables: `Energy/ManaCast.md` |
 | Living resistance / air-deny | Vitality + magic resist raw mana body / air-shell tricks. No cheap vacuum / suffocate / micro-compression / contactless sonic kill on a resisting person. Vacuum detail: `Metallurgy/Vacuum.md` |
 | Flight cost fiat | No locked cheap/expensive flight. Pay the chosen model at η×μ. Hold ≠ hover. `Energy/Flight.md` |

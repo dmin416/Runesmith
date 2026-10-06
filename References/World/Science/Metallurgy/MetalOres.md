@@ -1,7 +1,7 @@
 # Where to Find Extractable Metals
 
 > **Earth / invent geography.** Gate with `../../Materials/Materials.md`.
-> COMMON extract focus: Cu, Fe, Ag, Au, Sn, calamine (for brass). Chromite→stainless, metallic Zn retort, Kroll Ti, Al = **SPECIALTY** / invent unless a beat locks them. Public Ti stock = **adamantium** (converted Ti, `Metals.md`); mundane sponge Ti not street.
+> COMMON extract focus: Cu, Fe, Ag, Au, Sn, calamine (for brass). Chromite→stainless, metallic Zn retort, Kroll Ti, Al = **SPECIALTY** / invent unless a beat locks them. Public Ti stock = **adamantium** (converted Ti, `../../Materials/Metals.md`); mundane sponge Ti not street.
 
 Earth ore geography and processing for a setting with alchemy and magical high heat. Alloy properties and industrial vacuum routes: `EarthAlloys.md`. Forge / barrier craft: `CraftMetal.md`. Hub: `../Science.md`.
 
@@ -24,7 +24,7 @@ Dark, heavy, olive-green rock like peridotite and serpentine.
 - **Found in:** chromite, dense black seams in layered intrusions and lumps in mountain belts where old ocean floor was pushed onto land.
 - **Processing:**
   1. Crush the chromite and pick out the heavy black grains by washing.
-  2. For alloying into steel: smelt the chromite with charcoal or coke in a very hot furnace. The result is ferrochrome (iron-chromium). Adding it to make stainless = **SPECIALTY** / invent (`Materials.md`); not Caldris baseline cookware or plate.
+  2. For alloying into steel: smelt the chromite with charcoal or coke in a very hot furnace. The result is ferrochrome (iron-chromium). Adding it to make stainless = **SPECIALTY** / invent (`../../Materials/Materials.md`); not Caldris baseline cookware or plate.
   3. For pure chromium: roast the ore with soda ash and lime in open air. This makes soluble sodium chromate.
   4. Leach with water and acidify to drop out chromium oxide.
   5. Reduce the oxide with powdered aluminum (thermite reaction) or with alchemy. Carbon alone leaves a brittle carbide.
@@ -218,7 +218,7 @@ Dark, heavy, olive-green rock like peridotite and serpentine.
 
 ### Titanium
 
-- **Terra public stock:** **adamantium** (converted Ti). Mundane Ti sponge / Kroll plate is **not** street form (`Metals.md`).
+- **Terra public stock:** **adamantium** (converted Ti). Mundane Ti sponge / Kroll plate is **not** street form (`../../Materials/Metals.md`).
 - **Found in:** rutile, ilmenite, leucoxene and titanomagnetite in black beach and river sands; residual Ti-rich laterite on old wet volcanic islands (Earth / invent path). Quantities, grades and volcanic recovery: `Titanium.md`.
 - **Processing (SPECIALTY invent):**
   1. Separate the black sand by magnet and washing (titanomagnetite jumps to a magnet; ilmenite is only weakly magnetic; rutile is nonmagnetic).

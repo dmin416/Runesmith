@@ -56,7 +56,7 @@ Social structure stays medieval (kingdoms, nobles, knights, Royals) while techno
 
 **Batteries:** Earth cell ladder and mana-stone Wh/kg compare in `../Science/Energy/Batteries.md`. Voltaic / Daniell / zinc-carbon are near-reach invents; lithium chemistries are not baseline. Mana stones already cover portable energy for most gear.
 
-**Refined mana craft:** Stillwire (stone-refined superconducting wire) and Lightthread (optical fiber) in `../Science/Energy/RefinedMana.md`. Prestige invent; not baseline. Mined mythril stays the reusable SC path metal; Lightthread is light-only (not mana fiber). Temporary mass/weight stays on `../../PotentialMagic/MassBoost.md` / Impact, not summoned matter.
+**Refined mana craft:** Stillwire (stone-refined superconducting wire) and Lightthread (optical fiber) in `../Science/Energy/RefinedMana.md`. Prestige invent; not baseline. Converted mythril (silver) stays the reusable SC path metal; Lightthread is light-only (not mana fiber). Temporary mass/weight stays on `../../PotentialMagic/MassBoost.md` / Impact, not summoned matter.
 
 ### Economy and agriculture effects
 

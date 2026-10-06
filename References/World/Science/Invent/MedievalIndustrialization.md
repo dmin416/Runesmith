@@ -148,7 +148,7 @@ Ranked by leverage. Caldris already has some of these (mills, steam / stone trai
 
 Early steps generate surplus food and income. That surplus pays for each later stage.
 
-**Shop-arc note:** Old `References/Ideas.md` starts with soap / pins / matches for fast cash before steel plant and press. That is a **retail** order. This file is the **machine-tool** dependency order. Do both: sell easy goods while the lathe chain runs in the background.
+**Shop-arc note:** `../../../Ideas.md` starts with soap / pins / matches for fast cash before steel plant and press. That is a **retail** order. This file is the **machine-tool** dependency order. Do both: sell easy goods while the lathe chain runs in the background.
 
 ## Kitchen shop tool chain
 

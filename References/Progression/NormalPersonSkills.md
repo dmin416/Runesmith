@@ -1,6 +1,6 @@
 # Normal Person Skills
 
-> **Design loot.** Live locks: Progression.md (XP / tiers / reclass; `50 × L × RaceMult`), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. Levels.md holds live RaceMult table; Ch 4-19 XP ledger locked in Story/Notes/Experience.md. Diagnosis is the live skill name (Old Debugger).
+> **Design loot.** Live locks: Progression.md (XP / tiers / reclass; `50 × L × RaceMult`), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. Levels.md holds live RaceMult table; Ch 4-19 XP ledger locked in `../../Story/Notes/Experience.md`. Diagnosis is the live skill name (Old Debugger).
 
 
 Skills any ordinary person in the setting can plausibly gain. Not locked behind a class, the Gamer / Source special set, or a profession track (Mage, Scribe, Blacksmith, Runesmith). Built for an adventurer who lives on combat and exploration.
@@ -200,7 +200,7 @@ Rough real-time for an ordinary person to push **that prefix to L9** with **dail
 
 Sword Expert L9 ≈ lifelong specialist. Matches “pinnacle of Expert,” not “can hold a board job.”
 
-### Check vs `Progression.md`
+### Check vs `Training.md`
 
 - Functional battlefield sword endurance is **6–12 months** of consistent work. That lines up with **mid Basic / early plain**, not Basic L9 or Expert L9.
 - War-bow years (**1–3+**) sit near Archery / Marksmanship single-track caps.

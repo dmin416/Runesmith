@@ -91,7 +91,7 @@ Class and skill bonuses can raise displayed pools above the bare formulas (e.g. 
 
 **Ascension / class crystal:** Needed to gain or change class. First use awards a class (confirm). Later uses need a trial (battle, craft, or puzzle). First-use crystal turns to dust. The trial is a personal realm. Long subjective time inside can equal seconds outside. The place Roland sees is in `../World/Geography/PlacesDesign.md`.
 
-**Reclass:** No hard lifetime class count. Cannot leave a class for another until at least **25** levels in the current one. Tier 1 classes must be finished to their **L25** cap before leaving. **No half-cut bank on class change** (Old half-cut dropped). Cap overflow banks in full; Ch 16 carry **1479** locked in `Experience.md`.
+**Reclass:** No hard lifetime class count. Cannot leave a class for another until at least **25** levels in the current one. Tier 1 classes must be finished to their **L25** cap before leaving. **No half-cut bank on class change** (Old half-cut dropped). Cap overflow banks in full; Ch 16 carry **1479** locked in `../../Story/Notes/Experience.md`.
 
 **Multiple classes:** Primary plus at most **one** secondary that keeps special effects. Switch secondary **once per day**. No tertiary active slot. Maxed lower tiers can sit inactive on the sheet.
 

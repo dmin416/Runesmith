@@ -94,7 +94,7 @@ Doubling the charge in a .50 gives roughly 25 to 35 percent more velocity, not d
 
 Companion biology invent. Character peg: `../../../People/Ned.md`. Species body: `../../Fauna/NeedleWorm.md`.
 
-Ned produces cellulose silk, glycerin from his hemolymph and acid made by eating his own extremely hard spikes.
+Feedstocks and Earth animal precedents: `../../Fauna/NeedleWorm.md`.
 
 ### Strength vs Concentration
 
@@ -120,15 +120,9 @@ Below pH 0 chemists use the Hammett scale. Each step of 1 means 10 times stronge
 - **Strong and dry:** Full nitration into guncotton, the propellant grade.
 - **Superacid:** Stronger is not better. A superacid chars, dissolves or breaks down cellulose and glycerin instead of nitrating them. Ned's acid only helps if its extra power goes into nitrating rather than eating the raw material.
 
-### Real Animal Precedents
+### Real animal precedents
 
-- Ants spray formic acid.
-- Vinegaroons (whip scorpions) spray acetic acid at about 85 percent strength.
-- Tun snails secrete saliva containing sulfuric acid to break down the shells of their prey.
-- Bombardier beetles keep chemicals in separate sacs and mix them in an armored reaction chamber to fire a boiling spray. This is a model for a gland that keeps reagents apart until use.
-- The stomach makes hydrochloric acid with proton pumps and protects itself with a mucus lining.
-- Tunicates (sea squirts) are the only animals known to make cellulose.
-- Many cold-climate insects load their hemolymph with glycerol as antifreeze.
+Earth animal precedents for the gland: `../../Fauna/NeedleWorm.md`.
 
 ### How Ned Could Work
 

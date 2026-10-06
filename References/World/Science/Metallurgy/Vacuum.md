@@ -1,6 +1,6 @@
 # Vacuum
 
-Hub: `../Science.md`. Cast law: `../../../../Runes/Energy.md` + `../Energy/ManaCast.md`. Living resistance: section below + hub Locked in `../Science.md`. Mana = J / (10 × η × μ). Physical steel chamber build (walls, seals, pumps, coatings): `SteelVacuumChamber.md`. Vacuum steps in alloy / carbon production: `EarthAlloys.md`. Forcefield vacuum over a fire (radiant HT): `VacuumForcefieldHeat.md`.
+Hub: `../Science.md`. Cast law: `../../../Runes/Energy.md` + `../Energy/ManaCast.md`. Living resistance: section below + hub Locked in `../Science.md`. Mana = J / (10 × η × μ). Physical steel chamber build (walls, seals, pumps, coatings): `SteelVacuumChamber.md`. Vacuum steps in alloy / carbon production: `EarthAlloys.md`. Forcefield vacuum over a fire (radiant HT): `VacuumForcefieldHeat.md`.
 
 ## Pump-down (correct ideal)
 
@@ -85,7 +85,7 @@ Vacuum does not clean metal; it **prevents recontamination**. Bare metal in air 
 
 ### Sequential
 
-1. Abrade / scour to bare metal (Sono-Alchemy or fine kinetic scour: `Sound.md` / `../Energy/Kinetic.md`).
+1. Abrade / scour to bare metal (Sono-Alchemy or fine kinetic scour: `../Energy/Sound.md` / `../Energy/Kinetic.md`).
 2. Seal vacuum on the joint volume before oxide reforms (`W ≈ P_atm · V` on a small joint volume). Low skill risks failure if too slow between steps.
 
 ### Concurrent (preferred)

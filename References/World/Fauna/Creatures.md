@@ -42,7 +42,7 @@ Later nest clear foes (Manstos / insectoid jobs). Soldier / worker castes. Manst
 
 ### Albrook volcanic early (named)
 
-Fire Slimes, Fiery Skeletons, Baby Salamanders appear on early Albrook dungeon floors. Kill XP still `50 × monster level`. Deep floor list stays chapter / Source loot. Metal / lava slime living-crucible design: `Slimes.md`.
+Fire Slimes, Fiery Skeletons, Baby Salamanders appear on early Albrook dungeon floors. Kill XP still `50 × monster level × RaceMult`. Deep floor list stays chapter / Source loot. Metal / lava slime living-crucible design: `Slimes.md`.
 
 ## Indexes
 
@@ -54,4 +54,4 @@ Fire Slimes, Fiery Skeletons, Baby Salamanders appear on early Albrook dungeon f
 
 ## Open
 
-Full bestiary cards and late Source types absorb when a region needs them. Do not invent levels or XP bases beyond live `50 × L`.
+Full bestiary cards and late Source types absorb when a region needs them. Do not invent levels or XP bases beyond live `50 × L × RaceMult`.

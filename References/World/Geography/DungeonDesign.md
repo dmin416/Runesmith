@@ -31,7 +31,7 @@ Active dungeon near Carwen. Bronze cannot enter alone. Chapter 11 first party de
 - Named on-page: **Emerald Wilderness**; **Steel**-rank hunting grounds
 - Early floor rhythm: mostly single **Spiked Boar** encounters on known routes (draft **~L8**). XP: `../../Progression/Levels.md`
 - Boar fight notes (Ch 12): face shots far less effective than on goblins; extremely strong and durable; not very agile; limb/joint hits help slow them
-- Dungeon beasts drop mana stones more often and larger than outside goblins (density)
+- Dungeon beasts can drop mana stones more often than outside goblins. Size still follows level (`../Materials/MonsterCores.md`)
 
 ### Stair throats (between floors)
 

@@ -10,7 +10,7 @@ Real historical cookware (French kitchens used tin- or silver-lined copper). Fit
 
 - **Heat:** Silver has the highest thermal conductivity of any metal (about 429 W/m·K). Copper is close behind (about 400). Heat spreads evenly with no hot spots. Mana-dense meat cooks through without scorched patches.
 - **Food safety:** Silver barely reacts with food. Copper alone leaches into acidic dishes so the silver lining covers the cooking surface while the thick copper body moves the heat.
-- **Mana:** For this proposal only, silver does not strip potency the way orichalcum does. The pan and meat form a closed loop where mana circulates and stays in the dish. Does not change `Energy.md`.
+- **Mana:** For this proposal only, silver does not strip potency the way orihalcum does. The pan and meat form a closed loop where mana circulates and stays in the dish. Does not change `../Runes/Energy.md`.
 - **Drawback:** Silver tarnishes from sulfur in eggs, onions and some meats. Relining costs money and the pan is expensive overall. That makes it a noble, guild-chef or high-end tavern item.
 
 ## The grounding problem

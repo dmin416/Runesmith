@@ -10,7 +10,7 @@ Named magic and commonly referenced spell effects. Runic scroll versions are not
 First seen: Chapter 5
 Focused mana projectile; early core mage spell. Tutorial clone demonstrates chant + palm form before the skill dump. Damage scales with Intelligence. Chapter 7–9 field use: egg-sized bolt after a full chant (*Source of all magic, heed my call!* / *Gather before me and strike down my enemies, Mana Bolt!* or shortened closing *Mana Bolt!*). Fine vs eyes and other weak spots; not rapid-fire. **Must chant while shaping**; shaping alone evaporates. Whisper chant works but lowers power. Panting or running collapses the cast. Aim can track with Dexterity / prior FPS habit. Chapter 27: lesser elemental grafts (same research track as Mana Arrow). Chapter 37: inscribed on bronze paddle wands (~75 MP per cast through the item).
 
-**Cast law (rewrite physics):** `Useful = mana × 10 × η(L) × μ(INT) × A` with `η(1)=0.3`, `η(L)=1+(L-2)×2/7` for L2–L9 (L2=1.0 … L9=3.0), `μ=(INT/15)^0.8`, and ambient `A = √C` (open ground **A = 1**). Voice sets mana: Mental **10**, Whisper **15**, Quiet **20**, Normal **25**, Loud **40**, Very loud **50**. **Overcharging a spell is equal to the mana used.** **1 mana ≈ 10 J** paid. Goblin skull/eye clear on L1 normal from mid INT; hardness and aim still gate armor. Full tables: `../World/Science/Energy/ManaCast.md`.
+**Cast law:** `../Runes/Energy.md`. Voice mana steps and the bolt tables are in `../World/Science/Energy/ManaCast.md`. Goblin skull/eye clear on L1 normal from mid INT; hardness and aim still gate armor.
 
 ### Mana Arrow
 First seen: Chapter 10

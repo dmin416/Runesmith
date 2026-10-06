@@ -52,7 +52,7 @@ Rough scale of table thrust to high AGI: multiply by **AGI/15** if you only need
 
 ## Mana Shield absorb pool
 
-Direct-cast barrier. Same ambient term as spell Useful (`Energy.md`).
+Direct-cast barrier. Same ambient term as spell Useful (`../Runes/Energy.md`).
 
 ```
 Pool (J) = 20 × M × η(L) × μ(INT) × S × R × A

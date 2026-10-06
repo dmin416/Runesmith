@@ -27,7 +27,7 @@ Carwen is a poor place for specialty craft supplies. Edelgard has better shops f
 3. **Make graphite:** He synthesizes usable graphite from wood (char → tar pitch coke → graphitize) then Conté-style clay leads and a wood case. Full Earth ladder under **Synthetic graphite from wood** below. Heat runes and forge work make the 2500 to 3000 °C step plausible without Earth industrial plant.
 4. **Ned toxin-free spike:** A later Ned spike evolution / variant that is **toxin-free**. Shed or cut tips become clean hard cores (or core molds / punches) for pencil leads. Poisoned spikes are useless for writing tools people put near their mouths and skin.
 5. **Pencil:** Wood (or equivalent) case + synthetic graphite core. First personal use for schematics; later a sellable civilian product.
-6. **Pen (after metalworking):** Once he has real smith / precision metal time, he invents a practical pen (steel-nib dip first, then a better sealed / fountain or ball design). See also Old `References/Ideas.md` civilian product shortlist (**ball pen** sits after steel process).
+6. **Pen (after metalworking):** Once he has real smith / precision metal time, he invents a practical pen (steel-nib dip first, then a better sealed / fountain or ball design). See also `../../../Ideas.md` civilian product shortlist (**ball pen** sits after steel process).
 
 ### Source vs rewrite
 
@@ -100,8 +100,8 @@ Wood charcoal alone is hard carbon that resists forming graphite. The **tar and 
 
 ## Cross-links
 
-- Ch 19 quill / pencil want: Old `Story/Notes/Notes.md`, chapter prose in Old `Story/Chapters/19-30.md`
-- Ned spikes / toxin: Old `Story/Notes/NedStatus.md`, `../../../People/Ned.md`
+- Ch 19 quill / pencil want: `../../../../Story/Notes/Notes.md`, chapter prose in `../../../../Story/Chapters/19-30.md`
+- Ned spikes / toxin: `../../../../Story/Notes/NedStatus.md`, `../../../People/Ned.md`
 - Edelgard mines: `../../Geography/Places.md`
-- Later mass product / ball pen: Old `References/Ideas.md` (civilian shortlist; pencil invent is earlier personal craft)
+- Later mass product / ball pen: `../../../Ideas.md` (civilian shortlist; pencil invent is earlier personal craft)
 - Craft metals / heat: `../Metallurgy/CraftMetal.md`

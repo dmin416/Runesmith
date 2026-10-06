@@ -7,7 +7,7 @@ Lazy time magic speeds a process up time machine style by hand waving every requ
 **Scope:** This file is the cost model under the fermentation and aging speedups in `MagicalCooking.md`. Any "speed up fermentation / aging" effect there is priced here. No free version exists.
 
 **Canon pegs:**
-- `Energy.md`: 1 mana = 10 J. Useful = mana × 10 × η × A. Use the skill cast η or the rune η_cond, never both.
+- `../Runes/Energy.md`: 1 mana = 10 J. Useful = mana × 10 × η × A. Use the skill cast η or the rune η_cond, never both.
 - Impact / MassBoost: compressed mana mass disperses when the feed stops.
 
 ---
@@ -36,7 +36,7 @@ Four walls appear in every case:
 
 ## 2. Pricing Formula
 
-All energy in this file is joules. Convert to mana with the `Energy.md` peg:
+All energy in this file is joules. Convert to mana with the `../Runes/Energy.md` peg:
 
 > **mana = Useful ÷ (10 × η × A)**
 

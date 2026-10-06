@@ -135,7 +135,7 @@ Rune / craft deltas only. Tone and class-menu personality changes listed when th
 
 ## Story chapter files (rewrite)
 
-`Story/Chapters/1-9.md` / `10-18.md` through `71-80.md`. Primary LOOK dump: Ch 12–16. Primary MAKE dump: Ch 15–16 (paper), Ch 34 / 37 / 46–49 / 72–73 (hammer / hand / chisel).
+`../../Story/Chapters/1-9.md` / `../../Story/Chapters/10-18.md` through `../../Story/Chapters/71-80.md`. Primary LOOK dump: Ch 12–16. Primary MAKE dump: Ch 15–16 (paper), Ch 34 / 37 / 46–49 / 72–73 (hammer / hand / chisel).
 
 **Ch 16 rewrite note:** through mid-scribe (~L1194) the trial Fire Orb is five-stage linear pathways (`RuneSystem.md`), not Source binary / three-component logic. See **Source → Story (Ch 16)** under Paper / scroll.
 

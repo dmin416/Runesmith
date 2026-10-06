@@ -37,7 +37,7 @@ Labor-days method: `../World/Society/EconomyDesign.md` (unskilled mid **~7.5 LC/
 
 Live animals are under §14. Cloth and candles are under §12 / §22.
 
-**Spirits tech note:** Caldris has magic steam trains and noble airships, so copper boilers, condensers and stills exist. Adventurer towns sell **poorly distilled** firewater (harsh, bad heads/tails cuts, sometimes watered). It is common, not rare alchemy. Nobles drink cleaner or aged stock. Iron Flagon / Ch 12: **weak spirits (~40 proof, ≥20% ABV)**, half-gallon pitchers **~15 LC** each, three-pitcher round **~45 LC**. Roland pays the full first round (**45 LC** = **9** goblin ears) to celebrate. Full ~80 proof rotgut is **50-70 LC**/gallon (dram **3-5 LC**). Distill / liqueur process: `Food/Food.md` (Steam-era spirits and liqueurs).
+**Spirits tech note:** Caldris has magic steam trains and noble airships, so copper boilers, condensers and stills exist. Adventurer towns sell **poorly distilled** firewater (harsh, bad heads/tails cuts, sometimes watered). It is common, not rare alchemy. Nobles drink cleaner or aged stock. Iron Flagon / Ch 12: **weak spirits (~40 proof, ≥20% ABV)**, half-gallon pitchers **~15 LC** each, three-pitcher round **~45 LC**. Roland pays the full first round (**45 LC** = **9** goblin ears) to celebrate. Full ~80 proof rotgut is **50-70 LC**/gallon (dram **3-5 LC**). Distill / liqueur process: `FoodDesign.md` (Steam-era spirits and liqueurs).
 
 ---
 

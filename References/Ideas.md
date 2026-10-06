@@ -337,7 +337,7 @@ Original after ~Ch 70 loops craft → dungeon → politics → craft while escal
 
 ## Early skills (modern mind)
 
-See `Story/Notes/Early Logical Skills.md`. Short version: Basic Mathematics and Map Reading already had at transfer; Analyze is the first in-Terra unlock from the status analysis; Hastened Reading and Parallel Thinking early; ambient mana absorption practice before Mage; strong Reading proficiency in childhood. Class-gated runecraft stays gated.
+See `../Story/Notes/Early Logical Skills.md`. Short version: Basic Mathematics and Map Reading already had at transfer; Analyze is the first in-Terra unlock from the status analysis; Hastened Reading and Parallel Thinking early; ambient mana absorption practice before Mage; strong Reading proficiency in childhood. Class-gated runecraft stays gated.
 
 ## Scene seeds
 
@@ -353,6 +353,6 @@ See `Story/Notes/Early Logical Skills.md`. Short version: Basic Mathematics and 
 - Finalize Early Logical Skills naming (Ambient Mana Absorption vs early Regulation). Parallel Thinking = **skill** (rewrite lock).
 - Skill redesign loot: `Progression/SkillsRedesign.md` (merge accepted rows into Skills / SkillsDesign).
 - Name and lock the Tier 2+ passive telekinesis / mage-hand skill above Mana Shaping (`Ideas.md` Systems).
-- Later **Goblin Slaughterer** may need its own kill or boss gate (Goblin Hunter **1000** is locked in `Experience.md` / SkillsDesign).
+- Later **Goblin Slaughterer** may need its own kill or boss gate (Goblin Hunter **1000** is locked in `../Story/Notes/Experience.md` / `Progression/SkillsDesign.md`).
 - Ordinary-person skill list + L9 training times: `Progression/NormalPersonSkills.md` (through Expert; no system acceleration).
 - **Regular vs runic scroll craft (open):** Drawing / making **regular magic scrolls** (incantation / word / mana-ink path) is different from **runic scrolls**. Ch 21 already shows Diagnosis blank on regulars and different laws; timings differ (~10 min Mana Arrow vs ~45 min Fire Orb runic). Still need to learn and lock the full difference (skills, process, what Drawing covers for each, Identify readout, materials). Not locked yet.

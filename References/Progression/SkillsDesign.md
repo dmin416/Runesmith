@@ -24,7 +24,7 @@ Passive. Increased proficiency in preparing food. +Dexterity and +Agility equal 
 
 ### Marksmanship
 First seen: Chapter 2
-Passive. Increased proficiency with aimed projectile weapons. +Dexterity equal to skill level. Roland???s transferred skill at **L7** from Earth firearms practice (monthly range + dry fire over ~10 years; see `Progression.md`). Analogue weapons in Caldris still unclear. Caps at L9 then evolves. **Ladder exception:** transfer starts on the plain (Level 2) name with no separate Basic Marksmanship rung on his sheet; evolves Marksmanship ??? **Expert Marksmanship** only (2 rungs for him, not the usual 3).
+Passive. Increased proficiency with aimed projectile weapons. +Dexterity equal to skill level. Roland???s transferred skill at **L7** from Earth firearms practice (monthly range + dry fire over ~10 years; see `Training.md`). Analogue weapons in Caldris still unclear. Caps at L9 then evolves. **Ladder exception:** transfer starts on the plain (Level 2) name with no separate Basic Marksmanship rung on his sheet; evolves Marksmanship ??? **Expert Marksmanship** only (2 rungs for him, not the usual 3).
 
 ### Expert Marksmanship
 First seen: Chapter 10 (Carwen grind evolve)
@@ -79,7 +79,7 @@ Multi-mind processing Roland relies on for complex runework.
 First seen: Chapter 12
 Gained while holding multiple **Mana Hands** over a cook fire (eight skewers). Lets him split attention across concurrent actions. Roland does not notice the unlock on-page. Hard-caps at **L9**, then evolves.
 **Attribute bonus:** Intelligence +1 per level, Dexterity +1 per level.
-**Ch 19 week:** **L1 ??? L8** on continuous click+locate+Ned track/poke/needle-catch **and** regen-capped grill (`Story/Notes/Skills.md`).
+**Ch 19 week:** **L1 ??? L8** on continuous click+locate+Ned track/poke/needle-catch **and** regen-capped grill (`../../Story/Notes/Skills.md`).
 
 ### Basic Taming
 First seen: Chapter 12
@@ -91,7 +91,7 @@ First seen: Chapter 2
 Passive. Speeds reading while taking in knowledge. +Intelligence equal to skill level. Roland???s transferred skill at L2.
 
 ### Reading Proficiency
-First seen: Chapter 2???3 (grind); age track in `Progression.md`
+First seen: Chapter 2???3 (grind); age track in `Training.md`
 Passive. Reading technique and speed. **Intelligence +level**, **Willpower +level**. Roland hits L9 by age 7 on the transmigrator table.
 
 ### Basic Mathematics
@@ -157,7 +157,7 @@ Passive. Reduces felt pain; hard to unlock without sustained suffering. Early un
 
 **Willpower +1 per level**, **Endurance +1 per level.**
 
-**Thermal grill drill (Ch 19):** alternating **real** hot and cold mana patches on the skin in a grid (hot enough to redden/blister, cold enough to frostbite lightly). Earth thermal-grill illusion is the *idea* seed only; training past the harmless band so Heat and Cold Resistance actually rank. Also grinds **Pain Resistance**, **Recovery**, **Heat** (heat dumps) and fine **Mana Shaping / Regulation**. He meters the pool near **~99%** and soaks Regulation regen with grill intensity (soft clicks alone underspend). **Ned** adds shallow intentional nibbles / tip-pokes (Pain + same-family Poison). When Recovery lags he pours a little low-grade potion on the patch and continues so unused regen is not wasted. Keep damage shallow on purpose. Chapter 19 week: **Pain L1 ??? L8**, Heat Resistance/Cold ??? **L6**, Poison **L6 ??? L7**, Recovery **L5 ??? L9** with **no Rapid Recovery** yet (full table: `Story/Notes/Skills.md` Ch 19).
+**Thermal grill drill (Ch 19):** alternating **real** hot and cold mana patches on the skin in a grid (hot enough to redden/blister, cold enough to frostbite lightly). Earth thermal-grill illusion is the *idea* seed only; training past the harmless band so Heat and Cold Resistance actually rank. Also grinds **Pain Resistance**, **Recovery**, **Heat** (heat dumps) and fine **Mana Shaping / Regulation**. He meters the pool near **~99%** and soaks Regulation regen with grill intensity (soft clicks alone underspend). **Ned** adds shallow intentional nibbles / tip-pokes (Pain + same-family Poison). When Recovery lags he pours a little low-grade potion on the patch and continues so unused regen is not wasted. Keep damage shallow on purpose. Chapter 19 week: **Pain L1 ??? L8**, Heat Resistance/Cold ??? **L6**, Poison **L6 ??? L7**, Recovery **L5 ??? L9** with **no Rapid Recovery** yet (full table: `../../Story/Notes/Skills.md` Ch 19).
 
 ### Pain Immunity (evolve)
 Evolves from Pain Resistance at **L9** when timing fits. Same **???10% per level** until floor **1% felt pain**. Will +1 / End +1 per level. Still not a heal; extreme trauma and system / divine backlash can punch through.
@@ -208,14 +208,14 @@ Base blood/plasma numbers still come from **Vit/End M** in `Attributes.md`. Reco
 
 **Vitality +1 per level**, **Endurance +1 per level.**
 
-**Early grind lock:** daily Ned feed + skin poke through the Carwen half-year (~180 days). Exit **Recovery L5** (**2??** blood/wound recover). **Ch 19 grill (daily with sound, mana at ~99% regen ceiling):** ??? **L9** (**10??**); potion covers flesh lag so unused regen is not wasted (`Story/Notes/Skills.md`). **Rapid Recovery** evolve is **not** on the train; bank it for the next ~**2 years** of mixed trauma.
+**Early grind lock:** daily Ned feed + skin poke through the Carwen half-year (~180 days). Exit **Recovery L5** (**2??** blood/wound recover). **Ch 19 grill (daily with sound, mana at ~99% regen ceiling):** ??? **L9** (**10??**); potion covers flesh lag so unused regen is not wasted (`../../Story/Notes/Skills.md`). **Rapid Recovery** evolve is **not** on the train; bank it for the next ~**2 years** of mixed trauma.
 
 ### Rapid Recovery (evolve)
 Evolves from Recovery at **L9** when timing fits (**~2 years** after Ch 19 in the rewrite plan, not the train week). Same **???10%/level** until floor **1%** close time on small wounds. Deep trauma and missing tissue still need magic, surgery or time. Vit +1 / End +1 per level. Distinct from **Rapid Renewal** (End **40** attribute perk) and from Source **Resilience** (stagger / resolve recovery, not flesh knit).
 
 ### Sound Production
 First seen: Chapter 19 (train cabin)
-Active / technique. Make controlled clicks, taps and tones with the body (tongue click, finger snap) or with **mana pressure pulses** shaped in air (Heat???s cousin: pressure instead of heat). Soft cabin volume is nearly free mana. Loud combat ping scales with `../Science/Sound.md` power equations. **Pitch control** is part of the grind: push pulses **above or below** ordinary human hearing so the ping is for the caster???s return map, not for an audience.
+Active / technique. Make controlled clicks, taps and tones with the body (tongue click, finger snap) or with **mana pressure pulses** shaped in air (Heat???s cousin: pressure instead of heat). Soft cabin volume is nearly free mana. Loud combat ping scales with `../World/Science/Energy/Sound.md` power equations. **Pitch control** is part of the grind: push pulses **above or below** ordinary human hearing so the ping is for the caster???s return map, not for an audience.
 
 **Levels:** cleaner pitch, sharper attack, tighter direction and optional enhancement (louder / thinner / multi-click bursts) without wasting draw.
 
@@ -225,7 +225,7 @@ Active / technique. Make controlled clicks, taps and tones with the body (tongue
 
 ### Echolocation
 First seen: Chapter 19 (train cabin)
-Passive / sense once unlocked. Build a spatial picture from sound returns. Caps at **L9** (`../Science/Sound.md`). Bottleneck is attention / cortex, not mana.
+Passive / sense once unlocked. Build a spatial picture from sound returns. Caps at **L9** (`../World/Science/Energy/Sound.md`). Bottleneck is attention / cortex, not mana.
 
 | Band | Rough reps | Feel |
 |---|---|---|
@@ -236,7 +236,7 @@ Passive / sense once unlocked. Build a spatial picture from sound returns. Caps 
 
 **Willpower +1 per level**, **Intelligence +1 per level.**
 
-**Ch 19 week:** unlock **L1 ??? L9** with Ned as a moving cabin target **and** short needle launches: plant mana click ??? eyes shut ??? catch the tip ??? feed it back into Ned???s mouth (spider-web recycle). Live projectile returns clear the fight-quality gate. Exit **Sound Production L9**, **Echolocation L9**. Both sound and thermal drills run **every day** at the **regen ceiling** (~99% pool). Full week math: `Story/Notes/Skills.md` Ch 19.
+**Ch 19 week:** unlock **L1 ??? L9** with Ned as a moving cabin target **and** short needle launches: plant mana click ??? eyes shut ??? catch the tip ??? feed it back into Ned???s mouth (spider-web recycle). Live projectile returns clear the fight-quality gate. Exit **Sound Production L9**, **Echolocation L9**. Both sound and thermal drills run **every day** at the **regen ceiling** (~99% pool). Full week math: `../../Story/Notes/Skills.md` Ch 19.
 
 Signature recognition grows from reps against specific cues (footsteps, voice, breath, heartbeat). Sighted casters compete with vision for the same processing unless the eyes are closed.
 
@@ -317,7 +317,7 @@ Passive. Thrown projectile. **Dexterity +level**. Unlocked with a rock and train
 
 ### Gale Step
 First seen: Chapter 14 (Arden watcher, Tier 2 fencer)
-Wind-assisted movement. Feet glow green. The body blurs, is hard to read, and is much faster. Costs **stamina only**. Spamming it burns a fresh physical Tier 2 out. The detonation tip on that rapier is a separate weapon enchantment (`../Combat/Spells.md`).
+Wind-assisted movement. Feet glow green. The body blurs, is hard to read, and is much faster. Costs **stamina only**. Spamming it burns a fresh physical Tier 2 out. The detonation tip on that rapier is a separate weapon enchantment (`../Combat/../Combat/Spells.md`).
 
 ### Dodging / Basic Dodging
 First seen: Chapter 9.5 (Source first clear was Chapter 14 ambush)
@@ -430,7 +430,7 @@ Inscribe magical runes on items. Runic Blacksmith grant (temporary in trial, the
 ### Basic Rune Scribing
 First seen: Chapter 16
 Scribe runes to scrolls. Temporary in the Runic Mana Scribe trial, then permanent at L1. Runes have a max working size; the trial forces a compressed fire-orb schematic onto scroll parchment. Chapter 22: Common Fire Arrow grind to **L5**; understanding of runic scroll making noted at **L2** (separate progress line in prose). Chapter 27: can compact commons onto **envelope**-size scrolls (aim: playing-card); power holds but overload headroom drops; Fire Arrow throughput **5???6**/day.
-**Cost bonus (locked):** **???10% mana cost to scribe** a rune onto a scroll **per skill level, capped at ???90% (L9)** ??? the scroll-side twin of Runecraft's setup discount on items (`RuneSetup.md` skill S factor). This is the **only** mana-cost discount on scroll setup; the Runic Mana Scribe class card grants a separate, non-cost learning-ease bonus instead (`Progression/Classes.md`), so the two never stack on the same cost. Unlike the class bonus, this stays on the sheet through any later class change ??? the persistent half of the pair.
+**Cost bonus (locked):** **???10% mana cost to scribe** a rune onto a scroll **per skill level, capped at ???90% (L9)** ??? the scroll-side twin of Runecraft's setup discount on items (`../Runes/RuneSetup.md` skill S factor). This is the **only** mana-cost discount on scroll setup; the Runic Mana Scribe class card grants a separate, non-cost learning-ease bonus instead (`Classes.md`), so the two never stack on the same cost. Unlike the class bonus, this stays on the sheet through any later class change ??? the persistent half of the pair.
 
 ### Basic Rune Mending / Rune Mending
 First seen: Chapter 81
@@ -835,7 +835,7 @@ Titles are status cards separate from traits. Some give combat bonuses.
 
 ### Goblin Hunter
 First seen: Chapter 9.5 (month 3; on-sheet Chapter 10)
-Earned by goblin hunting. Unlock threshold **1000** goblin kills (locked; `../Ideas.md` / `Experience.md`). Ch 9.5 grants it once past **1000** into the Carwen skip; end skip **1,000** Carwen / lifetime through skip ~**1,088**; Ch 10 nest **+7** ? ~**1,095** lifetime. Old Source **1,481** quarantined. **All** goblins are hostile toward the holder. Goblins **below** the holder's level exert less force and sometimes become afraid. Innate sense for the location of nearby goblins. Nickname talk: Little Goblin Slayer. Later evolves to Goblin Slaughterer (Chapter 37).
+Earned by goblin hunting. Unlock threshold **1000** goblin kills (locked; `../Ideas.md` / `../../Story/Notes/Experience.md`). Ch 9.5 grants it once past **1000** into the Carwen skip; end skip **1,000** Carwen / lifetime through skip ~**1,088**; Ch 10 nest **+7** ? ~**1,095** lifetime. Old Source **1,481** quarantined. **All** goblins are hostile toward the holder. Goblins **below** the holder's level exert less force and sometimes become afraid. Innate sense for the location of nearby goblins. Nickname talk: Little Goblin Slayer. Later evolves to Goblin Slaughterer (Chapter 37).
 
 ### Runic Scholar
 First seen: Chapter 15

@@ -32,7 +32,7 @@ Carbon black multiplies abrasion life. Products: rubberized cloth, molded goods,
 | Need | Material | Note |
 |---|---|---|
 | Cord / armor cloth | Silk, spider dragline | Dragline ~steel by thickness, ~5× by weight; bark-spider toughness champion |
-| Spring | Resilin | ~97% energy return (beats rubber) |
+| Spring | Resilin | ~95% energy return (beats rubber) |
 | Hard plate / tip | Sclerotized cuticle; Zn/Mn cuticle | Horn analog; wear edges |
 | Fast glue | Hemolymph phenoloxidase | Crosslinks / melanizes in minutes |
 | Underwater glue | Caddisfly silk | Phosphate–calcium wet bond |

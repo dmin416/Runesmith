@@ -4,17 +4,17 @@
 
 Research note: one shirt-wide rune network that pools rice-grain stones across links into the struck point. Path vs cast Useful: `Energy.md` / `../World/Science/Energy/ManaCast.md`. Strike energy bands: `../Combat/AttackScale.md`.
 
-**Assumptions:** the same rice stone (**19** mana; Input **42** mana/min = **0.7** mana/s sustainable recharge) and **25,000** links (about **0.6 m²**, roughly **1** link per **25 mm²**). One stone per link unless noted. **Dump is setup-gated** (`MonsterCores.md`): the stone sheet has no SA burst column. Do **not** read Input **42** mana/min as **42** mana/s dump. Refill from ambient or body over time is separate from rune logic. Useful joules use **η = 3** as a direct-cast upper bound (see Verdict).
+**Assumptions:** the same rice stone (**19** mana; Input **42** mana/min = **0.7** mana/s sustainable recharge) and **25,000** links (about **0.6 m²**, roughly **1** link per **25 mm²**). One stone per link unless noted. **Dump is setup-gated** (`MonsterCores.md`): the stone sheet has no SA burst column. Do **not** read Input **42** mana/min as **42** mana/s dump. Refill from ambient or body over time is separate from rune logic. Useful joules use the rune path `mana × 10 × η_cond × A` (`Energy.md`). The tables below are Highest quality on open ground (η_cond = 1, A = 1), so Useful equals the raw joules.
 
 ## Whole-shirt totals
 
-| Measure | Raw | Useful (η = 3) |
+| Measure | Raw | Useful (η_cond = 1, A = 1) |
 |---|---|---|
-| Stored capacity | 475,000 mana (4.75 MJ) | 14.25 MJ |
+| Stored capacity | 475,000 mana (4.75 MJ) | 4.75 MJ |
 | Max recharge (all stones at full sustainable input) | 17,500 mana/s | full refill in ~27 s |
 | Peak dump | Setup-gated (craft dial); not `25,000 × 42` | Same |
 
-Checks: **25,000 × 19 = 475,000**; **25,000 × 0.7 = 17,500**/s recharge; Useful = mana × **10 J** × η. Old “**1.05 M** mana/s peak” came from misreading Input **42**/min as **/s** and is dead.
+Checks: **25,000 × 19 = 475,000**; **25,000 × 0.7 = 17,500**/s recharge; Useful = mana × **10 J** × η_cond × A. Old “**1.05 M** mana/s peak” came from misreading Input **42**/min as **/s** and is dead.
 
 ## Pooled delivery to one impact
 
@@ -22,17 +22,17 @@ If the rune routes mana from surrounding links to the struck point, the stones w
 
 Example if the craft dial is set so each stone dumps **~40** mana/s for the hit window only (labeled assumption, not a stone-sheet lock):
 
-| Pool radius | Links | Assumed dump | Raw energy in 5 ms | Useful (η = 3) |
+| Pool radius | Links | Assumed dump | Raw energy in 5 ms | Useful (η_cond = 1, A = 1) |
 |---|---|---|---|---|
-| 5 cm | ~310 | ~12,400 mana/s | ~620 J | ~1.9 kJ |
-| 10 cm | ~1,250 | ~50,000 mana/s | ~2.5 kJ | ~7.5 kJ |
-| 20 cm | ~5,000 | ~200,000 mana/s | ~10 kJ | ~30 kJ |
+| 5 cm | ~310 | ~12,400 mana/s | ~620 J | ~620 J |
+| 10 cm | ~1,250 | ~50,000 mana/s | ~2.5 kJ | ~2.5 kJ |
+| 20 cm | ~5,000 | ~200,000 mana/s | ~10 kJ | ~10 kJ |
 
 Per link at that dial: about **2 J** raw (**40** mana/s × **0.005** s × **10 J**/mana). Pooling moves that energy to where the hit lands. That range covers heavy pick, war hammer and bolt strikes and reaches into the territory of enemies that punch through plate (`AttackScale.md`). Change **D** and every row scales with it; recharge math below does not.
 
 ## Recharge cost per hit
 
-At the example dial (**40** mana/s for **5 ms**), each stone gives up **0.2** mana per hit (about **1%** of its tank), whatever the radius. At the **0.7** mana/s input limit that refills in about **0.3 s** per stone. The **10 cm** case spends about **250** mana total. Body regen (about **0.2** mana/s from a full refill in a few hours) would take tens of minutes to cover it, so ambient pull through the stones is the practical source. Body-only recharge of a fully drained shirt (**475,000** mana) would take weeks.
+At the example dial (**40** mana/s for **5 ms**), each stone gives up **0.2** mana per hit (about **1%** of its tank), whatever the radius. At the **0.7** mana/s input limit that refills in about **0.3 s** per stone. The **10 cm** case spends about **250** mana total. A street body at MP **210** absorbs about **6.2** mana/h when empty and fills in **9 h** (`EnergyDesign.md`), so that hit is about a day of body absorb, not minutes. Ambient pull through the stones is the practical source. Body-only recharge of a fully drained shirt (**475,000** mana) is thousands of those pools.
 
 ## Passive power
 
@@ -50,5 +50,5 @@ Passive draw must stay well under the **0.7** mana/s input limit per stone so su
 
 - Pooling changes the result from a rounding error to a meaningful local boost. The limit is how hard the **setup** dumps and how fast the rune conducts to the struck point, not an SA output formula on the stone.
 - Energy scales with stone count inside the pool radius, so one stone per **4** links cuts each row's energy by **4** at the same radius and dial, and cuts stone cost to **12,500 SS** (at **2 SS**/rice). Matching the earlier energy at that density needs a larger radius or a harder dump dial.
-- **η = 3** comes from the direct-cast law. A rune path uses **η_cond × A** instead (`A = √C`; `Energy.md`), so useful figures could land lower while raw figures hold.
+- Tables are Highest quality on open ground (η_cond = **1**, A = **1**), so Useful equals raw joules. A lower quality uses η_cond from `Energy.md` (0.2 to 1.0). Do not multiply a rune path by direct-cast η(L).
 - Ambient mana density decides how quickly the shirt recovers between fights, so a high-mana location suits this setup best.

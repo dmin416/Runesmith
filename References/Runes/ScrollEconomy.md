@@ -45,7 +45,7 @@ Runic mat ~**2 SS**/scroll is a placeholder until runic blank/ink costs are pinn
 
 ### Chapter / Source shelf scrapes (beats; fair table and Story rewrite win)
 
-Source shelf conflicts were updated to rewrite fair. Item catalog: `../World/Society/PriceCatalog.md`. Story beats + Source→Rewrite map: `../../../Story/Notes/StoryPrices.md`.
+Source shelf conflicts were updated to rewrite fair. Item catalog: `../World/Society/PriceCatalog.md`. Story beats + Source→Rewrite map: `../../Story/Notes/StoryPrices.md`.
 
 | Item | Scrape cost | LC value |
 |---|---|---|

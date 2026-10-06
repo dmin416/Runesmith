@@ -13,7 +13,7 @@ D's real power path is **ranged kit** and **fundamental magic control**. Worksho
 ### Identity
 
 - **Person:** D
-- **Body / cover name:** Roland Arden
+- **Body / public name:** Roland Arden
 - Do not treat Source-era "Roland" personality or golem-first focus as his doctrine
 
 ### Power priority

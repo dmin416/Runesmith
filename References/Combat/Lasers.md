@@ -50,7 +50,7 @@ Toughness and sight are separate.
 - **Colored goggles:** A filter can block one laser color. Two colors (green copper vapor + red ruby) beat a single filter.
 - **Blinking:** A normal blink takes about a quarter second. A superhuman may blink or squint faster. Pulsed lasers strike faster than any blink.
 - **Polished armor or mirrors:** Reflect the beam.
-- **Smoke or fog:** Scatter the beam (same air limits as `Optics.md`).
+- **Smoke or fog:** Scatter the beam (same air limits as `../World/Science/Energy/Optics.md`).
 
 ## Quick effect ladder
 

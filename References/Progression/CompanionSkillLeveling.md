@@ -46,7 +46,7 @@ Skills cap at **L9**. Filling the L9 bar triggers a **skill evolution** instead 
 
 ## Ch 13 half-year projection (~180 days)
 
-Locked in `Story/Notes/NedStatus.md`. Exit overall **~25** / **~3x**, still Needle Worm.
+Locked in `../../Story/Notes/NedStatus.md`. Exit overall **~25** / **~3x**, still Needle Worm.
 
 | Skill | Daily weighted actions | Half-year total | Avg aptitude | Effective | Level |
 |---|---|---|---|---|---|

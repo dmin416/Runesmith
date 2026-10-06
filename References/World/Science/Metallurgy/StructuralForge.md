@@ -1,6 +1,6 @@
 # Structural Forge
 
-Hammers, beams, pipe, swords, steel grades and bronze. How a small shop with vacuum seam fusion punches above a rolling mill. Copper tube detail: `CopperPipe.md`. Vacuum craft: Old `Vacuum.md` / `CraftMetal.md` until pulled. Overheat: `OverheatedMetals.md`.
+Hammers, beams, pipe, swords, steel grades and bronze. How a small shop with vacuum seam fusion punches above a rolling mill. Copper tube detail: `CopperPipe.md`. Vacuum craft: `Vacuum.md`. Overheat: `OverheatedMetals.md`.
 
 ## Narrative
 

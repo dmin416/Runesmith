@@ -124,4 +124,4 @@ Caldris baseline stops at leaf / thoroughbrace class unless an invent beat unloc
 
 ## Open
 
-- Absorb Old `Wheels.md` → `Wheels.md`
+- Wheel layout: `Wheels.md`

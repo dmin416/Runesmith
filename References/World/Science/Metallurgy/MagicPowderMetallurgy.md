@@ -42,7 +42,7 @@ With magic handling dies, compression, heat and vacuum, most Earth PM drawbacks 
 ### Silver / mythril
 
 - Cold-welds readily → least pressure/heat.
-- High powder SA: mana hits every grain at once. For **mythril** conversion (`Metals.md`), powder saturates more evenly and faster than a solid bar (no surface-inward cook).
+- High powder SA: mana hits every grain at once. For **mythril** conversion (`../../Materials/Metals.md`), powder saturates more evenly and faster than a solid bar (no surface-inward cook).
 - Composites that will not mix as liquids: Ag + powdered arcanium/aetherium for mana channels (Earth analog: Ag–W contacts).
 - Mana flows well in Ag → magical heating spreads evenly through a compact.
 

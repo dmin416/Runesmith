@@ -3,7 +3,7 @@
 Hub: `../Science.md`.
 **Shared cast / path law:** `../../../Runes/Energy.md` (η(L), μ(INT), η_cond, ambient `A = √C`, mana-in, no-stack rules, voice baselines).
 This file is spell-specific worked tables only (Bolt, Arrow, Shield, Hands, Heat, anchors). Tables below are at open-ground **A = 1** unless a row says otherwise. Multiply Useful by `A` in thicker fields.
-Cast blurbs also in Old `Combat/Spells.md` until absorbed.
+Cast blurbs: `../../../Combat/Spells.md`.
 
 ## Kinetic vs thermal mana (rough guide)
 
@@ -336,7 +336,7 @@ Element takes share **f** of kinetic K; punch keeps `(1 − f) × K`. At L1 INT 
 
 Katana edge hardness ~**400 MPa** clears R up to **267 MPa** (matches an arrow around INT **25**). A katana swing carries about **125 J**. It cuts through mantis carapace and fails on mail and harder. A goblin neck takes about **56 J** (soft tissue ~11 J and vertebra ~45 J). A mana-infused katana uses the same `H(INT)` curve as the arrow tip.
 
-See also Old `Combat/Spells.md` (Mana Bolt, Mana Arrow) until absorbed.
+See also `../../../Combat/Spells.md` (Mana Bolt, Mana Arrow).
 
 ## Heat
 

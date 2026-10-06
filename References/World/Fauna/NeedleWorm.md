@@ -395,6 +395,18 @@ v (m/s) = about 3.2 x sqrt(Strength)
 
 Nitration chemistry and batch math: `../Science/Energy/GunpowderFirearms.md`. This is the body layout only.
 
+Ned produces cellulose silk, glycerin from his hemolymph, and acid made by eating his own extremely hard spikes.
+
+### Real animal precedents
+
+- Ants spray formic acid.
+- Vinegaroons (whip scorpions) spray acetic acid at about 85 percent strength.
+- Tun snails secrete saliva containing sulfuric acid to break down the shells of their prey.
+- Bombardier beetles keep chemicals in separate sacs and mix them in an armored reaction chamber to fire a boiling spray. This is a model for a gland that keeps reagents apart until use.
+- The stomach makes hydrochloric acid with proton pumps and protects itself with a mucus lining.
+- Tunicates (sea squirts) are the only animals known to make cellulose.
+- Many cold-climate insects load their hemolymph with glycerol as antifreeze.
+
 - **Spikes as feedstock:** Sulfuric acid needs sulfur. Nitric acid needs nitrogen. Ned's spikes can be mineralized stores of sulfur and nitrogen compounds that he grinds down and digests to rebuild as acid. Eating his own spikes recycles the elements instead of creating them from nothing. Spike hardness affects chewing and armor. Acid strength comes from the chemistry inside the gland.
 - **Two glands or one:** Two glands, one nitric and one sulfuric, mirror the real mixed-acid setup. One magical gland producing a single acid that both nitrates and absorbs water replaces both.
 - **Self-protection:** Acid sacs lined with chitin and mucus like a stomach, with a separate output duct like a bombardier beetle.
@@ -456,7 +468,7 @@ Focus of the alternate line (vs moth powder / flight):
 
 Ned **hunts his own prey**. He levels about as fast as Roland would from **kill XP** (and from eating bodies and mana stones of what gets hunted when he does eat), so Ned can **keep up** with Roland’s overall pace. Tamed companions take a contribution cut of party kills; they do not need to eat the corpse for that XP. Do not invent a separate Ned XP curve; treat his self-hunt rhythm as matched to that yardstick.
 
-**Chapter locks:** Ch 12 tame = overall **1** / **1x**. Ch 13 half-year end = overall **~25** / **~3x** (Needle Worm; Greater at **26**). Ch 14 watcher kill XP = overall **26** / **4x** (**Greater Needle Worm**). Ch 15–19 = overall **26** / **4x** (matches Roland **L26**; train-week skill exits in `Story/Notes/NedStatus.md`). Sheets: `Story/Notes/NedStatus.md`.
+**Chapter locks:** Ch 12 tame = overall **1** / **1x**. Ch 13 half-year end = overall **~25** / **~3x** (Needle Worm; Greater at **26**). Ch 14 watcher kill XP = overall **26** / **4x** (**Greater Needle Worm**). Ch 15–19 = overall **26** / **4x** (matches Roland **L26**; train-week skill exits in `../../../Story/Notes/NedStatus.md`). Sheets: `../../../Story/Notes/NedStatus.md`.
 
 ### Combat balance (design; identity matches `Ned.md`)
 

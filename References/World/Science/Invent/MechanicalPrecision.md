@@ -8,7 +8,7 @@ Use for invent beats (screw machines, cams, governors, rangefinders, integrators
 
 **Caldris readout** (`../../Tech/Technology.md`): craftsman + early-industrial magitech. **In reach or near-reach** with smith guilds, gnome machining culture, and magic heat: screw-cutting lathes, power feed, cam automatics (if someone builds them), Whitworth flats, gauge blocks, governors, basic optics polish. **Not baseline:** naval rangekeepers, Norden bombsights, AA predictors, radar-fed directors. Those need invent arcs, rare workshops, or magic substitutes. Projectiles are mostly magic / runic rather than gunpowder artillery; the **mechanical computing principles** still transfer to runic siege gear, train governors, and shop automation.
 
-Companions: `../Vehicle/Wheels.md`, `../Vehicle/Suspension.md`, `../Metallurgy/CraftMetal.md`, Old `References/Ideas.md` (civilian tech shortlist).
+Companions: `../Vehicle/Wheels.md`, `../Vehicle/Suspension.md`, `../Metallurgy/CraftMetal.md`, `../../../Ideas.md` (civilian tech shortlist).
 
 ---
 

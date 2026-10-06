@@ -1,6 +1,6 @@
 # Levels
 
-> **Live RaceMult table below.** Kill law: `Progression.md` (`50 × killed_L × RaceMult`). Ch 4–19 ledger locked in `Story/Notes/Experience.md`. Old `(49 + L)` / Mult **10/20** L1 samples quarantined. Diagnosis is the live skill name (Old Debugger). Narrative threat: `../World/Fauna/MonsterThreat.md`.
+> **Live RaceMult table below.** Kill law: `Progression.md` (`50 × killed_L × RaceMult`). Ch 4–19 ledger locked in `../../Story/Notes/Experience.md`. Old `(49 + L)` / Mult **10/20** L1 samples quarantined. Diagnosis is the live skill name (Old Debugger). Narrative threat: `../World/Fauna/MonsterThreat.md`.
 
 How class levels, skill levels and tier multipliers work. Physical training timelines: `Training.md`.
 
@@ -65,8 +65,8 @@ Awards are **straightforward**: flat or simple by action. Class does **not** cha
 |---|---|---|
 | Arden bravery test (age 9) | **Goblin L1** (HP 117) | Explicit status screen; XP **50** |
 | Weekly estate training | L1-tier training stock | Same pen as bravery test; **50** each |
-| First Carwen forest group | **L2, L3 and L4** | Live XP **100 / 150 / 200**; Old ledger **51 / 52 / 53** quarantined in `Experience.md` |
-| Later same-day chase kills | **L4 / L5** then **L3 / L4** | Live **200 / 250** then **150 / 200**; day end **1000 / 2000** at L4 (`Experience.md`) |
+| First Carwen forest group | **L2, L3 and L4** | Live XP **100 / 150 / 200**; Old ledger **51 / 52 / 53** quarantined in `../../Story/Notes/Experience.md` |
+| Later same-day chase kills | **L4 / L5** then **L3 / L4** | Live **200 / 250** then **150 / 200**; day end **1000 / 2000** at L4 (`../../Story/Notes/Experience.md`) |
 | Later Carwen forest nests | higher than estate, still common goblins | Levels not always shown; treat as low single digits unless the chapter names them |
 
 Other notes:
@@ -74,7 +74,7 @@ Other notes:
 - Monster kills (solo or party). Party XP ties to **ability and contribution**. Teaming with higher-tier people is allowed; a low cut still pays something. Idle spectating on the Chapter 11 spiked boar: Roland **5 XP** (**~1%** of the kill for being in the group; he could kill it alone if he tried). Active contribution raises his cut. People still prefer same-tier parties.
 - Leveling skills and spells. Leveling a spell (e.g. Mana Bolt rank-up) can grant a popup XP award; Chapter 10 notes this is often **more** than trash goblin kills. Craft classes also gain XP by making items.
 - Crafting / item creation. **First** successful schematic discovery pays the big 1000. Copying the same rune again does not.
-- **Pre-class XP** (Chapter 4–6): kills and achievements before first ascension bank with a **½ penalty** when the class finally applies. Estate bravery **250** + **55** more L1 goblins (**2750**) = bank **3000** → **1500** applied. Ascension starts Mage L1 empty; bank lands **Mage L3** empty. The bank applies **once** at the first ascension only. It does **not** refill for later class changes. See `Experience.md`.
+- **Pre-class XP** (Chapter 4–6): kills and achievements before first ascension bank with a **½ penalty** when the class finally applies. Estate bravery **250** + **55** more L1 goblins (**2750**) = bank **3000** → **1500** applied. Ascension starts Mage L1 empty; bank lands **Mage L3** empty. The bank applies **once** at the first ascension only. It does **not** refill for later class changes. See `../../Story/Notes/Experience.md`.
 - **Second Tier 1 class** (Chapter 10 talk): most people do not ascend at age 10. There is **no XP gain debuff**. Kill XP stays the same. More classes means you need **more total experience** because overall level keeps climbing on the shared bar to raise each class. Combat second T1s take longest to push through that climb; lighter crafting second T1s level faster but grant weaker packages.
 
 ### Kill XP formula (live)
@@ -131,7 +131,7 @@ Use the creature’s **family**, not every cosmetic variant name. Evolved or nam
 | **People / classed race** | **1.0** | Humans, elves, beastmen, dwarves with classes | **200** |
 | **Default (unlisted monster)** | **1.5** | Anything not in this table | 300 |
 
-Add new rows when a chapter names a repeat family. Prefer a band over inventing one-off decimals. Named chapter payouts must match this law; ledger: `Story/Notes/Experience.md`.
+Add new rows when a chapter names a repeat family. Prefer a band over inventing one-off decimals. Named chapter payouts must match this law; ledger: `../../Story/Notes/Experience.md`.
 
 #### Worked early kills (live)
 
@@ -166,7 +166,7 @@ Source payouts were smaller (goblin ~15–20 XP, same **1000** first schematic).
 | Source beat | What happened | Implied cost (Source XP) |
 |---|---|---|
 | First adventurer day, Mage L3 | ~7 goblin ears; leveled once during the hunt | estate Mage doubles left **1250 / 1500**; hunt **263** finishes L3→L4 |
-| ~3 months forest grind | L4 → **L20** | **1,000** goblin kills (Goblin Hunter lock) + spell/skill XP (`Experience.md`); Old **1,481**/~53 Source pacing quarantined |
+| ~3 months forest grind | L4 → **L20** | **1,000** goblin kills (Goblin Hunter lock) + spell/skill XP (`../../Story/Notes/Experience.md`); Old **1,481**/~53 Source pacing quarantined |
 | Party dungeon arc | ~half a year more toward Mage L25 cap | higher XP/fight than forest goblins |
 | First lesser schematic | **1000 XP** at **[Highest]** (quality ladder below); “couple of levels” if spent right after a fresh class (low L) | 1000 ≈ 1–2 levels near overall L2–L3 |
 | Late Source | bar called “exponential” and stubborn | rewrite stays **linear**; high constant makes late levels slow without a second curve |
@@ -179,7 +179,7 @@ Source payouts were smaller (goblin ~15–20 XP, same **1000** first schematic).
 
 ### Formula (locked: pre-class L3 + half bank)
 
-Anchor: bank **3000** (Ch 4 bravery 250 + **55** estate L1×50), half on apply = **1500**, Mage L1 empty → L3 empty. See `Experience.md`.
+Anchor: bank **3000** (Ch 4 bravery 250 + **55** estate L1×50), half on apply = **1500**, Mage L1 empty → L3 empty. See `../../Story/Notes/Experience.md`.
 
 ```
 XP_to_next(L) = 500 × L
@@ -218,7 +218,7 @@ XP_total_to_reach(N) = 500 × (1 + 2 + … + (N−1))
 
 XP already spent stays spent. Goblin-counts are a yardstick only. Real paths mix dungeon mobs, skill XP, schematics and quests.
 
-**L4→L20 (Ch 9.5, locked):** **1,000** goblins incl. **8** T2 ambush leaders (L27, RaceMult **1.5**) + nest leaders + Shaman → kill XP **90,975** → **Mage L20**. Ledger: `Experience.md`.
+**L4→L20 (Ch 9.5, locked):** **1,000** goblins incl. **8** T2 ambush leaders (L27, RaceMult **1.5**) + nest leaders + Shaman → kill XP **90,975** → **Mage L20**. Ledger: `../../Story/Notes/Experience.md`.
 
 ### Sample grind checks
 
@@ -245,7 +245,7 @@ XP already spent stays spent. Goblin-counts are a yardstick only. Real paths mix
 
 Ch 19 Fire Orb: memory **[High] +600** then **[Highest] +400** = **1000**.
 
-Chapter 26 common schematic stacking: Intermediate common = **1000 XP**; then perfecting to Highest adds another **1000** (total **2000** = **2×** lesser Highest). Going straight to Highest also pays **2000**. No further XP for redoing the same schematic past that cap. Perfect common schematic from a shop sample pays **2×** lesser (`Spells.md` Fire Arrow).
+Chapter 26 common schematic stacking: Intermediate common = **1000 XP**; then perfecting to Highest adds another **1000** (total **2000** = **2×** lesser Highest). Going straight to Highest also pays **2000**. No further XP for redoing the same schematic past that cap. Perfect common schematic from a shop sample pays **2×** lesser (`../Combat/Spells.md` Fire Arrow).
 
 Chapter 21 timing: regular Mana Arrow ~**10 min** / 20 XP; Fire Orb runic ~**45 min** / 50 XP (imperfect). Five regular scrolls ≈ one runic's time for more XP; schematics still dominate leveling. Shop breach curses: `../Runes/ScrollEconomy.md`. Common schematics pay **2×** lesser (`Progression.md`).
 
@@ -276,7 +276,7 @@ Rewrite law (also in `../Ideas.md`):
 - **Special skills** (Technology, Fabrication, Diagnosis, and similar) sit **outside** this ladder. No Basic→Expert→Overlord path. Separate rules; see `../Ideas.md`.
 - Effects and skill-tied stat bonuses scale with the current skill’s level.
 - Evolving a Basic skill grants the new form’s L1 attribute pad (+1 × level into favored attrs). Ch 13’s “free stat point” wording is that L1 pad, **not** a second bonus on top of it.
-- **Technique only:** level is form / efficiency / timing / decisions, not body power. L5 = dedicated adult amateur, L7 = competitive or professional, L9 = pinnacle of normal human technique on that prefix. Early Basic ranks by age: `Progression.md`.
+- **Technique only:** level is form / efficiency / timing / decisions, not body power. L5 = dedicated adult amateur, L7 = competitive or professional, L9 = pinnacle of normal human technique on that prefix. Early Basic ranks by age: `Training.md`.
 - Chapter 4 books say max Mana Sense at **L10** for Mage. Treat that as in-world rounding / old wording. Rewrite sheet max is **L9**.
 
 Chapter 7: Roland thinks Basics stop at L9 from **class restrictions**. Rewrite reason is the L9 hard max (then evolve), not Mage locking physical Basics.
@@ -318,7 +318,7 @@ Class need L4→L20 from enter bar **118 / 2000** ≈ **91,882 XP**. Kill XP use
 
 Raw combat actions (order-of-magnitude, scaled to **1,000** kills): Mana Bolt ~**1,550** casts, Mana Arrow ~**540** (from late month 1), Mana Shield ~**180** (from month 2), short-sword finishes ~**500**, aimed shots (Bolt+Arrow) ~**2,100**, Basic Dodging clears ~**320** clean (clubs/spears/rocks; unlock month 1 → **L6**). Absorption / Reinforcement cycles track mana spend across that volume → both hit **L9**.
 
-Apply the curve → end ranks in `Story/Notes/Skills.md` Chapter 9.5. Skill names hard-cap at **L9**, then evolve.
+Apply the curve → end ranks in `../../Story/Notes/Skills.md` Chapter 9.5. Skill names hard-cap at **L9**, then evolve.
 
 ### Pre-ascension unlock rules (Chapter 4)
 
@@ -409,13 +409,13 @@ Chapter 4 prose: leveling physical Basics also makes him “run faster, jump hig
 
 ### Sheet buckets
 
-Displayed attributes split three ways. Full Roland tallies: `Story/Notes/StatusBreakdown.md`.
+Displayed attributes split three ways. Full Roland tallies: `../../Story/Notes/StatusBreakdown.md`.
 
 ```
 Displayed = Body + Class levels + Skills/Traits (+ Other if needed)
 ```
 
-- **Body:** `Progression.md` age physicals + adult-mind Int/Will age row (age 5: Int 12, Will 15; Cha 3, Luck 7 seeds).
+- **Body:** `Training.md` age physicals + adult-mind Int/Will age row (age 5: Int 12, Will 15; Cha 3, Luck 7 seeds).
 - **Class levels:** packages only (Mage = +1 Int and +1 Will per level).
 - **Skills/Traits:** +1 × skill level per favored attribute, plus flat trait cards.
 
@@ -448,7 +448,7 @@ Applies to **basic attributes except Luck and Charisma** unless a specific trait
 
 **Pure craft note:** plain Blacksmith / Weaponsmith / Armorsmith lines often have **no growth-rate trait** (stay at ×1 packages even at higher craft tiers). Hybrid prestige (Runesmith Lord, Overlord, Rune Arch-Knight) does get a rate. Matches Source’s “craft has no multiplier” talk without nerfing Roland’s prestige path.
 
-See `Skills.md` (Traits section) and `RolandClasses.md` for named traits.
+See `SkillsDesign.md` (Traits section) and `RolandClasses.md` for named traits.
 
 ---
 
@@ -581,6 +581,6 @@ Real sheets also add childhood base, skills and traits on top.
 4. Craft-only classes may gain levels with little combat growth multiplier.
 5. Party XP works across tier gaps. Award by **ability and contribution** (idle still gets a thin cut). Same-tier parties are preferred socially, not required.
 6. Skill L9 → evolve. Do not write L10 on the same skill name.
-7. When a chapter shows numbers, copy them into `Story/Notes/Status.md` and keep this file as the rule layer.
+7. When a chapter shows numbers, copy them into `../../Story/Notes/Status.md` and keep this file as the rule layer.
 8. If Source text says the sheet jumps at class-up, rewrite it to growth-rate talk instead.
-9. XP_to_next = **500 × overall level**. Kill XP = **50 × killed_L × RaceMult** (goblin **1.0**; rat **0.2**; worm **0.5**; moth **2.0**; spiked boar **1.5**; wereboar **2.0**; people **1.0**; default unlisted **1.5**). Pre-class bank half-penalty lands Mage L3 from bravery + **55** estate L1s. Class-change half-cut stays dead. Chapter ledgers: `Experience.md`. Change constants only if arcs feel wrong. Narrative threat (not XP): `../World/Fauna/MonsterThreat.md`.
+9. XP_to_next = **500 × overall level**. Kill XP = **50 × killed_L × RaceMult** (goblin **1.0**; rat **0.2**; worm **0.5**; moth **2.0**; spiked boar **1.5**; wereboar **2.0**; people **1.0**; default unlisted **1.5**). Pre-class bank half-penalty lands Mage L3 from bravery + **55** estate L1s. Class-change half-cut stays dead. Chapter ledgers: `../../Story/Notes/Experience.md`. Change constants only if arcs feel wrong. Narrative threat (not XP): `../World/Fauna/MonsterThreat.md`.

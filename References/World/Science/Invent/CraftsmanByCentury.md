@@ -30,4 +30,4 @@ Mass printing stays missing (`Technology.md`). Movable type / press products in 
 
 ## Open
 
-- Cross-check Old `Ideas.md` shortlist when a shop beat needs retail order notes
+- Cross-check `../../../Ideas.md` shortlist when a shop beat needs retail order notes

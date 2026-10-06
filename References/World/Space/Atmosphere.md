@@ -180,7 +180,7 @@ Law formulas: `../Science/Energy/ManaConcentration.md`. Dungeon additive `D/N/k`
 | Stratosphere | ~7.5 to 31 mi | `C` hundreds to ~10^3 |
 | Mesosphere | 31 to 53 mi | `C` into 10^5 |
 | Kármán | 62 mi | Space under `P₀/P` |
-| Thermosphere | 62 to ~370 mi | Slow `C` climb to exobase |
+| Thermosphere | 53 to ~370 mi | Slow `C` climb to exobase |
 | Exosphere / geocorona | 370 mi to ~lunar distance | Density haze; very slow at first, then up to solar-wind floor |
 | Interplanetary floor | past ~lunar / geocorona | Flat at `C_max` |
 | Ionosphere (overlap) | ~30 to 600 mi | Charged air / radio; does not replace this law |

@@ -29,4 +29,4 @@ All three wings collapse as nested telescoping sleeves. Pods and pilot shells co
 13. [Hazards](Hazards.md) — practical limits
 14. [Verdict](Verdict.md) — roles, confidence, sources
 
-Companion: hover power math in `../Energy/Flight.md`. Vehicle ladder siblings in this folder.
+Companion: hover power math in `../../Energy/Flight.md`. Vehicle ladder siblings in this folder.

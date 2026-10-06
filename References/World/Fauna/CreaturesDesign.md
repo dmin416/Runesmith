@@ -2,7 +2,7 @@
 
 > **Design loot.** Lean lock: `Creatures.md`. Source index: `../../SourceLoot/Creatures.md`.
 >
-> **XP law (live):** `XP_kill = 50 × killed_L × RaceMult`. Family table: `../../Progression/Levels.md`. Pre-class bank **½** only (first class). No class-change half-cut. Party share = contribution split of that kill XP. Narrative threat: `MonsterThreat.md`. Ledger: `Story/Notes/Experience.md`.
+> **XP law (live):** `XP_kill = 50 × killed_L × RaceMult`. Family table: `../../Progression/Levels.md`. Pre-class bank **½** only (first class). No class-change half-cut. Party share = contribution split of that kill XP. Narrative threat: `MonsterThreat.md`. Ledger: `../../../Story/Notes/Experience.md`.
 
 Enemy and wild monsters from the story. Tamed mounts: `Mounts.md` / `MountsDesign.md`.
 
@@ -78,7 +78,7 @@ Gray-skinned forest goblins near Edelgard.
 
 ### Gray Hobgoblin Berserker
 First seen: Chapter 37
-Tier-2 gray hobgoblin with a berserk/red-skin rage skill. Roland kills one at L59 in the Edelgard goblin forest (live **50 × 59 = 2950** XP; Old note **+950** = quarantine); title evolves to Goblin Slaughterer.
+Tier-2 gray hobgoblin with a berserk/red-skin rage skill. Roland kills one at L59 in the Edelgard goblin forest (live **50 × 59 × 2.25 = 6,637.5** XP (`../../Progression/Levels.md`); Old note **+950** = quarantine); title evolves to Goblin Slaughterer.
 
 ### Infernal Skeleton Champion / Berserker / Spearmaster / Guardian
 First seen: Chapter 37

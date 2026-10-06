@@ -39,13 +39,13 @@ Basis for setup mana going forward (not frozen; dials stay open). Companion to t
 
 Mana pools grow slowly in the story so setup climbs slowly too. Ceilings grow x100 per rank while base setup grows about x2.
 
-| Rank | Base | Top complexity (C at k 1) | Stone terms | Adult pools | Solo pour at 20 mana per minute |
+| Rank | Base | Top complexity (C at k 1) | Stone terms | Street pools (MP 210) | Solo pour at 20 mana per minute |
 |---|---|---|---|---|---|
-| Lesser | 1,000 | 2,000 (x2) | 1 cube (1000) | 0.5 | 50 min |
-| Common | 2,000 | 3,000 (x1.5) | 0.93 marble (2145) | 1 | 1.7 h |
-| Greater | 3,000 | 5,000 (x1.67) | 1.4 marbles | 1.5 | 2.5 h |
-| Grand | 5,000 | 10,000 (x2) | 0.35 walnut (14,140) | 2.5 | 4.2 h |
-| Legendary | 10,000 | 20,000 (x2, assumed) | 0.7 walnut | 5 | 8.3 h |
+| Lesser | 1,000 | 2,000 (x2) | 1 cube (1000) | 4.8 | 50 min |
+| Common | 2,000 | 3,000 (x1.5) | 0.93 marble (2145) | 9.5 | 1.7 h |
+| Greater | 3,000 | 5,000 (x1.67) | 1.4 marbles | 14.3 | 2.5 h |
+| Grand | 5,000 | 10,000 (x2) | 0.35 walnut (14,140) | 23.8 | 4.2 h |
+| Legendary | 10,000 | 20,000 (x2, assumed) | 0.7 walnut | 47.6 | 8.3 h |
 
 Figures show an unskilled crafter (S 1) with C 1 and copper.
 
@@ -181,13 +181,13 @@ Totals use unrounded factors (shown here to enough decimals to reproduce by hand
 - Setup is small next to a run. An airship setup at L0 is tens of street-all-15 pools (far fewer at L9) against a 95 GJ run. Stone banks and ambient intake carry activation (rune file, Power source) and setup stays a crafter's job. Team pour (O4) only buys speed.
 - Setup adds no heat and no strain. Wear stays as in the baseline.
 - Mastery discounts activation only (canon), for both items and scrolls. It never touches setup cost.
-- Setup cost has exactly one discount channel per medium, never two stacked together. Items: **Runecraft**'s skill-level S factor only. Scrolls: **Basic Rune Scribing**'s skill-level S factor only (−10%/level, capped −90% at L9 — same shape as Runecraft, `Progression/Skills.md`). Both are skill bonuses, so both persist through any later class change.
-- The **Runic Mana Scribe** class card does not discount setup cost at all — it grants a narrative learning-ease bonus instead (faster, cleaner schematics) that is lost when Roland leaves the T1 class, unlike the skill discount above (`Progression/Classes.md`).
+- Setup cost has exactly one discount channel per medium, never two stacked together. Items: **Runecraft**'s skill-level S factor only. Scrolls: **Basic Rune Scribing**'s skill-level S factor only (−10%/level, capped −90% at L9 — same shape as Runecraft, `../Progression/Skills.md`). Both are skill bonuses, so both persist through any later class change.
+- The **Runic Mana Scribe** class card does not discount setup cost at all — it grants a narrative learning-ease bonus instead (faster, cleaner schematics) that is lost when Roland leaves the T1 class, unlike the skill discount above (`../Progression/Classes.md`).
 
 ## Open Dials
 
 - Base progression of 1,000 and 2,000 and 3,000 and 5,000 and 10,000. Legendary top complexity assumes x2.
-- Street bare all-15 MP is **210** (`Attributes.md`). Large setup / scroll-day shares are stone-banked; do not invent a 2000 adult pool.
+- Street bare all-15 MP is **210** (`../Progression/Attributes.md`). Large setup / scroll-day shares are stone-banked; do not invent a 2000 adult pool.
 - Complexity driver sizes. Skill ladder of 10 percent per level.
 - Pour rate of 20 mana per minute (fits the canon Fire Orb time at L1).
 - Charging efficiency (0.85 intake) and leak rate (2 percent per day) and stone slot socket cost (10 percent).

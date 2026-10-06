@@ -1,3 +1,0 @@
-# Open Fixes
-
-None.

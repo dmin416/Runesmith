@@ -81,4 +81,4 @@ GEO column uses mass that must reach **low** orbit first (~127,000 kg including 
 | Electricity to produce | ~7.0 GWh | ~27.2 GWh |
 | Pure orbital energy | 0.30 GWh | 0.78 GWh |
 | Overall efficiency, power plant to orbit | ~4% | ~3% |
-| Continuous power to make that in one year | ~4 MW | ~15.5 MW |
+| Continuous power to make that in one year | ~0.8 MW | ~3.1 MW |
