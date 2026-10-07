@@ -1,6 +1,6 @@
 # Crops: Old Volcanic Island with Renewed Volcanism
 
-Companion to `VolcanicIslandResources.md` and `VolcanicIslandEcology.md`. Places: `Places.md` (Dragnis-class islands). Runesmith / game farming brainstorm (separate): `FarmingSystems.md`.
+Companion to `VolcanicIslandResources.md` and `VolcanicIslandEcology.md`. Wind, rain and farm sites: `VolcanicIslandFarming.md`. Waterfowl: `../Fauna/KoloaAndNene.md`. Places: `Places.md` (Dragnis-class islands). Runesmith / game farming brainstorm (separate): `FarmingSystems.md`.
 
 ## Notes and Assumptions
 - **Setting:** an old, eroded hotspot island with recent eruptions, modeled on Hawaiʻi.

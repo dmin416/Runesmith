@@ -2,7 +2,7 @@
 
 **Status:** brainstorm and inspiration. Not island crop canon.
 
-Island crops, zones and Hawaii-model agriculture: `VolcanicIslandCrops.md`. Soils and resources: `VolcanicIslandResources.md`. Places: `Places.md`.
+Island crops: `VolcanicIslandCrops.md`. Farm wind/rain sites: `VolcanicIslandFarming.md`. Soils and resources: `VolcanicIslandResources.md`. Waterfowl: `../Fauna/KoloaAndNene.md`. Places: `Places.md`.
 
 Do not treat Stardew machine names or the draft Farming skill ladder as locked Runesmith rules until they are checked into `References/Progression/`.
 
