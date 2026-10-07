@@ -1,6 +1,6 @@
 # 360-Degree Vision: Human Acuity, Cameras, Lenses, Magic Eyes and the Brain
 
-Hub: `../Science.md`. Mental capacity (N men): `FocusCapacity.md`.
+Hub: `../Science.md`. Mental capacity (N men): `FocusCapacity.md`. Crystal / LLM / mind-copy holding file: `CrystalMinds.md`.
 
 ## Contents
 

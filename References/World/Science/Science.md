@@ -1,17 +1,17 @@
 # Science
 
-Earth-physics and craft anchors. Cast / mana law hub: `../../Runes/Energy.md`.
+Earth-physics and craft anchors. Cast / mana law hub: `../../Runes/Energy.md`. Main index: [Index.md](Index.md).
 
 ## Folders
 
 | Folder | Subject |
 |---|---|
-| `Metallurgy/` | Forge metals, Earth alloys, ores, vacuum, gem seats, kitchen metal |
-| `Biomaterials/` | Animal / Ned material process, rubber, insect stocks, wood |
-| `Energy/` | Stones, cast tables, batteries, fans, compression, flight, waves |
-| `Body/` | Skin/limbs/teeth, Gut Check (ART), falling, mind-body skill, 360 vision |
-| `Invent/` | Century invent ladder, industrialization, paper, writing tools |
-| `Vehicle/` | Suspension, wheels, roads, mobile home / caravan |
+| [Metallurgy](Metallurgy/Index.md) | Forge metals, Earth alloys, ores, vacuum, gem seats, kitchen metal |
+| [Biomaterials](Biomaterials/Index.md) | Animal / Ned material process, rubber, insect stocks, wood |
+| [Energy](Energy/Index.md) | Stones, cast tables, batteries, fans, compression, flight, waves |
+| [Body](Body/Index.md) | Skin/limbs/teeth, Gut Check (ART), falling, mind-body skill, 360 vision, crystal minds |
+| [Invent](Invent/Index.md) | Century invent ladder, industrialization, paper, writing tools |
+| [Vehicle](Vehicle/Index.md) | Suspension, wheels, roads, mobile home / caravan |
 
 ## Detail
 
@@ -83,6 +83,7 @@ Earth-physics and craft anchors. Cast / mana law hub: `../../Runes/Energy.md`.
 | `Body/MindBodySkill.md` | Recall ≠ motor skill (Drawing etc.) |
 | `Body/FocusCapacity.md` | Mental capacity (N men); Multitasking split %; Parallel Thinking skill (N parallels) |
 | `Body/Vision360.md` | Full-sphere vision: acuity, Rig A / Band B / Helm C, tiers, ten-men mind |
+| `Body/CrystalMinds.md` | Human vs LLM compute; crystal brains, copies, magic segments (holding file) |
 
 ### Invent
 
@@ -104,6 +105,7 @@ Earth-physics and craft anchors. Cast / mana law hub: `../../Runes/Energy.md`.
 | `Vehicle/Wheels.md` | Wheel tech ladder + Caldris readout |
 | `Vehicle/Roads.md` | Road layers; medieval–Victorian era ladder; travel speeds |
 | `Vehicle/PerfectGlider/PerfectGlider.md` | Glider design study |
+| [PerfectGlider](Vehicle/PerfectGlider/Index.md) | Altitude, designs, joints, hazards, verdict |
 | `Vehicle/MobileHome.md` | Caravan amenity bands + heat density |
 
 ## Locked conflict resolutions

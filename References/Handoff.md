@@ -18,6 +18,8 @@ Lock live canon in this folder. Rewrite prose: `../Story/Chapters/`. Treat `Sour
 
 ## Hard locks (do not reopen)
 
+- Order: outline (`../Story/Outline.md`, not written yet), then story prose in `../Story/Chapters/`, then notes and status equally. A note does not override the chapter. `../Story/VolumeSynopsis.md` is the volume synopsis and does not override the chapter.
+
 - Kill XP: `XP_kill = 50 × killed_L × RaceMult`. `XP_to_next = 500 × L`. RaceMult table in `Progression/Levels.md` (goblin **1.0**; people **1.0**; Spiked Boar **1.5**; Wereboar **2.0** min L26; Needle Worm **0.5**; Needle Moth **2.0**; …). Party early cut ~**1%** idle / ~**1/4** active. No half-cut on class change. Pre-class bank ½ only. Law: `Progression/Progression.md`.
 - Rune η_cond: quality **20%** blocks (Lowest **0.2** → Highest **1.0**). `Useful = mana × 10 × η_cond × A`. Waste: **½** ambient / **½** weapon heat+corruption. Host feel narrative only. `Runes/Energy.md`.
 - Ch 4–19 XP ledger locked in `../Story/Notes/Experience.md` (Ch 9.5 **1,000** → Mage L20; Ch 13 **342** kills → Mage L25; reclass bank **1479 → 2479 → 3479**).

@@ -1,0 +1,23 @@
+---
+description: Outline, story, then notes and status equally
+alwaysApply: true
+---
+
+# Canon order
+
+When two homes disagree, the higher one wins.
+
+1. Outline (`Story/Outline.md`). Not written yet. When it has a plan, it wins. `Story/VolumeSynopsis.md` is the volume synopsis, not the outline, and does not override the chapter.
+2. Story prose in `Story/Chapters/`.
+3. Notes and status, equal to each other. That is `Story/Notes/`, including Timeline, Experience, Status, Skills, and the other note sheets.
+
+If the chapter and a note disagree, the chapter is the fact. Change the note. Do not flag the chapter as the error.
+
+If two notes disagree, that is a notes problem. The story still wins over both.
+
+Reference hubs do not override the story.
+
+```
+# Chapter prints MP 1164. Status.md says 1028.
+# The chapter number stands. Status.md is behind.
+```

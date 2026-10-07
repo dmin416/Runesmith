@@ -20,7 +20,7 @@ Island years = world years − 10. He lands at age 15, world year 10.
 
 Lucienne is 7 years younger. Her 3rd birthday is a couple of weeks after he leaves, and he leaves at 10 and 3 months. Robert is 3 years older. He is 8 when Roland is 5.
 
-Rows marked **off** are the summary's words. The Age and Year columns are the count those chapters have to meet. The last section is every line that has to change, including the copies in `Notes.md` and `Outline.md`.
+Rows marked **off** are the summary's words. The Age and Year columns are the count those chapters have to meet. The last section is every line that has to change, including the copies in `Notes.md` and `../VolumeSynopsis.md`.
 
 ## Locks
 
@@ -242,4 +242,4 @@ These are what he writes on. They do not move the clock.
 | Ch 19 schematics | Mundane drawing paper. He wants better tools |
 | Ch 20+ shop | Use the bands in `References/World/Science/Invent/Paper.md`. Do not keep the Source blank-equals-scroll trap |
 
-The chapters, notes, outline, summaries, and source dumps use this clock.
+The chapters, notes, outline, volume synopsis, summaries, and source dumps use this clock.
