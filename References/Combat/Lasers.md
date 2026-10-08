@@ -1,6 +1,6 @@
 # Lasers
 
-> **Design loot.** Physics, types, power tables and gas feedstock: `../World/Science/Energy/Optics.md`. Aiming vs speed: `SpeedVsIntellect.md`. Power banks: `../World/Science/Energy/Generators.md`. Flywheel + lossless green crystal (prestige): `../World/Science/Energy/FlywheelApplications.md`. Era baseline: `../World/Tech/Technology.md`.
+> **Design loot.** Physics, types, power tables and gas feedstock: `../World/Science/Energy/Optics.md`. Aiming vs speed: `SpeedVsIntellect.md`. Escalation / sensing inspiration (not locked): `LightWarfare.md`, `LightWarfareVariables.md`. Power banks: `../World/Science/Energy/Generators.md`. Flywheel + lossless green crystal (prestige): `../World/Science/Energy/FlywheelApplications.md`. Era baseline: `../World/Tech/Technology.md`.
 
 Directed-light weapons for a steampunk / magitech shop path. Not street baseline kit.
 

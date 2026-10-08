@@ -16,6 +16,8 @@ Fight doctrine for Terra. Numbers: `AttackScale.md`. Mana: `../Runes/Energy.md`.
 | `SpeedVsIntellect.md` | Speed vs intellect combat notes |
 | `Firearms.md` | .50 / caliber performance; adamantium needle penetrators |
 | `Lasers.md` | Directed-light doctrine; blinder vs burner; counters (physics in Optics) |
+| `LightWarfare.md` | Inspiration: light escalation, defense, sensing (not locked) |
+| `LightWarfareVariables.md` | Inspiration: 20 body / air / beam / sensing variables (not locked) |
 
 ## Narrative
 

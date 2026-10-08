@@ -1,6 +1,6 @@
 # Rubber And Insect Materials
 
-Latex rubber, vulcanization and insect-derived craft stocks. Animal-material process: `Biomaterials.md`. Ned harvest: `../../../People/Ned.md`.
+Latex rubber, vulcanization and insect-derived craft stocks. Animal-material process: `Biomaterials.md`. Clear chitin / chitosan films and glass substitutes: `../../Materials/TranslucentMaterials.md`. Ned harvest: `../../../People/Ned.md`.
 
 ## Narrative
 

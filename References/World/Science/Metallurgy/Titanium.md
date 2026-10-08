@@ -1,6 +1,6 @@
 # Titanium: Sources, Quantities and Volcanic Recovery
 
-Hub: `../Science.md`. Ore extract routes: `MetalOres.md`. Earth alloy encyclopedia: `EarthAlloys.md`. Island geology: `../../Geography/VolcanicIslandResources.md`.
+Hub: `../Science.md`. Ore extract routes: `MetalOres.md`. Earth alloy encyclopedia: `EarthAlloys.md`. Purity / energy ladder: `../../Materials/MaterialPurification.md`. Island geology: `../../Geography/VolcanicIslandResources.md`.
 
 Terra public Ti stock is **adamantium** (converted Ti). Mundane sponge / Kroll plate is **SPECIALTY** / invent, not street (`MetalOres.md`, Materials).
 

@@ -333,7 +333,7 @@ The body is a good living path (body / blood feel). It still breaks like flesh. 
 - Return path: closed loop through the wielder or one-way dissipation at the load.
 - Storage: resolved in ../World/Science/Energy/ManaStones.md and ../World/Materials/MonsterCores.md (dump setup-gated, not SA-capped; recharge area-gated).
 - Potential scale: higher potential lowers waste but needs better insulation. Set how high craftsmen can push it.
-- Ambient mana: `A = √C` per environment, recovery after a cast, intake size limit per rune grade.
+- Ambient mana: `A = √C` per environment, recovery after a cast, intake size limit per rune grade. Inscription throughput = area × density is proposed in `RuneSystem.md` and does not change cost or η_cond.
 - Waste split: share retained as heat (proposed 50 percent).
 - Strain capacity per kg for each real path metal (proposed).
 - Pools: sheet formulas in `../Progression/Attributes.md`. Street all-15 bare example in section 4. Mana recovery constant k (0.25 per hour) and open-air empty-to-full time T (9 h).

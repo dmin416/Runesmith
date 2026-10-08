@@ -17,6 +17,7 @@ Live status / XP / class foundation. Guild ranks: `AdventurerRanks.md`.
 | `NormalPersonSkills.md` | Ordinary L9 training clocks |
 | `SkillsRedesign.md` | Skill redesign pass |
 | `Training.md` | Age / technique / endurance tracks |
+| `CareerScale.md` | Simple body plateau, then class and skills by effort × time. Not a lock |
 | `Levels.md` | RaceMult family table (live) + worked early kills |
 | `../SourceLoot/RolandStatus.md` | Source status scrape |
 | `../../Story/Notes/Experience.md` | Chapter XP ledger (Ch 4–19 locked) |

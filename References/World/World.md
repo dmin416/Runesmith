@@ -38,6 +38,8 @@ Hub for Terra. Locked world facts live here in short form. Deep files hold the r
 | `Fauna/Mounts.md` | Mounts (foundation locked; deep fill later); fat: `MountsDesign.md` |
 | `Materials/Materials.md` | Common vs specialty stock (metals, build, beast mats, magic lines) |
 | `Materials/Metals.md` | Metal saturation ladders and rune hosts |
+| `Materials/TranslucentMaterials.md` | Glass, quartz, diamond, silicone, chitin films, preindustrial clear panes |
+| `Materials/MaterialPurification.md` | Purity grades, extract methods and energy (silica, clay, Fe, Ti, Au, Ag; volcanic / Hawaii) |
 | `Materials/MonsterCores.md` | Mana stones / cores |
 | `Tech/Technology.md` | Era / tech baseline; fat: `TechnologyDesign.md` |
 | `Science/Science.md` | Science folder index (Metallurgy, Energy, Invent, Vehicle, …) |

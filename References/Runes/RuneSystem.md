@@ -136,11 +136,132 @@ Cost of the same attack by quality (layout λ only): Lowest 313, Low 198, Interm
 - Linear runes are silent. Resonant runes sing. The tone is sensed magically. Higher rank rings louder and longer. Locked patterns sound clean and discordant patterns sound rough.
 - Decoration does not change what the circuits do.
 
+## Inscription scale
+
+Measuring idea. Not a lock. Spell cost, η_cond and ambient `A` stay in `Energy.md`. Delivered joules stay on the cast law.
+
+The rule is mana throughput against the area the 2D shape covers. The page, hide or blade only has to be large enough to hold that area. It does not set the mana.
+
+**Throughput = area × density.**
+
+- Area is the whole footprint the 2D shape covers: lines, enclosed shapes and the spacing between them.
+- Standard density is **1 mana per cm²**. At that density, throughput in mana equals footprint in cm².
+- 1 mana = 10 J is converter input (`Energy.md`), not the joules that leave the spell.
+
+Same equation, two uses:
+
+1. **Scale at standard density.** Density stays 1 mana/cm². Throughput and area move together. Line width stays 1 mm, so circuit length scales with area.
+2. **Compress a fixed throughput into less area.** Density becomes throughput ÷ area. Circuit length stays put, so line width falls by the same fraction as the area.
+
+Regular enchantments stay suffused through the item (`RuneCraftScrapes.md`). This measure is the single-layer surface inscription. The not-canon shape notes below do not replace this equation with enclosed area alone.
+
+### Working volume
+
+A mage is assumed to run the spell circuit through the heart and the brain.
+
+- Heart: 300 cm³
+- Brain: 1,260 cm³
+- Together: 1,560 cm³, about an 11.6 cm cube
+
+That volume is not the arm-section masses in `EnergyDesign.md` and it does not change tissue burst tolerance.
+
+### Standard density
+
+- Density: 1 mana per cm² of footprint
+- Standard throughput: 100 mana, so the footprint is 100 cm²
+- That area is a 10.0 cm square or an 11.3 cm circle. The square and the circle are the same footprint.
+- Lines at this density: 1 mm wide
+- Split of every footprint: 25% lines, 50% enclosed shapes, 25% spacing
+- Line area is a quarter of the footprint and the line is 0.1 cm wide, so circuit length = footprint in cm² × 2.5 cm. At 100 mana that is 2.5 m
+
+A blank can be checked against the footprint after the area is known. An A5 sheet is 310.8 cm², so the 100-mana footprint uses about a third of one. That check is not the rule.
+
+| Throughput | Mana | Footprint | Square side | Circle diameter | Line length (1 mm) | Enclosed shapes |
+|---|---|---|---|---|---|---|
+| Full | 100 | 100 cm² | 10.0 cm | 11.3 cm | 2.5 m | 50 cm² |
+| 1/2 | 50 | 50 cm² | 7.1 cm | 8.0 cm | 1.25 m | 25 cm² |
+| 1/3 | 33.3 | 33.3 cm² | 5.8 cm | 6.5 cm | 0.83 m | 16.7 cm² |
+| 1/4 | 25 | 25 cm² | 5.0 cm | 5.6 cm | 0.63 m | 12.5 cm² |
+| 1/10 | 10 | 10 cm² | 3.2 cm | 3.6 cm | 0.25 m | 5 cm² |
+
+Mana equals footprint because density is 1. The 1/3 row rounds 100/3. Enclosed shapes are half the footprint and are not a second mana count.
+
+### Tier 1 bolt
+
+Normal-voice Mana Bolt is the 25 mana rung (`../World/Science/Energy/ManaCast.md`). Chapters 7–9 show it egg-sized (`../Combat/Spells.md`).
+
+- At 1 mana/cm², 25 mana of throughput needs 25 cm². That is the inscription area, not the silhouette of the egg.
+- Converter input is 25 × 10 J = 250 J. Useful output is the cast-law figure on that 25 mana, not 250 J.
+- Egg volume used here: about 57 cm³.
+- Body to bolt: 1,560 cm³ into 57 cm³, about 27 times denser. That is a 3D comparison. It does not set the 25 cm².
+
+### Flattening
+
+The spell is a circuit. Flattening copies that circuit onto a surface. It does not change the length or what connects to what. The 100-mana standard is a 2.5 m circuit in the heart and brain, then the same 2.5 m traced in 2D. A smaller throughput at 1 mana/cm² is a shorter circuit. Compressing the same throughput keeps the length and thins the line.
+
+- **Thickness.** In the body the circuit is a round tube with depth. On the surface it is a flat strip, so the flow has to fit in width alone.
+- **Crossings.** In 3D, tubes pass over and under. On a surface two lines cannot cross without touching. Some circuits cannot be drawn flat at all (the three houses, three utilities puzzle). Those spots need a bridge glyph or a detour. More complex spells have more of these knots.
+
+Volume scales with the cube of size and area with the square. Shrinking the surface hurts faster than shrinking the source.
+
+### Shrinking
+
+Same 100 mana throughput. The area shrinks and the density rises.
+
+- Density = 100 mana ÷ area
+- Line width = 1 mm × (area / 100 cm²)
+- Circuit length stays 2.5 m, because line area and line width fall together
+
+The object names are only pictures of that area. Footprints past 1/16 are rounded.
+
+| Fraction of area | Footprint | Same area as | Line width | Mana per cm² |
+|---|---|---|---|---|
+| 1/1 | 100 cm² | 10 cm square / 11.3 cm round | 1 mm | 1 |
+| 1/2 | 50 cm² | 7.1 cm square / 8.0 cm round, playing card | 0.5 mm | 2 |
+| 1/4 | 25 cm² | 5.0 cm square / 5.6 cm round, matchbox lid | 0.25 mm | 4 |
+| 1/8 | 12.5 cm² | 3.5 cm square / 4.0 cm round, large medallion | 125 µm | 8 |
+| 1/16 | 6.25 cm² | 2.5 cm square / 2.8 cm round, amulet | 62.5 µm | 16 |
+| 1/32 | 3.1 cm² | 1.8 cm square / 2.0 cm round, coin or signet ring | 31.3 µm | 32 |
+| 1/64 | 1.6 cm² | 12.5 mm square / 14 mm round, ring gemstone | 15.6 µm | 64 |
+| 1/128 | 0.78 cm² | 8.8 mm square / 10 mm round, small gemstone | 7.8 µm | 128 |
+| 1/256 | 0.39 cm² | 6.3 mm square / 7 mm round, earring stone | 3.9 µm | 256 |
+| 1/512 | 0.20 cm² | 4.4 mm square / 5 mm round, bead | 2.0 µm | 512 |
+
+The 100 mana still passes. It passes through less area, so each cm² carries more and the trace is thinner. Thin paths heat worse (`Energy.md`). A small inscription wants a cleaner host (silver, mythril) so the narrow lines do not burn. That host feel is narrative and does not follow electrical conductivity.
+
+### Flow cap (temporary, not canon)
+
+- The area law already sets throughput from footprint × density. This is a separate claim: the mana spent making a rune would set how much mana can flow through it.
+- Not one-for-one. The intake portion alone would be only 1/5 to 1/10 of the total build.
+- Purpose: keep rune power from spiraling.
+- Example: a rune made with 100 mana would cap flow at 100 mana. 10 to 20 mana of that build would go into the intake.
+
+This does not replace the setup default. Setup becomes structure and activation is paid every cast (`RuneSetup.md`). Spell cost stays fixed (`Energy.md`).
+
+### Shapes (idea, not canon)
+
+Lines would be the plumbing. Shapes would be the machinery. Each 3D mana structure in the heart and brain would flatten into a 2D shape. Sample jobs stay in `RuneCauseEffect.md`. These shapes are not new segment locks.
+
+| 3D structure | 2D rune shape | Function |
+|---|---|---|
+| Sphere | Circle | Containment, storage |
+| Torus | Ring or double circle | Circulation, steady flow |
+| Helix | Spiral or wave | Compression, acceleration |
+| Cone | Triangle or chevron | Direction, aiming |
+| Knot | Interlace with over-under crossings | Binding, stability |
+| Branching vessels | Forks, tree shapes | Splitting, multi-output |
+
+- Norse knotwork's over-under weave is one way to draw a crossing.
+- Loops would hold mana in the area they enclose. Capacity would come from enclosed area and turns, not only line length. That would be a second capacity rule. Throughput in this section stays footprint × density.
+- Curves keep flow steady. Sharp corners spike energy and burn, so an angular rune wants a cleaner host at the corners (`EnergyDesign.md`).
+- In this idea, build mana and the line's host set the flow cap. Shapes decide what the mana does.
+- A blade layout that fits the detonation scrape (handle toward tip, heavier at the tip): intake knot at the ricasso, interlaced body down the blade, output spiral or chevron toward the tip.
+
 ## Open Dials
 
 - Ceiling base of 10 J and the band of 100 times per rank.
 - Overrun of about 5 times and whether overcharge, craft quality and Highest quality stack or share one cap.
-- Power source per rank and how intake size scales with the machine.
+- Power source per rank and how intake size scales with the machine. Inscription throughput = area × density is proposed under Inscription scale and is not locked.
 - Slopes: r = 0.125 per point of u and H_eff = 0.25 per point of u.
 - Ring-up scale of 0.75 s per point of u.
 - Layout efficiency of 0.16 at Lesser Lowest (0.4 at Intermediate is anchored by 125 versus 50 mana).

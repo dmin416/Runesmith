@@ -22,7 +22,7 @@ Early story starts at the Arden estate in Caldris, then moves through towns and 
 
 **Luden:** Southern port city. Caravan / sail hub toward Dragnis Island and Albrook.
 
-**Dragnis Island:** Large southern Caldris island under an aristocrat Duke. Central volcano and S-rank main dungeon (dragon last boss; magus-tower barrier talk). Coast warm/green. Smaller dungeons link toward the main. Export boom in mana stones and minerals. Hotspot-island pack: `VolcanicIslandResources.md`, `VolcanicIslandCrops.md`, `VolcanicIslandEcology.md`, `VolcanicIslandFarming.md`, `../Fauna/KoloaAndNene.md`.
+**Dragnis Island:** Large southern Caldris island under an aristocrat Duke. Central volcano and S-rank main dungeon (dragon last boss; magus-tower barrier talk). Coast warm/green. Smaller dungeons link toward the main. Export boom in mana stones and minerals. Hotspot-island pack: `VolcanicIslandResources.md`, `VolcanicIslandCrops.md`, `VolcanicIslandEcology.md`, `VolcanicIslandFarming.md`, `../Fauna/KoloaAndNene.md`, `../Fauna/KoloaAndNeneMagic.md`.
 
 **Albrook:** Boom town in a Dragnis valley by a months-old volcanic side dungeon. Wall and guild under construction early. Absentee noble; commoner mayor. Farm / workshop peg outside town. Roland registers and works here under the cover name **Wayland** (person identity, not a place). Auction house and shops land as the boom matures.
 

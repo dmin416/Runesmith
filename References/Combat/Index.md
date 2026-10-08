@@ -11,6 +11,8 @@ Up: [References](../Index.md)
 - [GearPrices.md](GearPrices.md). Design price book for weapons, armor, and repairs. Blade / loadout design: Weapons.md. Light kit: LightArmorLoadout.md. Currency:
 - [ImpactRune.md](ImpactRune.md). Earth-physics model for Sahildr's Lesser Impact warhammer rune. Catalog: ../Runes/Runes.md. Compression cousin: ../World/Science/Energy/Compression.md (Fire
 - [Lasers.md](Lasers.md). Design loot. Physics, types, power tables and gas feedstock: ../World/Science/Energy/Optics.md. Aiming vs speed: SpeedVsIntellect.md. Power banks:
+- [LightWarfare.md](LightWarfare.md). Design loot / inspiration. Escalation when warriors outrun mass and mages reach for light. Variables: LightWarfareVariables.md. Kit: Lasers.md.
+- [LightWarfareVariables.md](LightWarfareVariables.md). Design loot / inspiration. Twenty body, air, beam and sensing variables. Hub: LightWarfare.md.
 - [LightArmorLoadout.md](LightArmorLoadout.md). Loadout design when the main threat reliably pierces plate. Heavy plate then loses its job. Weight, heat and stamina drain become pure cost. Prefer a light
 - [LivingArmor.md](LivingArmor.md). Animated empty plate driven by a soft colony clinging inside the shell. Useful for dungeon living-armor foes and any “muscle in the metal” construct. Human
 - [MageDefense.md](MageDefense.md). Gist for fights where a physical specialist outruns and outmuscles a mage body. Mage wins on Mana Hands (mind-speed telekinesis), perception and prep.

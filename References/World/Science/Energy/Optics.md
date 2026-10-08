@@ -1,6 +1,6 @@
 # Optics
 
-Hub: `../Science.md`. Light bands: `Waves.md`. Room / street light tech: `Lighting.md`. Fight use: `../../../Combat/Lasers.md`. Pulsed power: `Generators.md`. Flywheel + light-crystal beams / air ceilings: `FlywheelApplications.md`.
+Hub: `../Science.md`. Light bands: `Waves.md`. Room / street light tech: `Lighting.md`. Glass / quartz / clear stocks: `../../Materials/TranslucentMaterials.md`. Fight use: `../../../Combat/Lasers.md`. Escalation inspiration (not locked): `../../../Combat/LightWarfare.md`, `../../../Combat/LightWarfareVariables.md`. Pulsed power: `Generators.md`. Flywheel + light-crystal beams / air ceilings: `FlywheelApplications.md`.
 
 ## Water-lens telescope (potential)
 

@@ -19,3 +19,4 @@ Up: [References](../Index.md)
 - [SkillsDesign.md](SkillsDesign.md). Design loot. Live locks: Progression.md (XP / tiers / reclass), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md
 - [SkillsRedesign.md](SkillsRedesign.md). Design loot. Live skill law: Progression.md / Skills.md. Fat catalog: SkillsDesign.md. Apply or merge when a beat needs it; not a second lock file.
 - [Training.md](Training.md). Live physical / mental age tracks, technique ranks and endurance clocks.
+- [CareerScale.md](CareerScale.md). Simple body plateau, then class and skills by effort × time. Not a lock.

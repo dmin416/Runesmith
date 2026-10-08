@@ -196,3 +196,4 @@ Totals use unrounded factors (shown here to enough decimals to reproduce by hand
 - Metal Reservoir capacity. Canon gives stone only (1 mana per mm³) so metals use it as a placeholder.
 - Scroll media factor. Paper and parchment have no M yet so scrolls use M 1.
 - Whether prepaid scrolls (P9 and P10) belong in canon or stay a premium variant.
+- Flow cap (not canon): mana spent building the pattern might cap later flow, with intake only 1/5 to 1/10 of that build. Proposed under Inscription scale in `RuneSystem.md`. Default stays: setup becomes structure and activation is paid separately.

@@ -2,7 +2,7 @@
 
 Hawaii's two native waterfowl as domesticated birds in a fantasy setting: Koloa maoli for bug and snail control, eggs and meat; Nēnē for grazing, weeding, guarding and prized eggs.
 
-Farm placement and wind/rain zones: `../Geography/VolcanicIslandFarming.md`. Crops: `../Geography/VolcanicIslandCrops.md`. Places: `../Geography/Places.md` (Dragnis-class islands).
+Farm placement and wind/rain zones: `../Geography/VolcanicIslandFarming.md`. Crops: `../Geography/VolcanicIslandCrops.md`. Magic-world evolutionary paths: `KoloaAndNeneMagic.md`. Places: `../Geography/Places.md` (Dragnis-class islands).
 
 ---
 
