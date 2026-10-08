@@ -24,4 +24,4 @@ D's real power path is **ranged kit** and **fundamental magic control**. Worksho
 
 ### Open
 
-Named gear, armor cuts and shop loadouts wait for the story. Do not invent his carried kit here.
+Named gear, armor cuts and shop loadouts wait for the story. Do not invent his carried kit here. Wishlist: `Goals.md`.

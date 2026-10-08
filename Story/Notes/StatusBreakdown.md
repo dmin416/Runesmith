@@ -197,48 +197,42 @@ MP = ((75×10)+(62×4)) × 1.08 = 998 × 1.08 = **1078** (Mage L4).
 
 ### Mage L20 (Ch 10) — skill ranks after Ch 9.5
 
-Combat math: `Levels.md` field-use curve; table in `Skills.md` Ch 9.5. **L9 hard cap until first T2.**
-
-**Evolves in the skip (plain / Expert start at L1):** Running, Climbing, Sneaking, Throwing, One-Handed Swordsmanship; Marksmanship → **Expert Marksmanship**. Evolved L1 pads only (no second free point). **Stay Basic L9:** Sprint, Hand to Hand, Leather. **Basic Dodging** ends **L6**. Mana skills:
+Combat math: `Levels.md` field-use curve; table in `Skills.md` Ch 9.5. **L9 hard cap.** Evolve at **2,000,000** — **none this skip**.
 
 | Skill | Ch 9 | Ch 10 | Source of levels |
 |---|---|---|---|
-| Basic Mana Shaping | L1 | **L6** | combat casts |
-| Basic Mana Regulation | L1 | **L7** | drain/refill with every fight |
-| Basic Incantation | L1 | **L6** | combat casts |
-| Mana Absorption | — | **L9** | constant pull as mana is spent (combat) |
-| Mana Reinforcement | — | **L9** | held while the pool is working (combat) |
-| Mana Bolt / Arrow / Shield | L1 / — / — | **L7 / L5 / L3** | combat casts |
-| Heat / Mana Hands | self | **L6 / L5** | evenings + light field use |
-| Basic Dodging | — | **L6** | live clears vs clubs/spears/rocks |
+| Basic Mana Shaping | L1 | **L4** | combat casts (~**900** clean) |
+| Basic Mana Regulation | L1 | **L6** | drain/refill with every fight |
+| Basic Incantation | L1 | **L4** | combat casts |
+| Mana Absorption | — | **L9** | spend/refill pulses (~**500,000**) |
+| Mana Reinforcement | — | **L9** | held on the same cycles |
+| Mana Bolt / Arrow / Shield | L1 / — / — | **L5 / L4 / L3** | combat casts |
+| Heat / Mana Hands | self | **L5 / L5** | evenings + light field use |
+| Basic Dodging | — | **L4** | live clears vs clubs/spears/rocks (~**320**) |
+| Marksmanship | L7 | **L7** | aimed casts short of **100,000** |
 | Reading / Mana Sense | L9 | L9 | unchanged |
 
-Skills/Traits Int = pre-mage pile **48** + Shaping **12** + Regulation **7** + Incantation **6** + Absorption **9** + Reinforcement **9** = **91**.
-Skills/Traits Will = pre-mage pile **28** + **6** + **14** + **6** + **18** + **9** + Expert Marks **1** = **82**.
+**Pad math under recounted ranks** (Abs/Reinf still dominate): Skills/Traits Int = pre-mage **48** + Shaping **8** + Regulation **6** + Incantation **4** + Absorption **9** + Reinforcement **9** = **84**. Skills/Traits Will = pre-mage **28** + **4** + **12** + **4** + **18** + **9** = **75**.
 
-**Physical Skills/Traits after evolve (additive: Basic L9 pads stay + Level 2 L1 pads; L1 pad is the evolve “free stat”, not an extra):**
-- Str: H2H **9** + Climb baked **9** + Sword baked **9** + Climbing L1 **1** + Swordsmanship L1 **1** = **29**
-- Agi: Climb baked **9** + Sneak baked **9** + Cooking **3** + Acrobatics **3** + Dodging **6** + Climbing L1 **1** + Sneaking L1 **1** = **32**
-- Dex: Throw baked **9** + Tech **7** + Tinker **8** + Cooking **3** + Marks baked **9** + Throwing L1 **1** + Expert Marks L1 **1** = **38**
-- Vit: H2H **9** + Sprint **9** + Leather **9** + Sleep **4** = **31**
-- End: Run baked **9** + Sprint **9** + Leather **9** + Running L1 **1** + Sleep **4** = **32**
+**Physical Skills/Traits (no evolve pads):**
+- Str: H2H **8** + Climb **9** + Sword **8** = **25**
+- Agi: Climb **9** + Sneak **8** + Cooking **3** + Acrobatics **3** + Dodging **4** = **27**
+- Dex: Throw **9** + Tech **7** + Tinker **8** + Cooking **3** + Marks **7** = **34**
+- Vit: H2H **8** + Sprint **9** + Leather **9** + Sleep **4** = **30**
+- End: Run **9** + Sprint **9** + Leather **9** + Sleep **4** = **31**
 
 | Bucket | STR | AGI | DEX | VIT | END | INT | WILL | CHA | LUCK |
 |---|---|---|---|---|---|---|---|---|---|
 | Body | 15 | 17 | 16 | 14 | 13 | 18 | 25 | 7 | 7 |
 | Class | 0 | 0 | 0 | 0 | 0 | 20 | 20 | 0 | 0 |
-| Skills/Traits | 29 | 32 | 38 | 31 | 32 | 91 | 82 | 4 | 0 |
-| **Total** | **44** | **49** | **54** | **45** | **45** | **129** | **127** | **11** | **7** |
+| Skills/Traits | 25 | 27 | 34 | 30 | 31 | 84 | 75 | 4 | 0 |
+| **Pad total** | **40** | **44** | **50** | **44** | **44** | **122** | **120** | **11** | **7** |
 
-HP = Vit×10 + End×3 = 450 + 135 = **585**.
-MP = ((129×10)+(127×4)) × 1.40 = 1798 × 1.40 = **2517** (Mage L20).
-SP = End×10 + Str×3 + Agi×3 = 450 + 132 + 147 = **729**.
+**Live Ch 10 inn sheet** (chapter wins): Int **129** / Will **127** / MP **2158** / physicals **46/50/56/41/42**; HP **536**; SP **708**. Pad total above is ~**7** Int / ~**7** Will short of the live sheet; live numbers stay until a sheet retcon. Live MP = ((129×10)+(127×4)) × **1.20** = **2158** (printed band; full Mage L20 ×1.40 would be **2517**).
 
 Reinforcement while active: **+90%** of max MP as bonus base stats (L9 × 10%, 90% cap). Drops when MP is empty.
 
-**Class-only check:** mana skills stuck at L1 → Int **90** / Will **77**. Absorption / Reinforcement at L9 are what push Int/Will into the **129 / 127** band.
-
-**Live Ch 10 inn sheet** still shows Vit **41** / End **42** / HP **536** / SP **708** (pre–Sleep-pad retcon). Rewrite target above. Retcon the inn sheet when that chapter is rewritten.
+**Class-only check:** mana skills stuck at L1 → Int lower. Absorption / Reinforcement at L9 are still what push Int/Will into the high band.
 
 **Ch 12 binge pads (on rewrite stack):** Sleep **L5** (+1 Vit/+1 End vs L4), Alcohol L1 (**End +1**), Dance L1 (**Agi +1**), Pain L1 (**Will +1**, **End +1**) → night **Agi +1 / Vit +1 / End +3 / Will +1**. Floor-2 cook/tame: **Multitasking** L1 (**Int +1**, **Dex +1**); **Poison Resistance** L1 (**Vit +1**, **End +1**); **Basic Taming** L1 (**Cha +1**); **Mana Hands** at least **L7**. Chapter pad total **Agi +1 / Vit +2 / End +4 / Will +1 / Int +1 / Dex +1 / Cha +1**.
 
@@ -250,24 +244,13 @@ Enter Ch 13 as post–Ch 12 stack still **Mage L20**, then **+5** Mage packages 
 
 **Class L20→L25:** Int **+5**, Will **+5**.
 
-**Ch 13 skill pads:** Sword **L1→L4** Str **+3**; Dodging tree Agi **+9** (Basic **L6→L9** + **Dodging L1→L6**); Sneaking **L1→L3** Agi **+2**; Throwing **L1→L3** Dex **+2**; Incantation **L6→L8** Int **+2** Will **+2**; Alcohol **L1→L4** End **+3**; Poison **L1→L6** Vit **+5** End **+5**; Recovery **L1→L5** Vit **+5** End **+5**.
+**Ch 13 skill pads** (`Skills.md` recount, no evolves): Sword Basic **L8→L9** Str **+1**; Dodging Basic **L4→L6** Agi **+2**; Sneaking Basic **L8→L9** Agi **+1**; Marksmanship **L7→L9** Dex **+2**; Incantation **L4→L8** Int **+4** Will **+4**; Shaping **L4→L6** Int **+4** Will **+2**; Regulation **L6→L7** Int **+1** Will **+2**; Alcohol **L1→L4** End **+3**; Poison **L1→L6** Vit **+5** End **+5**; Recovery **L1→L5** Vit **+5** End **+5**.
 
-| Bucket | STR | AGI | DEX | VIT | END | INT | WILL | CHA | LUCK |
-|---|---|---|---|---|---|---|---|---|---|
-| Body | 15 | 17 | 16 | 14 | 13 | 18 | 25 | 7 | 7 |
-| Class (Mage L25) | 0 | 0 | 0 | 0 | 0 | 25 | 25 | 0 | 0 |
-| Skills/Traits | 32 | 44 | 41 | 43 | 49 | 94 | 85 | 5 | 0 |
-| **Total** | **47** | **61** | **57** | **57** | **62** | **137** | **135** | **12** | **7** |
+**Live Ch 13 sheet** (chapter wins): Str **49** / Agi **63** / Dex **59** / Vit **57** / End **62** / Int **137** / Will **135** / Cha **12** / Luck **7**; HP **756** / MP **2292** / SP **956**. Live MP = 1910 × **1.20** = **2292** (printed band; full Mage L25 ×1.50 would be **2865**).
 
-HP = 570 + 186 = **756**.
-MP = ((137×10)+(135×4)) × 1.50 = 1910 × 1.50 = **2865** (Mage L25).
-SP = 620 + 141 + 183 = **944**.
+**Ch 14:** **Basic Dodging L6→L7** mid-chase (**Agi +1**). Live **Agi 64** / SP **959**.
 
-**Ch 14:** **Dodging L6→L7** mid-chase (**Agi +1**). Sheet **47/62/57/57/62/137/135/12/7**; SP **947**.
-
-Pouch at `"*Not bad.*"`: **11,641 LC** (`Experience.md`). Skill ranks and kill slate: `Skills.md` / `Experience.md`.
-
-**Live Ch 13 sheet** in chapter / `Status.md` matches this rewrite block.
+Pouch at `"*Not bad.*"`: **~5,977 LC** (`Experience.md`). Personal wallet path into Ch 19: **5,977** → watcher share **+5 SG** → **10,977** → kit/consumable trims **+~664** → **11,641** → parting **+10 SG** → enter Ch 19 **21,641 LC**.
 
 ---
 
@@ -278,8 +261,8 @@ Pouch at `"*Not bad.*"`: **11,641 LC** (`Experience.md`). Skill ranks and kill s
 | Ch 2 | Int 41 / Will 18 | Int **42** / Will **25** (new mental body) |
 | Ch 4–5 | Body physicals + transfer Dex + old mental seeds | + Basic STR/AGI/DEX/END pile + rising Int/Will body |
 | Ch 6–8 | Above + Mage packages | Same debts |
-| Ch 10 | Inn sheet **matches** Mage L20 block above | Synced (HP **536** / MP **2158** / SP **708**; Vit/End live still pre–Sleep retcon; physical Skills/Traits no longer add a second evolve point) |
-| Ch 13 | Mage L25 rewrite (**47/61/57/47/52/137/135/12/7**; HP **626** / MP **2292** / SP **844**) | Synced target (chapter / `Status.md` live may still show old free-point pads until retconned) |
+| Ch 10 | Live inn **46/50/56/41/42/129/127/11/7**; HP **536** / MP **2158** / SP **708** | Pad rebuild under new curve ~**122/120** Int/Will; live sheet wins |
+| Ch 13 | Live **49/63/59/57/62/137/135/12/7**; HP **756** / MP **2292** / SP **956** | Live sheet wins; full Mage ×1.50 MP (**2865**) deferred; printed band uses ×**1.20** |
 
 ### Post–Ch 13 rewrite checkpoints (delta method)
 

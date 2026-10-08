@@ -42,7 +42,9 @@ Everyone has a status system with attributes and resources. Skills like Identify
 
 **Affinities:** Matter for elemental mage paths. Detail: `Attributes.md`.
 
-**Skill ranks:** Every skill name hard-caps at **L9**, then **evolves** to the next prefix form (starts at L1). No L10 on the same name. Class skills use the same L9 → evolve rule. Full tables: `Levels.md` / `Skills.md`.
+**Skill ranks:** Every skill name hard-caps at **L9**. It **evolves** at **2,000,000** clean uses, when the ability surpasses itself. The next form starts at L1. No L10 on the same name. Class skills use the same rule. Full tables: `Levels.md` / `Skills.md`. Using an ability at its current peak accelerates the climb; that is mostly narrative pacing on top of the clean-use counts.
+
+**Skill scope:** A skill is the general ability, not the first thing he practiced on. Chapter 4: Tinkerer and Technology let him reassemble a clock he had never worked on. Poison Resistance is poison. The sound sense evolves Echolocation → Vibration Sense → Energy Sense.
 
 **Tiers (people and monsters):** Same tier ladder for person classes and monster evolutions.
 

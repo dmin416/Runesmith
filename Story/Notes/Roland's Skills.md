@@ -14,7 +14,7 @@ Excludes Agni, Millie, Bernir, Lucille, Robert, Arthur skills and traits.
 5. Sleep Resistance – Ch 2 – previous life; **Vitality +level**, **Endurance +level** (L4 at transfer → Vit **+4** / End **+4**; Ch 12 → **L5**)
 6. Tinkerer – Ch 2 – previous life – Dexterity +8 at L8; Ch 4 clock: physical / mechanical
 7. Cooking – Ch 2 – previous life – Dexterity +3, Agility +3 at L3
-8. Marksmanship – Ch 2 – previous life – Dexterity +7 at L7 (`Progression.md` firearms track); Ch 9.5 → **Expert Marksmanship** L1 (Dex +level, Will +level; named on-page Ch 10)
+8. Marksmanship – Ch 2 – previous life – Dexterity +7 at L7 (`Progression.md` firearms track); stays **L7** through Ch 9.5–10 (L8 needs **100,000**; named on-page Ch 10); Ch 13 → **L9**
 9. Acting – Ch 2 – previous life – Charisma +4 at L4
 10. Basic Mathematics L7 – Ch 2 – already had (transfer)
 11. Map Reading L4 – Ch 2 – already had (transfer)
@@ -24,13 +24,13 @@ Excludes Agni, Millie, Bernir, Lucille, Robert, Arthur skills and traits.
 ## Childhood training (~Ch 4–7)
 
 14. Mana Sense L4 – Ch 4 – Intelligence +4 (climbs toward L9 before Ch 5)
-15. Basic Running – Ch 4 – Endurance +level; Ch 9.5 → **Running** L1 (End +level on evolve; named Ch 10)
+15. Basic Running – Ch 4 – Endurance +level; stays **Basic L9** through Ch 19 (evolve needs **2,000,000**)
 16. Basic Sprint – Ch 4 – Vitality +level, Endurance +level (stays Basic L9 through Ch 10)
-17. Basic Hand to hand combat – Ch 4 – Strength +level, Vitality +level (stays Basic L9 through Ch 10)
-18. Basic Climbing – Ch ~4 – Strength +level, Agility +level; L3 shown after ~50 climbs on one tree (L1 → L2 at ~10); Ch 9.5 → **Climbing** L1 (L1 pad on evolve; named Ch 10)
-19. Basic Throwing – Ch ~4 – Dexterity +level; Ch 9.5 → **Throwing** L1 (L1 pad on evolve; named Ch 10)
-20. Basic Sneaking – Ch ~4 – Agility +level; Ch 9.5 → **Sneaking** L1 (L1 pad on evolve; named Ch 10)
-21. Basic One-handed Swordsmanship – Ch ~4 – Strength +level; Ch 9.5 → **One-Handed Swordsmanship** L1 (L1 pad on evolve; named Ch 10)
+17. Basic Hand to hand combat – Ch 4 – Strength +level, Vitality +level (stays Basic L8 through Ch 9.5; Ch 13 may climb)
+18. Basic Climbing – Ch ~4 – Strength +level, Agility +level; L3 shown after ~50 climbs on one tree (L1 → L2 at ~10); stays **Basic L9** through Ch 19
+19. Basic Throwing – Ch ~4 – Dexterity +level; stays **Basic L9** through Ch 19
+20. Basic Sneaking – Ch ~4 – Agility +level; stays **Basic L8** through Ch 9.5; Ch 13 → **L9**
+21. Basic One-handed Swordsmanship – Ch ~4 – Strength +level; stays **Basic L8** through Ch 9.5; Ch 13 → **L9**
 22. Basic Leather Armor proficiency – Ch ~4–7 – Vitality +level, Endurance +level; **L9** on Ch 7 train screen (stays Basic through Ch 10)
 23. Reading Proficiency – early Arden library (Roland track: L7 at age 5, L9 by age 7) – Intelligence +level, Willpower +level
 
@@ -45,29 +45,30 @@ Age-10 technique targets: see `Progression.md` / Ch 7 note in `Skills.md`. Chapt
 
 ## Carwen grind (Ch 9–9.5)
 
-28. Basic Dodging – Ch 9.5 month 1 – unlocks on purposeful clear vs clubs/spears; Agility +level; **L6** by end of skip. Ch 13: **Basic L9** then evolve → **Dodging**. Ch 14: **Dodging L7** mid-chase.
-29. Mana Arrow (Spell) – Ch 9.5 late month 1 – Mage class grant
-30. Mana Shield (Spell) – Ch 9.5 month 2 – Mage class grant
-31. Heat (Spell) – Ch 9.5 – self-discovered evening drills (cook-pot spark); **L6** by end of skip; on-page Ch 10. Source used an Arden book
+28. Basic Dodging – Ch 9.5 month 1 – unlocks on purposeful clear vs clubs/spears; Agility +level; **L4** by end of skip. Ch 13: **Basic L6**. Ch 14: **Basic L7** mid-chase. No evolve.
+29. Mana Arrow (Spell) – Ch 9.5 late month 1 – Mage class grant; **L4** end of skip; Ch 13 → **L7**
+30. Mana Shield (Spell) – Ch 9.5 month 2 – Mage class grant; **L3** end of skip; Ch 13 → **L7**
+31. Heat (Spell) – Ch 9.5 – self-discovered evening drills (cook-pot spark); **L5** by end of skip; on-page Ch 10; Ch 13 → **L6**. Source used an Arden book
 32. Mana Hands (Spell) – Ch 9.5 – self-discovered evening drills (mug lifts); **L5** by end of skip; on-page Ch 10. Trial weeks (Ch 11→12): idle waiting casts in dungeon → **L6**. Ch 12 cook (eight concurrent Hands) → at least **L7** (unnoticed). Ch 13 half-year → **L9**. Move objects with mana; visible hands optional. Source used an Arden book
 33. Mana Absorption – Ch 9.5 – self-taught ambient pull between hunts; **L9** by end of skip
 34. Mana Reinforcement – Ch 9.5 – self-taught body store from the same drills; **L9** by end; same skill as common dealer books (discovery takes longer). Source delayed to book Ch 54 / learn Ch 56 (rewrite: already owned; skip or reframe that purchase)
 35. Basic Alcohol Resistance – Ch 12 – Iron Flagon binge; exposure unlock at **L1**; Ch 13 party drinks → **L4**; **Endurance +1** per level; other resistances possible the same way
 36. Dance – Ch 12 – tavern-table dance; **L1**; **Agility +1** per level
-37. Pain Resistance – Ch 12 – hangover / force-feed night; **L1**; Ch 19 daily grill → **L8**; **Willpower +1**, **Endurance +1** per level (later Ch 197 deepens)
-37a. Cold Resistance – Ch 13 – cold bare inn / cloak+Ned (was labeled Temperature Resistance); unlock **L1**; Ch 19 daily grill → **L6**; **Vitality +1**, **Endurance +1** per level
-37b. Heat Resistance – Ch 19 – thermal grill unlock; **L1 → L6**; **Vitality +1**, **Endurance +1** per level (forge / Heat Sense deepen later)
-37c. Sound Production – Ch 19 – free-placement mana + tongue clicks daily; **L1 → L9**; **Intelligence +1**, **Dexterity +1** per level
-37d. Echolocation – Ch 19 – Ned move / click-locate eyes closed daily + needle-in-flight catches; **L1 → L9**; **Willpower +1**, **Intelligence +1** per level; ladder in `Science/Sound.md`
-37e. Multitasking – Ch 12 cook **L1**; Ch 19 dual drills daily → **L8**; **Intelligence +1**, **Dexterity +1** per level
-37f. Train mana foundations – Ch 19 (both every day): Shaping **L6→L9**, Regulation **L7→L9**, Heat **L6→L9**; Hands / Absorption / Reinforcement / Sense stay **L9**; Incantation **L8**; Recovery **L5→L9**; Poison **L6→L7**; Throwing **L1→L2**. Full math: `Skills.md` Ch 19.
+37. Pain Resistance – Ch 12 – hangover / force-feed night; **L1**; Ch 19 daily grill → **L5**; **Willpower +1**, **Endurance +1** per level (later Ch 197 deepens)
+37a. Cold Resistance – Ch 13 – cold bare inn / cloak+Ned (was labeled Temperature Resistance); unlock **L1**; Ch 19 daily grill → **L5**; **Vitality +1**, **Endurance +1** per level
+37b. Heat Resistance – Ch 19 – thermal grill unlock; **L1 → L5**; **Vitality +1**, **Endurance +1** per level (forge / Heat Sense deepen later)
+37c. Sound Production – Ch 19 – free-placement mana + tongue clicks every ~**4 s**; **L1 → L7**; **Intelligence +1**, **Dexterity +1** per level
+37d. Echolocation – Ch 19 – Ned move / click-locate eyes closed + needle-in-flight catches; **L1 → L7**; evolve to **Vibration Sense** waits for **2,000,000** uses; **Willpower +1**, **Intelligence +1** per level; ladder in `World/Science/Energy/Sound.md`
+37d2. Breath Control – Ch 19 – breath-holds between grill sets; **1 min held = 1 use**; hold = **T0 × M × level** (L5 ≈ **16.7 min** at his Vit/End); unlock **L1 → L5**; **Vitality +1**, **Endurance +1** per level
+37e. Multitasking – Ch 12 cook **L1**; Ch 19 dual drills daily → **L5**; **Intelligence +1**, **Dexterity +1** per level
+37f. Train mana foundations – Ch 19 (both every day): Shaping **L6→L7**, Regulation **L7**, Heat **L6**; Hands / Absorption / Reinforcement / Sense stay **L9**; Incantation **L8**; Recovery **L5**; Poison **L6** (one poison track); Basic Throwing stays **L9**; Breath Control **L5**. Full math: `Skills.md` Ch 19.
 38. Sleep Resistance – Ch 12 – climbs **L4 → L5** (**Vitality +1**, **Endurance +1** that tick)
-39. Poison Resistance – Ch 12 – Needle Worm blood / needle crunch; popup ignored; **L1**; daily Ned toxin seasoning through Ch 13–19 (~187 days) → **L6**; Ch 19 train tip-pricks → **L7**; **Vitality +1**, **Endurance +1** per level
-39a. Recovery – Ch 13 – daily Mana Hands skin poke + 150 mL bleed/knit to Ned; unlock **L1 → L5**; Ch 19 grill → **L9**; small-wound close time **−10%/level**; **Vitality +1**, **Endurance +1** per level; evolve → Rapid Recovery
-40. Multitasking – Ch 12 – eight Mana Hands on cook skewers; unlock unnoticed; **L1**; Ch 19 dual drills → **L8**; **Intelligence +1**, **Dexterity +1** per level
+39. Poison Resistance – Ch 12 – Needle Worm blood / needle crunch; popup ignored; **L1**; daily Ned toxin seasoning through Ch 13–19 (~187 days) → **L6**; Ch 19 train tip-pricks stay **L6**; **Vitality +1**, **Endurance +1** per level
+39a. Recovery – Ch 13 – daily Mana Hands skin poke + 150 mL bleed/knit to Ned; unlock **L1 → L5**; Ch 19 grill stays **L5**; small-wound close time **−10%/level**; **Vitality +1**, **Endurance +1** per level; evolve → Rapid Recovery
+40. Multitasking – Ch 12 – eight Mana Hands on cook skewers; unlock unnoticed; **L1**; Ch 19 dual drills → **L5**; **Intelligence +1**, **Dexterity +1** per level
 41. Basic Taming – Ch 12 – core Needle Worm bind (food, shield stall, Will stare); **L1**; **Charisma +1** per level; worm worn as green scarf
 
-Ch 13 combat/technique ranks (half-year slate): Mana Shield **L3→L6**; Mana Arrow **L5→L8**; Mana Bolt **L7→L9**; Basic Incantation **L6→L8**; Basic Dodging **L6→L9** → evolve → **Dodging L6**; One-Handed Swordsmanship **L1→L4**; Sneaking **L1→L3**; Throwing **L1→L3**; Basic Calligraphy **L4→L9**; Alcohol **L1→L4**; Mana Hands **L7→L9**; Temperature Resistance **L1**. Rewrite sheet: Str **49** / Agi **63** / Dex **59** / Vit **47** / End **53** / Int **137** / Will **135** / Cha **12** / Luck **7**; HP **629** / MP **2292** / SP **866**. Ch 14: **Dodging L7**, Agi **64**, SP **869**. Full table: `Skills.md` Ch 13 / `StatusBreakdown.md`.
+Ch 13 combat/technique ranks (half-year slate, no evolves): Mana Shield **L3→L7**; Mana Arrow **L4→L7**; Mana Bolt **L5→L9**; Basic Incantation **L4→L8**; Basic Dodging **L4→L6**; Basic Sword **L8→L9**; Basic Sneaking **L8→L9**; Marksmanship **L7→L9**; Shaping **L4→L6**; Regulation **L6→L7**; Heat **L5→L6**; Basic Calligraphy **L4→L9**; Alcohol **L1→L4**; Mana Hands **L7→L9**; Temperature Resistance **L1**. Live sheet: Str **49** / Agi **63** / Dex **59** / Vit **57** / End **62** / Int **137** / Will **135** / Cha **12** / Luck **7**; HP **756** / MP **2292** / SP **956**. Ch 14: **Basic Dodging L7**, Agi **64**, SP **959**. Full table: `Skills.md` Ch 13 / `StatusBreakdown.md`.
 
 **Ch 15:** no new combat skills. Debugger + Technology on the detonation rapier → **Lesser Detonation Rune [Highest]** schematic (**+1000 XP**). Title: **Runic Scholar** (unlocks Runic Mana Scribe). Bank **1479** into Ch 16. Details: `Skills.md` / `Notes.md`.
 

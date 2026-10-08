@@ -11,6 +11,7 @@ Rewrite directions for this project. Source is loot, not a script. Reader stop p
 - Do not follow the original verbatim.
 - Fix pointless poverty / years of hard labor with no profit.
 - Main weapon: ranged (runes, bolts, launchers, traps). Melee is backup.
+- Personal protection, sense and vehicle wishlist: `People/Roland/Goals.md` (not kit law).
 - Keep personal power in pace with golems and workshop tech.
 - Bring back early friends. Revisit Helci as craft / emotional core.
 

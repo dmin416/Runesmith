@@ -253,11 +253,11 @@ Morning after class change. Carry-in from Ch 16. No kills.
 - Detonation rapier tip under Mana Shield (muffled hole blast): tip **~113 MP** (Basic Rune Mastery L1 **−10%** of **125**) + Shield **100** → **MP 2096/2309**; stab **−2 SP** → **867/869**.
 
 **Gained / moved**
-- Assassin loot settled: gear + bag sell **>20 SG** total; Roland already held ~**15 SG**; girls **+5 SG**; Reyna keeps throwing daggers. No red-seal letters.
+- Assassin loot settled: gear + bag sell **>20 SG** total; Roland already held pouch **~5,977 LC** from dungeon months; equal share **+5 SG** → **~10,977 LC**; kit/consumable trims push personal toward **11,641 LC** before parting. Girls keep **+5 SG** framing of their cut. Reyna keeps throwing daggers. No red-seal letters.
 - Unsent letters to **father** and **Martha** ready to send on leaving.
 - Asks to borrow Sahildr's Impact hammer (into Ch 18).
 
-**Still carrying into Ch 18:** worn kit, detonation rapier, **Ned**, parsleaves / needle-blood stocks, ~**15 SG** personal framing + stone bank, Detonation [Highest] schematic, Scribe skills; hammer borrow pending.
+**Still carrying into Ch 18:** worn kit, detonation rapier, **Ned**, parsleaves / needle-blood stocks, personal pouch climbing toward **11,641 LC** + stone bank, Detonation [Highest] schematic, Scribe skills; hammer borrow pending.
 
 ## Chapter 18
 
@@ -269,12 +269,12 @@ Impact copy + farewell. Carry-in from Ch 17.
 **Gained**
 - **Lesser Impact Rune [Highest]** schematic (paper) + **Drawing L1** + **1000 XP**.
 - Adventurer rank **Bronze → Steel** (Miss Cellica).
-- Party's smaller **spatial bag** with starter coin (they keep watcher bag ~2×). Peek deferred alone; Ch 19 locks gift **10 SG** inside **on top of** his personal pouch (**5,977 LC**).
+- Party's smaller **spatial bag** with starter coin (they keep watcher bag ~2×). Peek deferred alone; Ch 19 locks gift **10 SG** inside **on top of** his personal pouch (**11,641 LC**).
 
 **Left behind / farewell**
-- Carwen kit packed into the new bag. Hugs Becky / Sahildr / Reyna; magic train toward Edelgard.
+- Carwen kit packed into the new bag. Hugs Becky / Sahildr / Reyna; coaches and magic-train legs toward Edelgard.
 
-**Still carrying into Ch 19:** Steel card, detonation rapier, **Ned**, parsleaves / needle-blood stocks, Detonation + Impact [Highest] schematics, Scribe skills, personal pouch **5,977 LC** + parting gift **10 SG** (**total 15,977 LC**), stone bank.
+**Still carrying into Ch 19:** Steel card, detonation rapier, **Ned**, parsleaves / needle-blood stocks, Detonation + Impact [Highest] schematics, Scribe skills, personal pouch **11,641 LC** + parting gift **10 SG** (**total 21,641 LC**), stone bank.
 
 ## Chapter 19
 
@@ -285,8 +285,8 @@ Edelgard arrival / guild / Singing Crow.
 - **Lesser Fire Orb Rune** schematic (paper) – memory redraw: first **[High]** (**+600 XP**, **over** 1 hour; uneven); thin-sheet trace → **[Highest]** (**+400 XP**). Total **1000**. Lesser quality ladder: **100 / 200 / 400 / 600 / 1000**. Three Highest lesser schematics now (Detonation + Impact + Fire Orb).
 
 **Spent**
-- Solaria collection plate **−1 SS (−10 LC)** at the station (Source copper; rewrite silver) → **15,977 → 15,967 LC**.
-- City map **−19 LC** → **15,948 LC**.
-- Singing Crow room **−14 LC** (Steel-band pick; a bit above Carwen **1 SS**; **not** the **2 SS** better-inn tier) → wallet **15,934 LC**.
+- Solaria collection plate **−1 SS (−10 LC)** at the station (Source copper; rewrite silver) → **21,641 → 21,631 LC**.
+- City map **−19 LC** → **21,612 LC**.
+- Singing Crow room **−14 LC** (Steel-band pick; a bit above Carwen **1 SS**; **not** the **2 SS** better-inn tier) → wallet **21,598 LC**.
 
-**Still carrying after room / schematic:** Steel card, detonation rapier, **Ned**, Edelgard city map, Detonation + Impact + Fire Orb [Highest] schematics, parsleaves / needle-blood stocks, wallet **15,934 LC**, stone bank.
+**Still carrying after room / schematic:** Steel card, detonation rapier, **Ned**, Edelgard city map, Detonation + Impact + Fire Orb [Highest] schematics, parsleaves / needle-blood stocks, wallet **21,598 LC**, stone bank.

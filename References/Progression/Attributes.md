@@ -48,6 +48,8 @@ Recovery_rate = 1 / Recovery_time            (L5 = 2×; L9 = 10×)
 
 Adult Vit/End **15/15** → **M = 1.0**. Base rates × M. Then × **Recovery_rate**. Effective rate = base × M × Recovery_rate. When Vit or End rises, recompute M. When Recovery levels, recompute Recovery_rate. Both stack.
 
+**Breath hold** uses the same **M**. Comfortable seated hold = **T0 × M**, with **T0 = 1 minute** at Vit/End 15. **Breath Control** multiplies that by skill level (`SkillsDesign.md`): `hold = T0 × M × BreathControl_level`. Body alone at Vit/End ~45–50 is about **3×** average. Breath Control **L5** makes that about **5×** the body-only band (~**15–17×** average).
+
 - **Plasma (~2.75 L):** base **100–150 mL/h** at M = 1
 - **Red cells (~2.25 L of that 5 L):** base **15–25 mL/day** at M = 1
 - **Recovery** covers blood loss, cuts, wounds and soft-tissue damage. It does **not** regrow missing limbs.
@@ -56,7 +58,7 @@ Adult Vit/End **15/15** → **M = 1.0**. Base rates × M. Then × **Recovery_rat
 |---|---|---|---|---|---|---|
 | Adult baseline | 15 | 15 | **1.00** | L0 **1×** | 100–150 mL/h | 15–25 mL/day |
 | Roland Ch 13 (Rec L5) | 47 | 53 | **3.33** | **2×** | **~666–1000 mL/h** | **~100–166 mL/day** |
-| Roland post Ch 19 (Rec L9) | higher | higher | recompute | **10×** | M × 10 × base | M × 10 × base |
+| Roland Ch 19 exit (Rec L5) | ~47 | ~53 | **~3.3** | **2×** | ~same as Ch 13 band | ~same as Ch 13 band |
 
 **Daily Ned feed:** whole blood, not packed cells. Red-cell slice ≈ **40–45%** of the drip. Comfortable daily whole-blood feed ≈ **(effective RBC rate) / 0.45**. Ch 13 Rec L5 band is ~100–166 mL RBC/day, so the whole-blood ceiling is about **220–370 mL**. Story lock **150 mL/day** sits under that ceiling. Ned: `../People/Ned.md`.
 

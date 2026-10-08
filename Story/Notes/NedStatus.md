@@ -163,11 +163,11 @@ Luck                   7
 | Stealth / Camouflage | **L6** | **L7** | All-week hide spam as echolocation target (seat / rack / panels). |
 | Climbing | **L6** | **L7** | Cabin verticals all week (under seats → wall panels → luggage rack). |
 | Spring Charge | **L6** | **L6** | Cabin has no charge lane; holds L6. |
-| Seal / Regeneration | **L5** | **L9** | Shared burn/frost/knit + tip wear / harvest nicks; parallel to Roland **Recovery L5→L9**. |
+| Seal / Regeneration | **L5** | **L5** | Shared burn/frost/knit + tip wear / harvest nicks; parallel to Roland **Recovery** stay **L5**. |
 | Poison Resistance | **L5** | **L5** | Mostly known family / own toxin (soft repeat); near L6, not over. |
-| **Pain Resistance** | — | **L8** | Shared grill sting + tip wear + poke feedback; parallel to Roland **Pain L1→L8**. |
-| **Heat Resistance** | — | **L6** | Daily hot patches on plates/segments; parallel to Roland **Heat → L6**. |
-| **Cold Resistance** | — | **L6** | Daily frost patches (scarf flinch → controlled dose); parallel to Roland **Cold L1→L6**. |
+| **Pain Resistance** | — | **L5** | Shared grill sting + tip wear + poke feedback; parallel to Roland **Pain L1→L5**. |
+| **Heat Resistance** | — | **L5** | Daily hot patches on plates/segments; parallel to Roland **Heat → L5**. |
+| **Cold Resistance** | — | **L5** | Daily frost patches (scarf flinch → controlled dose); parallel to Roland **Cold L1→L5**. |
 
 No skill evolutions. **Rapid Regeneration** (Seal evolve) stays later with Roland’s **Rapid Recovery** window (~**2 years**), not this week.
 

@@ -46,12 +46,13 @@ Trait Int/Will bonuses are flat cards. They sit in the Skills/Traits bucket with
 | Recovery | Vitality, Endurance |
 | Sound Production | Intelligence, Dexterity |
 | Echolocation | Willpower, Intelligence |
+| Breath Control | Vitality, Endurance |
 | Basic Drawing | Dexterity |
 | Identify, Analyze, Basic Mathematics, Map Reading | none listed |
 
 ### Level 2 (plain name) after Basic L9 evolve
 
-Same favored attributes as the Basic form. New skill starts at **L1**. The Ch 13 “free stat point” on evolve **is** that L1 pad (+1 × level into the favored attr), not a second bonus on top.
+Same favored attributes as the Basic form. New skill starts at **L1**. The evolve “free stat point” **is** that L1 pad (+1 × level into the favored attr), not a second bonus on top. No evolves through Ch 19.
 
 **Additive:** Basic L9 pads stay baked in. Level 2 (and Expert) pads stack on top from L1. Not a pad reset.
 
@@ -375,36 +376,38 @@ No new traits. First paid hunt. Ending: adventure / meal / rest steps (not Sourc
 
 ## Chapter 9.5
 
-Three-month Carwen grind. Goblins track Roland’s overall level. Field-use curve: `Levels.md` (Climbing anchors + `35×L` steps; technique clean-rate ~**40%**; Absorption/Reinforcement ~**70%** on mana-spend cycles). **All skills hard-cap at L9 until first T2 class.**
+Three-month Carwen grind. Goblins track Roland’s overall level. Field-use curve: `Levels.md` (**1 / 10 / 50 / 200 / 1,000 / 5,000 / 20,000 / 100,000 / 500,000**, evolve at **2,000,000**). Technique clean-rate ~**40%**. Absorption/Reinforcement ~**70%** on mana-spend pulses. Peak use accelerates the timeline (mostly narrative; he hunts and drills at the edge he can hold). **Recounted** under that curve. **No skill evolves this skip** (evolve needs **2,000,000**). Names hard-cap at **L9**.
 
 **Unlock path (prose):** outside-body mana hold → Willpower. Ambient pull → **Mana Absorption** + **Mana Regulation**. Same breath forced into blood/bone as a store → **Mana Reinforcement** (self-taught; takes longer than a book buy; same store skill as common dealer books). **Basic Dodging** unlocks month 1 when he clears clubs/spears on purpose. **Mana Arrow** sticks/pillow drills after late month-1 unlock. **Mana Shield** chalk-line circle drills after month-2 unlock. Heat / Mana Hands stay evening self-discovery drills.
 
 ### Combat end ranks (~90 days, **1,000** kills; mana cycled all day)
 
+Volume anchors (`Levels.md`): Bolt ~**1,550–2,500** finished; Arrow ~**540–800**; Shield ~**180–270**; aimed Bolt+Arrow ~**2,100+**; sword finishes ~**500** raw (~**200** clean); Dodging ~**320** clean; evening Heat/Hands light daily. Absorption/Reinforcement count small spend/refill pulses through hunt and evening ambient work (~**500,000** clean across the skip).
+
 | Skill / spell | Start (Ch 9) | Combat end | Why |
 |---|---|---|---|
-| **Mana Bolt** | L1 | **L7** | ~2300 finished casts; primary kill tool |
-| **Mana Arrow** | unlock ~end month 1 | **L5** | ~800 casts as nest opener |
-| **Mana Shield** | unlock ~month 2 | **L3** | ~270 real casts; lag behind offense |
-| **Basic Mana Shaping** | L1 | **L6** | heavy cast pool ×0.4 clean → hold **L6** under fatigue |
-| **Basic Incantation** | L1 | **L6** | same cast pool |
-| **Basic Mana Regulation** | L1 | **L7** | every drain/refill beside Absorption |
-| **Mana Absorption** | — | **L9** | constant ambient pull whenever mana is spent → L9 cap |
-| **Mana Reinforcement** | — | **L9** | held up whenever the pool is working → L9 cap |
-| **Basic One-handed Swordsmanship** | L8 | **L9 → One-Handed Swordsmanship L1** | ~740 finishes; magic-heavy but steel still evolves |
-| **Basic Sneaking** | L8 | **L9 → Sneaking L1** | daily live eyes; brush ambush; evolve |
-| **Basic Climbing** | L9 | **→ Climbing L1** | tree sits every hunt; evolve |
-| **Basic Hand to Hand** | L8 | **L9** | closes and grapples; stays Basic L9 (not in evolve set) |
-| **Basic Dodging** | — | **L6** | unlock month 1 on purposeful clear; clubs/spears/lobbed rocks |
-| **Basic Throwing** | L9 | **→ Throwing L1** | spear returns / lobbed clears; evolve |
-| **Basic Running / Sprint** | L9 | **Running L1** (Sprint stays Basic L9) | lure pulls and nest moves; Running evolves |
-| **Basic Leather Armor** | L9 | **L9** | worn every hunt; stays Basic |
-| **Marksmanship** | L7 | **L9 → Expert Marksmanship L1** | constant aimed casts; Expert pads **Dex +1 / Will +1** per level |
+| **Mana Bolt** | L1 | **L5** | ~**1,550–2,500** casts. Clears **1,000**. Short of **5,000**. |
+| **Mana Arrow** | unlock ~end month 1 | **L4** | ~**540–800**. Clears **200**. Short of **1,000**. |
+| **Mana Shield** | unlock ~month 2 | **L3** | ~**180–270**. Clears **50**. Short of **200**. |
+| **Basic Mana Shaping** | L1 | **L4** | cast pool ×0.4 clean ≈ **900**. Clears **200**. |
+| **Basic Incantation** | L1 | **L4** | same cast pool. |
+| **Basic Mana Regulation** | L1 | **L6** | continuous drain/refill beside Absorption. Clears **5,000**. |
+| **Mana Absorption** | — | **L9** | spend/refill pulses all hunt day + evening ambient → **500,000**. No evolve. |
+| **Mana Reinforcement** | — | **L9** | held up on the same cycles → **500,000**. No evolve. |
+| **Basic One-handed Swordsmanship** | L8 | **L8** | ~**200** clean finishes. L9 needs **500,000** cum. |
+| **Basic Sneaking** | L8 | **L8** | daily live eyes. Not enough for L9 / evolve. |
+| **Basic Climbing** | L9 | **L9** | tree sits every hunt. Evolve needs **2,000,000**. |
+| **Basic Hand to Hand** | L8 | **L8** | closes and grapples. |
+| **Basic Dodging** | — | **L4** | unlock month 1; ~**320** clean clears. Clears **200**. |
+| **Basic Throwing** | L9 | **L9** | spear returns / lobbed clears. No evolve. |
+| **Basic Running / Sprint** | L9 | **L9** both | lure pulls and nest moves. No evolve. |
+| **Basic Leather Armor** | L9 | **L9** | worn every hunt. |
+| **Marksmanship** | L7 | **L7** | aimed casts ~**2,100+**. L8 needs **100,000**. |
 | **Mana Sense** | L9 | **L9** | already capped |
 | **Identify / Analyze** | low | **+0–1** | occasional peeks |
-| **Heat / Mana Hands** | self L1 | Heat **L6** / Hands **L5** | evening self-discovery drills; light field use |
+| **Heat / Mana Hands** | self L1 | Heat **L5** / Hands **L5** | evening drills. Clear **1,000**. Short of **5,000**. |
 
-Month story beats stay: Month 1 ≈ Mage L11–12 + Arrow unlock; Month 2 ≈ L16–17 + Shield + nickname; Month 3 → **L20** + **Goblin Hunter** (lifetime **1000** at skip kill **#912**). Kill / coin / stone ledger: `Experience.md`.
+Month story beats stay: Month 1 ≈ Mage L11–12 + Arrow unlock; Month 2 ≈ L16–17 + Shield + nickname; Month 3 → **L20** + **Goblin Hunter** (lifetime **1000** at skip kill **#912**). Kill / coin / stone ledger: `Experience.md`. Ch 10 on-page spell menu matches this slate.
 
 ### Future to gain (not yet on sheet)
 
@@ -424,17 +427,17 @@ Spells after three months (class grants Bolt / Arrow / Shield; Heat + Mana Hands
 
 ```
 ════════ SPELLS ════════
-Mana Bolt L7         Spell
+Mana Bolt L5         Spell
 A focused bolt of mana energy that deals mana damage to one target.
 The damage done depends on the user's intelligence.
 
-Mana Arrow L5        Spell
+Mana Arrow L4        Spell
 An arrow made purely from mana. Has increased speed and penetrative power compared to the Mana Bolt spell.
 
 Mana Shield L3       Spell
 A mana shield that shields the caster or their allies from harm.
 
-Heat L6             Spell
+Heat L5             Spell
 By causing friction with mana the caster can create a small fire.
 
 Mana Hands L5        Spell
@@ -442,7 +445,7 @@ The caster moves objects with mana. Weight and range scale with Intelligence. Vi
 ════════════════════════
 ```
 
-Cast method (rewrite): chant makes the circle appear in the mind and easy to trace; mana almost guides itself while chanting (**on the move** ok). Mangled chant interrupts unless he already controls every part of the mana along the circle. Silent draw possible but so far always fails without some chant present. Even T1 circles are moderately complex. Int holds/follows the appeared circle. Spell/skill level-ups grant XP (often more than trash goblins). Absorption / Reinforcement stay up as mana is spent. **Evolves named on-page (from the skip):** Running, Climbing, Sneaking, Throwing (Basic → plain L1); Marksmanship L9 → **Expert Marksmanship L1** (Dex +level, Will +level); Swordsmanship Basic → plain L1 despite magic doing most kills. Pads are **additive** (Basic L9 stay baked + new L1). Sprint, Hand to Hand and Leather stay Basic L9. **Basic Dodging** unlocked in Ch 9.5 and ends **L6**. Still Mage L20 on first class. Plans Mana Scribe next.
+Cast method (rewrite): chant makes the circle appear in the mind and easy to trace; mana almost guides itself while chanting (**on the move** ok). Mangled chant interrupts unless he already controls every part of the mana along the circle. Silent draw possible but so far always fails without some chant present. Even T1 circles are moderately complex. Int holds/follows the appeared circle. Spell/skill level-ups grant XP (often more than trash goblins). Absorption / Reinforcement stay up as mana is spent. **No evolves this skip** (evolve bar **2,000,000**). Running / Climbing / Throwing / Sprint / Leather stay **Basic L9**. Sword / Sneaking stay **Basic L8**. Marksmanship stays **L7**. **Basic Dodging** unlocked in Ch 9.5 and ends **L4**. Still Mage L20 on first class. Plans Mana Scribe next.
 
 ### Traits
 
@@ -467,7 +470,7 @@ No new named skills. Field use:
 
 Party combat on Emerald Wilderness floor 1. Still Mage L20 band.
 
-**Trial weeks (~2 weeks, 7 more days):** Mana Shield **~+14** casts → stays **L3**. Basic Incantation stays **L6**. While waiting (butcher / travel): **Mana Hands** fiddling, **Mana Absorption**, **Mana Sense**. Sense + Absorption stay **L9** (capped). Mana Hands **L5 → L6** (~**175** waiting casts ≈ step from L5). Hands rank **~+100 XP**.
+**Trial weeks (~2 weeks, 7 more days):** Mana Shield **~+14** casts → stays **L3**. Basic Incantation stays **L4**. While waiting (butcher / travel): **Mana Hands** fiddling, **Mana Absorption**, **Mana Sense**. Sense + Absorption stay **L9** (capped). Mana Hands **L5 → L6** (~**175** waiting casts ≈ step from L5 toward **5,000**). Hands rank **~+100 XP**.
 
 ### Traits
 
@@ -480,9 +483,9 @@ Uses Mana Arrow, Mana Bolt and Identify (Needle Worm). Floor-2 cook: Needle Worm
 
 ## Chapter 13
 
-Half-year Floor-3 grind → **Mage L25**. Kill/XP/loot/pouch: `Experience.md` (**342** kills; skill XP **4,608**; pouch **~5,977 LC**).
+Half-year Floor-3 grind → **Mage L25**. Kill/XP/loot/pouch: `Experience.md` (**342** kills; skill XP **4,608**; pouch **~5,977 LC**). **No skill-name evolves** (evolve bar **2,000,000**).
 
-**Rewrite attribute pads from these ranks** (spells no attr; Calligraphy / Temperature Resistance no attr line): Sword **+3 Str**; Dodging tree **+9 Agi** (Basic **L6→L9**, **Dodging L1→L6**); Sneaking **+2 Agi**; Throwing **+2 Dex**; Incantation **+2 Int/+2 Will**; Alcohol **+3 End**; Poison **L1→L6** **+5 Vit / +5 End**; Recovery **L1→L5** **+5 Vit / +5 End**. Full sheet: `StatusBreakdown.md` / `Status.md`.
+**Rewrite attribute pads from these ranks** (spells no attr; Calligraphy / Temperature Resistance no attr line): Sword Basic **L8→L9** **+1 Str**; Dodging Basic **L4→L6** **+2 Agi** (Ch 14 **→L7** adds **+1**); Sneaking Basic **L8→L9** **+1 Agi**; Marksmanship **L7→L9** **+2 Dex**; Incantation **L4→L7** **+3 Int/+3 Will**; Shaping **L4→L6** **+4 Int/+2 Will**; Regulation **L6→L7** **+1 Int/+2 Will**; Alcohol **+3 End**; Poison **L1→L6** **+5 Vit / +5 End**; Recovery **L1→L5** **+5 Vit / +5 End**. Live chapter sheet numbers still win (`Status.md`). Full pad rebuild: `StatusBreakdown.md`.
 
 Skill ranks (enter → exit; **46** ranks × **100** XP + **8** overflow = **4,608**):
 
@@ -493,22 +496,24 @@ Skill ranks (enter → exit; **46** ranks × **100** XP + **8** overflow = **4,6
 | Basic Alcohol Resistance | **L1 → L4** |
 | Poison Resistance | **L1 → L6** (daily Ned toxin seasoning; see `Progression/Skills.md`) |
 | Recovery | unlock **L1 → L5** (daily skin poke + 150 mL bleed/knit to Ned) |
-| Mana Shield | **L3 → L6** |
+| Mana Shield | **L3 → L7** |
 | Mana Hands | **L7 → L9** |
-| Mana Arrow | **L5 → L8** |
-| Mana Bolt | **L7 → L9** |
-| Basic Incantation | **L6 → L8** |
-| Basic Dodging → Dodging | **Basic L6 → L9**, evolve, **Dodging L1 → L6** |
-| One-Handed Swordsmanship | **L1 → L4** |
-| Sneaking | **L1 → L3** |
-| Throwing | **L1 → L3** |
+| Mana Arrow | **L4 → L7** |
+| Mana Bolt | **L5 → L9** |
+| Basic Mana Shaping | **L4 → L6** |
+| Basic Mana Regulation | **L6 → L7** |
+| Basic Incantation | **L4 → L8** |
+| Basic Dodging | **L4 → L6** |
+| Basic One-handed Swordsmanship | **L8 → L9** |
+| Basic Sneaking | **L8 → L9** |
+| Marksmanship | **L7 → L9** |
+| Heat | **L5 → L6** |
 
-Ch 9.5–10 already evolved Running, Climbing, Sneaking, Throwing, Swordsmanship (Basic → plain) and Marksmanship → **Expert Marksmanship**. Evolved L1 pads are the Ch 13 “free stat” line (not an extra point). **Basic Dodging** evolves during the half-year (Additive: Basic L9 pads stay + Dodging L1…L6). Still Mage L25. Class-change crystal recovered. No class change yet. Plans lesser sharpness knife as study piece.
+Throwing / Climbing / Running / Sprint / Leather stay **Basic L9**. Still Mage L25. Class-change crystal recovered. No class change yet. Plans lesser sharpness knife as study piece.
 
 ## Chapter 14
 
-Dodging mid-chase popup (**Dodging L6→L7**; plain form after Ch 13 evolve. Source first clear of the skill name was here).
-Uses Mana Shield (screamed overcharge bubble on Reyna vs Gale Step + tip blast; holds a moment then blasts through; buys the graze), Mana Arrow and Mana Bolt in the Tier 2 fencer fight. Shortsword + dagger fail under speed; Mana Arrow chant fizzles mid-word when shoulder is pierced. **Levels:** fencer overall **L55**; girls **~45**; Roland Mage **L25**. Party kill (+479 XP). Still Mage L25. Ned evo on-page (Greater Needle Worm).
+Dodging mid-chase popup (**Basic Dodging L6→L7**; **Agi +1**). Still Basic — no evolve. Uses Mana Shield (screamed overcharge bubble on Reyna vs Gale Step + tip blast; holds a moment then blasts through; buys the graze), Mana Arrow and Mana Bolt in the Tier 2 fencer fight. Shortsword + dagger fail under speed; Mana Arrow chant fizzles mid-word when shoulder is pierced. **Levels:** fencer overall **L55**; girls **~45**; Roland Mage **L25**. Party kill (+479 XP). Still Mage L25. Ned evo on-page (Greater Needle Worm).
 
 ## Chapter 15
 
@@ -547,39 +552,42 @@ Created **Lesser Fire Orb Rune [High]** from class-trial memory (**over** 1 hour
 
 ### Train-week skill math (locked)
 
-Field-use curve (`Levels.md`): cum clean uses to reach L = **1 / 10 / 50 / 155 / 295 / 470 / 680 / 925 / 1205**. Technique skills ~**40%** clean on raw attempts. Absorption / Reinforcement already **L9**. Soft mana clicks count near **100%** clean (deliberate pulse). Resistance exposures are dose-gated (repeats of the same burn/frost still count but slow after the first days).
+Field-use curve (`Levels.md`): cum clean uses to reach L = **1 / 10 / 50 / 200 / 1,000 / 5,000 / 20,000 / 100,000 / 500,000**. Evolve at **2,000,000**, when the ability surpasses itself. Peak use (regen ceiling, real blister/frost, longest holds he can keep) accelerates the week; mostly narrative on top of the counts. Technique skills ~**40%** clean on raw attempts. Soft mana clicks count near **100%** clean (deliberate pulse). Resistance exposures are dose-gated (repeats of the same burn/frost still count but slow after the first days). Absorption / Reinforcement / Hands / Sense already **L9**.
 
 **Mana rule:** practice at the **regen ceiling**. Keep the pool near **~99%** (max ambient pull). Soft cabin clicks barely spend, so the grill soaks the surplus: hotter / colder / denser patches and longer holds until draw matches Regulation refill. Potion when Recovery lags so he does not idle on unused regen. Seated Regulation L7 band ≈ **empty→full in a few hours** (~**13–16 mana/min** on his Ch 19 pool).
 
-**Schedule:** **both drills every day** for the full ~**7 days**, overlapped for Multitasking. About **3–4 h** dual drill blocks around eat/rest (sound never fully off while the grid runs).
+**Schedule:** **both drills every day** for the full ~**7 days**, overlapped for Multitasking. About **3–4 h** dual drill blocks around eat/rest (~**3.5 h**/day used below).
 
-**Sound pace:** dense locate spam under the same blocks → well past L9 pulse counts (cap).
+**Sound pace:** **one click every ~4 seconds** during the dual blocks. Time between clicks is for mapping the cabin and for the grill / needle / breath work. ~**22,000** clicks over the week (**3.5 × 3600 × 7 / 4**). That clears **L7** (**20,000**). Not **L8** (**100,000**). No evolve (**2,000,000**).
 
-**Thermal pace (regen-capped + Recovery):** enter Rec **L5**. Cycle time pressed toward the mana period with potion assist when flesh lags (roughly **~1–1.5 min/cycle** early, faster as Recovery climbs). Harder per-cycle trauma than the old gentle grid. ~**1240** burn/frost/knit cycles over the week (day path roughly **146 → 156 → 165 → 187 → 192 → 199 → 199**).
+**Breath pace:** holds between grill sets. **1 minute** held = **1** clean use (`SkillsDesign.md`). Grill sting time across ~**1,240** cycles lands about **1,000+** minutes held → exit **L5**. **L6** needs **5,000** minutes (~**83 h**). Not smoke or vog.
 
-**Ned assist:** shallow intentional nibble / tip-poke on forearm or hand between grill squares (toxin prick). **Needle-catch drill:** Ned short-launches a spent/regrown tip at Roland; Roland eyes shut, locates on soft clicks only, catches, feeds the needle back into Ned’s mouth (spider-web recycle). Misses sting and count for Pain / Recovery / Poison. Same Needle Worm toxin family (soft repeat credit). Blood is **Roland’s**: usual drip plus **extra** from pokes/misses, paid out of rising Recovery restore (not free). **Ned shared Trauma lock:** on-page scarf cold near-miss + tip wear; exit Spike **L7**, Stealth **L7**, Climbing **L7**, Seal **L5→L9**, Pain **L8**, Heat **L6**, Cold **L6** (`NedStatus.md`).
+**Thermal pace (regen-capped + Recovery):** enter Rec **L5**. Cycle time pressed toward the mana period with potion assist when flesh lags (roughly **~1–1.5 min/cycle**). ~**1,240** burn/frost/knit cycles over the week (day path roughly **146 → 156 → 165 → 187 → 192 → 199 → 199**). From a fresh L5 bar that is **+1,240** toward L6 (**5,000** cum). Exit Recovery still **L5**. Heat / Cold / Pain resistances from the same pool clear **L5** (**1,000**) and stop short of **L6** (**5,000**).
+
+**Ned assist:** shallow intentional nibble / tip-poke on forearm or hand between grill squares (toxin prick). **Needle-catch drill:** Ned short-launches a spent/regrown tip at Roland; Roland eyes shut, locates on the spaced clicks, catches, feeds the needle back into Ned’s mouth (spider-web recycle). Misses sting and count for Pain / Recovery / Poison. Same Needle Worm toxin family (soft repeat credit). Blood is **Roland’s**: usual drip plus **extra** from pokes/misses, paid out of Recovery restore (not free). **Ned shared Trauma lock:** on-page scarf cold near-miss + tip wear; exit Spike **L7**, Stealth **L7**, Climbing **L7**, Seal **L5**, Pain **L5**, Heat **L5**, Cold **L5** (`NedStatus.md`).
 
 | Skill | Enter | Exit | Why |
 |---|---|---|---|
-| **Sound Production** | — | **L9** | Pulse spam past the L9 technique cap (evolve later). |
-| **Echolocation** | — | **L9** | Cabin map plus **live needle-in-flight** catches eyes shut clears the fight-quality gate. |
-| **Multitasking** | **L1** | **L8** | Clicks + locate + catch/return + Ned poke **and** regen-capped grill. Clears L8 (925). |
-| **Throwing** | **L1** | **L2** | Catch-and-return hand work on tips (small climb off plain Throwing). |
-| **Basic Mana Shaping** | **L6** | **L9** | Remote clicks + fine heat/cold grids daily. |
-| **Basic Mana Regulation** | **L7** | **L9** | Continuous ceiling draw/refill all week (~70% clean). |
+| **Sound Production** | — | **L7** | ~**22,000** spaced clicks. Clears **20,000**. |
+| **Echolocation** | — | **L7** | Same clicks + Ned locate + needle-in-flight. No evolve. |
+| **Multitasking** | **L1** | **L5** | Dual-focus minutes across the week (~**1,470**). Clears **1,000**. |
+| **Basic Throwing** | **L9** | **L9** | Catch-and-return on tips. Already Basic-capped. No evolve. |
+| **Basic Mana Shaping** | **L6** | **L7** | Remote clicks + fine heat/cold grids (~**22,000**). Clears **20,000**. |
+| **Basic Mana Regulation** | **L7** | **L7** | Ceiling draw all week. L8 needs **100,000**. |
 | **Mana Hands** | **L9** | **L9** | Cap. |
 | **Mana Absorption** | **L9** | **L9** | Cap. |
 | **Mana Reinforcement** | **L9** | **L9** | Cap. |
 | **Basic Incantation** | **L8** | **L8** | Almost no chanting. |
 | **Mana Sense** | **L9** | **L9** | Cap. |
-| **Heat** (heat production) | **L6** | **L9** | Hot patches every day at regen-soaking intensity. |
-| **Heat Resistance** | — | **L6** | Harder real burns daily; dose-gates after early days → **L6**. |
-| **Cold Resistance** | **L1** | **L6** | Inn L1 + daily frost half at the same intensity → **L6**. |
-| **Pain Resistance** | **L1** | **L8** | Grill sting + Ned tip pricks + missed launches → **L8**. |
-| **Poison Resistance** | **L6** | **L7** | Daily shallow Ned toxin on pricks/misses; same family soft credit → **L7**. |
-| **Recovery** | **L5** | **L9** | Universal blood+wound knit each cycle (+ potion when lagging). L5→L9 = **910** clean; ~75% of ~1240 covers it (**10×** exit rate). **No evolve on the train.** **Rapid Recovery** waits for the next ~**2 years** of mixed trauma. |
+| **Heat** (heat production) | **L6** | **L6** | ~**1,240** hot patches. L7 needs **20,000**. |
+| **Heat Resistance** | — | **L5** | Real burns daily. Clears **1,000**. Short of **5,000**. |
+| **Cold Resistance** | **L1** | **L5** | Inn L1 + daily frost half. Same pool. |
+| **Pain Resistance** | **L1** | **L5** | Grill sting + Ned tip pricks + missed launches. |
+| **Poison Resistance** | **L6** | **L6** | Daily shallow Ned toxin. Soft repeat. L7 needs **20,000**. Poison is one skill. |
+| **Breath Control** | — | **L5** | ~**1,000+** minutes held. L6 needs **5,000**. |
+| **Recovery** | **L5** | **L5** | ~**1,240** knit cycles. L6 needs **5,000** cum. **No evolve.** |
 
-**Attr pads from this week only** (exit − enter): Sound Prod **+9 Int / +9 Dex**; Echo **+9 Will / +9 Int**; Multitask **+7 Int / +7 Dex**; Throwing **+1 Dex**; Shaping **+6 Int / +3 Will** (Int-heavy ×3 levels); Regulation **+2 Int / +4 Will**; Heat none (spell); Heat Resistance **+6 Vit / +6 End**; Cold **+5 Vit / +5 End**; Pain **+7 Will / +7 End**; Poison **+1 Vit / +1 End**; Recovery **+4 Vit / +4 End**.
+**Attr pads from this week only** (exit − enter): Sound Prod **+7 Int / +7 Dex**; Echo **+7 Will / +7 Int**; Multitask **+4 Int / +4 Dex**; Throwing none (already Basic L9); Shaping **+2 Int / +1 Will** (Int-heavy ×1 level); Regulation none; Heat none (spell); Heat Resistance **+5 Vit / +5 End**; Cold **+4 Vit / +4 End**; Pain **+4 Will / +4 End**; Poison none; Breath Control **+5 Vit / +5 End**; Recovery none.
 
 **Sheet note:** fold these into the Ch 19 rewrite when the live L26 Scribe sheet is retconned; do not invent a second full status screen on the train.
 

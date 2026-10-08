@@ -266,6 +266,22 @@ Dungeon rat on the entrance test is **full solo** (party test); not in the day-4
 
 Personal stone bank unchanged: **220** rice + **8** leader.
 
+## Wallet path (Ch 13 → Ch 19)
+
+| Step | LC | Notes |
+|---|---:|---|
+| `"*Not bad.*"` (end Ch 13) | **5,977** | Half-year pouch |
+| Watcher haul equal share (Ch 17) | **+5,000** | **+5 SG** on top of own savings |
+| After watcher share | **10,977** | |
+| Kit / consumable sales and leftover share trims (Ch 14–17) | **+~664** | Brings personal to enter-gift figure |
+| Personal before parting | **11,641** | Own pouch into Ch 18 farewell |
+| Parting gift (Ch 18) | **+10,000** | **+10 SG** in party spatial bag |
+| **Enter Ch 19** | **21,641** | Personal **11,641** + gift **10 SG** |
+| Solaria tip | **−10** | **1 SS** |
+| Guild city map (Steel **5%** of **2 SS**) | **−19** | |
+| Singing Crow room | **−14** | |
+| **After Crow night** | **21,598** | |
+
 ## Ch 14 watcher kill (people XP)
 
 **People formula:** `50 × overall level`. Fencer locked **L55** → pool **2750**.
@@ -275,7 +291,7 @@ Personal stone bank unchanged: **220** rice + **8** leader.
 | Roland (active mage share) | **479** |
 | Party / Ned / remainder | rest of **2750** |
 
-Roland still **Mage L25** (cap; **+479** banks toward class change). **Ned** takes enough of the people pool to tip overall **25→26** → **Greater Needle Worm** (**4x**). Sheet: `NedStatus.md`. Skill: **Dodging L6→L7** mid-chase (**Agi +1**; SP **866→869**).
+Roland still **Mage L25** (cap; **+479** banks toward class change). **Ned** takes enough of the people pool to tip overall **25→26** → **Greater Needle Worm** (**4x**). Sheet: `NedStatus.md`. Skill: **Basic Dodging L6→L7** mid-chase (**Agi +1**; SP **956→959**).
 
 ## Ch 15 Detonation schematic
 

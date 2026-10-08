@@ -115,7 +115,7 @@ The shades must be one-way. Real optical isolators use Faraday rotation in a mag
 
 ### Seismic sense
 
-- Vibration through rock moves 3,000 to 6,000 m/s, 10 to 15x faster than sound in air.
+- Vibration through rock moves 3,000 to 6,000 m/s, 10 to 15x faster than sound in air. Loose soil can be slower than air. Full table (air, water, soil, rock): `../World/Science/Energy/Sound.md`.
 - Elephants, scorpions and sand vipers hunt this way. A heavy fast warrior pounding stone is a seismic event.
 - Best passive sense for ground combat. Useless against fliers.
 

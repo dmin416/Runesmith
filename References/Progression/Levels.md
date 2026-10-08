@@ -283,31 +283,35 @@ Chapter 7: Roland thinks Basics stop at L9 from **class restrictions**. Rewrite 
 
 ### Practice thresholds (Chapter 4 Climbing test)
 
-Roland’s Climbing grind on one tree: **L1** on first success, **L2** after about **10** repeats, **L3** after about **50**. He reads this as an achievement curve (each rank needs more clean reps). Exact counts vary by skill and conditions (taller tree, real opponents).
+Roland’s Climbing grind on one tree: **L1** on the first success, **L2** after about **10** repeats, **L3** after about **50**. He reads this as an achievement curve (each rank needs more clean reps). Exact counts vary by skill and conditions (taller tree, real opponents).
 
-### Field-use curve (locked for Ch 9.5 combat math)
+### Field-use curve
 
-Extend the Climbing anchors with a steady climb after L3. Counts are **cumulative clean uses** to *reach* that level (not XP).
+Counts are **cumulative clean uses** to *reach* that level (not XP).
 
-| Reach | Cum clean uses | Step from prior |
+| Reach | Cum clean uses | From the rank before |
 |---|---|---|
 | L1 | **1** | first success |
-| L2 | **10** | +9 |
-| L3 | **50** | +40 |
-| L4 | **155** | +105 (= 35×3) |
-| L5 | **295** | +140 (= 35×4) |
-| L6 | **470** | +175 (= 35×5) |
-| L7 | **680** | +210 (= 35×6) |
-| L8 | **925** | +245 (= 35×7) |
-| L9 | **1205** | +280 (= 35×8) |
+| L2 | **10** | ×10 |
+| L3 | **50** | ×5 |
+| L4 | **200** | ×4 |
+| L5 | **1,000** | ×5 |
+| L6 | **5,000** | ×5 |
+| L7 | **20,000** | ×4 |
+| L8 | **100,000** | ×5 |
+| L9 | **500,000** | ×5 |
+| Evolve | **2,000,000** | ×4 |
 
-After L3: `reps_to_next(L) = 35 × L` where L is the level you are leaving.
+The name hard-caps at **L9**. It evolves at **2,000,000** clean uses, when the ability surpasses itself. The next form starts at **L1**. No L10 on the same name.
+
+**Peak use (narrative):** working the ability at its current peak (hardest clean cast, longest hold, sharpest clear, densest absorb loop he can sustain) accelerates how fast the bar moves. Soft or lazy reps still count when clean, but climb slower in the story. This is mostly narrative pacing, not a second formula on top of the cum-use table.
 
 **What counts**
 - **Spells:** every finished cast (chant completes, spell leaves the hand).
+- **Breath Control:** **1 minute** of breath held = **1** clean use. Partial minutes add up. Long holds count by their length, not by hold count.
 - **Technique skills** (Shaping, Incantation, Sword, Sneak, etc.): only **clean** reps. Misses, panics and interrupted casts do not. Field rule of thumb: about **40%** of raw attempts are clean.
 - **Mana Absorption / Mana Reinforcement:** every time the pool is spent down and topped back up. Cast → drain → absorb refill and reinforce hold count as uses. These run **constantly in combat** as mana is used, not only in town meditation. Clean-rate is higher than attack technique (~**70%**) because the loop is deliberate.
-- **Already high Basics (L8–L9):** do not restart the table at 0. Only the step to the next rank (or evolve) counts. Opponent/variety gates still apply (`Progression.md`: H2H / Sword / Sneak need real field work for the last tick / evolve). Hard cap remains **L9** on every skill name; next step is evolve.
+- **Already high Basics (L8–L9):** do not restart the table at 0. Only the step to the next rank counts. The evolve is the **2,000,000** bar, not the moment the card first reads L9. Opponent/variety gates still apply (`Progression.md`: H2H / Sword / Sneak need real field work for the last tick / evolve). Hard cap remains **L9** on every skill name.
 - **Evening utility** (Heat cook-pot, Mana Hands mug lifts) can add uses outside the forest. Absorption / Reinforcement do **not** need a town-only track; hunts already cycle them hard.
 
 ### Ch 9.5 combat volume (locked)
@@ -316,9 +320,9 @@ After L3: `reps_to_next(L) = 35 × L` where L is the level you are leaving.
 
 Class need L4→L20 from enter bar **118 / 2000** ≈ **91,882 XP**. Kill XP uses live `50 × L × RaceMult` (common goblin **1.0**). Mix of L2–L5 trash plus the **8** L27 ambushes; spell/skill rank-ups fill the rest of the bar. Old Source **1,481** kills / ~**53** XP pacing is quarantined.
 
-Raw combat actions (order-of-magnitude, scaled to **1,000** kills): Mana Bolt ~**1,550** casts, Mana Arrow ~**540** (from late month 1), Mana Shield ~**180** (from month 2), short-sword finishes ~**500**, aimed shots (Bolt+Arrow) ~**2,100**, Basic Dodging clears ~**320** clean (clubs/spears/rocks; unlock month 1 → **L6**). Absorption / Reinforcement cycles track mana spend across that volume → both hit **L9**.
+Raw combat actions (order-of-magnitude, scaled to **1,000** kills): Mana Bolt ~**1,550–2,500** casts, Mana Arrow ~**540–800** (from late month 1), Mana Shield ~**180–270** (from month 2), short-sword finishes ~**500** raw, aimed shots (Bolt+Arrow) ~**2,100+**, Basic Dodging clears ~**320** clean (clubs/spears/rocks; unlock month 1). Absorption / Reinforcement also count small spend/refill pulses through hunt and evening ambient work (~**500,000** clean across the skip) → both hit **L9**. No skill name evolves this skip (**2,000,000** bar).
 
-Apply the curve → end ranks in `../../Story/Notes/Skills.md` Chapter 9.5. Skill names hard-cap at **L9**, then evolve.
+Apply the curve → end ranks in `../../Story/Notes/Skills.md` Chapter 9.5.
 
 ### Pre-ascension unlock rules (Chapter 4)
 
@@ -387,6 +391,8 @@ Favored attributes for skills Roland trains in Chapters 4–7. Same +1 × level 
 | Recovery | Vitality +1, Endurance +1 |
 | Sound Production | Intelligence +1, Dexterity +1 |
 | Echolocation | Willpower +1, Intelligence +1 |
+| Vibration Sense | Willpower +1, Intelligence +1 |
+| Breath Control | Vitality +1, Endurance +1 |
 | Identify | none |
 
 **Level 2 (plain name) map** after Basic L9 evolve. Same favored attributes as the Basic form. New skill starts at L1. That L1 pad is the evolve “free stat” (Sneaking→Agi, Swordsmanship→Str, Running→End, Climbing→Str/Agi, Throwing→Dex, Marksmanship→Dex, Drawing→Dex). No extra point beyond +1 × level.
@@ -401,7 +407,7 @@ Favored attributes for skills Roland trains in Chapters 4–7. Same +1 × level 
 
 **Level 3 example (locked):** Expert Marksmanship → Dexterity +1, Willpower +1 per level (evolve from Marksmanship; Marksmanship itself was Dex-only).
 
-Sprint, Hand to Hand and Leather stay on Basic forms until they evolve. **Dodging** evolves Basic → plain during Ch 13 Floor-3 work.
+Sprint, Hand to Hand and Leather stay on Basic forms until they evolve. **Basic Dodging** climbs Ch 9.5 **L4** → Ch 13 **L6** → Ch 14 **L7**. No evolve through Ch 19 (**2,000,000** bar).
 
 **Evolve pads are additive, not subtractive.** On evolve, the Basic form’s attribute bonuses stay baked in (permanent). The new skill starts at L1 and adds its own +level line on top. Example: Basic Climbing L9 (Str +9, Agi +9) → Climbing L1 adds Str +1, Agi +1 → Climbing tree contributes Str +10, Agi +10 at evolve.
 
