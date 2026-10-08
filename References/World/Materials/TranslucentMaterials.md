@@ -75,7 +75,7 @@ For use in oscillators the crystal must be sliced at an exact angle to its inter
 
 ## 3. Diamond
 
-**What it is:** Pure carbon in a cubic lattice where every atom bonds to four neighbors. Mohs 10. Best thermal conductor of any bulk material. Graphite is the same element in a soft black layered form.
+**What it is:** Pure carbon in a cubic lattice where every atom bonds to four neighbors. Mohs 10. Best thermal conductor of any bulk material. Graphite is the same element in a soft black layered form. Fantasy hard insulating heat conductor built on this: `MaterialConsiderations.md`.
 
 ### Applications
 - Cutting, drilling, grinding and polishing tools.

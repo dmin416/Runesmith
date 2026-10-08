@@ -328,7 +328,7 @@ Separate from Fe conversion. Own black ore line. Unrefined / refined grades as b
 
 ## Inspirational physical numbers (NOT LOCKED)
 
-> **Big note — inspirational only.** Tables below are Earth-anchored planning feel for scenes that need a digit. They are **not** rewrite locks. Locked law stays in the sections above (conversion lines, cook order, mana roles, adamantium cast-final / heat / sound weakness, vanadium–durium link). Prefer locked text on conflict. Promote a row into a lock only when a beat needs that number.
+> **Big note — inspirational only.** Tables below are Earth-anchored planning feel for scenes that need a digit. They are **not** rewrite locks. Locked law stays in the sections above (conversion lines, cook order, mana roles, adamantium cast-final / heat / sound weakness, vanadium–durium link). Prefer locked text on conflict. Promote a row into a lock only when a beat needs that number. Later invent stocks (perfectly rigid stock, mana nitinol, diamond-class heat sinks): `MaterialConsiderations.md`. Perfect-material motors: `../Science/Energy/ElectricMotors.md`.
 
 ### Mundane baselines (Earth, room temp, annealed unless noted)
 

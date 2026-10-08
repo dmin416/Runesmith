@@ -1,6 +1,6 @@
 # Indestructible Flywheel Storage (Rim-Weighted)
 
-Hub: `../Science.md`. Pair handling / generator bottleneck: `Generators.md`. Laser / light / load runtimes: `FlywheelApplications.md`. Pinch launch: `Projectiles.md`. Recoil: `Kinetic.md`. Indestructible stock: `../../Materials/Metals.md` (adamantium: **no stretch, no bend**).
+Hub: `../Science.md`. Pair handling / generator bottleneck: `Generators.md`. Laser / light / load runtimes: `FlywheelApplications.md`. Pinch launch: `Projectiles.md`. Recoil: `Kinetic.md`. Indestructible stock: `../../Materials/Metals.md` (adamantium: **no stretch, no bend**). Perfect-conductor / perfect-insulator speed ceiling and mana-per-kg table: `ElectricMotors.md`. Stocks: `../../Materials/MaterialConsiderations.md`.
 
 Fiction baseline: perfect counter-rotating pair, zero-friction bearings, hard vacuum, superconducting cryogenic motor/generator (silver/gold conductors), magnetic levitation in normal operation.
 
@@ -161,6 +161,14 @@ Need density ≳ 15.3 g/cm³ to stay under ~0.69 m stability width (≲ 0.87× d
 Mass gain / wheel: ~12.5 kg at 0.1c; ~1,965 kg at 0.9c (pair effective ~13.9 t). Floor load ~5 t/m² at rest → ~7 t/m² at 0.9c on 2 m².
 
 One fire from rest (pair): campfire ~253 m/s; backyard ~1.1 km/s; festival ~11.3 km/s rim.
+
+## Perfect windings (design loot)
+
+Not a second wheel geometry. Speed caps and the mana-per-kg table: `ElectricMotors.md`.
+
+- **Build:** Indestructible rotor plus perfect windings.
+- **Purpose:** Energy storage.
+- **Motor and generator in one:** A perfect motor is also a perfect generator, since the same machine runs both ways. Spin it up to store energy, draw it down to release it, with almost nothing lost in either direction.
 
 ## Open
 

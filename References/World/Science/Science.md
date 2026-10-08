@@ -56,6 +56,7 @@ Earth-physics and craft anchors. Cast / mana law hub: `../../Runes/Energy.md`. M
 | `Energy/Batteries.md` | Chemical cells vs mana stones |
 | `Energy/RefinedMana.md` | Stillwire / Lightthread from stones |
 | `Energy/FanAirflow.md` | Fan φ/ψ power |
+| `Energy/QuietBlowDryer.md` | Quiet dryer design: heat cost vs airflow, silk wrap, rigid shell |
 | `Energy/Compression.md` | Fire Piston, Frost, air cartridge |
 | `Energy/CloakAirCooling.md` | Compress-expand cloak (forgoes for cold rune) |
 | `Energy/Flight.md` | Hover / lift power |
@@ -70,7 +71,7 @@ Earth-physics and craft anchors. Cast / mana law hub: `../../Runes/Energy.md`. M
 | `Energy/Engines.md` | Which prime mover: steam, Stirling, or electric motor |
 | `Energy/SteamEngines.md` | Reciprocating and turbine steam; boilers; efficiencies |
 | `Energy/StirlingEngines.md` | Closed-cycle external heat; alpha / beta / gamma; regenerator |
-| `Energy/ElectricMotors.md` | DC, AC, reluctance, linear, and special motor types. Ceiling: air-core mythril axial flux in an adamantium cage |
+| `Energy/ElectricMotors.md` | DC, AC, reluctance, linear, and special motor types. Ceiling: air-core mythril axial flux in an adamantium cage. Perfect-material speed ceiling at the end |
 | `Energy/Generators.md` | Faraday generators; paired flywheels; cryogenic / relativistic drain bottleneck |
 | `Energy/FlywheelStorage.md` | Rim-weighted indestructible flywheel sizes; 0.1c / 0.9c; solid-drum pack |
 | `Energy/FlywheelApplications.md` | Lossless crystal laser / lighting / loads from flywheel sets; air ceilings |

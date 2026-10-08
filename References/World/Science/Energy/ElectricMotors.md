@@ -223,3 +223,81 @@ What still limits it:
 5. Brushless, stepper, and switched-reluctance drives only after there is a way to switch current faster than a mechanical commutator, whether that way is electronic or runic.
 
 Speed is still `120 × frequency / poles` for every synchronous and, approximately, every induction motor. Changing speed on those machines means changing frequency, changing pole count with a second winding, or putting gears in the drive. A DC armature voltage is the easier knob until inverters exist.
+
+## Perfect-material ceiling (design loot)
+
+Not a lock. Stocks: `../../Materials/MaterialConsiderations.md` (perfect conductor of normal strength, perfect indestructible insulator). Wheel sizes: `FlywheelStorage.md`. The mythril-and-adamantium ceiling above is the buildable machine. This section is what changes if the rotor is a perfect insulator and the windings are a perfect conductor.
+
+A motor built from a perfect electrical conductor (normal rigidity and destructibility) and a perfect insulator (indestructible).
+
+### Short Answer
+
+Not capped at low speed. The usual cap is material strength, and an indestructible rotor removes it. What remains is energy supply, air drag and the speed of light itself. In principle the motor can reach a few percent of light speed, but the energy needed is enormous.
+
+### What Normally Caps a Motor
+
+- **Rotor stress:** Spinning material pulls itself apart. Stress grows with the square of rim speed. Steel rotors fail around 500 to 600 m/s at the rim and the best real carbon fiber flywheels around 1,000 to 1,500 m/s.
+- **Electrical losses:** Resistance in the windings turns current into heat.
+- **Voltage breakdown:** Faster rotors generate higher voltages until insulation fails and arcs.
+- **Bearing friction:** Bearings wear and heat up at high speed.
+
+### What These Materials Remove
+
+- **Indestructible insulator rotor:** Removes the stress limit entirely. It never flies apart.
+- **Perfect insulator:** Removes voltage breakdown. No voltage arcs through it.
+- **Perfect conductor:** Removes resistive losses. Current flows with no heat.
+- **Perfect conductor bearings:** Superconductors repel magnetic fields and can levitate a rotor with zero contact and zero friction.
+- **Canon fit:** Refined mana stone can already become superconducting material (`RefinedMana.md`, `Generators.md`).
+
+### What Still Caps It
+
+#### Energy
+
+Kinetic energy explodes with speed. Canon rate: 1 mana = 10 J.
+
+| Rim Speed | Energy per kg | TNT Equivalent per kg | Mana per kg |
+|---|---|---|---|
+| 1 km/s | 500,000 J | ~0.12 kg | 50,000 |
+| 10 km/s | 50 million J | ~12 kg | 5 million |
+| 100 km/s | 5 billion J | ~1.2 tons | 500 million |
+| 1% light speed | 4.5 trillion J | ~1 kiloton | 450 billion |
+| 10% light speed | 450 trillion J | ~107 kilotons | 45 trillion |
+
+A fledgling mage holds about 200 mana. Even 10 km/s takes the full pools of tens of thousands of fledgling mages per kilogram of rotor.
+
+#### The Conductor
+
+- A normal-strength conductor on the rotor gets crushed by its own spin long before relativistic speeds.
+- **Fix:** Keep the conductor on the stationary part of the motor and make the spinning part entirely from the indestructible insulator. Or seal the conductor inside an indestructible shell, where it gets pressed flat like a liquid but keeps conducting.
+
+#### Drag
+
+- In air, the rim superheats the air into plasma well before relativistic speeds.
+- **Fix:** The rotor has to spin inside a sealed vacuum chamber.
+
+#### Light Speed
+
+- Nothing reaches light speed. Each step closer costs more energy than the last.
+- A perfectly rigid rotor also conflicts with relativity, since a push would cross it instantly.
+
+#### Control
+
+- A 10 cm rotor at 10% light speed spins about 48 million times per second. Driving it needs radio-frequency switching far beyond steam-age technology.
+
+### Hazards
+
+- **Stored energy:** A high-speed rotor holds bomb-level energy. If any non-indestructible part fails, the release is catastrophic.
+- **Gyroscopic lock:** A fast rotor resists being turned. Mounted in a vehicle, it fights every turn. Counter-rotating pairs cancel this.
+- **Radiation:** Electric charges moving at near-light speed in a circle give off radiation.
+
+### Realistic Tiers
+
+| Tier | Rim Speed | Feasibility |
+|---|---|---|
+| Practical | 1 to 10 km/s | Achievable. Already far beyond any real motor. Excellent flywheel energy storage. |
+| Extreme | 10 to 100 km/s | Possible with kingdom-scale mana and a perfect vacuum. Strategic weapon or power plant scale. |
+| Relativistic | 1% to 10% light speed | Possible in principle. Needs city-destroying energy and perfect containment. |
+
+### Best Fit for the World
+
+The practical tier is the sweet spot. An indestructible rotor spinning at a few km/s in vacuum on superconducting bearings stores huge energy with almost no loss. That makes it ideal for vehicles, airships and power storage, fitting the existing adamantium flywheel concept (`FlywheelStorage.md`).

@@ -1,6 +1,6 @@
 # Sound
 
-Hub: `../Science.md`. Bands / ozone: `Waves.md`. Cast law: `ManaCast.md`. Skills cap **L9**. Mana = J / (10 × η × μ); Mana/s = P / (10 × η × μ).
+Hub: `../Science.md`. Bands / ozone: `Waves.md`. Cast law: `ManaCast.md`. Skills cap **L9**. Mana = J / (10 × η × μ); Mana/s = P / (10 × η × μ). Ultrasonic dryer tone vs echolocation: `QuietBlowDryer.md`.
 
 ## Power equations
 

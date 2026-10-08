@@ -10,13 +10,14 @@ Stones, cast tables, batteries, engines, motors, fans, pumps, compression, fligh
 - [CloakAirCooling.md](CloakAirCooling.md). Compress-expand cloak (forgoes for cold rune)
 - [Compression.md](Compression.md). Fire Piston, Frost, air cartridge
 - [FanAirflow.md](FanAirflow.md). Fan φ/ψ power
+- [QuietBlowDryer.md](QuietBlowDryer.md). Design loot. Heat is the mana hog; quiet slow blower, silk wrap, heat recapture. Rigid shell: ../../Materials/MaterialConsiderations.md
 - [Flight.md](Flight.md). Hover / lift power
 - [FlywheelApplications.md](FlywheelApplications.md). Lossless crystal laser / lighting / loads from flywheel sets; air ceilings
-- [FlywheelStorage.md](FlywheelStorage.md). Rim-weighted indestructible flywheel sizes; 0.1c / 0.9c; solid-drum pack
+- [FlywheelStorage.md](FlywheelStorage.md). Rim-weighted indestructible flywheel sizes; 0.1c / 0.9c; solid-drum pack. Perfect-winding storage note. Speed ceiling: ElectricMotors.md
 - [Engines.md](Engines.md). Which prime mover: steam, Stirling, or electric motor
 - [SteamEngines.md](SteamEngines.md). Reciprocating and turbine steam; boilers; efficiencies
 - [StirlingEngines.md](StirlingEngines.md). Closed-cycle external heat; alpha / beta / gamma; regenerator
-- [ElectricMotors.md](ElectricMotors.md). DC, AC, reluctance, linear, and special motor types. Ceiling: air-core mythril axial flux in an adamantium cage
+- [ElectricMotors.md](ElectricMotors.md). DC, AC, reluctance, linear, and special motor types. Ceiling: air-core mythril axial flux in an adamantium cage. Design-loot perfect-insulator rotor and mana-per-kg table at the end
 - [Generators.md](Generators.md). Faraday generators; paired flywheels; cryogenic / relativistic drain bottleneck
 - [GuidedProjectiles.md](GuidedProjectiles.md). Guided munitions, mechanical vs computer guidance, turn-radius limits
 - [GunpowderFirearms.md](GunpowderFirearms.md). Medieval / Victorian powder chemistry and raw materials

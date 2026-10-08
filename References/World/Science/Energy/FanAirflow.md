@@ -1,6 +1,6 @@
 # Fan Airflow
 
-Order-of-magnitude fan sizing for bellows, hoods, cloak blowers and magitech air movers. Air density at room temp: **ρ ≈ 1.2 kg/m³**. Mana paying shaft work: `../../../Runes/Energy.md`, `ManaCast.md`.
+Order-of-magnitude fan sizing for bellows, hoods, cloak blowers and magitech air movers. Quiet dryer (heat vs fan mana, slow blower): `QuietBlowDryer.md`. Air density at room temp: **ρ ≈ 1.2 kg/m³**. Mana paying shaft work: `../../../Runes/Energy.md`, `ManaCast.md`.
 
 ## Narrative
 
