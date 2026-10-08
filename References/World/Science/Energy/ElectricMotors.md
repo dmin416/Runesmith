@@ -180,7 +180,39 @@ Electrostatic motors need either tiny gaps (insect mechanisms, MEMS) or voltages
 
 Windings are copper. Silver is a small conductivity win and a bad shop habit (`Generators.md`). Aluminum is lighter and worse per cross-section. Insulation is varnish, silk, cotton, and later enamel. Without insulation the coil is one shorted turn and makes heat instead of field.
 
-Mythril superconducting windings remove copper loss on a DC field and raise the field a compact coil can hold. They still quench above a critical current, and the frame still has to hold the magnetic pressure. They do not remove the need for laminations in an armature that sees a changing field, and they do not replace a commutator by themselves.
+Mythril superconducting windings remove copper loss on a DC field and raise the field a compact coil can hold. They still quench above a critical current, and the frame still has to hold the magnetic pressure. Dropped into an ordinary iron machine they still want laminations wherever the field changes, and they still want a commutator or a rune switch. The ceiling layout below is the machine those limits actually build.
+
+## Ceiling machine (mythril discs, adamantium cage)
+
+Assumes a smith who can cast the geometry he wants. Windings are room-temperature mythril (`Generators.md`, `../../../Materials/Metals.md`). Structure is adamantium: cast-final, no bend after set, indestructible under the magnetic load, and still an electrical conductor.
+
+The machine is an **air-core axial-flux synchronous motor**. A stack of cast discs. Persistent mythril field on the rotor. Mythril stator coils stepped so each one carries steady current between switches. Adamantium spokes hold the stack. No iron, no brushes, no cooling plant.
+
+Adamantium casts as discs, rings, and spokes. It will not be bent later into a squirrel cage or a wound cylinder. Axial flux is that shape: the field crosses a short gap from one disc to the next, which is also the highest torque a given field can make.
+
+Iron stays out. It saturates near 2 T and after that only adds weight. A mythril coil is not held to that ceiling. The field rises until the winding hits its critical current. Gear-grade mythril still has that **Jc**, and a quench still dumps the stored field as heat. The digit is unset. What the frame changes is that the coil is not the part that bursts on the way there.
+
+Magnetic pressure is `B² / (2 μ0)`.
+
+| Field | Pressure on the winding |
+|---|---|
+| 2 T | about 16 bar |
+| 10 T | about 400 bar |
+| 20 T | about 1,600 bar |
+| 50 T | about 10,000 bar |
+
+Adamantium takes that load. It is the wrong metal for the winding. It conducts, so a solid shell around a changing field is a shorted turn and a brake that cannot melt. Cast the cage as open spokes and teeth, electrically broken, so it carries torque and pressure without linking the flux.
+
+The rotor is a closed mythril loop, charged once, then left shorted. The current persists with no supply. Flux pinning holds it, so the rotor is a permanent magnet that does not fade, stronger than lodestone or a neodymium grade. Meissner bearings, the same effect, hold the shaft with no contact. A vacuum gap takes windage with it.
+
+The stator is mythril too, commutated in steps by rune timing. Between steps each coil is steady DC, which is the lossless regime. A changing current is the part mythril still taxes. A homopolar disc would avoid that tax, because its current never reverses, and it would still have to pass that current through a brush or a liquid contact at the rim. Stepped stator coils are the better shaft once the smith can build them.
+
+What still limits it:
+
+- **Turn-to-turn shorts.** Perfect conductors must not touch. Adamantium teeth hold a vacuum gap between turns.
+- **Reaction torque.** The housing does not fail. The mount and the load still feel the full torque.
+- **Stored field.** Energy in the gap scales with B². A quench or an opened persistent loop dumps that energy as heat. Adamantium spreads the heat. The dump still wants a path.
+- **Supply and shaft speed.** The motor no longer sets them. The load does.
 
 ## What to build first
 

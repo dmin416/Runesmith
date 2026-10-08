@@ -146,7 +146,7 @@ A superconducting winding is a coil of wire made from superconducting material. 
 - **AC losses:** Earth superconductors lose a little when current changes quickly. Mythril pulses pay a little AC-loss feel. Steady DC is near lossless.
 
 **Role in a flywheel / motor stack**
-- **Motor/generator:** superconducting windings on the stator create a strong field. The rotor's magnets (or its own superconducting windings) turn through it. Charging speeds the rotor up and discharging slows it down.
+- **Motor/generator:** superconducting windings on the stator create a strong field. The rotor's magnets (or its own superconducting windings) turn through it. Charging speeds the rotor up and discharging slows it down. Ceiling layout, air-core axial discs in an adamantium cage: `ElectricMotors.md`.
 - **Magnetic bearings:** superconductors push out magnetic fields (Meissner) and can lock magnets in place (flux pinning). This holds the rotor centered with no contact. Orihalcum plates are **mana-resistant** cladding (MR block), not superconducting bearings. Do not confuse shield stock with winding current.
 - **Efficiency:** with no winding I²R loss, conversion between motion and electricity sits above 99% on the electrical side. Remaining losses are bearings, windage, and power electronics / rune converters.
 

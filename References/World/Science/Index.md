@@ -11,7 +11,7 @@ Main science index. Holds and locks: [Science.md](Science.md).
 - [Energy](Energy/Index.md). Stones, cast tables, batteries, engines, motors, fans, pumps, compression, flight, waves.
 - [Invent](Invent/Index.md). Century invent ladder, industrialization, paper, writing tools.
 - [Metallurgy](Metallurgy/Index.md). Forge metals, Earth alloys, ores, vacuum, gem seats, kitchen metal.
-- [Vehicle](Vehicle/Index.md). Suspension, wheels, roads, mobile home, glider.
+- [Vehicle](Vehicle/Index.md). Suspension, brakes, positions, wheels, roads, mobile home, glider.
 
 ## Files
 

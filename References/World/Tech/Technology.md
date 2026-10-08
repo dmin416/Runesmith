@@ -39,4 +39,4 @@ Caldris does not mass-issue personal firearms. The chemistry, from medieval powd
 
 Outside settlements monster density makes solo travel dangerous. Caravans are normal. Trains and airships for long haul. Overland surfaces and day-mile bands: `../Science/Vehicle/Roads.md` (Earth medieval–Victorian ladder; Caldris stays mostly dirt / stone patch with magitech long-haul).
 
-Foundation above is locked. Vehicle notes: `../Science/Vehicle/Suspension.md`, `../Science/Vehicle/Wheels.md`, `../Science/Vehicle/Roads.md`.
+Foundation above is locked. Vehicle notes: `../Science/Vehicle/Suspension.md`, `../Science/Vehicle/Brakes.md`, `../Science/Vehicle/Positions.md`, `../Science/Vehicle/Wheels.md`, `../Science/Vehicle/Roads.md`.

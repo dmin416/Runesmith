@@ -11,7 +11,7 @@ Earth-physics and craft anchors. Cast / mana law hub: `../../Runes/Energy.md`. M
 | [Energy](Energy/Index.md) | Stones, cast tables, batteries, engines, motors, fans, compression, flight, waves |
 | [Body](Body/Index.md) | Skin/limbs/teeth, Gut Check (ART), falling, mind-body skill, 360 vision, crystal minds |
 | [Invent](Invent/Index.md) | Century invent ladder, industrialization, paper, writing tools |
-| [Vehicle](Vehicle/Index.md) | Suspension, wheels, roads, mobile home / caravan |
+| [Vehicle](Vehicle/Index.md) | Suspension, brakes, positions, wheels, roads, mobile home / caravan |
 
 ## Detail
 
@@ -70,7 +70,7 @@ Earth-physics and craft anchors. Cast / mana law hub: `../../Runes/Energy.md`. M
 | `Energy/Engines.md` | Which prime mover: steam, Stirling, or electric motor |
 | `Energy/SteamEngines.md` | Reciprocating and turbine steam; boilers; efficiencies |
 | `Energy/StirlingEngines.md` | Closed-cycle external heat; alpha / beta / gamma; regenerator |
-| `Energy/ElectricMotors.md` | DC, AC, reluctance, linear, and special motor types |
+| `Energy/ElectricMotors.md` | DC, AC, reluctance, linear, and special motor types. Ceiling: air-core mythril axial flux in an adamantium cage |
 | `Energy/Generators.md` | Faraday generators; paired flywheels; cryogenic / relativistic drain bottleneck |
 | `Energy/FlywheelStorage.md` | Rim-weighted indestructible flywheel sizes; 0.1c / 0.9c; solid-drum pack |
 | `Energy/FlywheelApplications.md` | Lossless crystal laser / lighting / loads from flywheel sets; air ceilings |
@@ -105,7 +105,9 @@ Earth-physics and craft anchors. Cast / mana law hub: `../../Runes/Energy.md`. M
 
 | File | Holds |
 |---|---|
-| `Vehicle/Suspension.md` | Caldris ceiling + active nine-part + Earth ladder |
+| `Vehicle/Suspension.md` | Caldris ceiling + active nine-part + Earth ladder + best layout by job |
+| `Vehicle/Brakes.md` | Best brake by job: shoe, drum, disc, regen, fail-safe park |
+| `Vehicle/Positions.md` | Best driving and piloting positions: view, g, harness, controls |
 | `Vehicle/Wheels.md` | Wheel tech ladder + Caldris readout |
 | `Vehicle/Roads.md` | Road layers; medieval–Victorian era ladder; travel speeds |
 | `Vehicle/PerfectGlider/PerfectGlider.md` | Glider design study |

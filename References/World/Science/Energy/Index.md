@@ -16,7 +16,7 @@ Stones, cast tables, batteries, engines, motors, fans, pumps, compression, fligh
 - [Engines.md](Engines.md). Which prime mover: steam, Stirling, or electric motor
 - [SteamEngines.md](SteamEngines.md). Reciprocating and turbine steam; boilers; efficiencies
 - [StirlingEngines.md](StirlingEngines.md). Closed-cycle external heat; alpha / beta / gamma; regenerator
-- [ElectricMotors.md](ElectricMotors.md). DC, AC, reluctance, linear, and special motor types
+- [ElectricMotors.md](ElectricMotors.md). DC, AC, reluctance, linear, and special motor types. Ceiling: air-core mythril axial flux in an adamantium cage
 - [Generators.md](Generators.md). Faraday generators; paired flywheels; cryogenic / relativistic drain bottleneck
 - [GuidedProjectiles.md](GuidedProjectiles.md). Guided munitions, mechanical vs computer guidance, turn-radius limits
 - [GunpowderFirearms.md](GunpowderFirearms.md). Medieval / Victorian powder chemistry and raw materials

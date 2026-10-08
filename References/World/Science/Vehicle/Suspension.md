@@ -1,6 +1,6 @@
 # Suspension
 
-Vehicle suspension architecture for carts, coaches, wagons and invent-grade active systems. Era baseline: `../../Tech/Technology.md`. Roads: `Roads.md`. Wheels: `Wheels.md`.
+Vehicle suspension architecture for carts, coaches, wagons and invent-grade active systems. Era baseline: `../../Tech/Technology.md`. Roads: `Roads.md`. Wheels: `Wheels.md`. Brakes on the unsprung mass: `Brakes.md`. Sprung seats: `Positions.md`.
 
 ## Narrative
 
@@ -121,6 +121,42 @@ Failure still needs a passive fallback (leaf or strap) if the active loop dies.
 | Late 20th–21st | Multi-link; semi-active; fully active (nine-part above) |
 
 Caldris baseline stops at leaf / thoroughbrace class unless an invent beat unlocks more.
+
+### Best for the job
+
+The nine-part active loop above is the best **ride**. Everything else is the best **passive** answer for a constraint: load, dirt, craft, or packaging. Soft is not automatically best. A spring that moves forever is worse than a stiffer one with a damper.
+
+Body frequency is `f = (1 / 2π) √(k / m)` with `k` in N/m and `m` the sprung mass on that spring. About **1 to 1.3 Hz** feels like a comfortable road vehicle. Sports setups sit nearer **1.5 to 2 Hz**. Much below 1 Hz wallows and floats. The wheel, tire, and upright (unsprung mass) should bounce near **10 to 15 Hz** so the tire stays on the road while the body does not join in.
+
+Damping ratio is `c / (2 √(k m))`. Around **0.3 to 0.5** keeps a ride from bouncing. Toward **0.7** the body stops quicker and feels tighter. At 1.0 the motion dies with no overshoot and the ride goes harsh. Leaf-to-leaf friction is a crude damper and a source of stick-slip, which is why a good leaf still wants a real damper once speeds rise.
+
+Travel has to swallow the bump before the stop. Hitting the bump stop is an infinite spring rate. Dirt and ruts want more travel than a city street: on the order of **100 mm** at the wheel for a fast road vehicle, and **250 mm or more** if the same vehicle is asked to cross broken ground. A coach strap can sway a long way and still fail to keep a wheel down, because nothing damps it and nothing locates it.
+
+| Job | Best passive layout | Why it wins |
+|---|---|---|
+| Heavy wagon, bad road, smith-built | Semi-elliptic leaf on a solid axle, long travel | One part springs the load and locates the axle. Tough, dirty, and repairable. Add a friction or hydraulic damper when the leaf's own rub is not enough |
+| Low-speed coach comfort | Thoroughbrace or strap cabin, then an elliptic leaf | Isolates the body from a rigid axle. The next gain is a damper so the cabin does not pitch all the way into town |
+| Unsprung cart, one occupant | A sprung **seat** only (`Positions.md`) | Smaller than springing the whole bed, and it saves the spine |
+| Fast road, light vehicle | Double wishbone or multi-link, coil, telescopic damper, anti-roll bar | Camber stays honest in roll, unsprung mass stays low, the anti-roll bar lets the spring stay soft |
+| Best geometry you can draw on purpose | Double wishbone | Upper and lower arms set camber gain, roll center, and scrub. Forgable |
+| Best refined road geometry | Multi-link | Same freedoms, and longitudinal compliance can be separated from cornering stiffness. Many joints. A late invent |
+| Tight space, one corner unit | MacPherson strut | Spring, damper, and location in one tower. The best compromise, not the best camber |
+| Articulation, rocks, ruts | Solid axle, long coils or leaves, anti-roll bar that can be disconnected | Both wheels stay planted when the ground twists. Independent looks better on a road and picks up wheels off one |
+| Axle location without leaves | Coil or air plus links: trailing arms, a Panhard bar or a Watt's link | A coil does not locate anything. Forget the links and the axle walks |
+| Load that changes a lot | Air spring | Height and rate follow pressure, so a full wagon and an empty one sit level. Needs seals, a valve, and a pump |
+| Spring tucked out of the way | Torsion bar | Same steel-in-twist as a coil, straightened so it can run along a hull. The tank answer, and some cars |
+| One hard landing | Oleo (oil damper + gas spring in one leg) | Dissipates a single impact. The aircraft gear answer, not a road spring |
+| Motorcycle front | A double link (Hossack / Telelever class), not a telescopic fork | Braking force does not have to travel down the same tubes that absorb the bump, so the front dives less |
+| Rail passenger | Soft secondary spring (air or coil) between bogie and body | The axle-to-bogie spring takes the rail. The second stage takes the people |
+| Best ride, invent unlocked | Active corners with road preview (nine-part above) | The actuator puts the wheel up into the bump before the body feels it. Power and a passive fallback are the price |
+
+**Unsprung mass** is whatever moves with the wheel: tire, rim, hub, and usually the brake. Lower is better, because the road has less mass to accelerate. Inboard brakes and light wheels help. A heavy live axle is the cost of the wagon layout's toughness.
+
+**Anti-roll bar:** a spring that only works in roll. Best way to keep a soft ride spring and still not fall over in a corner. Too stiff, and a bump on one wheel twists the other. Off-road, the best bar is one you can unlink so the axle can articulate.
+
+**Anti-dive:** slant the wishbone pivots or the trailing links so braking weight does not pitch the nose as hard. Worth doing on a fast vehicle with real brakes. Irrelevant on a cart.
+
+Caldris baseline stays leaf, strap, and thoroughbrace. The best step up that a smith can actually finish is a longer leaf with a separate damper, or a sprung seat if the axle will not be sprung at all. Wishbones, air, and active corners are invents.
 
 ## Open
 

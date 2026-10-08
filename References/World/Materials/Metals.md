@@ -94,7 +94,7 @@ Mana path mode is **superconducting** from conversion, not from mundane Ag–Cu 
 
 #### Superconducting windings (invent / prestige apps)
 
-Mythril can hold a persistent electrical current in a coil. SMES, MRI, motors, and Meissner bearings: `../Science/Energy/Generators.md`.
+Mythril can hold a persistent electrical current in a coil. SMES, MRI, motors, and Meissner bearings: `../Science/Energy/Generators.md`. Ceiling motor: `../Science/Energy/ElectricMotors.md`.
 
 ### Orihalcum (gold)
 
