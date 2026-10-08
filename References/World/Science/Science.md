@@ -8,7 +8,7 @@ Earth-physics and craft anchors. Cast / mana law hub: `../../Runes/Energy.md`. M
 |---|---|
 | [Metallurgy](Metallurgy/Index.md) | Forge metals, Earth alloys, ores, vacuum, gem seats, kitchen metal |
 | [Biomaterials](Biomaterials/Index.md) | Animal / Ned material process, rubber, insect stocks, wood |
-| [Energy](Energy/Index.md) | Stones, cast tables, batteries, fans, compression, flight, waves |
+| [Energy](Energy/Index.md) | Stones, cast tables, batteries, engines, motors, fans, compression, flight, waves |
 | [Body](Body/Index.md) | Skin/limbs/teeth, Gut Check (ART), falling, mind-body skill, 360 vision, crystal minds |
 | [Invent](Invent/Index.md) | Century invent ladder, industrialization, paper, writing tools |
 | [Vehicle](Vehicle/Index.md) | Suspension, wheels, roads, mobile home / caravan |
@@ -67,6 +67,10 @@ Earth-physics and craft anchors. Cast / mana law hub: `../../Runes/Energy.md`. M
 | `Energy/Lighting.md` | Incandescent, discharge, LED / laser-diode light; Caldris filter |
 | `Energy/Projectiles.md` | Projectile physics; flywheel pinch launch |
 | `Energy/GuidedProjectiles.md` | Guided munitions, mechanical vs computer guidance, turn-radius limits |
+| `Energy/Engines.md` | Which prime mover: steam, Stirling, or electric motor |
+| `Energy/SteamEngines.md` | Reciprocating and turbine steam; boilers; efficiencies |
+| `Energy/StirlingEngines.md` | Closed-cycle external heat; alpha / beta / gamma; regenerator |
+| `Energy/ElectricMotors.md` | DC, AC, reluctance, linear, and special motor types |
 | `Energy/Generators.md` | Faraday generators; paired flywheels; cryogenic / relativistic drain bottleneck |
 | `Energy/FlywheelStorage.md` | Rim-weighted indestructible flywheel sizes; 0.1c / 0.9c; solid-drum pack |
 | `Energy/FlywheelApplications.md` | Lossless crystal laser / lighting / loads from flywheel sets; air ceilings |

@@ -8,7 +8,7 @@ Main science index. Holds and locks: [Science.md](Science.md).
 
 - [Biomaterials](Biomaterials/Index.md). Animal and Ned material process, rubber, insect stocks, wood.
 - [Body](Body/Index.md). Skin, limbs, teeth, Gut Check, falling, mind-body skill, 360 vision, crystal minds.
-- [Energy](Energy/Index.md). Stones, cast tables, batteries, fans, pumps, compression, flight, waves.
+- [Energy](Energy/Index.md). Stones, cast tables, batteries, engines, motors, fans, pumps, compression, flight, waves.
 - [Invent](Invent/Index.md). Century invent ladder, industrialization, paper, writing tools.
 - [Metallurgy](Metallurgy/Index.md). Forge metals, Earth alloys, ores, vacuum, gem seats, kitchen metal.
 - [Vehicle](Vehicle/Index.md). Suspension, wheels, roads, mobile home, glider.

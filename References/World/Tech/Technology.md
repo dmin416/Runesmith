@@ -10,7 +10,7 @@ Social structure stays medieval (kingdoms, nobles, knights). Tech reaches toward
 
 ### Present
 
-- Steam, boilers, condensers
+- Steam, boilers, condensers. Types and efficiencies: `../Science/Energy/SteamEngines.md`. Closed-cycle hot air: `../Science/Energy/StirlingEngines.md`. Electric motor families: `../Science/Energy/ElectricMotors.md`. Which machine: `../Science/Energy/Engines.md`
 - Magical rail (gnomes invented trains). Passenger and freight. Multi-day. Noisy
 - Airships (cost more than rail; prestige / royal band)
 - Magic stones as fuel, craft power and rail power

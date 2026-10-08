@@ -2,7 +2,7 @@
 
 Up: [Science](../Index.md)
 
-Stones, cast tables, batteries, fans, pumps, compression, flight, waves.
+Stones, cast tables, batteries, engines, motors, fans, pumps, compression, flight, waves.
 
 ## Files
 
@@ -13,6 +13,10 @@ Stones, cast tables, batteries, fans, pumps, compression, flight, waves.
 - [Flight.md](Flight.md). Hover / lift power
 - [FlywheelApplications.md](FlywheelApplications.md). Lossless crystal laser / lighting / loads from flywheel sets; air ceilings
 - [FlywheelStorage.md](FlywheelStorage.md). Rim-weighted indestructible flywheel sizes; 0.1c / 0.9c; solid-drum pack
+- [Engines.md](Engines.md). Which prime mover: steam, Stirling, or electric motor
+- [SteamEngines.md](SteamEngines.md). Reciprocating and turbine steam; boilers; efficiencies
+- [StirlingEngines.md](StirlingEngines.md). Closed-cycle external heat; alpha / beta / gamma; regenerator
+- [ElectricMotors.md](ElectricMotors.md). DC, AC, reluctance, linear, and special motor types
 - [Generators.md](Generators.md). Faraday generators; paired flywheels; cryogenic / relativistic drain bottleneck
 - [GuidedProjectiles.md](GuidedProjectiles.md). Guided munitions, mechanical vs computer guidance, turn-radius limits
 - [GunpowderFirearms.md](GunpowderFirearms.md). Medieval / Victorian powder chemistry and raw materials

@@ -35,7 +35,7 @@ Already on-page or locked in references:
 | Item | Where |
 |---|---|
 | Mana-stone / steam-like **trains** (passenger + freight; multi-day; noisy) | `../Geography/Places.md`; Ch 7 departure; Ch 19 ride |
-| **Steam** / boilers / condensers (still tech, later runic steam engines) | `../Society/Economy.md`; Notes Ch 48-50 steam→electric theory |
+| **Steam** / boilers / condensers (still tech, later runic steam engines). Earth ladder: `../Science/Energy/SteamEngines.md`. Stirling: `../Science/Energy/StirlingEngines.md`. Motors: `../Science/Energy/ElectricMotors.md` | `../Society/Economy.md`; Notes Ch 48-50 steam→electric theory |
 | **Magic stones** as fuel, light, craft and rail power | `../Society/Economy.md` / `../Materials/MonsterCores.md`; trains in Places |
 | **Airships** rare / royal / far above Baron spend | `../Geography/Places.md`; Ch 7 coach→train |
 | Gnomes invent magic trains; intricate machinery | `../Society/Races.md` |
