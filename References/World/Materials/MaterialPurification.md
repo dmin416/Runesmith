@@ -96,6 +96,8 @@ Separating 0.5% impurities from silica requires about **0.0013 GJ/t** (1.3 kJ/kg
 
 Clay purity is measured mainly by kaolinite content, whiteness (brightness) and low iron and titanium.
 
+See also: [../Science/Invent/Toilets.md](../Science/Invent/Toilets.md) (vitreous china manufacturing for sanitary fixtures).
+
 ### Methods
 **1. Weathering and slaking.** Raw clay is left outdoors through rain and freeze-thaw cycles, then soaked in water until it breaks down into slurry.
 - Result: workable clay, impurities loosened
