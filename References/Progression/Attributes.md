@@ -29,10 +29,15 @@ MP = (Intelligence × 10) + (Willpower × 4)
 
 Bare all-15 (no class bonuses): **HP 195**, **SP 240**, **MP 210**. A street adult with no Mage/Acolyte still has no usable mana pool to absorb into; the MP number is the sheet formula once a pool exists.
 
-Class and skill bonuses can raise displayed pools above the bare formulas.
+Skill bonuses can raise displayed pools above the bare formulas (e.g. Mana Reinforcement). **Mage** and **Blessed by Mana** do **not** raise max MP.
 
-**Mage (T1) class card:** **+2% max MP** and **+1% mana regen** per Mage class level.
-`MP = ((Int×10)+(Will×4)) × (1 + 0.02 × Mage level)`.
+**Class levels vs class cards:** leveling a class permanently raises its package attributes. Those stats stay after you leave the class. The class **card** is a separate narrative benefit.
+
+**Mage (T1) class card:** mana recovery (narrative). Kept while Mage is primary or secondary. Lost when Mage is dropped from the secondary slot (switch secondary **once per day**).
+
+**Blacksmith / Runic Blacksmith (T1) class card:** increased fire resistance and increased stamina recovery (narrative). Same keep / drop rules as Mage.
+
+**Blessed by Mana:** multiplies mana recovery (narrative). Permanent perk once unlocked. No flat MP.
 
 Chapter 23: low mana → dizzy/sleepy; **zero MP** → splitting headache and possible pass-out, plus a next-day mana-regen debuff.
 
@@ -74,7 +79,7 @@ One named perk per core attribute at **40** (Cha / Luck out unless a later trait
 |---|---|---|
 | Strength | Titan's Back | Carry capacity |
 | Dexterity | Exacting Motion | Accuracy of body movement |
-| Intelligence | Blessed by Mana | Mana regeneration (narrative; no flat MP) |
+| Intelligence | Blessed by Mana | Multiplies mana recovery (narrative; no flat MP) |
 | Willpower | Unbroken Focus | Focus |
 | Agility | Sure Footing | Balance |
 | Vitality | Defiance of Years | Reduced aging |

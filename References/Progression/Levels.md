@@ -20,10 +20,10 @@ Dungeon **floors** are also called levels in prose. Those are places, not this s
 
 ### What a class level-up does
 
-- Awards a **class package**: fixed favored attributes each get points (Tier 1 usually **+1 per favored attribute**).
+- Awards a **class package**: fixed favored attributes each get points (Tier 1 usually **+1 per favored attribute**). Those attribute gains are **permanent**.
 - The active tier’s **growth rate** scales that package (forward-only). See packages and math below.
-- Recalculates HP / SP / MP from attributes (see `Attributes.md`). Class bonuses apply on top (e.g. Mage **+2% max MP** and **+1% mana regen** per Mage class level).
-- Traits can add extra on level-up when the trait says so. **Blessed by Mana** is narrative mana regen only (no flat MP). Mage % MP/regen is the class card, not Blessed.
+- Recalculates HP / SP / MP from attributes (see `Attributes.md`). Skill pool bonuses can apply on top. Class cards do **not** raise max pools.
+- **Class cards** are narrative benefits (e.g. Mage mana recovery), kept only while that class is primary or secondary. **Blessed by Mana** (perk): multiplies mana recovery (narrative; no flat MP).
 - Fills toward the class **level cap**. At cap you need a class change / next class, not more levels in the same slot.
 
 Chapter screens stay truth when numbers appear. Packages below are the rewrite planning defaults.
@@ -39,7 +39,7 @@ Chapter screens stay truth when numbers appear. Packages below are the rewrite p
 
 Multiple past classes can sit on the sheet (primary / secondary; maxed lower tiers often go inactive). There is **no Tertiary active slot**.
 
-**Secondary class (Chapter 17):** unlocking a second class lets you keep **one** prior class as secondary to retain its special effects (e.g. Mage mana pool / regen). Switch secondary **once per day**; no item required. Overall level is the shared sum (rewrite Ch 17: Mage L25 + Scribe L1 → overall L26). Live reclass carries full bank (**1479 / 13000**); Old half-cut **739** quarantined. Extra Tier 1 classes slow the shared bar further; most people avoid a third T1.
+**Secondary class (Chapter 17):** unlocking a second class lets you keep **one** prior class as secondary to retain its special effects (e.g. Mage mana recovery). Switch secondary **once per day**; no item required. Drop Mage from the secondary slot and that recovery goes with it. Overall level is the shared sum (rewrite Ch 17: Mage L25 + Scribe L1 → overall L26). Live reclass carries full bank (**1479 / 13000**); Old half-cut **739** quarantined. Extra Tier 1 classes slow the shared bar further; most people avoid a third T1.
 
 **Reclass rules (Chapter 5 book talk):** no hard limit on how many classes a person can hold over a life. You cannot leave a class for another until you have at least **25 levels** in the current one. Tier 1 classes must be finished to their **L25** cap. First ascension crystal use awards a class (Roland’s space still required a Yes/No confirm). Later crystal uses need a **trial** (battle, craft or puzzle). Used first-ascension crystal turns to dust.
 

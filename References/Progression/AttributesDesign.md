@@ -66,7 +66,7 @@ Chapter 6 book: an **elemental affinity skill** needs at least **~1%** affinity.
 ## Class resource bonuses (examples)
 
 ### Mage (Tier 1)
-First seen: Chapter 5–6 skill card. Live card (**+2%** max MP, **+1%** regen per Mage level): `Attributes.md`. Source fixed **+20% / +15%** stays discarded. **Blessed by Mana** is narrative regen feel only (no flat MP). See `Skills.md`.
+First seen: Chapter 5–6 skill card. **Class card (narrative):** mana recovery. Kept as primary/secondary; lost when Mage is dropped. **Class levels** only add permanent Int/Will. Source fixed **+20% / +15%** discarded. **Blessed by Mana:** multiplies mana recovery (narrative; no flat MP). See `Attributes.md` / `Skills.md`.
 
 ## Attribute perks
 
@@ -76,7 +76,7 @@ Rewrite map of one perk per core attribute at **40**. Full list and notes: `Skil
 |---|---|---|---|
 | Strength | Titan's Back | Carry capacity | 40 |
 | Dexterity | Exacting Motion | Accuracy of body movement | 40 |
-| Intelligence | Blessed by Mana | Mana regeneration (narrative) | 40 + Mage |
+| Intelligence | Blessed by Mana | Multiplies mana recovery (narrative) | 40 + Mage |
 | Willpower | Unbroken Focus | Focus | 40 |
 | Agility | Sure Footing | Balance | 40 |
 | Vitality | Defiance of Years | Reduced aging | 40 |

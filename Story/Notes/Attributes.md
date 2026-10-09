@@ -1,24 +1,28 @@
 # Attributes
 
-Roland's sheet for chapters 1–20. Body + class + skill and trait pads. `StatusBreakdown.md`.
+Roland's sheet for chapters 1–20. **Authoritative per-chapter spine:** `ChapterLedger.md` (time + sheet + skill deltas). Pad buckets: `StatusBreakdown.md`. Screens and commentary: `Status.md`.
 
-Mana is `((Int×10)+(Will×4)) × (1 + 0.02 × Mage level)`. Blessed by Mana does not add mana. Health is `Vit×10 + End×3`. Stamina is `End×10 + Str×3 + Agi×3`.
+**HP** = `Vit×10 + End×3`. **SP** = `End×10 + Str×3 + Agi×3`.
+
+**MP:** `(Int×10)+(Will×4)`. Class levels permanently raise Int/Will; Mage / Blessed are recovery narrative only and do **not** multiply max MP. Printed sheet MP figures stand as published.
 
 The estate loop behind the body row is **7 hours of drills and 4 hours of reading a day**. From the morning he wakes at 5 to his tenth birthday, that is about **12,800 hours of drills and 7,300 hours of reading**. After that the body row stays on the age-10 line. Later gains are skill pads from hunts, the dungeon, and the train week.
 
 | Ch | Age | Training | Str | Agi | Dex | Vit | End | Int | Will | Cha | Luck | HP | MP | SP |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 1–3 | 5 | Transfer only. The loop has not started | 4 | 8 | 29 | 8 | 8 | 42 | 25 | 7 | 7 | 104 | 520 | 116 |
-| 4 | 9 | 4 years of the loop, up to the birthday fight | 36 | 35 | 49 | 40 | 40 | 65 | 51 | 7 | 7 | 520 | 854 | 613 |
-| 5–6 | 10 and 0 months | 5 years: ~12,800 h drills, ~7,300 h reading | 40 | 40 | 50 | 44 | 44 | 66 | 53 | 7 | 7 | 572 | 872 | 680 |
-| 5, after the rite | 10 and 0 months | Same body. Mage L1 grants that day | 40 | 40 | 50 | 44 | 44 | 71 | 58 | 7 | 7 | 572 | 961 | 680 |
-| 6–8 | 10 and 0 months, then 10 and 3 months by ch 7 | Same loop. The pre-class fights land as Mage L3 | 40 | 40 | 50 | 44 | 44 | 73 | 60 | 7 | 7 | 572 | 1028 | 680 |
-| 9 | 10 and 3 months | Plus 3 months of weekly double goblin fights | 40 | 40 | 50 | 44 | 44 | 74 | 61 | 7 | 7 | 572 | 1063 | 680 |
-| 9.5–11 | 10 and 6 months | Plus 3 months of daily hunts and evening mana drills | 44 | 49 | 54 | 45 | 45 | 129 | 127 | 11 | 7 | 585 | 2517 | 729 |
-| 12 | 10 and 6 months | Same hunt block, plus the cook and tame night | 44 | 50 | 55 | 47 | 49 | 130 | 128 | 12 | 7 | 617 | 2537 | 772 |
-| 13 | 11 and 0 months | Plus **half a year** with the girls (Floor-3) after **3 months** goblins | 47 | 61 | 57 | 57 | 62 | 137 | 135 | 12 | 7 | 756 | 2865 | 944 |
-| 14–17 | 11 and 0 months | One chase, one schematic hour, the class trial | 47 | 62 | 58 | 57 | 62 | 138 | 136 | 12 | 7 | 756 | 2886 | 947 |
-| 18 | 11 and 0 months | Impact redraw. Drawing breaks through | 47 | 62 | 68 | 57 | 62 | 138 | 136 | 12 | 7 | 756 | 2886 | 947 |
-| 19–20 | 11 and 0 months | Plus ~7 days, both drills every day | 47 | 62 | 84 | 73 | 85 | 171 | 159 | 12 | 7 | 985 | 3519 | 1177 |
+| 1–3 | 5 | Transfer only | 4 | 8 | 29 | 4 | 4 | 41 | 18 | 7 | 7 | 52 | 482 | 76 |
+| 4 | 9 | Birthday bravery screen | 36 | 35 | 49 | 40 | 40 | 65 | 51 | 7 | 7 | 520 | 854 | 613 |
+| 5 pre | 10y0m | Age-10 stack | 40 | 40 | 50 | 40 | 40 | 66 | 53 | 7 | 7 | 520 | 872 | 640 |
+| 5 Mage | 10y0m | Mage L1 grants | 40 | 40 | 50 | 40 | 40 | 71 | 58 | 7 | 7 | 520 | 1130 | 640 |
+| 6 | 10y0m | Mage L3 | 40 | 40 | 50 | 40 | 40 | 73 | 60 | 7 | 7 | 520 | 1028 | 640 |
+| 7–8 | 10y3m | +3 mo estate; leave | 40 | 40 | 50 | 44 | 44 | 73 | 60 | 7 | 7 | 572 | 1028 | 680 |
+| 9 | 10y3m | First Carwen day → L4 | 40 | 40 | 50 | 44 | 44 | 74 | 61 | 7 | 7 | 572 | 1063 | 680 |
+| 9.5–11 | 10y6m | +3 mo goblins; Mage L20 | 46 | 50 | 56 | 41 | 42 | 129 | 127 | 11 | 7 | 536 | 2158 | 708 |
+| 12 | 10y6m | Flagon + cook/tame pads | 47 | 51 | 57 | 43 | 46 | 130 | 128 | 12 | 7 | 568 | 2174 | 745 |
+| 13 | 11y0m | +half year with girls; L25 | 49 | 63 | 59 | 57 | 62 | 137 | 135 | 12 | 7 | 756 | 2292 | 956 |
+| 14–15 | 11y0m | Dodging L7 | 49 | 64 | 59 | 57 | 62 | 137 | 135 | 12 | 7 | 756 | 2292 | 959 |
+| 16–17 | 11y0m | Scribe L1; overall L26 | 49 | 64 | 60 | 57 | 62 | 138 | 136 | 12 | 7 | 756 | 2309 | 959 |
+| 18 | 11y0m | Drawing L1 | 49 | 64 | 61 | 57 | 62 | 138 | 136 | 12 | 7 | 756 | 2309 | 959 |
+| 19–20 | 11y0m | Train week pads | 49 | 64 | 72 | 71 | 80 | 156 | 147 | 12 | 7 | 950 | 2578 | 1139 |
 
-Chapter 4's row is the ninth-birthday screen. The chapter keeps going to the eve of 10, and that last year is already inside the chapter 5 row. Chapters 14 and 15 are still the chapter 13 body with Dodging one level higher: Strength 47, Agility 62, Dexterity 57, mana 2865, stamina 947. Scribe adds the Dexterity, Intelligence, and Willpower point on chapter 16.
+Chapter 4's row is the ninth-birthday screen. The chapter keeps going to the eve of 10; that last year sits inside the chapter 5 pre-class row. Ch 12 is a soft pad row; Ch 13 live sheet is the printed Floor-3 lock. Ch 19 applies Sound/Echo/Multitask/resistance/Breath pads from `Skills.md`.

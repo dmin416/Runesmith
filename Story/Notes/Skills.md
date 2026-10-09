@@ -240,11 +240,11 @@ Increases mana regeneration by helping absorb ambient mana from the environment.
 Gives bonuses to intelligence and willpower. Willpower gains more than intelligence.
 
 Mage Class           Class
-Increases mana by 20% and increases mana regeneration by 15%.
+Increases mana recovery.
 
 Blessed by Mana      Trait
 Unlocked if a person has more than 40 intelligence after reaching the mage class
-at the first ascension ritual, gives bonuses to MP after each level up.
+at the first ascension ritual. Multiplies mana recovery.
 
 Titan's Back / Sure Footing / Exacting Motion / Defiance of Years / Rapid Renewal / Unbroken Focus
 (Strength / Agility / Dexterity / Vitality / Endurance / Willpower 40 perks)
@@ -265,7 +265,7 @@ All seven **40** perks shown with the Mage skills menu (Blessed by Mana plus the
 ════════ TRAITS ════════
 Blessed by Mana      Trait
 Unlocked if a person has more than 40 intelligence after reaching the mage class
-at the first ascension ritual, gives stronger mana regeneration (narrative; no flat MP on the sheet).
+at the first ascension ritual. Multiplies mana recovery (narrative; no flat MP on the sheet).
 
 Titan's Back         Trait
 Strength 40. Carry capacity.

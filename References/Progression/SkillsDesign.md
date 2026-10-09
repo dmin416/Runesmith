@@ -418,7 +418,7 @@ Wide-radius intimidation; can freeze foes when it lands.
 
 ### Mage Class (class card)
 First seen: Chapter 5-6
-Listed on the skills menu with Mage grants. **Class bonus (locked):** **+2% max mana** and **+1% mana regeneration** **per Mage class level** (L1 = +2% MP / +1% regen; L25 = +50% MP / +25% regen). Not a skill. Replaces Source flat **+20%** mana / **+15%** regen. Kept when Mage is secondary.
+Listed on the skills menu with Mage grants. **Class card (locked, narrative):** mana recovery. Kept while Mage is primary or secondary; lost when Mage is dropped from the secondary slot (switch secondary **once per day**). Not a skill. Does **not** raise max MP. Source flat **+20%** mana / **+15%** regen discarded. **Class levels** only add the permanent Int/Will package (`Levels.md`).
 
 ### Basic Mana Shaping
 First seen: Chapter 5
@@ -744,7 +744,7 @@ Retain more information and at a faster rate. Bonus to Intelligence +3 and Willp
 
 ### Blessed by Mana
 First seen: Chapter 5
-Unlocked if a person has more than **40** Intelligence after reaching the Mage class at the first ascension ritual. **Narrative only:** better **mana regeneration** (feels easier to top the pool back up). No flat MP and no change to the MP formula. Mage class already gives **+2% max MP** and **+1% regen per Mage level**; Blessed is the perk story for why his refill feels strong. Intelligence row of the attribute perk table below.
+Unlocked if a person has more than **40** Intelligence after reaching the Mage class at the first ascension ritual. **Narrative:** multiplies **mana recovery**. Permanent perk once unlocked. No flat MP and no change to the MP formula. Stacks in story with Mage’s recovery card while Mage is held. Intelligence row of the attribute perk table below.
 
 ## Attribute perks (rewrite)
 
@@ -754,7 +754,7 @@ One named perk per core attribute at **40**. Cha/Luck out unless a later trait s
 |---|---|---|---|
 | Strength | Titan's Back | Carry capacity | 40 |
 | Dexterity | Exacting Motion | Accuracy of body movement | 40 |
-| Intelligence | Blessed by Mana | Mana regeneration (narrative) | 40 + Mage |
+| Intelligence | Blessed by Mana | Multiplies mana recovery (narrative) | 40 + Mage |
 | Willpower | Unbroken Focus | Focus | 40 |
 | Agility | Sure Footing | Balance | 40 |
 | Vitality | Defiance of Years | Reduced aging | 40 |

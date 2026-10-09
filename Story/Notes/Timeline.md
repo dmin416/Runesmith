@@ -6,6 +6,8 @@ Life clock from `Summaries/Source/`. Year 0 is the wake on the Arden estate (cha
 
 A day is 24 hours. A year is 12 months of 30 days, plus New Year's Day (361 days). Half a year in these skips is 6 months. Three months stays three months.
 
+**Ch 1–20 per-chapter time + sheet + skills:** `ChapterLedger.md` (authoritative spine).
+
 ## Three-month skips
 
 Three of them. They are easy to lose when the year column is only whole years and halves.
@@ -52,6 +54,23 @@ Rows marked **off** are the summary's words. The Age and Year columns are the co
 | 5 | Ascension the next day, in the rain. Age 10 and 0 months. Five years since arrival. Trial months can pass in seconds outside | 10 and 0 months | 5 years |
 | 6 | Already Mage L3 from the fights banked between the 9th birthday and the ascension | 10 and 0 months | 5 years |
 | 7 | **Timeskip: about 3 months** since the ascension. Still 10. Weekly fights are now two Goblin L1s at a time. More confident than at the age-9 test. Lucienne's 3rd birthday is in a couple of weeks. Then the train | 10 and 3 months | 5 years 3 months |
+
+## Chapters 1–20 (clock only)
+
+| Ch | Age | World | Delta |
+|---|---|---|---|
+| 1–3 | 5 | 0 | Wake / early estate |
+| 4 | 5y6m → 9 → eve of 10 | 0y6m → 4 | Climb + years of grind + birthday |
+| 5–6 | 10y0m | 5y | Ascension; Mage L1→L3 |
+| 7 | 10y3m | 5y3m | **+3 months** estate doubles |
+| 8–9 | 10y3m | 5y3m | Carwen arrive; first hunt |
+| 9.5 | 10y6m | 5y6m | **+3 months** solo goblins |
+| 10–12 | 10y6m | 5y6m | Party forms; trial ~2 weeks inside |
+| 13–18 | 11y0m | 6y | **+half year** with the girls |
+| 19 | 11y0m | 6y | Train ~7 days + Edelgard night |
+| 20 | 11y0m | 6y | Next morning |
+
+Full sheet and skill deltas: `ChapterLedger.md`.
 
 ## Carwen
 

@@ -16,11 +16,13 @@ Same ladder for person classes and monster evolutions. People talk also names Ti
 ## Path notes
 
 - Combat, production and support classes are all valid.
-- Primary plus at most one secondary that keeps special effects. Switch secondary once per day. No tertiary active slot.
+- Primary plus at most one secondary that keeps the class’s **narrative** special effect. Switch secondary once per day. No tertiary active slot. Drop a class from secondary and its narrative benefit goes with it.
+- **Class levels** permanently raise attributes (the class package). Those stats stay after you leave the class. Class cards are narrative benefits, not more max-pool math.
 - Cannot leave a class until at least **25** levels in it. Tier 1 must finish **L25** before leaving.
 - Ascension / class crystal needed to gain or change class. First use awards a class. Later uses need a trial. First-use crystal turns to dust.
 - Pre-class ambient mana absorb (before Mage / Acolyte) poisons or kills.
-- Tier 1 common set (Ch 4 book): Warrior, Archer, Mage, Thief, Blacksmith, Acolyte. Each +1 to listed attributes per T1 level. Full packages: `ClassesDesign.md` / `Levels.md` (design).
+- Tier 1 common set (Ch 4 book): Warrior, Archer, Mage, Thief, Blacksmith, Acolyte. Each +1 to listed attributes per T1 level. Full packages: `ClassesDesign.md` / `Levels.md` (design). Mage card: mana recovery. Blacksmith / Runic Blacksmith card: fire resistance + stamina recovery. Blessed by Mana (perk): multiplies mana recovery.
+
 
 ## Named paths (thin)
 

@@ -88,7 +88,7 @@ SP = (Endurance × 10) + (Strength × 3) + (Agility × 3)
 MP = (Intelligence × 10) + (Willpower × 4)
 ```
 
-Class and skill bonuses can raise displayed pools above the bare formulas (e.g. Mage **+2% max MP** and **+1% mana regen** per Mage class level).
+Skill bonuses can raise displayed pools above the bare formulas. **Mage** = mana recovery (kept as secondary; lost when Mage is dropped). **Blessed by Mana** = multiplies mana recovery. Neither changes max MP.
 
 ### Ascension and classes
 
@@ -96,9 +96,9 @@ Class and skill bonuses can raise displayed pools above the bare formulas (e.g. 
 
 **Reclass:** No hard lifetime class count. Cannot leave a class for another until at least **25** levels in the current one. Tier 1 classes must be finished to their **L25** cap before leaving. **No half-cut bank on class change** (Old half-cut dropped). Cap overflow banks in full; Ch 16 carry **1479** locked in `../../Story/Notes/Experience.md`.
 
-**Multiple classes:** Primary plus at most **one** secondary that keeps special effects. Switch secondary **once per day**. No tertiary active slot. Maxed lower tiers can sit inactive on the sheet.
+**Multiple classes:** Primary plus at most **one** secondary that keeps the class’s **narrative** special effect. Switch secondary **once per day**. No tertiary active slot. Maxed lower tiers can sit inactive on the sheet. Drop a class from secondary and its narrative benefit goes with it.
 
-**Class packages:** On class level-up, favored attributes gain points. Tier 1 default: **+1 per favored attribute** per class level. Active tier growth rate can scale the package (forward-only). Detail tables: `Levels.md` / `ClassesDesign.md` (design).
+**Class packages:** On class level-up, favored attributes gain points. Those gains are **permanent**. Tier 1 default: **+1 per favored attribute** per class level. Active tier growth rate can scale the package (forward-only). Detail tables: `Levels.md` / `ClassesDesign.md` (design). Class cards (Mage mana recovery, Blacksmith / Runic Blacksmith fire resistance + stamina recovery, Scribe learning-ease, etc.) are separate narrative benefits, not package math.
 
 **Pre-class mana:** Ambient absorb before Mage / Acolyte = poison / death. Training other skills is still possible.
 

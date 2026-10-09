@@ -2,7 +2,9 @@
 
 Roland's status by chapter. Copy from chapter screens. Follow `CrossCheck.md`.
 
-**Rewrite math:** `StatusBreakdown.md` (Body + Class + Skills/Traits). Age tracks: `References/Progression/Progression.md`. Early chapters below keep **Live** blocks from current prose and add **Rewrite target** numbers until those chapters are retconned.
+**Ch 1–20 ledger (time + sheet + skill deltas):** `ChapterLedger.md`. Use that first when you need the exact clock, attributes, or what changed this chapter.
+
+**Rewrite math:** `StatusBreakdown.md` (Body + Class + Skills/Traits). Compact table: `Attributes.md`. Age tracks: `Timeline.md` / `References/Progression/Progression.md`. Early chapters below keep **Live** blocks from current prose and add **Rewrite target** numbers until those chapters are retconned.
 
 ## Chapter 1
 
@@ -169,13 +171,13 @@ HP = 40×10 + 40×3 = 520. SP = 40×10 + 40×3 + 40×3 = 640. MP = 66×10 + 53×
 
 Skills menu in chapter: transfer set (Marksmanship **L7**) + Mana Sense **L9** (+Int/Will) + Reading **L9** (+Int/Will) + Basics at age-10 targets (Running/Sprint/Climbing/Throwing/Leather **L9**; H2H/Sneak/Sword **L8**; **Acrobatics L3**). Str/Agi/Vit/End even at **40**; Dex **50**; Will **53**; Int **66** highest.
 
-Class gained mid-chapter: **Tier 1 Mage L1**. Unlocks: Basic Mana Shaping L1 (**Int +2 / Will +1**), Basic Mana Regulation L1 (**Int +1 / Will +2**), Mana Bolt Spell L1, Basic Incantation L1 (**Int +1 / Will +1**). Mage package +1 Int / +1 Will. Mage **+2% max MP** / **+1% regen** per class level. All seven **40** attribute perks on sheet. Banked pre-class XP not applied on-page until Chapter 6 (L3). Crystal used for the ritual turns to dust.
+Class gained mid-chapter: **Tier 1 Mage L1**. Unlocks: Basic Mana Shaping L1 (**Int +2 / Will +1**), Basic Mana Regulation L1 (**Int +1 / Will +2**), Mana Bolt Spell L1, Basic Incantation L1 (**Int +1 / Will +1**). Mage package +1 Int / +1 Will (permanent). Mage card: mana recovery (narrative). Blessed by Mana: multiplies mana recovery. All seven **40** attribute perks on sheet. Banked pre-class XP not applied on-page until Chapter 6 (L3). Crystal used for the ritual turns to dust.
 
 **Live (chapter) Mage L1** (right after tutorial dump):
 
 Pre-class Int **66** / Will **53** → + class (+1/+1) + mage-grant skill pads (+4 Int / +4 Will) → Int **71** / Will **58**.
 
-MP check: ((71 × 10) + (58 × 4)) × 1.02 = 942 × 1.02 = **961** (Blessed by Mana = regen narrative only).
+MP check: (71 × 10) + (58 × 4) = **942** (Mage / Blessed = recovery only; printed sheet stands if different).
 
 ```
 ════════ STATUS ════════
@@ -219,9 +221,9 @@ Mage L3 after pre-ascension XP applies. Runesmith plan approved with conditions 
 
 Weekly estate goblin fights after the age-9 bravery test filled the pre-class XP bank. That bank applies **once** at first ascension only.
 
-**Live (chapter):** Mage L3 on age-10 full stack. Class +3 Int / +3 Will. Mage grants still L1: +4 Int / +4 Will from Shaping/Regulation/Incantation. Mage **+2% MP / +1% regen** per class level. Blessed by Mana = stronger mana regen (narrative). All seven 40 perks.
+**Live (chapter):** Mage L3 on age-10 full stack. Class +3 Int / +3 Will (permanent). Mage grants still L1: +4 Int / +4 Will from Shaping/Regulation/Incantation. Mage card: mana recovery. Blessed by Mana: multiplies mana recovery. All seven 40 perks.
 
-MP check: ((73 × 10) + (60 × 4)) × 1.06 = 970 × 1.06 = **1028** (Blessed = regen narrative only).
+MP check: (73 × 10) + (60 × 4) = **970** (Mage / Blessed = recovery only; printed **1028** stands).
 
 ```
 ════════ STATUS ════════
@@ -260,9 +262,9 @@ No new full attribute status screen. No class level shown this chapter. Still Ma
 
 Bronze Adventurer. Guild measuring crystal reads full sheet (confidential to guild). Registers first name **Roland** only on the card. Looks ~**150 cm** / ~12–13 to staff.
 
-**Live (chapter):** same Mage L3 rewrite stack as Ch 6. Class +3 Int / +3 Will. Mage grants still L1 pads (+4 Int / +4 Will). Mage **+2% MP / +1% regen × level**. Blessed = regen narrative only. Source orb was Mage L5 on the old low sheet. Off-page bar still **1250 / 1500** from estate Mage doubles (not shown on the orb block).
+**Live (chapter):** same Mage L3 rewrite stack as Ch 6. Class +3 Int / +3 Will (permanent). Mage grants still L1 pads (+4 Int / +4 Will). Mage card: mana recovery. Blessed multiplies recovery. Source orb was Mage L5 on the old low sheet. Off-page bar still **1250 / 1500** from estate Mage doubles (not shown on the orb block).
 
-MP check: ((73 × 10) + (60 × 4)) × 1.06 = 970 × 1.06 = **1028** (Blessed = regen narrative only).
+MP check: (73 × 10) + (60 × 4) = **970** (Mage / Blessed = recovery only; printed **1028** stands).
 
 ```
 ════════ STATUS ════════
@@ -295,7 +297,7 @@ No full status screen. First adventurer hunt levels Mage **L3 → L4** on the **
 
 XP bar: enter **1250 / 1500** (estate Mage doubles). Kills **L3 / L4 / L2 / L4 / L5 / L3 / L4** → **150 / 200 / 100 / 200 / 250 / 150 / 200**; level-up after **+150 +200**; overflow **100 / 2000**; day ends **1000 / 2000**.
 
-Class package at L4: +4 Int / +4 Will vs L3’s +3. Blessed = regen narrative only. No on-page attribute sheet.
+Class package at L4: +4 Int / +4 Will vs L3’s +3 (permanent). Mage recovery + Blessed multiplier stay narrative. No on-page attribute sheet.
 
 **Coin (LC):** enter **795** (after Ch 8 gate + card). Spend meal **5** + map **10**. Income ears **35** + stones **60** (= **95** turn-in). End **875 LC**.
 
@@ -342,7 +344,7 @@ Luck                   7
 ════════════════════════
 ```
 
-Design MP = ((Int×10)+(Will×4)) × (1 + 0.02 × Mage level); Mage also **+1% mana regen** per class level. Blessed by Mana = regen narrative only. **Live Ch 10–18 sheets** print the **×1.20** band instead (1798 × 1.20 = **2158** here). Full per-level % waits on a sheet retally.
+MP formula `(Int×10)+(Will×4)`. Mage = mana recovery; Blessed = recovery multiplier; neither raises max MP. Printed **2158** stands.
 
 ## Chapter 11
 
@@ -493,7 +495,7 @@ No full status screen. Gains **1000 XP** from Lesser Impact [Highest] schematic.
 
 No full status screen. Age **11** / world **6 years**. Enter wallet **21,641 LC** (personal **11,641** + parting gift **10 SG**). Solaria tip **−1 SS (−10 LC)** → **21,631**. Guild city map list **2 SS** / Steel **5%** → **−19 LC** → **21,612 LC**. Singing Crow room **−14 LC** → **21,598 LC**. Fire Orb memory redraw: **[High] +600 XP** (over 1 hour; uneven) then thin-sheet **[Highest] +400 XP** (total **1000**). Three Highest lesser schematics now. Train week (**both drills every day**, mana at **~99%** regen ceiling; Ned nibble/poke + **needle-catch / feed-back**; **1 click / ~4 s**): Sound Production **L7**, Echolocation **L7**, Breath Control **L5** (**1 min held = 1 use**), Multitasking **L5**, Throwing **L9** (Basic), Shaping **L7**, Regulation **L8**, Heat **L6**, Heat Resistance **L5**, Cold **L5**, Pain **L5**, Poison **L6**, Recovery **L5**; Hands / Absorption / Reinforcement / Sense stay **L9**; Incantation **L9** (`Skills.md` Ch 19 math). Lodging: The Singing Crow Inn, Edelgard (**14 LC**/night; Steel-band; skipped peasant hostel). Meets Helci.
 
-**Rewrite:** inherits Ch 17 rewrite. Wallet **21,641 → 21,598 LC** after tip + map + room (`Items.md`). Personal **11,641 LC** never replaced by the gift alone. Fire Orb **High→Highest** **+1000 XP** total → bar **3479 / 13000** (`Experience.md`). Lesser quality ladder: **100 / 200 / 400 / 600 / 1000**. Source one-shot Highest **+1000** discarded.
+**Rewrite:** train-week sheet **49/64/72/71/80/156/147/12/7**; HP **950** / MP **2578** / SP **1139** (`ChapterLedger.md`). Wallet **21,641 → 21,598 LC** after tip + map + room (`Items.md`). Personal **11,641 LC** never replaced by the gift alone. Fire Orb **High→Highest** **+1000 XP** total → bar **3479 / 13000** (`Experience.md`). Lesser quality ladder: **100 / 200 / 400 / 600 / 1000**. Source one-shot Highest **+1000** discarded.
 
 **Ned:** overall **26** / **4x** Greater. Train exit skills: Spike **L7**, Silk **L5**, Stealth **L7**, Climbing **L7**, Spring Charge **L6**, Seal **L5**, Poison Resistance **L5**, Pain **L5**, Heat **L5**, Cold **L5** (`NedStatus.md`).
 
@@ -501,7 +503,7 @@ No full status screen. Age **11** / world **6 years**. Enter wallet **21,641 LC*
 
 No full status screen. Supply buy provisional (`Paper.md` / `Economy.md` §17: blanks **~4–5 LC** each, not Source **9 SS**/10). Exeor offers a 6-year cursed Scribe contract; he declines for now. No class or XP change.
 
-**Rewrite:** inherits Ch 17 rewrite. Enter wallet **21,598 LC** after Ch 19 tip + map + Singing Crow night. Coin outlay retuned when Ch 20 is written.
+**Rewrite:** same sheet as Ch 19 exit (`ChapterLedger.md`). Enter wallet **21,598 LC** after Ch 19 tip + map + Singing Crow night. Coin outlay retuned when Ch 20 is written.
 
 ## Chapter 21
 
@@ -546,7 +548,7 @@ Luck                   8
 ════════════════════════
 ```
 
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps **+2% MP / +1% regen × Mage level** (Blessed = regen narrative only); Luck seed **7**):
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps mana recovery narrative; Blessed multiplies recovery; class levels permanently raised Int/Will already; Luck seed **7**):
 
 ```
 ════════ STATUS ════════
@@ -624,7 +626,7 @@ Luck                   8
 ════════════════════════
 ```
 
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps **+2% MP / +1% regen × Mage level** (Blessed = regen narrative only); Luck seed **7**):
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps mana recovery narrative; Blessed multiplies recovery; class levels permanently raised Int/Will already; Luck seed **7**):
 
 ```
 ════════ STATUS ════════
@@ -718,7 +720,7 @@ Luck                   8
 ════════════════════════
 ```
 
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps **+2% MP / +1% regen × Mage level** (Blessed = regen narrative only); Luck seed **7**):
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps mana recovery narrative; Blessed multiplies recovery; class levels permanently raised Int/Will already; Luck seed **7**):
 
 ```
 ════════ STATUS ════════
@@ -749,7 +751,7 @@ Luck                   7
 
 Class change: Runic Blacksmith. No full attribute sheet. MP drops to 1% then +200 from mana potion. Secondary class swap available once/day. Lost Scribe mana-regen bonus when Blacksmith is main. Ladle of Lesser Fire Resistance [Lesser: Lowest, High].
 
-**Rewrite:** Scribe caps at **L25 [X]**; Blacksmith starts **L1** main. Packages switch to **Str/End/Dex +1** per Blacksmith level. Mage secondary may stay for mana **+2% MP / +1% regen × Mage level** (Blessed = regen narrative only). Full sheet next major checkpoint Ch 47.
+**Rewrite:** Scribe caps at **L25 [X]**; **Runic Blacksmith** starts **L1** main. Packages switch to **Str/End/Dex +1** per smith level (permanent). **Class card:** fire resistance + stamina recovery (narrative; lost if smith is dropped from secondary). Mage secondary may stay for mana recovery (Blessed multiplies recovery; permanent Int/Will from Mage levels already on the sheet). Full sheet next major checkpoint Ch 47.
 
 ## Chapter 36
 
@@ -849,7 +851,7 @@ Luck                   8
 ════════════════════════
 ```
 
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps **+2% MP / +1% regen × Mage level** (Blessed = regen narrative only); Luck seed **7**):
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps mana recovery narrative; Blessed multiplies recovery; class levels permanently raised Int/Will already; Luck seed **7**):
 
 ```
 ════════ STATUS ════════
@@ -995,7 +997,7 @@ Luck                   8
 ════════════════════════
 ```
 
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps **+2% MP / +1% regen × Mage level** (Blessed = regen narrative only); Luck seed **7**):
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps mana recovery narrative; Blessed multiplies recovery; class levels permanently raised Int/Will already; Luck seed **7**):
 
 ```
 ════════ STATUS ════════
@@ -1081,7 +1083,7 @@ Luck                   8
 ════════════════════════
 ```
 
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps **+2% MP / +1% regen × Mage level** (Blessed = regen narrative only); Luck seed **7**):
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps mana recovery narrative; Blessed multiplies recovery; class levels permanently raised Int/Will already; Luck seed **7**):
 
 ```
 ════════ STATUS ════════
@@ -1189,7 +1191,7 @@ Luck                   8
 ════════════════════════
 ```
 
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps **+2% MP / +1% regen × Mage level** (Blessed = regen narrative only); Luck seed **7**):
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps mana recovery narrative; Blessed multiplies recovery; class levels permanently raised Int/Will already; Luck seed **7**):
 
 ```
 ════════ STATUS ════════

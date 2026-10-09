@@ -37,7 +37,7 @@ Per-level packages from `Classes.md` / `Levels.md`. Mage: **+1 Intelligence and 
 | Ch 9.5 | Mage → L20 | climbing | climbing | Town mana grind levels Shaping / Regulation / Incantation / Absorption / Reinforcement |
 | Ch 10 | Mage L20 | +20 | +20 | Inn sheet after timeskip |
 
-**Blessed by Mana** is narrative mana regen only (no flat MP; no attribute pads). **Mage class card (locked):** **+2% max MP** and **+1% mana regen** per Mage class level. `MP = ((Int×10)+(Will×4)) × (1 + 0.02 × Mage level)`. Source fixed +20%/+15% discarded.
+**Class levels** permanently raise attributes (packages). **Class cards** are narrative benefits only. **Mage:** mana recovery (kept as primary/secondary; lost when Mage is dropped). **Blessed by Mana:** multiplies mana recovery (permanent perk; no flat MP). `MP = (Int×10)+(Will×4)`. Source fixed +20%/+15% discarded. Do not retally max MP off Mage.
 
 ### 3. Skills / Traits
 
@@ -52,7 +52,7 @@ Rule: skill attribute bonus = **+1 × current skill level** per favored attribut
 | Knowledge Retention | +3 | +5 |
 | **Trait total** | **+13** | **+10** |
 
-Blessed by Mana: regen narrative only (not in MP math). Mage: **+2% MP × class level** after attribute MP.
+Blessed by Mana: recovery multiplier (not in MP math). Mage: mana recovery narrative (not in MP math).
 
 #### Transfer skills (levels held constant unless the story levels them)
 
@@ -156,7 +156,7 @@ Same age-10 body and Basics as pre-class. Class +1 Int / +1 Will. Mage grants L1
 | Skills/Traits | 25 | 23 | 34 | 30 | 31 | 52 | 32 | 4 | 0 |
 | **Total** | **40** | **40** | **50** | **44** | **44** | **71** | **58** | **7** | **7** |
 
-MP = ((71×10)+(58×4)) × 1.02 = 942 × 1.02 = **961** (Mage L1; +2%/level).
+MP = (71×10)+(58×4) = **942** (Mage L1 recovery narrative only; printed sheet stands if different).
 
 All seven **40** attribute perks active (Vit/End already past 40 from Sleep pads).
 
@@ -169,7 +169,7 @@ All seven **40** attribute perks active (Vit/End already past 40 from Sleep pads
 | Skills/Traits | 25 | 23 | 34 | 30 | 31 | 52 | 32 | 4 | 0 |
 | **Total** | **40** | **40** | **50** | **44** | **44** | **73** | **60** | **7** | **7** |
 
-MP = ((73×10)+(60×4)) × 1.06 = 970 × 1.06 = **1028** (Mage L3).
+MP = (73×10)+(60×4) = **970** (Mage L3; printed **1028** stands).
 
 Guild measuring crystal (Ch 8) uses this block. Estate Mage weekly doubles leave the XP bar at **1250 / 1500**. First paid hunt (Ch 9) levels **L3 → L4** (overflow **100 / 2000**, day ends **1000 / 2000**).
 
@@ -182,7 +182,7 @@ Guild measuring crystal (Ch 8) uses this block. Estate Mage weekly doubles leave
 | Skills/Traits | 25 | 23 | 34 | 30 | 31 | 52 | 32 | 4 | 0 |
 | **Total** | **40** | **40** | **50** | **44** | **44** | **74** | **61** | **7** | **7** |
 
-MP = ((74×10)+(61×4)) × 1.06 = 984 × 1.06 = **1043** (Mage L3).
+MP = (74×10)+(61×4) = **984** (Mage package permanent; recovery narrative only).
 
 ### Mage L5 — full stack, still age-10 body (later hunt levels)
 
@@ -225,7 +225,7 @@ Combat math: `Levels.md` field-use curve; table in `Skills.md` Ch 9.5. **L9 hard
 
 HP **536** / MP **2158** / SP **708**.
 
-**MP lock (Ch 10–18 T1 sheets):** printed max MP uses **×1.20** on `((Int×10)+(Will×4))`. Full Mage **+2%/class level** (L20 → ×1.40, L25 → ×1.50) is the design formula; early live sheets stay on the **×1.20** band until a sheet retally. Ch 10: 1798 × **1.20** = **2158**.
+**MP:** formula `(Int×10)+(Will×4)`. Mage / Blessed do **not** multiply max MP. Printed Ch 10–18 sheet figures stand as published; do not retally them off a Mage %.
 
 Reinforcement while active: **+90%** of max MP as bonus base stats (L9 × 10%, 90% cap). Drops when MP is empty.
 
@@ -241,7 +241,7 @@ Enter Ch 13 as post–Ch 12 stack still **Mage L20**, then **+5** Mage packages 
 
 **Ch 13 skill pads** (no evolves; **half a year** with the girls): Sword Basic **L8→L9** Str **+1**; Dodging Basic **L4→L6** Agi **+2**; Sneaking Basic **L8→L9** Agi **+1**; Marksmanship **L7→L9** Dex **+2**; Incantation **L6→L9** Int **+3** Will **+3**; Shaping **L6→L7** Int **+2** Will **+1**; Regulation **L7→L8** Int **+1** Will **+2**; Alcohol **L1→L4** End **+3**; Poison **L1→L6** Vit **+5** End **+5**; Recovery **L1→L5** Vit **+5** End **+5**.
 
-**Live Ch 13 sheet:** Str **49** / Agi **63** / Dex **59** / Vit **57** / End **62** / Int **137** / Will **135** / Cha **12** / Luck **7**; HP **756** / MP **2292** / SP **956**. MP = 1910 × **1.20** = **2292**.
+**Live Ch 13 sheet:** Str **49** / Agi **63** / Dex **59** / Vit **57** / End **62** / Int **137** / Will **135** / Cha **12** / Luck **7**; HP **756** / MP **2292** / SP **956**. Printed MP stands; Mage is recovery only.
 
 **Ch 14:** **Basic Dodging L6→L7** mid-chase (**Agi +1**). Live **Agi 64** / SP **959**.
 
@@ -256,20 +256,20 @@ Pouch at `"*Not bad.*"`: **~5,977 LC** (`Experience.md`). Wallet into Ch 19: **5
 | Checkpoint | Live sheet | Notes |
 |---|---|---|
 | Ch 2 | Int 41 / Will 18 | Int **42** / Will **25** (new mental body) still a soft gap |
-| Ch 10 | **46/50/56/41/42/129/127/11/7**; HP **536** / MP **2158** / SP **708** | Mentals match peak-use foundations; MP ×**1.20** band |
-| Ch 13 | **49/63/59/57/62/137/135/12/7**; HP **756** / MP **2292** / SP **956** | Synced; MP ×**1.20** band |
+| Ch 10 | **46/50/56/41/42/129/127/11/7**; HP **536** / MP **2158** / SP **708** | Mentals match peak-use foundations; printed MP stands |
+| Ch 13 | **49/63/59/57/62/137/135/12/7**; HP **756** / MP **2292** / SP **956** | Synced; Mage/Blessed = recovery only |
 
-### Post–Ch 13 rewrite checkpoints (delta method)
+### Post–Ch 13 checkpoints (live spine)
 
-Method: Source live growth from Ch 13 Source sheet → later live full sheet, applied to the **Ch 13 rewrite** baseline. Luck stays rewrite seed **7**. Mage secondary keeps **+2% MP / +1% regen per Mage level** (L25 → +50% MP / +25% regen). **Blessed by Mana** is regen narrative only (not in MP). Full Live + Rewrite blocks: `Status.md`.
+Authoritative Ch 1–20 rows: `ChapterLedger.md` / `Attributes.md`. Luck seed **7**. Printed MP stands through Ch 20 (no Mage max-MP %). Full screens: `Status.md`.
 
-| Ch | Overall | Main | Rewrite (Str/Agi/Dex/Vit/End/Int/Will/Cha/Luck) | HP / MP / SP |
+| Ch | Overall | Main | Live (Str/Agi/Dex/Vit/End/Int/Will/Cha/Luck) | HP / MP / SP |
 |---|---|---|---|---|
-| 13 | L25 | Mage L25 | **47/61/57/47/52/137/135/12/7** | **626 / 2292 / 844** |
-| 14 | L25 | Mage L25 | **47/62/57/47/52/137/135/12/7** | **626 / 2292 / 847** |
-| 16 | L26 | Scribe L1 | **47/62/58/47/52/138/136/12/7** | **626 / 2309 / 847** |
-| 17 | L26 | Scribe L1 | **47/62/58/47/52/138/136/12/7** | **626 / 2309 / 847** (bar **1479 / 13000**) |
-| 18 | L26 | Scribe L1 | **47/62/68/47/52/138/136/12/7** | **626 / 2309 / 847** (Drawing tree Dex **+10**; bar **2479 / 13000**) |
+| 13 | L25 | Mage L25 | **49/63/59/57/62/137/135/12/7** | **756 / 2292 / 956** |
+| 14–15 | L25 | Mage L25 | **49/64/59/57/62/137/135/12/7** | **756 / 2292 / 959** |
+| 16–17 | L26 | Scribe L1 | **49/64/60/57/62/138/136/12/7** | **756 / 2309 / 959** (bar **1479 / 13000**) |
+| 18 | L26 | Scribe L1 | **49/64/61/57/62/138/136/12/7** | **756 / 2309 / 959** (Drawing **+1**; bar **2479 / 13000**) |
+| 19–20 | L26 | Scribe L1 | **49/64/72/71/80/156/147/12/7** | **950 / 2578 / 1139** (train pads; bar **3479 / 13000**) |
 | 23 | L35 | Scribe L10 | **48/63/79/51/54/147/145/13/7** | **675 / 2460 / 895** |
 | 27 | L45 | Scribe L20 | **49/64/92/52/56/157/154/14/7** | **691 / 2623 / 921** |
 | 34 | L50 | Scribe L25 | **51/66/99/54/57/162/158/14/7** | **714 / 2702 / 943** |
