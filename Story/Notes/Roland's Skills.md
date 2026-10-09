@@ -9,10 +9,10 @@ Excludes Agni, Millie, Bernir, Lucille, Robert, Arthur skills and traits.
 
 1. Identify – Ch 2 – boy’s original (no attribute line)
 2. Mana Sense – Ch 2 – boy’s original (Intelligence +level, Willpower +level; L1 at transfer)
-3. Debugger – Ch 2 – previous life – Intelligence +8 at L8
+3. Diagnosis – Ch 2 – previous life – Intelligence +8 at L8
 4. Technology – Ch 2 – previous life (Source: Circuitry) – Dexterity +7, Intelligence +7 at L7; Ch 4 clock: conceptual / understanding
 5. Sleep Resistance – Ch 2 – previous life; **Vitality +level**, **Endurance +level** (L4 at transfer → Vit **+4** / End **+4**; Ch 12 → **L5**)
-6. Tinkerer – Ch 2 – previous life – Dexterity +8 at L8; Ch 4 clock: physical / mechanical
+6. Fabrication – Ch 2 – previous life – Dexterity +8 at L8; Ch 4 clock: physical / mechanical
 7. Cooking – Ch 2 – previous life – Dexterity +3, Agility +3 at L3
 8. Marksmanship – Ch 2 – previous life – Dexterity +7 at L7 (`Progression.md` firearms track); stays **L7** through Ch 9.5–10 (L8 needs **100,000**; named on-page Ch 10); Ch 13 → **L9**
 9. Acting – Ch 2 – previous life – Charisma +4 at L4
@@ -70,7 +70,7 @@ Age-10 technique targets: see `Progression.md` / Ch 7 note in `Skills.md`. Chapt
 
 Ch 13 combat/technique ranks (**half a year** with the girls after **3 months** goblins; no evolves): Mana Shield **L3→L8**; Mana Arrow **L4→L8**; Mana Bolt **L5→L9**; Basic Incantation **L6→L9**; Basic Dodging **L4→L6**; Basic Sword **L8→L9**; Basic Sneaking **L8→L9**; Marksmanship **L7→L9**; Shaping **L6→L7**; Regulation **L7→L8**; Heat **L5→L6**; Basic Calligraphy **L4→L9**; Alcohol **L1→L4**; Mana Hands **L7→L9**; Temperature Resistance **L1**. Live sheet: Str **49** / Agi **63** / Dex **59** / Vit **57** / End **62** / Int **137** / Will **135** / Cha **12** / Luck **7**; HP **756** / MP **2292** / SP **956**. Ch 14: **Basic Dodging L7**, Agi **64**, SP **959**. Full table: `Skills.md` Ch 13 / `StatusBreakdown.md`.
 
-**Ch 15:** no new combat skills. Debugger + Technology on the detonation rapier → **Lesser Detonation Rune [Highest]** schematic (**+1000 XP**). Title: **Runic Scholar** (unlocks Runic Mana Scribe). Bank **1479** into Ch 16. Details: `Skills.md` / `Notes.md`.
+**Ch 15:** no new combat skills. Diagnosis + Technology on the detonation rapier → **Lesser Detonation Rune [Highest]** schematic (**+1000 XP**). Title: **Runic Scholar** (unlocks Runic Mana Scribe). Bank **1479** into Ch 16. Details: `Skills.md` / `Notes.md`.
 
 ## Runic Mana Scribe (Ch 16)
 
@@ -80,7 +80,7 @@ Ch 13 combat/technique ranks (**half a year** with the girls after **3 months** 
 
 **Ch 17:** Basic Rune Mastery L1 tested on the detonation rapier (Mana Shield muffles tip blast; **−10%** activation). No new skill unlocks. Hammer borrow set up for Ch 18. Details: `Skills.md` / `Notes.md`.
 
-**Ch 18:** **Drawing L1** (Basic Drawing L9 breakthrough via Impact schematic Debugger overlay). **Lesser Impact Rune [Highest]** + **1000 XP**. Bar **2479 / 13000**. Details: `Skills.md` / `Notes.md`.
+**Ch 18:** **Drawing L1** (Basic Drawing L9 breakthrough via Impact schematic Diagnosis overlay). **Lesser Impact Rune [Highest]** + **1000 XP**. Bar **2479 / 13000**. Details: `Skills.md` / `Notes.md`.
 
 ## Runic Blacksmith era (~Ch 35–80)
 
@@ -111,7 +111,7 @@ Ch 13 combat/technique ranks (**half a year** with the girls after **3 months** 
 66. Upgrade Rune – ~Ch 150–170 (on sheet by Ch 171)
 67. Basic Empower Rune – ~Ch 150–170 (on sheet by Ch 171)
 68. High Analyze – before Ch 171 – Analyze evolution
-69. Expert Tinkerer – ~Ch 171 – past L9 threshold
+69. Expert Fabrication – ~Ch 171 – past L9 threshold
 70. Runic Eye of Truth – Ch 188 – Lord max grant
 
 ## Runic Engineer (Ch 196+)

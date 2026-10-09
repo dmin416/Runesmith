@@ -11,7 +11,7 @@ Attribute growth from these skills follows **+1 × skill level** (`Levels.md`). 
 | **Basic Mathematics** (already had) | Decades of school and work math. Already on his sheet at transfer. He does not unlock arithmetic from HP formulas. | Ch 2 “You have learned Basic Mathematics” |
 | **Analyze** (first in-Terra unlock) | First new skill on Terra. Same moment he reverse-engineers status math: he is analyzing a system. Start Analyze L1 here; Identify stays the boy’s shallow scan. | Analyze at Ch 81 (Runesmith Lord) |
 | **Hastened Reading** L2 | Lifetime of novels, manuals, tech docs, skimming for the useful part. Already on sheet at transfer at L2 with Intelligence +2. Library grind levels it further, does not invent it at Ch 308. | Ch ~308 |
-| **Parallel Thinking** (skill) | Modern multitasking: work, hobby projects, mental checklists, holding several failure modes at once. Debugger already implies this. Level = true parallel count. | Ch ~148 |
+| **Parallel Thinking** (skill) | Modern multitasking: work, hobby projects, mental checklists, holding several failure modes at once. Diagnosis already implies this. Level = true parallel count. | Ch ~148 |
 | **Logical Thinker** (trait, already in rewrite) | Keep. It justifies early Analyze / Parallel Thinking. Will +5, Int +5. | — |
 | **Fast Learning** / **Knowledge Retention** (boy + adult) | Keep. Pair with Hastened Reading so book work is visibly unfair early. | — |
 | **Map Reading** (already had) | Maps, GPS habits, reading diagrams and floor plans. Already on his sheet at transfer. Not unlocked at Ch 35. | Ch ~35 |
@@ -36,7 +36,7 @@ Attribute growth from these skills follows **+1 × skill level** (`Levels.md`). 
 | **Basic Blueprint Fabrication** (proto / diagrams) | Engineers sketch systems. Paper diagrams of spells and gear before formal Engineer class. | Ch 253 |
 | **Basic Rapid Assembly** mindset | Hobby builds and lab repair: plan parts, assemble fast. Formal skill can wait; behavior and partial unlock early. | Ch 251 |
 | **Marksmanship** (already transfer in rewrite) | Keep and use at **L7**. Ranged identity starts here, not sword main. Dexterity +level. See `Progression.md` firearms justification. | — |
-| **Tinkerer** / **Technology** | Keep. Clock: Tinkerer physical/mechanical, Technology conceptual/understanding. Push tools and simple machines. | — |
+| **Fabrication** / **Technology** | Keep. Clock: Fabrication physical/mechanical, Technology conceptual/understanding. Push tools and simple machines. | — |
 
 ## Combat Basics (Ch 4–7)
 
@@ -70,7 +70,7 @@ These should stay behind class, pain, or politics even if he is clever:
 
 ## Rewrite rule of thumb
 
-1. **Transfer:** Debugger, Technology, Tinkerer, Sleep Resistance, Marksmanship, Cooking, Acting, Logical Thinker, Fast Learning, Knowledge Retention, Hastened Reading L2, Parallel Thinking, Basic Mathematics, Map Reading, strong Reading Proficiency (L7+).
+1. **Transfer:** Diagnosis, Technology, Fabrication, Sleep Resistance, Marksmanship, Cooking, Acting, Logical Thinker, Fast Learning, Knowledge Retention, Hastened Reading L2, Parallel Thinking, Basic Mathematics, Map Reading, strong Reading Proficiency (L7+).
 2. **First in-Terra unlock:** Analyze L1 from the status analysis. Identify stays boy-tier until Analyze eats the deep work.
 3. **First mana week:** deliberate ambient absorption drills seed the later **Mana Absorption** / Regulation path at Mage; Mana Sense climbs fast (Int +level). Full Absorption + Reinforcement land in Ch 9.5.
 4. **Library:** Hastened Reading + Analyze + Reading Proficiency level off books. Body Int/Will also rise on the adult-mind age track from daily reading.

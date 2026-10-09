@@ -295,7 +295,7 @@ Roland still **Mage L25** (cap; **+479** banks toward class change). **Ned** tak
 
 ## Ch 15 Detonation schematic
 
-Inn study of the watcher's detonation rapier (Debugger / Technology pathways → Calligraphy redraw).
+Inn study of the watcher's detonation rapier (Diagnosis / Technology pathways → Calligraphy redraw).
 
 | Source | XP | Notes |
 |---|---:|---|
@@ -311,7 +311,7 @@ No kill XP. Crystal used → **Runic Mana Scribe**. Banked **1479** applies in f
 
 ## Ch 18 Impact schematic
 
-Sahildr's hammer copy (Debugger overlay on paper; not scribing). Drawing breakthrough on the same beat.
+Sahildr's hammer copy (Diagnosis overlay on paper; not scribing). Drawing breakthrough on the same beat.
 
 | Source | XP | Notes |
 |---|---:|---|
@@ -321,7 +321,7 @@ Sahildr's hammer copy (Debugger overlay on paper; not scribing). Drawing breakth
 
 ## Ch 19 Fire Orb schematic
 
-Inn redraw from class-trial memory (not Debugger on a weapon). First pass **over** 1 hour (uneven; first real-world Fire Orb draw). Source one-shot **[Highest] +1000** discarded.
+Inn redraw from class-trial memory (not Diagnosis on a weapon). First pass **over** 1 hour (uneven; first real-world Fire Orb draw). Source one-shot **[Highest] +1000** discarded.
 
 **Lesser quality XP ladder** (`Levels.md`): Lowest **100** / Low **200** / Intermediate **400** / High **600** / Highest **1000**. Raising quality pays the **difference** only.
 
@@ -331,4 +331,4 @@ Inn redraw from class-trial memory (not Debugger on a weapon). First pass **over
 | **Lesser Fire Orb Rune [Highest]** | **400** | Thin-sheet trace of correct lines (diff High→Highest) |
 | **Total** | **1000** | Same as going straight to Highest |
 
-**Bar:** **2479 + 1000 = 3479 / 13000** toward L27. Still overall **L26** / Scribe **L1**. Three Highest lesser schematics (Detonation + Impact + Fire Orb). Cut-paper Debugger overlays fail (needs one whole sheet).
+**Bar:** **2479 + 1000 = 3479 / 13000** toward L27. Still overall **L26** / Scribe **L1**. Three Highest lesser schematics (Detonation + Impact + Fire Orb). Cut-paper Diagnosis overlays fail (needs one whole sheet).

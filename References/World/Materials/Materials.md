@@ -15,7 +15,7 @@ COMMON craft/organic: leather · linen · wool · hemp/rope · pitch/tar · char
 
 COMMON beast (magical): hide · bone · scale · tendon · silk · similar → Biomaterials.md (N× / monster grades; mundane bone/leather still COMMON above)
 
-MAGIC Ag: mythril (converted silver; grades by %; best common rune host below aetherium)
+MAGIC Ag: mythril (converted silver; grades by %; ~10% lighter than steel, sword-grade strength, extreme conductivity; best common rune host below aetherium)
 MAGIC Au: orihalcum (converted gold; magic resistance = % conversion)
 MAGIC Cu: aurium (converted copper; damps flowing mana; industrial insulator)
 MAGIC Fe: darkiron (<80%) → star iron (≥80%)

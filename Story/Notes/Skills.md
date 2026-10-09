@@ -10,9 +10,9 @@ Trait Int/Will bonuses are flat cards. They sit in the Skills/Traits bucket with
 
 | Skill | Favored attributes |
 |---|---|
-| Debugger | Intelligence |
+| Diagnosis | Intelligence |
 | Technology | Dexterity, Intelligence |
-| Tinkerer | Dexterity |
+| Fabrication | Dexterity |
 | Cooking | Dexterity, Agility |
 | Marksmanship | Dexterity |
 | Expert Marksmanship | Dexterity, Willpower |
@@ -73,24 +73,24 @@ No skill menu yet. Status name only. No trait menu yet.
 ## Chapter 2
 
 Boy's original skills before transfer: Identify, Mana Sense.
-Brought from previous life: Debugger, Technology, Sleep Resistance, Tinkerer, Cooking, Marksmanship, Acting, Basic Mathematics, Map Reading, Hastened Reading.
+Brought from previous life: Diagnosis, Technology, Sleep Resistance, Fabrication, Cooking, Marksmanship, Acting, Basic Mathematics, Map Reading, Hastened Reading.
 Also learned: Analyze (from reverse-engineering the status formulas).
 
 ```
 ════════ SKILLS ════════
-Debugger L8          Passive
+Diagnosis L8         Passive
 Allows the user to find and resolve defects.
 Bonus to Intelligence +8
 
 Technology L7        Passive
 Bonus to repair and creation of technology or technological equivalents.
 Bonus to Dexterity +7 and Intelligence +7
-Ch 4: conceptual / understanding side of the clock (with Tinkerer).
+Ch 4: conceptual / understanding side of the clock (with Fabrication).
 
 Sleep Resistance L4  Passive
 Require less sleep and feel less tired.
 
-Tinkerer L8          Passive
+Fabrication L8       Passive
 Increased proficiency in the creation and repair of various crafts.
 Bonus to Dexterity +8
 Ch 4: physical / mechanical side of the clock (with Technology).
@@ -178,7 +178,7 @@ Leveling those Basics: he runs faster, jumps higher and punches harder (techniqu
 - Most pre-ascension skills are Basics and combat-leaning.
 - Hitting heated horseshoes / forge work: **no** smithing skills without Blacksmith class. Combat hammer skills possible in theory; Baron forbids forge work.
 
-Later also: Climbing (Str/Agi), Throwing (Dex), closet/basement Sneaking tests (Agi), One-handed Swordsmanship from house drills (Str). Leather armor worn in bravery test; proficiency by Ch 4–7 (End). Reading Proficiency on transmigrator table (Int). Debugger still unclear. Clock rearrange: **Tinkerer** = physical/mechanical parts fit; **Technology** = conceptual/understanding. Both likely involved.
+Later also: Climbing (Str/Agi), Throwing (Dex), closet/basement Sneaking tests (Agi), One-handed Swordsmanship from house drills (Str). Leather armor worn in bravery test; proficiency by Ch 4–7 (End). Reading Proficiency on transmigrator table (Int). Diagnosis still unclear. Clock rearrange: **Fabrication** = physical/mechanical parts fit; **Technology** = conceptual/understanding. Both likely involved.
 Identify rises with reading and appraisal. Sleep Resistance: −10% sleep needed per level (see `References/Progression/Skills.md`). Ambient mana absorb blocked until Mage/Acolyte (mana poisoning).
 Age 9: short sword Identify shows Common steel with ???? attack and defense.
 
@@ -517,7 +517,7 @@ Dodging mid-chase popup (**Basic Dodging L6→L7**; **Agi +1**). Still Basic —
 
 ## Chapter 15
 
-No new combat skills. **Debugger** + **Technology** on the watcher's detonation rapier: surface symbols hide a deeper pathway structure (flow-puzzle / electrical diagram). Magnify overlay drains mana while viewing. Red = fault, green = correct, blue = optimal (not on current paths); cast mana runs green+red only. Hold-test arms the tip lock (insert to fire; free force weaker; hold trickles mana / warms blade). Technology fills rune knowledge gaps on encounter. Calligraphy redraw of the improved circuit (~**1 hour**). Created **Lesser Detonation Rune [Highest]** schematic (+**1000 XP**). Title: **Runic Scholar**. Still Mage L25. Class stone deferred. Enchantment / Enchanter path noted as affinity-gated dead end; runes are the workable craft pull.
+No new combat skills. **Diagnosis** + **Technology** on the watcher's detonation rapier: surface symbols hide a deeper pathway structure (flow-puzzle / electrical diagram). Magnify overlay drains mana while viewing. Red = fault, green = correct, blue = optimal (not on current paths); cast mana runs green+red only. Hold-test arms the tip lock (insert to fire; free force weaker; hold trickles mana / warms blade). Technology fills rune knowledge gaps on encounter. Calligraphy redraw of the improved circuit (~**1 hour**). Created **Lesser Detonation Rune [Highest]** schematic (+**1000 XP**). Title: **Runic Scholar**. Still Mage L25. Class stone deferred. Enchantment / Enchanter path noted as affinity-gated dead end; runes are the workable craft pull.
 
 ### Traits
 
@@ -531,7 +531,7 @@ Gained (permanent after pass):
 - Basic Rune Scribing L1 (scribe runes to scrolls)
 - Basic Rune Mastery L1 (rune comprehension; **−10%** activation cost per level on Lesser; **−90%** at L9)
 
-Reading Proficiency from Arden library aids the trial book. Temporary versions after the book / before assemble. Debugger blank mid-inscribe; scores the finished diagram only. Fire Orb = **five**-region linear chain (collector → fire core → shape → constrain → velocity); no binary / logic-gate parse on-page. First attempt fails (red). Mana-hand overlay blunder (~**1/4 MP** cascade). Second succeeds on last sand (~**1/4 MP** again). **Ned** silk-holds him upright on return.
+Reading Proficiency from Arden library aids the trial book. Temporary versions after the book / before assemble. Diagnosis blank mid-inscribe; scores the finished diagram only. Fire Orb = **five**-region linear chain (collector → fire core → shape → constrain → velocity); no binary / logic-gate parse on-page. First attempt fails (red). Mana-hand overlay blunder (~**1/4 MP** cascade). Second succeeds on last sand (~**1/4 MP** again). **Ned** silk-holds him upright on return.
 
 ### Traits
 
@@ -543,12 +543,12 @@ No new named skills. Basic Rune Mastery L1 tested on the detonation rapier (**�
 
 ## Chapter 18
 
-Gained: **Drawing L1** (**Dexterity +1**). Basic Drawing was already **L9** (**Dexterity +9** baked). Drawing tree Dex total: **+10**. Breakthrough via Runic Mana Scribe diagrams (Debugger overlay copy of Sahildr's Impact hammer; not scribing).
+Gained: **Drawing L1** (**Dexterity +1**). Basic Drawing was already **L9** (**Dexterity +9** baked). Drawing tree Dex total: **+10**. Breakthrough via Runic Mana Scribe diagrams (Diagnosis overlay copy of Sahildr's Impact hammer; not scribing).
 Created **Lesser Impact Rune [Highest]** schematic (**+1000 XP** → bar **2479 / 13000**). Two Highest lesser schematics now (Detonation + Impact). Fire Orb schematic still pending. Component-fantasy beat: current forms weapon-best but other applications imagined.
 
 ## Chapter 19
 
-Created **Lesser Fire Orb Rune [High]** from class-trial memory (**over** 1 hour; **+600 XP**; uneven / first real-world Fire Orb draw). Thin-sheet trace of Debugger-correct lines → **[Highest]** (**+400 XP**). Total **1000** (Source one-shot Highest **+1000** discarded). Lesser quality XP: **100 / 200 / 400 / 600 / 1000**. Three Highest lesser schematics. Nature lock on-page: **large linear segments** / five Fire Orb stages (collector → fire core → shape → constraint → velocity); Detonation / Impact same chain family; **not** Source resistor / transistor / memory modules. Debugger fails on cut-paper overlays (needs whole sheet). Quill + **Mana Hands** ink refill (multitask practice); wants a pencil (`WritingTools.md`: invent later, not buy). Sleep Resistance noted on the long train.
+Created **Lesser Fire Orb Rune [High]** from class-trial memory (**over** 1 hour; **+600 XP**; uneven / first real-world Fire Orb draw). Thin-sheet trace of Diagnosis-correct lines → **[Highest]** (**+400 XP**). Total **1000** (Source one-shot Highest **+1000** discarded). Lesser quality XP: **100 / 200 / 400 / 600 / 1000**. Three Highest lesser schematics. Nature lock on-page: **large linear segments** / five Fire Orb stages (collector → fire core → shape → constraint → velocity); Detonation / Impact same chain family; **not** Source resistor / transistor / memory modules. Diagnosis fails on cut-paper overlays (needs whole sheet). Quill + **Mana Hands** ink refill (multitask practice); wants a pencil (`WritingTools.md`: invent later, not buy). Sleep Resistance noted on the long train.
 
 ### Train-week skill math (locked)
 
@@ -599,7 +599,7 @@ No new skills. Hides Runic Mana Scribe while job hunting as Mana Scribe. Still h
 
 ## Chapter 21
 
-First on-page Mana Scribing: Mana Arrow scroll (~10 min, +20 XP; Identify = name only). First practice Fire Orb runic scroll (~45 min, +50 XP; Debugger red). Debugger blank on regular scrolls. Runic scrolls work at 0% elemental affinity. Plans auction practice grind.
+First on-page Mana Scribing: Mana Arrow scroll (~10 min, +20 XP; Identify = name only). First practice Fire Orb runic scroll (~45 min, +50 XP; Diagnosis red). Diagnosis blank on regular scrolls. Runic scrolls work at 0% elemental affinity. Plans auction practice grind.
 
 ## Chapter 22
 
@@ -619,7 +619,7 @@ No new skills. Class exposed: high Identify reads **Runic Mana Scribe L10** with
 
 ## Chapter 26
 
-Debugger maps Common Frost/Gale Arrow [Highest] (+2000 XP each) and grafts Lesser Smoke Arrow [Lowest]. Status-hide armband (reads as Mana Scribe). Circuit research: shared arrow rune; power-input plug; series/parallel; resistor swap dims Orb of Light. Hides Debugger from boss. Min 10 common Fire Arrows/week (~1 hour each).
+Diagnosis maps Common Frost/Gale Arrow [Highest] (+2000 XP each) and grafts Lesser Smoke Arrow [Lowest]. Status-hide armband (reads as Mana Scribe). Circuit research: shared arrow rune; power-input plug; series/parallel; resistor swap dims Orb of Light. Hides Diagnosis from boss. Min 10 common Fire Arrows/week (~1 hour each).
 
 ## Chapter 27
 
@@ -647,7 +647,7 @@ Scroll frost/water/whirlwind/gale/rock arrows simulate blizzard. Explosive deton
 
 ## Chapter 33
 
-Basic Rune Mastery maxed (mine scroll combat). Debugger used on overloaded fire-pelt scroll (recap). Plans barrier add-on for next overload scroll. Combat skills noted as stagnant.
+Basic Rune Mastery maxed (mine scroll combat). Diagnosis used on overloaded fire-pelt scroll (recap). Plans barrier add-on for next overload scroll. Combat skills noted as stagnant.
 
 ## Chapter 34
 
@@ -699,7 +699,7 @@ Smithing practice: Crude Steel Utility Knife [Intermediate]. Ten iron bodkin arr
 
 ## Chapter 44
 
-Basic Forging L4. Basic Smithing Mastery L4. Runic Blacksmith class L3. Lesser Scorch Rune schematic [Low] via Debugger + Knowledge Retention. Bronze Leaf Sword of Lesser Scorching [Intermediate, High]. Ethereal Pathways used for wooden hilt.
+Basic Forging L4. Basic Smithing Mastery L4. Runic Blacksmith class L3. Lesser Scorch Rune schematic [Low] via Diagnosis + Knowledge Retention. Bronze Leaf Sword of Lesser Scorching [Intermediate, High]. Ethereal Pathways used for wooden hilt.
 
 ## Chapter 45
 
@@ -707,7 +707,7 @@ Blacksmith Identify on Helci's Steel Shortsword. Plans Mana Slash schematic borr
 
 ## Chapter 46
 
-Sharp Runic Steel Longsword [Intermediate, High] (Lesser Sharpness). Mana Slash schematic borrowed via Debugger (Helci distraction). Continues steel Runecraft grind; scribing deprioritized with boss approval.
+Sharp Runic Steel Longsword [Intermediate, High] (Lesser Sharpness). Mana Slash schematic borrowed via Diagnosis (Helci distraction). Continues steel Runecraft grind; scribing deprioritized with boss approval.
 
 ## Chapter 47
 
@@ -715,7 +715,7 @@ Gained: Basic Rune Compression (book), Runic Blacksmith's Eyes (class ~L13), Bla
 
 ## Chapter 48
 
-Debugger used on new Slot socket design. Sleep Resistance mentioned (near limit). No new skill unlocks. Title: Runic Scholar II.
+Diagnosis used on new Slot socket design. Sleep Resistance mentioned (near limit). No new skill unlocks. Title: Runic Scholar II.
 
 ### Traits
 
@@ -731,7 +731,7 @@ No new Roland skill unlocks. Identify on slotted sword triggers cliffhanger anom
 
 ## Chapter 51
 
-Debugger used to map greater illusion pathways and locate prime rune. Runecraft mana touch used to sever/repair-race pathways. Fire Arrow condensed magic paddle used in illusion and as planned real-world shot at device. No new skill unlock.
+Diagnosis used to map greater illusion pathways and locate prime rune. Runecraft mana touch used to sever/repair-race pathways. Fire Arrow condensed magic paddle used in illusion and as planned real-world shot at device. No new skill unlock.
 
 ## Chapter 52
 
@@ -739,7 +739,7 @@ Fire Arrow steel paddle (~10 charges via Compression; repairable paddle form). M
 
 ## Chapter 53
 
-Debugger + Mana Sense on Solaria healing: no runic diagram. Workshop electro trap runes (activate/deactivate); under-bed illusion rune stash. Slot/mana-stone recharge idea for traps noted. No new skill unlock.
+Diagnosis + Mana Sense on Solaria healing: no runic diagram. Workshop electro trap runes (activate/deactivate); under-bed illusion rune stash. Slot/mana-stone recharge idea for traps noted. No new skill unlock.
 
 ## Chapter 54
 
@@ -767,11 +767,11 @@ Runic grenades (Compression + Ethereal Pathways + scroll core). Water/freeze ext
 
 ## Chapter 59
 
-Fire Arrow paddle (deteriorating). Mana Arrow / Mana Bolt wand barrage. Debugger on arming sword + slave collar runes. No new skill unlock.
+Fire Arrow paddle (deteriorating). Mana Arrow / Mana Bolt wand barrage. Diagnosis on arming sword + slave collar runes. No new skill unlock.
 
 ## Chapter 60
 
-Debugger + Runecraft destroy collar prime runes. Fire Arrow paddle repaired and used. Mana Thrust on slotted arming sword vs Bocanach. Identify: Adolescent Bocanach L46. No new skill unlock.
+Diagnosis + Runecraft destroy collar prime runes. Fire Arrow paddle repaired and used. Mana Thrust on slotted arming sword vs Bocanach. Identify: Adolescent Bocanach L46. No new skill unlock.
 
 ### Traits
 
@@ -799,11 +799,11 @@ Shadow veil scroll spent. Most mine/detonation scrolls spent. Detection orb used
 
 ## Chapter 65
 
-Debugger/Identify on deep-metal loot. Plans Compression for common rune on dagger. No new skill unlock.
+Diagnosis/Identify on deep-metal loot. Plans Compression for common rune on dagger. No new skill unlock.
 
 ## Chapter 66
 
-Debugger on ship cannons (common runes + mana stones; detonation-like propellant). Cannon schematic sketched. Considers T2 hybrid / Runic Weaponsmith / Armorsmith. No new skill unlock.
+Diagnosis on ship cannons (common runes + mana stones; detonation-like propellant). Cannon schematic sketched. Considers T2 hybrid / Runic Weaponsmith / Armorsmith. No new skill unlock.
 
 ## Chapter 67
 
@@ -823,7 +823,7 @@ Crafts crude Poison Cloud wand (slow mist; ~10 min linger in jar). Pressurized w
 
 ## Chapter 71
 
-Chilling armor rune (buff-like MP drain while active). Runecrafted shield. Debugger on dungeon gate (no runes). Close-combat grind plan (sword/block/dodge). Mana-imbued sword vs Fire Slime. No new skill unlock.
+Chilling armor rune (buff-like MP drain while active). Runecrafted shield. Diagnosis on dungeon gate (no runes). Close-combat grind plan (sword/block/dodge). Mana-imbued sword vs Fire Slime. No new skill unlock.
 
 ## Chapter 72
 
@@ -839,7 +839,7 @@ Mana Sense on auction music box (ambient absorption pathways). Engine/generator 
 
 ## Chapter 75
 
-Debugger on High-grade deep-iron music-box plate (slime-core battery + siphon). Mana Thrust vs Baby Salamander. Shield Mana Shield + fire resist vs breath. Multi-enemy / shield-bash practice. No new skill unlock.
+Diagnosis on High-grade deep-iron music-box plate (slime-core battery + siphon). Mana Thrust vs Baby Salamander. Shield Mana Shield + fire resist vs breath. Multi-enemy / shield-bash practice. No new skill unlock.
 
 ## Chapter 76
 

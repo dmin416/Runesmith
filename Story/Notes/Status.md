@@ -83,8 +83,8 @@ Resource formulas: HP = (Vitality x 10) + (Endurance x 3), SP = (Endurance x 10)
 
 **Rewrite target resources:** HP 52/52, SP 76/76, MP 520/520 (Int 42 × 10 + Will 25 × 4).
 
-Int skill and trait bonuses at transfer: Debugger +8, Technology +7, Hastened Reading +2, Logical Thinker +5, Fast Learning +5, Knowledge Retention +3 (total +30).
-Dex skill bonuses at transfer: Technology +7, Tinkerer +8, Cooking +3, Marksmanship +7 (total +25 → 29 from bare 4).
+Int skill and trait bonuses at transfer: Diagnosis +8, Technology +7, Hastened Reading +2, Logical Thinker +5, Fast Learning +5, Knowledge Retention +3 (total +30).
+Dex skill bonuses at transfer: Technology +7, Fabrication +8, Cooking +3, Marksmanship +7 (total +25 → 29 from bare 4).
 Agility skill bonuses at transfer: Cooking +3 (total +3 → 8 from bare 5).
 Charisma skill bonuses at transfer: Acting +4 (total +4 → 7 from bare 3).
 Willpower trait bonuses at transfer: Logical Thinker +5, Knowledge Retention +5 (total +10 → 25 from bare 15).
@@ -507,7 +507,7 @@ No full status screen. Supply buy provisional (`Paper.md` / `Economy.md` §17: b
 
 ## Chapter 21
 
-No full status screen. Gains **20 XP** (Mana Arrow scroll, ~10 min) and **50 XP** (Fire Orb runic scroll, ~45 min, imperfect). Debugger works on runic only. Auction plan set (bundles of ten). Runway ~half year on party gold. Refuses cursed shop contracts (−60% mana).
+No full status screen. Gains **20 XP** (Mana Arrow scroll, ~10 min) and **50 XP** (Fire Orb runic scroll, ~45 min, imperfect). Diagnosis works on runic only. Auction plan set (bundles of ten). Runway ~half year on party gold. Refuses cursed shop contracts (−60% mana).
 
 **Rewrite:** inherits Ch 17 rewrite; Mana Scribing / Rune Scribing climbing off-page toward Ch 22–23 ranks.
 

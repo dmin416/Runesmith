@@ -70,7 +70,7 @@ Ch 19 bare MP: `(156×10)+(147×4)` = **2148**. Printed ledger/target **2578** s
 ### Chapter 1
 - **Time:** Age 5 / year 0. Transfer day.
 - **Sheet:** Transfer live (see spine). No class.
-- **Skills:** Transfer set lands (Identify, Mana Sense L1→climbing, Debugger, Technology, Sleep Resistance, Tinkerer, Cooking, Marksmanship L7, Acting, Math, Map Reading, Hastened Reading, Analyze).
+- **Skills:** Transfer set lands (Identify, Mana Sense L1→climbing, Diagnosis, Technology, Sleep Resistance, Fabrication, Cooking, Marksmanship L7, Acting, Math, Map Reading, Hastened Reading, Analyze).
 - **Delta:** First sheet appears.
 
 ### Chapter 2

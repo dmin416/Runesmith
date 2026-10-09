@@ -80,11 +80,13 @@ Any permanently converted silver is **mythril**. Quality = conversion band.
 | True mythril | >95% |
 | Pure mythril | 100% |
 
+**Sell (locked feel):** gear-grade mythril is **~10% lighter than steel**, **stronger than steel** (enough for a sword on its own), and **extremely conductive**. Conductivity / mana path is still why runic gear prefers it. It is not titanium-light.
+
 Open air: no mythril below ~6 mi (`A` under thr). Dungeons / spiritual sites are the low sources. Elemental alignment stays **mythril** (no separate red-mythril brand).
 
-Shop frame is often Ag–Cu eutectic. Look: **pearlish** light silvery gold. Reusable runic gear. **Not titanium.** Unrelated to orihalcum (converted gold) and adamantium (converted Ti, cast-final).
+Shop frame is often Ag–Cu eutectic. Look: **pearlish** light silvery gold. Reusable runic gear and blades. **Not titanium.** Unrelated to orihalcum (converted gold) and adamantium (converted Ti, cast-final).
 
-Mana path mode is **superconducting** from conversion, not from mundane Ag–Cu alone (transport law: `../../Runes/ManaMaterials.md` section 1; feel order: `../../Runes/Energy.md`).
+Mana path mode is **superconducting** from conversion, not from mundane Ag–Cu alone (transport law: `../../Runes/ManaMaterials.md` section 1; feel order: `../../Runes/Energy.md`). Conversion expands the lattice as that path opens, so density falls to about **90% of steel** by gear grade (same mass, more volume; same-size piece handles ~10% lighter).
 
 - Steady flow near lossless up to a high **Jc**. Pulses pay a little AC-loss feel. Digits unset.
 - **Quench is rare** on gear-grade stock. If it quenches, fall back toward ordinary poor-wire feel and dump heat. Do not treat quench as the normal failure of a mythril wand.
@@ -308,7 +310,7 @@ Mundane Earth-like rows unchanged in feel. Named magic stock:
 
 | Material | Mana / magic | Role |
 |---|---|---|
-| Mythril | Excellent flow | Rune host (Ag line) |
+| Mythril | Extreme conductivity / excellent flow; ~10% lighter than steel; sword-grade strength | Rune host / blades (Ag line) |
 | Aurium | Damps flowing mana | Pipes, grips, wraps (Cu line) |
 | Orihalcum | Antimagic = % | Shield stock (Au line) |
 | Darkiron / star iron | Rising with % | Fe line |
@@ -336,7 +338,7 @@ Separate from Fe conversion. Own black ore line. Unrefined / refined grades as b
 
 ### Suggested conversion scaling (inspirational)
 
-Conversion does not add mass. Mana restructures the lattice; density shifts only slightly while strength and hardness climb.
+Conversion does not add mass. Mana restructures the lattice. Most lines: density shifts only slightly while strength and hardness climb. **Mythril exception:** density falls with conversion as the superconducting lattice opens (locked sell: gear-grade ~**10% lighter than steel**).
 
 - **Density, melting point:** linear. `P(c) = P0 + (P100 − P0) × c`
 - **Strength, hardness, toughness:** back-loaded. `P(c) = P0 + (P100 − P0) × c^1.5`
@@ -344,15 +346,17 @@ Conversion does not add mass. Mana restructures the lattice; density shifts only
 
 ### Mythril (from silver) — inspirational grades
 
-Keeps silver’s ductility at every grade. Draws to wire; takes fine inscription. Not a blade metal on its own.
+Low grades stay soft and drawable. Fine / pure take an edge and hold sword loads above ordinary blade steel; still take wire and fine inscription. **Extreme conductivity** remains the runic sell.
 
 | Grade | Conversion | Density (g/cm³) | Tensile (MPa) | Mohs | Vickers HV | Melting (°C) |
 |---|---|---|---|---|---|---|
 | Silver | 0% | 10.49 | 150 | 2.5 | 25 | 962 |
-| Low | ~20% | 10.35 | ~200 | 2.8 | ~40 | ~1,000 |
-| Standard | ~50% | 10.15 | ~345 | 3.4 | ~80 | ~1,055 |
-| Fine | ~85% | 9.90 | ~580 | 4.5 | ~145 | ~1,120 |
-| Pure | 100% | 9.80 | ~700 | 5 | ~180 | ~1,150 |
+| Low | ~20% | 9.50 | ~450 | 3.5 | ~120 | ~1,000 |
+| Standard | ~50% | 8.40 | ~1,000 | 5.5 | ~350 | ~1,055 |
+| Fine | ~85% | 7.30 | ~1,900 | 7 | ~700 | ~1,120 |
+| Pure | 100% | 7.05 | ~2,200 | 7.5 | ~800 | ~1,150 |
+
+Steel ≈ **7.85 g/cm³**. Pure mythril ≈ **7.05** (~**10%** lighter). Fine / pure tensile and hardness sit above ordinary hardened blade steel (~1,750 MPa / ~750 HV).
 
 ### Darkiron / star iron (from iron) — inspirational grades
 

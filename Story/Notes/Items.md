@@ -264,7 +264,7 @@ Morning after class change. Carry-in from Ch 16. No kills.
 Impact copy + farewell. Carry-in from Ch 17.
 
 **Used / borrowed**
-- Sahildr's Impact warhammer (Debugger overlay copy on paper; returned after schematic). Strength of about three men (Str **49**) and still uncomfortable to hold.
+- Sahildr's Impact warhammer (Diagnosis overlay copy on paper; returned after schematic). Strength of about three men (Str **49**) and still uncomfortable to hold.
 
 **Gained**
 - **Lesser Impact Rune [Highest]** schematic (paper) + **Drawing L1** + **1000 XP**.

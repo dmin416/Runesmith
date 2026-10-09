@@ -58,9 +58,9 @@ Blessed by Mana: recovery multiplier (not in MP math). Mage: mana recovery narra
 
 | Skill | Level | STR | AGI | DEX | INT | CHA | VIT | END |
 |---|---|---|---|---|---|---|---|---|
-| Debugger | 8 | | | | +8 | | | |
+| Diagnosis | 8 | | | | +8 | | | |
 | Technology | 7 | | | +7 | +7 | | | |
-| Tinkerer | 8 | | | +8 | | | | |
+| Fabrication | 8 | | | +8 | | | | |
 | Cooking | 3 | | +3 | +3 | | | | |
 | Marksmanship | 7 | | | +7 | | | | |
 | Acting | 4 | | | | | +4 | | |
