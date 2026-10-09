@@ -72,7 +72,7 @@ The last section is the prose disagreeing with itself.
 
 ### Chapter 11
 
-- The chapter gives 5 XP for the idle boar (`Story/Chapters/10-18.md` 322 and 328). `Story/Notes/Experience.md` 168 still says 6.
+- Idle Spiked Boar XP locked at **6** across chapter (`Story/Chapters/10-18.md`), `Experience.md`, `Notes.md`, and `Levels.md`.
 - The chapter calls Reyna white-haired (`Story/Chapters/10-18.md` 262). `Story/Notes/Notes.md` 153 still says gray hair and a white tail.
 - The chapter says the boar tastes like shit (`Story/Chapters/10-18.md` 360). `References/Handoff.md` 33 still says monster meat tastes good and spoils fast.
 - The chapter says he hunted the occasional wild boar (`Story/Chapters/10-18.md` 346). `Story/Notes/Experience.md` 21 and 82 still say goblins only, plus one scavenged leg.

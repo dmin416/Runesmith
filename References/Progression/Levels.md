@@ -71,7 +71,7 @@ Awards are **straightforward**: flat or simple by action. Class does **not** cha
 
 Other notes:
 
-- Monster kills (solo or party). Party XP ties to **ability and contribution**. Teaming with higher-tier people is allowed; a low cut still pays something. Idle spectating on the Chapter 11 spiked boar: Roland **5 XP** (**~1%** of the kill for being in the group; he could kill it alone if he tried). Active contribution raises his cut. People still prefer same-tier parties.
+- Monster kills (solo or party). Party XP ties to **ability and contribution**. Teaming with higher-tier people is allowed; a low cut still pays something. Idle spectating on the Chapter 11 spiked boar: Roland **6 XP** (**~1%** of the kill for being in the group; he could kill it alone if he tried). Active contribution raises his cut. People still prefer same-tier parties.
 - Leveling skills and spells. Leveling a spell (e.g. Mana Bolt rank-up) can grant a popup XP award; Chapter 10 notes this is often **more** than trash goblin kills. Craft classes also gain XP by making items.
 - Crafting / item creation. **First** successful schematic discovery pays the big 1000. Copying the same rune again does not.
 - **Pre-class XP** (Chapter 4–6): kills and achievements before first ascension bank with a **½ penalty** when the class finally applies. Estate bravery **250** + **55** more L1 goblins (**2750**) = bank **3000** → **1500** applied. Ascension starts Mage L1 empty; bank lands **Mage L3** empty. The bank applies **once** at the first ascension only. It does **not** refill for later class changes. See `../../Story/Notes/Experience.md`.
@@ -150,6 +150,11 @@ Add new rows when a chapter names a repeat family. Prefer a band over inventing 
 | Same level myrmeke worker | 4 | 1.5 | **300** |
 | Same level orc | 4 | 2.0 | **400** |
 | Same level greater mantis | 4 | 3.0 | **600** |
+| Gray Hobgoblin Berserker (Ch 37) | **59** | **2.25** | **6,638** (solo) |
+| Fire Slime (Ch 71) | **2** | **1.5** (default) | **150** |
+| Fiery Skeleton (Ch 72) | **10** | **1.25** | **625** |
+| Crimson Giant Rat (Ch 75) | **14** | **0.2** (vermin) | **140** |
+| Baby Salamander (Ch 75) | **21** | **1.5** (default) | **1,575** |
 
 Same level, harder race → more XP. That is the whole point of RaceMult.
 

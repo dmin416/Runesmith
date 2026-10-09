@@ -50,7 +50,7 @@ Ch 6: weekly one-on-ones after the 9th birthday. Locked count **55** estate L1s 
 
 | Ch | Source | XP | Bank after | Notes |
 |---|---|---|---|---|
-| 4 | Goblin L1 kill (49+1) | **50** | 50 | On-page; kill #1 |
+| 4 | Goblin L1 kill (RaceMult 1.0) | **50** | 50 | On-page; kill #1 |
 | 4 | First Kill achievement | **+200** | **250** | On-page |
 | 4–5 | Estate Goblin L1 × **55** | **2750** | **3000** | After bravery; total L1 kills **56** |
 | 5–6 | Ascension + **½** → Mage L3 | **1500** applied | **0** | Empty bar at L3 |

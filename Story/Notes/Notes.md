@@ -158,7 +158,7 @@ Rewrite-only timeskip (~3 months). Source folds this into the opening of Ch 10 a
 - Praise rewrite vs Source: ducks his head (*You don't need to praise me so much*) instead of shrug / *nothing to be happy about*.
 - Formation: Sahildr + Reyna front, Becky + Roland back. Reyna is Scout + Thief; sniffs air; rarely speaks (sleepy high voice). Beast race tribes mostly stay apart (feline, ursine, lizardlike and variants within).
 - Floor 1: Emerald Wilderness (Steel hunting ground). Maze corridors open into a kilometers-wide jungle under an artificial sun; mana feels peculiar. Floors go to a 10th-floor boss (guild appointment; week respawn; strong parties/guilds hog the room).
-- **Party XP rewrite vs Source:** share ties to **ability + contribution**. Idle spectate first Spiked Boar: **+5 XP** on-page (**1%**; he could kill it alone if he tried). Active help raises the cut. People still prefer same-tier parties. Source hard block (T1 gets **nothing** in a T2 party even if the higher tier cripples and the lower finishes) is **dropped** from live prose.
+- **Party XP rewrite vs Source:** share ties to **ability + contribution**. Idle spectate first Spiked Boar: **+6 XP** on-page (**1%**; he could kill it alone if he tried). Active help raises the cut. People still prefer same-tier parties. Source hard block (T1 gets **nothing** in a T2 party even if the higher tier cripples and the lower finishes) is **dropped** from live prose.
 - Spiked Boar #1: Sahildr two-handed hammer tanks; Reyna dagger; Becky eye-shot; Sahildr finish. Mana Sense finds a chest stone ~goblin-leader size (dungeon density → more / larger stones). Loot: tusks, spine spikes, leather for armor/alchemy; skip meat (tough, bad taste; monster muscle denser from stats). Skinning ~10 min (Dex + skill). Roland watches to learn what to look out for (new beat vs Source).
 - Party spatial bag slightly under **2 m³**; used buy **5 SG** (market usually **7–10**; larger bags ~10×). Steel party **skimped on drinks ~1 year** to afford it (Source: “year of work”). Arden servants carried similar bags.
 - Later floor-1 boars: Roland chips in with **Mana Shield** chant (*Source of all magic… protect which I deem worthy… Mana Shield!*). Bubble forms then shrinks to a **hard disk** on Sahildr’s front (Source: bubble aid only). “Another” chest stone on that fight. Bag fills (leather sticking out) so they return.
@@ -349,7 +349,7 @@ Rewrite-only timeskip (~3 months). Source folds this into the opening of Ch 10 a
 ## Chapter 37
 
 - Forest test: dual bronze Mana Bolt paddle wands (~75 MP each cast; ~10 shots/wand before fail). Pressure-detonation scroll mines.
-- Gray Hobgoblin Berserker L59 slain (950 XP). Title Goblin Hunter → Goblin Slaughterer (fear lesser goblins; +10% vs goblin types).
+- Gray Hobgoblin Berserker L59 slain (**6,638 XP**; `50 × 59 × 2.25`). Title Goblin Hunter → Goblin Slaughterer (fear lesser goblins; +10% vs goblin types).
 - Loot: broken longsword hilt, marble mana stone. Bags hob body; guild processing (70%, ~3 days). ~170 cm tall.
 - Southtown warehouse hit planned by hooded thugs (paid to trash place and kill workers).
 
@@ -558,11 +558,11 @@ Rewrite-only timeskip (~3 months). Source folds this into the opening of Ch 10 a
 
 - Albrook backstory: volcano dungeon ~6 months; possible link to main Dragnis S-rank; labyrinth type; guild sells maps. Potion cart outside (~+25% prices; twin-bun girl ~12 + older seller).
 - Roland (Wayland): brigandine + helmet, arming sword, runed shield, two wands, chilling armor rune; trains close combat. Gate: flaming-skull sculpture; Diagnosis finds no runes (spell enchantments). Safe hub; monster barrier lore.
-- First corridor: Fire Slime L2; mana-imbued sword kill (+1 XP); keeps core. More slimes ahead for sword/block/dodge grind.
+- First corridor: Fire Slime L2; mana-imbued sword kill (**+150 XP**; default RaceMult **1.5**); keeps core. More slimes ahead for sword/block/dodge grind.
 
 ## Chapter 72
 
-- Floor 1 grind: Fiery Skeleton L10 (shield block dance; +2 XP; head chop; eye mana stone + bone dust jar). Infernal Dragon Dungeon named (main island S-rank).
+- Floor 1 grind: Fiery Skeleton L10 (shield block dance; **+625 XP**; skeleton RaceMult **1.25**; head chop; eye mana stone + bone dust jar). Infernal Dragon Dungeon named (main island S-rank).
 - Teardrop kite shield: 3 lesser stones (~20% each), Mana Shield (~70% cost cut) + lesser fire resist buff. Baby Salamanders also on floor. Crowded; heads home sundown.
 - Packing Mules noted. Fence plans; Marlo gold; mana-generator / Ethereal Pathways house ideas. Hot tub priority.
 
@@ -580,7 +580,7 @@ Rewrite-only timeskip (~3 months). Source folds this into the opening of Ch 10 a
 ## Chapter 75
 
 - Inn room: dismantles music box. Deep-iron High-grade plate + slime-core battery (ambient siphon + purifying stone). Diagnosis recreation path; forge ordered in log cabin; runic furnace after generator; copper wire/magnets on hand.
-- Dungeon deeper: farms slime cores; Crimson Giant Rat L14 (+7/+8/+6 XP); floors ~+5 monster level each, 10 floors deep (~L50 / T2 at bottom). Floor 4: Baby Salamander L21 fire breath vs shield; Mana Thrust kills (+18/+17/+15 XP); shield bash. Stays for more grind.
+- Dungeon deeper: farms slime cores; Crimson Giant Rat L14 (**+140 XP** each; vermin RaceMult **0.2**); floors ~+5 monster level each, 10 floors deep (~L50 / T2 at bottom). Floor 4: Baby Salamander L21 fire breath vs shield; Mana Thrust kills (**+1,575 XP** each; default RaceMult **1.5**); shield bash. Stays for more grind.
 
 ## Chapter 76
 

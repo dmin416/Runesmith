@@ -100,7 +100,7 @@ Mana Sickness cleared. Full recovery. No new full status screen. Height still ab
 Ninth birthday. Height **4'7"** (chapter; tall for age 9). Bravery-test status screen. Wears leather armor.
 
 **XP this chapter** (see `Experience.md`):
-- Goblin L1 kill: **50** (49+1)
+- Goblin L1 kill: **50** (RaceMult 1.0)
 - First Kill achievement: **+200**
 - **Total gained: 250 XP** (pre-class bank; applies at ascension with penalty)
 
@@ -761,7 +761,7 @@ No full attribute sheet. Basic Smithing Mastery L2 grants +1 Strength. Still ove
 
 ## Chapter 37
 
-No full attribute sheet. +950 XP from Gray Hobgoblin Berserker L59. Down to ~30% MP after wand volleys. Height ~**5'7"**. Title: Goblin Slaughterer.
+No full attribute sheet. **+6,638 XP** from Gray Hobgoblin Berserker L59 (`50 × 59 × 2.25`). Down to ~30% MP after wand volleys. Height ~**5'7"**. Title: Goblin Slaughterer.
 
 **Rewrite:** inherits Ch 36 band / climbing to Ch 47.
 
@@ -1125,13 +1125,13 @@ No full sheet. Still L71 band. Wayland Bronze card issued (Steel claim unverifie
 
 ## Chapter 71
 
-No full sheet. Still L71 band / Wayland Bronze. Height noted over **6'1"**. +1 XP from Fire Slime L2 (mana sword; core kept). Chilling armor rune drains MP while active.
+No full sheet. Still L71 band / Wayland Bronze. Height noted over **6'1"**. **+150 XP** from Fire Slime L2 (mana sword; core kept; default RaceMult **1.5**). Chilling armor rune drains MP while active.
 
 **Rewrite:** inherits Ch 68 rewrite sheet.
 
 ## Chapter 72
 
-No full sheet. Still L71 band. +2 XP Fiery Skeleton L10. Shield grind (block/armor). Mana mostly conserved (melee day).
+No full sheet. Still L71 band. **+625 XP** Fiery Skeleton L10 (RaceMult **1.25**). Shield grind (block/armor). Mana mostly conserved (melee day).
 
 **Rewrite:** inherits Ch 68 rewrite sheet.
 
@@ -1149,7 +1149,7 @@ No full sheet. Still L71 band / Wayland. ~1 month in Albrook. Auction paddle 1 S
 
 ## Chapter 75
 
-No full sheet. Still L71+ band (goal L75 / T2). XP: Crimson Giant Rats 7/8/6; Baby Salamanders 18/17/15. Stocking slime cores; skipping low-value loot.
+No full sheet. Still L71+ band (goal L75 / T2). XP: Crimson Giant Rats **140** each (vermin **0.2**); Baby Salamanders **1,575** each (default **1.5**). Stocking slime cores; skipping low-value loot.
 
 **Rewrite:** climbing toward Ch 77 (**L75**).
 

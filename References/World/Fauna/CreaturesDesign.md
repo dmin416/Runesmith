@@ -78,7 +78,7 @@ Gray-skinned forest goblins near Edelgard.
 
 ### Gray Hobgoblin Berserker
 First seen: Chapter 37
-Tier-2 gray hobgoblin with a berserk/red-skin rage skill. Roland kills one at L59 in the Edelgard goblin forest (live **50 × 59 × 2.25 = 6,637.5** XP (`../../Progression/Levels.md`); Old note **+950** = quarantine); title evolves to Goblin Slaughterer.
+Tier-2 gray hobgoblin with a berserk/red-skin rage skill. Roland kills one at L59 in the Edelgard goblin forest (**6,638 XP**; `50 × 59 × 2.25`, rounded; `../../Progression/Levels.md`); title evolves to Goblin Slaughterer.
 
 ### Infernal Skeleton Champion / Berserker / Spearmaster / Guardian
 First seen: Chapter 37
@@ -110,7 +110,7 @@ Iguana-like fire lizard ~wolf-sized on Albrook floor 4 (~L21). Fire breath; stat
 
 ### Crimson Giant Rat
 First seen: Chapter 75
-Dark crimson giant rats ~medium dog size (~L14). Somewhat fire-resistant vs Carwen rats. Pack hunters; low XP; no mana stones; poor tooth/claw market value.
+Dark crimson giant rats ~medium dog size (~L14). Somewhat fire-resistant vs Carwen rats. Pack hunters; vermin RaceMult **0.2** → solo **140 XP**; no mana stones; poor tooth/claw market value.
 
 ### Lesser Troglodyte
 First seen: Chapter 76
