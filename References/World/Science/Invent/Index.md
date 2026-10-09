@@ -12,4 +12,5 @@ Century invent ladder, industrialization, paper, writing tools.
 - [Paper.md](Paper.md). Paper economy and craft
 - [PaperFormats.md](PaperFormats.md). Sheet sizes
 - [Printing.md](Printing.md). Gutenberg / civilian-product invent seed
+- [Toilets.md](Toilets.md). Toilet design, flush systems, vitreous china, soft close dampers
 - [WritingTools.md](WritingTools.md). Pencil / pen invent path
