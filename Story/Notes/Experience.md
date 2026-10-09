@@ -38,7 +38,7 @@ Ch 9.5 = **1,000** goblins over ~**90** days (~**11**/day). Trash + nest leaders
 | **10** | Nest opener + present day → **Mage L20** | **+7** kills (**1× L20** + **6× L16**); **+2** rice; ears **+35 LC** → pouch **3,630**; stones **220** rice + **8** leader |
 | **11** | First dungeon day + trial weeks | Day **4× L8** boars → **456** XP; share **+128** → pouch **3,758**. Trial **7** days (**28** boars) → bar **~8,540 / 10,000**; pouch **~4,413**; stones **220** rice + **8** leader |
 | **12** | Floor-2 Needle Worm pocket clear before tame | **12** worms L16–18 → **+1,272** XP; bar **~9,812 / 10,000**; pouch **~4,368** after Flagon; still L20. Core worm kept alive for tame |
-| **13** | Half-year Floor-3 → **Mage L25** | **342** kills → kill **40,776** + skill **4,608**; haul share **+5,857**; living+kit **−4,248** → pouch **~5,977**; stones **220** rice + **8** leader |
+| **13** | Half year with girls (Floor-3) → **Mage L25** | **342** kills → kill **40,776** + skill **4,608**; haul share **+5,857**; living+kit **−4,248** → pouch **~5,977**; stones **220** rice + **8** leader |
 | **14** | Watcher kill (people XP) | Pool **2750** (L55 × 50); Roland **+479** (banks at Mage L25 cap); Dodging **L6→L7**; Ned **25→26** |
 | **15** | Lesser Detonation Rune [Highest] schematic | **+1000 XP** (banks at L25); title **Runic Scholar**; class stone deferred |
 | **18** | Lesser Impact Rune [Highest] schematic | **+1000 XP** into L26 bar (**2479 / 13000**); Drawing **L1**; tree Dex **+10** |
@@ -82,7 +82,7 @@ Curve tables: `Levels.md`.
 | 10 | Nest opener then inn sheet | at **L20** | **1× L20 (1000)** + **6× L16 (800)** = **5,800** into L20 bar. **+2** rice (**218→220**); leader stones stay **8**; ears **+35 LC** → pouch **3,630 LC**; boar leg (underseasoned, gamey). Plans last five to Mage cap then Mana Scribe |
 | 11 | Dungeon rat + Spiked Boars (Emerald Wilderness) | at **L20** | Rat party-test full solo. Day **4× L8** boars: **1** idle (**6**) + **3** active (**150**) → **456** XP; share **+128 LC** → **3,758 LC**. Trial **7** days (**28** boars; **2** active + **2** idle → **312**/day): kill **+2,184** + Hands **L5→L6** (**~+100**) → bar **~8,540 / 10,000**; share **+921** − living **266** → pouch **~4,413 LC**. Still L20 |
 | 12 | Needle Worm pocket clear (before tame) | at **L20** | **12×** Floor-2 worms **L16–L18** (~1/4): **4×100 + 4×106 + 4×112 = 1,272** → bar **~9,812 / 10,000**. One core-bearing worm left alive; taming begins |
-| 13 | Half-year Floor-3 | **L20 → L25** | **342** kills (WB **38** / SB **120** / moth **24** / worm **80** / rat **80**); kill **40,776** + skill **4,608** = **45,384**; haul **+5,857**; living+kit **−4,248** → pouch **~5,977 LC**. Skill ranks: `Skills.md` Ch 13 |
+| 13 | Half year with girls (Floor-3; after 3 mo goblins) | **L20 → L25** | **342** kills (WB **38** / SB **120** / moth **24** / worm **80** / rat **80**); kill **40,776** + skill **4,608** = **45,384**; haul **+5,857**; living+kit **−4,248** → pouch **~5,977 LC**. Skill ranks: `Skills.md` Ch 13 |
 | 14 | Watcher (people) | at **L25** cap | Pool **2750**; Roland **+479** banks toward class change; Dodging **L7**; Ned **25→26** |
 | 15 | Detonation schematic | at **L25** cap | **+1000 XP** banks; title **Runic Scholar**; bank total **1479** into Ch 16 |
 | 16 | Class change (Runic Mana Scribe) | bank applies | Full bank **1479** into L26 bar (**1479 / 13000**); stays **L26** / Scribe **L1** (no kills). No half-cut |
@@ -270,7 +270,7 @@ Personal stone bank unchanged: **220** rice + **8** leader.
 
 | Step | LC | Notes |
 |---|---:|---|
-| `"*Not bad.*"` (end Ch 13) | **5,977** | Half-year pouch |
+| `"*Not bad.*"` (end Ch 13) | **5,977** | End of half year with the girls |
 | Watcher haul equal share (Ch 17) | **+5,000** | **+5 SG** on top of own savings |
 | After watcher share | **10,977** | |
 | Kit / consumable sales and leftover share trims (Ch 14–17) | **+~664** | Brings personal to enter-gift figure |

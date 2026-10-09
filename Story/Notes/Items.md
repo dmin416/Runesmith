@@ -143,24 +143,24 @@ First dungeon day with Becky / Sahildr / Reyna. Carry-in from Ch 10 unchanged un
 
 | Step | Change (LC) | Running |
 |---|---|---|
-| Enter from Ch 10 | | **6,035** |
-| Equal 4-way party share | +128 | **6,163** |
+| Enter from Ch 10 | | **3,630** |
+| Equal 4-way party share | +128 | **3,758** |
 
 **Still carrying after Ch 11 day 1:** leather (repaired), shortsword (repaired), hunting knife, thick wool cloak, spare robe, small mirror, adventurer card, local map, calligraphy stock, coin pouch (**3,758 LC**), **220** rice-band + **8** leader mana stones, buried class-up crystal.
 
 ### Ch 11→12 trial weeks (~2 weeks, **7** more Floor-1 days)
 
-Equal-split haul locked in `Experience.md`: mats **~2,184** + **15** stones **1,500** → team **~3,684** → Roland **+921 LC**. Lodging **−126** + food **−140** over **14** days. Pouch **6,163 → ~4,413 LC**. Personal stone bank unchanged.
+Equal-split haul locked in `Experience.md`: mats **~2,184** + **15** stones **1,500** → team **~3,684** → Roland **+921 LC**. Lodging **−126** + food **−140** over **14** days. Pouch **3,758 → ~4,413 LC**. Personal stone bank unchanged. Trial XP: kill **+2,184** + Hands **~+100** → bar **~8,540 / 10,000**.
 
 **Coin ledger**
 
 | Step | Change (LC) | Running |
 |---|---|---|
-| After Ch 11 day 1 | | **6,163** |
-| Trial-week party share | +921 | **7,084** |
-| Lodging (14 days) | −126 | **6,958** |
-| Food (14 days) | −140 | **6,818** |
-| Iron Flagon first round (Ch 12) | −45 | **6,773** |
+| After Ch 11 day 1 | | **3,758** |
+| Trial-week party share | +921 | **4,679** |
+| Lodging (14 days) | −126 | **4,553** |
+| Food (14 days) | −140 | **4,413** |
+| Iron Flagon first round (Ch 12) | −45 | **4,368** |
 
 **Still carrying into Ch 12 binge:** leather (repaired), shortsword (repaired), hunting knife, thick wool cloak, spare robe, small mirror, adventurer card, local map, calligraphy stock, coin pouch (**~4,413 LC** before drink / **~4,368** after first round), **220** rice-band + **8** leader mana stones, buried class-up crystal.
 
@@ -176,9 +176,9 @@ Iron Flagon first round **−45 LC**. Floor-2 Needle Worm cook + tame run. Party
 
 | Step | Change (LC) | Running |
 |---|---|---|
-| Enter (trial weeks end) | | **~6,818** |
-| Iron Flagon first round (3 half-gal weak spirits) | −45 | **~6,773** |
-| Becky lock-repair toss | +? (small; not counted) | **~6,773** |
+| Enter (trial weeks end) | | **~4,413** |
+| Iron Flagon first round (3 half-gal weak spirits) | −45 | **~4,368** |
+| Becky lock-repair toss | +? (small; not counted) | **~4,368** |
 
 **Still carrying into Ch 13:** leather (repaired), shortsword (repaired), hunting knife, thick wool cloak, spare robe, small mirror, adventurer card, local map, calligraphy stock, coin pouch (**~4,368 LC** after drink; later Floor-2 sale share not itemized on-page), **220** rice-band + **8** leader mana stones, buried class-up crystal, **tamed Needle Worm** (green scarf).
 
@@ -264,7 +264,7 @@ Morning after class change. Carry-in from Ch 16. No kills.
 Impact copy + farewell. Carry-in from Ch 17.
 
 **Used / borrowed**
-- Sahildr's Impact warhammer (Debugger overlay copy on paper; returned after schematic). Strength of three men and still uncomfortable to hold.
+- Sahildr's Impact warhammer (Debugger overlay copy on paper; returned after schematic). Strength of about three men (Str **49**) and still uncomfortable to hold.
 
 **Gained**
 - **Lesser Impact Rune [Highest]** schematic (paper) + **Drawing L1** + **1000 XP**.

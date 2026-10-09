@@ -14,7 +14,7 @@ Three of them. They are easy to lose when the year column is only whole years an
 |---|---|---|
 | **3 months** | After the ascension, before he leaves. Chapter 7 opens on it. `Notes.md`, `Status.md`, and `Experience.md` lock the same stretch: weekly pairs of Goblin L1s, still Mage L3, bar 1250 / 1500 | Age 10 and 0 months → age 10 and 3 months. Still 10. World time 5 years → 5 years 3 months |
 | **3 months** | Carwen, between chapter 9 and chapter 10. The rewrite gives this stretch its own chapter between those two. Chapters 10–18 say he has been in Carwen for three months | Age 10 and 3 months → age 10 and 6 months. Still 10. Mage L20 |
-| **3 months** | Edelgard, chapter 23. The chapter opens with another three months gone, then the forest and Helci. Summary: "+3 months" on top of the Fire Arrow half year. Total about 9 months in Edelgard | Age 11 and 3 months → age 11 and 6 months. Still 11 |
+| **3 months** | Edelgard, chapter 23. The chapter opens with another three months gone, then the forest and Helci. Summary: "+3 months" on top of the Fire Arrow half year. Total about 9 months in Edelgard | Age 11 and 6 months → age 11 and 9 months. Still 11 |
 
 Island years = world years − 10. He lands at age 15, world year 10.
 
@@ -31,9 +31,9 @@ Rows marked **off** are the summary's words. The Age and Year columns are the co
 | Ascension. Five years since he woke | 5 | 10 and 0 months | 5 years |
 | **3-month skip** since the ascension. Lucienne's 3rd birthday is in a couple of weeks. He leaves | 7 | 10 and 3 months | 5 years 3 months |
 | **3-month skip** in Carwen. Still 10. Mage L20 | 10 | 10 and 6 months | 5 years 6 months |
-| Half a year in Carwen, counted from arrival. Not yet 11 | 14, 17, 21 | 10 and 9 months | 5 years 9 months |
-| **3-month skip** after the Fire Arrow half year. Helci | 23 | 11 and 6 months | 6 years 6 months |
-| Just over 12. Moves into the warehouse. Summer | 36 | 12 and 5 months | 7 years 5 months |
+| Carwen close: **3 months** goblins + **half a year** with the girls = **9 months** total. Just turned 11 | 14, 17, 21 | 11 and 0 months | 6 years |
+| **3-month skip** after the Fire Arrow half year. Helci | 23 | 11 and 9 months | 6 years 9 months |
+| Just over 12. Moves into the warehouse. Summer | 36 | 12 and 8 months | 7 years 8 months |
 | About 10 years in this world. Winter night | 48 | 15 | 10 |
 | Lands on Dragnis | 67 | 15 | 10 |
 | More than 1 year in Albrook. Sixteen | 77 | 16 | 11 |
@@ -55,66 +55,66 @@ Rows marked **off** are the summary's words. The Age and Year columns are the co
 
 ## Carwen
 
-He arrives at 10 and 3 months. The first skip here is another 3 months. The half year is counted from arrival, so it is 3 months on top of that first skip, not a replacement for it. He is still not 11.
+He arrives at 10 and 3 months. **Lock:** **3 months** of solo goblin work, then **half a year** with Becky / Sahildr / Reyna. Total Carwen stay **9 months**. He leaves at **11 and 0 months** / world **6 years**.
 
 | Ch | What the summary says | Age | Year |
 |---|---|---|---|
 | 8 | Still 10. Windy cabin. Coin lasts about a month if he is careful | 10 and 3 months | 5 years 3 months |
 | 9 | Still 10. First workday. Inn is 1 small silver a night | 10 and 3 months | 5 years 3 months |
-| 10 | **Timeskip: about 3 months** after chapters 7–9. Still 10. Claims 12. Mage L20. The rewrite's extra chapter between 9 and 10 is this same skip | 10 and 6 months | 5 years 6 months |
-| 11–12 | Still 10. Party thinks he is older. Boss room respawns in about a week | 10 and 6 months | 5 years 6 months |
-| 13 | About half a year since arrival. That half year is 6 months, so 3 more months after chapter 10. Mage L25. Months of night writing. Shortsword dead by month 5 of the stay | 10 and 9 months | 5 years 9 months |
-| 14 | Not yet 11. Watcher expected him home within a week and has been stuck the whole half year | 10 and 9 months | 5 years 9 months |
-| 15 | A paid search of another noble's woods can take weeks or months. Not a skip | 10 and 9 months | 5 years 9 months |
-| 17 | Half a year in Carwen. Near 11. World time is 5 years 9 months, not 6 years and not 5 years 6 months | 10 and 9 months | 5 years 9 months |
-| 18–19 | At least a week of trains. Arrives Edelgard in the evening | 10 and 9 months | 5 years 9 months |
+| 10 | **Timeskip: about 3 months** goblin grind after chapters 7–9. Still 10. Claims 12. Mage L20. The rewrite's extra chapter between 9 and 10 is this same skip | 10 and 6 months | 5 years 6 months |
+| 11–12 | Still 10. Party forms; trial weeks. Party thinks he is older. Boss room respawns in about a week | 10 and 6 months | 5 years 6 months |
+| 13 | **Half a year with the girls** on Floor-3 (after the goblin months). Mage L25. Months of night writing. Total stay ~9 months | 11 and 0 months | 6 years |
+| 14 | Just turned 11. Watcher expected him home within a week and has been stuck the whole **9 months** | 11 and 0 months | 6 years |
+| 15 | A paid search of another noble's woods can take weeks or months. Not a skip | 11 and 0 months | 6 years |
+| 17 | Six years in this world. Three months alone + half a year with the party | 11 and 0 months | 6 years |
+| 18–19 | At least a week of trains. Arrives Edelgard in the evening | 11 and 0 months | 6 years |
 
 ## Edelgard
 
-Arrival is 5 years 9 months in this world, age 10 and 9 months, nearly 11. Chapter 21 is that same day and says not yet 11.
+Arrival is **6 years** in this world, age **11 and 0 months**. Chapter 21 is that same day.
 
 Counted forward from that morning. Months are added as written. Six months is half a year. Three months stays three months.
 
 | Mark | Addition | Age | In this world |
 |---|---|---|---|
-| Arrival, chapter 21 | 0 | 10 and 9 months | 5 years 9 months |
-| Chapter 22, half a year of Fire Arrow grind | +6 months | 11 and 3 months | 6 years 3 months |
-| Chapter 23, another 3 months. Own total: about 9 months since arrival | +3 months | 11 and 6 months | 6 years 6 months |
-| Chapter 27, another 6 months. More than 1 year in Edelgard | +6 months | 12 and 0 months | 7 years |
-| Chapter 34, about 5 months after the mine | +5 months | 12 and 5 months | 7 years 5 months |
-| Chapter 36, age over 12, summer | same stretch | 12 and 5 months | 7 years 5 months |
-| Chapter 39, not yet 13. Thieves raid the same night | days | 12 and 5 months | 7 years 5 months |
-| Chapter 48, about 10 years, winter | +2 years 7 months from the workshop | 15 | 10 years |
+| Arrival, chapter 21 | 0 | 11 and 0 months | 6 years |
+| Chapter 22, half a year of Fire Arrow grind | +6 months | 11 and 6 months | 6 years 6 months |
+| Chapter 23, another 3 months. Own total: about 9 months since arrival | +3 months | 11 and 9 months | 6 years 9 months |
+| Chapter 27, another 6 months. More than 1 year in Edelgard | +6 months | 12 and 3 months | 7 years 3 months |
+| Chapter 34, about 5 months after the mine | +5 months | 12 and 8 months | 7 years 8 months |
+| Chapter 36, age over 12, summer | same stretch | 12 and 8 months | 7 years 8 months |
+| Chapter 39, not yet 13. Thieves raid the same night | days | 12 and 8 months | 7 years 8 months |
+| Chapter 48, about 10 years, winter | +2 years 4 months from the workshop | 15 | 10 years |
 
-Chapter 27's "still 11" does not survive the estate skip of 3 months. He arrives at 10 and 9 months. Nine months of Edelgard work, then another 6, land on his 12th year. The warehouse summer is 5 months past that.
+He arrives Edelgard at 11. Nine months of early grind, then another 6, land past 12. The warehouse summer follows. Later year-10 / age-15 lock at Ch 48 still stands.
 
 | Ch | What the summary says | Age | Year |
 |---|---|---|---|
-| 20 | Morning after the train. Half a year of adventuring behind him. Autumn-cool. 5 years 9 months in this world. Nearly 11. Same day as chapter 21 | 10 and 9 months | 5 years 9 months |
-| 21 | Same day, fifth shop by sunset. **Not yet 11.** This line is the arrival age | 10 and 9 months | 5 years 9 months |
-| 22 | About half a year after the chapter 21 decision. Age still about 11. Party gold lasted that half year of materials, not 10 months | 11 and 3 months | 6 years 3 months |
-| 23 | **Timeskip: another 3 months.** Total about 9 months of Edelgard grind since arrival. Age still about 11. Then the forest and Helci | 11 and 6 months | 6 years 6 months |
-| 24 | Helci is past 16. Church until 14, then 2 years of work, then the stone. Calendar: 24-hour days, 12 months of 30 days, plus New Year's Day | — | 6 years 6 months |
-| 25 | Half a year or more since the first Emporium visit. This is the chapter 22–23 stretch, not a new half year. Contract offered at 3 years (the rejected one was 6) | 11 and 6 months | 6 years 6 months |
-| 26 | Signs. Still 11. First combo in about a week | 11 and 6 months | 6 years 6 months |
-| 27 | Another 6 months. Age 12. He has been in Edelgard 1 year 3 months (9 months, then these 6). The Emporium contract, signed at 11 and 6 months, is only about 6 months old here. Departs for the mine in 2 days. Carwen party was 1 year 3 months ago. Contract leave is weekends plus 25 days a year | 12 and 0 months | 7 years |
-| 28 | Helci: months after the forest, then about 4 months with a caravan, still Scout L10. Those months sit inside the 6 since chapter 23, not after the mine. Carriage about 2 days | 12 and 0 months | 7 years |
-| 30–32 | Mine entry the same afternoon. Edelgard to the mine is about 2 days. A real rescue would be about a week | 12 and 0 months | 7 years |
-| 33 | Return from the mine, a few days after chapter 27. About 6 months into the contract. A few months of scrolls from Blacksmith | 12 and 0 months | 7 years |
-| 34 | Sabotage for about 6 months. Back from the mine about 5 months, so the trouble started about a month before he returned. Contract elapsed about 11 months. About 2 years 1 month left on the 3-year term. The summary's "about 2 years left" matches | 12 and 5 months | 7 years 5 months |
-| 36 | Age over 12. Summer. Moves into the warehouse | 12 and 5 months | 7 years 5 months |
-| 37 | About 170 cm. Age about 12 or a little past | 12 and 5 months | 7 years 5 months |
-| 39 | About 2 am. Not yet 13 | 12 and 5 months | 7 years 5 months |
-| 41 | Has worked for Exeor more than 1 year. Chilly night. That is the contract, not the city. At chapter 27 the contract was about 6 months old. At this summer it is about 11 months, so the line is about 1 month early if this is the same week as the warehouse | 12 and 5 months | 7 years 5 months |
-| 42 | Contract extended 1 year. Border heir is 2–3 years out | 12 and 5 months | 7 years 5 months |
-| 43 | Helci starts. A few months after Manstos, from her side | 12 and 5 months | 7 years 5 months |
-| 46 | Quiet months, then a montage of 2 years 7 months. From this summer, age 12 and 5 months, to the winter of year 10 | 12 and 5 months, landing at 15 | 7 years 5 months → 10 years |
-| 47 | 2 years 7 months as a blacksmith since the workshop. Helci left about 2 months ago. 183 cm. Winter | 15 | 10 years |
+| 20 | Morning after the train. About nine months of adventuring behind him (3 mo goblins + half year with the girls). Autumn-cool. **6 years** in this world. Just 11. Same day as chapter 21 | 11 and 0 months | 6 years |
+| 21 | Same day, fifth shop by sunset. **Just 11.** This line is the arrival age | 11 and 0 months | 6 years |
+| 22 | About half a year after the chapter 21 decision. Age still about 11. Party gold lasted that half year of materials, not 10 months | 11 and 6 months | 6 years 6 months |
+| 23 | **Timeskip: another 3 months.** Total about 9 months of Edelgard grind since arrival. Age still about 11. Then the forest and Helci | 11 and 9 months | 6 years 9 months |
+| 24 | Helci is past 16. Church until 14, then 2 years of work, then the stone. Calendar: 24-hour days, 12 months of 30 days, plus New Year's Day | — | 6 years 9 months |
+| 25 | Half a year or more since the first Emporium visit. This is the chapter 22–23 stretch, not a new half year. Contract offered at 3 years (the rejected one was 6) | 11 and 9 months | 6 years 9 months |
+| 26 | Signs. Still 11. First combo in about a week | 11 and 9 months | 6 years 9 months |
+| 27 | Another 6 months. Age 12 and 3 months. He has been in Edelgard 1 year 3 months (9 months, then these 6). The Emporium contract, signed at 11 and 9 months, is only about 6 months old here. Departs for the mine in 2 days. Carwen party was 1 year 3 months ago. Contract leave is weekends plus 25 days a year | 12 and 3 months | 7 years 3 months |
+| 28 | Helci: months after the forest, then about 4 months with a caravan, still Scout L10. Those months sit inside the 6 since chapter 23, not after the mine. Carriage about 2 days | 12 and 3 months | 7 years 3 months |
+| 30–32 | Mine entry the same afternoon. Edelgard to the mine is about 2 days. A real rescue would be about a week | 12 and 3 months | 7 years 3 months |
+| 33 | Return from the mine, a few days after chapter 27. About 6 months into the contract. A few months of scrolls from Blacksmith | 12 and 3 months | 7 years 3 months |
+| 34 | Sabotage for about 6 months. Back from the mine about 5 months, so the trouble started about a month before he returned. Contract elapsed about 11 months. About 2 years 1 month left on the 3-year term. The summary's "about 2 years left" matches | 12 and 8 months | 7 years 8 months |
+| 36 | Age over 12. Summer. Moves into the warehouse | 12 and 8 months | 7 years 8 months |
+| 37 | About 170 cm. Age about 12 or a little past | 12 and 8 months | 7 years 8 months |
+| 39 | About 2 am. Not yet 13 | 12 and 8 months | 7 years 8 months |
+| 41 | Has worked for Exeor more than 1 year. Chilly night. That is the contract, not the city. At chapter 27 the contract was about 6 months old. At this summer it is about 11 months, so the line is about 1 month early if this is the same week as the warehouse | 12 and 8 months | 7 years 8 months |
+| 42 | Contract extended 1 year. Border heir is 2–3 years out | 12 and 8 months | 7 years 8 months |
+| 43 | Helci starts. A few months after Manstos, from her side | 12 and 8 months | 7 years 8 months |
+| 46 | Quiet months, then a montage of **2 years 4 months**. From this summer, age 12 and 8 months, to the winter of year 10 | 12 and 8 months, landing at 15 | 7 years 8 months → 10 years |
+| 47 | **2 years 4 months** as a blacksmith since the workshop (montage length). Helci left about 2 months ago. 183 cm. Winter | 15 | 10 years |
 | 48 | Windy winter night into dawn. About 10 years in this world. This is the lock for the end of Edelgard | 15 | 10 |
 | 50 | Council, same cold night as the departure arc. Count's eldest is about 6 months from the border. 3 years after the mine. 2 years 7 months after the thieves | 15 | 10 years |
 | 55 | Leaves by train. Dungeon on the island formed a couple of months ago. Louis has a couple of months before Armand returns. 10 years in this world | 15 | 10 |
 
-Edelgard is about **4 years 3 months** (5 years 9 months in this world, through 10 years). Age 10 and 9 months to 15.
+Edelgard is about **4 years** (6 years in this world, through 10 years). Age 11 and 0 months to 15.
 
 ## Road and sail
 
@@ -156,7 +156,7 @@ Island year 0 = world year 10 = age 15.
 | 123 | Sleep Immunity: about 1 week without sleep. About 1 day in the second labyrinth | 16 | 11 | ~1 |
 | 128 | About 2 or more weeks in. The cover story is 3 weeks underground. They surface for the remaining week | 16 | 11 | ~1 |
 | 131 | Bank branch is about 1–2 months old | ~17 | ~12 | ~2 |
-| 134 | Assassin was about 6 years 3 months ago. The assassin was at the end of Carwen, age 10 and 9 months. He is about 17 here | ~17 | ~12 | ~2 |
+| 134 | Assassin was about 6 years ago. The assassin was at the end of Carwen, age **11 and 0 months**. He is about 17 here | ~17 | ~12 | ~2 |
 | 135 | Lucienne is 10 and has insisted he is alive for about 7 years. 3 + 7 = 10. He left at 10 and 3 months, so 7 years later is 17 and 3 months. The summary rounds that to 17. This line is the lock for the round year | 17 | 12 | 2 |
 | 136 | He thinks Lucienne may not be able to travel for another 5–10 years. A guess, not a skip. She is 15 at chapter 434, which is 5 years later | 17 | 12 | 2 |
 | 138 | Age 17 | 17 | 12 | 2 |

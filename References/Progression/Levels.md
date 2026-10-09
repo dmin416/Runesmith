@@ -167,7 +167,7 @@ Source payouts were smaller (goblin ~15–20 XP, same **1000** first schematic).
 |---|---|---|
 | First adventurer day, Mage L3 | ~7 goblin ears; leveled once during the hunt | estate Mage doubles left **1250 / 1500**; hunt **263** finishes L3→L4 |
 | ~3 months forest grind | L4 → **L20** | **1,000** goblin kills (Goblin Hunter lock) + spell/skill XP (`../../Story/Notes/Experience.md`); Old **1,481**/~53 Source pacing quarantined |
-| Party dungeon arc | ~half a year more toward Mage L25 cap | higher XP/fight than forest goblins |
+| Party dungeon arc | **half a year** with the girls toward Mage L25 (after **3 months** solo goblins) | higher XP/fight than forest goblins |
 | First lesser schematic | **1000 XP** at **[Highest]** (quality ladder below); “couple of levels” if spent right after a fresh class (low L) | 1000 ≈ 1–2 levels near overall L2–L3 |
 | Late Source | bar called “exponential” and stubborn | rewrite stays **linear**; high constant makes late levels slow without a second curve |
 

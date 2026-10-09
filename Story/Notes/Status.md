@@ -305,7 +305,7 @@ XP shown matches live `50 × goblin_L` (RaceMult **1.0**).
 
 ## Chapter 9.5
 
-Three-month rewrite grind (Source has no separate chapter; Ch 10 opens already at L20). **1,000** goblin kills (incl. **8** T2 leader ambushes L27); lifetime **1,088**. Field-use curve in `Levels.md`; end ranks in `Skills.md` Ch 9.5. **L9 hard cap.** Evolve at **2,000,000** — **none this skip**. Absorption / Reinforcement spend/refill pulses → both **L9**. Also: Shaping **L4**, Regulation **L6**, Incantation **L4**, Bolt **L5**, Arrow **L4**, Shield **L3**, Hand to Hand / Sneaking / Sword stay **Basic L8**; Running / Climbing / Throwing / Leather / Sprint stay **Basic L9**; Marksmanship **L7**; **Basic Dodging L4**. Heat **L5** / Hands **L5** (evenings). End **Mage L20** → Int **129** / Will **127** / MP **2158**; physicals **46/50/56/41/42**; HP **536** / SP **708** (live inn sheet; pad rebuild lags in `StatusBreakdown.md`). Month beats: ~L11–12 + Arrow + Dodging; ~L16–17 + Shield + nickname; L20 + Goblin Hunter (past **1000** kills). Coin end **3,595 LC**; stones **218** rice-band + **8** leader (kept after Ch 9 day one). Food: inn breakfast+dinner; **3** jerky bought; other lunches = goblin prey. Cloak **300 LC**. Ledger: `Experience.md`.
+Three-month rewrite grind (Source has no separate chapter; Ch 10 opens already at L20). **1,000** goblin kills (incl. **8** T2 leader ambushes L27); lifetime **1,088**. Field-use curve in `Levels.md`; end ranks in `Skills.md` Ch 9.5. **L9 hard cap.** Evolve at **2,000,000** — **none this skip**. Absorption / Reinforcement spend/refill pulses → both **L9**. Also: Shaping **L6**, Regulation **L7**, Incantation **L6** (peak-use foundations); Bolt **L5**, Arrow **L4**, Shield **L3**; Hand to Hand / Sneaking / Sword stay **Basic L8**; Running / Climbing / Throwing / Leather / Sprint stay **Basic L9**; Marksmanship **L7**; **Basic Dodging L4**. Heat **L5** / Hands **L5** (evenings). End **Mage L20** → Int **129** / Will **127** / MP **2158**; physicals **46/50/56/41/42**; HP **536** / SP **708**. Month beats: ~L11–12 + Arrow + Dodging; ~L16–17 + Shield + nickname; L20 + Goblin Hunter (past **1000** kills). Coin end **3,595 LC**; stones **218** rice-band + **8** leader (kept after Ch 9 day one). Food: inn breakfast+dinner; **3** jerky bought; other lunches = goblin prey. Cloak **300 LC**. Ledger: `Experience.md`.
 
 ## Chapter 10
 
@@ -342,7 +342,7 @@ Luck                   7
 ════════════════════════
 ```
 
-MP = ((Int×10)+(Will×4)) × (1 + 0.02 × Mage level). Mage also **+1% mana regen** per class level. Blessed by Mana = regen narrative only. Source fixed +20%/+15% discarded; sheet MP numbers need retally to the per-level %.
+Design MP = ((Int×10)+(Will×4)) × (1 + 0.02 × Mage level); Mage also **+1% mana regen** per class level. Blessed by Mana = regen narrative only. **Live Ch 10–18 sheets** print the **×1.20** band instead (1798 × 1.20 = **2158** here). Full per-level % waits on a sheet retally.
 
 ## Chapter 11
 
@@ -356,7 +356,7 @@ No full status screen. Still **Mage L20** band (no level-up line). First Carwen 
 
 **Day lock** (`Levels.md` / `Economy.md` / `Experience.md`): Spiked Boar **L8** solo pool **600** (idle **6 = 1%**; full share **150 = 1/4**). Day **4** boars → **456** XP. Day haul **4** boars / **2** stones sold → team **~512 LC** → Roland **+128 LC**. Enter pouch **3,630 LC** → after day 1 **3,758 LC**. Personal stones stay **220** rice + **8** leader. L20 bar after day **~6,256 / 10,000**.
 
-**Trial weeks (into Ch 12):** **7** more Floor-1 days / **28** boars. Kill XP **+1,820** (half active / half low). Idle waits: **Mana Hands**, Absorption, Sense → Hands **L5→L6** (**~+100** skill XP) → bar **~2,774 / 10,000**; still **Mage L20**. Share **+921 LC**; lodging+food **−266** → pouch **~4,413 LC**. Shield L3 / Incantation L4 unchanged.
+**Trial weeks (into Ch 12):** **7** more Floor-1 days / **28** boars. Kill XP **+2,184** (half active / half low). Idle waits: **Mana Hands**, Absorption, Sense → Hands **L5→L6** (**~+100** skill XP) → bar **~8,540 / 10,000**; still **Mage L20**. Share **+921 LC**; lodging+food **−266** → pouch **~4,413 LC**. Shield L3 / Incantation L6 unchanged.
 
 ## Chapter 12
 
@@ -366,7 +366,7 @@ No full status screen. Gains **Basic Alcohol Resistance** L1 (**Endurance +1**) 
 
 ## Chapter 13
 
-Mage L25 at cap. Basic Calligraphy L9 reached. Half-year Floor-3 slate: `Experience.md` (**342** kills; kill **40,776** + skill **4,608**; pouch **~5,977 LC** at Not bad). Skill ranks: `Skills.md` Ch 13. Poison **L6**. Recovery **L5**. **Basic Dodging L6**.
+Mage L25 at cap. Basic Calligraphy L9 reached. **Half a year** with the girls on Floor-3 (after **3 months** solo goblins; total Carwen **~9 months**). Slate: `Experience.md` (**342** kills; kill **40,776** + skill **4,608**; pouch **~5,977 LC** at Not bad). Skill ranks: `Skills.md` Ch 13. Poison **L6**. Recovery **L5**. **Basic Dodging L6**. Age **11 and 0 months** / world **6 years** (`Timeline.md`).
 
 **Live (chapter)** — rewrite Mage L25 sheet (`StatusBreakdown.md`):
 
@@ -491,7 +491,7 @@ No full status screen. Gains **1000 XP** from Lesser Impact [Highest] schematic.
 
 ## Chapter 19
 
-No full status screen. Enter wallet **21,641 LC** (personal **11,641** + parting gift **10 SG**). Solaria tip **−1 SS (−10 LC)** → **21,631**. Guild city map list **2 SS** / Steel **5%** → **−19 LC** → **21,612 LC**. Singing Crow room **−14 LC** → **21,598 LC**. Fire Orb memory redraw: **[High] +600 XP** (over 1 hour; uneven) then thin-sheet **[Highest] +400 XP** (total **1000**). Three Highest lesser schematics now. Train week (**both drills every day**, mana at **~99%** regen ceiling; Ned nibble/poke + **needle-catch / feed-back**; **1 click / ~4 s**): Sound Production **L7**, Echolocation **L7**, Breath Control **L5** (**1 min held = 1 use**), Multitasking **L5**, Throwing **L9** (Basic), Shaping **L7**, Regulation **L7**, Heat **L6**, Heat Resistance **L5**, Cold **L5**, Pain **L5**, Poison **L6**, Recovery **L5**; Hands / Absorption / Reinforcement / Sense stay **L9**; Incantation **L8** (`Skills.md` Ch 19 math). Lodging: The Singing Crow Inn, Edelgard (**14 LC**/night; Steel-band; skipped peasant hostel). Meets Helci.
+No full status screen. Age **11** / world **6 years**. Enter wallet **21,641 LC** (personal **11,641** + parting gift **10 SG**). Solaria tip **−1 SS (−10 LC)** → **21,631**. Guild city map list **2 SS** / Steel **5%** → **−19 LC** → **21,612 LC**. Singing Crow room **−14 LC** → **21,598 LC**. Fire Orb memory redraw: **[High] +600 XP** (over 1 hour; uneven) then thin-sheet **[Highest] +400 XP** (total **1000**). Three Highest lesser schematics now. Train week (**both drills every day**, mana at **~99%** regen ceiling; Ned nibble/poke + **needle-catch / feed-back**; **1 click / ~4 s**): Sound Production **L7**, Echolocation **L7**, Breath Control **L5** (**1 min held = 1 use**), Multitasking **L5**, Throwing **L9** (Basic), Shaping **L7**, Regulation **L8**, Heat **L6**, Heat Resistance **L5**, Cold **L5**, Pain **L5**, Poison **L6**, Recovery **L5**; Hands / Absorption / Reinforcement / Sense stay **L9**; Incantation **L9** (`Skills.md` Ch 19 math). Lodging: The Singing Crow Inn, Edelgard (**14 LC**/night; Steel-band; skipped peasant hostel). Meets Helci.
 
 **Rewrite:** inherits Ch 17 rewrite. Wallet **21,641 → 21,598 LC** after tip + map + room (`Items.md`). Personal **11,641 LC** never replaced by the gift alone. Fire Orb **High→Highest** **+1000 XP** total → bar **3479 / 13000** (`Experience.md`). Lesser quality ladder: **100 / 200 / 400 / 600 / 1000**. Source one-shot Highest **+1000** discarded.
 

@@ -376,7 +376,7 @@ No new traits. First paid hunt. Ending: adventure / meal / rest steps (not Sourc
 
 ## Chapter 9.5
 
-Three-month Carwen grind. Goblins track Roland’s overall level. Field-use curve: `Levels.md` (**1 / 10 / 50 / 200 / 1,000 / 5,000 / 20,000 / 100,000 / 500,000**, evolve at **2,000,000**). Technique clean-rate ~**40%**. Absorption/Reinforcement ~**70%** on mana-spend pulses. Peak use accelerates the timeline (mostly narrative; he hunts and drills at the edge he can hold). **Recounted** under that curve. **No skill evolves this skip** (evolve needs **2,000,000**). Names hard-cap at **L9**.
+Three-month Carwen grind. Goblins track Roland’s overall level. Field-use curve: `Levels.md` (**1 / 10 / 50 / 200 / 1,000 / 5,000 / 20,000 / 100,000 / 500,000**, evolve at **2,000,000**). Technique clean-rate ~**40%**. Absorption/Reinforcement ~**70%** on mana-spend pulses. Peak use accelerates the timeline (mostly narrative; he hunts and drills at the edge he can hold). Foundations (**Shaping / Incantation / Regulation**) climb on peak ceiling work as well as casts. Combat spells stay volume-honest. **Recounted** under that curve. **No skill evolves this skip** (evolve needs **2,000,000**). Names hard-cap at **L9**.
 
 **Unlock path (prose):** outside-body mana hold → Willpower. Ambient pull → **Mana Absorption** + **Mana Regulation**. Same breath forced into blood/bone as a store → **Mana Reinforcement** (self-taught; takes longer than a book buy; same store skill as common dealer books). **Basic Dodging** unlocks month 1 when he clears clubs/spears on purpose. **Mana Arrow** sticks/pillow drills after late month-1 unlock. **Mana Shield** chalk-line circle drills after month-2 unlock. Heat / Mana Hands stay evening self-discovery drills.
 
@@ -389,9 +389,9 @@ Volume anchors (`Levels.md`): Bolt ~**1,550–2,500** finished; Arrow ~**540–8
 | **Mana Bolt** | L1 | **L5** | ~**1,550–2,500** casts. Clears **1,000**. Short of **5,000**. |
 | **Mana Arrow** | unlock ~end month 1 | **L4** | ~**540–800**. Clears **200**. Short of **1,000**. |
 | **Mana Shield** | unlock ~month 2 | **L3** | ~**180–270**. Clears **50**. Short of **200**. |
-| **Basic Mana Shaping** | L1 | **L4** | cast pool ×0.4 clean ≈ **900**. Clears **200**. |
-| **Basic Incantation** | L1 | **L4** | same cast pool. |
-| **Basic Mana Regulation** | L1 | **L6** | continuous drain/refill beside Absorption. Clears **5,000**. |
+| **Basic Mana Shaping** | L1 | **L6** | cast pool + peak-use evening holds. Clears **5,000**. |
+| **Basic Incantation** | L1 | **L6** | same combat + peak chant work. Clears **5,000**. |
+| **Basic Mana Regulation** | L1 | **L7** | continuous drain/refill beside Absorption (peak ceiling). Clears **20,000**. |
 | **Mana Absorption** | — | **L9** | spend/refill pulses all hunt day + evening ambient → **500,000**. No evolve. |
 | **Mana Reinforcement** | — | **L9** | held up on the same cycles → **500,000**. No evolve. |
 | **Basic One-handed Swordsmanship** | L8 | **L8** | ~**200** clean finishes. L9 needs **500,000** cum. |
@@ -445,7 +445,7 @@ The caster moves objects with mana. Weight and range scale with Intelligence. Vi
 ════════════════════════
 ```
 
-Cast method (rewrite): chant makes the circle appear in the mind and easy to trace; mana almost guides itself while chanting (**on the move** ok). Mangled chant interrupts unless he already controls every part of the mana along the circle. Silent draw possible but so far always fails without some chant present. Even T1 circles are moderately complex. Int holds/follows the appeared circle. Spell/skill level-ups grant XP (often more than trash goblins). Absorption / Reinforcement stay up as mana is spent. **No evolves this skip** (evolve bar **2,000,000**). Running / Climbing / Throwing / Sprint / Leather stay **Basic L9**. Sword / Sneaking stay **Basic L8**. Marksmanship stays **L7**. **Basic Dodging** unlocked in Ch 9.5 and ends **L4**. Still Mage L20 on first class. Plans Mana Scribe next.
+Cast method (rewrite): chant makes the circle appear in the mind and easy to trace; mana almost guides itself while chanting (**on the move** ok). Mangled chant interrupts unless he already controls every part of the mana along the circle. Silent draw possible but so far always fails without some chant present. Even T1 circles are moderately complex. Int holds/follows the appeared circle. Spell/skill level-ups grant XP (often more than trash goblins). Absorption / Reinforcement stay up as mana is spent. **No evolves this skip** (evolve bar **2,000,000**). Foundations: Shaping **L6**, Regulation **L7**, Incantation **L6**. Running / Climbing / Throwing / Sprint / Leather stay **Basic L9**. Sword / Sneaking stay **Basic L8**. Marksmanship stays **L7**. **Basic Dodging** unlocked in Ch 9.5 and ends **L4**. Still Mage L20 on first class. Plans Mana Scribe next.
 
 ### Traits
 
@@ -470,7 +470,7 @@ No new named skills. Field use:
 
 Party combat on Emerald Wilderness floor 1. Still Mage L20 band.
 
-**Trial weeks (~2 weeks, 7 more days):** Mana Shield **~+14** casts → stays **L3**. Basic Incantation stays **L4**. While waiting (butcher / travel): **Mana Hands** fiddling, **Mana Absorption**, **Mana Sense**. Sense + Absorption stay **L9** (capped). Mana Hands **L5 → L6** (~**175** waiting casts ≈ step from L5 toward **5,000**). Hands rank **~+100 XP**.
+**Trial weeks (~2 weeks, 7 more days):** Mana Shield **~+14** casts → stays **L3**. Basic Incantation stays **L6**. While waiting (butcher / travel): **Mana Hands** fiddling, **Mana Absorption**, **Mana Sense**. Sense + Absorption stay **L9** (capped). Mana Hands **L5 → L6** (~**175** waiting casts ≈ step from L5 toward **5,000**). Hands rank **~+100 XP**.
 
 ### Traits
 
@@ -483,9 +483,9 @@ Uses Mana Arrow, Mana Bolt and Identify (Needle Worm). Floor-2 cook: Needle Worm
 
 ## Chapter 13
 
-Half-year Floor-3 grind → **Mage L25**. Kill/XP/loot/pouch: `Experience.md` (**342** kills; skill XP **4,608**; pouch **~5,977 LC**). **No skill-name evolves** (evolve bar **2,000,000**).
+**Half a year** with the girls on Floor-3 (after **3 months** solo goblins) → **Mage L25**. Kill/XP/loot/pouch: `Experience.md` (**342** kills; skill XP **4,608**; pouch **~5,977 LC**). **No skill-name evolves** (evolve bar **2,000,000**).
 
-**Rewrite attribute pads from these ranks** (spells no attr; Calligraphy / Temperature Resistance no attr line): Sword Basic **L8→L9** **+1 Str**; Dodging Basic **L4→L6** **+2 Agi** (Ch 14 **→L7** adds **+1**); Sneaking Basic **L8→L9** **+1 Agi**; Marksmanship **L7→L9** **+2 Dex**; Incantation **L4→L7** **+3 Int/+3 Will**; Shaping **L4→L6** **+4 Int/+2 Will**; Regulation **L6→L7** **+1 Int/+2 Will**; Alcohol **+3 End**; Poison **L1→L6** **+5 Vit / +5 End**; Recovery **L1→L5** **+5 Vit / +5 End**. Live chapter sheet numbers still win (`Status.md`). Full pad rebuild: `StatusBreakdown.md`.
+**Rewrite attribute pads from these ranks** (spells no attr; Calligraphy / Temperature Resistance no attr line): Sword Basic **L8→L9** **+1 Str**; Dodging Basic **L4→L6** **+2 Agi** (Ch 14 **→L7** adds **+1**); Sneaking Basic **L8→L9** **+1 Agi**; Marksmanship **L7→L9** **+2 Dex**; Incantation **L6→L9** **+3 Int/+3 Will**; Shaping **L6→L7** **+2 Int/+1 Will**; Regulation **L7→L8** **+1 Int/+2 Will**; Alcohol **+3 End**; Poison **L1→L6** **+5 Vit / +5 End**; Recovery **L1→L5** **+5 Vit / +5 End**. Live chapter sheet: `Status.md` / `StatusBreakdown.md`.
 
 Skill ranks (enter → exit; **46** ranks × **100** XP + **8** overflow = **4,608**):
 
@@ -496,13 +496,13 @@ Skill ranks (enter → exit; **46** ranks × **100** XP + **8** overflow = **4,6
 | Basic Alcohol Resistance | **L1 → L4** |
 | Poison Resistance | **L1 → L6** (daily Ned toxin seasoning; see `Progression/Skills.md`) |
 | Recovery | unlock **L1 → L5** (daily skin poke + 150 mL bleed/knit to Ned) |
-| Mana Shield | **L3 → L7** |
+| Mana Shield | **L3 → L8** |
 | Mana Hands | **L7 → L9** |
-| Mana Arrow | **L4 → L7** |
+| Mana Arrow | **L4 → L8** |
 | Mana Bolt | **L5 → L9** |
-| Basic Mana Shaping | **L4 → L6** |
-| Basic Mana Regulation | **L6 → L7** |
-| Basic Incantation | **L4 → L8** |
+| Basic Mana Shaping | **L6 → L7** |
+| Basic Mana Regulation | **L7 → L8** |
+| Basic Incantation | **L6 → L9** |
 | Basic Dodging | **L4 → L6** |
 | Basic One-handed Swordsmanship | **L8 → L9** |
 | Basic Sneaking | **L8 → L9** |
@@ -572,12 +572,12 @@ Field-use curve (`Levels.md`): cum clean uses to reach L = **1 / 10 / 50 / 200 /
 | **Echolocation** | — | **L7** | Same clicks + Ned locate + needle-in-flight. No evolve. |
 | **Multitasking** | **L1** | **L5** | Dual-focus minutes across the week (~**1,470**). Clears **1,000**. |
 | **Basic Throwing** | **L9** | **L9** | Catch-and-return on tips. Already Basic-capped. No evolve. |
-| **Basic Mana Shaping** | **L6** | **L7** | Remote clicks + fine heat/cold grids (~**22,000**). Clears **20,000**. |
-| **Basic Mana Regulation** | **L7** | **L7** | Ceiling draw all week. L8 needs **100,000**. |
+| **Basic Mana Shaping** | **L7** | **L7** | Remote clicks + grids (~**22,000**). L8 needs **100,000**. |
+| **Basic Mana Regulation** | **L8** | **L8** | Ceiling draw all week. L9 needs **500,000**. |
 | **Mana Hands** | **L9** | **L9** | Cap. |
 | **Mana Absorption** | **L9** | **L9** | Cap. |
 | **Mana Reinforcement** | **L9** | **L9** | Cap. |
-| **Basic Incantation** | **L8** | **L8** | Almost no chanting. |
+| **Basic Incantation** | **L9** | **L9** | Cap. Almost no chanting this week. |
 | **Mana Sense** | **L9** | **L9** | Cap. |
 | **Heat** (heat production) | **L6** | **L6** | ~**1,240** hot patches. L7 needs **20,000**. |
 | **Heat Resistance** | — | **L5** | Real burns daily. Clears **1,000**. Short of **5,000**. |
@@ -587,7 +587,7 @@ Field-use curve (`Levels.md`): cum clean uses to reach L = **1 / 10 / 50 / 200 /
 | **Breath Control** | — | **L5** | ~**1,000+** minutes held. L6 needs **5,000**. |
 | **Recovery** | **L5** | **L5** | ~**1,240** knit cycles. L6 needs **5,000** cum. **No evolve.** |
 
-**Attr pads from this week only** (exit − enter): Sound Prod **+7 Int / +7 Dex**; Echo **+7 Will / +7 Int**; Multitask **+4 Int / +4 Dex**; Throwing none (already Basic L9); Shaping **+2 Int / +1 Will** (Int-heavy ×1 level); Regulation none; Heat none (spell); Heat Resistance **+5 Vit / +5 End**; Cold **+4 Vit / +4 End**; Pain **+4 Will / +4 End**; Poison none; Breath Control **+5 Vit / +5 End**; Recovery none.
+**Attr pads from this week only** (exit − enter): Sound Prod **+7 Int / +7 Dex**; Echo **+7 Will / +7 Int**; Multitask **+4 Int / +4 Dex**; Throwing none (already Basic L9); Shaping none; Regulation none; Heat none (spell); Heat Resistance **+5 Vit / +5 End**; Cold **+4 Vit / +4 End**; Pain **+4 Will / +4 End**; Poison none; Breath Control **+5 Vit / +5 End**; Recovery none.
 
 **Sheet note:** fold these into the Ch 19 rewrite when the live L26 Scribe sheet is retconned; do not invent a second full status screen on the train.
 

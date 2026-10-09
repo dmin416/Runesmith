@@ -39,7 +39,57 @@ Empty-mana emergency. Plant a **2.5–4 m** pole, slide the shaft, brake over me
 
 Story use: bag pole → plant → slide. Not a soft-fall spell. Soft ground and tip plant quality decide whether the brake holds.
 
+**Slide vs bend / pogo.** A friction slide keeps load near **1–2× BW** over meters (grip and burn limited). A bending pole or pogo is a short spring stop: high force, short stroke. Real shepherd vault often mixes bend, arc and path change; pure upright compression is the harsh case below.
+
+#### Upright spring stop (load through the legs)
+
+Load factor **L** = pole force ÷ body weight (what you feel). COM deceleration ≈ **(L − 1) g**. Straight legs, brief pulse (~50–200 ms). Aviation sustained-g is a different limit.
+
+| Body | Usable upright (repeatable) | Hard edge (injury climbs fast) |
+|---|---|---|
+| Average man | **~4–5× BW** | **~8–10× BW** (heels, ankles, lumbar) |
+| **3× physical capacity** | **~12–15× BW** | **~24–30× BW** |
+
+Design anchors: average **L = 5**, 3× body **L = 15**.
+
+Absorbable freefall height for vertical stroke **s** (how much the pole/pogo squishes under you):
+
+```
+H ≈ (L − 1) s
+v ≈ √(2 (L − 1) g s)
+```
+
+| L | Stroke s | Height fully soaked | Speed killed |
+|---|---|---|---|
+| **5** | 0.3 m | ~1.2 m | ~4.9 m/s |
+| **5** | 0.5 m | ~2.0 m | ~6.3 m/s |
+| **5** | 1.0 m | ~4.0 m | ~8.9 m/s |
+| **15** | 0.3 m | ~4.2 m | ~9.1 m/s |
+| **15** | 0.5 m | ~7.0 m | ~11.7 m/s |
+| **15** | 1.0 m | ~14 m | ~16.6 m/s |
+
+Body sets max force. Stroke turns that into height. Triple the body → triple absorbable height at the same bend.
+
+#### Arms (tension) vs braced body (compression)
+
+Same **4–5 m** freefall (~**9.4 m/s**, ~**3.3 kJ** at 75 kg). Average force scales as `H / s` in body-weights (plus ~1 BW while holding weight).
+
+| Stop method | Realistic stroke s | Load to kill the fall | Viable? |
+|---|---|---|---|
+| Arms only (short catch) | ~0.2–0.4 m | ~11–22× BW | **No** — grip / shoulders fail first |
+| Arms on long pole slide | several meters | ~1–2× BW | **Yes** — endurance / friction limited |
+| Legs braced, soft | ~0.5–0.8 m | ~6–9× BW | Borderline / hard for average |
+| Whole body braced (crouch + roll) | ~0.8–1.2 m | ~4–6× BW | Yes if fit and timed |
+
+| | Arms / hands (tension) | Body braced (compression) |
+|---|---|---|
+| Everyday usable peak | ~1–2× BW | ~4–7× BW |
+| Hard edge | ~2–3× BW (grip, shoulder, wrist) | ~8–12× BW |
+| Fails first | Grip, rotator cuff, elbow/wrist | Ankles/heels, then knees/lumbar if locked |
+
+**Rule of thumb:** braced compressive capacity is about **3–5×** arm tensile capacity on a short impact. Arms only compete on a **4–5 m** drop if they get several times more stopping distance (slide vs plant). Forward-fall studies already put one hand near **0.7–1.7× BW** from ~1 m of shoulder drop.
+
 ## Open
 
 - Full μ / burn-hand math from Old if a leap scene needs it  
-- STR scaling for harder landings when Progression deepens  
+- STR / attribute pad mapping onto the 3× physical row when Progression deepens  
