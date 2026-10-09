@@ -23,6 +23,7 @@ Earth-physics and craft anchors. Cast / mana law hub: `../../Runes/Energy.md`. M
 | `Metallurgy/MagicPowderMetallurgy.md` | Magic PM: conjured dies / HIP / vacuum weld; powder + mage labor limits |
 | `Metallurgy/EarthAlloys.md` | Earth alloy / carbon production encyclopedia (not Terra metal law) |
 | `Metallurgy/MetalOres.md` | Ore geography and extract routes |
+| `Metallurgy/Silver.md` | Earth silver melt / spit / tarnish / mirrors (mythril line stays in Materials/Metals.md) |
 | `Metallurgy/Titanium.md` | Ti sources, USGS quantities, volcanic placer / laterite recovery |
 | `Metallurgy/Brass.md` | Cu–Zn melt, work, fittings |
 | `Metallurgy/CopperPipe.md` | Tube temper, join, water kill |
@@ -64,8 +65,8 @@ Earth-physics and craft anchors. Cast / mana law hub: `../../Runes/Energy.md`. M
 | `Energy/Kinetic.md` | Kinetic pours / throws |
 | `Energy/Sound.md` | Sound Production / echolocation |
 | `Energy/Waves.md` | Wave / ozone bands |
-| `Energy/Optics.md` | Water-lens craft; steampunk laser physics, types, power, gas feedstock |
-| `Energy/Lighting.md` | Incandescent, discharge, LED / laser-diode light; Caldris filter |
+| `Energy/Optics.md` | Water-lens; lasers; glints; cavities; radiance / collimators |
+| `Energy/Lighting.md` | Incandescent, limelight, discharge, LED structure / failure; Caldris filter |
 | `Energy/Projectiles.md` | Projectile physics; flywheel pinch launch |
 | `Energy/GuidedProjectiles.md` | Guided munitions, mechanical vs computer guidance, turn-radius limits |
 | `Energy/Engines.md` | Which prime mover: steam, Stirling, or electric motor |

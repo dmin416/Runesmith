@@ -22,11 +22,11 @@ Stones, cast tables, batteries, engines, motors, fans, pumps, compression, fligh
 - [GuidedProjectiles.md](GuidedProjectiles.md). Guided munitions, mechanical vs computer guidance, turn-radius limits
 - [GunpowderFirearms.md](GunpowderFirearms.md). Medieval / Victorian powder chemistry and raw materials
 - [Kinetic.md](Kinetic.md). Kinetic pours / throws; recoil / countermass
-- [Lighting.md](Lighting.md). Incandescent, discharge, LED / laser-diode light; Caldris filter
+- [Lighting.md](Lighting.md). Incandescent, limelight, discharge, LED structure / failure; Caldris filter
 - [ManaCast.md](ManaCast.md). Spell-specific cast tables (shared law in ../../Runes/Energy.md)
 - [ManaConcentration.md](ManaConcentration.md). Ambient mana density vs altitude (C, A = √C); layers/orbits: ../Space/
 - [ManaStones.md](ManaStones.md). Size / mass / recharge / market tables (dump law in MonsterCores)
-- [Optics.md](Optics.md). Water-lens craft; steampunk laser physics, types, power, gas feedstock
+- [Optics.md](Optics.md). Water-lens; lasers; atmosphere glints; integrating spheres; radiance / collimators
 - [Projectiles.md](Projectiles.md). Projectile physics; flywheel pinch launch
 - [Pumps.md](Pumps.md). Lift, head, taps
 - [RefinedMana.md](RefinedMana.md). Stillwire / Lightthread from stones

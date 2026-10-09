@@ -9,7 +9,7 @@ Metals convert under mana concentration. Temporary charge bleeds off. Permanent 
 ## Detail
 
 **Locks (parent lines):**
-- **Silver → mythril**
+- **Silver → mythril** (Earth silver chemistry / mirrors: `../Science/Metallurgy/Silver.md`)
 - **Gold → orihalcum**
 - **Copper → aurium**
 - **Iron → darkiron / star iron**

@@ -1,6 +1,8 @@
 # Titanium: Sources, Quantities and Volcanic Recovery
 
-Hub: `../Science.md`. Ore extract routes: `MetalOres.md`. Earth alloy encyclopedia: `EarthAlloys.md`. Purity / energy ladder: `../../Materials/MaterialPurification.md`. Island geology: `../../Geography/VolcanicIslandResources.md`.
+Hub: `../Science.md`. Ore extract routes: `MetalOres.md`. Earth alloy encyclopedia: `EarthAlloys.md`. Purity / energy ladder: `../../Materials/MaterialPurification.md`. Atomization floors (Ti metal, oxides, TiCl₄): `../../Materials/AtomizationEnergy.md`. Island geology: `../../Geography/VolcanicIslandResources.md`, `../../Geography/VolcanicIslandSands.md`, `../../Geography/HawaiianMinerals.md`.
+
+**Companions:** industrial mine-to-mill `TitaniumProcessing.md`. Low-tech beach-to-metal bootstrap `TitaniumBootstrap.md`. Silica / separation gear `SilicaSand.md`. Nitinol `Nitinol.md` (Ni feed `Nickel.md`).
 
 Terra public Ti stock is **adamantium** (converted Ti). Mundane sponge / Kroll plate is **SPECIALTY** / invent, not street (`MetalOres.md`, Materials).
 

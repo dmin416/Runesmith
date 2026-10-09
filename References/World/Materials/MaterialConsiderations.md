@@ -71,6 +71,8 @@ No. The particles that carry heat are far too small to move a perfectly rigid ob
 
 Nickel-titanium shape memory alloy saturated with mana, built on adamantium (mana-saturated titanium) being truly indestructible.
 
+Earth metallurgy companion (composition, melt, work, shape set, Hawaiian mass balance): `../Science/Metallurgy/Nitinol.md`. Nickel feed: `../Science/Metallurgy/Nickel.md`.
+
 ### Real Nitinol Baseline
 
 - **Composition:** Roughly half nickel and half titanium by atom count.

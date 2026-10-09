@@ -1,6 +1,6 @@
 # Translucent Materials: Uses, Sources and Processing
 
-Hub: `Materials.md`. Silica purity ladder / energy: `MaterialPurification.md`. Optics craft: `../Science/Energy/Optics.md`. Thermometers / glass tubes: `../Science/Metallurgy/Thermometers.md`. Insect / rubber stocks: `../Science/Biomaterials/RubberAndInsect.md`. Gem seats: `../Science/Metallurgy/GemInlay.md`. Tech era filter: `../Tech/Technology.md`.
+Hub: `Materials.md`. Silica purity ladder / energy: `MaterialPurification.md`. Atomization floors (diamond, chitin, silicone, quartz, glass): `AtomizationEnergy.md`. Optics craft: `../Science/Energy/Optics.md`. Thermometers / glass tubes: `../Science/Metallurgy/Thermometers.md`. Insect / rubber stocks: `../Science/Biomaterials/RubberAndInsect.md`. Gem seats: `../Science/Metallurgy/GemInlay.md`. Tech era filter: `../Tech/Technology.md`.
 
 ---
 

@@ -9,7 +9,7 @@ Companion forge metallurgy: `CraftMetal.md`. Fuel / forge energy bands: `Blacksm
 - Finished blade **1.1 kg** from a **1.8 kg** billet.
 - Circuit channel **3 mm** bore by **1 m** long. That is **7 cm³** or about **55 g** of steel.
 - Charcoal at **30 MJ/kg** and forge or furnace efficiency of **5 to 10%**.
-- Magic cost uses the bond-breaking floor of iron (about **7.4 MJ/kg**) divided by an efficiency of **10 to 30%**. Floor for the channel mass alone ≈ **0.41 MJ**.
+- Magic cost uses the bond-breaking floor of iron (about **7.4 MJ/kg**; table **7.5** in `../../Materials/AtomizationEnergy.md`) divided by an efficiency of **10 to 30%**. Floor for the channel mass alone ≈ **0.41 MJ**.
 
 ## Energy estimates
 

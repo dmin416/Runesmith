@@ -1,7 +1,7 @@
 # Materials (agent ref)
 
 Terra = Earth elements. Tags: COMMON · MAGIC · SPECIALTY · NO.
-Deep: `Metals.md` · `MonsterCores.md` · `TranslucentMaterials.md` · `MaterialPurification.md` · design ideas: `MaterialConsiderations.md` · `../Science/Biomaterials/Biomaterials.md` · `../Science/Energy/RefinedMana.md` · `../Science/Metallurgy/CraftMetal.md` · Zn/brass process: `../Science/Metallurgy/Brass.md`
+Deep: `Metals.md` · `MonsterCores.md` · `TranslucentMaterials.md` · `MaterialPurification.md` · `AtomizationEnergy.md` · design ideas: `MaterialConsiderations.md` · `../Science/Biomaterials/Biomaterials.md` · `../Science/Energy/RefinedMana.md` · `../Science/Metallurgy/CraftMetal.md` · Zn/brass process: `../Science/Metallurgy/Brass.md`
 Conversion law (altitude / %): `Metals.md`. Ambient `C` / `A`: `../Science/Energy/ManaConcentration.md`.
 
 COMMON metal: Cu · Fe/steel · Ag · Au · Sn · bronze · brass · calamine (Zn ore for brass)
