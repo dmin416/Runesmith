@@ -1,9 +1,9 @@
 # Experience
 
-> Live kill law: `References/Progression/Progression.md` (`50 × killed_L × RaceMult`; table in `Levels.md`). Pre-class **½** only; no class-change half-cut.
+> Live kill law: `References/Progression/Progression.md` (`50 × killed_L × RaceMult`; table in `RaceMult.md`). Pre-class **½** only; no class-change half-cut.
 > **Ch 4–19 XP path locked below** (1000-kill Ch 9.5 → Mage L20; dungeon RaceMult + real L through Mage L25; full reclass bank).
 
-Running XP log. RaceMult table: `../../References/Progression/Levels.md`. Status screens: `Status.md`. Coin / stones: `Items.md`, `../../References/World/Society/Economy.md`. Narrative threat: `../../References/World/Fauna/MonsterThreat.md`.
+Running XP log. RaceMult table: `../../References/Progression/RaceMult.md`. Status screens: `Status.md`. Coin / stones: `Items.md`, `../../References/World/Society/Economy/Economy.md`. Narrative threat: `../../References/World/Fauna/MonsterThreat.md`.
 
 **Live RaceMult (early):** goblin **1.0**; dungeon rat **0.2**; Needle Worm **0.5**; Needle Moth **2.0**; Spiked Boar **1.5**; Wereboar **2.0**; people **1.0**. Formula `50 × L × RaceMult`. Draft dungeon L: rat **5**, Spiked Boar **8**, Needle Worm **16–18**, Needle Moth **18**, Wereboar **≥26**.
 
@@ -69,7 +69,7 @@ XP_to_next(L) = 500 × L
 | L2→L3 | **1000** |
 | **Sum** | **1500** |
 
-Curve tables: `Levels.md`.
+Curve tables: `ExperienceCurve.md`.
 
 ## Post-ascension
 
@@ -323,7 +323,7 @@ Sahildr's hammer copy (Diagnosis overlay on paper; not scribing). Drawing breakt
 
 Inn redraw from class-trial memory (not Diagnosis on a weapon). First pass **over** 1 hour (uneven; first real-world Fire Orb draw). Source one-shot **[Highest] +1000** discarded.
 
-**Lesser quality XP ladder** (`Levels.md`): Lowest **100** / Low **200** / Intermediate **400** / High **600** / Highest **1000**. Raising quality pays the **difference** only.
+**Lesser quality XP ladder** (`ExperienceCurve.md`): Lowest **100** / Low **200** / Intermediate **400** / High **600** / Highest **1000**. Raising quality pays the **difference** only.
 
 | Source | XP | Notes |
 |---|---:|---|

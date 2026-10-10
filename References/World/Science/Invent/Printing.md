@@ -1,6 +1,6 @@
 # Printing
 
-Unlocked invent seed. Not a street baseline. Era line: `../../Tech/Technology.md`.
+Unlocked invent seed. Not a street baseline. Era line: `../../Tech/Technology.md`. Oil vs water printing inks and press detail: `Ink.md`.
 
 ## Future products
 

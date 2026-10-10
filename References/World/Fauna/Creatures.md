@@ -1,6 +1,6 @@
 # Creatures
 
-Early and common foes. Mounts / tames: `Mounts.md`. Stones: `../Materials/MonsterCores.md`. XP: `50 × L × RaceMult` (`../../Progression/Progression.md`; table `../../Progression/Levels.md`). Narrative threat dial: `MonsterThreat.md`. Ecology / area worksheet: `MonsterPopulation.md`. Fat species notes: `CreaturesDesign.md`. Source inventory: `../../SourceLoot/Creatures.md`.
+Early and common foes. Mounts / tames: `Mounts.md`. Stones: `../Materials/MonsterCores.md`. XP: `50 × L × RaceMult` (`../../Progression/Progression.md`; table `../../Progression/Levels.md`). Narrative threat dial: `MonsterThreat.md`. Ecology / area worksheet: `MonsterPopulation.md`. Fat species notes: `Design/CreaturesDesign.md`. Source inventory: `../../SourceLoot/Creatures.md`.
 
 ## Narrative
 
@@ -22,7 +22,7 @@ Floor-1 Emerald Wilderness beast (draft common grade **~L8**). Thick tusks and s
 
 ### Needle Worm
 
-Floor-2 ambusher (draft **~L16**). Leaf-green spiky caterpillar. Paralytic green blood (cumin / numb spice feel). Tiny stone **½ rice**. XP: `../../Progression/Levels.md`. Threat **1.1**. Core-bearing specimen can be tamed (**Ned**). Biomechanics / worm-line combat body: `NeedleWorm.md`.
+Floor-2 ambusher (draft **~L16**). Leaf-green spiky caterpillar. Paralytic green blood (cumin / numb spice feel). Tiny stone **½ rice**. XP: `../../Progression/Levels.md`. Threat **1.1**. Core-bearing specimen can be tamed (**Ned**). Biomechanics / worm-line combat body: `Species/NeedleWorm.md`.
 
 ### Needle Moth
 
@@ -42,7 +42,7 @@ Later nest clear foes (Manstos / insectoid jobs). Soldier / worker castes. Manst
 
 ### Albrook volcanic early (named)
 
-Fire Slimes, Fiery Skeletons, Baby Salamanders appear on early Albrook dungeon floors. Kill XP still `50 × monster level × RaceMult`. Deep floor list stays chapter / Source loot. Metal / lava slime living-crucible design: `Slimes.md`.
+Fire Slimes, Fiery Skeletons, Baby Salamanders appear on early Albrook dungeon floors. Kill XP still `50 × monster level × RaceMult`. Deep floor list stays chapter / Source loot. Metal / lava slime living-crucible design: `Species/Slimes.md`.
 
 ## Indexes
 
@@ -50,7 +50,7 @@ Fire Slimes, Fiery Skeletons, Baby Salamanders appear on early Albrook dungeon f
 |---|---|
 | `MonsterThreat.md` | Narrative threat vs human (baselines + g(L)) |
 | `../../SourceLoot/Creatures.md` | 261 Source names (index only) |
-| `CreaturesDesign.md` | Fat bestiary loot (absorb by region) |
+| `Design/CreaturesDesign.md` | Fat bestiary loot (absorb by region) |
 
 ## Open
 

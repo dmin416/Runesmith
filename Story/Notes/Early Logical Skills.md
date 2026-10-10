@@ -2,7 +2,7 @@
 
 Skills and related unlocks Roland should get **much earlier** than Source, just from being a modern adult who reads, plans, and thinks problems through. Class-gated forge/rune packages stay on class. This list is for transfer, childhood, and first mage stretch.
 
-Attribute growth from these skills follows **+1 × skill level** (`Levels.md`). Body Int/Will age track (adult mind, 4 hours reading): `Progression.md`. Sheet buckets: `StatusBreakdown.md`.
+Attribute growth from these skills follows **+1 × skill level** (`SkillRanks.md`). Body Int/Will age track (adult mind, 4 hours reading): `Progression.md`. Sheet buckets: `StatusBreakdown.md`.
 
 ## At transfer or Chapter 2 (already in his head)
 

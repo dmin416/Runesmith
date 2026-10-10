@@ -1,8 +1,14 @@
 # Biological Silks
 
-Earth research anchors for Ned's silk (binding, lines, Bindweave). Map to Caldris; do not paste Earth species names into prose as if they are local. Companion: `../../../People/Ned.md`. Process pipeline: `Biomaterials.md`. Insect / silk craft notes: `RubberAndInsect.md`.
+Earth research anchors for Ned's silk (binding, lines, Bindweave). Map to Caldris; do not paste Earth species names into prose as if they are local. Companion: `../../../People/Ned.md`. Process pipeline: `Biomaterials.md`. Latex / insect toolkit / Ned job picks: `RubberAndInsect.md`. Glue catalog: `BiologicalAdhesives.md`. Nav: `Index.md`.
 
-**Powder feedstock (Ned invent):** Ned silk is cellulose. With strong dry mixed acid it nitrates into guncotton-grade nitrocellulose. Wet or weak acid only makes collodion (burns, poor propellant). Glycerin from his hemolymph is the nitroglycerin base. Acid chemistry: `../Energy/GunpowderFirearms.md`. Gland layout: `../../Fauna/NeedleWorm.md`.
+**Owns:** silk type numbers and reel / degum craft gist. Harvest schedule → `Biomaterials.md`. Ned sticky / strength targets → `RubberAndInsect.md`.
+
+**Powder feedstock (Ned invent):** Ned silk is cellulose. With strong dry mixed acid it nitrates into guncotton-grade nitrocellulose. Wet or weak acid only makes collodion (burns, poor propellant). Glycerin from his hemolymph is the nitroglycerin base. Acid chemistry: `../Energy/GunpowderFirearms.md`. Gland layout: `../../Fauna/Species/NeedleWorm.md`.
+
+## Reel and degum (craft gist)
+
+Fibroin core + sericin gum (~20–30%). Degum in hot soapy water. One cocoon ~300–900 m reelable. ~2500–3000 cocoons / lb raw. Kill pupa before emerge or the thread breaks. Spun silk from pierced cocoons. Toolkit job picks: `RubberAndInsect.md`.
 
 ## Spider Silks
 

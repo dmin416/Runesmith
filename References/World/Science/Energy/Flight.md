@@ -1,6 +1,6 @@
 # Flight
 
-Hover and lift power. No locked “flight is cheap/expensive” fiat. Pay the equation for the method in use. Cast: `../../../Runes/Energy.md`. Hands hold ≠ flight. Hub: `../Science.md`.
+Hover and lift power. No locked “flight is cheap/expensive” fiat. Pay the equation for the method in use. Cast: `../../../Runes/Energy.md`. Hands hold ≠ flight. Felt speed / optic flow at altitude: `../Body/SpeedPerception.md`. Hub: `../Science.md`.
 
 ## Narrative
 

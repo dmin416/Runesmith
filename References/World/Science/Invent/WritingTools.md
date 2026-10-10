@@ -1,6 +1,6 @@
 # Writing Tools and Graphite
 
-Story canon for writing and drawing implements, plus Earth research used to keep the invent beats honest. Surfaces: `Paper.md`. Folder: `References/World/Science/`.
+Story canon for writing and drawing implements, plus Earth research used to keep the invent beats honest. Surfaces: `Paper.md`. Inks: `Ink.md`. Folder: `References/World/Science/`.
 
 ## Story lock (rewrite)
 
@@ -48,7 +48,7 @@ Not copied into Terra wholesale. Use for timelines, materials and what “invent
 
 ### Renaissance kit (Earth) before common pencils
 
-Silverpoint, natural chalks (sanguine / black / white), charcoal, quill + iron gall or bistre, brush wash, wax tablets. Graphite sticks appear late (Gesner 1565) as a novelty.
+Silverpoint, natural chalks (sanguine / black / white), charcoal, quill + iron gall or bistre, brush wash, wax tablets. Graphite sticks appear late (Gesner 1565) as a novelty. Full ink families: `Ink.md`.
 
 ### Graphite geology (Earth)
 
@@ -100,6 +100,7 @@ Wood charcoal alone is hard carbon that resists forming graphite. The **tar and 
 
 ## Cross-links
 
+- Inks (carbon, iron gall, print paste, blood, density): `Ink.md`
 - Ch 19 quill / pencil want: `../../../../Story/Notes/Notes.md`, chapter prose in `../../../../Story/Chapters/19-30.md`
 - Ned spikes / toxin: `../../../../Story/Notes/NedStatus.md`, `../../../People/Ned.md`
 - Edelgard mines: `../../Geography/Places.md`

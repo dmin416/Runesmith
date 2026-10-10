@@ -1,6 +1,6 @@
 # Vacuum
 
-Hub: `../Science.md`. Cast law: `../../../Runes/Energy.md` + `../Energy/ManaCast.md`. Living resistance: section below + hub Locked in `../Science.md`. Mana = J / (10 × η × μ). Physical steel chamber build (walls, seals, pumps, coatings): `SteelVacuumChamber.md`. Vacuum steps in alloy / carbon production: `EarthAlloys.md`. Forcefield vacuum over a fire (radiant HT): `VacuumForcefieldHeat.md`.
+Hub: `../Science.md`. Cast law: `../../../Runes/Energy.md` + `../Energy/ManaCast.md`. Living resistance: section below + hub Locked in `../Science.md`. Mana = J / (10 × η × μ). Physical steel chamber build (walls, seals, pumps, coatings): `SteelVacuumChamber.md`. Vacuum steps in alloy / carbon production: `EarthAlloys.md`. Forcefield vacuum over a fire (radiant HT): `VacuumForcefieldHeat.md`. Wood seasoning / vacuum kiln: `../Biomaterials/WoodProcessing.md`.
 
 ## Pump-down (correct ideal)
 
@@ -77,7 +77,7 @@ Latent heat at low T ≈ **2,501 J/g** (not ManaCast’s 2,257 at 100 °C boil r
 
 Example: cool 1 L water ~18 °C by boiling off 3% (30 g): 30 × 2,501 ≈ **75,030 J** (~7,503 mana at ημ 1; ~79% of freeze-drying that same 30 g at 334 J/g fusion + 2,838 J/g sublimation ≈ 95,160 J). Headspace pump-down is usually small beside latent heat.
 
-**Apps:** heat-sensitive potion distill (rotary-evaporator analog), desalinate small volumes near body T, flash-chill wine / food / heatstroke moisture film.
+**Apps:** heat-sensitive potion distill (rotary-evaporator analog), desalinate small volumes near body T, flash-chill wine / food / heatstroke moisture film. Wood seasoning and vacuum kiln tricks: `../Biomaterials/WoodProcessing.md`.
 
 ## Void-Weld (vacuum cold welding)
 

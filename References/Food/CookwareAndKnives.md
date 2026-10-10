@@ -1,6 +1,6 @@
 # Cookware and Knives
 
-> **Food domain.** Material picks and kitchen physics for pans and blades. Production methods: `KitchenCraft.md`. Gear lists: `KitchenKit.md`. Metal **law** stays in `../World/Materials/Metals.md` (wins on conflict). Potency pans: `MagicalMeatCookware.md`.
+> **Food domain.** Material picks and kitchen physics for pans and blades. Production methods: `KitchenCraft.md`. Gear lists: `KitchenKit.md`. Seasoning / enamel / metal-pan care: `BioFriendlyNonStick.md`. Metal **law** stays in `../World/Materials/Metals.md` (wins on conflict). Potency pans: `MagicalMeatCookware.md`.
 >
 > **Setting constraints:** no aluminum, no petroleum, no synthetic nonstick. Recommendations use the setting's metals, glass enamel (silica does not convert) and Needle Worm materials.
 >

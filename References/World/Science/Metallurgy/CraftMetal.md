@@ -1,6 +1,6 @@
 # Craft Metal
 
-Modern metallurgy aims with Caldris forge + magic. Named metal locks: `../../Materials/Metals.md`. Plastic work: `../Energy/Compression.md`. Products: `BlacksmithProducts.md`. Arrowheads: `Arrowheads.md`. Animal materials: `../Biomaterials/Biomaterials.md`. Earth alloys / carbon: `EarthAlloys.md`. Ores: `MetalOres.md`. Gem seats: `GemInlay.md`. Vacuum: `Vacuum.md`.
+Modern metallurgy aims with Caldris forge + magic. Named metal locks: `../../Materials/Metals.md`. Plastic work: `../Energy/Compression.md`. Products: `BlacksmithProducts.md`. Traditional coal shop: `TraditionalBlacksmithing.md`. Carbon grades / HT recipes: `CommonAlloys.md`. Arrowheads: `Arrowheads.md`. Animal materials: `../Biomaterials/Biomaterials.md`. Earth alloys / carbon physics: `EarthAlloys.md`. Ores: `MetalOres.md`. Gem seats: `GemInlay.md`. Vacuum: `Vacuum.md`. Structural vacuum-seam: `StructuralForge.md`.
 
 ## Narrative
 

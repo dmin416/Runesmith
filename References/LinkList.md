@@ -148,10 +148,10 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 - References/TempChapterAudit.md:84 `Story/Notes/Experience.md`
 - References/TempChapterAudit.md:88 `Story/Notes/Experience.md`
 - References/TempChapterAudit.md:110 `Story/Notes/Experience.md`
-- References/World/Fauna/CreaturesDesign.md:5 `../../../Story/Notes/Experience.md`
-- References/World/Fauna/CreaturesDesign.md:15 `../../../Story/Notes/Experience.md`
-- References/World/Fauna/CreaturesDesign.md:57 `../../../Story/Notes/Experience.md`
-- References/World/Society/EconomyDesign.md:419
+- References/World/Fauna/Design/CreaturesDesign.md:5 `../../../Story/Notes/Experience.md`
+- References/World/Fauna/Design/CreaturesDesign.md:15 `../../../Story/Notes/Experience.md`
+- References/World/Fauna/Design/CreaturesDesign.md:57 `../../../Story/Notes/Experience.md`
+- References/World/Society/Economy/EconomyDesign.md:419
 - Story/Notes/CoinLedger.md:3
 - Story/Notes/CoinLedger.md:28
 - Story/Notes/CrossCheck.md:24
@@ -318,16 +318,16 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 - References/World/Fauna/Creatures.md:25 `../../Progression/Levels.md`
 - References/World/Fauna/Creatures.md:29 `../../Progression/Levels.md`
 - References/World/Fauna/Creatures.md:33 `../../Progression/Levels.md`
-- References/World/Fauna/CreaturesDesign.md:5 `../../Progression/Levels.md`
-- References/World/Fauna/CreaturesDesign.md:15 `../../Progression/Levels.md`
-- References/World/Fauna/CreaturesDesign.md:21 `../../Progression/Levels.md`
-- References/World/Fauna/CreaturesDesign.md:25 `../../Progression/Levels.md`
-- References/World/Fauna/CreaturesDesign.md:41 `../../Progression/Levels.md`
-- References/World/Fauna/CreaturesDesign.md:45 `../../Progression/Levels.md`
-- References/World/Fauna/CreaturesDesign.md:49 `../../Progression/Levels.md`
-- References/World/Fauna/CreaturesDesign.md:53 `../../Progression/Levels.md`
-- References/World/Fauna/CreaturesDesign.md:57 `../../Progression/Levels.md`
-- References/World/Fauna/CreaturesDesign.md:81 `../../Progression/Levels.md`
+- References/World/Fauna/Design/CreaturesDesign.md:5 `../../Progression/Levels.md`
+- References/World/Fauna/Design/CreaturesDesign.md:15 `../../Progression/Levels.md`
+- References/World/Fauna/Design/CreaturesDesign.md:21 `../../Progression/Levels.md`
+- References/World/Fauna/Design/CreaturesDesign.md:25 `../../Progression/Levels.md`
+- References/World/Fauna/Design/CreaturesDesign.md:41 `../../Progression/Levels.md`
+- References/World/Fauna/Design/CreaturesDesign.md:45 `../../Progression/Levels.md`
+- References/World/Fauna/Design/CreaturesDesign.md:49 `../../Progression/Levels.md`
+- References/World/Fauna/Design/CreaturesDesign.md:53 `../../Progression/Levels.md`
+- References/World/Fauna/Design/CreaturesDesign.md:57 `../../Progression/Levels.md`
+- References/World/Fauna/Design/CreaturesDesign.md:81 `../../Progression/Levels.md`
 - References/World/Fauna/MonsterThreat.md:3 `../../Progression/Levels.md`
 - References/World/Fauna/MonsterThreat.md:17
 - References/World/Geography/DungeonDesign.md:32 `../../Progression/Levels.md`
@@ -389,8 +389,8 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 - References/SourceLoot/Materials.md:15 `../World/Materials/Metals.md`
 - References/SourceLoot/Materials.md:53 `World/Materials/Metals.md`
 - References/SourceLoot/Materials.md:54 `World/Materials/Metals.md`
-- References/World/Fauna/Slimes.md:3 `../Materials/Metals.md`
-- References/World/Fauna/Slimes.md:235 `../Materials/Metals.md`
+- References/World/Fauna/Species/Slimes.md:3 `../Materials/Metals.md`
+- References/World/Fauna/Species/Slimes.md:235 `../Materials/Metals.md`
 - References/World/Geography/Dungeons.md:27 `../Materials/Metals.md`
 - References/World/Materials/Materials.md:4
 - References/World/Materials/Materials.md:5
@@ -419,8 +419,8 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 - References/World/Science/Metallurgy/MagicPowderMetallurgy.md:45 `../../Materials/Metals.md`
 - References/World/Science/Metallurgy/MetalOres.md:4 `../../Materials/Metals.md`
 - References/World/Science/Metallurgy/MetalOres.md:221 `../../Materials/Metals.md`
-- References/World/Society/EconomyDesign.md:828 `Materials/Metals.md`
-- References/World/Space/InvisibleMoonTower.md:3 `../Materials/Metals.md`
+- References/World/Society/Economy/EconomyDesign.md:828 `Materials/Metals.md`
+- References/World/Space/Orbit/InvisibleMoonTower.md:3 `../../Materials/Metals.md`
 - References/World/Space/Moons.md:3 `../Materials/Metals.md`
 - References/World/World.md:40 `Materials/Metals.md`
 - References/World/World.md:122 `Materials/Metals.md`
@@ -454,10 +454,10 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 - References/Runes/Runes.md:67 `../Progression/Progression.md`
 - References/SourceLoot/RolandStatus.md:9 `../Progression/Progression.md`
 - References/World/Fauna/Creatures.md:3 `../../Progression/Progression.md`
-- References/World/Fauna/MountsDesign.md:41
-- References/World/Fauna/NeedleWorm.md:9 `../Progression/Progression.md`
-- References/World/Fauna/NeedleWorm.md:32 `../Progression/Progression.md`
-- References/World/Fauna/NeedleWorm.md:421 `../Progression/Progression.md`
+- References/World/Fauna/Design/MountsDesign.md:41
+- References/World/Fauna/Species/NeedleWorm.md:9 `../Progression/Progression.md`
+- References/World/Fauna/Species/NeedleWorm.md:32 `../Progression/Progression.md`
+- References/World/Fauna/Species/NeedleWorm.md:421 `../Progression/Progression.md`
 - References/World/Geography/PlacesDesign.md:19 `../../../Progression/Progression.md`
 - References/World/Science/Energy/Projectiles.md:195 `../../../Progression/Progression.md`
 - References/World/Science/Energy/Projectiles.md:213 `../../../Progression/Progression.md`
@@ -547,46 +547,46 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 
 ### Economy.md (44)
 
-- References/Food/Food.md:64 `../World/Society/Economy.md`
-- References/Food/FoodDesign.md:118 `../World/Society/Economy.md`
-- References/Food/FoodDesign.md:174 `../World/Society/Economy.md`
-- References/Food/FoodPrices.md:3 `../World/Society/Economy.md`
-- References/Items/Items.md:3 `../World/Society/Economy.md`
-- References/Items/Items.md:18 `../World/Society/Economy.md`
+- References/Food/Food.md:64 `../World/Society/Economy/Economy.md`
+- References/Food/FoodDesign.md:118 `../World/Society/Economy/Economy.md`
+- References/Food/FoodDesign.md:174 `../World/Society/Economy/Economy.md`
+- References/Food/FoodPrices.md:3 `../World/Society/Economy/Economy.md`
+- References/Items/Items.md:3 `../World/Society/Economy/Economy.md`
+- References/Items/Items.md:18 `../World/Society/Economy/Economy.md`
 - References/Runes/ScrollCraftScrapes.md:45
 - References/Runes/ScrollCraftScrapes.md:71
 - References/Runes/ScrollCraftScrapes.md:137
 - References/Runes/ScrollEconomy.md:243
-- References/Runes/ScrollEconomy.md:253 `../World/Society/Economy.md`
-- References/Runes/ScrollEconomy.md:368 `../World/Society/Economy.md`
+- References/Runes/ScrollEconomy.md:253 `../World/Society/Economy/Economy.md`
+- References/Runes/ScrollEconomy.md:368 `../World/Society/Economy/Economy.md`
 - References/Runes/ScrollEconomy.md:406
-- References/World/Fauna/CreaturesDesign.md:17 `../Society/Economy.md`
-- References/World/Fauna/MonsterPopulation.md:3 `../Society/Economy.md`
-- References/World/Geography/PlacesDesign.md:70 `../Society/Economy.md`
-- References/World/Science/Energy/ManaStones.md:5 `../../Society/Economy.md`
-- References/World/Science/Invent/Paper.md:7 `../../Society/Economy.md`
-- References/World/Science/Invent/Paper.md:93 `../../Society/Economy.md`
-- References/World/Society/ChurchPaidServices.md:3
-- References/World/Society/EconomyDesign.md:3
-- References/World/Society/EconomyDesign.md:137
-- References/World/Society/PriceCatalog.md:5
-- References/World/Society/ValueReference.md:5
-- References/World/Tech/TechnologyDesign.md:3 `../Society/Economy.md`
-- References/World/Tech/TechnologyDesign.md:38 `../Society/Economy.md`
-- References/World/Tech/TechnologyDesign.md:39 `../Society/Economy.md`
-- References/World/Tech/TechnologyDesign.md:44 `../Society/Economy.md`
-- References/World/Tech/TechnologyDesign.md:63 `../Society/Economy.md`
-- References/World/Tech/TechnologyDesign.md:84 `../Society/Economy.md`
-- References/World/World.md:33 `Society/Economy.md`
-- References/World/World.md:144 `Society/Economy.md`
-- References/World/World.md:180 `Society/Economy.md`
+- References/World/Fauna/Design/CreaturesDesign.md:17 `../Society/Economy/Economy.md`
+- References/World/Fauna/MonsterPopulation.md:3 `../Society/Economy/Economy.md`
+- References/World/Geography/PlacesDesign.md:70 `../Society/Economy/Economy.md`
+- References/World/Science/Energy/ManaStones.md:5 `../../Society/Economy/Economy.md`
+- References/World/Science/Invent/Paper.md:7 `../../Society/Economy/Economy.md`
+- References/World/Science/Invent/Paper.md:93 `../../Society/Economy/Economy.md`
+- References/World/Society/Economy/ChurchPaidServices.md:3
+- References/World/Society/Economy/EconomyDesign.md:3
+- References/World/Society/Economy/EconomyDesign.md:137
+- References/World/Society/Economy/PriceCatalog.md:5
+- References/World/Society/Economy/ValueReference.md:5
+- References/World/Tech/TechnologyDesign.md:3 `../Society/Economy/Economy.md`
+- References/World/Tech/TechnologyDesign.md:38 `../Society/Economy/Economy.md`
+- References/World/Tech/TechnologyDesign.md:39 `../Society/Economy/Economy.md`
+- References/World/Tech/TechnologyDesign.md:44 `../Society/Economy/Economy.md`
+- References/World/Tech/TechnologyDesign.md:63 `../Society/Economy/Economy.md`
+- References/World/Tech/TechnologyDesign.md:84 `../Society/Economy/Economy.md`
+- References/World/World.md:33 `Society/Economy/Economy.md`
+- References/World/World.md:144 `Society/Economy/Economy.md`
+- References/World/World.md:180 `Society/Economy/Economy.md`
 - Story/Notes/CrossCheck.md:46 `References/World/Economy.md`
 - Story/Notes/CrossCheck.md:82
 - Story/Notes/CrossCheck.md:119
 - Story/Notes/CrossCheck.md:121
 - Story/Notes/CrossCheck.md:126
-- Story/Notes/CrossCheck.md:133 `References/World/Society/Economy.md`
-- Story/Notes/Experience.md:6 `../../References/World/Society/Economy.md`
+- Story/Notes/CrossCheck.md:133 `References/World/Society/Economy/Economy.md`
+- Story/Notes/Experience.md:6 `../../References/World/Society/Economy/Economy.md`
 - Story/Notes/Experience.md:154
 - Story/Notes/Notes.md:247
 - Story/Notes/Status.md:357
@@ -600,8 +600,8 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 - References/World/Fauna/Creatures.md:3 `../Materials/MonsterCores.md`
 - References/World/Fauna/Creatures.md:13 `../Materials/MonsterCores.md`
 - References/World/Fauna/Creatures.md:21
-- References/World/Fauna/CreaturesDesign.md:17 `../Materials/MonsterCores.md`
-- References/World/Fauna/CreaturesDesign.md:45 `../Materials/MonsterCores.md`
+- References/World/Fauna/Design/CreaturesDesign.md:17 `../Materials/MonsterCores.md`
+- References/World/Fauna/Design/CreaturesDesign.md:45 `../Materials/MonsterCores.md`
 - References/World/Geography/DungeonDesign.md:34 `../Materials/MonsterCores.md`
 - References/World/Materials/Materials.md:4
 - References/World/Materials/Metals.md:318
@@ -615,12 +615,12 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 - References/World/Science/Metallurgy/GemInlay.md:9 `../../Materials/MonsterCores.md`
 - References/World/Science/Science.md:115 `../Materials/MonsterCores.md`
 - References/World/Science/Vehicle/MobileHome.md:50 `../../Materials/MonsterCores.md`
-- References/World/Society/Economy.md:3 `../Materials/MonsterCores.md`
-- References/World/Society/EconomyDesign.md:3 `../Materials/MonsterCores.md`
-- References/World/Society/EconomyDesign.md:543 `../Materials/MonsterCores.md`
-- References/World/Society/EconomyDesign.md:639 `../Materials/MonsterCores.md`
-- References/World/Society/PriceCatalog.md:5 `../Materials/MonsterCores.md`
-- References/World/Society/PriceCatalog.md:190 `../Materials/MonsterCores.md`
+- References/World/Society/Economy/Economy.md:3 `../Materials/MonsterCores.md`
+- References/World/Society/Economy/EconomyDesign.md:3 `../Materials/MonsterCores.md`
+- References/World/Society/Economy/EconomyDesign.md:543 `../Materials/MonsterCores.md`
+- References/World/Society/Economy/EconomyDesign.md:639 `../Materials/MonsterCores.md`
+- References/World/Society/Economy/PriceCatalog.md:5 `../Materials/MonsterCores.md`
+- References/World/Society/Economy/PriceCatalog.md:190 `../Materials/MonsterCores.md`
 - References/World/Space/Moons.md:3 `../Materials/MonsterCores.md`
 - References/World/Tech/TechnologyDesign.md:39 `../Materials/MonsterCores.md`
 - References/World/World.md:41 `Materials/MonsterCores.md`
@@ -883,11 +883,11 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 - References/Progression/Attributes.md:61 `../People/Ned.md`
 - References/Progression/AttributesDesign.md:36 `../People/Ned.md`
 - References/Progression/CompanionSkillLeveling.md:3 `../People/Ned.md`
-- References/World/Fauna/CreaturesDesign.md:49 `../../../People/Ned.md`
+- References/World/Fauna/Design/CreaturesDesign.md:49 `../../../People/Ned.md`
 - References/World/Fauna/Mounts.md:3 `../../People/Ned.md`
-- References/World/Fauna/MountsDesign.md:41 `../../../People/Ned.md`
-- References/World/Fauna/NeedleWorm.md:3 `../../People/Ned.md`
-- References/World/Fauna/NeedleWorm.md:473
+- References/World/Fauna/Design/MountsDesign.md:41 `../../../People/Ned.md`
+- References/World/Fauna/Species/NeedleWorm.md:3 `../../People/Ned.md`
+- References/World/Fauna/Species/NeedleWorm.md:473
 - References/World/Science/Biomaterials/BiologicalSilks.md:3 `../../../People/Ned.md`
 - References/World/Science/Biomaterials/Biomaterials.md:3 `../../../People/Ned.md`
 - References/World/Science/Biomaterials/RubberAndInsect.md:3 `../../../People/Ned.md`
@@ -911,8 +911,8 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 - References/Combat/Weapons.md:5 `../../Story/Notes/Items.md`
 - References/Combat/Weapons.md:5 `../Items/Items.md`
 - References/Items/Items.md:3 `../../Story/Notes/Items.md`
-- References/World/Society/Economy.md:120 `../../Items/Items.md`
-- References/World/Society/EconomyDesign.md:547 `../../Items/Items.md`
+- References/World/Society/Economy/Economy.md:120 `../../Items/Items.md`
+- References/World/Society/Economy/EconomyDesign.md:547 `../../Items/Items.md`
 - References/World/Tech/TechnologyDesign.md:84 `../../Items/Items.md`
 - Story/Notes/CoinLedger.md:28
 - Story/Notes/CrossCheck.md:22
@@ -943,7 +943,7 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 - References/Runes/Energy.md:96 `../World/Science/Energy/ManaConcentration.md`
 - References/Runes/EnergyDesign.md:7 `../World/Science/Energy/ManaConcentration.md`
 - References/World/Fauna/MonsterPopulation.md:3 `../Science/Energy/ManaConcentration.md`
-- References/World/Fauna/Slimes.md:3 `../Science/Energy/ManaConcentration.md`
+- References/World/Fauna/Species/Slimes.md:3 `../Science/Energy/ManaConcentration.md`
 - References/World/Geography/Dungeons.md:29 `../Science/Energy/ManaConcentration.md`
 - References/World/Geography/Dungeons.md:29
 - References/World/Geography/Dungeons.md:50
@@ -960,8 +960,8 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 - References/World/Space/Atmosphere.md:94 `../Science/Energy/ManaConcentration.md`
 - References/World/Space/Atmosphere.md:124 `../Science/Energy/ManaConcentration.md`
 - References/World/Space/Atmosphere.md:128 `../Science/Energy/ManaConcentration.md`
-- References/World/Space/GeosynchronousHabitat.md:3 `../Science/Energy/ManaConcentration.md`
-- References/World/Space/LowEarthOrbitHabitat.md:3 `../Science/Energy/ManaConcentration.md`
+- References/World/Space/Orbit/GeosynchronousHabitat.md:3 `../../Science/Energy/ManaConcentration.md`
+- References/World/Space/Orbit/LowEarthOrbitHabitat.md:3 `../../Science/Energy/ManaConcentration.md`
 - References/World/Space/Moons.md:3 `../Science/Energy/ManaConcentration.md`
 - References/World/Space/Moons.md:22 `../Science/Energy/ManaConcentration.md`
 - References/World/Space/Space.md:3 `../Science/Energy/ManaConcentration.md`
@@ -1030,11 +1030,11 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 - References/Progression/CompanionSkillLeveling.md:3 `../../Story/Notes/NedStatus.md`
 - References/Progression/CompanionSkillLeveling.md:49 `../../Story/Notes/NedStatus.md`
 - References/Progression/CompanionSkillLeveling.md:61
-- References/World/Fauna/NeedleWorm.md:28
-- References/World/Fauna/NeedleWorm.md:29
-- References/World/Fauna/NeedleWorm.md:30
-- References/World/Fauna/NeedleWorm.md:471 `../../../Story/Notes/NedStatus.md`
-- References/World/Fauna/NeedleWorm.md:471 `../../../Story/Notes/NedStatus.md`
+- References/World/Fauna/Species/NeedleWorm.md:28
+- References/World/Fauna/Species/NeedleWorm.md:29
+- References/World/Fauna/Species/NeedleWorm.md:30
+- References/World/Fauna/Species/NeedleWorm.md:471 `../../../Story/Notes/NedStatus.md`
+- References/World/Fauna/Species/NeedleWorm.md:471 `../../../Story/Notes/NedStatus.md`
 - References/World/Science/Invent/WritingTools.md:104 `../../../../Story/Notes/NedStatus.md`
 - Story/Notes/CrossCheck.md:27
 - Story/Notes/CrossCheck.md:122
@@ -1099,9 +1099,9 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 - References/World/Science/Metallurgy/GemInlay.md:63 `../Energy/ManaStones.md`
 - References/World/Science/Science.md:55 `Energy/ManaStones.md`
 - References/World/Science/Science.md:115 `Energy/ManaStones.md`
-- References/World/Society/Economy.md:3 `../Science/Energy/ManaStones.md`
-- References/World/Society/EconomyDesign.md:639 `../Science/Energy/ManaStones.md`
-- References/World/Society/PriceCatalog.md:190 `../Science/Energy/ManaStones.md`
+- References/World/Society/Economy/Economy.md:3 `../Science/Energy/ManaStones.md`
+- References/World/Society/Economy/EconomyDesign.md:639 `../Science/Energy/ManaStones.md`
+- References/World/Society/Economy/PriceCatalog.md:190 `../Science/Energy/ManaStones.md`
 
 ### CraftMetal.md (21)
 
@@ -1129,26 +1129,26 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 
 ### EconomyDesign.md (21)
 
-- References/Combat/GearPrices.md:3 `../World/Society/EconomyDesign.md`
-- References/Combat/GearPrices.md:7 `../World/Society/EconomyDesign.md`
+- References/Combat/GearPrices.md:3 `../World/Society/Economy/EconomyDesign.md`
+- References/Combat/GearPrices.md:7 `../World/Society/Economy/EconomyDesign.md`
 - References/Food/FoodPrices.md:3
-- References/Food/FoodPrices.md:7 `../World/Society/EconomyDesign.md`
-- References/Runes/ScrollEconomy.md:3 `../World/Society/EconomyDesign.md`
-- References/Runes/ScrollEconomy.md:7 `../World/Society/EconomyDesign.md`
+- References/Food/FoodPrices.md:7 `../World/Society/Economy/EconomyDesign.md`
+- References/Runes/ScrollEconomy.md:3 `../World/Society/Economy/EconomyDesign.md`
+- References/Runes/ScrollEconomy.md:7 `../World/Society/Economy/EconomyDesign.md`
 - References/World/Geography/PlacesDesign.md:70
-- References/World/Geography/PlacesDesign.md:142 `../Society/EconomyDesign.md`
-- References/World/Geography/PlacesDesign.md:154 `../Society/EconomyDesign.md`
-- References/World/Society/ChurchPaidServices.md:3
-- References/World/Society/Economy.md:3
-- References/World/Society/Economy.md:7
-- References/World/Society/Economy.md:15
-- References/World/Society/Economy.md:116
-- References/World/Society/PriceCatalog.md:5
-- References/World/Society/SpatialBagPrices.md:3
-- References/World/Society/ValueReference.md:3
-- References/World/Tech/TechnologyDesign.md:45 `../Society/EconomyDesign.md`
+- References/World/Geography/PlacesDesign.md:142 `../Society/Economy/EconomyDesign.md`
+- References/World/Geography/PlacesDesign.md:154 `../Society/Economy/EconomyDesign.md`
+- References/World/Society/Economy/ChurchPaidServices.md:3
+- References/World/Society/Economy/Economy.md:3
+- References/World/Society/Economy/Economy.md:7
+- References/World/Society/Economy/Economy.md:15
+- References/World/Society/Economy/Economy.md:116
+- References/World/Society/Economy/PriceCatalog.md:5
+- References/World/Society/Economy/SpatialBagPrices.md:3
+- References/World/Society/Economy/ValueReference.md:3
+- References/World/Tech/TechnologyDesign.md:45 `../Society/Economy/EconomyDesign.md`
 - References/World/World.md:33
-- Story/Notes/CoinLedger.md:3 `../../References/World/Society/EconomyDesign.md`
+- Story/Notes/CoinLedger.md:3 `../../References/World/Society/Economy/EconomyDesign.md`
 - Story/Notes/StoryPrices.md:6
 
 ### RuneSystem.md (21)
@@ -1217,7 +1217,7 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 - References/Food/MagicalMeatCookware.md:5
 - References/Handoff.md:35 `Food/Food.md`
 - References/World/Fauna/Mounts.md:3 `../../Food/Food.md`
-- References/World/Society/EconomyDesign.md:448 `../../Food/Food.md`
+- References/World/Society/Economy/EconomyDesign.md:448 `../../Food/Food.md`
 - References/World/World.md:48 `../Food/Food.md`
 - References/World/World.md:185 `../Food/Food.md`
 - Story/Notes/CrossCheck.md:47
@@ -1252,14 +1252,14 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 - References/Runes/ScrollEconomy.md:7 `../World/Science/Invent/Paper.md`
 - References/Runes/ScrollEconomy.md:100 `../World/Science/Invent/Paper.md`
 - References/Runes/ScrollEconomy.md:406
-- References/World/Fauna/NeedleWorm.md:72 `../World/Science/Invent/Paper.md`
+- References/World/Fauna/Species/NeedleWorm.md:72 `../World/Science/Invent/Paper.md`
 - References/World/Science/Invent/PaperFormats.md:3
 - References/World/Science/Invent/PaperFormats.md:7
 - References/World/Science/Invent/PaperFormats.md:220
 - References/World/Science/Invent/PaperFormats.md:236
 - References/World/Science/Invent/WritingTools.md:3
 - References/World/Science/Science.md:94 `Invent/Paper.md`
-- References/World/Society/PriceCatalog.md:224 `../Science/Invent/Paper.md`
+- References/World/Society/Economy/PriceCatalog.md:224 `../Science/Invent/Paper.md`
 - Story/Notes/CrossCheck.md:126
 - Story/Notes/Notes.md:247
 - Story/Notes/Status.md:502
@@ -1278,32 +1278,32 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 - References/Runes/ScrollEconomy.md:3
 - References/Runes/ScrollEconomy.md:76
 - References/Runes/ScrollEconomy.md:381
-- References/World/Society/EconomyDesign.md:537 `../../Runes/Magic.md`
-- References/World/Society/EconomyDesign.md:542 `../../Runes/Magic.md`
-- References/World/Society/SpatialBagPrices.md:3 `../../Runes/Magic.md`
+- References/World/Society/Economy/EconomyDesign.md:537 `../../Runes/Magic.md`
+- References/World/Society/Economy/EconomyDesign.md:542 `../../Runes/Magic.md`
+- References/World/Society/Economy/SpatialBagPrices.md:3 `../../Runes/Magic.md`
 - References/World/World.md:50 `../Runes/Magic.md`
 - References/World/World.md:119 `../Runes/Magic.md`
 - References/World/World.md:126 `../Runes/Magic.md`
 
 ### NeedleWorm.md (17)
 
-- References/People/Ned.md:5 `../World/Fauna/NeedleWorm.md`
-- References/People/Ned.md:25 `../World/Fauna/NeedleWorm.md`
-- References/People/NedDesign.md:4 `../World/Fauna/NeedleWorm.md`
-- References/People/NedDesign.md:8 `../World/Fauna/NeedleWorm.md`
-- References/People/NedDesign.md:19 `../World/Fauna/NeedleWorm.md`
-- References/People/NedDesign.md:49 `../World/Fauna/NeedleWorm.md`
-- References/People/People.md:25 `../World/Fauna/NeedleWorm.md`
+- References/People/Ned.md:5 `../World/Fauna/Species/NeedleWorm.md`
+- References/People/Ned.md:25 `../World/Fauna/Species/NeedleWorm.md`
+- References/People/NedDesign.md:4 `../World/Fauna/Species/NeedleWorm.md`
+- References/People/NedDesign.md:8 `../World/Fauna/Species/NeedleWorm.md`
+- References/People/NedDesign.md:19 `../World/Fauna/Species/NeedleWorm.md`
+- References/People/NedDesign.md:49 `../World/Fauna/Species/NeedleWorm.md`
+- References/People/People.md:25 `../World/Fauna/Species/NeedleWorm.md`
 - References/World/Fauna/Creatures.md:25
-- References/World/Fauna/CreaturesDesign.md:49
-- References/World/Fauna/MountsDesign.md:41
-- References/World/Science/Biomaterials/BiologicalSilks.md:5 `../../Fauna/NeedleWorm.md`
-- References/World/Science/Biomaterials/Biomaterials.md:107 `../../Fauna/NeedleWorm.md`
-- References/World/Science/Energy/GunpowderFirearms.md:95 `../../Fauna/NeedleWorm.md`
-- References/World/Science/Energy/GunpowderFirearms.md:97 `../../Fauna/NeedleWorm.md`
-- References/World/Science/Energy/GunpowderFirearms.md:125 `../../Fauna/NeedleWorm.md`
-- References/World/Science/Energy/GunpowderFirearms.md:129 `../../Fauna/NeedleWorm.md`
-- Story/Notes/NedVisualPrompts.md:3 `../../References/World/Fauna/NeedleWorm.md`
+- References/World/Fauna/Design/CreaturesDesign.md:49
+- References/World/Fauna/Design/MountsDesign.md:41
+- References/World/Science/Biomaterials/BiologicalSilks.md:5 `../../Fauna/Species/NeedleWorm.md`
+- References/World/Science/Biomaterials/Biomaterials.md:107 `../../Fauna/Species/NeedleWorm.md`
+- References/World/Science/Energy/GunpowderFirearms.md:95 `../../Fauna/Species/NeedleWorm.md`
+- References/World/Science/Energy/GunpowderFirearms.md:97 `../../Fauna/Species/NeedleWorm.md`
+- References/World/Science/Energy/GunpowderFirearms.md:125 `../../Fauna/Species/NeedleWorm.md`
+- References/World/Science/Energy/GunpowderFirearms.md:129 `../../Fauna/Species/NeedleWorm.md`
+- Story/Notes/NedVisualPrompts.md:3 `../../References/World/Fauna/Species/NeedleWorm.md`
 
 ### EarthAlloys.md (16)
 
@@ -1328,7 +1328,7 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 
 - References/Ideas.md:47 `World/Science/Invent/WritingTools.md`
 - References/People/NedDesign.md:37 `../World/Science/Invent/WritingTools.md`
-- References/World/Fauna/NeedleWorm.md:79
+- References/World/Fauna/Species/NeedleWorm.md:79
 - References/World/Science/Energy/Batteries.md:3 `../Invent/WritingTools.md`
 - References/World/Science/Invent/Paper.md:3
 - References/World/Science/Invent/Paper.md:91
@@ -1406,14 +1406,14 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 - References/Runes/Runes.md:20
 - References/Runes/ScrollCraftScrapes.md:3
 - References/World/Science/Invent/Paper.md:22 `../../../Runes/ScrollEconomy.md`
-- References/World/Society/Economy.md:149 `../../Runes/ScrollEconomy.md`
-- References/World/Society/EconomyDesign.md:4 `../../Runes/ScrollEconomy.md`
-- References/World/Society/EconomyDesign.md:237 `../../Runes/ScrollEconomy.md`
-- References/World/Society/EconomyDesign.md:537 `../../Runes/ScrollEconomy.md`
-- References/World/Society/PriceCatalog.md:5 `../../Runes/ScrollEconomy.md`
-- References/World/Society/PriceCatalog.md:218 `../../Runes/ScrollEconomy.md`
-- References/World/Society/PriceCatalog.md:224 `../../Runes/ScrollEconomy.md`
-- References/World/Society/PriceCatalog.md:269 `../../../Runes/ScrollEconomy.md`
+- References/World/Society/Economy/Economy.md:149 `../../Runes/ScrollEconomy.md`
+- References/World/Society/Economy/EconomyDesign.md:4 `../../Runes/ScrollEconomy.md`
+- References/World/Society/Economy/EconomyDesign.md:237 `../../Runes/ScrollEconomy.md`
+- References/World/Society/Economy/EconomyDesign.md:537 `../../Runes/ScrollEconomy.md`
+- References/World/Society/Economy/PriceCatalog.md:5 `../../Runes/ScrollEconomy.md`
+- References/World/Society/Economy/PriceCatalog.md:218 `../../Runes/ScrollEconomy.md`
+- References/World/Society/Economy/PriceCatalog.md:224 `../../Runes/ScrollEconomy.md`
+- References/World/Society/Economy/PriceCatalog.md:269 `../../../Runes/ScrollEconomy.md`
 
 ### Generators.md (14)
 
@@ -1459,9 +1459,9 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 - References/World/Science/Energy/ManaConcentration.md:66 `../../Space/Atmosphere.md`
 - References/World/Space/Atmosphere.md:167 `../../Space/Atmosphere.md`
 - References/World/Space/Atmosphere.md:189 `../../Space/Atmosphere.md`
-- References/World/Space/GeosynchronousHabitat.md:3
-- References/World/Space/LowEarthOrbitHabitat.md:3
-- References/World/Space/OrbitEnergy.md:3
+- References/World/Space/Orbit/GeosynchronousHabitat.md:3
+- References/World/Space/Orbit/LowEarthOrbitHabitat.md:3
+- References/World/Space/Orbit/OrbitEnergy.md:3
 - References/World/Space/Space.md:9
 - References/World/World.md:24 `Space/Atmosphere.md`
 
@@ -1469,14 +1469,14 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 
 - References/World/Fauna/Creatures.md:3 `../../SourceLoot/Creatures.md`
 - References/World/Fauna/Creatures.md:52 `../../SourceLoot/Creatures.md`
-- References/World/Fauna/CreaturesDesign.md:3
-- References/World/Fauna/CreaturesDesign.md:3 `../../SourceLoot/Creatures.md`
+- References/World/Fauna/Design/CreaturesDesign.md:3
+- References/World/Fauna/Design/CreaturesDesign.md:3 `../../SourceLoot/Creatures.md`
 - References/World/Fauna/MonsterPopulation.md:3
 - References/World/Fauna/MonsterThreat.md:3
 - References/World/Fauna/MonsterThreat.md:36
 - References/World/Fauna/Mounts.md:43 `../../SourceLoot/Creatures.md`
-- References/World/Fauna/NeedleWorm.md:3
-- References/World/Fauna/Slimes.md:3
+- References/World/Fauna/Species/NeedleWorm.md:3
+- References/World/Fauna/Species/Slimes.md:3
 - References/World/Geography/DungeonDesign.md:5 `../Fauna/Creatures.md`
 - References/World/World.md:35 `Fauna/Creatures.md`
 - Story/Notes/CrossCheck.md:56
@@ -1492,7 +1492,7 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 - References/World/Science/Energy/ManaConcentration.md:3 `../../Space/Moons.md`
 - References/World/Science/Energy/ManaConcentration.md:68 `../../Space/Moons.md`
 - References/World/Space/Atmosphere.md:191
-- References/World/Space/InvisibleMoonTower.md:3
+- References/World/Space/Orbit/InvisibleMoonTower.md:3
 - References/World/Space/Space.md:14
 - References/World/World.md:29 `Space/Moons.md`
 - References/World/World.md:66 `Space/Moons.md`
@@ -1628,9 +1628,9 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 - References/World/Fauna/Creatures.md:21
 - References/World/Fauna/Creatures.md:33
 - References/World/Fauna/Creatures.md:51
-- References/World/Fauna/CreaturesDesign.md:5
-- References/World/Fauna/CreaturesDesign.md:45
-- References/World/Fauna/CreaturesDesign.md:57
+- References/World/Fauna/Design/CreaturesDesign.md:5
+- References/World/Fauna/Design/CreaturesDesign.md:45
+- References/World/Fauna/Design/CreaturesDesign.md:57
 - References/World/World.md:36 `Fauna/MonsterThreat.md`
 - Story/Notes/CrossCheck.md:109
 - Story/Notes/Experience.md:6 `../../References/World/Fauna/MonsterThreat.md`
@@ -1667,18 +1667,18 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 
 ### PriceCatalog.md (12)
 
-- References/Combat/Spells.md:81 `../World/Society/PriceCatalog.md`
-- References/Runes/ScrollEconomy.md:48 `../World/Society/PriceCatalog.md`
-- References/Runes/ScrollEconomy.md:243 `../World/Society/PriceCatalog.md`
-- References/SourceLoot/PriceInventory.md:5 `../World/Society/PriceCatalog.md`
-- References/World/Science/Energy/ManaStones.md:90 `../../Society/PriceCatalog.md`
-- References/World/Science/Invent/Paper.md:22 `../../Society/PriceCatalog.md`
-- References/World/Society/Economy.md:3
-- References/World/Society/Economy.md:116
-- References/World/Society/EconomyDesign.md:3
-- References/World/Society/ValueReference.md:3
-- References/World/Society/ValueReference.md:5
-- Story/Notes/StoryPrices.md:5 `../../References/World/Society/PriceCatalog.md`
+- References/Combat/Spells.md:81 `../World/Society/Economy/PriceCatalog.md`
+- References/Runes/ScrollEconomy.md:48 `../World/Society/Economy/PriceCatalog.md`
+- References/Runes/ScrollEconomy.md:243 `../World/Society/Economy/PriceCatalog.md`
+- References/SourceLoot/PriceInventory.md:5 `../World/Society/Economy/PriceCatalog.md`
+- References/World/Science/Energy/ManaStones.md:90 `../../Society/Economy/PriceCatalog.md`
+- References/World/Science/Invent/Paper.md:22 `../../Society/Economy/PriceCatalog.md`
+- References/World/Society/Economy/Economy.md:3
+- References/World/Society/Economy/Economy.md:116
+- References/World/Society/Economy/EconomyDesign.md:3
+- References/World/Society/Economy/ValueReference.md:3
+- References/World/Society/Economy/ValueReference.md:5
+- Story/Notes/StoryPrices.md:5 `../../References/World/Society/Economy/PriceCatalog.md`
 
 ### Runes.md (12)
 
@@ -1771,8 +1771,8 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 - References/Food/FoodDesign.md:174 `../World/Fauna/Mounts.md`
 - References/People/NedDesign.md:11 `../World/Fauna/Mounts.md`
 - References/World/Fauna/Creatures.md:3
-- References/World/Fauna/CreaturesDesign.md:7
-- References/World/Fauna/CreaturesDesign.md:149
+- References/World/Fauna/Design/CreaturesDesign.md:7
+- References/World/Fauna/Design/CreaturesDesign.md:149
 - References/World/Tech/TechnologyDesign.md:3 `../Fauna/Mounts.md`
 - References/World/Tech/TechnologyDesign.md:43 `../Fauna/Mounts.md`
 - References/World/Tech/TechnologyDesign.md:66 `../Fauna/Mounts.md`
@@ -1800,10 +1800,10 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 - References/Food/FoodDesign.md:7 `../World/World.md`
 - References/Handoff.md:33 `World/World.md`
 - References/World/Fauna/MonsterPopulation.md:3 `../World.md`
-- References/World/Society/Economy.md:11 `../World.md`
+- References/World/Society/Economy/Economy.md:11 `../World.md`
 - References/World/Space/Atmosphere.md:3 `../World.md`
-- References/World/Space/GeosynchronousHabitat.md:3 `../World.md`
-- References/World/Space/LowEarthOrbitHabitat.md:3 `../World.md`
+- References/World/Space/Orbit/GeosynchronousHabitat.md:3 `../../World.md`
+- References/World/Space/Orbit/LowEarthOrbitHabitat.md:3 `../../World.md`
 - References/World/Space/Moons.md:3 `../World.md`
 - References/World/Space/Space.md:3 `../World.md`
 - References/World/Tech/Technology.md:3 `../World.md`
@@ -2732,12 +2732,12 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 ### Space.md (9)
 
 - References/World/Space/Atmosphere.md:3
-- References/World/Space/GeosynchronousHabitat.md:3
-- References/World/Space/Hydrolox.md:3
-- References/World/Space/InvisibleMoonTower.md:3
-- References/World/Space/LowEarthOrbitHabitat.md:3
+- References/World/Space/Orbit/GeosynchronousHabitat.md:3
+- References/World/Space/Orbit/Hydrolox.md:3
+- References/World/Space/Orbit/InvisibleMoonTower.md:3
+- References/World/Space/Orbit/LowEarthOrbitHabitat.md:3
 - References/World/Space/Moons.md:3
-- References/World/Space/OrbitEnergy.md:3
+- References/World/Space/Orbit/OrbitEnergy.md:3
 - References/World/World.md:10 `Space/Space.md`
 - References/World/World.md:23 `Space/Space.md`
 
@@ -2791,7 +2791,7 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 - References/People/Ned.md:35 `../World/Science/Energy/GunpowderFirearms.md`
 - References/People/NedDesign.md:7 `../World/Science/Energy/GunpowderFirearms.md`
 - References/People/NedDesign.md:52 `../World/Science/Energy/GunpowderFirearms.md`
-- References/World/Fauna/NeedleWorm.md:396 `../Science/Energy/GunpowderFirearms.md`
+- References/World/Fauna/Species/NeedleWorm.md:396 `../Science/Energy/GunpowderFirearms.md`
 - References/World/Materials/Metals.md:177 `../Science/Energy/GunpowderFirearms.md`
 - References/World/Science/Biomaterials/BiologicalSilks.md:5 `../Energy/GunpowderFirearms.md`
 - References/World/Science/Science.md:74 `Energy/GunpowderFirearms.md`
@@ -2859,7 +2859,7 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 - References/Combat/GearPrices.md:3
 - References/Combat/LightArmorLoadout.md:5
 - References/Runes/ManaMaterials.md:78 `../Combat/Weapons.md`
-- References/World/Society/EconomyDesign.md:533 `../../Combat/Weapons.md`
+- References/World/Society/Economy/EconomyDesign.md:533 `../../Combat/Weapons.md`
 - Story/Notes/CrossCheck.md:55 `References/Combat/Weapons.md`
 - Story/Notes/CrossCheck.md:128
 
@@ -2868,8 +2868,8 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 - References/Combat/Bows.md:3 `../World/Science/Biomaterials/BiologicalSilks.md`
 - References/People/Ned.md:5 `../World/Science/Biomaterials/BiologicalSilks.md`
 - References/People/NedDesign.md:10 `../World/Science/Biomaterials/BiologicalSilks.md`
-- References/World/Fauna/NeedleWorm.md:3 `../Science/Biomaterials/BiologicalSilks.md`
-- References/World/Fauna/NeedleWorm.md:461 `../World/Science/Biomaterials/BiologicalSilks.md`
+- References/World/Fauna/Species/NeedleWorm.md:3 `../Science/Biomaterials/BiologicalSilks.md`
+- References/World/Fauna/Species/NeedleWorm.md:461 `../World/Science/Biomaterials/BiologicalSilks.md`
 - References/World/Science/Biomaterials/Biomaterials.md:95
 - References/World/Science/Science.md:46 `Biomaterials/BiologicalSilks.md`
 
@@ -2906,12 +2906,12 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 ### GeosynchronousHabitat.md (7)
 
 - References/World/Space/Atmosphere.md:111
-- References/World/Space/Hydrolox.md:3
-- References/World/Space/LowEarthOrbitHabitat.md:3
-- References/World/Space/LowEarthOrbitHabitat.md:326
-- References/World/Space/OrbitEnergy.md:3
+- References/World/Space/Orbit/Hydrolox.md:3
+- References/World/Space/Orbit/LowEarthOrbitHabitat.md:3
+- References/World/Space/Orbit/LowEarthOrbitHabitat.md:326
+- References/World/Space/Orbit/OrbitEnergy.md:3
 - References/World/Space/Space.md:11
-- References/World/World.md:26 `Space/GeosynchronousHabitat.md`
+- References/World/World.md:26 `Space/Orbit/GeosynchronousHabitat.md`
 
 ### MageDefense.md (7)
 
@@ -2935,21 +2935,21 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 
 ### OrbitEnergy.md (7)
 
-- References/World/Space/GeosynchronousHabitat.md:3
-- References/World/Space/Hydrolox.md:3
-- References/World/Space/Hydrolox.md:73
-- References/World/Space/InvisibleMoonTower.md:3
-- References/World/Space/LowEarthOrbitHabitat.md:3
+- References/World/Space/Orbit/GeosynchronousHabitat.md:3
+- References/World/Space/Orbit/Hydrolox.md:3
+- References/World/Space/Orbit/Hydrolox.md:73
+- References/World/Space/Orbit/InvisibleMoonTower.md:3
+- References/World/Space/Orbit/LowEarthOrbitHabitat.md:3
 - References/World/Space/Space.md:12
-- References/World/World.md:27 `Space/OrbitEnergy.md`
+- References/World/World.md:27 `Space/Orbit/OrbitEnergy.md`
 
 ### PriceInventory.md (7)
 
 - References/Handoff.md:41
 - References/SourceLoot/BuildMechanicalInventory.py:38
 - References/SourceLoot/PriceInventoryMechanical.md:3
-- References/World/Society/PriceCatalog.md:3 `../../SourceLoot/PriceInventory.md`
-- References/World/Society/PriceCatalog.md:418 `../../SourceLoot/PriceInventory.md`
+- References/World/Society/Economy/PriceCatalog.md:3 `../../SourceLoot/PriceInventory.md`
+- References/World/Society/Economy/PriceCatalog.md:418 `../../SourceLoot/PriceInventory.md`
 - Story/Notes/StoryPrices.md:6 `../../References/SourceLoot/PriceInventory.md`
 - Story/Notes/StoryPrices.md:137 `../../References/SourceLoot/PriceInventory.md`
 
@@ -2967,11 +2967,11 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 
 - References/Runes/ScrollEconomy.md:48 `../../Story/Notes/StoryPrices.md`
 - References/SourceLoot/PriceInventory.md:6 `../../Story/Notes/StoryPrices.md`
-- References/World/Society/Economy.md:3 `../../../Story/Notes/StoryPrices.md`
-- References/World/Society/EconomyDesign.md:4 `../../../Story/Notes/StoryPrices.md`
-- References/World/Society/EconomyDesign.md:719 `../../../Story/Notes/StoryPrices.md`
-- References/World/Society/PriceCatalog.md:3 `../../../Story/Notes/StoryPrices.md`
-- References/World/Society/ValueReference.md:5 `../../../Story/Notes/StoryPrices.md`
+- References/World/Society/Economy/Economy.md:3 `../../../Story/Notes/StoryPrices.md`
+- References/World/Society/Economy/EconomyDesign.md:4 `../../../Story/Notes/StoryPrices.md`
+- References/World/Society/Economy/EconomyDesign.md:719 `../../../Story/Notes/StoryPrices.md`
+- References/World/Society/Economy/PriceCatalog.md:3 `../../../Story/Notes/StoryPrices.md`
+- References/World/Society/Economy/ValueReference.md:5 `../../../Story/Notes/StoryPrices.md`
 
 ### Wheels.md (7)
 
@@ -3025,8 +3025,8 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 - References/People/NedDesign.md:5 `../Progression/CompanionSkillLeveling.md`
 - References/People/NedDesign.md:50 `../Progression/CompanionSkillLeveling.md`
 - References/Progression/Skills.md:21
-- References/World/Fauna/MountsDesign.md:41 `../../Progression/CompanionSkillLeveling.md`
-- References/World/Fauna/NeedleWorm.md:3 `../../Progression/CompanionSkillLeveling.md`
+- References/World/Fauna/Design/MountsDesign.md:41 `../../Progression/CompanionSkillLeveling.md`
+- References/World/Fauna/Species/NeedleWorm.md:3 `../../Progression/CompanionSkillLeveling.md`
 
 ### CopperPipe.md (6)
 
@@ -3103,11 +3103,11 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 ### LowEarthOrbitHabitat.md (6)
 
 - References/World/Space/Atmosphere.md:46
-- References/World/Space/GeosynchronousHabitat.md:3
-- References/World/Space/Hydrolox.md:3
-- References/World/Space/OrbitEnergy.md:3
+- References/World/Space/Orbit/GeosynchronousHabitat.md:3
+- References/World/Space/Orbit/Hydrolox.md:3
+- References/World/Space/Orbit/OrbitEnergy.md:3
 - References/World/Space/Space.md:10
-- References/World/World.md:25 `Space/LowEarthOrbitHabitat.md`
+- References/World/World.md:25 `Space/Orbit/LowEarthOrbitHabitat.md`
 
 ### MetalOres.md (6)
 
@@ -3123,7 +3123,7 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 - References/World/Fauna/Creatures.md:3
 - References/World/Geography/Dungeons.md:54 `../Fauna/MonsterPopulation.md`
 - References/World/Geography/PlacesPopulation.md:3 `../Fauna/MonsterPopulation.md`
-- References/World/Society/Economy.md:56 `../Fauna/MonsterPopulation.md`
+- References/World/Society/Economy/Economy.md:56 `../Fauna/MonsterPopulation.md`
 - References/World/Society/Population.md:231 `../Fauna/MonsterPopulation.md`
 - References/World/World.md:37 `Fauna/MonsterPopulation.md`
 
@@ -3165,12 +3165,12 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 
 ### SpatialBagPrices.md (6)
 
-- References/Runes/Magic.md:37 `../World/Society/SpatialBagPrices.md`
-- References/Runes/ScrollEconomy.md:252 `../World/Society/SpatialBagPrices.md`
-- References/World/Society/EconomyDesign.md:4
-- References/World/Society/EconomyDesign.md:541
-- References/World/Society/PriceCatalog.md:5
-- References/World/Society/PriceCatalog.md:344
+- References/Runes/Magic.md:37 `../World/Society/Economy/SpatialBagPrices.md`
+- References/Runes/ScrollEconomy.md:252 `../World/Society/Economy/SpatialBagPrices.md`
+- References/World/Society/Economy/EconomyDesign.md:4
+- References/World/Society/Economy/EconomyDesign.md:541
+- References/World/Society/Economy/PriceCatalog.md:5
+- References/World/Society/Economy/PriceCatalog.md:344
 
 ### Timeline.md (6)
 
@@ -3204,7 +3204,7 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 - References/World/Fauna/Creatures.md:3
 - References/World/Fauna/Creatures.md:53
 - References/World/Fauna/MonsterThreat.md:3
-- References/World/Fauna/Slimes.md:3
+- References/World/Fauna/Species/Slimes.md:3
 - References/World/World.md:35
 
 ### CrossCheck.md (5)
@@ -3258,18 +3258,18 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 ### FoodPrices.md (5)
 
 - References/Food/Food.md:12
-- References/World/Society/EconomyDesign.md:4 `../../Food/FoodPrices.md`
-- References/World/Society/EconomyDesign.md:448 `../../Food/FoodPrices.md`
-- References/World/Society/PriceCatalog.md:5 `../../Food/FoodPrices.md`
-- References/World/Society/PriceCatalog.md:146 `../../Food/FoodPrices.md`
+- References/World/Society/Economy/EconomyDesign.md:4 `../../Food/FoodPrices.md`
+- References/World/Society/Economy/EconomyDesign.md:448 `../../Food/FoodPrices.md`
+- References/World/Society/Economy/PriceCatalog.md:5 `../../Food/FoodPrices.md`
+- References/World/Society/Economy/PriceCatalog.md:146 `../../Food/FoodPrices.md`
 
 ### GearPrices.md (5)
 
 - References/Combat/Combat.md:11
-- References/World/Society/EconomyDesign.md:4 `../../Combat/GearPrices.md`
-- References/World/Society/EconomyDesign.md:533 `../../Combat/GearPrices.md`
-- References/World/Society/PriceCatalog.md:5 `../../Combat/GearPrices.md`
-- References/World/Society/PriceCatalog.md:329 `../../Combat/GearPrices.md`
+- References/World/Society/Economy/EconomyDesign.md:4 `../../Combat/GearPrices.md`
+- References/World/Society/Economy/EconomyDesign.md:533 `../../Combat/GearPrices.md`
+- References/World/Society/Economy/PriceCatalog.md:5 `../../Combat/GearPrices.md`
+- References/World/Society/Economy/PriceCatalog.md:329 `../../Combat/GearPrices.md`
 
 ### GemInlay.md (5)
 
@@ -3349,10 +3349,10 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 
 ### Hydrolox.md (4)
 
-- References/World/Space/OrbitEnergy.md:3
-- References/World/Space/OrbitEnergy.md:36
+- References/World/Space/Orbit/OrbitEnergy.md:3
+- References/World/Space/Orbit/OrbitEnergy.md:36
 - References/World/Space/Space.md:13
-- References/World/World.md:28 `Space/Hydrolox.md`
+- References/World/World.md:28 `Space/Orbit/Hydrolox.md`
 
 ### Joints.md (4)
 
@@ -3370,7 +3370,7 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 
 ### MountsDesign.md (4)
 
-- References/World/Fauna/CreaturesDesign.md:7
+- References/World/Fauna/Design/CreaturesDesign.md:7
 - References/World/Fauna/Mounts.md:3
 - References/World/Fauna/Mounts.md:44
 - References/World/World.md:38
@@ -3444,9 +3444,9 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 
 ### ChurchPaidServices.md (3)
 
-- References/World/Society/Economy.md:3
-- References/World/Society/Economy.md:144
-- References/World/World.md:34 `Society/ChurchPaidServices.md`
+- References/World/Society/Economy/Economy.md:3
+- References/World/Society/Economy/Economy.md:144
+- References/World/World.md:34 `Society/Economy/ChurchPaidServices.md`
 
 ### CloakAirCooling.md (3)
 
@@ -3462,8 +3462,8 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 
 ### CoinLedger.md (3)
 
-- References/World/Society/EconomyDesign.md:4 `../../../Story/Notes/CoinLedger.md`
-- References/World/Society/EconomyDesign.md:654 `../../../Story/Notes/CoinLedger.md`
+- References/World/Society/Economy/EconomyDesign.md:4 `../../../Story/Notes/CoinLedger.md`
+- References/World/Society/Economy/EconomyDesign.md:654 `../../../Story/Notes/CoinLedger.md`
 - Story/Notes/StoryPrices.md:6
 
 ### Combat.md (3)
@@ -3548,7 +3548,7 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 
 - References/Runes/Runes.md:19
 - References/Runes/ScrollEconomy.md:3
-- References/World/Society/EconomyDesign.md:537 `../../Runes/ScrollCraftScrapes.md`
+- References/World/Society/Economy/EconomyDesign.md:537 `../../Runes/ScrollCraftScrapes.md`
 
 ### TechnologyDesign.md (3)
 
@@ -3564,9 +3564,9 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 
 ### ValueReference.md (3)
 
-- References/World/Society/Economy.md:116
-- References/World/Society/EconomyDesign.md:3
-- References/World/Society/PriceCatalog.md:5
+- References/World/Society/Economy/Economy.md:116
+- References/World/Society/Economy/EconomyDesign.md:3
+- References/World/Society/Economy/PriceCatalog.md:5
 
 ### 19-30.md (2)
 
@@ -3670,8 +3670,8 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 
 ### Slimes.md (2)
 
-- References/World/Fauna/CreaturesDesign.md:101
-- References/World/Materials/Metals.md:7 `../Fauna/Slimes.md`
+- References/World/Fauna/Design/CreaturesDesign.md:101
+- References/World/Materials/Metals.md:7 `../Fauna/Species/Slimes.md`
 
 ### SpeedVsIntellect.md (2)
 
@@ -3775,7 +3775,7 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 
 ### Destrier (1)
 
-- References/World/Society/ValueReference.md:226 `https://en.wikipedia.org/wiki/Destrier`
+- References/World/Society/Economy/ValueReference.md:226 `https://en.wikipedia.org/wiki/Destrier`
 
 ### dynamic-soaring-speed-record-spencer-lisenby (1)
 
@@ -3827,7 +3827,7 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 
 ### medieval-prices-and-wages (1)
 
-- References/World/Society/ValueReference.md:229 `https://thehistoryofengland.co.uk/resource/medieval-prices-and-wages/`
+- References/World/Society/Economy/ValueReference.md:229 `https://thehistoryofengland.co.uk/resource/medieval-prices-and-wages/`
 
 ### Medieval.md (1)
 
@@ -3835,7 +3835,7 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 
 ### medieval_prices.html (1)
 
-- References/World/Society/ValueReference.md:224 `https://mseffie.com/assignments/canterbury_tales/medieval_prices.html`
+- References/World/Society/Economy/ValueReference.md:224 `https://mseffie.com/assignments/canterbury_tales/medieval_prices.html`
 
 ### MIT_Daedalus (1)
 
@@ -3843,7 +3843,7 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 
 ### Money.html (1)
 
-- References/World/Society/ValueReference.md:225 `https://medieval.ucdavis.edu/120D/Money.html`
+- References/World/Society/Economy/ValueReference.md:225 `https://medieval.ucdavis.edu/120D/Money.html`
 
 ### OmniVision-and-Almalence-Add-SuperResolution-to-World%E2%80%99s-Smallest-Camera-Module-for-Endoscopic-Medical-Imaging (1)
 
@@ -3863,7 +3863,7 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 
 ### Prisoners_of_War_in_the_Hundred_Years_War (1)
 
-- References/World/Society/ValueReference.md:228 `https://www.academia.edu/111321840/Prisoners_of_War_in_the_Hundred_Years_War`
+- References/World/Society/Economy/ValueReference.md:228 `https://www.academia.edu/111321840/Prisoners_of_War_in_the_Hundred_Years_War`
 
 ### Readme.md (1)
 
@@ -3911,7 +3911,7 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 
 ### travel-tips-medieval-jerusalem (1)
 
-- References/World/Society/ValueReference.md:227 `https://www.medievalists.net/2024/04/travel-tips-medieval-jerusalem/`
+- References/World/Society/Economy/ValueReference.md:227 `https://www.medievalists.net/2024/04/travel-tips-medieval-jerusalem/`
 
 ### Verdict.md (1)
 
@@ -3919,7 +3919,7 @@ Globs such as `Source/*.md`, `*Design.md`, and the extension note `` `.md` `` ar
 
 ### what-did-medieval-items-really-cost-and-how-much-did-an-archer-make.663757 (1)
 
-- References/World/Society/ValueReference.md:230 `https://www.enworld.org/threads/what-did-medieval-items-really-cost-and-how-much-did-an-archer-make.663757/`
+- References/World/Society/Economy/ValueReference.md:230 `https://www.enworld.org/threads/what-did-medieval-items-really-cost-and-how-much-did-an-archer-make.663757/`
 
 ### Windward_Performance_Perlan_II (1)
 

@@ -1,13 +1,13 @@
 # Skills Redesign
 
-> **Design loot.** Live skill law: Progression.md / Skills.md. Fat catalog: SkillsDesign.md. Apply or merge when a beat needs it; not a second lock file.
+> **WIP design park.** Not a second lock. Live skill law: `Progression.md` / `Skills.md` / `SkillRanks.md`. Fat catalog: `SkillsDesign.md`. Apply accepted rows into those files, then delete the applied section here. Do not treat this file as canon over SkillsDesign.
 
 Apply world laws from `../Ideas.md`: skills **L1–L9 then evolve**, effects must be felt, ranged focus, no Source padding. Copy accepted rows into `Skills.md` / `SkillsDesign.md` and wipe them here.
 
 **Global rules for every skill below**
 
 - Cap at L9. No L10 on the same name. Evolution starts the next prefix form at L1 (unless noted as higher-order, special, or tier-gated).
-- **Prefix ladder:** Basic/Lesser → *(none)* → Expert/High → Overlord/Master → Legendary/Grandmaster (`../Ideas.md` / `Levels.md`).
+- **Prefix ladder:** Basic/Lesser → *(none)* → Expert/High → Overlord/Master → Legendary/Grandmaster (`../Ideas.md` / `SkillRanks.md`).
 - **Special skills** (Technology and similar) are outside that ladder.
 - For **build skills** (combat, runes, perception, core craft): numbers big enough that L1 matters and L9 changes plans. Soft “slightly faster / small bonus” text is banned.
 - **Flavor / behind-the-scenes skills** (Sleep Resistance, Cooking, Technology, Acting, Basic Mathematics, Map Reading, and similar): keep light. They help in the background and justify scenes; do not redesign into combat math or heavy % tables.
@@ -210,7 +210,7 @@ World law: **Basic X** maxes at L9 → evolves to non-Basic form. Chapter 7 alre
 
 Priority level-ups: Marksmanship, Mana Bolt→Arrow tree, Rune Mastery, Runecraft, Compression, Restructuring, Mana Regulation, Sneaking, Fabrication, Analyze/Diagnosis.
 
-Deprioritize: sword, heavy armor, bash, speech-lord skills. Flavor only (no redesign pass): Cooking, Technology, Acting, Basic Mathematics, Map Reading. Sleep Resistance: locked −10%/level → Sleep Immunity floor 1% in `Skills.md`.
+Deprioritize: sword, heavy armor, bash, speech-lord skills. Flavor only (no redesign pass): Cooking, Technology, Acting, Basic Mathematics, Map Reading. Sleep Resistance: locked −10%/level → Sleep Immunity floor 1% in `Skills.md`. Broader unread resist ladder: `ResistanceImmunitySystem.md`.
 
 ---
 

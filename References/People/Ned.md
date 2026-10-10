@@ -2,7 +2,7 @@
 
 ## Narrative
 
-Ned is D's first tamed companion, a Floor-2 Needle Worm worn as a green scarf. D steers him away from the wild moth line into a stronger worm path built for charges, needles, silk, poison, and durability. Harvest materials: `../World/Science/Biomaterials/Biomaterials.md`. Silk Earth anchors: `../World/Science/Biomaterials/BiologicalSilks.md`. Species body / scaling: `../World/Fauna/NeedleWorm.md`. Training design: `NedDesign.md`. Skill grind: `../Progression/CompanionSkillLeveling.md`.
+Ned is D's first tamed companion, a Floor-2 Needle Worm worn as a green scarf. D steers him away from the wild moth line into a stronger worm path built for charges, needles, silk, poison, and durability. Harvest materials: `../World/Science/Biomaterials/Biomaterials.md`. Silk Earth anchors: `../World/Science/Biomaterials/BiologicalSilks.md`. Species body / scaling: `../World/Fauna/Species/NeedleWorm.md`. Training design: `NedDesign.md`. Skill grind: `../Progression/CompanionSkillLeveling.md`.
 
 ## Detail
 
@@ -14,7 +14,7 @@ Ned is D's first tamed companion, a Floor-2 Needle Worm worn as a green scarf. D
 
 **Look / carry:** Leaf-green. Worn as a green scarf. Strangers often assume a Floor-2 trophy scarf. After taming he can pass **stair throats** (wild monsters cannot).
 
-**Diet:** Leaves, discarded monster parts, mana stones. Prefers **parsleaves** (mild poison, parsley smell). Harvest: needles, hemolymph, dried parsleaves. Later: detachable **gel nodules** (skin → magical hide; gel → magical ink).
+**Diet:** Leaves, discarded monster parts, mana stones. Prefers **parsleaves** (mild poison, parsley smell). Harvest: needles, hemolymph, dried parsleaves. Later: detachable **gel nodules** (skin → magical hide; gel → magical ink). Earth diet→stored-toxin ladders (frogs, monarchs): `../World/Fauna/ToxinSequestration.md`.
 
 **Magic biology:** Anything he eats breaks down into pure magic, then rebuilds what his body wants. Do not run human digestion / pathogen science on D's blood or flesh. D feeds him about **150 mL**/day whole blood in-room (skill grind; RBC side fits rewrite restore).
 
@@ -22,7 +22,7 @@ Ned is D's first tamed companion, a Floor-2 Needle Worm worn as a green scarf. D
 
 **Steered path:** Needle Worm → Greater Needle Worm → King Worm → Wyrm → Greater Wyrm → Ormr
 
-Same tier caps as people / monsters (`../Progression/Progression.md`): T1 **25**, T2 **50**, T3 **75**, T4+ **100** each. Capability ramp **1x → 43x**: `../World/Fauna/NeedleWorm.md`.
+Same tier caps as people / monsters (`../Progression/Progression.md`): T1 **25**, T2 **50**, T3 **75**, T4+ **100** each. Capability ramp **1x → 43x**: `../World/Fauna/Species/NeedleWorm.md`.
 
 **Chapter locks:** `../../Story/Notes/NedStatus.md`. Ch 12 tame is overall **1** / **1x**. Ch 14 watcher kill is Greater overall **26** / **4x**.
 

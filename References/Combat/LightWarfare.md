@@ -1,6 +1,6 @@
 # Light Warfare: Escalation, Defense and Sensing
 
-> **Design loot / inspiration.** Not locked law. Escalation feel for when warriors outrun mass projectiles and mages reach for light. Kit notes: `Lasers.md`. Think vs move: `SpeedVsIntellect.md`. Optics physics: `../World/Science/Energy/Optics.md`. Twenty more variables: `LightWarfareVariables.md`. Do not promote rows into live combat law unless a beat needs them.
+> **Design loot / inspiration.** Not locked law. Escalation feel for when warriors outrun mass projectiles and mages reach for light. Kit notes: `Lasers.md`. Think vs move: `SpeedVsIntellect.md`. Human RT / preview-time floors: `../World/Science/Body/SpeedPerception.md`. Optics physics: `../World/Science/Energy/Optics.md`. Twenty more variables: `LightWarfareVariables.md`. Do not promote rows into live combat law unless a beat needs them.
 
 ## Phase 1: Speed Breaks Melee
 

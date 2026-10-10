@@ -29,6 +29,34 @@ Author design lock for how runes and magic work in the rewrite. Engineering deta
 | Pathways | Physical or magical routes mana flows through |
 
 5. **Same rules across samples.** A trial book can name Fire Orb's five regions (mana collector → fire core → shape → constrain → velocity). Other lessers may lack that book. If their structure is still linear and progressive, they operate on the same rules.
+6. **Ranks are a complexity ladder, not only bigger numbers.** Each main rank adds a geometry and moves jobs off the body. Subgrades (Lowest → Highest) glue the ranks so peak of N ≈ floor of N+1. Detail and examples: `Runes.md` (Ranks), `RuneSystem.md` (Story feel + ceilings).
+
+## Rank ladder (worldview)
+
+Ignoring joule ceilings, Source and early rewrite treat the five ranks as **kinds of machine**:
+
+| Rank | Geometry | Typical job home | Story feel |
+|---|---|---|---|
+| **Lesser** | One **linear** chain | Personal kit: blade, ladle, early scroll | Street tools. Solo paper is weak; metal + timing bites |
+| **Common** | Coupled / **shared modules** | Sellable scrolls, solid weapon runes | Working product band. Highest Common ≈ toe of Greater |
+| **Greater** | **3D stack** + ethereal links | Armor OS, devices, bulky pages, monoliths | Real machines. Hard to shrink. One on a suit is already a lot |
+| **Grand** | **Arrays** of greater units | Vaults, gates, warp slabs, workshop hearts | Infrastructure. Years per piece. Exotic hosts |
+| **Legendary** | Singular / composite myth | Nation / history artifacts | Fable tier. Not a better belt knife |
+
+**Jobs migrate off the body:** Lesser/Common = gear and ammo → Greater = systems and devices → Grand = doors, circles, fortresses → Legendary = politics or geography when it appears.
+
+**Host and charge gate before skill.** Rank outruns the metal and the mana pour long before "he is not smart enough." Class tier tracks loosely (T1 craft era → Lesser/Common; T3 → Greater; T4 culture → Grand).
+
+**Roland's method scales with the ladder:** disassemble sample → isolate stages → reuse components → stack. Rewards reverse engineering and **quality within rank**, not skipping ranks.
+
+### Extrapolations (story feel)
+
+- A Highest Common Fire Arrow should feel like a weak Greater spell scroll, not a toy next to Greater.
+- Hard couples (true frostfire, real spatial, stable armor OS) want Common+ resonance or Greater geometry, not a clever Lesser graft alone.
+- Merging runes (~5% efficiency talk in Source) is flavor early and strategic once packing Greater into Grand arrays.
+- Armor peaks around many Lesser/Common + at most one Greater unless compression / ethereal / better metal rewrite that dwarf rule.
+- If Roland "makes Grand," it should look like a room, gate or workshop heart, not a dagger.
+- Legendary should change politics or geography, or stay rumor.
 
 ## What is dropped
 
@@ -48,6 +76,7 @@ Enchantments ≈ word language. Runes ≈ symbol language. Runes are harder and 
 
 ## Pointers for numbers
 
+- Rank story feel + examples: `Runes.md` (Ranks and grades)
 - Rank / quality ceilings and stage map: `RuneSystem.md`
 - Mana in → joules out for spells: `../World/Science/Energy/ManaCast.md` and `Energy.md`
 - Schematic XP by quality (lesser): `../Progression/Progression.md` / craft notes (**100 / 200 / 400 / 600 / 1000**)

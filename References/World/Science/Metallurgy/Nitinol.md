@@ -1,6 +1,6 @@
 # Nitinol (Earth Metallurgy)
 
-Hub: `Nickel.md`, `Titanium.md`, `TitaniumBootstrap.md`. Mana-saturated gear lore: `../../Materials/MaterialConsiderations.md`. Hawaiian mass balance: end of this file + `../../Geography/HawaiianMinerals.md`.
+Hub: `Nickel.md`, `Titanium.md`, `TitaniumBootstrap.md`. Mana-saturated gear lore: `../../Materials/MaterialConsiderations.md`. Hawaiian mass balance: end of this file + `../../Geography/VolcanicIsland/HawaiianMinerals.md`.
 
 Earth NiTi shape-memory / superelastic alloy. On Terra, mundane nitinol is invent from D's Earth knowledge; mana-saturated variant is locked in MaterialConsiderations.
 

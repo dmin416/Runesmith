@@ -115,7 +115,7 @@ Earth technique for trail / camp meals (Roland forest lunches, goblin-camp prey,
 
 ## Steam-era spirits and liqueurs
 
-Caldris has magic steam trains and noble airships so copper stills and boiler craft are common. Tavern prices live in `../World/Society/Economy.md`. Process anchors below are Earth/steam technique, not brand names for Caldris shelves.
+Caldris has magic steam trains and noble airships so copper stills and boiler craft are common. Tavern prices live in `../World/Society/Economy/Economy.md`. Process anchors below are Earth/steam technique, not brand names for Caldris shelves.
 
 **Everything comes down to fermenting a sugar source and distilling it in a copper still.** Steam-era gear makes it faster and cleaner.
 
@@ -171,7 +171,7 @@ Everything needed was common by the 1850s: cane sugar, cream, brandy, whiskey, r
 - **Look:** oversized fuzzy caterpillar; fine hairs as thick as thin knitting needles.
 - **Smell:** distinctive; party banter compares it to armpits.
 - **Blood:** **paralytic**, but on-page Roland uses it as a **cumin-like seasoning** on Spiked Boar skewers (numb/spicy / toasted-seed aroma). Broken needles also release poison (Reyna warns while he plucks). Not safe food for normals; he ignores the **Poison Resistance** popup and keeps cooking/eating.
-- Spikes sell poorly (`../World/Society/Economy.md`). Flesh is not a loot focus. Core-bearing worm can be tamed (`../World/Fauna/Mounts.md`). See also `../People/Ned.md`.
+- Spikes sell poorly (`../World/Society/Economy/Economy.md`). Flesh is not a loot focus. Core-bearing worm can be tamed (`../World/Fauna/Mounts.md`). See also `../People/Ned.md`.
 
 ### Parsleaves (Ch 13)
 

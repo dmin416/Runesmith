@@ -1,6 +1,6 @@
 # Material Purification: Sources, Methods and Energy
 
-Hub: `Materials.md`. Clear silica / glass grades: `TranslucentMaterials.md`. Bond-breaking floor (free atoms, not process energy): `AtomizationEnergy.md`. Ti extract detail: `../Science/Metallurgy/Titanium.md`. Ore routes: `../Science/Metallurgy/MetalOres.md`. Earth alloy / carbon production: `../Science/Metallurgy/EarthAlloys.md`. Island geology: `../Geography/VolcanicIslandResources.md`. Era filter: `../Tech/Technology.md`.
+Hub: `Materials.md`. Clear silica / glass grades: `TranslucentMaterials.md`. Bond-breaking floor (free atoms, not process energy): `AtomizationEnergy.md`. Ti extract detail: `../Science/Metallurgy/Titanium.md`. Ore routes: `../Science/Metallurgy/MetalOres.md`. Earth alloy / carbon production: `../Science/Metallurgy/EarthAlloys.md`. Island geology: `../Geography/VolcanicIsland/Resources.md`. Era filter: `../Tech/Technology.md`.
 
 **Units:** GJ/t = gigajoules per metric tonne. 1 GJ/t = 0.278 kWh per kg. Energy figures cover typical industrial practice and vary widely with ore quality and plant design. Figures marked "estimate" are rough ranges.
 

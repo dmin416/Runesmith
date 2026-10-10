@@ -1,10 +1,10 @@
 # Gear Prices
 
-> **Design price book** for weapons, armor, and repairs. Blade / loadout design: `Weapons.md`. Light kit: `LightArmorLoadout.md`. Currency: `../World/Society/EconomyDesign.md`.
+> **Design price book** for weapons, armor, and repairs. Blade / loadout design: `Weapons.md`. Light kit: `LightArmorLoadout.md`. Currency: `../World/Society/Economy/EconomyDesign.md`.
 
 ## Weapons & Armor
 
-Labor-days / steam-era fair bands: `../World/Society/EconomyDesign.md`. Historical England rows kept; **fair Caldris** wins for ordinary adventurer kit.
+Labor-days / steam-era fair bands: `../World/Society/Economy/EconomyDesign.md`. Historical England rows kept; **fair Caldris** wins for ordinary adventurer kit.
 
 | Item | Historical price | LC value |
 |---|---|---|

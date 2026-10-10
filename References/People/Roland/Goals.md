@@ -2,7 +2,7 @@
 
 > **Design loot.** Not carried kit and not skill law. Doctrine: `Kit.md`. Locked facts: `Character.md`. Promote a line only when a chapter puts it on him.
 >
-> Sound: `../../World/Science/Energy/Sound.md`. Metals: `../../World/Materials/Metals.md` (mythril, star steel, orihalcum, aurium, adamantium). Silk and resilin: `../../World/Science/Biomaterials/BiologicalSilks.md`, `RubberAndInsect.md`. Vehicles and glider science: `../../World/Science/Vehicle/Index.md`, `PerfectGlider/`. Flight and flywheels: `../../World/Science/Energy/Flight.md`, `FlywheelStorage.md`. Nēnē glide: `../../World/Fauna/KoloaAndNeneMagic.md`. Ned: `../Ned.md`. Agni: `../Agni.md`.
+> Sound: `../../World/Science/Energy/Sound.md`. Metals: `../../World/Materials/Metals.md` (mythril, star steel, orihalcum, aurium, adamantium). Silk and resilin: `../../World/Science/Biomaterials/BiologicalSilks.md`, `RubberAndInsect.md`. Vehicles and glider science: `../../World/Science/Vehicle/Index.md`, `PerfectGlider/`. Flight and flywheels: `../../World/Science/Energy/Flight.md`, `FlywheelStorage.md`. Nēnē glide: `../../World/Fauna/Domestic/KoloaAndNeneMagic.md`. Ned: `../Ned.md`. Agni: `../Agni.md`.
 
 Goals for covering D's weak points. His heat and cold invulnerability, fast thinking, recovery and existing resistances form the base. These goals cover what's left.
 
@@ -41,7 +41,7 @@ Living-field reads sit inside Energy Sense, not beside it.
   - **Nerve signals:** The brain fires the command to move before the muscle moves. Reading that signal gives early notice of every strike, step and draw.
   - **Muscle tension:** Shows where weight is shifting and which limb is loading for an attack.
   - **Hidden creatures:** Finds living things behind cover, in darkness, underground or under invisibility, since magnetic fields pass through most non-metal materials.
-- **Combat value:** Nerve signals lead movement by a fraction of a second. At 10 to 15 times thinking speed, that fraction becomes a long, clear warning of every attack before it starts.
+- **Combat value:** Nerve signals lead movement by a fraction of a second. At 10 to 15 times thinking speed, that fraction becomes a long, clear warning of every attack before it starts. Earth RT / anticipation floors: `../../World/Science/Body/SpeedPerception.md`.
 - **Passive:** Unlike echolocation, it sends nothing out, so it never gives away his position.
 - **Anti-magic:** Works in anti-magic zones if trained as a body sense, like a shark's.
 - **Weaknesses:**
@@ -70,9 +70,10 @@ Living-field reads sit inside Energy Sense, not beside it.
 
 ### Breath Control
 
-- **Current:** Chapter 19 breath-holds between grill sets. Exit **L5**. Leveling unit is **1 minute** held = **1** use. Hold length = **T0 × M × skill level** (~**16.7 min** comfortable at his Vit/End with L5).
+- **Current:** Chapter 19 breath-holds between grill sets. Exit **L5**. Leveling unit is **1 minute** held = **1** use. Hold length = **T0 × M × skill level** (~**16.7 min** comfortable at his Vit/End with L5). Live law: `../../Progression/SkillsDesign.md`.
 - **Goal:** More held time, higher skill multiplier, and the same skill covering smoke and toxic gas. Poison stays its own track.
 - **Why:** Heat immunity doesn't stop smoke inhalation or suffocation. The volcanic island has gases that pool in low ground plus vog.
+- **Idea park (unread):** oxygen-efficiency M ladder / Suffocation Immunity / Abyssal Body pairing: `../../Progression/ResistanceImmunitySystem.md`. Do not replace Breath Control until that file is accepted.
 
 ### Mana Overload Resistance
 

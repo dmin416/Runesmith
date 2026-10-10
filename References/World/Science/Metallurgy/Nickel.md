@@ -1,6 +1,6 @@
 # Nickel
 
-Hub: `../Science.md`. Ore geography: `MetalOres.md`. Hawaiian olivine Ni: `../../Geography/HawaiianMinerals.md`. Nitinol alloy: `Nitinol.md`. Mana-saturated nitinol lore: `../../Materials/MaterialConsiderations.md`.
+Hub: `../Science.md`. Ore geography: `MetalOres.md`. Hawaiian olivine Ni: `../../Geography/VolcanicIsland/HawaiianMinerals.md`. Nitinol alloy: `Nitinol.md`. Mana-saturated nitinol lore: `../../Materials/MaterialConsiderations.md`.
 
 Earth industrial + Hawaiian olivine hydromet route. Nickel is SPECIALTY on Terra (`Materials.md`).
 

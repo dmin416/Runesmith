@@ -1,6 +1,6 @@
 # Falling
 
-Free-fall thresholds, posture and Shepherd's Leap pole brake. Soft-fall spells stay separate. Hub: `../Science.md`.
+Free-fall thresholds, posture and Shepherd's Leap pole brake. Soft-fall spells stay separate. Felt speed / ground rush (optic flow): `SpeedPerception.md`. Hub: `../Science.md`.
 
 ## Narrative
 

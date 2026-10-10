@@ -2,7 +2,7 @@
 
 Hub: `../Science.md`.
 **Lock file for stone law:** `../../Materials/MonsterCores.md`.
-Street prices: `../../Society/Economy.md`.
+Street prices: `../../Society/Economy/Economy.md`.
 Chemical cells vs stones: `Batteries.md`.
 
 ## Mana stones (size and quality)
@@ -87,7 +87,7 @@ m  = ρ × V                         V in cm³ → m in grams
 
 Identify, a recharge test, or a shop grading device reads Q. Weighing alone does not.
 
-**Market (guild buy):** `../../Society/PriceCatalog.md`. Size physics and the Q ladder stay in this file. A pure volume rule would price a 16 mm marble near 2.3 SG. The catalog does not.
+**Market (guild buy):** `../../Society/Economy/PriceCatalog.md`. Size physics and the Q ladder stay in this file. A pure volume rule would price a 16 mm marble near 2.3 SG. The catalog does not.
 
 ### Vs chemical batteries
 

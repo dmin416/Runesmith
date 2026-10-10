@@ -20,7 +20,7 @@ Lock live canon in this folder. Rewrite prose: `../Story/Chapters/`. Treat `Sour
 
 - Order: outline (`../Story/Outline.md`, not written yet), then story prose in `../Story/Chapters/`, then notes and status equally. A note does not override the chapter. `../Story/VolumeSynopsis.md` is the volume synopsis and does not override the chapter.
 
-- Kill XP: `XP_kill = 50 × killed_L × RaceMult`. `XP_to_next = 500 × L`. RaceMult table in `Progression/Levels.md` (goblin **1.0**; people **1.0**; Spiked Boar **1.5**; Wereboar **2.0** min L26; Needle Worm **0.5**; Needle Moth **2.0**; …). Party early cut ~**1%** idle / ~**1/4** active. No half-cut on class change. Pre-class bank ½ only. Law: `Progression/Progression.md`.
+- Kill XP: `XP_kill = 50 × killed_L × RaceMult`. `XP_to_next = 500 × L`. RaceMult table in `Progression/RaceMult.md` (goblin **1.0**; people **1.0**; Spiked Boar **1.5**; Wereboar **2.0** min L26; Needle Worm **0.5**; Needle Moth **2.0**; …). Party early cut ~**1%** idle / ~**1/4** active. No half-cut on class change. Pre-class bank ½ only. Law: `Progression/Progression.md`.
 - Rune η_cond: quality **20%** blocks (Lowest **0.2** → Highest **1.0**). `Useful = mana × 10 × η_cond × A`. Waste: **½** ambient / **½** weapon heat+corruption. Host feel narrative only. `Runes/Energy.md`.
 - Ch 4–19 XP ledger locked in `../Story/Notes/Experience.md` (Ch 9.5 **1,000** → Mage L20; Ch 13 **342** kills → Mage L25; reclass bank **1479 → 2479 → 3479**).
 - Tiers: T1 25, T2 50, T3 75, T4+ 100 each. `Progression/Progression.md`.
@@ -35,6 +35,7 @@ Lock live canon in this folder. Rewrite prose: `../Story/Chapters/`. Treat `Sour
 - Monster meat tastes good but spoils fast. Never eaten: goblins (and goblin-kin), ghouls, zombies, liches and other undead. `Food/Food.md`.
 - Personal firearms not widespread (high-class archer ≈ cannon); ship magic cannons exist. `World/Tech/Technology.md`.
 - No mana pool → no active absorb. Rich fields may heal body/spirit; no stored mana on leaving. Forced absorb = radiation-class poison. `Progression/Progression.md`.
+- Spell→craft gate: spells Roland can cast → **magic scrolls** yes; **runes / runic scrolls** no (needs external rune sample). Magic scroll ≠ runic scroll. Intention extras (follow a person, mind-lock a target) stay scarce even if such runes exist. `Runes/SpellToCraftGate.md`.
 
 ## Source loot
 

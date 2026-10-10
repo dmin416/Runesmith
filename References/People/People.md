@@ -22,7 +22,7 @@ Cast hub.
 
 | File | Role |
 |---|---|
-| `NedDesign.md` | Ned scene and diet notes. Combat scaling: `../World/Fauna/NeedleWorm.md` |
+| `NedDesign.md` | Ned scene and diet notes. Combat scaling: `../World/Fauna/Species/NeedleWorm.md` |
 | `Encounters.md` | Meeting tracks loot (not one party) |
 
 ## Lane rules (locked)

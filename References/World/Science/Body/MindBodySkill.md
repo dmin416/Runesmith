@@ -1,6 +1,6 @@
 # Mind-Body Disconnect in Skilled Action
 
-Earth cognitive-science note. **Memory is storage and recall. Drawing (and other craft) is motor execution.** They are separate skills.
+Earth cognitive-science note. **Memory is storage and recall. Drawing (and other craft) is motor execution.** They are separate skills. Absolute size / weight calibration and magnification vs tremor: `MeasurementPerception.md`.
 
 **Story use:** Diagnosis / Analyze / perfect recall can stock a clear image. That does **not** auto-grant Drawing levels. Hand control, proportions and error correction still need practice (and system skill ranks). Pair with Drawing under live `../../../Progression/Skills.md` (thin) and `../../../Progression/NormalPersonSkills.md`.
 

@@ -1,6 +1,6 @@
 # Skills
 
-Live skill law stays thin here and in `Progression.md`. Fat catalog: `SkillsDesign.md`. Ordinary L9 clocks: `NormalPersonSkills.md`. Redesign loot: `SkillsRedesign.md`.
+Live skill law stays thin here and in `Progression.md`. Rank / evolve / field-use curve: `SkillRanks.md`. Fat catalog: `SkillsDesign.md`. Ordinary L9 clocks: `NormalPersonSkills.md`. Redesign park: `SkillsRedesign.md`.
 
 ## Locked live notes
 
@@ -8,7 +8,7 @@ Live skill law stays thin here and in `Progression.md`. Fat catalog: `SkillsDesi
 - **Mana Sense:** Exists as a skill / aptitude some people have.
 - **Diagnosis:** D-only. Sees / understands flaws in a system. Feeds his medical background. Old Source name was Debugger. Do not reinstate Debugger as the live name. Caps at L9; Advanced Diagnosis is a separate high-tier skill, not an automatic L9 evolution.
 - **Technology** and **Fabrication:** D-side craft aptitudes (see `../People/Roland/Character.md`).
-- **Skill hard-cap:** Every skill name hard-caps at **L9**, then evolves to the next prefix form (new name at L1). No L10 on the same name. Class skills follow the same rule. Prefix ladder: `Levels.md` / Ideas.
+- **Skill hard-cap:** Every skill name hard-caps at **L9**, then evolves to the next prefix form (new name at L1). No L10 on the same name. Class skills follow the same rule. Prefix ladder / use curve: `SkillRanks.md` / Ideas.
 - **Taming:** Real skill path. Companions can level.
 - **Enchanting vs runecrafting:** Different crafts in the world's eyes.
 - **Recovery:** Speeds blood / soft-tissue restore (`Attributes.md`). Does not regrow limbs.
@@ -17,10 +17,11 @@ Live skill law stays thin here and in `Progression.md`. Fat catalog: `SkillsDesi
 
 | File | Role |
 |---|---|
+| `SkillRanks.md` | L1–L9 / evolve, field-use curve, attribute pads |
 | `SkillsDesign.md` | Named skills / traits catalog (Diagnosis rows replace Debugger) |
 | `CompanionSkillLeveling.md` | Companion (Ned-first) action/aptitude grind |
 | `NormalPersonSkills.md` | Ordinary L9 training-time clocks (no system acceleration) |
-| `SkillsRedesign.md` | Skill redesign loot pass |
+| `SkillsRedesign.md` | WIP redesign park (not a second lock) |
 | `../SourceLoot/RolandStatus.md` | Source-scraped Roland skills / titles / classes |
 
 ## Open

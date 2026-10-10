@@ -1,6 +1,8 @@
 # Biomaterials
 
-How to turn animal and monster parts into usable craft numbers. Magic metal ladders: `../../Materials/Metals.md`. Heat damage: `../Metallurgy/OverheatedMetals.md`. Fans: `../Energy/FanAirflow.md`. Rubber / insect stocks: `RubberAndInsect.md`. Primary living harvest stream: `../../../People/Ned.md`.
+How to turn animal and monster parts into usable craft numbers. Magic metal ladders: `../../Materials/Metals.md`. Heat damage: `../Metallurgy/OverheatedMetals.md`. Fans: `../Energy/FanAirflow.md`. Rubber / insect stocks: `RubberAndInsect.md`. Silk numbers: `BiologicalSilks.md`. Glue catalog: `BiologicalAdhesives.md`. Primary living harvest stream: `../../../People/Ned.md`. Worm biomechanics: `../../Fauna/Species/NeedleWorm.md`. Nav: `Index.md`.
+
+**Owns:** process pipeline, N× vs living-stat scale, Ned harvest stream. Do not grow silk or glue encyclopedias here.
 
 ## Narrative
 
@@ -104,7 +106,7 @@ D uses these on a regular basis. Quality tracks Ned's power, diet (stones, meat,
 
 **Needle vs plate (quick read)**
 
-At tame-band Strength ~20, ~1 cm spike, mild steel sheet ~2 mm is near the chip-and-punch edge. Harder armor needs much more Strength before tip H and core σ clear the 1.5× hardness and shear rules. Full tables: `../../Fauna/NeedleWorm.md`.
+At tame-band Strength ~20, ~1 cm spike, mild steel sheet ~2 mm is near the chip-and-punch edge. Harder armor needs much more Strength before tip H and core σ clear the 1.5× hardness and shear rules. Full tables: `../../Fauna/Species/NeedleWorm.md`.
 
 ### Short template (copy for a new part)
 

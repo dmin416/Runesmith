@@ -1,6 +1,6 @@
 # Titanium: Sources, Quantities and Volcanic Recovery
 
-Hub: `../Science.md`. Ore extract routes: `MetalOres.md`. Earth alloy encyclopedia: `EarthAlloys.md`. Purity / energy ladder: `../../Materials/MaterialPurification.md`. Atomization floors (Ti metal, oxides, TiCl₄): `../../Materials/AtomizationEnergy.md`. Island geology: `../../Geography/VolcanicIslandResources.md`, `../../Geography/VolcanicIslandSands.md`, `../../Geography/HawaiianMinerals.md`.
+Hub: `../Science.md`. Ore extract routes: `MetalOres.md`. Earth alloy encyclopedia: `EarthAlloys.md`. Purity / energy ladder: `../../Materials/MaterialPurification.md`. Atomization floors (Ti metal, oxides, TiCl₄): `../../Materials/AtomizationEnergy.md`. Island geology: `../../Geography/VolcanicIsland/Resources.md`, `../../Geography/VolcanicIsland/Sands.md`, `../../Geography/VolcanicIsland/HawaiianMinerals.md`.
 
 **Companions:** industrial mine-to-mill `TitaniumProcessing.md`. Low-tech beach-to-metal bootstrap `TitaniumBootstrap.md`. Silica / separation gear `SilicaSand.md`. Nitinol `Nitinol.md` (Ni feed `Nickel.md`).
 
@@ -43,7 +43,7 @@ Most "titanium mining" never becomes metal. Concentrates go through the **chlori
 
 ### Why the metal is expensive
 
-Ore supply is not the bottleneck. Refining is. The **Kroll process** chlorinates concentrate to TiCl₄ and then reduces it with molten magnesium in slow batches at high temperature. The product is porous "sponge" that must be remelted into ingot. That chain is why titanium metal costs far more than steel despite titanium being common.
+Ore supply is not the bottleneck. Refining is. Batch Mg (or Na) reduction of TiCl₄ makes porous sponge that must be vacuum-remelted. Full industrial chain: `TitaniumProcessing.md`. Low-tech invent path: `TitaniumBootstrap.md`.
 
 ## Grade Contrast
 
@@ -85,7 +85,7 @@ On an **old, wet, tropical volcanic island**, intense chemical weathering of bas
 - The most weathered soils on older Hawaiian islands (Kauai type) can exceed 10% TiO₂. Treat that as an upper-end figure for long-weathered uplands, not a typical value.
 - The richest zones are the upper laterite horizons and ironstone crusts on stable, gently sloping uplands that have weathered for a long time.
 - Laterite can also feed placers: streams cutting through it carry the heavy Ti grains to the coast.
-- **Setting cross-reference:** see `../../Geography/VolcanicIslandResources.md` (Ti-rich laterite, never mined there).
+- **Setting cross-reference:** see `../../Geography/VolcanicIsland/Resources.md` (Ti-rich laterite, never mined there).
 
 So volcanoes produce the source rock. **Erosion** sorts it into black sand. **Weathering** leaves residual Ti in laterite. Both are real recovery paths. Pulling titanium directly from an active volcano is not.
 

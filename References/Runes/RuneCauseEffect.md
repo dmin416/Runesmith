@@ -1,6 +1,6 @@
 # Rune Cause and Effect
 
-> **Rewrite lock.** Sample → segments understood → immediate logical applications. Named catalog dates: `Runes.md`. Worldview: `Nature.md`. Stage jobs: `RuneSystem.md`. Craft look/feel: `RuneCraftScrapes.md`.
+> **Rewrite lock.** Sample → segments understood → immediate logical applications. Named catalog dates: `Runes.md`. Worldview: `Nature.md`. Stage jobs: `RuneSystem.md`. Craft look/feel: `RuneCraftScrapes.md`. Spell→rune gate: `SpellToCraftGate.md`.
 
 This file is the living map of **what Roland learns when** and **what he does with it**. Source pacing that makes him sit on parts for months without combining them is discarded. He is intuitive and causal: once Diagnosis shows a segment's job, he uses it.
 
@@ -15,8 +15,9 @@ This file is the living map of **what Roland learns when** and **what he does wi
    - **Craft skill** (Scribe for paper; Runecraft + Blacksmith for durable metal)
    - **Mana / setup cost** (pool and Mastery; empty-mana tension stays)
    - **Rank ceiling** (Lesser linear chain vs Common coupled stages)
-4. He does **not** wait for plot permission. Light + target-sense/attach → targeting attack the same research session. Fire isolated from Fire Arrow → fireball, torch, kettle heat, forge assist, whatever the job is.
-5. Failed grafts are **fault diagnosis** (red pathways), not "random swap for a week." He isolates, swaps one stage, reads the fault, fixes or abandons.
+4. He does **not** wait for plot permission **once he has the segments from samples**. Fire isolated from a Fire Arrow **rune** → fireball, torch, kettle heat, forge assist, whatever the job is. Light + attach/seek → targeting attack the same research session **only after** he has a real attach/seek sample. Casting Orb of Light or Mana Shield with follow intent does **not** count (`SpellToCraftGate.md`).
+5. Personal spell knowledge does **not** mint a rune. Castable spell → **magic scroll** OK; castable spell → **rune / runic scroll** **no** (`SpellToCraftGate.md`). Magic scroll ≠ runic scroll.
+6. Failed grafts are **fault diagnosis** (red pathways), not "random swap for a week." He isolates, swaps one stage, reads the fault, fixes or abandons.
 
 ## Segment library (jobs)
 
@@ -40,7 +41,7 @@ Names below are design labels. Prose can stay plain ("the fire part," "the seeke
 | **Constrain / contain** | Stops premature dump (orb does not explode on form) | Fire Orb |
 | **Velocity / launch** | Gives heading and speed | Fire Orb; arrow family; Velocity |
 | **Arrow body (shared)** | Common middle stages shared by elemental arrows | Fire + Frost + Gale Arrow comparison |
-| **Attach / seek / sense target** | Locks effect onto a marked or sensed target | Shop seeker scrolls; life-detect / tracking samples when bought; later armor scan |
+| **Attach / seek / sense target** | Locks effect onto a marked or sensed target | Shop seeker scrolls; life-detect / tracking samples when bought; later armor scan. **Not** from casting Shield/Light with follow intent (`SpellToCraftGate.md`) |
 | **Trigger: contact** | Arms until tip inserts / hits | Detonation hold-lock |
 | **Trigger: pressure / step** | Dormant until weight or open | Mine adapt from Detonation |
 | **Trigger: user will** | Manual activate | Most gear runes |
@@ -59,8 +60,8 @@ Add rows when a new sample teaches a new job. Do not invent jobs without a sampl
 | Fire converter + Orb shape + constrain + velocity | Fire Orb (already); any orb-shaped fire tool |
 | Fire converter alone (stripped from arrow/orb) | Torch, kettle heat, cook plate, forge assist, flame jet, fireball (new shape), Fire Arrow (if he has arrow body) |
 | Light converter + Orb shape | Light Orb; camp light; signal flare; dazzle if overcharged |
-| Light + attach/seek/sense | Homing light tag; targeting attack that rides the seeker onto a sensed mark |
-| Fire + attach/seek | Homing firebolt / seeking Fire Arrow |
+| Light + attach/seek/sense **(both from rune samples)** | Homing light tag; targeting attack that rides the seeker onto a sensed mark |
+| Fire + attach/seek **(both from rune samples)** | Homing firebolt / seeking Fire Arrow |
 | Blast + contact trigger | Tip detonator (rapier form) |
 | Blast + pressure trigger | Mines, door bombs, trip scrolls |
 | Blast + Fire Orb | Grenade / firecracker scroll |
@@ -153,6 +154,8 @@ Rewrite default: he buys **study samples early** and strips them. Brand income c
 | Common/Greater complexity for hard couples (true frostfire, spatial, arrays) | Random week of blind swaps as the only invention method |
 | Social heat if he floods the market | Artificial one-SKU poverty as the only early conflict |
 
+**Rank walls (feel):** Lesser = linear personal kit. Common = shared modules / product. Greater = 3D machine. Grand = arrays / infrastructure. Legendary = myth. Highest of N ≈ Lowest of N+1. Full ladder + examples: `Nature.md`, `Runes.md`, `RuneSystem.md` (Story feel).
+
 ## Story conflict after early fluency
 
 When segment logic is allowed, early tension is not "mystery of runes." It is:
@@ -161,7 +164,7 @@ When segment logic is allowed, early tension is not "mystery of runes." It is:
 - Mats cost (ink, skins, later metal)
 - Who notices a kid with too many functional SKUs
 - Contracts, identity hide, dwarven / guild interest
-- Rank walls (some couples need Common+ resonance)
+- Rank walls (some couples need Common+ resonance or Greater geometry; Grand is rooms/gates not daggers)
 - Helci / party: he can keep them safer; stakes move to politics and bigger monsters
 
 ## Maintenance

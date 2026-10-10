@@ -28,15 +28,27 @@ Both place lasting effects on gear. Enchantments use a word-like language (Earth
 
 ## Ranks and grades
 
-Five main rune ranks (see `RuneSystem.md` for ceilings and score). **First-seen dates** are when the story names that band (exposition can name a higher rank before Roland can craft it).
+Five main rune ranks. Worldview: `Nature.md`. Ceilings / score math: `RuneSystem.md`. **First-seen dates** are when the story names that band (exposition can name a higher rank before Roland can craft it).
 
-1. **Lesser Rune** - First seen: Chapter 12. Lowest main band. **Basic Rune Mastery** discounts **activation** on this rank only (−10%/level; not setup). Basic Runecraft covers Lesser setup (`RuneSetup.md`).
-2. **Common Rune** - First seen: Chapter 18. Mid rank above Lesser.
-3. **Greater Rune** - First seen: Chapter 17 (named in study before Common items appear on-page). High-tier; major study topic ("Greater Runes 101").
-4. **Grand Rune** - First seen: Chapter 38. Above Greater.
-5. **Legendary Rune** - First seen: Chapter 18 (named before Grand craft is on-page). Top named rank.
+Ranks are a **complexity ladder** (geometry and job home), not only bigger punch. Subgrades glue ranks so peak of N ≈ floor of N+1.
 
-Each rank uses sub-grades (Lowest / Low / Intermediate / High / Highest). First seen: Chapter 2. Chapter 18: a Lesser rune at Highest is roughly comparable to a Common rune at Lowest (matches score s = 1 in `RuneSystem.md`). Highest on a Common sits near a jump into Greater (Chapter 22 Percival). Comet / shooting-star logo is Roland's early scroll brand.
+| Rank | First seen | Geometry | Job home | Examples (story / Source) |
+|---|---|---|---|---|
+| **Lesser** | Ch 12 | One **linear** chain | Personal kit | Impact, Detonation, Fire Orb, Fire Resistance ladle, Fortitude, Scorching, Sharpness, Mana Slash/Thrust, Slot, Ethereal Pathways, mines |
+| **Common** | Ch 18 | Coupled / **shared modules** | Sellable product | Fire / Frost / Gale Arrow scrolls (Crimson Comet), Hardening + Impact mace, Detect Life / Shadow Veil, elemental shield scrolls, Mana Bolt paddles |
+| **Greater** | Ch 17 (named) | **3D** + ethereal | Machines / armor OS | Greater Runes 101, bulky greater scroll pages, cult monolith / forge primes, levitation plates, full runic armor, turrets / golems, scanning / divine detectors (mid–late Source) |
+| **Grand** | Ch 38 | **Arrays** of greater units | Infrastructure | Vault doors, warp-gate slabs, academy tier-4 doors; bronze melts under grand pour; years per piece; vaulted dwarven secrets |
+| **Legendary** | Ch 18 (named) | Myth / singular | History pieces | Fables; joke promise of legendary daggers; almost never lived craft on-page |
+
+1. **Lesser Rune** - Lowest main band. **Basic Rune Mastery** discounts **activation** on this rank only (−10%/level; not setup). Basic Runecraft covers Lesser setup (`RuneSetup.md`). Solo scrolls weak; metal + timing is where lessers bite. First metal setup pour can rival several common Fire Arrow scrolls in mana (Ch 35 ladle feel).
+2. **Common Rune** - Working economy band. Harder scribing than Lesser; shared arrow-body across elemental arrows. Scribing ~L4 before commons feel manageable. Highest Common ≈ half-step into Greater (Ch 22 Percival).
+3. **Greater Rune** - High-tier; major study topic ("Greater Runes 101"). Hard to shrink; special ink / large parchment. Source: Greater↔Grand parallels Lesser↔Common in complexity. Dwarf feel: at most one greater on whole armor; few charges then burnout.
+4. **Grand Rune** - Above Greater. Infrastructure, not belt knives. Common bronze cannot hold grand (Ch 38 metals talk). Mithril / exotics for greater and grand hosts.
+5. **Legendary Rune** - Top named rank. Mostly fables (Ch 18). Off the normal class syllabus.
+
+Each rank uses sub-grades (Lowest / Low / Intermediate / High / Highest). First seen: Chapter 2. Chapter 18: a Lesser rune at Highest is roughly comparable to a Common rune at Lowest (matches score s = 1 in `RuneSystem.md`). Highest on a Common sits near a jump into Greater (Chapter 22 Percival). Comet / shooting-star logo is Roland's early scroll brand (High/Highest Common Fire Arrows).
+
+**Roland craft reach (rewrite solid through ~Ch 80; later Source):** Lesser and Common production; Greater systems mid–late Source; **no confirmed personal Grand or Legendary forge** through ~700. Studied ≠ made (watcher Detonation, Sahildr Impact, shop borrows).
 
 **Bracket quality on named items:** `[item craft quality, rune quality]` when two tokens appear (e.g. `[Intermediate, Highest]`). A single token is rune quality alone (e.g. `[Highest]` schematic). "High rune on crude iron" style prose is the same split.
 

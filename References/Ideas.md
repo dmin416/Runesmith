@@ -1,6 +1,6 @@
 # Ideas
 
-> **Direction loot.** Locked law lives in live hubs (Progression.md, OpenFixes.md, People, World, Runes). Notes below are rewrite direction history, not a second canon.
+> **Direction loot.** Locked law lives in live hubs (Progression.md, OpenFixes.md, People, World, Runes). Notes below are rewrite direction history, not a second canon. Stuck for arc / hook shapes: `AnimePlots.md` (inspiration only).
 
 Rewrite directions for this project. Source is loot, not a script. Reader stop point for taste: about Chapter 69.
 
@@ -50,7 +50,7 @@ Unlocked invent seed: `World/Science/Invent/Printing.md`. Era line: `World/Tech/
 
 ### World laws: skill levels
 
-Live lock: `Progression/Progression.md` and `Progression/Levels.md`. L1–L9 hard cap, then evolve. Technique scale (L5 amateur, L7 professional, L9 pinnacle) is in `Levels.md`.
+Live lock: `Progression/Progression.md` and `Progression/RaceMult.md`. L1–L9 hard cap, then evolve. Technique scale (L5 amateur, L7 professional, L9 pinnacle) is in `RaceMult.md` / `SkillRanks.md` / `ClassPackages.md` / `ExperienceCurve.md`.
 
 **Skill evolution prefixes (full scheme, rough convention):**
 
@@ -83,13 +83,13 @@ Lock: `Runes/Nature.md`. Short form:
 
 Align with `Runes/Runes.md`. Five rune ranks, low to high:
 
-1. **Lesser**
-2. **Common**
-3. **Greater**
-4. **Grand**
-5. **Legendary**
+1. **Lesser** - linear personal kit
+2. **Common** - shared modules / sellable product
+3. **Greater** - 3D machines / armor OS
+4. **Grand** - arrays / infrastructure
+5. **Legendary** - fable / nation myth
 
-Craft skills, Mastery, and what a class can safely write track these five ranks. Sub-grades (Lowest → Highest) can still sit inside a rank.
+Craft skills, Mastery, and what a class can safely write track these five ranks. Sub-grades (Lowest → Highest) glue ranks (Highest N ≈ Lowest N+1). Ladder feel, examples and projections: `Runes/Nature.md`, `Runes/Runes.md`, `Runes/RuneSystem.md` (Story feel). Joule ceilings stay in `RuneSystem.md` Rank Scale.
 
 ### Skill usefulness (anti Source padding)
 
@@ -121,7 +121,7 @@ Optional extras on the same skill later: comprehension gates for that rank, fewe
 
 **Early mana law (Ch 1–70):** running out of mana in fights and while crafting basic runes is a main tension. **Rune Mastery** and **Mana Reinforcement** both use the shared ladder **-/+10% per level, 90% cap**. Mastery cuts activation cost; Reinforcement turns mana into body stats while the pool lasts and drops when he is empty. Regen and fewer failed crafts still carry day-to-day survival. Lesser setup at L1 is about 900 mana and about 45 min at 20 mana per minute (`Runes/RuneSetup.md`). Bare adult MP is **210** (`Progression/Attributes.md`). Do not use a 2000 pool.
 
-Same bar for **build** skills: Marksmanship changes hit chance and kit design. Analyze shows real formulas. Hastened Reading cuts real grind time. If the number is too small to matter at L1–L9, raise it or change the effect. **Flavor skills** (Cooking, Technology, Acting, Basic Mathematics, Map Reading, and similar) stay soft and behind the scenes; do not force combat math onto them. **Sleep Resistance** is the light exception: −10% sleep need per level, evolve → Sleep Immunity down to a 1% floor (`Progression/Skills.md`).
+Same bar for **build** skills: Marksmanship changes hit chance and kit design. Analyze shows real formulas. Hastened Reading cuts real grind time. If the number is too small to matter at L1–L9, raise it or change the effect. **Flavor skills** (Cooking, Technology, Acting, Basic Mathematics, Map Reading, and similar) stay soft and behind the scenes; do not force combat math onto them. **Sleep Resistance** is the light exception: −10% sleep need per level, evolve → Sleep Immunity down to a 1% floor (`Progression/Skills.md`). Unread Resistance→Immunity→Fused park (thermal / kinetic / bodily + breath/aim/heal; conflicts noted): `Progression/ResistanceImmunitySystem.md`.
 
 ### Mana tree: Telekinesis / Mage Hand (passive, Tier 2+)
 

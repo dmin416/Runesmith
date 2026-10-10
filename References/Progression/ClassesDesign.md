@@ -1,6 +1,6 @@
 # Classes
 
-> **Design loot.** Live locks: Progression.md (XP / tiers / reclass; `50 × L × RaceMult`), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. Levels.md holds live RaceMult table; Ch 4-19 XP ledger locked in ../../Story/Notes/Experience.md. Diagnosis is the live skill name (Old Debugger).
+> **Design loot.** Live locks: Progression.md (XP / tiers / reclass; `50 × L × RaceMult`), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. RaceMult: `RaceMult.md`; XP curve: `ExperienceCurve.md`; skill ranks: `SkillRanks.md`; packages: `ClassPackages.md`; Ch 4-19 ledger: ../../Story/Notes/Experience.md. Diagnosis is the live skill name (Old Debugger).
 
 
 Named game-system classes in the story. Deduped from Source status screens, books and theory talk. Spelling variants noted. See `RolandClasses.md` for Roland’s path only.
@@ -12,7 +12,7 @@ Classes go from **Tier 1 through Tier 5**.
 | Tier | Role in the story |
 |---|---|
 | 1 | First ascension. Level cap 25 before moving on. |
-| 2 | Common next step. Normal growth about ×1.5; prestige Lords ×2. Forward-only on new levels; see `Levels.md`. |
+| 2 | Common next step. Normal growth about ×1.5; prestige Lords ×2. Forward-only on new levels; see `ClassPackages.md`. |
 | 3 | Major power jump. Most late cast. Normal about ×3; High-Lord ×4; Overlord ×4.5. Forward-only on new levels. |
 | 4 | Living elite (dukes, headmistress-tier). Roland has not reached this. |
 | 5 | Legendary / historical peak (e.g. Arch Magus Eldoria said to have reached Tier Five). |
@@ -25,7 +25,7 @@ No Tier 6 class tier is established for people.
 
 The basic Tier 1 set most people receive on first ascension. First named together: Chapter 4.
 
-Each level in that class grants **+1** to each listed attribute at Tier 1 (growth rate ×1). Higher tiers scale the package; see `Levels.md`.
+Each level in that class grants **+1** to each listed attribute at Tier 1 (growth rate ×1). Higher tiers scale the package; see `ClassPackages.md`.
 
 | Class | Broad band | Stats per level (T1) |
 |---|---|---|
@@ -38,7 +38,7 @@ Each level in that class grants **+1** to each listed attribute at Tier 1 (growt
 
 Chapter 4 prose also notes Mage leans on Intelligence (attack / mana) and Willpower (concentration / mana regen), which matches the package. Ascension stones can be bought after the first freebie; later uses need a trial. Tier 2 unlocks need at least one maxed Tier 1 (among other requirements). Books claim the first class is auto-assigned from stats/skills; Roland’s Chapter 5 space still lets him confirm Mage. Used first-ascension crystal turns to dust.
 
-More Tier 1 classes exist. World talk groups them as **combat**, **production** and **support**, then into specialized lines. Other T1 packages (e.g. Mana Scribe) are in `Levels.md`.
+More Tier 1 classes exist. World talk groups them as **combat**, **production** and **support**, then into specialized lines. Other T1 packages (e.g. Mana Scribe) are in `ClassPackages.md`.
 
 ### Combat basics
 - **Warrior** – First seen: Chapter 4–5. Common T1; feeds many knight paths.

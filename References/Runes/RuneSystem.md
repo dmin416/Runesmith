@@ -52,7 +52,30 @@ Stages 8 and 9 appear only at rune score above 1 (Common Low and up). Lesser run
 | Grand | 10 MJ to 1 GJ | A system of machines | Steam locomotive on a 10 minute run (0.9 GJ at 1.5 MW). Factory boilers. |
 | Legendary | 1 GJ to 100 GJ | A whole vessel | Locomotive on an hour-long run (5.4 GJ). Airship on an 8 hour leg at 3.3 MW (95 GJ). Fortress-wide wards. |
 
-**Lesser size (set by crafter skill).** Even at low skill a Lesser rune fits easily on a paddle just under tennis racket size or on a single sword. With skill it fits a dagger. At the top of the basic skill (L9) it fits a playing card or an arrow, about the smallest any rune gets. Compression keeps the ceiling and cuts overrun headroom (canon: overload headroom drops).
+### Story feel (Source + rewrite; ignore joules)
+
+Companion worldview: `Nature.md`. Named first-seens: `Runes.md`. This table is **what the ranks do on-page**, separate from the ceiling digits above.
+
+| Rank | Geometry | Job home | On-page / Source examples | Gates |
+|---|---|---|---|---|
+| **Lesser** | Linear chain | Personal kit | Impact, Detonation, Fire Orb, resists, Fortitude, Scorching, Slash/Thrust, Slot, mines | Basic Mastery / Runecraft cover Lesser. Solo paper weak |
+| **Common** | Shared modules | Product / weapon | Fire Arrow brand, Frost/Gale Arrow, Hardening+Impact, Detect Life, shield scrolls, paddles | Harder scribe; Highest ≈ toe of Greater (Ch 22) |
+| **Greater** | 3D + ethereal | Machine / armor OS | Greater Runes 101, bulky pages, monoliths, levitation, full armor, golems/turrets, scanning | T3 smith band; hard shrink; ~1 greater per suit (dwarf feel) |
+| **Grand** | Arrays of greater | Infrastructure | Vaults, warp gates, academy doors; years per piece | Bronze melts; exotic hosts; vaulted secrets |
+| **Legendary** | Myth / singular | History | Named in fables; almost no lived craft | Off syllabus |
+
+**Ladder rules that survive without the joule table:**
+
+1. Subgrades glue ranks (Highest N ≈ Lowest N+1).
+2. Each rank adds a geometry axis (linear → modules → 3D → arrays → myth).
+3. Jobs migrate off the body (gear → systems → doors/fortresses → politics).
+4. Host metal and charge burnout gate before raw Intelligence.
+5. Efficiency merges (~5% when combining runes) matter more as systems grow.
+6. Roland: reverse-engineer samples and push **quality within rank**; do not skip ranks by shouting.
+
+**Projections for rewrite beats:** Highest Common scrolls should feel near weak Greater spell-scrolls. Hard couples need Common+ or Greater geometry. Grand crafts look like rooms / gates / workshop hearts. Legendary changes politics or stays rumor.
+
+**Lesser size (set by crafter skill).** Even at low skill a Lesser rune fits easily on a paddle just under tennis racket size or on a single sword. With skill it fits a dagger. At the top of the basic skill (L9) it fits a playing card or an arrow, about the smallest any rune gets. Compression keeps the ceiling and cuts overrun headroom (canon: overload headroom drops). Greater and above resist that shrink path without ethereal / compression leaps (Source: bulky greater pages).
 
 **Power source (proposed).** Lesser runs on the wielder. Street bare all-15 MP is **210** (`../Progression/Attributes.md`). At clean feel and open ground that is only a few kJ of paid input, so Common High / Highest and everything above need stone banks and ambient intake. Larger machines carry intakes sized to the machine and draw more (`Energy.md`: draw capped by intake size and local density). The wielder pays only the fixed start cost. Steam picture: the wielder opens the valve and the environment is the boiler.
 

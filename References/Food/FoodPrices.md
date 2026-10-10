@@ -1,10 +1,10 @@
 # Food Prices
 
-> **Design price book** for food and drink. Wealth / never-eaten locks: `Food.md`. Spirits process: `FoodDesign.md`. Currency ladder: `../World/Society/Economy.md` / `EconomyDesign.md`.
+> **Design price book** for food and drink. Wealth / never-eaten locks: `Food.md`. Spirits process: `FoodDesign.md`. Currency ladder: `../World/Society/Economy/Economy.md` / `EconomyDesign.md`.
 
 ## Prices
 
-Labor-days method: `../World/Society/EconomyDesign.md` (unskilled mid **~7.5 LC/day**).
+Labor-days method: `../World/Society/Economy/EconomyDesign.md` (unskilled mid **~7.5 LC/day**).
 
 | Item | Historical price | LC value |
 |---|---|---|

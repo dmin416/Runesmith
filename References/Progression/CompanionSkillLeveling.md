@@ -1,6 +1,6 @@
 # Companion Skill Leveling
 
-> First worked for **Ned** (Needle Worm). Action-count grind, not hours. People skill hard-cap L9 then evolve still applies (`Skills.md` / `Levels.md`). Exit locks: `../../Story/Notes/NedStatus.md`. Character: `../People/Ned.md`.
+> First worked for **Ned** (Needle Worm). Action-count grind, not hours. People skill hard-cap L9 then evolve still applies (`Skills.md` / `SkillRanks.md`). Exit locks: `../../Story/Notes/NedStatus.md`. Character: `../People/Ned.md`.
 
 ## Model (Ned-first)
 

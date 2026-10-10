@@ -43,7 +43,7 @@ Terra uses Earth-like layer heights and weather physics. Open-air mana follows *
 - Temperatures reach 2,000 to 3,600°F or more, yet it would feel freezing because the gas is so thin
 - Auroras glow here, mostly between 60 and 200 miles
 - The Kármán line at 62 miles, the conventional start of space, sits near its bottom
-- Orbital stations sit within it around 250 miles when the story uses that band. One-person LEO budget: `LowEarthOrbitHabitat.md`
+- Orbital stations sit within it around 250 miles when the story uses that band. One-person LEO budget: `Orbit/LowEarthOrbitHabitat.md`
 - Upper boundary: the thermopause
 - Open-air mana: `P₀/P` law. Kármán about `C ~ 3×10^6`. Exobase about `C ~ 10^12`. Thermosphere scale height is large, so vacuum hardens slowly
 
@@ -108,7 +108,7 @@ Terra uses Earth-like layer heights and weather physics. Open-air mana follows *
 
 Dead satellites cannot be deorbited easily from that height. Instead they are pushed about 190 miles higher into a "graveyard orbit" to keep the geostationary belt clear.
 
-Living requirements and one-person mass budget: `GeosynchronousHabitat.md`.
+Living requirements and one-person mass budget: `Orbit/GeosynchronousHabitat.md`.
 
 ## Layer vs open-air mana (quick)
 

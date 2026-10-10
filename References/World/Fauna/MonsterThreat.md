@@ -1,6 +1,6 @@
 # Monster Narrative Threat vs Human
 
-> Species threat dial for prose. XP: `../../Progression/Levels.md` (`RaceMult`). Early ladder: `Creatures.md`. Fat cards: `CreaturesDesign.md`.
+> Species threat dial for prose. XP: `../../Progression/Levels.md` (`RaceMult`). Early ladder: `Creatures.md`. Fat cards: `Design/CreaturesDesign.md`.
 
 **Axis:** narrative threat is how dangerous one adult specimen is to untrained average humans, counting body, venom, pack tactics and magic; an average unarmed adult human = **1.0** and the cap is **20**.
 

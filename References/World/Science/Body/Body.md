@@ -1,6 +1,6 @@
 # Body
 
-Living-body anchors for heat, limbs, stealth and teeth. Cast law: `../../../Runes/Energy.md`. Grill / resistance grind ties Progression. Hub: `../Science.md`.
+Living-body anchors for heat, limbs, stealth and teeth. Cast law: `../../../Runes/Energy.md`. Grill / resistance grind ties Progression. Hub: `../Science.md`. Extra-limb attention / Multitasking budget: `FocusCapacity.md`. Launch math: `../Energy/Kinetic.md`, `../Energy/Projectiles.md`. Nav: `Index.md`.
 
 ## Narrative
 

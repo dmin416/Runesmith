@@ -100,5 +100,5 @@ Hand bellows and forge blowers are axial / radial craft. Magitech can hit centri
 
 ## Open
 
-- Pull CloakAirCooling into this folder or Science when personal cooling returns
+- Personal compress-expand cooling: `Compression.md` (cloak air cooling)
 - Pump counterpart: MostRecentNotes `pump-technology.md`

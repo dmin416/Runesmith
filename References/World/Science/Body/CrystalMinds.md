@@ -1,8 +1,8 @@
 # Human Brains, Language Models and Crystal Minds
 
-Hub: `../Science.md`. Mental capacity (N men): `FocusCapacity.md`. Vision brain anchors and fiction scaling: `Vision360.md`.
+Hub: `../Science.md`. Mental capacity (N men): `FocusCapacity.md`. Vision processing cost tables: `Vision360.md`. Self-improvement ignition, multi-state digits and architecture throughput: `CrystalComputerMath.md`. Octonary diamond substrate, heat walls and programming: `OctonaryCrystalBrain.md`. Motor recall vs practice: `MindBodySkill.md`. Nav: `Index.md`.
 
-**Status:** big holding file. Overlaps with FocusCapacity / Vision360 on neuron counts, watts and conscious bits/s; rearrange later.
+**Status:** holding file. **Owns** Earth brain / LLM anchors (Part 1) and story crystal rules (copies, segments, calculator/assistant paths). FocusCapacity and Vision360 cite Part 1; they do not redefine neuron / watt / bits/s here. Architecture comparison → `CrystalComputerMath.md`. Substrate deep dive → `OctonaryCrystalBrain.md`.
 
 ---
 

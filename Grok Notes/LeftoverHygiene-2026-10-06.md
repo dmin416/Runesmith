@@ -161,7 +161,7 @@ Dusty shelf runic Fire Arrow (2 LS) is vanity markup over regular word Fire Arro
 
 ### 6. Optional: EconomyDesign Spiked Boar stone
 
-**Where:** `References/World/Society/EconomyDesign.md` (approximate line in Spiked Boar/Wereboar section)
+**Where:** `References/World/Society/Economy/EconomyDesign.md` (approximate line in Spiked Boar/Wereboar section)
 
 **What's wrong:** Prices Spiked Boar / Wereboar chest at **100 LC (1 LS)** as leader-sized shorthand, but doesn't cite the body-size mod law.
 

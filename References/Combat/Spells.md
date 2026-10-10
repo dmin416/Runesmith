@@ -78,7 +78,7 @@ Chanted large fire storm.
 
 ### Fire Arrow / Firebolt Arrow
 First seen: Chapter 20 (shop scrolls)
-Tier 2 fire projectile. Shop and runic prices, including Grimboodle's dusty shelf and fair High: `../Runes/ScrollEconomy.md` and `../World/Society/PriceCatalog.md`. Power depends on the maker and the materials. A Runesmith has to produce the runic form.
+Tier 2 fire projectile. Shop and runic prices, including Grimboodle's dusty shelf and fair High: `../Runes/ScrollEconomy.md` and `../World/Society/Economy/PriceCatalog.md`. Power depends on the maker and the materials. A Runesmith has to produce the runic form.
 
 ### Fireball
 First seen: Chapter 20 (shop talk)

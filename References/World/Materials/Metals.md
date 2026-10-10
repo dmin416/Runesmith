@@ -4,7 +4,7 @@
 
 ## Narrative
 
-Metals convert under mana concentration. Temporary charge bleeds off. Permanent conversion starts past a conductivity threshold and rises with time and soak. Names are **bands on one conversion meter**, not separate Earth elements. Living foundry / metal-slime conversion vessel: `../Fauna/Slimes.md`.
+Metals convert under mana concentration. Temporary charge bleeds off. Permanent conversion starts past a conductivity threshold and rises with time and soak. Names are **bands on one conversion meter**, not separate Earth elements. Living foundry / metal-slime conversion vessel: `../Fauna/Species/Slimes.md`.
 
 ## Detail
 

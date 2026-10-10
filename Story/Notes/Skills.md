@@ -2,7 +2,7 @@
 
 Roland's skills, traits and titles by chapter. Follow `CrossCheck.md`.
 
-**Rewrite rules:** skill technique ranks by age in `References/Progression/Progression.md`. Attribute bonus from a skill = **+1 × current skill level** per favored attribute (`References/Progression/Levels.md`). Sheet buckets in `StatusBreakdown.md`.
+**Rewrite rules:** skill technique ranks by age in `References/Progression/Progression.md`. Attribute bonus from a skill = **+1 × current skill level** per favored attribute (`References/Progression/SkillRanks.md`). Sheet buckets in `StatusBreakdown.md`.
 
 Trait Int/Will bonuses are flat cards. They sit in the Skills/Traits bucket with skill level bonuses (`StatusBreakdown.md`). Body Int/Will come from `Progression.md` adult-mind track (age 5: Int 12, Will 15).
 
@@ -161,7 +161,7 @@ No new skills listed. Mana Sense is the dinner reveal. Library reading begins; R
 
 ## Chapter 4
 
-Mana Sense reaches L4 (Intelligence +4). Continues toward max for mage path (maxed before ascension in Chapter 5). Books say **L10** guarantees Mage; rewrite hard cap is **L9** then evolve (`Levels.md`).
+Mana Sense reaches L4 (Intelligence +4). Continues toward max for mage path (maxed before ascension in Chapter 5). Books say **L10** guarantees Mage; rewrite hard cap is **L9** then evolve (`SkillRanks.md`).
 
 Early physical training unlocks (named in chapter):
 - Basic Running (after running) → Endurance
@@ -170,7 +170,7 @@ Early physical training unlocks (named in chapter):
 
 Leveling those Basics: he runs faster, jumps higher and punches harder (technique), and gets Endurance / Strength attribute bonuses.
 
-**Climbing experiment (~half year in):** same tree. L1 on first successful climb. L2 after ~10 more. L3 after ~50 total. Roland treats this as an achievement-threshold curve (harder each rank). See `Levels.md` practice thresholds.
+**Climbing experiment (~half year in):** same tree. L1 on first successful climb. L2 after ~10 more. L3 after ~50 total. Roland treats this as an achievement-threshold curve (harder each rank). See `SkillRanks.md` practice thresholds (`SkillRanks.md`).
 
 **Unlock rules shown:**
 - Toy ball against a wall: no throwing skill. Rock + training dummy: Basic Throwing.
@@ -295,7 +295,7 @@ House lore this chapter: battle classes raise Vitality and slow aging; pure hous
 
 Opens ~**3 months** after Mage. Weekly estate fights had escalated to **two** L1s (`Experience.md` **1250 / 1500** toward L4). On-page: Mana Bolt + short sword vs the last training pair (chant required; spoken clear, sword arm ready). Pockets a tiny mana stone. Takes calligraphy books for the Scribe path.
 
-Basic combat skills on the train screen are **live** now (Source had all L9 combat Basics, no Throwing, Leather L4, “class restriction” wall). L9 is the hard skill-name max then evolution (`Levels.md`), not a Mage lock. On-page targets from `Progression.md` age-10 technique table:
+Basic combat skills on the train screen are **live** now (Source had all L9 combat Basics, no Throwing, Leather L4, “class restriction” wall). L9 is the hard skill-name max then evolution (`SkillRanks.md`), not a Mage lock. On-page targets from `Progression.md` age-10 technique table:
 
 | Skill | Level | Attribute bonus |
 |---|---|---|
@@ -376,13 +376,13 @@ No new traits. First paid hunt. Ending: adventure / meal / rest steps (not Sourc
 
 ## Chapter 9.5
 
-Three-month Carwen grind. Goblins track Roland’s overall level. Field-use curve: `Levels.md` (**1 / 10 / 50 / 200 / 1,000 / 5,000 / 20,000 / 100,000 / 500,000**, evolve at **2,000,000**). Technique clean-rate ~**40%**. Absorption/Reinforcement ~**70%** on mana-spend pulses. Peak use accelerates the timeline (mostly narrative; he hunts and drills at the edge he can hold). Foundations (**Shaping / Incantation / Regulation**) climb on peak ceiling work as well as casts. Combat spells stay volume-honest. **Recounted** under that curve. **No skill evolves this skip** (evolve needs **2,000,000**). Names hard-cap at **L9**.
+Three-month Carwen grind. Goblins track Roland’s overall level. Field-use curve: `SkillRanks.md` (**1 / 10 / 50 / 200 / 1,000 / 5,000 / 20,000 / 100,000 / 500,000**, evolve at **2,000,000**). Technique clean-rate ~**40%**. Absorption/Reinforcement ~**70%** on mana-spend pulses. Peak use accelerates the timeline (mostly narrative; he hunts and drills at the edge he can hold). Foundations (**Shaping / Incantation / Regulation**) climb on peak ceiling work as well as casts. Combat spells stay volume-honest. **Recounted** under that curve. **No skill evolves this skip** (evolve needs **2,000,000**). Names hard-cap at **L9**.
 
 **Unlock path (prose):** outside-body mana hold → Willpower. Ambient pull → **Mana Absorption** + **Mana Regulation**. Same breath forced into blood/bone as a store → **Mana Reinforcement** (self-taught; takes longer than a book buy; same store skill as common dealer books). **Basic Dodging** unlocks month 1 when he clears clubs/spears on purpose. **Mana Arrow** sticks/pillow drills after late month-1 unlock. **Mana Shield** chalk-line circle drills after month-2 unlock. Heat / Mana Hands stay evening self-discovery drills.
 
 ### Combat end ranks (~90 days, **1,000** kills; mana cycled all day)
 
-Volume anchors (`Levels.md`): Bolt ~**1,550–2,500** finished; Arrow ~**540–800**; Shield ~**180–270**; aimed Bolt+Arrow ~**2,100+**; sword finishes ~**500** raw (~**200** clean); Dodging ~**320** clean; evening Heat/Hands light daily. Absorption/Reinforcement count small spend/refill pulses through hunt and evening ambient work (~**500,000** clean across the skip).
+Volume anchors (`SkillRanks.md`): Bolt ~**1,550–2,500** finished; Arrow ~**540–800**; Shield ~**180–270**; aimed Bolt+Arrow ~**2,100+**; sword finishes ~**500** raw (~**200** clean); Dodging ~**320** clean; evening Heat/Hands light daily. Absorption/Reinforcement count small spend/refill pulses through hunt and evening ambient work (~**500,000** clean across the skip).
 
 | Skill / spell | Start (Ch 9) | Combat end | Why |
 |---|---|---|---|
@@ -552,7 +552,7 @@ Created **Lesser Fire Orb Rune [High]** from class-trial memory (**over** 1 hour
 
 ### Train-week skill math (locked)
 
-Field-use curve (`Levels.md`): cum clean uses to reach L = **1 / 10 / 50 / 200 / 1,000 / 5,000 / 20,000 / 100,000 / 500,000**. Evolve at **2,000,000**, when the ability surpasses itself. Peak use (regen ceiling, real blister/frost, longest holds he can keep) accelerates the week; mostly narrative on top of the counts. Technique skills ~**40%** clean on raw attempts. Soft mana clicks count near **100%** clean (deliberate pulse). Resistance exposures are dose-gated (repeats of the same burn/frost still count but slow after the first days). Absorption / Reinforcement / Hands / Sense already **L9**.
+Field-use curve (`SkillRanks.md`): cum clean uses to reach L = **1 / 10 / 50 / 200 / 1,000 / 5,000 / 20,000 / 100,000 / 500,000**. Evolve at **2,000,000**, when the ability surpasses itself. Peak use (regen ceiling, real blister/frost, longest holds he can keep) accelerates the week; mostly narrative on top of the counts. Technique skills ~**40%** clean on raw attempts. Soft mana clicks count near **100%** clean (deliberate pulse). Resistance exposures are dose-gated (repeats of the same burn/frost still count but slow after the first days). Absorption / Reinforcement / Hands / Sense already **L9**.
 
 **Mana rule:** practice at the **regen ceiling**. Keep the pool near **~99%** (max ambient pull). Soft cabin clicks barely spend, so the grill soaks the surplus: hotter / colder / denser patches and longer holds until draw matches Regulation refill. Potion when Recovery lags so he does not idle on unused regen. Seated Regulation L7 band ≈ **empty→full in a few hours** (~**13–16 mana/min** on his Ch 19 pool).
 

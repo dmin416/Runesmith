@@ -15,6 +15,7 @@
 
 ## Files
 
+- [AnimePlots.md](AnimePlots.md). Inspiration only. Anime/manga plot summaries plus hooks, creatures and occurrences when stuck for ideas.
 - [Handoff.md](Handoff.md). You are continuing the Runesmith rewrite foundation in c:\Users\Admin\Desktop\Main\Runesmith.
 - [Ideas.md](Ideas.md). Rewrite directions for this project. Source is loot, not a script. Reader stop point for taste: about Chapter 69.
 - [LinkList.md](LinkList.md). Scraped 2958 file links and URLs. Backtick math was not counted.

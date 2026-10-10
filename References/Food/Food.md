@@ -61,9 +61,9 @@ Same pushed harder: rare game, heavy spice, banquet theater. Out-of-season produ
 
 Potato, tomato, maize, chili, squash, turkey, chocolate and coffee exist where the story needs them. No Earth discovery gate. Plant and process: `CoffeeAndChocolate.md`.
 
-Rough spirits reach the poor. Aged quality spirits mark craftsman / small merchant (tier 3) and up. Distill / liqueur process: `FoodDesign.md` (Steam-era spirits and liqueurs). Tavern prices: `../World/Society/Economy.md`.
+Rough spirits reach the poor. Aged quality spirits mark craftsman / small merchant (tier 3) and up. Distill / liqueur process: `FoodDesign.md` (Steam-era spirits and liqueurs). Tavern prices: `../World/Society/Economy/Economy.md`.
 
-Monster meat tastes good but **spoils fast**. Eat, preserve (smoke/salt), mage-freeze, or use cookware tricks soon after the kill. Ordinary tables can eat game-like cuts when markets move it quickly. **Never eaten:** goblins (and goblin-kin), ghouls, zombies, liches and other undead. Parts and stones only where those drop. Nobody cooks that. Potency-preserving pans (proposal): `MagicalMeatCookware.md`.
+Monster meat tastes good but **spoils fast**. Eat, preserve (smoke/salt), mage-freeze, or use cookware tricks soon after the kill. Ordinary tables can eat game-like cuts when markets move it quickly. **Never eaten:** goblins (and goblin-kin), ghouls, zombies, liches and other undead. Parts and stones only where those drop. Nobody cooks that. Diet-stored toxins (Earth research; why captive / farmed animals go mild): `../World/Fauna/ToxinSequestration.md`. Potency-preserving pans (proposal): `MagicalMeatCookware.md`.
 
 ### Inn rule
 

@@ -1,6 +1,6 @@
 # Structural Forge
 
-Hammers, beams, pipe, swords, steel grades and bronze. How a small shop with vacuum seam fusion punches above a rolling mill. Copper tube detail: `CopperPipe.md`. Vacuum craft: `Vacuum.md`. Overheat: `OverheatedMetals.md`.
+Hammers, beams, pipe, swords and vacuum-seam structure. How a small shop with vacuum seam fusion punches above a rolling mill. Copper tube detail: `CopperPipe.md`. Vacuum craft: `Vacuum.md`. Overheat: `OverheatedMetals.md`. Carbon grades / HT recipes: `CommonAlloys.md`. Coal-shop HOWTO: `TraditionalBlacksmithing.md`. Product economics: `BlacksmithProducts.md`.
 
 ## Narrative
 
@@ -50,42 +50,11 @@ Copper pipe (hand wrap + fuse friendly): see `CopperPipe.md`. Vs steel: copper w
 
 Forge ~1100–1200 °C. Medium–high carbon ~0.6–0.8%. Quench harden, temper ~200–300 °C. Optional trip / pneumatic hammer. One smithy. Same vacuum shop that builds beams can still make blades; carbon grade differs (structural mild vs blade high-carbon).
 
-### Steel carbon ladder
+### Steel and bronze pointers
 
-| Band | C (approx.) | Job |
-|---|---|---|
-| Wrought iron | <0.08% + slag fibers | Soft, tough, easy forge-weld |
-| Mild / low | 0.05–0.25% | Beams, pipe, plate |
-| Medium | 0.3–0.6% | Axles, tools, hammer heads |
-| High | 0.6–1.0% | Swords, knives, springs |
-| Ultra-high | 1.0–2.0% | Files, wootz, specialty |
-| Cast iron | >2% | Cast only. Not forgeable |
+Carbon bands, HT and temper colors: `CommonAlloys.md` / `TraditionalBlacksmithing.md`. Grade physics: `EarthAlloys.md`. Structural work here uses mild / low-C plate (~0.2–0.25% C); blades use medium–high carbon (~0.6–0.8%).
 
-**Heat treat:** harden (above ~750–850 °C, quench) → temper (150–650 °C trade hardness for toughness). Anneal = slow cool soft. Normalize = air cool grain refine.
-
-**Make steel (era ladder):** bloomery → crucible / cementation → blast + fine/puddle → Bessemer / open hearth → BOF / EAF. Inputs: ore, charcoal or coke, limestone flux, refractories, air blast.
-
-### Bronze
-
-Cu + Sn. Classic ~88/12. Melt ~950 °C (below copper). Tin is the scarce trade metal.
-
-| Alloy feel | Sn | Note |
-|---|---|---|
-| Tool / sword | ~10% | Work-harden edges by hammering |
-| Standard | ~12% | General cast |
-| Bell | ~20–25% | Hard, brittle, rings |
-
-No quench harden. Work harden only. Heavier than steel (~8.8 vs 7.85). Weaker / less stiff → short or leaf blades historically. Cast detail wins.
-
-| | Bronze | Steel |
-|---|---|---|
-| Melt | ~950 °C | ~1370–1510 °C |
-| Shape | Cast | Forge / roll |
-| Harden | Cold hammer | Quench + temper |
-| Corrosion | Patina | Rusts |
-| Ore | Cu + rare Sn | Iron almost everywhere |
-
-Vacuum fuse: bronze–bronze structures; bronze–steel hybrids (blade + fittings, shaft + bearing). Wet galvanic: steel side dies faster → coat or isolate.
+Bronze recipes: `CommonAlloys.md`. Cast detail wins; no quench harden; work-harden edges only. Vacuum fuse bronze–bronze or bronze–steel hybrids (blade + fittings, shaft + bearing). Wet galvanic: steel side dies faster → coat or isolate.
 
 ### Caldris invent filter
 

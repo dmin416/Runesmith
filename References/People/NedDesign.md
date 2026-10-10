@@ -1,11 +1,11 @@
 # Ned Design
 
 **Design loot** for Roland+Ned training beats and diet grind color. Character lock: `Ned.md`.
-- Species body / combat math: `../World/Fauna/NeedleWorm.md`
+- Species body / combat math: `../World/Fauna/Species/NeedleWorm.md`
 - Companion skill actions: `../Progression/CompanionSkillLeveling.md`
 - Hemolymph as food: `../Food/Hemolymph.md`
 - Powder acid invent: `../World/Science/Energy/GunpowderFirearms.md`
-- Powder gland layout: `../World/Fauna/NeedleWorm.md`
+- Powder gland layout: `../World/Fauna/Species/NeedleWorm.md`
 - Image prompts: `../../Story/Notes/NedVisualPrompts.md`
 - Silk: `../World/Science/Biomaterials/BiologicalSilks.md`
 - Mounts: `../World/Fauna/Mounts.md`
@@ -16,11 +16,11 @@ Lock: `Ned.md`. Leaves, discarded parts, parsleaves, magic biology, about **150 
 
 Eats various **leaves** and discarded **monster parts**. Hides a preferred leaf stash: those leaves are a **mild poison source** (weaker than his spikes) with a vibrant refreshing aroma like **parsley** (**parsleaves**). Roland samples one afternoon and locks that link. Besides occasionally harvesting Ned’s ever-growing **needles** and **blood**, Roland also **dries and stockpiles** parsleaves. Planned later: detachable back **gel nodules** (nodule skin → magical hide; gel fluid → magical ink). After Roland harvested Ned’s blood for BBQ seasoning, Ned pressed to know why; Roland started feeding him small drips of his own blood via Mana Hands (Ch 13). Ned does not taste like a humanoid: he mainly senses how much power the flesh holds and the experience it grants. Monsters can level by eating (unlike humanoids who need actions); that feeds their presence and faster climb. Roland only feeds his blood in-room (**150 mL**/day whole blood, about **5 oz**); he uses Ned’s blood and needles as seasoning and keeps the skill-leveling cheat quiet. Worm blood is armpit-smelling but incredibly nutrient-rich even when Ned only ate magic stones; Roland extracts as much as he wants comfortably. That **150 mL** is total volume (plasma + cells). At ~40–45% hematocrit it is only **~60–70 mL** of red cells, which sits inside Ch 13 rewrite daily RBC restore (**50–83 mL**/day; `../Progression/Progression.md`). Plasma side refills in hours at his M. Sleeps with Ned as a cool ectothermic pillow. He talks to Ned as an outlet for self-talk: future plans, skill thought process, training ideas (sneaking, throwing, adapting, healing and more). Dislikes bark-colored **Needle Moths**; shows Ned how weak that evolution line is while feeding him poisonous wings and occasionally stones. Drills the vision: speed, penetration, toughness, recovery, poison, stealth, ranged attack. After taming, Ned can pass **stair throats** (wild monsters cannot); strangers assume a Floor-2 trophy scarf and Roland never corrects them. Once strong enough, Ned solo-hunts dungeon rats and other Needle Worms; monsters cooperate in packs but also fight each other for strength.
 
-Species biomechanics / charging body: `../World/Fauna/NeedleWorm.md`.
+Species biomechanics / charging body: `../World/Fauna/Species/NeedleWorm.md`.
 
 ## Evolution path
 
-Locked character table: Ned.md. Biomechanics / capability ramp / King-141 anchors: ../World/Fauna/NeedleWorm.md.
+Locked character table: Ned.md. Biomechanics / capability ramp / King-141 anchors: ../World/Fauna/Species/NeedleWorm.md.
 
 Wild moth line rejected. Steered worm line. Chapter locks and combat identity match Ned.md.
 
@@ -46,7 +46,7 @@ Combat priority is **close the bag fast**: living epidermis + hemolymph / glue s
 
 | Topic | Home |
 |---|---|
-| Charging body, spikes, toxins, capability tables | `../World/Fauna/NeedleWorm.md` |
+| Charging body, spikes, toxins, capability tables | `../World/Fauna/Species/NeedleWorm.md` |
 | Skill action / aptitude model | `../Progression/CompanionSkillLeveling.md` |
 | Hemolymph complete-food design | `../Food/Hemolymph.md` |
 | Ned acid / powder feedstock | `../World/Science/Energy/GunpowderFirearms.md` |

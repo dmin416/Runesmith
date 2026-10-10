@@ -1,6 +1,6 @@
 # Atomization Energy
 
-Hub: `Materials.md`. Process / extract energy (not this floor): `MaterialPurification.md`. Ti grades: `../Science/Metallurgy/Titanium.md`, `../Science/Metallurgy/TitaniumProcessing.md`. Iron ores / Hawaiian feed: `../Geography/HawaiianMinerals.md`. Clear stocks (diamond, chitin, silicone, glass): `TranslucentMaterials.md`. Blade channel magic floor uses iron row: `../Science/Metallurgy/RunicBladeChannels.md`.
+Hub: `Materials.md`. Process / extract energy (not this floor): `MaterialPurification.md`. Ti grades: `../Science/Metallurgy/Titanium.md`, `../Science/Metallurgy/TitaniumProcessing.md`. Iron ores / Hawaiian feed: `../Geography/VolcanicIsland/HawaiianMinerals.md`. Clear stocks (diamond, chitin, silicone, glass): `TranslucentMaterials.md`. Blade channel magic floor uses iron row: `../Science/Metallurgy/RunicBladeChannels.md`.
 
 Energy to break every bond in a solid and leave free neutral atoms, with no temperature change. Theoretical bond-breaking floor, not industrial process energy.
 

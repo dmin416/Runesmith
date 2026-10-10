@@ -2,7 +2,7 @@
 
 > **When prices appear in the story.** Chronological ledger of hard coin beats and soft economy moments.
 >
-> Item-only approved prices (no chronology): `../../References/World/Society/PriceCatalog.md`.
+> Item-only approved prices (no chronology): `../../References/World/Society/Economy/PriceCatalog.md`.
 > Prefer that catalog / `EconomyDesign.md` rewrite lock when a scene needs a number. Domain books: Food, Gear, ScrollEconomy, SpatialBagPrices. Early pouch math: `CoinLedger.md`. Source reprice audit: `../../References/SourceLoot/PriceInventory.md`.
 
 ---

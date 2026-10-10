@@ -7,9 +7,9 @@ Main science index. Holds and locks: [Science.md](Science.md).
 ## Folders
 
 - [Biomaterials](Biomaterials/Index.md). Animal and Ned material process, rubber, insect stocks, wood.
-- [Body](Body/Index.md). Skin, limbs, teeth, Gut Check, falling, mind-body skill, 360 vision, crystal minds.
-- [Energy](Energy/Index.md). Stones, cast tables, batteries, engines, motors, fans, pumps, compression, flight, waves.
-- [Invent](Invent/Index.md). Century invent ladder, industrialization, paper, writing tools.
+- [Body](Body/Index.md). Skin, limbs, teeth, Gut Check, falling, speed / measurement perception, mind-body skill, 360 vision, crystal minds / computer math.
+- [Energy](Energy/Index.md). Mana stones / cast / ambient; prime movers; air and fluid; optics and waves; kinetic launch.
+- [Invent](Invent/Index.md). Century invent ladder, industrialization, paper, ink, writing tools, toilet design, perfected everyday goods.
 - [Metallurgy](Metallurgy/Index.md). Forge metals, Earth alloys, ores, vacuum, gem seats, kitchen metal.
 - [Vehicle](Vehicle/Index.md). Suspension, brakes, positions, wheels, roads, mobile home, glider.
 

@@ -1,6 +1,8 @@
 # Focus Capacity
 
-Hub: `../Science.md`. Multitasking skill and Parallel Thinking: `../../../Progression/SkillsDesign.md`. Mental attributes: `../../../Progression/Training.md`. Full-sphere vision load at N-men capacity: `Vision360.md`. Crystal / LLM / mind-copy holding file: `CrystalMinds.md`.
+Hub: `../Science.md`. Multitasking skill and Parallel Thinking: `../../../Progression/SkillsDesign.md`. Mental attributes: `../../../Progression/Training.md`. Full-sphere vision load at N-men capacity: `Vision360.md`. Crystal / LLM / mind-copy holding file: `CrystalMinds.md`. Extra-limb attention tax feel: `Body.md`. Nav: `Index.md`.
+
+**Owns:** men-worth table, Multitasking %, Parallel Thinking N. Earth neuron / watt / conscious bits/s anchors: `CrystalMinds.md` Part 1 (cite, do not redefine).
 
 **Capacity** is the absolute mental budget in **men-worth** (1× = one average adult's full deliberate mind). Multitasking and Parallel Thinking only carve and tax this number. Without capacity, their % and parallel counts are empty.
 

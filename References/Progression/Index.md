@@ -2,21 +2,36 @@
 
 Up: [References](../Index.md)
 
-## Files
+Live law first. Design loot second. Old `Levels.md` is a stub; content lives in RaceMult / ExperienceCurve / SkillRanks / ClassPackages.
 
-- [AdventurerRanks.md](AdventurerRanks.md). Guild adventurer ranks. Canon order from Source glossary (../Source/1-10.md). Population falloff: ../World/Society/Population.md. Chapter detail:
-- [AdventurerRanksDesign.md](AdventurerRanksDesign.md). Design loot. Live locks: Progression.md (XP / tiers / reclass; 50 × L × RaceMult), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md /
-- [Attributes.md](Attributes.md). Live attribute list and resource formulas. Fat blurbs / perk notes: AttributesDesign.md. XP / tiers: Progression.md. Scale tables: Training.md.
-- [AttributesDesign.md](AttributesDesign.md). Design loot. Live locks: Progression.md (XP / tiers / reclass; 50 × L × RaceMult), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md /
-- [Classes.md](Classes.md). Tier caps and reclass law: Progression.md. Fat world catalog: ClassesDesign.md. Roland path: RolandClasses.md. Source scrape: ../SourceLoot/RolandStatus.md.
-- [ClassesDesign.md](ClassesDesign.md). Design loot. Live locks: Progression.md (XP / tiers / reclass; 50 × L × RaceMult), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md /
-- [CompanionSkillLeveling.md](CompanionSkillLeveling.md). First worked for Ned (Needle Worm). Action-count grind, not hours. People skill hard-cap L9 then evolve still applies (Skills.md / Levels.md). Exit locks:
-- [Levels.md](Levels.md). Live RaceMult table below. Kill law: Progression.md (50 × killed_L × RaceMult). Ch 4-19 ledger locked in ../../Story/Notes/Experience.md. Old (49 + L) /
-- [NormalPersonSkills.md](NormalPersonSkills.md). Design loot. Live locks: Progression.md (XP / tiers / reclass; 50 × L × RaceMult), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md /
-- [Progression.md](Progression.md). Live status / XP / class foundation. Guild ranks: AdventurerRanks.md.
-- [RolandClasses.md](RolandClasses.md). Design loot. Live locks: Progression.md (XP / tiers / reclass; 50 × L × RaceMult), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md /
-- [Skills.md](Skills.md). Live skill law stays thin here and in Progression.md. Fat catalog: SkillsDesign.md. Ordinary L9 clocks: NormalPersonSkills.md. Redesign loot: SkillsRedesign.md.
-- [SkillsDesign.md](SkillsDesign.md). Design loot. Live locks: Progression.md (XP / tiers / reclass), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md
-- [SkillsRedesign.md](SkillsRedesign.md). Design loot. Live skill law: Progression.md / Skills.md. Fat catalog: SkillsDesign.md. Apply or merge when a beat needs it; not a second lock file.
-- [Training.md](Training.md). Live physical / mental age tracks, technique ranks and endurance clocks.
-- [CareerScale.md](CareerScale.md). Simple body plateau, then class and skills by effort × time. Not a lock.
+## Live
+
+- [Progression.md](Progression.md). XP, tiers, resources, reclass foundation
+- [RaceMult.md](RaceMult.md). RaceMult family table + worked kills
+- [ExperienceCurve.md](ExperienceCurve.md). Overall XP curve, schematic ladders, grind samples
+- [SkillRanks.md](SkillRanks.md). Skill L1–L9 / evolve + field-use curve + attribute pads
+- [ClassPackages.md](ClassPackages.md). Class packages, tier multipliers, forward-only
+- [Levels.md](Levels.md). Stub index only (points at the four splits; backup `Levels.md.bak`)
+- [Attributes.md](Attributes.md). Stat / resource / blood / affinity locks
+- [Classes.md](Classes.md). Tier / path thin hub
+- [Skills.md](Skills.md). Skill law thin hub
+- [AdventurerRanks.md](AdventurerRanks.md). Eight-rank guild ladder + chapter notes
+- [RolandClasses.md](RolandClasses.md). Roland planned vs attained path
+- [Training.md](Training.md). Age / technique / endurance tracks (+ Career Scale appendix)
+- [CompanionSkillLeveling.md](CompanionSkillLeveling.md). Ned-first companion action grind
+
+## Design loot / stubs
+
+- [AttributesDesign.md](AttributesDesign.md). Fat attribute blurbs
+- [ClassesDesign.md](ClassesDesign.md). Named world class catalog
+- [SkillsDesign.md](SkillsDesign.md). Named skills / traits catalog
+- [NormalPersonSkills.md](NormalPersonSkills.md). Ordinary L9 training clocks (no system acceleration)
+- [SkillsRedesign.md](SkillsRedesign.md). WIP redesign park (not a second lock)
+- [ResistanceImmunitySystem.md](ResistanceImmunitySystem.md). **Unread idea.** Resistance → Immunity → Fused (thermal / kinetic / bodily / breath / aim / heal). Conflicts noted vs live Sleep / Heat / Breath Control.
+- [AdventurerRanksDesign.md](AdventurerRanksDesign.md). Stub → AdventurerRanks.md
+- [CareerScale.md](CareerScale.md). Stub → Training.md appendix
+
+## Outside this folder
+
+- Chapter XP ledger: `../../Story/Notes/Experience.md`
+- Source status scrape: `../SourceLoot/RolandStatus.md`

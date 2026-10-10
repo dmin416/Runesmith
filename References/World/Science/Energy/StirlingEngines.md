@@ -1,6 +1,6 @@
 # Stirling Engines
 
-Hub: `Engines.md`. Open-cycle steam: `SteamEngines.md`. Reverse this machine into a cooler: `CloakAirCooling.md` is a different cold path. Shaft to volts: `Generators.md`.
+Hub: `Engines.md`. Open-cycle steam: `SteamEngines.md`. Reverse this machine into a cooler: `Compression.md` cloak air cooling is a different cold path. Shaft to volts: `Generators.md`.
 
 Robert Stirling, 1816, patented a closed hot-air engine and the regenerator he called an economiser. The gas inside never leaves. Heat enters through a metal wall at one end and leaves through a metal wall at the other. Any flame, ember, sun, geothermal spring, or heating rune can sit outside. There is no boiler drum and no exhaust of working fluid.
 
@@ -113,7 +113,7 @@ The Malone engine used a liquid working fluid near its critical point. High pres
 
 ## Reversed: refrigerator
 
-Drive the shaft and the cycle moves heat from the cold end to the hot end. Stirling coolers and their pulse-tube relatives reach cryogenic temperatures and are the reason the cycle survived commercially. On Caldris a cold rune already does this job more directly (`CloakAirCooling.md` for the air path). A reversed Stirling matters if someone wants cold without a cold rune, or wants to reach temperatures a domestic cold rune has not been asked for.
+Drive the shaft and the cycle moves heat from the cold end to the hot end. Stirling coolers and their pulse-tube relatives reach cryogenic temperatures and are the reason the cycle survived commercially. On Caldris a cold rune already does this job more directly (`Compression.md` cloak air cooling for the air path). A reversed Stirling matters if someone wants cold without a cold rune, or wants to reach temperatures a domestic cold rune has not been asked for.
 
 ## Why it loses to steam, and where it does not
 

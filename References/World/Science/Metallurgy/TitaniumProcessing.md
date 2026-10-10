@@ -1,8 +1,8 @@
 # Titanium Processing
 
-Hub: `Titanium.md`. Silica / mineral sands gear: `SilicaSand.md`. Bootstrap / low-tech metal path: `TitaniumBootstrap.md`. Hawaiian feed limits: `../../Geography/VolcanicIslandSands.md`, `../../Geography/HawaiianMinerals.md`.
+Hub: `Titanium.md`. Silica / mineral sands gear: `SilicaSand.md`. Bootstrap / low-tech metal path: `TitaniumBootstrap.md`. Hawaiian feed limits: `../../Geography/VolcanicIsland/Sands.md`, `../../Geography/VolcanicIsland/HawaiianMinerals.md`. Alloy tables: `CommonAlloys.md`. Grade physics: `EarthAlloys.md`. Element science stub: `../../Materials/MaterialsProcessing.md` §7.1. Nav: `Index.md`.
 
-Earth industrial encyclopedia: mine → concentrate → upgrade → pigment or metal → mill products. Mundane Ti metal on Terra is SPECIALTY / invent (`Titanium.md`, Materials).
+**Owns:** canon industrial mine → concentrate → pigment / sponge (Kroll) → mill. Mundane Ti metal on Terra is SPECIALTY / invent (`Titanium.md`, Materials).
 
 ## Fundamentals
 

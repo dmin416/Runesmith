@@ -67,7 +67,7 @@ Chapter 8–9: small walled town (monster defense). Gate fee 5 large copper; adv
 
 ### Carwen inn
 First seen: Chapter 9
-Cheap inn where Roland eats his first town meal and later rents a room upstairs during the Ch 9.5 goblin grind (present day in Chapter 10). Large waitress in festival-style wench dress; muscular one-eyed scarred bartender. Bard with lute. First meal: porridge + grilled meat for **5 large copper** (bland; porridge alone would be **2 LC**). Lodging quote **1 small silver**/night; +**5 large copper** breakfast; monthly ~**10%** off in Ch 9 (**30** × 1 SS = **300** → **270 LC**); same **10%** / **270 LC** through Ch 13 (Source **5%** discarded; see `../Society/Economy.md` + `EconomyDesign.md`). Keepers named Hilde (bar lady) and Boris (bartender husband).
+Cheap inn where Roland eats his first town meal and later rents a room upstairs during the Ch 9.5 goblin grind (present day in Chapter 10). Large waitress in festival-style wench dress; muscular one-eyed scarred bartender. Bard with lute. First meal: porridge + grilled meat for **5 large copper** (bland; porridge alone would be **2 LC**). Lodging quote **1 small silver**/night; +**5 large copper** breakfast; monthly ~**10%** off in Ch 9 (**30** × 1 SS = **300** → **270 LC**); same **10%** / **270 LC** through Ch 13 (Source **5%** discarded; see `../Society/Economy/Economy.md` + `../Society/Economy/EconomyDesign.md`). Keepers named Hilde (bar lady) and Boris (bartender husband).
 
 ### Carwen dungeon
 First seen: Chapter 10 (entry planned; first delve Chapter 11)
@@ -139,7 +139,7 @@ Large southern Caldris island under an aristocrat Duke. Central volcano + S-rank
 
 ### Albrook
 First seen: Chapter 55 (named; destination); Chapter 68 (arrived)
-Small town in a Dragnis Island valley by a new volcanic dungeon (smoke from a mountain that burst through recently; ~6 months old by Chapter 71). Early boom: wall under construction; south gate fee; poor quarter → traders' street → market square. Red-brick buildings; glass windows rarer toward the edges. Absentee noble; commoner mayor/manager. Adventurer guild renovating a large house (sign going up). Roland registers as Wayland (Chapter 68: claims Steel; Chapter 70: issued Bronze for lack of prior-card info; dungeon free entry). Chapter 69–70: buys abandoned red-brick farmhouse + log shack ~40 min outside town (**~30 SG** rewrite lock; large cellar; skips triple-price extra farmland; ~half acre). Boom-town plot pricing: `../Society/EconomyDesign.md` §15 (not quiet-frontier dirt rates). Plans cellar runic workshop + dummy shed smithy; renovation firm booked ≥3 weeks out. Chapter 77 (~1 year later): log+barbed wall; thieves hit dummy shed; Solaria church; dungeon entrance card checks after a farmer dies; potion cart → fixed store; Roland known as crimson-armored craftsman / "disciple."
+Small town in a Dragnis Island valley by a new volcanic dungeon (smoke from a mountain that burst through recently; ~6 months old by Chapter 71). Early boom: wall under construction; south gate fee; poor quarter → traders' street → market square. Red-brick buildings; glass windows rarer toward the edges. Absentee noble; commoner mayor/manager. Adventurer guild renovating a large house (sign going up). Roland registers as Wayland (Chapter 68: claims Steel; Chapter 70: issued Bronze for lack of prior-card info; dungeon free entry). Chapter 69–70: buys abandoned red-brick farmhouse + log shack ~40 min outside town (**~30 SG** rewrite lock; large cellar; skips triple-price extra farmland; ~half acre). Boom-town plot pricing: `../Society/Economy/EconomyDesign.md` §15 (not quiet-frontier dirt rates). Plans cellar runic workshop + dummy shed smithy; renovation firm booked ≥3 weeks out. Chapter 77 (~1 year later): log+barbed wall; thieves hit dummy shed; Solaria church; dungeon entrance card checks after a farmer dies; potion cart → fixed store; Roland known as crimson-armored craftsman / "disciple."
 
 ### Albrook Dungeon
 First seen: Chapter 71 (entered)
@@ -151,7 +151,7 @@ Albrook poultry restaurant. Commoner kitchens lean on **salt** (and cheap local 
 
 ### Albrook auction house
 First seen: Chapter 73 (under renovation)
-Not open yet in Ch 73; adventurers still forced to sell through the guild. Opens Chapter 74 (paddle fee and music-box starting bid land there; see `../Society/EconomyDesign.md`).
+Not open yet in Ch 73; adventurers still forced to sell through the guild. Opens Chapter 74 (paddle fee and music-box starting bid land there; see `../Society/Economy/EconomyDesign.md`).
 
 ### Luden
 First seen: Chapter 56 (named; destination)

@@ -47,7 +47,7 @@ When updating status, skills or traits from chapters, follow `CrossCheck.md`.
 
 - Aptitude orb (faint blue) confirms Mana Sense. Evolved Identify would read full status; Wentworth skips that cost. Circuitry wording is **Technology** in rewrite.
 - Standing rises: inner circle, better quarters, servants bow. Brothers resent him. No magic tutor; books only.
-- Mana Sense reaches **L4** (Source beat had L3 here). Intelligence +level. Books say max it (they say **L10**) before ascension for Mage. Rewrite skill cap is **L9** (`Levels.md`).
+- Mana Sense reaches **L4** (Source beat had L3 here). Intelligence +level. Books say max it (they say **L10**) before ascension for Mage. Rewrite skill cap is **L9** (`SkillRanks.md`).
 - Daily loop: morning body drills (pushups, squats, pull-ups, running, sword basics) then reading and mana sense. Wentworth Arden named (muscle-head military Baron). Hummed *Call J G Wentworth* earworm instead of Source insults toward the brothers; smiles back at the smirking brother.
 - Unlocks Basic Running, Basic Sprint and basic punching / Hand to hand. Skill levels: run faster, jump higher, punch harder; Endurance and Strength bonuses on level-up.
 - Half-year later: Basic Climbing L1→L2→L3 on one tree. Practice thresholds **1 / 10 / 50**. Toy ball does not unlock throwing; rock + dummy unlocks **Basic Throwing**. Technique innovation (stance, underhand/overhand, pitcher, ricochet) levels Throwing faster than mundane reps; climbing the same tree the dull way still levels, just slower. Stick/spear Source beat dropped; focus is Throwing technique tests.

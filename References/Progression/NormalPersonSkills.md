@@ -1,15 +1,15 @@
 # Normal Person Skills
 
-> **Design loot.** Live locks: Progression.md (XP / tiers / reclass; `50 × L × RaceMult`), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. Levels.md holds live RaceMult table; Ch 4-19 XP ledger locked in `../../Story/Notes/Experience.md`. Diagnosis is the live skill name (Old Debugger).
+> **Design loot.** Live locks: Progression.md (XP / tiers / reclass; `50 × L × RaceMult`), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. RaceMult: `RaceMult.md`; XP curve: `ExperienceCurve.md`; skill ranks: `SkillRanks.md`; packages: `ClassPackages.md`; Ch 4-19 ledger: `../../Story/Notes/Experience.md`. Diagnosis is the live skill name (Old Debugger).
 
 
 Skills any ordinary person in the setting can plausibly gain. Not locked behind a class, the Gamer / Source special set, or a profession track (Mage, Scribe, Blacksmith, Runesmith). Built for an adventurer who lives on combat and exploration.
 
 **Scope:** ordinary people, **no system acceleration**. Roland and similar system users can beat these clocks (live danger, achievement thresholds, class pads).
 
-**Read the times as L9 caps (pinnacle of that prefix), not “first useful.”** Useful field work is usually mid-band (**L5–L7**). See technique scale in `Levels.md` / `../Ideas.md`.
+**Read the times as L9 caps (pinnacle of that prefix), not “first useful.”** Useful field work is usually mid-band (**L5–L7**). See technique scale in `SkillRanks.md` / `../Ideas.md`.
 
-Prefix ladder: `../Ideas.md` / `Levels.md` (Basic/Lesser → plain → Expert/High → …). This file only times through **Level 3 (Expert / High)**.
+Prefix ladder: `../Ideas.md` / `SkillRanks.md` (Basic/Lesser → plain → Expert/High → …). This file only times through **Level 3 (Expert / High)**.
 
 ---
 

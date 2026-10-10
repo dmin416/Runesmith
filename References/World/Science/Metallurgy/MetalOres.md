@@ -3,7 +3,7 @@
 > **Earth / invent geography.** Gate with `../../Materials/Materials.md`.
 > COMMON extract focus: Cu, Fe, Ag, Au, Sn, calamine (for brass). Chromite→stainless, metallic Zn retort, Kroll Ti, Al = **SPECIALTY** / invent unless a beat locks them. Public Ti stock = **adamantium** (converted Ti, `../../Materials/Metals.md`); mundane sponge Ti not street.
 
-Earth ore geography and processing for a setting with alchemy and magical high heat. Alloy properties and industrial vacuum routes: `EarthAlloys.md`. Purity grades and energy: `../../Materials/MaterialPurification.md`. Forge / barrier craft: `CraftMetal.md`. Hub: `../Science.md`.
+Earth ore geography and processing for a setting with alchemy and magical high heat. Alloy properties and industrial vacuum routes: `EarthAlloys.md`. Crust / use abundance lists: `../../Materials/CommonElements.md`. Processing encyclopedia: `../../Materials/MaterialsProcessing.md`. Purity grades and energy: `../../Materials/MaterialPurification.md`. Forge / barrier craft: `CraftMetal.md`. Hub: `../Science.md`.
 
 General terms:
 

@@ -1,6 +1,6 @@
 # Speed Vs Intellect
 
-Think time vs move time when INT and physical stats diverge. Mage Hands / instant magic: `Combat.md`, `MageDefense.md`. Light-escalation inspiration: `LightWarfare.md`, `LightWarfareVariables.md`. Sound / ping limits sit at the end.
+Think time vs move time when INT and physical stats diverge. Mage Hands / instant magic: `Combat.md`, `MageDefense.md`. Light-escalation inspiration: `LightWarfare.md`, `LightWarfareVariables.md`. Earth RT / optic-flow / anticipation anchors: `../World/Science/Body/SpeedPerception.md`. Sound / ping limits sit at the end.
 
 ## Narrative
 
@@ -18,7 +18,7 @@ Move  = t_m / √P
 Total = Think + Move
 ```
 
-Baseline reaction `t_r ≈ 0.2 s`. `t_m` = baseline human motion time for that action.
+Baseline reaction `t_r ≈ 0.2 s` (matches average simple visual RT ~190-250 ms in `SpeedPerception.md`). `t_m` = baseline human motion time for that action. Absolute visual floor without anticipation is about **0.10-0.15 s**.
 
 ### Specialist floors
 

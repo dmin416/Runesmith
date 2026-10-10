@@ -1,6 +1,6 @@
 # Silica Sand
 
-Hub: `../Science.md`. Titanium / mineral sands: `Titanium.md`, `TitaniumProcessing.md`. Hawaiian silica scarcity: `../../Geography/VolcanicIslandSands.md`. Separation gear: tables below. High purity quartz: this file.
+Hub: `../Science.md`. Titanium / mineral sands: `Titanium.md`, `TitaniumProcessing.md`. Hawaiian silica scarcity: `../../Geography/VolcanicIsland/Sands.md`. Telecom fused-silica fiber: `../Energy/FiberOptics.md`. Separation gear: tables below. High purity quartz: this file.
 
 Earth industrial reference. Not Terra street stock unless the chapter invents a route.
 

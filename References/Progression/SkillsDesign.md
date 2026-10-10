@@ -1,6 +1,6 @@
 # Skills
 
-> **Design loot.** Live locks: Progression.md (XP / tiers / reclass), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. Non-canon XP leftover in Levels.md: the class-change half-cut. RaceMult is the live table in `Levels.md`. Diagnosis is the live skill name (Old Debugger).
+> **Design loot.** Live locks: Progression.md (XP / tiers / reclass), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. RaceMult live table: `RaceMult.md`. Class-change half-cut stays dead. Diagnosis is the live skill name (Old Debugger).
 
 
 System and class skills and traits named in the story. Companion (Agni) and ally skills included when named. Traits start after the skill catalog under **Traits**.
@@ -108,6 +108,8 @@ Writing skill. Roland takes calligraphy books when leaving Arden. Grinds months 
 
 ## Resistance and recovery
 
+Unread alternate ladder (Resistance → Immunity → Fused, tolerance temps, kinetic, breath/aim/heal): `ResistanceImmunitySystem.md`. Live rows below still win.
+
 ### Sleep Resistance
 First seen: Chapter 2
 Passive. **Each level: -10% sleep needed** vs a normal full night (additive off 100%). Soft fatigue cut scales with that. Still collapses if he pushes past the remaining need for long.
@@ -130,7 +132,7 @@ Passive. First gained as Basic Alcohol Resistance after forced tavern drinking w
 
 ### Poison Resistance / Basic Poison Resistance (toxin)
 First seen: Chapter 12
-Passive. Covers **poison and toxin** (venom, food toxin, spore, gas) as one track. Unlocks when Roland eats Needle Worm blood and crunches needle spikes for the cumin / red-pepper spice. Popup ignored on-page while he Mana Senses for a core-bearing worm to tame. Hard-caps at **L9**, then evolves.
+Passive. Covers **poison and toxin** (venom, food toxin, spore, gas) as one track. Unlocks when Roland eats Needle Worm blood and crunches needle spikes for the cumin / red-pepper spice. Popup ignored on-page while he Mana Senses for a core-bearing worm to tame. Hard-caps at **L9**, then evolves. Earth diet→toxin sequestration (frogs, monarch, puffer): `../World/Fauna/ToxinSequestration.md`.
 
 **Each level: -10% poison / toxin effect** (damage, duration, status strength) vs an unresisted dose of the same type. Additive off 100%. L1 = 90% effect → L9 = 10% effect. Does not erase the dose; a strong enough hit still lands through the remainder.
 
@@ -266,7 +268,7 @@ hold = T0 × M × BreathControl_level
 
 Panic, combat and bad air cut the comfortable number. Technique can push a bit past it. The skill does not invent a separate duration table per rank. The level **is** the multiplier.
 
-**Leveling unit:** **1 minute** of breath held = **1** clean use on the field-use curve (`Levels.md`). Partial minutes add up. A 3-minute hold is 3 uses. Count real held time, not the theoretical max.
+**Leveling unit:** **1 minute** of breath held = **1** clean use on the field-use curve (`SkillRanks.md`). Partial minutes add up. A 3-minute hold is 3 uses. Count real held time, not the theoretical max.
 
 | Reach | Minutes held (cum) |
 |---|---|
@@ -344,7 +346,7 @@ Passive. Below roughly 20 to 25% HP, triggers strong health recovery.
 
 ### Basic Running / Basic Sprint
 First seen: Chapter 4-7
-Passive. Faster run or sprint; less stamina cost. Attribute bonuses: Running **Endurance +level**; Sprint **Vitality +level** and **Endurance +level**. See `Levels.md`.
+Passive. Faster run or sprint; less stamina cost. Attribute bonuses: Running **Endurance +level**; Sprint **Vitality +level** and **Endurance +level**. See `ClassPackages.md` / `SkillRanks.md`.
 
 ### Basic Climbing
 First seen: Chapter 4
@@ -418,7 +420,7 @@ Wide-radius intimidation; can freeze foes when it lands.
 
 ### Mage Class (class card)
 First seen: Chapter 5-6
-Listed on the skills menu with Mage grants. **Class card (locked, narrative):** mana recovery. Kept while Mage is primary or secondary; lost when Mage is dropped from the secondary slot (switch secondary **once per day**). Not a skill. Does **not** raise max MP. Source flat **+20%** mana / **+15%** regen discarded. **Class levels** only add the permanent Int/Will package (`Levels.md`).
+Listed on the skills menu with Mage grants. **Class card (locked, narrative):** mana recovery. Kept while Mage is primary or secondary; lost when Mage is dropped from the secondary slot (switch secondary **once per day**). Not a skill. Does **not** raise max MP. Source flat **+20%** mana / **+15%** regen discarded. **Class levels** only add the permanent Int/Will package (`ClassPackages.md`).
 
 ### Basic Mana Shaping
 First seen: Chapter 5
@@ -609,7 +611,7 @@ Fast assembly or reassembly of machines.
 
 ### Basic Penmanship / Basic Copy Writing / Basic Drawing / Drawing
 First seen: Chapter 18
-Writing and copy skills for scroll work. Roland's Basic Drawing L9 breaks through to Drawing L1 while copying the Lesser Impact schematic with Diagnosis overlay (Chapter 18; credits Runic Mana Scribe). Painting is a separate skill. Clear recall / Diagnosis image → automatic hand skill: `../World/Science/Body/MindBodySkill.md`.
+Writing and copy skills for scroll work. Roland's Basic Drawing L9 breaks through to Drawing L1 while copying the Lesser Impact schematic with Diagnosis overlay (Chapter 18; credits Runic Mana Scribe). Painting is a separate skill. Clear recall / Diagnosis image → automatic hand skill: `../World/Science/Body/MindBodySkill.md`. Absolute vs relative size, pour/cut calibration, magnification vs tremor: `../World/Science/Body/MeasurementPerception.md`.
 **Attribute bonus:** Dexterity +1 per level (Basic Drawing and Drawing). Additive evolve: Basic L9 **Dex +9** stays baked; Drawing L1 adds **Dex +1** → tree **Dex +10** at Ch 18. (The L1 pad is the evolve -free stat- line in Ch 13, not an extra point.)
 
 ### Basic Steady Hand Inscription
@@ -802,7 +804,7 @@ Earned when all seven main-stat 200 traits are held (the willpower-threshold tra
 
 ## Tier multipliers
 
-Rewrite rule: these are **forward-only growth rates** on new class levels, not a remultiply of the whole sheet. See `Levels.md`. Source text often describes an instant sheet multiply; rewrite scenes should not.
+Rewrite rule: these are **forward-only growth rates** on new class levels, not a remultiply of the whole sheet. See `ClassPackages.md` / `SkillRanks.md`. Source text often describes an instant sheet multiply; rewrite scenes should not.
 
 ### Tier 2 (Lord)
 First seen: Chapter 81

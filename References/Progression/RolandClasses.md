@@ -1,9 +1,8 @@
-# RolandClasses
+# Roland Classes
 
-> **Design loot.** Live locks: Progression.md (XP / tiers / reclass; `50 × L × RaceMult`), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. Levels.md holds live RaceMult table; Ch 4-19 XP ledger locked in ../../Story/Notes/Experience.md. Diagnosis is the live skill name (Old Debugger).
+> **Live path file.** Attained vs planned classes for Roland. XP / tiers / reclass: `Progression.md`. Packages / multipliers: `ClassPackages.md`. World catalog: `ClassesDesign.md`. RaceMult: `RaceMult.md`. Ch 4–19 ledger: `../../Story/Notes/Experience.md`. Follow `../../Story/Notes/CrossCheck.md` when status screens change.
 
-
-Roland’s class path. Planned vs attained. Follow `../../Story/Notes/CrossCheck.md` when status screens change.
+Roland’s class path. Planned vs attained.
 
 ## Attained path (rewrite)
 
@@ -18,11 +17,11 @@ Roland’s class path. Planned vs attained. Follow `../../Story/Notes/CrossCheck
 | 5 | Runic Engineer | T2 | Chapter 191–196 | Second T2. Later L50. Rune Mage was expected but unavailable |
 | 6 | Runic Battlemaster Overlord | T3 | Chapter 318 | Primary late class. Source text still says Runesmith Overlord until rewritten. Levels climb through late Source; rewrite T3 hard-cap is **L75** (`Progression.md`) |
 
-Late composite status (example ~Chapter 681+): T3 Runic Battlemaster Overlord (**Primary**), T2 Runic Engineer (**Secondary**). T2 Runesmith Lord and T1 Mage / Runic Mana Scribe / Runic Blacksmith sit maxed and **inactive** (no Tertiary slot; only one secondary keeps special effects, `Levels.md`).
+Late composite status (example ~Chapter 681+): T3 Runic Battlemaster Overlord (**Primary**), T2 Runic Engineer (**Secondary**). T2 Runesmith Lord and T1 Mage / Runic Mana Scribe / Runic Blacksmith sit maxed and **inactive** (no Tertiary slot; only one secondary keeps special effects, `ClassPackages.md`).
 
 ## Runic Battlemaster Overlord
 
-Rewrite peak class. Same prestige band as Runesmith Overlord (tree position above Master Runesmith High-Lord; Tier 3 Overlord **×4.5 growth rate** on new basic-stat gains except luck and charisma). Forward-only; see `Levels.md`.
+Rewrite peak class. Same prestige band as Runesmith Overlord (tree position above Master Runesmith High-Lord; Tier 3 Overlord **×4.5 growth rate** on new basic-stat gains except luck and charisma). Forward-only; see `ClassPackages.md`.
 
 **Keeps from normal Overlord**
 - Overlord body traits (organs, muscles, skeleton, tendons, nervous system, skin, circulatory)

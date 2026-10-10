@@ -1,6 +1,8 @@
 # Rubber And Insect Materials
 
-Latex rubber, vulcanization and insect-derived craft stocks. Animal-material process: `Biomaterials.md`. Clear chitin / chitosan films and glass substitutes: `../../Materials/TranslucentMaterials.md`. Ned harvest: `../../../People/Ned.md`.
+Latex rubber, vulcanization and insect-derived craft stocks. Animal-material process: `Biomaterials.md`. Silk numbers / reel: `BiologicalSilks.md`. Natural adhesive catalog: `BiologicalAdhesives.md`. Clear chitin / chitosan films and glass substitutes: `../../Materials/TranslucentMaterials.md`. Ned harvest: `../../../People/Ned.md`, `Biomaterials.md`. Nav: `Index.md`.
+
+**Owns:** latex / vulcanization, insect toolkit index, Ned strength / sticky **targets**. Full silk catalog → `BiologicalSilks.md`. Full glue catalog → `BiologicalAdhesives.md`.
 
 ## Narrative
 
@@ -44,7 +46,7 @@ Carbon black multiplies abrasion life. Products: rubberized cloth, molded goods,
 | Tan / ink | Gall tannins | Leather + iron-gall ink |
 | Wax | Beeswax, insect wax | Candles, lost-wax, waterproof |
 
-**Silk process:** fibroin core + sericin gum (~20–30%). Degum in hot soapy water. One cocoon ~300–900 m reelable. ~2500–3000 cocoons / lb raw. Kill pupa before emerge or the thread breaks. Spun silk from pierced cocoons.
+**Silk / glue deep catalogs:** numbers and reel / degum in `BiologicalSilks.md`. Dry / wet / capture adhesives in `BiologicalAdhesives.md`. Toolkit rows above stay as job picks only.
 
 ### Ned / Needle Worm targets
 

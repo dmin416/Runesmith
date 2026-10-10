@@ -1,6 +1,6 @@
 # Magic
 
-> Mana / path law: `Energy.md`. Named catalog: `Runes.md`. Metals / hosts: `../World/Materials/Metals.md`. Cast tables: `../World/Science/Energy/ManaCast.md`. Spell blurbs: `../Combat/Spells.md`.
+> Mana / path law: `Energy.md`. Named catalog: `Runes.md`. Metals / hosts: `../World/Materials/Metals.md`. Cast tables: `../World/Science/Energy/ManaCast.md`. Spell blurbs: `../Combat/Spells.md`. Spell→scroll vs rune gate: `SpellToCraftGate.md`. Unread scroll imbue idea (density / ink / channels): `ScrollImbue.md`.
 
 ## Narrative
 
@@ -34,7 +34,7 @@ Magic follows laws and intention. Spells can form from the body alone, usually a
 - Bags cannot nest (repel).
 - Borders on time magic: stored things are frozen.
 - Dungeon mats (tusks, spikes, leather, herbs) are worth bagging out; most monster meat is not (tough, bad taste) except boar-type and deer-type game.
-- **Prices / V² capacity scale:** `../World/Society/SpatialBagPrices.md` (not law).
+- **Prices / V² capacity scale:** `../World/Society/Economy/SpatialBagPrices.md` (not law).
 
 **Teleportation:** None practical, or so far away it is basically unreachable. Travel uses trains and airships instead of teleport circles.
 
@@ -62,7 +62,7 @@ Magic follows laws and intention. Spells can form from the body alone, usually a
 
 Surface symbols are not the whole working pattern. Working routes sit deeper and show under magical vision / Diagnosis. Worldview scrape: `Nature.md`.
 
-**Rank language (trade / craft):** Lesser → Common → Greater → Grand → Legendary. Quality language: Lowest → Highest.
+**Rank language (trade / craft):** Lesser → Common → Greater → Grand → Legendary. Quality language: Lowest → Highest. Ladder feel (geometry / job home / examples): `Nature.md`, `Runes.md`, `RuneSystem.md` (Story feel).
 
 **How made:** Pattern alone is enough. Understanding is not required to make one.
 
@@ -78,28 +78,31 @@ Surface symbols are not the whole working pattern. Working routes sit deeper and
 
 ### Magic scrolls (word / Mana Scribing)
 
-**Nature:** Different from enchantments and from runes. Chants and pathways are written down.
+**Nature:** Different from enchantments and from runes. Chants and pathways are written down. The scroll is a **temporary magical pathway** that guides the user's own mana through a known spell form. It is **not** a rune machine and **not** a runic scroll.
 
-**Who can use:** Needs **mana**. Not for people with no mana. Read aloud.
+**Who can use:** Existing mana users only (mages / anyone with a working mana pool). Not for people with no mana.
 
-**How used:** Read aloud. The writer's pathway forces the user's magic to follow it and cast the spell. The imprint covers gaps such as elemental affinity.
+**How used:** User puts in **their mana** and **chants the words** (read aloud). The written pathway forces their magic to follow that form and cast the spell. The imprint covers gaps such as elemental affinity.
 
-**Point:** Cast a spell the user could not otherwise cast (wrong affinity, missing spell). Mage cross-affinity patch. Fuel is **mana only** (no stamina substitute).
+**Point:** Cast a spell the user could not otherwise cast (wrong affinity, missing spell), or fire a known form from paper. Mage cross-affinity / form patch. Fuel is **mana only** (no stamina substitute). User always pays the cast; the scroll does not replace their pool.
 
 **Limit:** Efficiency and power are capped by the one who wrote it.
 
+**Roland gate:** Spells he can cast himself, he can put on **magic scrolls**. That does **not** unlock a **rune** for the same spell, and a magic scroll is **not** a runic scroll. Intention extras on a body cast (follow a person, lock to a chosen target) stay on the cast / magic-scroll side until a real **rune** sample teaches them. Full lock: `SpellToCraftGate.md`.
+
 ### Runic scrolls
 
-**Nature:** Rules-based scrolls. **Only this scroll family can be used by anyone.**
+**Nature:** Rules-based scrolls. A **rune** on a scroll host. **Only this scroll family can be used by anyone.** Completely separate from magic scrolls.
 
 **Limit:** Can be open-ended. Not capped to a writer's personal efficiency and power the way magic scrolls are.
 
-**Type 1: Energy cast**
+**Type 1: Energy cast (common)**
 
 - User supplies **energy** to cast: **mana or stamina** (`Energy.md`: same cost from either pool).
 - Literally anyone can cast it (warriors, civilians, non-mages included), if they can pay the energy.
 
-**Type 2: Prefilled**
+**Type 2: Preloaded / prefilled (special)**
 
-- Already charged. Waiting to be activated.
+- **Special** runic scrolls can be **preloaded with mana** at craft (or charged before use). Already charged. Waiting to be activated.
 - Literally anyone can activate it.
+- Not the default for every shelf runic; when the beat calls a battery scroll, this is the type.

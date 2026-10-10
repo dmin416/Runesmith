@@ -1,6 +1,6 @@
 # Silver (Earth metal)
 
-Hub: `../Science.md`. Terra conversion line **silver → mythril**: `../../Materials/Metals.md`. Shop craft: `CraftMetal.md`. LED / mirror use: `../Energy/Lighting.md`, `../Energy/Optics.md`. Generator windings: `../Energy/Generators.md`.
+Hub: `../Science.md`. Terra conversion line **silver → mythril**: `../../Materials/Metals.md`. Shop craft: `CraftMetal.md`. LED / mirror use: `../Energy/Lighting.md`, `../Energy/Optics.md`. Generator windings: `../Energy/Generators.md`. Mining / refining history: `../../Materials/MaterialsProcessing.md` §3.2. Alloy recipes: `CommonAlloys.md`. Vacuum melt science: `EarthAlloys.md` (Silver).
 
 Earth chemistry and optics of **unconverted** silver. Mana soak and mythril grades stay in `Metals.md`.
 

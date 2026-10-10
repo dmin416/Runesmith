@@ -1,10 +1,10 @@
 # Scroll Economy
 
-> **Design loot.** Craft/use laws: `Magic.md`, `Energy.md`, `ScrollCraftScrapes.md`. Spell blurbs: `../Combat/Spells.md`. Currency ladder: `../World/Society/EconomyDesign.md`.
+> **Design loot.** Craft/use laws: `Magic.md`, `Energy.md`, `ScrollCraftScrapes.md`. Spell blurbs: `../Combat/Spells.md`. Currency ladder: `../World/Society/Economy/EconomyDesign.md`.
 
 ## Shop prices & contracts
 
-Labor-days method: handwritten scrolls stay **medieval dear** (`../World/Society/EconomyDesign.md`). Blank lock: rough hide wholesale **4 LC** / retail **~4–5 LC** (`../World/Science/Invent/Paper.md`). Word-scroll prices use the cost engine below.
+Labor-days method: handwritten scrolls stay **medieval dear** (`../World/Society/Economy/EconomyDesign.md`). Blank lock: rough hide wholesale **4 LC** / retail **~4–5 LC** (`../World/Science/Invent/Paper.md`). Word-scroll prices use the cost engine below.
 
 ### Locked fair rewrite (Ch 20+)
 
@@ -45,7 +45,7 @@ Runic mat ~**2 SS**/scroll is a placeholder until runic blank/ink costs are pinn
 
 ### Chapter / Source shelf scrapes (beats; fair table and Story rewrite win)
 
-Source shelf conflicts were updated to rewrite fair. Item catalog: `../World/Society/PriceCatalog.md`. Story beats + Source→Rewrite map: `../../Story/Notes/StoryPrices.md`.
+Source shelf conflicts were updated to rewrite fair. Item catalog: `../World/Society/Economy/PriceCatalog.md`. Story beats + Source→Rewrite map: `../../Story/Notes/StoryPrices.md`.
 
 | Item | Scrape cost | LC value |
 |---|---|---|
@@ -240,7 +240,7 @@ Fire Arrow doubles Mana Arrow at Intermediate: same blank, **+5 LC** ink, ~**2.7
 
 Casting service = mana labor only (no blank, ink or shop cut). Use the Mana Labor per Scroll column at the matching tier and grade.
 
-**Church paid services (Lock):** church rites and paid church casts run about **≈9×** this casting-labor figure. Anchor: Solaria curse heal **9 SG** ÷ T3 Highest casting labor **1 SG 2 SS 4 LC** (**1,024 LC**) ≈ **8.8×** → rule **≈9×**. Elixir shelf bands: `../World/Society/PriceCatalog.md` / `Economy.md`. Greater potion **1–3 SG** sits near T4 Intermediate shop; divine elixir **30–100 SG** brackets T5 Highest casting labor (~**43–44 SG**).
+**Church paid services (Lock):** church rites and paid church casts run about **≈9×** this casting-labor figure. Anchor: Solaria curse heal **9 SG** ÷ T3 Highest casting labor **1 SG 2 SS 4 LC** (**1,024 LC**) ≈ **8.8×** → rule **≈9×**. Elixir shelf bands: `../World/Society/Economy/PriceCatalog.md` / `Economy.md`. Greater potion **1–3 SG** sits near T4 Intermediate shop; divine elixir **30–100 SG** brackets T5 Highest casting labor (~**43–44 SG**).
 
 Example: Mana Arrow cast at Intermediate = **1 SS 1.7 LC**.
 
@@ -249,8 +249,8 @@ Example: Mana Arrow cast at Intermediate = **1 SS 1.7 LC**.
 | Good | Governing book | Current figures |
 |---|---|---|
 | Potions | Potion / Economy books | Hangover potion **8 to 15 LC** |
-| Spatial bags | `../World/Society/SpatialBagPrices.md` (volume²) | **7 to 10 SG**; larger ~**70 to 100 SG** |
-| Mithril runic gear | `../World/Society/Economy.md` | **≥1 LG** floor |
+| Spatial bags | `../World/Society/Economy/SpatialBagPrices.md` (volume²) | **7 to 10 SG**; larger ~**70 to 100 SG** |
+| Mithril runic gear | `../World/Society/Economy/Economy.md` | **≥1 LG** floor |
 
 Pathfinder ratios (potion = 2× scroll, permanent = 30× scroll) are a soft ceiling sketch only. They do not generate prices.
 
@@ -365,7 +365,7 @@ Independent without shop: cartel blanks + no shelf → auction fees **25%→10%*
 
 ## Empty vs preloaded runic SKUs
 
-Sources: `../Ideas.md` (scroll filtration / Mastery bypass), `RuneSetup.md` (P1 default vs P9 prepaid, setup, 1.31 store), `RuneSystem.md` / `../World/Science/Energy/ManaCast.md` (**1 mana ≈ 10 J**), `../World/Science/Energy/ManaStones.md` + `../World/Society/Economy.md` (stone capacity and street prices).
+Sources: `../Ideas.md` (scroll filtration / Mastery bypass), `RuneSetup.md` (P1 default vs P9 prepaid, setup, 1.31 store), `RuneSystem.md` / `../World/Science/Energy/ManaCast.md` (**1 mana ≈ 10 J**), `../World/Science/Energy/ManaStones.md` + `../World/Society/Economy/Economy.md` (stone capacity and street prices).
 
 ## What was already locked
 

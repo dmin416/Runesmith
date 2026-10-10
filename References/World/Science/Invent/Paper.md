@@ -1,10 +1,10 @@
 # Paper and Hide Writing Surfaces
 
-Mundane and magical sheets for notes, contracts, schematics and scrolls. Companion: `WritingTools.md`. Physical sizes, stack weights, pipe scaling and channeling heat: `PaperFormats.md`.
+Mundane and magical sheets for notes, contracts, schematics and scrolls. Companions: `WritingTools.md`, `Ink.md`. Physical sizes, stack weights, pipe scaling and channeling heat: `PaperFormats.md`.
 
 **Lock scope:** firm against early rewrite pegs and **Ch 19** (written). Shop numbers from Source Ch 20+ (old **9 LC** blanks, Mana Arrow **1 SS**, etc.) are **not** locked. Retune those when those chapters are rewritten.
 
-Coin pegs still firm: `../../Society/Economy.md` (**5 LC = 1d**; goblin ear **5 LC**; meal **5 LC**; unskilled day **5–10 LC**).
+Coin pegs still firm: `../../Society/Economy/Economy.md` (**5 LC = 1d**; goblin ear **5 LC**; meal **5 LC**; unskilled day **5–10 LC**).
 
 ## Four stocks
 
@@ -19,7 +19,7 @@ Coin pegs still firm: `../../Society/Economy.md` (**5 LC = 1d**; goblin ear **5 
 
 ## Story price order
 
-Band tables, the 13 LC / 2.2 LC stack, and the finished scroll pegs: `../../Society/PriceCatalog.md`. Scroll cost engine: `../../../Runes/ScrollEconomy.md`.
+Band tables, the 13 LC / 2.2 LC stack, and the finished scroll pegs: `../../Society/Economy/PriceCatalog.md`. Scroll cost engine: `../../../Runes/ScrollEconomy.md`.
 
 ## Why the four markets diverge
 
@@ -89,6 +89,7 @@ Chapter pegs: `../../../../Story/Notes/Timeline.md` (Paper stock pegs). Bands ab
 ## Cross-links
 
 - Implements: `WritingTools.md`
+- Inks (Earth catalog + ordinary vs mana path): `Ink.md`
 - Ned gel-nodule hide / ink path: `../../../People/Ned.md`
-- Ears, pelts, boar mats: `../../Society/Economy.md`
-- Rune surfaces: `../../../Runes/Nature.md`, `../../../Runes/RuneCraftScrapes.md`
+- Ears, pelts, boar mats: `../../Society/Economy/Economy.md`
+- Rune surfaces: `../../../Runes/Nature.md`, `../../../Runes/ScrollCraftScrapes.md`

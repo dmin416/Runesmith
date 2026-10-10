@@ -4,7 +4,7 @@
 > Availability gate: `../../Materials/Materials.md`. Brass / calamine: `Brass.md`. Magic metals: `../../Materials/Metals.md`.
 > Metallic Zn, Ni, Cr, Al, stainless, powder steels, aerospace Ti alloys, carbon fiber, graphene = **SPECIALTY** or **NO** as baseline. Prefer COMMON Cu/Fe/Ag/Au/Sn/bronze/brass + MAGIC lines in prose.
 
-Earth production and property reference for metals and carbon materials. Ore find and extract routes: `MetalOres.md`. Magic heat, barrier molds and vacuum craft: `CraftMetal.md`, `Vacuum.md`, `SteelVacuumChamber.md`. Forge products: `BlacksmithProducts.md`. Era: `../../Tech/Technology.md`.
+Earth production and property reference for metals and carbon materials. **Owns:** per-grade physics and vacuum / argon production options. Compositions and melt recipes: `CommonAlloys.md`. Element science / history: `../../Materials/MaterialsProcessing.md`. Ti industrial sponge: `TitaniumProcessing.md`. Ore geography: `MetalOres.md`. Magic heat, barrier molds and vacuum craft: `CraftMetal.md`, `Vacuum.md`, `SteelVacuumChamber.md`. Forge products: `BlacksmithProducts.md`. Era: `../../Tech/Technology.md`. Nav: `Index.md`.
 
 Numbers are typical industrial / lab bands, not locked story law.
 
@@ -119,15 +119,9 @@ Cold working raises tensile strength and hardness on all of these. Terra convers
 
 #### Production
 
-**Raw materials:** copper cathode or clean scrap and special high-grade zinc ingot (99.99%). C36000 adds 2.5-3.7% lead.
+**Composition and melt recipe:** `CommonAlloys.md` (brass). Caldris shop order and fittings: `Brass.md`. Element / cementation history: `../../Materials/MaterialsProcessing.md` §5.
 
-1. Melt the copper at about 1100 °C in an induction furnace or crucible under charcoal cover.
-2. Lower the melt temperature to about 1000 °C. Zinc boils at 907 °C so it must go in last.
-3. Plunge the zinc below the surface with a preheated tool. Charge 2-5% extra zinc to cover evaporation losses.
-4. For C36000 add lead after the zinc and stir thoroughly.
-5. Skim and pour at about 1000-1050 °C for 70/30 brass or about 950-1000 °C for 60/40.
-6. Industrial route is semi-continuous casting of billets followed by extrusion at 650-800 °C.
-7. Draw or roll to final size. Anneal at 425-600 °C and stress-relieve finished parts at about 250-300 °C.
+Melt copper first, add zinc last under charcoal or flux, charge extra Zn for boil-off, cast billets then extrude / draw / anneal. Lead-free free-cut grades: `ToxicMetalSubstitutes.md`.
 
 **Vacuum option:**
 
@@ -197,15 +191,9 @@ Cold working raises tensile strength and hardness on all of these. Terra convers
 
 #### Production
 
-**Raw materials:** silver is mostly a byproduct of lead, zinc and copper refining. Scrap silver is also a major feedstock.
+**Mining / refining history (Parkes, cupellation, Moebius):** `../../Materials/MaterialsProcessing.md` §3.2. Alloy recipes: `CommonAlloys.md`. Shop spit / tarnish / optics: `Silver.md`.
 
-1. Recover silver from lead bullion with the Parkes process. Zinc is added to molten lead and a silver-rich zinc crust floats off.
-2. Distill off the zinc and cupel the remaining silver-lead at about 900-1000 °C in air. Lead oxidizes to litharge and is absorbed or skimmed off. Crude silver (doré) remains.
-3. Refine electrolytically with the Moebius process. Doré anodes in a silver nitrate and copper nitrate electrolyte deposit crystalline silver (99.9%+) at the cathode.
-4. Scrape and wash the crystals.
-5. Alternative chemical route for scrap: dissolve in nitric acid then precipitate silver chloride with salt then convert to metal by reducing with sodium hydroxide and sugar or with zinc or iron.
-6. Melt the silver in a graphite crucible at about 1000-1050 °C under borax flux.
-7. Pour into ingot molds or into water for casting grain.
+Feedstock is mostly byproduct doré or scrap. Melt under borax / charcoal at about 1000-1050 °C and pour ingots or grain.
 
 **Vacuum option:**
 
@@ -235,16 +223,7 @@ Cold working raises tensile strength and hardness on all of these. Terra convers
 
 #### Production
 
-**Raw materials:** fine silver (99.9%) and copper (OFE or casting grain). Weigh by mass at 92.5 to 7.5.
-
-1. Place both metals in a graphite crucible with a borax and boric acid flux or work under a reducing flame.
-2. Heat to about 1000-1050 °C. The two metals are miscible in all proportions at this temperature.
-3. Stir with a graphite rod to prevent copper segregation.
-4. Pour at about 950-1000 °C into ingot molds or quench into water for casting grain.
-5. Roll or draw with intermediate anneals at about 600-650 °C then quench or air cool.
-6. Pickle in dilute sulfuric acid or a commercial pickle to remove copper oxide.
-7. Optional age hardening at about 300 °C for 1-2 hours.
-8. Add about 1.2% germanium to make Argentium-type tarnish and firescale resistant sterling.
+**Melt recipe and ratios:** `CommonAlloys.md` (sterling). Weigh 92.5 Ag / 7.5 Cu, melt under borax or reducing flame, anneal about 600-650 °C, optional age harden about 300 °C. Argentium-type Ge additions stay in the recipe file.
 
 **Vacuum option:**
 
@@ -741,28 +720,9 @@ Typical recipes per 100 g:
 
 #### Production
 
-**Raw materials:** rutile or ilmenite ore then titanium sponge then aluminum-vanadium master alloy.
+**Canon industrial sponge / mill (Kroll, VAR, forging, HT):** `TitaniumProcessing.md`. Composition tables: `CommonAlloys.md`. Geology: `Titanium.md`. Invent bootstrap: `TitaniumBootstrap.md`.
 
-**Titanium sponge (Kroll process):**
-
-1. Chlorinate the ore with chlorine gas and coke at about 900-1000 °C to make titanium tetrachloride (TiCl₄).
-2. Purify by fractional distillation.
-3. Load molten magnesium into a sealed stainless steel reactor under argon and feed in TiCl₄ at about 800-850 °C. Titanium sponge and magnesium chloride form.
-4. Remove magnesium and magnesium chloride by vacuum distillation or leaching over several days.
-5. Crush and screen the sponge.
-
-**Alloying and melting:**
-
-1. Blend sponge with aluminum-vanadium master alloy (such as 60Al-40V or 85V-15Al) and extra aluminum.
-2. Press blends into compacts and weld them into a consumable electrode.
-3. Melt by vacuum arc remelting (VAR) two or three times for homogeneity. Cold-hearth electron beam melting is used for high-integrity aerospace stock.
-4. Forge above the beta transus (about 995 °C) then finish in the alpha-beta field.
-
-**Heat treatment:**
-
-1. Mill anneal at about 700-785 °C for 1-4 hours then air cool.
-2. Or solution treat at about 955 °C then age at about 540 °C.
-3. Pickle in nitric and hydrofluoric acid to remove the oxygen-rich alpha case.
+Start from sponge + Al-V master alloy. Blend, press electrodes, VAR (often 2-3×), forge through the beta transus (~995 °C) then finish alpha-beta. Mill anneal ~700-785 °C or STA (~955 °C then age ~540 °C). Pickle nitric/HF to strip alpha case.
 
 **Vacuum option:**
 
@@ -794,15 +754,9 @@ Typical recipes per 100 g:
 
 #### Production
 
-**Raw materials:** titanium sponge from the Kroll process (see Ti-6Al-4V).
+**Sponge and mill route:** `TitaniumProcessing.md` (Kroll canon). Grade 2 composition: `CommonAlloys.md`.
 
-1. Press sponge into compacts with no alloy additions and weld them into an electrode.
-2. Melt by VAR two or three times. Control oxygen to 0.25% max and iron to 0.30% max. Oxygen content sets the grade strength.
-3. Forge or roll into slab or bar. Rolling into coil gives strip for tube and plate.
-4. Anneal at about 650-760 °C.
-5. Form tube by cold pilgering or by roll-forming strip and welding the seam under argon.
-6. Pickle in nitric and hydrofluoric acid.
-7. Weld only with full inert-gas shielding of the weld and trailing area.
+Press unalloyed sponge into electrodes, VAR 2-3× (O ≤ 0.25%, Fe ≤ 0.30%), forge/roll, anneal ~650-760 °C, form tube under argon shield, pickle nitric/HF.
 
 **Vacuum option:**
 

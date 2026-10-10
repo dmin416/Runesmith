@@ -1,6 +1,6 @@
 # Compression
 
-Gas and solid compression math for Fire Piston, Frost Breath, air cartridges, micro-pierce and cloak cooling. Cloak cycle: `CloakAirCooling.md`. Cast: `../../../Runes/Energy.md` (`Mana = J / (10 × η × μ)`). ημ = 1 figures are L2 INT 15 reference.
+Gas and solid compression math for Fire Piston, Frost Breath, air cartridges, micro-pierce and cloak cooling. Fans: `FanAirflow.md`. Cast: `../../../Runes/Energy.md` (`Mana = J / (10 × η × μ)`). ημ = 1 figures are L2 INT 15 reference.
 
 ## Narrative
 
@@ -45,7 +45,7 @@ W = P₁ V₁ /(γ−1) × [(V₁/V₂)^(γ−1) − 1]
 
 ### Frost Breath (adiabatic expansion)
 
-Same law, expand instead. 10:1 from 293 K → **~117 K** ideal; practical **−50 to −80 °C**. Freeze lock, hinge, string, thin ice. Setup mirrors Fire Piston (~383 J for 1 L / 10×). Personal sphere path: `CloakAirCooling.md`.
+Same law, expand instead. 10:1 from 293 K → **~117 K** ideal; practical **−50 to −80 °C**. Freeze lock, hinge, string, thin ice. Setup mirrors Fire Piston (~383 J for 1 L / 10×). Personal sphere path: cloak air cooling below.
 
 ### Pressure purification (HPP-style)
 
@@ -71,8 +71,61 @@ Prefer plastic pierce `E ≈ σ_flow × ε × V`. Elastic proxy shows why small 
 
 Cold work can raise yield ~**20–50%** before anneal. Many low-strain passes on an edge strip. Overwork without anneal → microcrack. Success raises lasting hardness for later pierce tables.
 
+### Cloak air cooling
+
+Personal compress-expand cooling cycle. D prices it then **forgoes** it for a **cold rune** (less babysitting). Fans: `FanAirflow.md`. Mana: `../../../Runes/Energy.md`.
+
+Cold from expansion only happens if the gas **does work** against a held push. Dump compressed air through a nozzle without catching that work and you get almost no chill. The cloak machine works. The heat plume, beach-ball tank and −113 °C metering make a cold rune win for the same comfort goal.
+
+#### Charge size
+
+```
+V₀ = 5 m³          // sphere ≈ 2.1 m across (r ≈ 1.06 m)
+~198 mol / 5.7 kg air at 35 °C, 1 atm
+10:1 → 0.5 m³ (~0.98 m across, beach-ball class)
+```
+
+#### Why plain release fails
+
+Spray cans cool because liquid boils. Dry 10 atm air through a nozzle drops only ~**2 K**. Magic (or a piston) must absorb expansion work so internal energy leaves as motion, not leftover heat.
+
+#### Ideal 10:1 cycle
+
+1. Slow compress to 0.5 m³ → dump **~1.17 MJ** heat to 35 °C air (fast compress → ~320 °C gas)  
+2. Hold at 10 atm ambient-temp “battery”  
+3. Expand against magic → ~**−113 °C**, recover **~0.61 MJ**  
+4. Meter into cloak → warm to 20 °C absorbing **~0.77 MJ** from body/cloak; vent hem  
+
+```
+W_net ideal ≈ 0.55 MJ (~130 kcal)
+Imperfect 2–3× → 1.1–1.7 MJ (~260–400 kcal)
+At ημ = 1 → ~110k–170k mana if the pool pays every joule
+```
+
+That mana scale is why the cold rune wins.
+
+| Ratio | Compressed V | T after expand | Cooling / charge | Net work (ideal) |
+|---|---|---|---|---|
+| 5:1 | 1.0 m³ | −79 °C | 0.57 MJ | 0.35 MJ |
+| 10:1 | 0.5 m³ | −113 °C | 0.77 MJ | 0.56 MJ |
+| 20:1 | 0.25 m³ | −142 °C | 0.94 MJ | 0.79 MJ |
+
+10→20: **+41%** work for **+22%** cooling. Diminishing returns.
+
+#### Run time
+
+- One 10:1 charge ≈ **2 h** at 100 W rest, ≈ **26 min** at 500 W work (cloak leak shortens)  
+- 100 W cooling ≈ **0.75 g/s** cold air  
+- −113 °C burns skin → mix before contact; vent warm for max heat per gram  
+- 10 min compress dumps ~**2 kW** upward (visible plume). Pre-compress in shade/rest  
+
+#### Why cold rune wins
+
+No fight sphere, no plume beacon, no cryogenic metering, same stay-cool job with less babysitting.
+
 ## Open
 
 - CraftMetal barrier molds
+- Exact cold-rune Useful joules when ManaCast absorbs
 
 Compressed-mana stroke cousin (Sahildr hammer): `../../../Combat/ImpactRune.md`.

@@ -1,6 +1,8 @@
 # 360-Degree Vision: Human Acuity, Cameras, Lenses, Magic Eyes and the Brain
 
-Hub: `../Science.md`. Mental capacity (N men): `FocusCapacity.md`. Crystal / LLM / mind-copy holding file: `CrystalMinds.md`.
+Hub: `../Science.md`. Mental capacity (N men): `FocusCapacity.md`. Earth brain / LLM anchors: `CrystalMinds.md` Part 1. Fiber stock physics: `../Energy/FiberOptics.md`. Lens / radiance: `../Energy/Optics.md`. Speed / RT / pursuit limits: `SpeedPerception.md`. Crystal holding file: `CrystalMinds.md`. Nav: `Index.md`.
+
+**Owns:** full-sphere optics, Rig A / Band B / Helm C, vision processing cost tables (Parts 8–9). Capacity bands and men-worth spend: `FocusCapacity.md`. Whole-brain neuron / watt anchors: `CrystalMinds.md` Part 1.
 
 ## Contents
 
@@ -345,6 +347,8 @@ A single magic eye on the forehead receives the combined view of a headband ring
 
 ### 6.3 Magic fiber optics
 
+Mundane fused-silica bend / loss / cable types: `../Energy/FiberOptics.md`. Lens and radiance background: `../Energy/Optics.md`. Band B strands are magic lossless carriers; they are not Earth fiber stock.
+
 - Each strand carries its lens's full image without loss. Mundane imaging bundles would need about 230 million fibers per lens for 20/20, a bundle about 6 cm thick.
 - A cut strand blinds that lens's sector until repaired.
 
@@ -477,12 +481,14 @@ About 1,275x the light of a dark-adapted pupil. Starlight looks like dusk; moonl
 
 ### 8.1 Anchors
 
+Whole-brain neuron / watt / bits/s: `CrystalMinds.md` Part 1. Vision-specific rows below feed the tier tables; cortex count matches that file (86 billion whole brain, ~20 W).
+
 | Measure | Value |
 |---|---|
 | V1 | About 140 million neurons per hemisphere; about 40 V1 neurons per thalamic relay neuron |
 | Cerebral cortex | About 16 to 23 billion neurons (16 billion used here) |
 | Share of cortex used for vision | About 25 to 35 percent (about 5 billion neurons) |
-| Whole brain | About 86 billion neurons, 1.4 kg, 20 W |
+| Whole brain | About 86 billion neurons, 1.4 kg, 20 W (Earth anchors: CrystalMinds Part 1) |
 | Vision's share | About 350 g and 5 W |
 
 ### 8.2 Cost of one normal eye
@@ -538,7 +544,7 @@ Full stereo doubles each row.
 
 ## Part 9: A Man with the Mental Capacity of Ten Men
 
-Fiction scaling as in Part 8. Ten men = 160 billion cortical neurons; a normal man's visual share (5 billion) = 2 normal eyes. Capacity bands: `FocusCapacity.md`.
+**Capacity:** 10× men-worth from `FocusCapacity.md` (spend rules and Multitasking / Parallel Thinking live there). Fiction scaling as in Part 8: ten men ≈ 160 billion cortical neurons; a normal man's visual share (5 billion) ≈ 2 normal eyes. Tables below are vision allocation at that budget, not a second capacity ladder.
 
 ### 9.1 Allocation options
 

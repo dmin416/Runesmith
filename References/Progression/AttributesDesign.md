@@ -1,6 +1,6 @@
 # Attributes
 
-> **Design loot.** Live locks: Progression.md (XP / tiers / reclass; `50 × L × RaceMult`), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. Levels.md holds live RaceMult table; Ch 4-19 XP ledger locked in `../../Story/Notes/Experience.md`. Diagnosis is the live skill name (Old Debugger).
+> **Design loot.** Live locks: Progression.md (XP / tiers / reclass; `50 × L × RaceMult`), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. RaceMult: `RaceMult.md`; XP curve: `ExperienceCurve.md`; skill ranks: `SkillRanks.md`; packages: `ClassPackages.md`; Ch 4-19 ledger: `../../Story/Notes/Experience.md`. Diagnosis is the live skill name (Old Debugger).
 
 
 Attribute explanations from the status screen. First seen: Chapter 2.

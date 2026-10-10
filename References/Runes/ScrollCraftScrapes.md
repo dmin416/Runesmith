@@ -27,7 +27,7 @@ Chapter and Source scrape for word vs runic scroll craft, use, skills, and chapt
 
 - Skill: **Basic Mana Scribing** (Mana Scribe / Runic Mana Scribe trial grants it).
 - Method: spell out the **incantation** in the correct language while focusing mana into quill and ink. **No** runic pathway drawing.
-- Materials: magical paper and/or magical hide blanks; magic ink (`Paper.md`).
+- Materials: magical paper and/or magical hide blanks; magic ink (`../World/Science/Invent/Paper.md`). Ordinary carbon / iron gall will not carry a path (`Energy.md`; Earth catalog: `../World/Science/Invent/Ink.md`).
 - Grade: **not** “how well drawn” like runes. **How much power was injected during creation.** Shop uses a device; Lowest → Highest.
 - Roland (Ch 13 parting thought / Ch 20): more mana infused while writing → stronger spell. His high INT / pool should grade high if he scribes Mana Arrow / Bolt.
 - Elemental example: Fire Arrow (T2) maker must be advanced Scribe **and** fire mage. Affinity matters for **making** elemental word scrolls.

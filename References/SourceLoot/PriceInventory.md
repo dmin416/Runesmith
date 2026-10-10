@@ -2,7 +2,7 @@
 
 Master inventory of every priced Source-dump mention vs rewrite-approved prices. One file (Part scrapes merged).
 
-- Item catalog: `../World/Society/PriceCatalog.md`
+- Item catalog: `../World/Society/Economy/PriceCatalog.md`
 - Story chronology: `../../Story/Notes/StoryPrices.md`
 
 **Policy:** Source prose that conflicted with locks was updated. Story `Chapters/` already follows rewrite fair where written. Action: **REPLACE** only on lock conflict; else **KEEP (no lock)**.

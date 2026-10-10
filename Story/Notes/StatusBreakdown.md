@@ -26,7 +26,7 @@ Willpower **15** at age 5 is the adult mind’s full experience floor (30 years)
 
 ### 2. Class levels
 
-Per-level packages from `Classes.md` / `Levels.md`. Mage: **+1 Intelligence and +1 Willpower** per Mage level. No physical package.
+Per-level packages from `Classes.md` / `ClassPackages.md`. Mage: **+1 Intelligence and +1 Willpower** per Mage level. No physical package.
 
 | Checkpoint | Class | INT | WILL | Notes |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ Per-level packages from `Classes.md` / `Levels.md`. Mage: **+1 Intelligence and 
 
 ### 3. Skills / Traits
 
-Rule: skill attribute bonus = **+1 × current skill level** per favored attribute (`Levels.md`). Traits are flat card values.
+Rule: skill attribute bonus = **+1 × current skill level** per favored attribute (`SkillRanks.md`). Traits are flat card values.
 
 #### Traits (flat, from Ch 2 on)
 
@@ -197,7 +197,7 @@ MP = ((75×10)+(62×4)) × 1.08 = 998 × 1.08 = **1078** (Mage L4).
 
 ### Mage L20 (Ch 10) — skill ranks after Ch 9.5
 
-Combat math: `Levels.md` field-use curve; table in `Skills.md` Ch 9.5. **L9 hard cap.** Evolve at **2,000,000** — **none this skip**. Peak-use accelerates foundations.
+Combat math: `SkillRanks.md` field-use curve (`SkillRanks.md`); table in `Skills.md` Ch 9.5. **L9 hard cap.** Evolve at **2,000,000** — **none this skip**. Peak-use accelerates foundations.
 
 | Skill | Ch 9 | Ch 10 | Source of levels |
 |---|---|---|---|

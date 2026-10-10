@@ -1,6 +1,6 @@
 # Titanium Bootstrap (Beach to Metal)
 
-Hub: `Titanium.md`, `TitaniumProcessing.md`. Hawaiian resource limits: `../../Geography/VolcanicIslandSands.md`, `../../Geography/HawaiianMinerals.md`. Nickel/nitinol: `Nickel.md`, `Nitinol.md`.
+Hub: `Titanium.md`, `TitaniumProcessing.md`. Hawaiian resource limits: `../../Geography/VolcanicIsland/Sands.md`, `../../Geography/VolcanicIsland/HawaiianMinerals.md`. Nickel/nitinol: `Nickel.md`, `Nitinol.md`.
 
 Earth design loot: full chemical bootstrap. Mundane Ti on Terra is SPECIALTY/invent.
 
@@ -923,7 +923,7 @@ Assumes **pure TiO₂ feed** (rutile equivalent). Real ilmenite needs more mass 
 ## Cross-links
 
 - Industrial scale and pigment split: `TitaniumProcessing.md`
-- Ore geography and laterite: `Titanium.md`, `../../Geography/VolcanicIslandSands.md`
+- Ore geography and laterite: `Titanium.md`, `../../Geography/VolcanicIsland/Sands.md`
 - Purification ladder: `../../Materials/MaterialPurification.md`
 
 *End of bootstrap reference.*

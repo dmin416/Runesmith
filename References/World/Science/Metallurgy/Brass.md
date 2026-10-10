@@ -1,6 +1,6 @@
 # Brass
 
-Copper–zinc alloy craft: melt rules, work bands, fittings. Overheat / fume: `OverheatedMetals.md`. Mundane metal world: `../../Materials/Metals.md`. Copper tube work: `CopperPipe.md`. Earth production encyclopedia: `EarthAlloys.md` (Brass section).
+Copper–zinc alloy craft: melt rules, work bands, fittings. Overheat / fume: `OverheatedMetals.md`. Mundane metal world: `../../Materials/Metals.md`. Copper tube work: `CopperPipe.md`. Grade catalog: `CommonAlloys.md`. Vacuum / science: `EarthAlloys.md` (Brass). Zn / cementation history: `../../Materials/MaterialsProcessing.md` §5. Lead-free free-cut swaps: `ToxicMetalSubstitutes.md`.
 
 ## Narrative
 

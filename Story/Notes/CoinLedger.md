@@ -1,6 +1,6 @@
 # Early Coin Ledger
 
-> Through Chapter 9.5. Economy locks: `../../References/World/Society/EconomyDesign.md`. XP / kills: `Experience.md`.
+> Through Chapter 9.5. Economy locks: `../../References/World/Society/Economy/EconomyDesign.md`. XP / kills: `Experience.md`.
 
 ## Ledger
 

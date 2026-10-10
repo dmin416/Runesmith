@@ -1,6 +1,6 @@
 # Optics
 
-Hub: `../Science.md`. Light bands: `Waves.md`. Room / street light tech: `Lighting.md`. Glass / quartz / clear stocks: `../../Materials/TranslucentMaterials.md`. Fight use: `../../../Combat/Lasers.md`. Escalation inspiration (not locked): `../../../Combat/LightWarfare.md`, `../../../Combat/LightWarfareVariables.md`. Pulsed power: `Generators.md`. Flywheel + light-crystal beams / air ceilings: `FlywheelApplications.md`. Mirror metal: `../Metallurgy/Silver.md`.
+Hub: `../Science.md`. Light bands: `Waves.md`. Room / street light tech: `Lighting.md`. Glass / quartz / clear stocks: `../../Materials/TranslucentMaterials.md`. Telecom fiber / fused-silica properties: `FiberOptics.md`. Fight use: `../../../Combat/Lasers.md`. Escalation inspiration (not locked): `../../../Combat/LightWarfare.md`, `../../../Combat/LightWarfareVariables.md`. Pulsed power: `Generators.md`. Flywheel + light-crystal beams / air ceilings: `FlywheelApplications.md`. Mirror metal: `../Metallurgy/Silver.md`.
 
 Earth-physics anchors below (atmosphere glints, cavities, radiance). Not Terra spell law.
 

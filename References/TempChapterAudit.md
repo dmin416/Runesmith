@@ -15,8 +15,8 @@ The last section is the prose disagreeing with itself.
 ### Chapter 2
 
 - The chapter names Debugger L8 (`Story/Chapters/1-9.md` 256). `References/Handoff.md` 28 still says Diagnosis.
-- The chapter names Tinkerer L8 (`Story/Chapters/1-9.md` 279). `References/Progression/Levels.md` 348 still says Fabrication.
-- The chapter’s Sleep Resistance L4 has no attribute line, and Vitality and Endurance sit at 4 (`Story/Chapters/1-9.md` 276–277, 349–350). `References/Progression/Levels.md` 340 still adds +1 Vitality and +1 Endurance per level.
+- The chapter names Tinkerer L8 (`Story/Chapters/1-9.md` 279). `References/Progression/RaceMult.md` 348 still says Fabrication.
+- The chapter’s Sleep Resistance L4 has no attribute line, and Vitality and Endurance sit at 4 (`Story/Chapters/1-9.md` 276–277, 349–350). `References/Progression/RaceMult.md` 340 still adds +1 Vitality and +1 Endurance per level.
 
 ### Chapter 3
 
@@ -24,8 +24,8 @@ The last section is the prose disagreeing with itself.
 
 ### Chapter 4
 
-- The chapter says Mana Sense leveling only widens range and clarity (`Story/Chapters/1-9.md` 687). `References/Progression/Levels.md` 340 still adds Intelligence and Willpower.
-- The chapter says he can gain only combat skills (`Story/Chapters/1-9.md` 776). `References/Progression/Levels.md` 325 still opens pre-class basics such as climbing, throwing, and Identify.
+- The chapter says Mana Sense leveling only widens range and clarity (`Story/Chapters/1-9.md` 687). `References/Progression/RaceMult.md` 340 still adds Intelligence and Willpower.
+- The chapter says he can gain only combat skills (`Story/Chapters/1-9.md` 776). `References/Progression/RaceMult.md` 325 still opens pre-class basics such as climbing, throwing, and Identify.
 
 ### Chapter 5
 
@@ -36,10 +36,10 @@ The last section is the prose disagreeing with itself.
 ### Chapter 6
 
 - The chapter prints MP 1164/1164 (`Story/Chapters/1-9.md` 1287). `Story/Notes/Status.md` 224 still says 1028.
-- The chapter says Blessed by Mana adds MP after each level (`Story/Chapters/1-9.md` 1253). `References/Progression/Levels.md` 26 still calls it narrative regen only.
-- The chapter says Mage levels add Strength (`Story/Chapters/1-9.md` 1340). `References/Progression/Levels.md` 463 still says Intelligence and Willpower.
-- The chapter says Mana Scribe gives few stat points (`Story/Chapters/1-9.md` 1354). `References/Progression/Levels.md` 468 still says Intelligence, Dexterity, and Willpower.
-- The chapter says battle classes are required to raise Vitality (`Story/Chapters/1-9.md` 1382). `References/Progression/Levels.md` 469 still gives Vitality to Acolyte and to Basics.
+- The chapter says Blessed by Mana adds MP after each level (`Story/Chapters/1-9.md` 1253). `References/Progression/RaceMult.md` 26 still calls it narrative regen only.
+- The chapter says Mage levels add Strength (`Story/Chapters/1-9.md` 1340). `References/Progression/RaceMult.md` 463 still says Intelligence and Willpower.
+- The chapter says Mana Scribe gives few stat points (`Story/Chapters/1-9.md` 1354). `References/Progression/RaceMult.md` 468 still says Intelligence, Dexterity, and Willpower.
+- The chapter says battle classes are required to raise Vitality (`Story/Chapters/1-9.md` 1382). `References/Progression/RaceMult.md` 469 still gives Vitality to Acolyte and to Basics.
 
 ### Chapter 7
 
@@ -72,7 +72,7 @@ The last section is the prose disagreeing with itself.
 
 ### Chapter 11
 
-- Idle Spiked Boar XP locked at **6** across chapter (`Story/Chapters/10-18.md`), `Experience.md`, `Notes.md`, and `Levels.md`.
+- Idle Spiked Boar XP locked at **6** across chapter (`Story/Chapters/10-18.md`), `Experience.md`, `Notes.md`, and `RaceMult.md`.
 - The chapter calls Reyna white-haired (`Story/Chapters/10-18.md` 262). `Story/Notes/Notes.md` 153 still says gray hair and a white tail.
 - The chapter says the boar tastes like shit (`Story/Chapters/10-18.md` 360). `References/Handoff.md` 33 still says monster meat tastes good and spoils fast.
 - The chapter says he hunted the occasional wild boar (`Story/Chapters/10-18.md` 346). `Story/Notes/Experience.md` 21 and 82 still say goblins only, plus one scavenged leg.
@@ -86,7 +86,7 @@ The last section is the prose disagreeing with itself.
 ### Chapter 13
 
 - The chapter’s pay line is fourteen large silver a month, then three and a half times, then nearer to twice (`Story/Chapters/10-18.md` 756). `Story/Notes/Experience.md` 254 still says 5,857 LC over six months.
-- The chapter says cap XP is only partly saved (`Story/Chapters/10-18.md` 815). `References/Progression/Levels.md` 158 still says the bank carries in full.
+- The chapter says cap XP is only partly saved (`Story/Chapters/10-18.md` 815). `References/Progression/RaceMult.md` 158 still says the bank carries in full.
 - The chapter says Temperature Resistance (`Story/Chapters/10-18.md` 740). `Story/Notes/Skills.md` 492 still says Cold Resistance L1.
 
 ### Chapter 14
@@ -108,7 +108,7 @@ The last section is the prose disagreeing with itself.
 ### Chapter 17
 
 - The chapter says he lost XP for drawing the schematic too early (`Story/Chapters/10-18.md` 1571). `Story/Notes/Experience.md` 290 still says the full 1479 carries.
-- The chapter says the schematic paid as much as a Wereboar (`Story/Chapters/10-18.md` 1584). `References/Progression/Levels.md` 145 still says 2600 solo.
+- The chapter says the schematic paid as much as a Wereboar (`Story/Chapters/10-18.md` 1584). `References/Progression/RaceMult.md` 145 still says 2600 solo.
 - The chapter says fifteen small gold (`Story/Chapters/10-18.md` 1629). `Story/Notes/Status.md` 482 still says about 5977 LC.
 
 ### Chapter 18

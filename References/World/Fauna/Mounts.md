@@ -1,6 +1,6 @@
 # Mounts
 
-Riding, draft and companion beasts. Food herds: `../../Food/Food.md`. Ned: `../../People/Ned.md`. Agni: `../../People/Agni.md`. Fat notes: `MountsDesign.md`.
+Riding, draft and companion beasts. Food herds: `../../Food/Food.md`. Ned: `../../People/Ned.md`. Agni: `../../People/Agni.md`. Fat notes: `Design/MountsDesign.md`.
 
 ## Narrative
 
@@ -41,7 +41,7 @@ Four-eyed deer, six-legged lizards, wyverns and exotic stable rentals exist in l
 | Pointer | Role |
 |---|---|
 | `../../SourceLoot/Creatures.md` | Source names that include mounts / tames |
-| `MountsDesign.md` | Fat mount loot (absorb when a beat needs it) |
+| `Design/MountsDesign.md` | Fat mount loot (absorb when a beat needs it) |
 
 ## Open
 

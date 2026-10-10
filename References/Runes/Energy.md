@@ -65,7 +65,7 @@ A      = √C                     // ambient; open ground A = 1
 
 **Runes:** Runic energy is mana. Same substance, rules-based use.
 
-**Ink:** Blood or mana ink carries a usable path. Ordinary ink is like writing with water: almost no usable channel. Monster blood can work as path material; quality depends on the blood.
+**Ink:** Blood or mana ink carries a usable path. Ordinary ink is like writing with water: almost no usable channel. Monster blood can work as path material; quality depends on the blood. Earth ordinary / print / blood-pigment catalog: `../World/Science/Invent/Ink.md`.
 
 ### Pools
 

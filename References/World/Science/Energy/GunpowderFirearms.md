@@ -92,9 +92,9 @@ Doubling the charge in a .50 gives roughly 25 to 35 percent more velocity, not d
 
 ## Ned acid (powder feedstock invent)
 
-Companion biology invent. Character peg: `../../../People/Ned.md`. Species body: `../../Fauna/NeedleWorm.md`.
+Companion biology invent. Character peg: `../../../People/Ned.md`. Species body: `../../Fauna/Species/NeedleWorm.md`.
 
-Feedstocks and Earth animal precedents: `../../Fauna/NeedleWorm.md`.
+Feedstocks and Earth animal precedents: `../../Fauna/Species/NeedleWorm.md`.
 
 ### Strength vs Concentration
 
@@ -122,11 +122,11 @@ Below pH 0 chemists use the Hammett scale. Each step of 1 means 10 times stronge
 
 ### Real animal precedents
 
-Earth animal precedents for the gland: `../../Fauna/NeedleWorm.md`.
+Earth animal precedents for the gland: `../../Fauna/Species/NeedleWorm.md`.
 
 ### How Ned Could Work
 
-Gland layout (two sacs or one, chitin lining, dry output, spikes as mineral stores): `../../Fauna/NeedleWorm.md`. Nitration chemistry stays here.
+Gland layout (two sacs or one, chitin lining, dry output, spikes as mineral stores): `../../Fauna/Species/NeedleWorm.md`. Nitration chemistry stays here.
 
 ### Ned Acid Formula
 

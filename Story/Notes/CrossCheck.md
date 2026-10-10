@@ -43,8 +43,8 @@ Also update the matching reference when a named thing is new, renamed or its des
 | Spells | `References/Combat/Spells.md` |
 | Classes (all named) | `References/Progression/Classes.md` |
 | Roland’s classes | `References/Progression/RolandClasses.md` |
-| Class / skill levels, XP, packages, skill attribute bonuses | `References/Progression/Levels.md` |
-| Coin peg, wages, prices, ledgers | `References/World/Society/Economy.md` |
+| Class / skill levels, XP, packages, skill attribute bonuses | `RaceMult.md`, `ExperienceCurve.md`, `SkillRanks.md`, `ClassPackages.md` (hub `Progression.md`) |
+| Coin peg, wages, prices, ledgers | `References/World/Society/Economy/Economy.md` |
 | Food / meal flavor anchors | `References/Food/` (`Food.md`, `EssentialIngredients.md`, `EssentialFlavorings.md`) |
 | Places (inns, towns, shops) | `References/World/Geography/Places.md` |
 | Dungeon layouts / floor patterns | `References/World/Geography/DungeonDesign.md` |
@@ -75,12 +75,12 @@ Displayed = Body + Class levels + Skills/Traits (+ Other if needed)
 
 ## XP / coin quick rules
 
-- Kill XP: `50 × killed_L × RaceMult` (`Progression.md` / `Levels.md`). Goblin **1.0**; rat **0.2**; worm **0.5**; moth **2.0**; spiked boar **1.5**; wereboar **2.0**; people **1.0**. Ch 14 L55 pool **2750** / Roland **479**.
+- Kill XP: `50 × killed_L × RaceMult` (`Progression.md` / `RaceMult.md`). Goblin **1.0**; rat **0.2**; worm **0.5**; moth **2.0**; spiked boar **1.5**; wereboar **2.0**; people **1.0**. Ch 14 L55 pool **2750** / Roland **479**.
 - Class bar: `XP_to_next(L) = 500 × L`.
-- People danger ≠ sheet alone: stats × skills × gear × tactics (`Levels.md`). Companions take kill XP without eating the corpse.
+- People danger ≠ sheet alone: stats × skills × gear × tactics (`RaceMult.md`). Companions take kill XP without eating the corpse.
 - Pre-class bank: half penalty, **one-time** on first ascension only (`Experience.md`).
 - Skill / spell rank XP can fill a bar but must not silently cut a locked kill count.
-- Pouch math: update `Experience.md` (grind ledgers), `Items.md` (kit / stones), `Status.md` (chapter coin lines), `Society/Economy.md` / `Geography/Places.md` when a quoted price changes.
+- Pouch math: update `Experience.md` (grind ledgers), `Items.md` (kit / stones), `Status.md` (chapter coin lines), `Society/Economy/Economy.md` / `Geography/Places.md` when a quoted price changes.
 
 ## Common traps
 
@@ -121,11 +121,11 @@ Still needs attention when touching these beats:
 | Ch 12 drink / worm ledger | `Experience.md`, `Items.md`, `Notes.md`, `Skills.md` | First round **45 LC**; pocket **12** worms **+1,272 XP**; bar **~9,812/10k**; pet worm kept; Hands ≥**L7**. |
 | Ch 13 half-year Floor-3 | `Experience.md`, `Items.md`, `Skills.md`, `Status.md`, `StatusBreakdown.md`, `Timeline.md`, `Economy.md` | Carwen lock: **3 mo** goblins + **half year** with girls = **9 mo** total; leave age **11** / world **6y**. **342** kills; kill **40,776** + skill **4,608** → L25; haul **+5,857**; pouch **~5,977 LC**; Wereboar mats **156**. Live sheet Str **49** / Agi **63** / Int **137** / MP **2292** / SP **956**; **Basic Dodging L6**. No skill-name evolves. |
 | Ch 11–12 pouch / trial XP | `Items.md`, `Notes.md`, `Status.md`, `Experience.md` | Pouch **3,630 → 3,758 → ~4,413 → ~4,368**. Trial kill **+2,184** + Hands **~100** → bar **~8,540/10k**. Incantation stays **L6**. |
-| Ch 14 watcher / Ned evo | `Notes.md`, `NedStatus.md`, `Ned.md`, `Levels.md`, `Encounters.md` | Fencer **L55** / girls **~45**; people XP **`50 × L`**; pool **2750** / Roland **479**; Ned **25→26** **Greater Needle Worm** **4x**. |
+| Ch 14 watcher / Ned evo | `Notes.md`, `NedStatus.md`, `Ned.md`, `RaceMult.md`, `Encounters.md` | Fencer **L55** / girls **~45**; people XP **`50 × L`**; pool **2750** / Roland **479**; Ned **25→26** **Greater Needle Worm** **4x**. |
 | Ch 19 train / Ned / Edelgard | `Skills.md`, `NedStatus.md`, `Ned.md`, `Notes.md`, `Status.md`, `Items.md`, `Places.md` | Sound/Echo **L7**; Multitask **L5**; Breath **L5**; grill Heat/Cold/Pain **L5**; Recovery **L5**; Poison **L6**. Ned Spike/Stealth/Climb **L7**; Seal/Pain/Heat/Cold **L5**. Solaria tip **1 SS**; map **19 LC**; Crow **14 LC**; enter wallet **21,641 LC** (own savings + parting **10 SG**); end **21,598 LC**. |
-| Ch 19 Fire Orb schematic | `Notes.md`, `Items.md`, `Experience.md`, `Skills.md`, `Status.md`, `Levels.md` | Memory: **[High] +600** (uneven) then thin-sheet **[Highest] +400** (total **1000**); lesser quality ladder **100/200/400/600/1000**; bar **3479 / 13000**; Source one-shot Highest discarded. |
+| Ch 19 Fire Orb schematic | `Notes.md`, `Items.md`, `Experience.md`, `Skills.md`, `Status.md`, `ExperienceCurve.md` | Memory: **[High] +600** (uneven) then thin-sheet **[Highest] +400** (total **1000**); lesser quality ladder **100/200/400/600/1000**; bar **3479 / 13000**; Source one-shot Highest discarded. |
 | Writing tools / pencil invent | `References/World/Science/Invent/WritingTools.md`, `Geography/Places.md`, `Ideas.md`, `Ned.md`, `Notes.md` Ch 19–20 | Terra: soft metal, chalk, quills, rare fountain pens. **No** common pencil; **no** Edelgard lump graphite. Roland synthesizes graphite; Ned toxin-free spike; invents pencil then pen after metalwork. Source Ch 20 “buys pencil” dropped (prose still has Source buys at Ch 20/22/26 until rewritten). |
-| Paper / hide surfaces | `Paper.md`, `Society/Economy.md` §17, `Invent/WritingTools.md`, `Tech/Technology.md` | Craftsman economy. Lock vs early pegs / **Ch 19 only**. Lowest magical hide **2–6 LC** (~**4–5** typ) undercuts paper **5–12**. Magical paper **20–60**. Mundane parchment **25–80** / finest **60–250**. Source Ch 20 blank≈scroll prices discarded; retune when writing Ch 20+. |
+| Paper / hide surfaces | `Paper.md`, `Society/Economy/Economy.md` §17, `Invent/WritingTools.md`, `Tech/Technology.md` | Craftsman economy. Lock vs early pegs / **Ch 19 only**. Lowest magical hide **2–6 LC** (~**4–5** typ) undercuts paper **5–12**. Magical paper **20–60**. Mundane parchment **25–80** / finest **60–250**. Source Ch 20 blank≈scroll prices discarded; retune when writing Ch 20+. |
 | Ch 14 ambush | `Skills.md`, `Status.md`, `Notes.md` | **Basic Dodging L6→L7** mid-chase; Agi **64** / SP **959**. |
 | Wallet path Ch 13→19 | `Experience.md`, `Items.md`, `Status.md`, `Notes.md` | **5,977** → **+5 SG** → **10,977** → **+~664** → **11,641** → **+10 SG** → enter **21,641** → tip/map/Crow → **21,598**. |
 | Ch 15 cremation / schematic | `Notes.md`, `Items.md`, `Experience.md`, `Skills.md`, `Weapons.md` | Body burn **1000 MP**; tip **125 MP**; hold-lock insert; Detonation [Highest] **+1000**; bank **1479**; Enchanter affinity dead-end. |
@@ -133,7 +133,7 @@ Still needs attention when touching these beats:
 | Ch 17 leave / L26 sheet | `Notes.md`, `Items.md`, `Status.md`, `Family.md`, `Encounters.md` | Ned wake; shield-muffled rapier (**2096/2309**); shows **Edelgard**; letters to father/Martha; loot **>20 SG** / girls **+5**; hammer ask. |
 | Ch 18 Impact / farewell | `Notes.md`, `Items.md`, `Experience.md`, `Skills.md`, `AdventurerRanks.md` | Impact [Highest] + Drawing L1; bar **2479 / 13000**; Bronze→Steel; parting bag; hugs; component fantasies. |
 | Mana Bolt joule / Int curve | `References/World/Science/Energy/ManaCast.md`, chapter fight beats | Keep formula and on-page damage language aligned when editing fights. |
-| Meal / lodging quotes | `References/World/Society/Economy.md`, PlacesDesign, Ch 9 Notes | Meal **5 LC**; lodging **1 SS**/night + **5 LC** breakfast; monthly ~**10%** on **30** nights → **270 LC**. Year = **12×30 + New Year's Day** (**361**). |
+| Meal / lodging quotes | `References/World/Society/Economy/Economy.md`, PlacesDesign, Ch 9 Notes | Meal **5 LC**; lodging **1 SS**/night + **5 LC** breakfast; monthly ~**10%** on **30** nights → **270 LC**. Year = **12×30 + New Year's Day** (**361**). |
 | Goblin Hunter title | `Skills.md` / `Status.md` Ch 9.5–10 | Past **1000** kills into the skip; card text matches chapter. |
 | Ch 10 nest ledger | `Experience.md`, `Items.md`, `Status.md`, `Notes.md` | **+7** kills → **1,095**; pouch **3,630 LC**; stones **220** rice + **8** leader. |
 | Source delay skills | `Roland's Skills.md`, `Early Logical Skills.md` | Absorption/Reinforcement already owned in rewrite; Heat/Hands self-taught Ch 9.5; later book chapters = rank practice only. |

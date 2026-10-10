@@ -9,66 +9,68 @@ Earth-physics and craft anchors. Cast / mana law hub: `../../Runes/Energy.md`. M
 | [Metallurgy](Metallurgy/Index.md) | Forge metals, Earth alloys, ores, vacuum, gem seats, kitchen metal |
 | [Biomaterials](Biomaterials/Index.md) | Animal / Ned material process, rubber, insect stocks, wood |
 | [Energy](Energy/Index.md) | Stones, cast tables, batteries, engines, motors, fans, compression, flight, waves |
-| [Body](Body/Index.md) | Skin/limbs/teeth, Gut Check (ART), falling, mind-body skill, 360 vision, crystal minds |
-| [Invent](Invent/Index.md) | Century invent ladder, industrialization, paper, writing tools |
+| [Body](Body/Index.md) | Skin/limbs/teeth, Gut Check (ART), falling, speed / measurement perception, mind-body skill, 360 vision, crystal minds |
+| [Invent](Invent/Index.md) | Century invent ladder, industrialization, paper, writing tools, toilet design, perfected everyday goods |
 | [Vehicle](Vehicle/Index.md) | Suspension, brakes, positions, wheels, roads, mobile home / caravan |
 
 ## Detail
 
 ### Metallurgy
 
+Ownership and file list: [Metallurgy/Index.md](Metallurgy/Index.md). Street stock: `../Materials/Materials.md`. MAGIC law: `../Materials/Metals.md`.
+
 | File | Holds |
 |---|---|
 | `Metallurgy/CraftMetal.md` | Magic + forge metallurgy; mythril / orihalcum / aurium / dark-star Fe-steel / adamantium shop |
-| `Metallurgy/MagicPowderMetallurgy.md` | Magic PM: conjured dies / HIP / vacuum weld; powder + mage labor limits |
-| `Metallurgy/EarthAlloys.md` | Earth alloy / carbon production encyclopedia (not Terra metal law) |
+| `Metallurgy/EarthAlloys.md` | Earth alloy / carbon grade physics and vacuum production (not Terra metal law) |
+| `Metallurgy/CommonAlloys.md` | Alloy compositions, ratios and processing recipes |
+| `Metallurgy/ToxicMetalSubstitutes.md` | Lead / Cd / Be / Hg / As swaps, removal and shop cleanup |
 | `Metallurgy/MetalOres.md` | Ore geography and extract routes |
-| `Metallurgy/Silver.md` | Earth silver melt / spit / tarnish / mirrors (mythril line stays in Materials/Metals.md) |
+| `Metallurgy/SilicaSand.md` | Quartz vs silica sand, specs, flowsheet, separation tables, field ID |
 | `Metallurgy/Titanium.md` | Ti sources, USGS quantities, volcanic placer / laterite recovery |
+| `Metallurgy/TitaniumProcessing.md` | Industrial mine → concentrate → pigment / sponge → mill (canon Kroll) |
+| `Metallurgy/TitaniumBootstrap.md` | Beach-to-metal low-tech bootstrap (Hunter). Design loot |
+| `Metallurgy/Nickel.md` | Earth Ni: ores, sulfide / laterite routes, refining, Hawaiian olivine hydromet |
+| `Metallurgy/Nitinol.md` | Earth NiTi shape memory / superelasticity |
+| `Metallurgy/Silver.md` | Earth silver melt / spit / tarnish / mirrors (mythril line stays in Materials/Metals.md) |
 | `Metallurgy/Brass.md` | Cu–Zn melt, work, fittings |
 | `Metallurgy/CopperPipe.md` | Tube temper, join, water kill |
 | `Metallurgy/OverheatedMetals.md` | Burn / overheat by metal |
-| `Metallurgy/StructuralForge.md` | Hammers, beams, vacuum-seam pipe/I-beam |
+| `Metallurgy/TraditionalBlacksmithing.md` | Coal forge shop layout, fire, techniques, heat treat, projects |
 | `Metallurgy/BlacksmithProducts.md` | Product difficulty, time, fuel |
 | `Metallurgy/Arrowheads.md` | Forged / cast heads, flight |
-| `Metallurgy/GemInlay.md` | Unbreakable jewelry-gem seats (not mana cores) |
+| `Metallurgy/StructuralForge.md` | Hammers, beams, vacuum-seam pipe/I-beam |
+| `Metallurgy/Thermometers.md` | Temperature readout ladder |
+| `Metallurgy/MagicPowderMetallurgy.md` | Magic PM: conjured dies / HIP / vacuum weld; powder + mage labor limits |
 | `Metallurgy/RunicBladeChannels.md` | Internal runic channels |
+| `Metallurgy/GemInlay.md` | Unbreakable jewelry-gem seats (not mana cores) |
 | `Metallurgy/Vacuum.md` | Void-Weld / forcefield vacuum craft |
 | `Metallurgy/VacuumForcefieldHeat.md` | Radiant HT in forcefield vacuum |
 | `Metallurgy/SteelVacuumChamber.md` | Physical chamber build |
-| `Metallurgy/Thermometers.md` | Temperature readout ladder |
 
 ### Biomaterials
+
+Index and ownership: [Biomaterials/Index.md](Biomaterials/Index.md).
 
 | File | Holds |
 |---|---|
 | `Biomaterials/Biomaterials.md` | Process pipeline; N× vs living-stat scale; Ned harvest |
-| `Biomaterials/RubberAndInsect.md` | Latex, silk, glues; Ned strength/sticky targets |
+| `Biomaterials/RubberAndInsect.md` | Latex, insect toolkit, Ned strength/sticky targets |
 | `Biomaterials/BiologicalSilks.md` | Silk types; Ned cellulose silk |
+| `Biomaterials/BiologicalAdhesives.md` | Dry, wet, capture and harvested natural adhesives |
 | `Biomaterials/WoodProcessing.md` | Seasoning + vacuum kiln |
 
 ### Energy
 
+Index and ownership: `Energy/Index.md`.
+
 | File | Holds |
 |---|---|
-| `Energy/ManaCast.md` | Spell-specific cast tables (shared law in `../../Runes/Energy.md`) |
-| `Energy/ManaConcentration.md` | Ambient mana density vs altitude (`C`, `A = √C`); layers/orbits: `../Space/` |
 | `Energy/ManaStones.md` | Size / mass / recharge / market tables (dump law in MonsterCores) |
-| `Energy/Batteries.md` | Chemical cells vs mana stones |
+| `Energy/ManaCast.md` | Spell-specific cast tables (shared law in `../../Runes/Energy.md`) |
+| `Energy/ManaConcentration.md` | Ambient mana density vs altitude (`C`, `A = √C`); layers/orbits: `../../Space/` |
 | `Energy/RefinedMana.md` | Stillwire / Lightthread from stones |
-| `Energy/FanAirflow.md` | Fan φ/ψ power |
-| `Energy/QuietBlowDryer.md` | Quiet dryer design: heat cost vs airflow, silk wrap, rigid shell |
-| `Energy/Compression.md` | Fire Piston, Frost, air cartridge |
-| `Energy/CloakAirCooling.md` | Compress-expand cloak (forgoes for cold rune) |
-| `Energy/Flight.md` | Hover / lift power |
-| `Energy/Pumps.md` | Lift, head, taps |
-| `Energy/Kinetic.md` | Kinetic pours / throws |
-| `Energy/Sound.md` | Sound Production / echolocation |
-| `Energy/Waves.md` | Wave / ozone bands |
-| `Energy/Optics.md` | Water-lens; lasers; glints; cavities; radiance / collimators |
-| `Energy/Lighting.md` | Incandescent, limelight, discharge, LED structure / failure; Caldris filter |
-| `Energy/Projectiles.md` | Projectile physics; flywheel pinch launch |
-| `Energy/GuidedProjectiles.md` | Guided munitions, mechanical vs computer guidance, turn-radius limits |
+| `Energy/Batteries.md` | Chemical cells vs mana stones |
 | `Energy/Engines.md` | Which prime mover: steam, Stirling, or electric motor |
 | `Energy/SteamEngines.md` | Reciprocating and turbine steam; boilers; efficiencies |
 | `Energy/StirlingEngines.md` | Closed-cycle external heat; alpha / beta / gamma; regenerator |
@@ -76,20 +78,38 @@ Earth-physics and craft anchors. Cast / mana law hub: `../../Runes/Energy.md`. M
 | `Energy/Generators.md` | Faraday generators; paired flywheels; cryogenic / relativistic drain bottleneck |
 | `Energy/FlywheelStorage.md` | Rim-weighted indestructible flywheel sizes; 0.1c / 0.9c; solid-drum pack |
 | `Energy/FlywheelApplications.md` | Lossless crystal laser / lighting / loads from flywheel sets; air ceilings |
+| `Energy/Compression.md` | Fire Piston, Frost, air cartridge, cloak compress-expand cooling (forgoes for cold rune) |
+| `Energy/FanAirflow.md` | Fan φ/ψ power |
+| `Energy/Pumps.md` | Lift, head, taps |
+| `Energy/Flight.md` | Hover / lift power |
+| `Energy/Optics.md` | Water-lens; lasers; glints; cavities; radiance / collimators |
+| `Energy/FiberOptics.md` | How fiber works; fused-silica glass, bend / strength / thermal / cable types |
+| `Energy/Lighting.md` | Incandescent, limelight, discharge, LED structure / failure; Caldris filter |
+| `Energy/Waves.md` | Wave / ozone bands |
+| `Energy/Sound.md` | Sound Production / echolocation |
 | `Energy/Kinetic.md` | Kinetic pours / throws; recoil / countermass |
+| `Energy/Projectiles.md` | Projectile physics; flywheel pinch launch |
+| `Energy/GuidedProjectiles.md` | Guided munitions, mechanical vs computer guidance, turn-radius limits |
 | `Energy/GunpowderFirearms.md` | Medieval / Victorian powder chemistry and raw materials |
+| `Energy/QuietBlowDryer.md` | Quiet dryer design: heat cost vs airflow, silk wrap, rigid shell |
 
 ### Body
+
+Index and ownership: [Body/Index.md](Body/Index.md).
 
 | File | Holds |
 |---|---|
 | `Body/Body.md` | Limbs, skin heat, grill, stealth, teeth; street recoil tolerance |
 | `Body/ART.md` | Gut Check / ART / dowsing |
-| `Body/Falling.md` | Fall thresholds, Shepherd's Leap |
-| `Body/MindBodySkill.md` | Recall ≠ motor skill (Drawing etc.) |
 | `Body/FocusCapacity.md` | Mental capacity (N men); Multitasking split %; Parallel Thinking skill (N parallels) |
+| `Body/MindBodySkill.md` | Recall ≠ motor skill (Drawing etc.) |
+| `Body/MeasurementPerception.md` | Weight / length / volume estimates; magnification vs hand tremor |
+| `Body/Falling.md` | Fall thresholds, Shepherd's Leap |
+| `Body/SpeedPerception.md` | Optic flow, RT pipeline, pursuit limits |
 | `Body/Vision360.md` | Full-sphere vision: acuity, Rig A / Band B / Helm C, tiers, ten-men mind |
-| `Body/CrystalMinds.md` | Human vs LLM compute; crystal brains, copies, magic segments (holding file) |
+| `Body/CrystalMinds.md` | Human vs LLM compute; crystal brains, copies, magic segments (holding; Earth anchors) |
+| `Body/CrystalComputerMath.md` | Self-improvement ignition; multi-state digits; binary / trinary / hexanary / octonary crystal architectures |
+| `Body/OctonaryCrystalBrain.md` | Bidirectional eight-state diamond brain: limits, heat, reversible compute, density, programming |
 
 ### Invent
 
@@ -100,7 +120,9 @@ Earth-physics and craft anchors. Cast / mana law hub: `../../Runes/Energy.md`. M
 | `Invent/MechanicalPrecision.md` | Shop precision / governors |
 | `Invent/Paper.md` | Paper economy and craft |
 | `Invent/PaperFormats.md` | Sheet sizes |
+| `Invent/PerfectedItems.md` | Settled everyday goods; Earth manufacturing notes |
 | `Invent/Printing.md` | Gutenberg / civilian-product invent seed |
+| `Invent/ToiletDesign.md` | Flush systems, seats, soft-close dampers |
 | `Invent/WritingTools.md` | Pencil / pen invent path |
 
 ### Vehicle

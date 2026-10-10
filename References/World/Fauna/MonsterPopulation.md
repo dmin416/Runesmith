@@ -1,6 +1,6 @@
 # Monster Population
 
-Hub: `../World.md`. Human demography: `../Society/Population.md`. Prices: `../Society/Economy.md`. Mana `C`/`A`: `../Science/Energy/ManaConcentration.md`. Dungeons: `../Geography/Dungeons.md`. Species cards: `Creatures.md`. Story place fill: `../Geography/PlacesPopulation.md`.
+Hub: `../World.md`. Human demography: `../Society/Population.md`. Prices: `../Society/Economy/Economy.md`. Mana `C`/`A`: `../Science/Energy/ManaConcentration.md`. Dungeons: `../Geography/Dungeons.md`. Species cards: `Creatures.md`. Story place fill: `../Geography/PlacesPopulation.md`.
 
 Caldris-scale ecology and loot demand. World totals below are unlocked reference only. **Given-area worksheet** is at the end.
 
