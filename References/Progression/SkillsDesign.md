@@ -7,6 +7,8 @@ System and class skills and traits named in the story. Companion (Agni) and ally
 
 ## Perception and analysis
 
+Ideas tree (M ladders, fusions, Examine line): `SensingManaSoundSystem.md`. Soft-ok √M / echo M^1/4. Do **not** replace live Diagnosis with a Tier-3 fusion.
+
 ### Diagnosis
 > Old Source name was Debugger. Live canon: **Diagnosis** (D-only). Do not reinstate Debugger as the live skill name.
 
@@ -108,7 +110,7 @@ Writing skill. Roland takes calligraphy books when leaving Arden. Grinds months 
 
 ## Resistance and recovery
 
-Unread alternate ladder (Resistance → Immunity → Fused, tolerance temps, kinetic, breath/aim/heal): `ResistanceImmunitySystem.md`. Live rows below still win.
+Ideas ladder (Resistance → Immunity → Fused; M = 1/(1−r); Thermal / Kinetic / Bodily / Mind): `ResistanceImmunitySystem.md`. Live rows below still win. Soft-ok: Resistance % / M framing matches −10%/level; Blunt+Sharp; stopped-sharp→blunt; access gating. Roland also grinds **Acid / Electricity / Blunt / Sharp**: `RolandResistanceTracks.md`.
 
 ### Sleep Resistance
 First seen: Chapter 2
@@ -188,6 +190,42 @@ First seen: Chapter 13 as ambient **Temperature Resistance** (cold bare inn / cl
 ### Cold Immunity (evolve)
 From Cold Resistance L9. Same **-10%/level** to floor **1%** cold effect. Magical deep-freeze / abyss cold can still land through the remainder.
 
+### Acid Resistance
+**Rewrite lock:** Roland levels this (`RolandResistanceTracks.md`). Not on early Source sheet as a named track.
+
+**Each level: -10% acid / corrosive harm** (chemical burn, dissolving fluids, acid spit) vs the same exposure. L1 = 90% → L9 = 10%.
+
+**Vitality +1 per level**, **Endurance +1 per level.**
+
+Not Poison (toxin status) and not Heat (thermal). Some dungeon goo may credit both Acid and Poison if the beat says so. Evolve → **Acid Immunity** (floor **1%**) when timing fits.
+
+### Electricity Resistance
+**Rewrite lock:** Roland levels this (`RolandResistanceTracks.md`). Goals wishlist promoted.
+
+**Each level: -10% shock / lightning harm** (damage, stun-arc strength, heart-stop risk from current) vs the same hit. L1 = 90% → L9 = 10%.
+
+**Vitality +1 per level**, **Endurance +1 per level.**
+
+Heat and Cold do not cover this. Paralysis from shock can still want a separate Paralysis track for true binds. Evolve → **Electricity Immunity** (floor **1%**) when timing fits.
+
+### Blunt Resistance
+**Rewrite lock:** Roland levels this (`RolandResistanceTracks.md`). Kinetic pair with Sharp.
+
+**Each level: -10% blunt / crush / impact harm** vs the same hit. L1 = 90% → L9 = 10%.
+
+**Vitality +1 per level**, **Endurance +1 per level.**
+
+Falls, hammers, fists, compression. Head blackout / concussion may stay narrative or a later named skill; tissue crush still uses this track. Evolve → **Blunt Immunity** (floor **1%**) when timing fits.
+
+### Sharp Resistance
+**Rewrite lock:** Roland levels this (`RolandResistanceTracks.md`). Sibling **next to Blunt**. Covers **piercing and slashing** as **one** skill (do not split Piercing vs Slashing on his sheet).
+
+**Each level: -10% cut / thrust / edge / point harm** vs the same hit. L1 = 90% → L9 = 10%.
+
+**Vitality +1 per level**, **Endurance +1 per level.**
+
+Blades, arrows, needles, claws. Ned tip **wounds** can credit Sharp; Ned **toxin** stays Poison. Evolve → **Sharp Immunity** (floor **1%**) when timing fits.
+
 ### Recovery
 First seen: Chapter 13 (half-year)
 Passive. Ordinary body skill (not a Heal spell; not Resilience). Unlocks from **repeated small wounds that are allowed to clot and close**: Roland's daily Mana Hands skin pokes and **150 mL** whole-blood drips to Ned, then the holes knitting overnight. Harder to unlock without that kind of steady micro-trauma.
@@ -217,7 +255,7 @@ Evolves from Recovery at **L9** when timing fits (**~2 years** after Ch 19 in th
 
 ### Sound Production
 First seen: Chapter 19 (train cabin)
-Active / technique. Make controlled clicks, taps and tones with the body (tongue click, finger snap) or with **mana pressure pulses** shaped in air (Heat's cousin: pressure instead of heat). Soft cabin volume is nearly free mana. Loud combat ping scales with `../World/Science/Energy/Sound.md` power equations. **Pitch control** is part of the grind: push pulses **above or below** ordinary human hearing so the ping is for the caster's return map, not for an audience.
+Active / technique. Make controlled clicks, taps and tones with the body (tongue click, finger snap) or with **mana pressure pulses** shaped in air (Heat's cousin: pressure instead of heat). Soft cabin volume is nearly free mana. Loud combat ping scales with `../World/Science/Energy/Sound.md` power equations. **Pitch control** is part of the grind: push pulses **above or below** ordinary human hearing so the ping is for the caster's return map, not for an audience. Ideas depth (Sound Mastery / Resonance): `SensingManaSoundSystem.md`.
 
 **Levels:** cleaner pitch, sharper attack, tighter direction and optional enhancement (louder / thinner / multi-click bursts) without wasting draw.
 

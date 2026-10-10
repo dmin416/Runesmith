@@ -399,6 +399,8 @@ Ned produces cellulose silk, glycerin from his hemolymph, and acid made by eatin
 
 ### Real animal precedents
 
+Concentration ceilings, spit range at 10× body power, binary hot spray: `../BiologicalAcid.md`.
+
 - Ants spray formic acid.
 - Vinegaroons (whip scorpions) spray acetic acid at about 85 percent strength.
 - Tun snails secrete saliva containing sulfuric acid to break down the shells of their prey.

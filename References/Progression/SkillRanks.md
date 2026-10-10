@@ -52,6 +52,8 @@ The name hard-caps at **L9**. It evolves at **2,000,000** clean uses, when the a
 
 **Peak use (narrative):** working the ability at its current peak (hardest clean cast, longest hold, sharpest clear, densest absorb loop he can sustain) accelerates how fast the bar moves. Soft or lazy reps still count when clean, but climb slower in the story. This is mostly narrative pacing, not a second formula on top of the cum-use table.
 
+**Short-climb brake (optional dial):** if a skill would rank absurdly fast under raw counting, multiply uses / skill-exp needed by **current skill level** and / or **evolution tier**. If the climb is already long, leave the flat table alone. Full rule: `SkillLevelCostMultiplier.md`.
+
 **What counts**
 - **Spells:** every finished cast (chant completes, spell leaves the hand).
 - **Breath Control:** **1 minute** of breath held = **1** clean use. Partial minutes add up. Long holds count by their length, not by hold count.

@@ -67,6 +67,7 @@ Living-field reads sit inside Energy Sense, not beside it.
 - **Goal:** Resist charm, fear, illusion, compulsion and confusion.
 - **Why:** A mind 10 to 15 times average is his greatest asset and a prime target.
 - **Driver:** Willpower.
+- **Ideas:** Fear/Charm → Unshakable Mind line in `../../Progression/OtherUsefulSkillsSystem.md`.
 
 ### Breath Control
 
@@ -88,6 +89,7 @@ Living-field reads sit inside Energy Sense, not beside it.
 
 - **Goal:** Resist shock and lightning.
 - **Why:** Not covered by heat or cold. Causes paralysis and heart failure.
+- **Lock:** Roland levels this track. Live blurbs: `../../Progression/SkillsDesign.md`. Full set with Acid / Blunt / Sharp: `../../Progression/RolandResistanceTracks.md`. Idea current thresholds: `../../Progression/OtherUsefulSkillsSystem.md`.
 
 ### Blood Regeneration
 

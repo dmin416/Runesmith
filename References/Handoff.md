@@ -36,6 +36,7 @@ Lock live canon in this folder. Rewrite prose: `../Story/Chapters/`. Treat `Sour
 - Personal firearms not widespread (high-class archer ≈ cannon); ship magic cannons exist. `World/Tech/Technology.md`.
 - No mana pool → no active absorb. Rich fields may heal body/spirit; no stored mana on leaving. Forced absorb = radiation-class poison. `Progression/Progression.md`.
 - Spell→craft gate: spells Roland can cast → **magic scrolls** yes; **runes / runic scrolls** no (needs external rune sample). Magic scroll ≠ runic scroll. Intention extras (follow a person, mind-lock a target) stay scarce even if such runes exist. `Runes/SpellToCraftGate.md`.
+- Roland also levels **Acid / Electricity / Blunt / Sharp** resists (Sharp = pierce + slash next to Blunt; do not split Piercing vs Slashing). Same −10%/level family. `Progression/RolandResistanceTracks.md`.
 
 ## Source loot
 

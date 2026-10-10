@@ -14,4 +14,5 @@ Up: [World](../Index.md)
 - [MonsterPopulation.md](MonsterPopulation.md). Caldris-scale ecology and loot demand. World totals below are unlocked reference only. Given-area worksheet is at the end.
 - [MonsterThreat.md](MonsterThreat.md). Species threat dial for prose. XP: ../../Progression/Levels.md (RaceMult). Early ladder: Creatures.md. Fat cards: Design/CreaturesDesign.md.
 - [Mounts.md](Mounts.md). Riding, draft and companion beasts. Food herds: ../../Food/Food.md. Ned: ../../People/Ned.md. Agni: ../../People/Agni.md. Fat notes: Design/MountsDesign.md.
+- [BiologicalAcid.md](BiologicalAcid.md). Earth research: acid spit anatomy, concentration ceilings, 10× physical delivery. Seeds for Myrmekes / Ned glands.
 - [ToxinSequestration.md](ToxinSequestration.md). Earth research: diet → stored poison (frogs, puffer, monarch deep dive). Story seed for monster toxins / Poison Resistance.

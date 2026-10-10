@@ -2,7 +2,7 @@
 
 ## Narrative
 
-Ned is D's first tamed companion, a Floor-2 Needle Worm worn as a green scarf. D steers him away from the wild moth line into a stronger worm path built for charges, needles, silk, poison, and durability. Harvest materials: `../World/Science/Biomaterials/Biomaterials.md`. Silk Earth anchors: `../World/Science/Biomaterials/BiologicalSilks.md`. Species body / scaling: `../World/Fauna/Species/NeedleWorm.md`. Training design: `NedDesign.md`. Skill grind: `../Progression/CompanionSkillLeveling.md`.
+Ned is D's first tamed companion, a Floor-2 Needle Worm worn as a green scarf. D steers him away from the wild moth line into a stronger worm path built for charges, needles, silk, poison, and durability. Harvest materials: `../World/Science/Biomaterials/Biomaterials.md`. Silk Earth anchors: `../World/Science/Biomaterials/BiologicalSilks.md`. Species body / scaling: `../World/Fauna/Species/NeedleWorm.md`. Training design: `NedDesign.md` (includes Ned↔D skill cycle). Skill grind: `../Progression/CompanionSkillLeveling.md`.
 
 ## Detail
 

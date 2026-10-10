@@ -22,6 +22,8 @@ Skin, limbs, teeth, Gut Check, falling, speed / measurement perception, mind-bod
 - [Falling.md](Falling.md). Fall thresholds, Shepherd's Leap
 - [SpeedPerception.md](SpeedPerception.md). Human speed sense: optic flow, RT pipeline, pursuit limits, sport and travel tables (Earth research)
 - [Vision360.md](Vision360.md). Full-sphere vision: acuity, Rig A / Band B / Helm C, tiers, ten-men mind
+- Space radiation / heat-resistance vs ionizing (Earth research): `../../Space/Radiation.md` pack, especially `../../Space/Radiation/RobustHeatHuman.md` and `../../Space/Radiation/NonIonizing.md`
+- Radiation-damage immunity vs flash blindness / dazzle: `../../Space/Radiation/RadiationVision.md`
 
 ## Crystal mind (design loot)
 

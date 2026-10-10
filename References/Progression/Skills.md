@@ -18,10 +18,15 @@ Live skill law stays thin here and in `Progression.md`. Rank / evolve / field-us
 | File | Role |
 |---|---|
 | `SkillRanks.md` | L1–L9 / evolve, field-use curve, attribute pads |
+| `SkillLevelCostMultiplier.md` | Optional brake: × level / evolution tier only when climbs are absurdly short |
 | `SkillsDesign.md` | Named skills / traits catalog (Diagnosis rows replace Debugger) |
+| `RolandResistanceTracks.md` | Roland grind lock: Acid / Electricity / Blunt / Sharp (+ live resist set) |
 | `CompanionSkillLeveling.md` | Companion (Ned-first) action/aptitude grind |
 | `NormalPersonSkills.md` | Ordinary L9 training-time clocks (no system acceleration) |
 | `SkillsRedesign.md` | WIP redesign park (not a second lock) |
+| `ResistanceImmunitySystem.md` | Ideas: resist M / Fused families |
+| `SensingManaSoundSystem.md` | Ideas: sense / mana / sound M trees |
+| `OtherUsefulSkillsSystem.md` | Ideas: other M skill lines (recovery / combat / craft / …) |
 | `../SourceLoot/RolandStatus.md` | Source-scraped Roland skills / titles / classes |
 
 ## Open

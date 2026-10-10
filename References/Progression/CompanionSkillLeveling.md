@@ -29,20 +29,27 @@ Skills cap at **L9**. Filling the L9 bar triggers a **skill evolution** instead 
 | Skill | Action | Governing stat | Aptitude at 1x | Aptitude at 13x |
 |---|---|---|---|---|
 | Spike Throwing / Needle Launch | One spike or rock thrown at a target | Dexterity | 0.58 | 2.08 |
+| Needle Formation | One tip bed fully replaced after harvest / wear | Vitality + Strength | 1.29 | 4.65 |
+| Needle Absorb | One tip (or equal mass) swallowed and broken down | Vitality | 1.29 | 4.65 |
+| Acid Production | One gland fill pulse to usable spray volume | Vitality + Intelligence | 1.0 | 3.6 |
+| Acid Spray / Aim | One aimed spit (board or controlled target) | Dexterity + Willpower | 0.58 | 2.08 |
 | Silk Production | One strand spun for binding or line | Dex + Int | 0.58 | 2.08 |
 | Stealth / Camouflage | One held hide or ambush attempt | Agility + Willpower | 0.89 | 2.90 |
 | Climbing | One climb segment (tree, wall, panel, rack) | Strength + Agility | 1.0 | 3.6 |
 | Spring Charge | One full coil and release | Strength | 1.15 | 4.10 |
 | Seal / Regeneration | One wound sealed | Vitality | 1.29 | 4.65 |
 | Poison Resistance | One dose ingested or exposure survived | Vitality | 1.29 | 4.65 |
-| Pain Resistance | One real pain dose survived (burn, frost, nick, impact) | Willpower + Endurance | 1.0 | 3.6 |
+| Pain Resistance | One real pain dose survived (burn, frost, nick, impact, bash) | Willpower + Endurance | 1.0 | 3.6 |
 | Heat Resistance | One real heat / burn exposure survived | Vitality + Endurance | 1.29 | 4.65 |
 | Cold Resistance | One real cold / frost exposure survived | Vitality + Endurance | 1.29 | 4.65 |
 
 - **Spring Charge** is throttled by the ~12 s reload and by muscle cost, so practical volume is a handful per day.
-- **Seal / Regeneration** is bottlenecked by injury supply. Roland's needle and blood harvesting gives small controlled wounds that feed it safely. Train week: shared heat/cold grill trauma feeds Seal the same way Roland’s **Recovery** climbs.
-- **Poison Resistance** is exposure-gated. Repeat doses of a toxin already mastered count at **0.25**, and each new toxin eaten counts at **5x** for its first dose.
-- **Pain / Heat / Cold** are dose-gated like Roland’s resistances. Same-family repeats slow after the first days. Ch 19: Roland grids Ned on purpose (controlled patches on plates/segments).
+- **Seal / Regeneration** is bottlenecked by injury supply. Roland's needle and blood harvesting gives small controlled wounds that feed it safely. Train week: shared heat/cold grill trauma feeds Seal the same way Roland’s **Recovery** climbs. Bash / dilute acid-edge nicks also feed Seal.
+- **Poison Resistance** is exposure-gated. Repeat doses of a toxin already mastered count at **0.25**, and each new toxin eaten counts at **5x** for its first dose. Own toxin is free / soft (self-immune).
+- **Pain / Heat / Cold** are dose-gated like Roland’s resistances. Same-family repeats slow after the first days. Ch 19: Roland grids Ned on purpose (controlled patches on plates/segments). Bash variety (poke / plate / coil / blunt) keeps Pain from soft-repeating one mode.
+- **Needle Formation / Absorb:** Formation is regrow after harvest; Absorb is eating tips / foreign needles for mass and acid feedstock. Absorb of a toxic foreign tip can also credit Poison Resistance.
+- **Acid Production / Spray:** Production is fill from spike feedstock (`BiologicalAcid.md`, `NeedleWorm.md` powder gland). Spray is aim control. Dilute splash on Roland is coached weight **1.0**; full-strength board shots count; face / eyes on Roland are forbidden in room drills.
+- **Room cycle schedule:** `../People/NedDesign.md` (Skill training cycle).
 
 ## Ch 13 half-year projection (~180 days)
 
@@ -58,7 +65,7 @@ Locked in `../../Story/Notes/NedStatus.md`. Exit overall **~25** / **~3x**, stil
 | Seal / Regeneration | 14 (2 harvest cuts + 6 combat wounds) | 2,520 | 1.75 | 4,410 | **L5** |
 | Poison Resistance | 12 (6 real doses) | 2,160 | 1.75 | 3,780 | **L5** (L4 if poison variety stays low) |
 
-**Ch 14–19:** Greater **4x** aptitude surge + Carwen closeout + train hide / climb / poke / **needle-launch catch** week + **shared Pain / Heat / Cold / Seal** grill → exit Spike **L7**, Silk **L5**, Stealth **L7**, Climbing **L7**, Charge **L6**, Seal **L9**, Poison **L5**, Pain **L8**, Heat **L6**, Cold **L6** (`NedStatus.md`).
+**Ch 14–19:** Greater **4x** aptitude surge + Carwen closeout + train hide / climb / poke / **needle-launch catch** week + **shared Pain / Heat / Cold / Seal** grill → exit Spike **L7**, Silk **L5**, Stealth **L7**, Climbing **L7**, Charge **L6**, Seal **L5**, Poison **L5**, Pain **L5**, Heat **L5**, Cold **L5** (`NedStatus.md` train-week lock). Acid / Formation / Absorb unlock when Roland starts feedstock drills (post-train invent beat; not on Ch 19 exit).
 
 ## Skill evolution at L9
 
@@ -67,6 +74,10 @@ Filling the L9 bar (**28,500 effective actions**) evolves the skill. The evolved
 | Skill | Evolves into |
 |---|---|
 | Spike Throwing | charged needle or Needle Volley (multi-needle launch) |
+| Needle Formation | Rapid Spike Bed / armored tip grow |
+| Needle Absorb | Fast Breakdown / foreign-tip feast |
+| Acid Production | Hot Binary Mix / concentrated fill |
+| Acid Spray / Aim | Long Stream / multi-spit |
 | Silk Production | net launch or Bindweave (load-bearing silk, snares, lines) |
 | Stealth / Camouflage | chameleon or color change |
 | Climbing | wall-run / cling climb |

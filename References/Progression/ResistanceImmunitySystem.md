@@ -1,27 +1,41 @@
-# Resistance and Immunity Skill System (Idea)
+# Resistance and Immunity Skill System
 
-> **Unread idea / design loot.** Not reviewed. **Not a lock.** Do not replace live body resists until accepted. Live hubs: `Skills.md`, `SkillsDesign.md`, `Attributes.md`, `SkillRanks.md`. Goals wishlist: `../People/Roland/Goals.md`.
-
-Parked framework for Resistance → Immunity → Fused tiers with multiplier **M = 1 / (1 − resistance)** and worked thermal / kinetic / bodily / performance tables.
+> **Ideas / design loot.** Not automatic law. Live hubs win: `SkillsDesign.md`, `Skills.md`, `SkillRanks.md`, `RolandResistanceTracks.md`, `ResistanceGrindRarity.md`. Goals: `../People/Roland/Goals.md`.
+>
+> Use freely for feel, thresholds, and future evolve flavor. Promote a row into `SkillsDesign.md` only when it **abides live rules** and a chapter needs it.
 
 ---
 
-## Conflicts with live law (read first)
+## Conflicts and soft-ok (read first)
 
-Most of this is okay as direction loot. These rows already have live rewrite math and **win** until this file is promoted:
+### Live wins (do not replace until accepted)
 
 | Topic | Live lock | This idea |
 |---|---|---|
-| **Sleep Resistance** | −10% sleep **need** per level → Sleep Immunity to **1%** floor (`SkillsDesign.md`, `Ideas.md`) | Part of Bodily family; Pure Body also cuts sleep need by hours table |
-| **Heat / Cold Resistance** | −10% **effect** per level → Immunity to **1%** floor (`SkillsDesign.md`) | Tolerance temperatures via M (cells survive real T; not insulation) |
-| **Poison Resistance** | −10% toxin effect per level (`SkillsDesign.md`) | Effective dose = dose / M |
-| **Breath Control** | `hold = T0 × M_body × BreathControl_level` with **1 min held = 1 use** (`SkillsDesign.md`, Ch 19 / Goals) | Renamed ladder Breath Holding → Suffocation Immunity → Fused; M from resistance % curve |
-| **Recovery / Rapid Recovery** | Live evolve track in Skills | Wound Recovery → Rapid Healing → Fused with regrowth unlock |
-| **Marksmanship** | Live combat skill | Aim → True Aim → Fused (separate idea ladder) |
+| **Sleep Resistance** | −10% sleep **need** from L1 → Immunity to **1%** floor (`SkillsDesign.md`) | Mind family; natural sleep need only drops at **Iron Will** (conflicts) |
+| **Heat / Cold** | −10% **effect** / level → Immunity to **1%** floor | Tolerance °C/K tables via M (cells survive real T; not insulation). Alternate model, not a silent replace |
+| **Poison / Pain / Alcohol** | −10% effect (or soft Alcohol) → Immunity floor where locked | Same M math for Resistance tier; Fused / Purge / pain-switch are new |
+| **Breath Control** | `hold = T0 × M_body × level`; 1 min = 1 use | Optional performance appendix only |
+| **Recovery** | Live evolve track | Optional Wound Recovery appendix only |
+| **Acid / Electricity** | Roland grind lock (`RolandResistanceTracks.md`) | Not in the four families below yet; keep separate until a family is written |
 
-**Breath holds:** already in file. Prefer live **Breath Control** name and body×level formula for chapters. This idea's oxygen-efficiency M table is optional alternate or evolve flavor if merged later.
+### Soft-ok (abides live; may use as feel without promoting Fused)
 
-**Shared shape that already matches live:** L1–L9 then evolve; −10%/level toward a high Immunity band is the same *family* of curve this idea stretches into Fused (99.1–99.9%).
+These match the live Resistance curve or already-locked tracks. Safe for notes and prose framing:
+
+- **Resistance L1–L9 = 10%–90% resist** with **M = 1 / (1 − resistance)** is the same shape as live **−10% effect per level** (L9 → 10% effect left, M = 10).
+- **Immunity** continuing toward a **~1% effect** floor matches live “Immunity to 1% floor” as a *display*; exact Immunity L1–L9 percents here are idea detail until printed.
+- **Blunt + Sharp** kinetic pair (Sharp = pierce + slash): already locked in `RolandResistanceTracks.md`.
+- **Momentum rule**, **whole-body blunt**, **stopped sharp → blunt check**: good physics; use in fights.
+- **Access gating** at high ranks: matches `ResistanceGrindRarity.md` (ordinary life stops supplying doses).
+- **Poison / Alcohol / Pain** as **effective = raw / M**: same family as live % effect.
+
+### Still idea-only (cool, not law)
+
+- **Fused** tier and names (**Temperature Immunity**, **Melee Immunity**, **Pure Blood**, **Iron Will**)
+- Thermal **tolerance** thresholds as hard “no damage below °C” law (may conflict with simple % harm)
+- **Purge**, **pain switch**, Iron Will **hours-of-sleep** table (Sleep need already live on Resistance)
+- Performance ladders in the appendix (Aim, Climbing, etc.)
 
 ---
 
@@ -66,12 +80,19 @@ Each tier repeats the same curve at ten times the scale of the tier before it.
 **Kinetic**
 - Blunt Resistance → Blunt Immunity
 - Sharp Resistance → Sharp Immunity
-- Blunt Immunity Lv9 + Sharp Immunity Lv9 → **Melee Immunity** (alt name: Kinetic Immunity, since it also covers falls and bullets)
+- Blunt Immunity Lv9 + Sharp Immunity Lv9 → **Melee Immunity** (alt name: Kinetic Immunity; also covers falls and bullets)
 
 **Bodily**
-- Toxin Resistance → Toxin Immunity
+- Poison Resistance → Poison Immunity
+- Alcohol Resistance → Alcohol Immunity
+- Poison Immunity Lv9 + Alcohol Immunity Lv9 → **Pure Blood**
+
+**Mind**
 - Sleep Resistance → Sleep Immunity
-- Toxin Immunity Lv9 + Sleep Immunity Lv9 → **Pure Body** (alt name: Inviolate Vessel)
+- Pain Resistance → Pain Immunity
+- Sleep Immunity Lv9 + Pain Immunity Lv9 → **Iron Will**
+
+*(Idea naming. Live Sleep already cuts sleep **need** on the Resistance tier; do not defer that to Iron Will in chapters.)*
 
 ### Threshold rule
 
@@ -79,11 +100,13 @@ All thresholds in this document are for a baseline human body. Physical quality 
 
 Below the threshold the character takes no damage no matter how long the exposure lasts. Above it, convert the exposure to its effective value using M and read the result as if it happened to a normal human.
 
+*(Idea. Live Heat/Cold/Poison usually speak in % effect, not hard “below threshold = zero.” Use thresholds as landmarks unless promoted.)*
+
 ---
 
 ## 2. Thermal family (tolerance model)
 
-These skills do not insulate. Heat and cold flow into the body at the normal rate. The tissue reaches the real temperature of the source. The skill lets the cells survive that temperature.
+These skills do **not** insulate. Heat and cold flow into the body at the normal rate. The tissue reaches the real temperature of the source. The skill lets the cells survive that temperature.
 
 Consequences:
 - Clothing and gear burn or freeze normally. Hair and nails count as body and are protected.
@@ -203,9 +226,13 @@ Cold Resistance covers every natural climate on Earth by Lv8-9. Heat climbs slow
 
 These skills do not cancel momentum. A hammer still moves the target, a truck still launches them and a fall still ends in a sudden stop. Knockback is the same as for a normal person of the same mass. Holding ground depends on footing, mass and Strength.
 
+*(Soft-ok.)*
+
 ### Whole-body rule
 
 Blunt injury comes from compression, shear and acceleration. The brain hits the skull, organs tear from their attachments and blood vessels rupture. Blunt tolerance applies to every tissue, including the brain and internal organs. Skin-only toughness does not prevent concussion.
+
+*(Soft-ok.)*
 
 ### Weak points
 
@@ -245,7 +272,7 @@ Impact landmarks:
 | Bullet train | 300 km/h |
 | Airliner at cruise | 800-900 km/h |
 
-Blunt Immunity Lv9 survives a fall from any height uninjured.
+Blunt Immunity Lv9 survives a fall from any height uninjured. *(Idea landmark.)*
 
 ### Force thresholds at each tier's Lv9
 
@@ -309,6 +336,8 @@ A blade or bullet that fails to pierce delivers its force as blunt trauma on a s
 
 A Sharp-only character is cut-proof yet breakable. A Blunt-only character shrugs off hammers while a knife still slides in. Melee Immunity removes both gaps.
 
+*(Soft-ok.)*
+
 ### What it looks like
 
 Sledgehammer to the chest at high Blunt tiers: a dull thud like hitting a sandbag. The flesh dimples and springs back with no bruise. The body staggers back as far as a normal person's would. The shirt can still tear. The hammer may rebound hard enough to jar the swinger's wrists.
@@ -321,40 +350,124 @@ Pinned under rubble: no injury, yet still trapped. Breathing only works if Stren
 
 ## 4. Bodily family
 
-### Toxin formulas
+### Poison Resistance → Poison Immunity
 
 - **Effective dose = actual dose / M**
 - Doses are per kilogram of body mass, as in standard toxicology.
 - A dose of N lethal doses acts like N / M lethal doses.
-- Optional rule: the holder can voluntarily lower the skill to let a substance through (alcohol, medicine).
+- Methanol and other toxic alcohols count as poison. Drinking alcohol is covered by Alcohol Resistance.
+- Sedatives are checked against both Poison (body harm) and Sleep (drowsiness).
 
-Toxin landmarks:
+*(Effective dose / M is soft-ok with live % toxin effect.)*
+
+Poison landmarks:
 
 | Tier | Effect |
 |---|---|
-| Resistance Lv5 (2x) | A lethal snakebite becomes serious illness |
-| Resistance Lv9 (10x) | One lethal dose causes mild symptoms. Ten lethal doses kill. |
-| Immunity Lv5 (20x) | Most single poisonings do nothing noticeable |
-| Immunity Lv9 (100x) | 10-20 g of cyanide is survivable. One hundred death cap mushrooms are survivable. |
-| Pure Body Lv9 (1,000x) | Survives up to a thousand lethal doses of anything |
+| Poison Resistance Lv5 (2x) | A lethal snakebite becomes serious illness |
+| Poison Resistance Lv9 (10x) | One lethal dose causes mild symptoms. Ten lethal doses kill. |
+| Poison Immunity Lv5 (20x) | Most single poisonings do nothing noticeable |
+| Poison Immunity Lv9 (100x) | 10-20 g of cyanide is survivable. One hundred death cap mushrooms are survivable. |
+| Pure Blood Lv9 (1,000x) | Survives up to a thousand lethal doses of anything |
 
-Alcohol scales the same way. A character at M = 10 needs ten times as many drinks to feel the same effect.
+### Alcohol Resistance → Alcohol Immunity
 
-### Sleep formulas
+- **Effective BAC = actual BAC / M**
+- Optional rule: the holder can voluntarily lower the skill to enjoy a drink.
 
-Sleep Resistance and Sleep Immunity cover forced sleep and drowsiness from substances, magic and fatigue effects. Natural sleep need stays the same until the Fused tier.
+Baseline effects by blood alcohol content (BAC):
 
+| BAC | Effect |
+|---|---|
+| 0.05% | Relaxed, mildly loosened |
+| 0.08% | Impaired, legal driving limit in many places |
+| 0.15% | Heavily drunk |
+| 0.30% | Stupor, blackout |
+| 0.40%+ | Potentially lethal |
+
+Standard drinks within one hour for a 70 kg adult to feel 0.08% (baseline 4 × M):
+
+| Tier | Lv5 | Lv9 |
+|---|---|---|
+| Alcohol Resistance | 8 | 40 |
+| Alcohol Immunity | 80 | 400 |
+| Pure Blood | 800 | 4,000 |
+
+- From Alcohol Immunity onward, a character cannot physically drink enough to get drunk.
+- Hangover severity = baseline / M.
+- Alcohol poisoning uses the same effective BAC.
+
+### Pure Blood (Fused)
+
+**Fusion:** Poison Immunity Lv9 + Alcohol Immunity Lv9
+
+- M of 111x to 1,000x against all poisons and intoxicants.
+- Unlocks Purge: the holder can expel any substance from the body at will through sweat, breath or vomiting.
+
+*(Idea-only.)*
+
+---
+
+## 5. Mind family
+
+### Sleep Resistance → Sleep Immunity
+
+Covers forced sleep and drowsiness from substances, magic and fatigue effects.
+
+**Live conflict:** chapters already cut **natural sleep need** on Sleep Resistance (−10%/level). Do not wait for Iron Will to apply that. This section’s “natural sleep need stays the same until Fused” is **idea-only** and loses to live.
+
+Idea extras still parkable:
 - **Sedatives: effective dose = actual dose / M**
 - **Sleep magic: effective potency = spell potency / M.** The target falls asleep only if effective potency is 1 or higher.
 - **Forced sleep duration = normal duration / M**
 - Medical anesthesia needs M times the normal dose unless the holder voluntarily lowers the skill.
 
-**Live note:** rewrite Sleep Resistance already cuts **natural sleep need** by −10%/level. This idea parks forced-sleep math here and moves natural need into Pure Body. Merge carefully.
+### Pain Resistance → Pain Immunity
 
-### Pure Body (Fused)
+- **Effective pain = raw pain / M**
+- Raw pain uses a 0-10 scale that continues past 10 for extreme injuries.
 
-- M of 111x to 1,000x against toxins, sedatives and forced sleep.
-- Natural sleep need drops by level:
+*(Soft-ok with live −10% felt pain.)*
+
+Raw pain by injury:
+
+| Injury | Raw Pain |
+|---|---|
+| Paper cut | 1-2 |
+| Stubbed toe | 3-4 |
+| Deep cut | 5-6 |
+| Broken bone | 7-8 |
+| Kidney stone, major burn | 9-10 |
+| Amputation, crushed limb | 12-15 |
+| Torture, burned alive | 20+ |
+
+Effects of effective pain:
+
+| Effective Pain | Effect |
+|---|---|
+| 1-3 | Distracting |
+| 4-6 | Penalties to concentration and fine skills |
+| 7-8 | Severe. Most actions impaired. |
+| 9-10 | Incapacitating |
+| 10+ | Pain shock, fainting |
+
+Examples:
+- Pain Resistance Lv5 (2x): a broken bone acts as 4.
+- Pain Resistance Lv9 (10x): an amputation acts as 1.2-1.5.
+- Pain Immunity Lv9 (100x): torture at 20 acts as 0.2.
+
+Rules:
+- The skill reduces suffering, not awareness. The holder still knows where and how badly they are hurt.
+- Injuries still impair function mechanically. A broken leg cannot bear weight at any level.
+- Pain Immunity Lv1 unlocks a pain switch: the holder can turn pain fully on or off at will. *(Idea-only.)*
+
+### Iron Will (Fused)
+
+**Fusion:** Sleep Immunity Lv9 + Pain Immunity Lv9
+
+- M of 111x to 1,000x against forced sleep, sedation and pain.
+- Pain-based torture and interrogation fail completely.
+- Natural sleep need drops by level *(idea table; live already drops need on Sleep Resistance)*:
 
 | Lv | Sleep Needed per Day |
 |---|---|
@@ -368,11 +481,9 @@ Sleep Resistance and Sleep Immunity cover forced sleep and drowsiness from subst
 | 8 | 2 h |
 | 9 | 1 h |
 
-Disease and pathogens are outside this family.
-
 ---
 
-## 5. Training
+## 6. Training
 
 ### Training sources
 
@@ -380,24 +491,31 @@ Disease and pathogens are outside this family.
 - **Cold:** ice baths, winter exposure, high altitude, frost magic, cryogenic monsters
 - **Blunt:** sparring, fall training, iron-body conditioning, combat, siege weapons
 - **Sharp:** blade conditioning, combat, arrow fire, gunfire at high tiers
-- **Toxin:** controlled dosing (mithridatism), venomous monsters, alchemical poisons
+- **Poison:** controlled dosing (mithridatism), venomous monsters, alchemical poisons
+- **Alcohol:** heavy drinking, strong spirits, alchemical liquors
 - **Sleep:** sedatives, sleep magic, forced wakefulness under fatigue effects
+- **Pain:** hard conditioning, injury, endurance drills
 
 ### Access gating
 
 At high levels, ordinary life stops supplying stimuli that come anywhere near the threshold. Growth requires seeking out forges, lava fields, cryogenic zones, terminal-velocity falls, siege weapons or monster venom. This creates natural plot hooks for progression.
 
+*(Soft-ok; see `ResistanceGrindRarity.md`.)*
+
 ---
 
-## Shared rules (performance skills)
+## Appendix: performance skills (optional park)
 
-- These use the same tiers and multipliers as the resistance skills: Lv1-9 at 1.11x-10x, the evolved tier at 11.1x-100x and Fused at 111x-1,000x.
+Same M tiers. Not resistance law. Prefer live **Breath Control** / **Recovery** / **Marksmanship** names until merged.
+
+### Shared rules
+
 - M multiplies one performance quantity per skill. When that quantity is energy, speed rises by √M.
-- A multiplier can only scale what a human body already does. Things a human body cannot do at any speed, like regrowing a limb, sealing a severed artery or sticking to a ceiling, unlock at a set tier instead.
+- A multiplier can only scale what a human body already does. Things a human body cannot do at any speed unlock at a set tier instead.
 
 ### Breath Holding → Suffocation Immunity
 
-**What M multiplies:** oxygen efficiency. The body burns oxygen at 1/M the normal rate. The brain tolerates low oxygen M times longer.
+**What M multiplies:** oxygen efficiency. Live chapters: **Breath Control**.
 
 **Baseline:** a 60 s hold at rest, 20 s under hard exertion, and about 10 s to blackout from a blood choke.
 
@@ -407,106 +525,31 @@ At high levels, ordinary life stops supplying stimuli that come anywhere near th
 | Suffocation Immunity | 20 min | 1 h 40 min |
 | Fused | 3 h 20 min | 16 h 40 min |
 
-- Breath Holding Lv9 matches elite freedivers, who hold about 10 min.
-- Exertion and chokes scale the same way. At Lv9, a character can fight for over 3 min on one breath and stays conscious for 100 s in a blood choke.
-- At Lv7, the summit of Everest feels like sea level.
-- Shock from blood loss is oxygen starvation, so this skill also slows its effects.
-- **Pairing:** Suffocation Immunity + Pressure Immunity (a new skill) → Abyssal Body, covering the deep sea and vacuum.
-
-**Live:** prefer **Breath Control** (`SkillsDesign.md`) for chapter math until this is merged.
-
 ### Aim → True Aim
 
-**What M multiplies:** precision. Aiming error drops to 1/M, so the distance at which a target can be hit reliably grows by M.
-
-**Baseline reliable torso hit:** handgun at 10 m, rifle fired standing at 100 m, thrown object at 10 m.
-
-| Tier | Lv5 (handgun / rifle) | Lv9 (handgun / rifle) |
-|---|---|---|
-| Aim | 20 m / 200 m | 100 m / 1 km |
-| True Aim | 200 m / 2 km | 1 km / 10 km |
-| Fused | Max projectile range | Max projectile range |
-
-- Thrown objects follow the handgun column.
-- **Aim** removes only shooter error. The weapon's own spread still applies. That spread keeps a typical handgun to torso hits within about 400 m and a good rifle within about 1.5 km.
-- **True Aim** adds intuitive ballistics. Error from wind, bullet drop and leading a moving target also drops to 1/M.
-- **Fused** extends to the projectile itself. The weapon's own spread shrinks too, so range is limited only by how far the projectile flies.
+**What M multiplies:** precision. Prefer live **Marksmanship**.
 
 ### Throwing → Cannon Arm
 
-**What M multiplies:** energy delivered to the thrown object, so speed rises by √M. The skill also protects the arm from its own forces.
-
-**Baseline:** an average adult throws a baseball at about 90 km/h. Pro pitchers reach about 160 km/h.
-
-| Tier | Lv5 | Lv9 |
-|---|---|---|
-| Throwing | 127 km/h | 285 km/h |
-| Cannon Arm | 400 km/h | 900 km/h |
-| Fused | 1,270 km/h | 2,850 km/h |
-
-- Throwing Lv7 matches pro pitchers.
-- A baseball thrown at Cannon Arm Lv9 carries about 4,500 J. That is more than a 7.62 NATO rifle round. At Fused Lv9 it carries about 45,000 J, more than double a .50 BMG round.
-- Without air, range would grow by M. Above about 100 m/s, drag dominates, so real range grows far slower.
-- At the top tiers, soft objects break apart from the throw. Dense objects like iron or stone survive.
-- **Pairing:** True Aim + Cannon Arm → Deadeye.
+**What M multiplies:** energy to the thrown object (speed × √M).
 
 ### Climbing → Sheer Climb
 
-**What M multiplies:** grip and climbing stamina. The hold size needed drops to 1/M. Time on the wall grows by M.
+**What M multiplies:** grip and climbing stamina.
 
-**Baseline:** an average adult needs ladder-like holds about 2-3 cm deep and can hang for about 30 s.
+### Wound Recovery → Rapid Healing / Blood Recovery → Iron Blood
 
-| Tier | Lv5 | Lv9 |
-|---|---|---|
-| Climbing | 1-1.5 cm edges, 1 min hang | 2-3 mm edges, 5 min hang |
-| Sheer Climb | Rough brick, bark, stone | Smooth concrete, plaster, ice |
-| Fused | Overhangs | Ceilings, indefinitely |
-
-- Climbing Lv9 matches the world's best rock climbers.
-- At the Sheer Climb tier, grip works off surface texture instead of holds.
-- Friction alone cannot hold a body to glass or a ceiling, so Fused unlocks adhesion. At Lv1 the climber holds onto vertical glass and polished metal.
-- **Pairing:** Sheer Climb + Balance (a new skill) → Wall Walker.
-
-### Wound Recovery → Rapid Healing
-
-**What M multiplies:** healing speed.
-
-**Baseline:** a shallow cut heals in 10 days, a deep laceration in 4 weeks and a broken bone in 8 weeks.
-
-| Tier | Lv5 (cut / laceration / bone) | Lv9 (cut / laceration / bone) |
-|---|---|---|
-| Wound Recovery | 5 d / 2 wk / 4 wk | 1 d / 3 d / 6 d |
-| Rapid Healing | 12 h / 34 h / 3 d | 2.4 h / 7 h / 13 h |
-| Fused | 72 min / 3.4 h / 7 h | 14 min / 40 min / 80 min |
-
-- Scars form normally through Wound Recovery Lv9. Rapid Healing heals without scarring.
-- Fused unlocks regrowth of what a human body cannot replace: limbs, organs, nerves and teeth. A limb regrows in about 100 days at Lv1 and about 11 days at Lv9.
-- Healing costs the same total calories and protein at any speed. Faster healing packs that cost into hours, which causes ravenous hunger. A starved body stops healing until fed.
-
-### Blood Recovery → Iron Blood
-
-**What M multiplies:** clotting speed and blood production.
-
-**Baseline:** a small cut stops bleeding in 2-10 min. Replacing 500 mL of lost blood takes about 6 weeks. Losing about 40% of total blood, around 2 L, is lethal without treatment.
-
-| Tier | Lv5 (500 mL replaced) | Lv9 (500 mL replaced) | Lv9 small-cut clotting |
-|---|---|---|---|
-| Blood Recovery | 3 wk | 4 d | 12-60 s |
-| Iron Blood | 2 d | 10 h | 1-6 s |
-| Fused | 5 h | 1 h | Near instant |
-
-- Natural clotting cannot close a severed major artery. Arterial self-sealing unlocks at Iron Blood Lv1.
-- Making blood needs raw material. Every 500 mL takes about 250 mg of iron, so heavy use demands meat, organ meat or other iron sources.
-- Tolerance to blood loss comes from Breath Holding's oxygen efficiency, not from this skill.
-- **Pairing:** Rapid Healing + Iron Blood → Regeneration.
+Prefer live **Recovery** / **Rapid Recovery**. Fused regrowth stays idea-only.
 
 ---
 
 ## Cross-links
 
-- Live Sleep / Heat / Poison / Breath Control: `SkillsDesign.md`
+- Live Sleep / Heat / Cold / Poison / Pain / Alcohol / Breath: `SkillsDesign.md`
+- Roland grind tracks (incl. Acid / Electricity / Blunt / Sharp): `RolandResistanceTracks.md`
+- How rare deliberate torture grinds are: `ResistanceGrindRarity.md`
 - Thin skill law: `Skills.md`
 - Body M for breath/blood: `Attributes.md`
-- Roland breath / recovery goals: `../People/Roland/Goals.md`
-- Redesign park: `SkillsRedesign.md`
+- Other useful M lines: `OtherUsefulSkillsSystem.md`
+- Sense / mana / sound ideas: `SensingManaSoundSystem.md`
 - Direction loot: `../Ideas.md`
