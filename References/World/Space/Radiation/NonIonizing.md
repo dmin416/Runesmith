@@ -39,7 +39,36 @@ Part 3. Hub: `../Radiation.md`. Heat–radiation hypothesis: `RobustHeatHuman.md
 | Immunosuppression | Langerhans cells |
 | Vitamin D | Beneficial UV-B path |
 
-**Space:** No ozone. Unfiltered UV-C/B sunburns exposed skin in seconds to under a minute; blinds unprotected eyes fast. Visors: gold + UV filters.
+**Space:** No ozone. Unfiltered UV-C/B sunburns exposed skin in seconds to under a minute; blinds unprotected eyes fast. Visors: gold + UV filters. Full sunlight intensity compare: below.
+
+## Sunlight: Earth surface vs orbit
+
+Sunlight in Earth orbit is about **30–40%** stronger in **total energy** than on the ground on a clear day with the sun directly overhead.
+
+### Total energy (all wavelengths)
+
+| Location | Irradiance |
+|---|---|
+| Above the atmosphere (solar constant) | ~**1,361 W/m²** |
+| Sea level, sun overhead, clear sky | ~**1,000 W/m²** |
+
+The atmosphere absorbs and scatters roughly a **quarter to a third** of incoming sunlight even in ideal conditions. With the sun low, clouds or haze, surface intensity drops much further.
+
+### Ultraviolet is where the difference becomes extreme
+
+| Band | Atmosphere | Space |
+|---|---|---|
+| UV-C (100–280 nm) | Completely blocked by ozone and oxygen | Full strength; most damaging band for DNA |
+| UV-B (280–315 nm) | Mostly absorbed by ozone; small fraction reaches ground | Much higher |
+| UV-A (315–400 nm) | Passes relatively easily | Smaller difference vs ground |
+
+For biological damage, unfiltered sunlight in space is **hundreds to thousands** of times more harmful than surface sunlight. Unprotected skin burns in **seconds to minutes** instead of the usual **15–60 minutes**.
+
+### Other differences
+
+- No scattering: sun appears pure white; sky stays black
+- No atmospheric heat distribution: sunlit surfaces can exceed **+120°C** while shaded surfaces drop below **−150°C** in LEO
+- Intensity vs distance: inverse square law. At **Mars** ≈ **43%** of Earth's level. At **Venus** ≈ **190%**.
 
 **Far-UVC (222 nm):** absorbed in dead skin / tear film; under study for occupied-room disinfection.
 

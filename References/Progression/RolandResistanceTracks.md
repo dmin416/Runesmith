@@ -1,6 +1,6 @@
 # Roland Resistance Tracks
 
-> **Rewrite lock.** Live resist math: `SkillsDesign.md` (−10%/level → Immunity floor **1%** where that family uses it). Broader **ideas** ladder (M tables, Fused names, soft-ok physics): `ResistanceImmunitySystem.md`. Wishlist seeds: `../People/Roland/Goals.md`. How rare deliberate self-torture grinds are: `ResistanceGrindRarity.md`.
+> **Rewrite lock.** Live resist math: `SkillsDesign.md` (−10%/level → Immunity floor **1%** where that family uses it). Broader **ideas** ladder (M tables, Fused names, soft-ok physics): `ResistanceImmunitySystem.md`. Damage-type map (blunt/pierce/slash/…): `DamageTypeResistances.md`. Wishlist seeds: `../People/Roland/Goals.md`. How rare deliberate self-torture grinds are: `ResistanceGrindRarity.md`.
 
 ## Purpose
 

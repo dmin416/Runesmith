@@ -3,6 +3,8 @@
 > **Ideas / design loot.** Not automatic law. Live hubs win: `SkillsDesign.md`, `Skills.md`, `SkillRanks.md`, `RolandResistanceTracks.md`, `ResistanceGrindRarity.md`. Goals: `../People/Roland/Goals.md`.
 >
 > Use freely for feel, thresholds, and future evolve flavor. Promote a row into `SkillsDesign.md` only when it **abides live rules** and a chapter needs it.
+>
+> Harm → which resist soaks it: `DamageTypeResistances.md`. Multi-mechanism math + Survival family: `MultiMechanismResistance.md`.
 
 ---
 
@@ -50,7 +52,8 @@ These match the live Resistance curve or already-locked tracks. Safe for notes a
 | Fused | 1-9 | 99.1% to 99.9% | 111x to 1,000x |
 
 - A Resistance skill at Lv9 evolves into the matching Immunity at Lv1.
-- Two paired Immunities at Lv9 fuse into one Fused skill at Lv1. The Fused skill covers both damage types.
+- **Most families:** two paired Immunities at Lv9 fuse into one Fused skill at L1 (covers both types).
+- **Survival exception:** **Undying Body** is a **multi-fuse** (2 or more deprivation Immunities). Full rule: `MultiMechanismResistance.md`.
 
 ### Multiplier by level
 
@@ -93,6 +96,15 @@ Each tier repeats the same curve at ten times the scale of the tier before it.
 - Sleep Immunity Lv9 + Pain Immunity Lv9 → **Iron Will**
 
 *(Idea naming. Live Sleep already cuts sleep **need** on the Resistance tier; do not defer that to Iron Will in chapters.)*
+
+**Survival** (full tree: `MultiMechanismResistance.md`)
+- Suffocation Resistance → Suffocation Immunity
+- Starvation Resistance → Starvation Immunity
+- Sleep Resistance → Sleep Immunity *(live Sleep track; Survival fuse parent when promoted)*
+- **Any 2+** of those Immunities at L9 → **Undying Body** (alt: Self-Sustaining); more can merge in later
+- Coverage = union of parents (O₂/blood, food/water, sleep). Sleep into Undying Body conflicts with Mind → Iron Will; pick one fuse path for Sleep before promote.
+
+*(Breath Control stays outside this tree until promoted.)*
 
 ### Threshold rule
 
