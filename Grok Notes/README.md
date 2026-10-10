@@ -6,3 +6,4 @@ Only Grok Bot writes here; other project files stay untouched unless David asks.
 ## Files
 
 - **LeftoverHygiene-2026-10-06.md** — Leftover research-note issues after the 2026-10-06 re-audit, with ready-to-paste proposed fixes.
+- **RolandRunesByChapter-2026-10-10.md** — Chapter-ordered compilation (Ch 1–80) of runes Roland has made: schematics and physical items, with rank/quality, characteristics, and cites.
