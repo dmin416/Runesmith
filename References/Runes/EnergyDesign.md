@@ -80,7 +80,7 @@ Useful ≈ mana × 10 J × η_cond × A
 A = √C    // ManaConcentration.md; not old gain 1 / 3 / 6
 ```
 
-η_cond follows the live quality ladder in `Energy.md` (**0.2 / 0.4 / 0.6 / 0.8 / 1.0**). Direct skill casts use η(L) × μ(INT) instead of η_cond; both pathways may use the same ambient `A`.
+η_cond follows the **rune quality** ladder in `Energy.md` (**0.2 / 0.4 / 0.6 / 0.8 / 1.0**). Not scroll quality. Direct skill casts use η(L) × μ(INT) instead of η_cond; both pathways may use the same ambient `A`.
 
 Waste splits **½** ambient / **½** path heat+corruption (`Energy.md`). Aurium’s job on copper-line gear is cutting waste. Darksteel and star steel’s job on melee gear is surviving the path half. Heat rise after that follows metal science (`OverheatedMetals.md`).
 
@@ -157,7 +157,7 @@ Times to full do not depend on `P`. Absolute rate scales with `P`. On this stree
 
 ## 6. Scale Ladder
 
-Converter input is cost × 10 J. Useful output is that input × narrative η_cond × ambient `A` (`A = √C`). Digits for η_cond stay unset. The ladder below is the raw converter input so story scale stays honest before path and air multiply it.
+Converter input is cost × 10 J. Useful output is that input × η_cond × ambient `A` (`A = √C`). **η_cond** follows **rune quality** in `Energy.md`: Lowest **0.20** / Low **0.40** / Intermediate **0.60** / High **0.80** / Highest **1.00**. Not scroll quality. The ladder below is the raw converter input so story scale stays honest before path and air multiply it.
 
 | Cost | Input | Comparable |
 |---|---|---|
@@ -212,7 +212,7 @@ Other wear: thermal cycling fatigues joints and bends. Oxidation adds surface fi
 
 ### A. Fire arrow (100 mana, copper host)
 
-Converter input is **1000 J**. Useful output = 1000 J × η_cond × `A` with η_cond unset on a copper-feel host. Richer air raises useful energy and tip speed. Speed v = √(2E / m) at 20 g once useful motion energy `E` is known. A bow arrow flies at 60 to 90 m/s.
+Converter input is **1000 J**. Useful output = 1000 J × η_cond × `A` with η_cond from **rune quality** (`Energy.md`; e.g. Intermediate **0.60**). Copper is host feel only, not η_cond. Richer air raises useful energy and tip speed. Speed v = √(2E / m) at 20 g once useful motion energy `E` is known. A bow arrow flies at 60 to 90 m/s.
 
 The rune still splits useful energy between tip motion and tip heat. Example splits of whatever useful energy lands:
 
@@ -234,7 +234,7 @@ At the target the science stays ordinary:
 
 Feed line runs down the blade and the emitter sits at the tip where potential concentrates. The burst converts stored charge into a rapid discharge that heats and expands the air at the tip. Burst energy goes into the air. The blade takes strain from waste and heat from the retained half (1 kg blade at about 490 J/K, no cooling). Converter input = **150 × 10 J = 1,500 J**.
 
-Useful tip energy and waste follow each host's job (`Energy.md`). Absolute joules stay unset until η_cond digits are needed. Same-mass blade feel (examples, not a locked rank):
+Useful tip energy and waste follow **rune-quality** η_cond and host job feel (`Energy.md`). Absolute joules = converter input × η_cond × `A`. Same-mass blade feel (examples, not a locked rank):
 
 | Blade path | Useful tip feel | Waste and cook | Strain life |
 |---|---|---|---|
@@ -266,7 +266,7 @@ Heat is secondary. Retained heat warms the plate each use and speeds strain. Nar
 
 Assumptions: a copper plate slightly smaller than a tennis racket at about 0.45 kg (heat capacity about 180 J/K for any metal at this mass) with 100 mana per arrow. Retained path heat is **half of waste** (`Energy.md`). Ambient `A` raises useful tip energy and does not change waste feel.
 
-Paddle feel matches the host jobs in section 2. Iron cooks and dies first. Copper is the story everyday host and sheds heat well. Steel / darksteel / star steel / mythril each last longer under channel use in their own way. Absolute waste joules and arrow counts stay unset until η_cond digits are needed.
+Paddle feel matches the host jobs in section 2. Iron cooks and dies first. Copper is the story everyday host and sheds heat well. Steel / darksteel / star steel / mythril each last longer under channel use in their own way. Waste joules use **rune-quality** η_cond from `Energy.md` (Lowest **0.20** → Highest **1.00**); host feel does not replace that ladder.
 
 Copper still carries many arrows before the plate is warm and more before it is hot. The plate sheds heat to the air between volleys. Corruption is the main cause of damage and heat only speeds it.
 
@@ -281,7 +281,7 @@ The body is a good living path (body / blood feel). It still breaks like flesh. 
 - Injury is strain (corruption). Heat in tissue is usually negligible next to strain because flesh is a large heat sink for the waste that stays.
 - Tissue below its limit is assumed to recover. Above the limit it takes lasting damage.
 
-**Section geometry (1.3 adult-man body).** Masses and shares below are anatomy. Absolute waste joules per cast scale with how hard the living path wastes. Digits for that waste feel stay unset with the rest of η_cond.
+**Section geometry (1.3 adult-man body).** Masses and shares below are anatomy. Absolute waste joules per cast scale with **rune-quality** η_cond (`Energy.md`) and how hard the living path wastes.
 
 | Section | Mass | Share of path waste |
 |---|---|---|

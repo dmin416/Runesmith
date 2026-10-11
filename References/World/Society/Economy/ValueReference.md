@@ -19,7 +19,7 @@ History is English unless noted, mostly 14th century.
 | Laborer | ~2d/day; £2/year max (c. 1300) | 10 LC/day; 2,400 LC/year | 5–10 LC/day | **5–10 LC/day** |
 | Master carpenter | 3d/day (1351) | 15 LC/day | Skilled town craft 15–25 LC | **15–20 LC/day** (Lock) |
 | Master mason | 4d/day (1351) | 20 LC/day | Same band | **20 LC/day** (Lock) |
-| Classed (Tier 1) crafter | No history (magic premium) | n/a | 30–50 LC/day; engine T1 scribe 35 LC | **30–50 LC/day** (1.5–2.5× master mason) |
+| Classed (Tier 1) crafter | No history (magic premium) | n/a | 30–50 LC/day; Mage+Scribe Intermediate throughput higher | **30–50 LC/day** band (mason compare); word engine uses classed MP + η_craft (`ScrollEconomy.md`) |
 | Kitchen servant / maid | 2s–4s/year + keep | 120–240 LC/year + board | Earlier proposal 1.5–3 LS/month (too high) | **1–2 SS/month + board** (Lock) |
 | Page / boy servant | 1s–6s/year + keep | 60–360 LC/year | None | **5 LC–3 SS/month + board** (Lock) |
 | Squire | 13s 4d–£1/year + keep | 800–1,200 LC/year | None | **7–10 SS/month + keep** (Lock) |
@@ -181,7 +181,7 @@ History has no direct equivalent. Values come from our research and the cost eng
 | Crystal ball | Diamond ring (~9 SG) | 4 / 8 SG (Lock) | **4 / 8 SG** |
 | Class-change crystal | None | 2 SG (Lock) | **2 SG** |
 | Skill book T1 / T2 / T3 | Illuminated book (1–5 SG) | Proposed ladder | **2–5 / 10–25 / 50–100 SG** (Lock) |
-| Church services / elixirs | None | ≈9× casting labor | **≈9×** casting labor (Lock; **9 SG** ÷ T3 Highest **1,024 LC** ≈ **8.8×**); scar **2–5** / curing **9–30** / limb **15–30** / divine **30–100 SG** (Lock) |
+| Church services / elixirs | None | Story coin bands | Solaria curse heal **9 SG** (story). Scar **2–5** / curing **9–30** / limb **15–30** / divine **30–100 SG** (Lock). Casting-labor multiple **open** (old ≈9× used deleted T3 Highest labor digit; `ScrollEconomy.md`) |
 | Porter / clerk / T3 barrier / T4 cleric / Platinum | None | Hire ladder | **8–12 LC / 10–15 LC / 4–6 LS / 1–2 SG / 1–3 SG** per day (Lock) |
 | Map / horse rental / airship / teleport / old gate | None | Travel ladder | **3–5 SS / 1–2 SS/day / 2–5 SG / 5 LS–2 SG/person / 1–5 SG** activation (Lock) |
 | Stall protection fee | None | Guild fee | **2–5 SS / week** (Lock) |
@@ -211,9 +211,9 @@ Promoted to Lock (2026-10), batch 3: guard hires (**15 / 30 / 60 / 120 LC**/day)
 
 Promoted to Lock (2026-10), batch 4: food staples (bread, good ale, goose, eggs, cheese); spices / saffron; pig / draught horse / fodder; helmet / mail / ready plate **10 SG**; undershirt / fur garment / wool yard / noble gown; squire / page / priest; cottage rent / illuminated book / book section rental; ruby / diamond rings / voyage bedding.
 
-Promoted to Lock (2026-10), batch 5: healing potion ladder + hangover + guild mana; hired help (porter / clerk / T3 barrier / T4 cleric / Platinum); travel (map / horse rental / airship / teleport ticket / old gate activation); skill books T1–T3; church **≈9×** casting labor + scar / curing / limb / divine elixirs; enchanted gear (robe / weapon-shield / prosthetic / carriage); standard golem **2–5 LG**; stall protection **2–5 SS/week**. Soft held: power armor, orichalcum set, mithril/orichalcum anvil, percent town finance.
+Promoted to Lock (2026-10), batch 5: healing potion ladder + hangover + guild mana; hired help (porter / clerk / T3 barrier / T4 cleric / Platinum); travel (map / horse rental / airship / teleport ticket / old gate activation); skill books T1–T3; church elixir coin bands (scar / curing / limb / divine; casting-labor multiple open) + Solaria **9 SG**; enchanted gear (robe / weapon-shield / prosthetic / carriage); standard golem **2–5 LG**; stall protection **2–5 SS/week**. Soft held: power armor, orichalcum set, mithril/orichalcum anvil, percent town finance.
 
-Promoted to Lock (2026-10), batch 5b: word scroll engine T3–T5 blanks / ink / Lowest scrolls-per-day / fair day rates (×3/tier from T2); grade mana multipliers and day shares; Intermediate shop anchors T3 **2 LS 5 SS 3 LC**, T4 **1 SG 2 LS 4 SS 7 LC**, T5 **7 SG**. Church ratio corrected to **≈9×** casting labor.
+Promoted to Lock (2026-10), batch 5b: word Intermediate shop anchors T1–T5; blanks / ink. Craft pour = spell ÷ η_craft. T1 Mage+Scribe MP **910**; T2 elemental Mage MP **1,610**. Grade labor from Intermediate shelf × pour ratio (`ScrollEconomy.md`). Scroll quality ≠ rune quality (`ScrollAspects.md`).
 
 Next promotions: remaining Design (wine gallons, Needle Worm silk, spell grimoire floor) and Soft late metal/construct bands, one at a time.
 

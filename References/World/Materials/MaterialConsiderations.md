@@ -2,7 +2,7 @@
 
 > **Design loot.** Not locked law. Locked metals stay in `Metals.md` and `Materials.md` (adamantium is cast-final, a heat spreader, and weak to sound resonance; it does not bend). These notes are later invent ideas. Prefer locked text on conflict. Promote a row only when a beat needs it.
 >
-> Motor and flywheel use of these stocks: `../Science/Energy/ElectricMotors.md`, `../Science/Energy/FlywheelStorage.md`. Quiet dryer that uses the rigid shell: `../Science/Energy/QuietBlowDryer.md`. Cast law: `../../Runes/Energy.md` (1 mana = 10 J).
+> Earth insulation ladder (aerogel, vacuum, shuttle tiles, effusivity): `InsulationMaterials.md`. Motor and flywheel use of these stocks: `../Science/Energy/ElectricMotors.md`, `../Science/Energy/FlywheelStorage.md`. Quiet dryer that uses the rigid shell: `../Science/Energy/QuietBlowDryer.md`. Cast law: `../../Runes/Energy.md` (1 mana = 10 J).
 
 ---
 

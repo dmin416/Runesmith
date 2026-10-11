@@ -204,8 +204,11 @@ Size = level through the leader band. Above leader, guilds use stepped size band
 | Ink per T1 scroll | **~10 LC** (**5–15 LC** band) | Lock |
 | Ink T2 / T3 / T4 / T5 | **15 / 25 / 40 / 70 LC** | Lock |
 | Word Mana Arrow Intermediate (shop) | **3 SS** | Lock |
+| Word Mana Arrow Lowest → Highest (fair list) | **2 SS** / **2 SS 5 LC** / **3 SS** / **3 SS 5 LC** / **4 SS** | Lock (`ScrollEconomy.md`; η_craft; junk loss / scarcity) |
 | Word Fire Arrow Intermediate (shop) | **6 SS** | Lock |
+| Word Fire Arrow Lowest → Highest (fair list) | **4 SS** / **5 SS** / **6 SS** / **7 SS** / **8 SS** | Lock (`ScrollEconomy.md`) |
 | Word Fireball Intermediate (shop talk) | **≈1 LS** | Lock |
+| Word Fireball Lowest → Highest (fair list) | **6 SS** / **8 SS** / **≈1 LS** / **1 LS 2 SS** / **1 LS 4 SS** | Lock (`ScrollEconomy.md`) |
 | Word Intermediate T3 / T4 / T5 (shop) | **2 LS 5 SS 3 LC** / **1 SG 2 LS 4 SS 7 LC** / **7 SG** | Lock |
 | Runic Orb of Light (dusty floor) | **≥1 LS** | Lock |
 | Runic Fire Arrow Common Low (dusty shelf) | **1.5–2 LS** vanity | Lock |
@@ -215,7 +218,7 @@ Size = level through the leader band. Above leader, guilds use stepped size band
 | Exeor settled High-only list | **10–12 SS** | Design |
 | Weekly ~10 High Fire Arrow gross | **~1 SG** | Lock feel |
 
-Cost engine (tier × grade, shop cut, full table): `../../../Runes/ScrollEconomy.md`. Do not invent LC-per-mana tariffs.
+Cost engine (baseline scribe + pour × grade, shop cut, full table): `../../../Runes/ScrollEconomy.md`. Do not invent LC-per-mana tariffs.
 
 ---
 
@@ -373,7 +376,7 @@ Scale: `Price ∝ V²` from 2 m³ mid. Formula: `SpatialBagPrices.md`.
 | Healing potion, Greater | **1–3 SG** (rare single-use; not a skill-book substitute) | Lock |
 | Hangover potion | **8–15 LC** | Lock |
 | Guild mana potion (employee rate) | **2–4 SS** (separate product, not a cheap heal) | Lock |
-| Church services | **≈9×** engine casting labor | Lock |
+| Church services | Coin bands (scar / curing / limb / divine); Solaria curse heal **9 SG** | Lock coin; casting-labor multiple open (`ScrollEconomy.md`) |
 | Scar-concealment elixir | **2–5 SG** | Lock |
 | Curing miracle | **9–30 SG** (Solaria curse heal **9 SG** is the floor case) | Lock |
 | Limb regeneration elixir | **15–30 SG** | Lock |

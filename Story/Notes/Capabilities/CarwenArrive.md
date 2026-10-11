@@ -4,22 +4,24 @@
 
 **Classes:** Mage **L3** (no secondary). Overall unprinted (still early T1).
 
+**Wound tracks:** estate early unlock (`EstateWoundGrind.md`). Chapter prose may lag.
+
 ## Sheet
 
-From `ChapterLedger` Ch 7–8 (Sleep pads on rewrite Vit/End). Live Ch 8 print in `Status.md` still shows Vit/End **40**; spine rewrite is **44/44**.
+From `ChapterLedger` Ch 7–8 (Sleep pads on rewrite Vit/End). Live Ch 8 print in `Status.md` still shows Vit/End **40**; spine rewrite is **44/44** before estate wound pads. With Blunt / Sharp / Pain / Recovery pads (`EstateWoundGrind.md`):
 
 | Stat | Value | × street 15 |
 |---|---:|---:|
 | Strength | **40** | **2.7×** |
 | Agility | **40** | **2.7×** |
 | Dexterity | **50** | **3.3×** |
-| Vitality | **44** | **2.9×** |
-| Endurance | **44** | **2.9×** |
+| Vitality | **53** | **3.5×** |
+| Endurance | **56** | **3.7×** |
 | Intelligence | **73** | **4.9×** |
-| Willpower | **60** | **4.0×** |
+| Willpower | **63** | **4.2×** |
 | Charisma | **7** | 0.5× |
 | Luck | **7** | 0.5× |
-| HP / MP / SP | **572 / 1028 / 680** | |
+| HP / MP / SP | recompute off Vit/End when sheet is rewritten | old print **572 / 1028 / 680** lags |
 
 Looks ~**150 cm** / ~12–13 to guild staff.
 
@@ -42,20 +44,24 @@ Jump: no locked height. Soft √P band vs street adult ≈ **1.6×** takeoff; ch
 No **Breath Control** yet.
 
 ```
-M = ((44+44)/2)/15 ≈ 2.93
-hold ≈ 1 min × M ≈ 2.9 min   (body only)
+M = ((53+56)/2)/15 ≈ 3.63
+hold ≈ 1 min × M ≈ 3.6 min   (body only)
 ```
 
-No **Recovery** skill yet → blood/wound at **M** only (plasma ≈ **290–440 mL/h**; RBC ≈ **44–73 mL/day**).
+**Recovery L3** → recover time **70%** left (~**1.43×** rate on Vit/End M blood/wound).
 
 **Sleep Resistance L4:** **−40%** sleep need.
 
-## Resists (none combat yet)
+## Resists
 
 | Skill | Level | Effect |
 |---|---:|---|
 | Sleep Resistance | **L4** | 60% sleep need left |
-| Pain / Heat / Cold / Poison / Alcohol | — | ordinary |
+| Pain Resistance | **L3** | 70% felt |
+| Blunt Resistance | **L4** | 60% blunt harm (**≫** Sharp; sticks/clubs) |
+| Sharp Resistance | **L2** | 80% sharp harm (rare edge bites) |
+| Recovery | **L3** | 70% close time |
+| Heat / Cold / Poison / Alcohol | — | not yet |
 
 ## Senses / processing
 
@@ -75,4 +81,4 @@ Class grants at early pads: Mana Bolt / Arrow / Shield still climbing from L1. M
 
 ## One-line
 
-A **10y3m** Mage L3 with **~2.7×** adult lift/burst, **~5×** think speed, **~3 min** body breath hold, **−40%** sleep need, and **no** pain/heat/cold/poison resists yet. Child frame still bottles absolute force and jump.
+A **10y3m** Mage L3 with estate **Pain L3 / Blunt L4 / Sharp L2 / Recovery L3** (blunt far ahead of sharp), **~2.7×** adult lift, **~5×** think speed, and **~3.6 min** body breath hold. Child frame still bottles absolute force and jump.

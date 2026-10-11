@@ -145,7 +145,7 @@ Index and ownership: [Body/Index.md](Body/Index.md).
 | Adamantium forge-supersteel vs cast-final | **Metals.md + CraftMetal shop:** final once cast; form while setting; no post-set forge |
 | Animal Materials vs Earth Materials | Animal = `Biomaterials/Biomaterials.md`. Earth = `Metallurgy/EarthAlloys.md` |
 | Stone dump SA-capped | **Dropped.** Law in `../Materials/MonsterCores.md`. Size tables: `Energy/ManaStones.md`. Compare: `Energy/Batteries.md` |
-| Path efficiency | **η_cond** is the quality ladder (**0.2** to **1.0**). Host feel is narrative and does not follow electrical conductivity. Direct casts and runes both take ambient `A = √C` (`../../Runes/Energy.md`) |
+| Path efficiency | **η_cond** is the **rune quality** ladder (**0.2** to **1.0**). Not scroll quality. Host feel is narrative and does not follow electrical conductivity. Direct casts and runes both take ambient `A = √C` (`../../Runes/Energy.md`) |
 | Cast law formulas | `../../Runes/Energy.md` (**1 mana = 10 J**; η(L); μ(INT)). Spell tables: `Energy/ManaCast.md` |
 | Living resistance / air-deny | Vitality + magic resist raw mana body / air-shell tricks. No cheap vacuum / suffocate / micro-compression / contactless sonic kill on a resisting person. Vacuum detail: `Metallurgy/Vacuum.md` |
 | Flight cost fiat | No locked cheap/expensive flight. Pay the chosen model at η×μ. Hold ≠ hover. `Energy/Flight.md` |

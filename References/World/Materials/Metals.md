@@ -416,7 +416,7 @@ Durium / durasteel **vanadium / VC** densities and HV in the locked Durium secti
 
 ## Open
 
-- Converted-% host feel vs quality η_cond (quality ladder already locked in `Energy.md`)
+- Converted-% host feel vs **rune-quality** η_cond (rune quality ladder already locked in `Energy.md`; not scroll quality)
 - Absolute cook `speed` / `K_%` digits (finish table is landmark planning only)
 - Ebonite geography
 - Guild-rank spelling Orichalcum vs metal orihalcum (keep both unless prose confuses)

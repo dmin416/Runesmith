@@ -30,9 +30,9 @@ Live law first. Design loot second. Old `Levels.md` is a stub; content lives in 
 - [ResistanceGrindRarity.md](ResistanceGrindRarity.md). Rewrite feel. Deliberate self-torture resists are freak-rare; tavern adventurers do not.
 - [NormalPersonSkills.md](NormalPersonSkills.md). Ordinary L9 training clocks (no system acceleration)
 - [SkillsRedesign.md](SkillsRedesign.md). WIP redesign park (not a second lock)
-- [ResistanceImmunitySystem.md](ResistanceImmunitySystem.md). **Ideas.** Resistance → Immunity → Fused (Thermal / Kinetic / Bodily / Mind). Soft-ok rows marked; Fused and Sleep-need deferral stay idea-only.
-- [DamageTypeResistances.md](DamageTypeResistances.md). **Ideas.** Every damage type → Blunt / Pierce / Slash / Heat / Cold / Poison / Deprivation (+ Blind / Deafen / Stun / Pain status).
-- [MultiMechanismResistance.md](MultiMechanismResistance.md). **Ideas.** Split / parallel / gated / converted / amplified damage; **Undying Body** multi-fuse (Suffocation / Starvation / Sleep, 2+ parents); worked scenarios.
+- [ResistanceImmunitySystem.md](ResistanceImmunitySystem.md). **Ideas.** Resistance → Immunity → Fused (**Thermal / Kinetic / Bodily / Sustenance**); damage map; multi-mechanism; worked examples. Soft-ok rows marked; Fused and Sleep-need deferral stay idea-only.
+- [DamageTypeResistances.md](DamageTypeResistances.md). **Ideas.** Harm → skill taxonomy (aligned to Bodily / Sustenance names).
+- [MultiMechanismResistance.md](MultiMechanismResistance.md). **Ideas.** Sustenance leveling meters only (breath **time** / blood **volume %**). Full system in ResistanceImmunitySystem.
 - [SensingManaSoundSystem.md](SensingManaSoundSystem.md). **Ideas.** Sense / mana / sound M ladders and fusions. Soft-ok √M and echo M^1/4; Diagnosis-as-fusion conflicts live D-only.
 - [OtherUsefulSkillsSystem.md](OtherUsefulSkillsSystem.md). **Ideas.** Recovery / survival / mental / combat / movement / craft / social M lines. Soft-ok vs live conflicts marked.
 - [AdventurerRanksDesign.md](AdventurerRanksDesign.md). Stub → AdventurerRanks.md

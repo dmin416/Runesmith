@@ -7,7 +7,7 @@ Named rune catalog and chapter first-seens. Character skills that manipulate run
 | File | Role |
 |---|---|
 | `Runes.md` | Named catalog / first-seens |
-| `Energy.md` | Path / ambient / wear / η_cond host feel |
+| `Energy.md` | Path / ambient / wear; rune-quality η_cond; host feel narrative |
 | `EnergyDesign.md` | Electrical analogy, wear / body-path proposals (path-% non-canon) |
 | `Magic.md` | Enchant vs rune vs scrolls |
 | `Nature.md` | Worldview: segments, pathways, law / causality |
@@ -24,7 +24,7 @@ Named rune catalog and chapter first-seens. Character skills that manipulate run
 
 ## Rune vs enchantment (Chapter 6 book)
 
-Both place lasting effects on gear. Enchantments use a word-like language (Earth analogy: English). Runes use a symbol language (Earth analogy: Japanese / Chinese characters). Runes are harder to master and considered better. Chapter 13 shop talk: regular enchantments are cheaper and weaker and cover more surface area so fewer fit on one item; only runic pieces trigger Roland's pathway attraction. Runesmith and Enchantsmith are the matching Tier 2 craft classes; both need Mana Scribe first. Rune quality leans on the crafter's Intelligence and Dexterity; mana helps making and using them.
+Both place lasting effects on gear. Enchantments use a word-like language (Earth analogy: English). Runes use a symbol language (Earth analogy: Japanese / Chinese characters). Runes are harder to master and considered better. Chapter 13 shop talk: regular enchantments are cheaper and weaker and cover more surface area so fewer fit on one item; only runic pieces trigger Roland's pathway attraction. Runesmith and Enchantsmith are the matching Tier 2 craft classes; both need Mana Scribe first. Rune quality leans on the crafter's Intelligence and Dexterity; mana helps making and using them. Rune quality = how perfect the rune is (`η_cond`). Scroll quality is a separate strength grade (`ScrollAspects.md`).
 
 ## Ranks and grades
 

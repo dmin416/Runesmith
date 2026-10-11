@@ -1,6 +1,6 @@
 # Rune System Redesign
 
-> **Design loot.** Live locks: Energy.md (eta_cond feel order, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md (Ag mythril, Au orihalcum, Cu aurium, Fe/steel dark→star, Ti adamantium). Non-canon here: path-% dials; adamantium as forgeable post-set supersteel.
+> **Design loot.** Live locks: Energy.md (rune-quality η_cond, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md (Ag mythril, Au orihalcum, Cu aurium, Fe/steel dark→star, Ti adamantium). Non-canon here: path-% dials; adamantium as forgeable post-set supersteel.
 
 Basis for runes going forward (not frozen; dials stay open). **Nature / worldview lock:** `Nature.md` (segments, pathways, law and causality). Companion: setup mana in `RuneSetup.md`. Activation energy, path efficiency and heat: `Energy.md`. Named rune catalog and chapter first-seens: `Runes.md`.
 
@@ -40,7 +40,7 @@ Stages 8 and 9 appear only at rune score above 1 (Common Low and up). Lesser run
 
 **The five ranks:** Lesser, Common, Greater, Grand, Legendary. **The five qualities:** Lowest, Low, Intermediate, High, Highest. A rune is named rank first and quality second (Common Low). Rank sets the scale of the machine: size, complexity and working ceiling. Quality sets how well the machine is built and so the position inside the rank. **Flow, useful effect and waste follow quality level** (`Energy.md`): Highest = practically no waste; Lowest is the worst. Bad runes show as same-cost weak power, or high minimum activation cost for only average power. Harmonics (next section) refine seating inside that quality band. Output stops at the ceiling except for overrun (below). Extra mana fed into a scroll adds output up to it (canon: amplification is rank-capped).
 
-**Working ceiling = 10 J x 100^s** per activation or per run (power x run length for a sustained machine). Each rank is a band of 100 times from Lowest to Highest. Lowest of a rank equals Highest of the rank below (canon). Intermediate sits at 10 times the Lowest. Lesser steps: 10 J, 32 J, 100 J, 316 J, 1 kJ. Lesser Highest is the baseline anchor: **1 mana ≈ 10 J** paid (`Energy.md`, `../World/Science/Energy/ManaCast.md`). Rune useful output uses `Useful = mana × 10 × η_cond × A` with ambient `A = √C` and η_cond from Energy.md quality **20%** blocks (Lowest **0.2** → Highest **1.0**; host feel narrative only). Story "about 100 MP" detonation beats are round Intermediate / open-air mixes, not a second constant.
+**Working ceiling = 10 J x 100^s** per activation or per run (power x run length for a sustained machine). Each rank is a band of 100 times from Lowest to Highest. Lowest of a rank equals Highest of the rank below (canon). Intermediate sits at 10 times the Lowest. Lesser steps: 10 J, 32 J, 100 J, 316 J, 1 kJ. Lesser Highest is the baseline anchor: **1 mana ≈ 10 J** paid (`Energy.md`, `../World/Science/Energy/ManaCast.md`). Rune useful output uses `Useful = mana × 10 × η_cond × A` with ambient `A = √C` and η_cond from Energy.md **rune quality** **20%** blocks (Lowest **0.2** → Highest **1.0**; host feel narrative only). Rank span is not the η_cond span. Story "about 100 MP" detonation beats are round Intermediate / open-air mixes, not a second constant.
 
 **Overrun.** The ceiling is soft. Overcharging, a rune done exceptionally well, or a Highest quality can push output past it by up to about 5 times. A Lesser Highest rune can reach about 5 kJ, above a Common Low. This is how a Lesser Highest rune can be powerful.
 
@@ -103,13 +103,13 @@ Rank index: Lesser 1, Common 2, Greater 3, Grand 4, Legendary 5. Quality fractio
 
 ### Formulas (design loot; layout / resonance only)
 
-**Live activation law is only** `Energy.md`: `Useful = mana × 10 × η_cond × A` with `A = √C` and η_cond = quality **20%** blocks. Host feel is narrative; **no locked host η%**. Retired linear **G** and copper/steel η% tables are dead (do not paste them back as working math).
+**Live activation law is only** `Energy.md`: `Useful = mana × 10 × η_cond × A` with `A = √C` and η_cond = **rune quality** **20%** blocks. Host feel is narrative; **no locked host η%**. Retired linear **G** and copper/steel η% tables are dead (do not paste them back as working math).
 
 Layout / resonance dials below are **proposed design loot**, not a second live pathway:
 
 - Layout efficiency: **λ = 0.16^(1 - s)** for s below 1 (0.4 at Intermediate). λ = 1 from s = 1 up.
 - Recovery: **r = 0.125 × u**
-- η_cond: Energy.md quality ladder (0.2 / 0.4 / 0.6 / 0.8 / 1.0).
+- η_cond: Energy.md **rune quality** ladder (0.2 / 0.4 / 0.6 / 0.8 / 1.0). Not scroll quality.
 - Effective path through layout / recovery / discord (proposed): **η_eff = 1 - (1 - η_cond × λ) × (1 - r) × (1 + d)**
 - Resonance boost on ambient (proposed): **H_eff = 1 + 0.25 × u × T**
 - **Proposed output = cost × 10 J × η_eff × A × H_eff**. Sealed / no breath: A = 1 unless the beat says otherwise.
@@ -144,7 +144,7 @@ Lower waste means proportionally lower heat and strain on the path. Legendary Hi
 
 ### Worked cases (illustrative layout λ only)
 
-Host η% and linear **G** rows are **not** used here. Pick η_cond from Energy.md quality table; multiply by `A = √C`.
+Host η% and linear **G** rows are **not** used here. Pick η_cond from Energy.md **rune quality** table; multiply by `A = √C`.
 
 Layout cost anchor (same attack, same size): Highest **50** mana, Intermediate **125** mana (λ 0.4). The Intermediate pays more for the same converter delivery because the layout leaks. Path life and heat follow that waste ratio on identical size. Better hosts (toward mythril) widen the gap between clean and sloppy layouts; adamantium never sits on this ladder as a channel.
 

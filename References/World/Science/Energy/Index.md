@@ -23,6 +23,7 @@ Stones, cast tables, batteries, engines, motors, fans, pumps, compression, fligh
 - [Generators.md](Generators.md). Faraday generators; paired flywheels; cryogenic / relativistic drain bottleneck
 - [FlywheelStorage.md](FlywheelStorage.md). Rim-weighted indestructible flywheel sizes; 0.1c / 0.9c; solid-drum pack. Perfect-winding storage note. Speed ceiling: ElectricMotors.md
 - [FlywheelApplications.md](FlywheelApplications.md). Lossless crystal laser / lighting / loads from flywheel sets; air ceilings
+- [CleanestUsefulEnergyStorage.md](CleanestUsefulEnergyStorage.md). Earth comparison: flywheel, H₂, CSP, pumped hydro, thermal, CAES, liquid air, iron-air, flow, Na-ion, LFP, supercap
 
 ## Air and fluid
 

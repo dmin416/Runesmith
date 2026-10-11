@@ -229,19 +229,23 @@ HP **536** / MP **2158** / SP **708**.
 
 Reinforcement while active: **+90%** of max MP as bonus base stats (L9 × 10%, 90% cap). Drops when MP is empty.
 
-**Ch 12 binge pads:** Sleep **L5** (+1 Vit/+1 End vs L4), Alcohol L1 (**End +1**), Dance L1 (**Agi +1**), Pain L1 (**Will +1**, **End +1**) → night **Agi +1 / Vit +1 / End +3 / Will +1**. Floor-2 cook/tame: **Multitasking** L1 (**Int +1**, **Dex +1**); **Poison Resistance** L1 (**Vit +1**, **End +1**); **Basic Taming** L1 (**Cha +1**); **Mana Hands** at least **L7**. Chapter pad total **Agi +1 / Vit +2 / End +4 / Will +1 / Int +1 / Dex +1 / Cha +1**.
+**Estate wound pads (rewrite notes, on sheet by Ch 7–8):** Pain **L3** (Will **+3**, End **+3**); Blunt **L4** (Vit **+4**, End **+4**); Sharp **L2** (Vit **+2**, End **+2**); Recovery **L3** (Vit **+3**, End **+3**). Net vs pre-wound stack: Vit **+9**, End **+12**, Will **+3**. Blunt ≫ Sharp. Detail: `Capabilities/EstateWoundGrind.md`.
+
+**Ch 9.5 wound climbs:** Blunt **L4→L5**, Sharp **L2→L3** at most, Pain **L3→L4**, Recovery **L3→L4** → Vit **+2–3**, End **+2–3**, Will **+1**.
+
+**Ch 12 binge pads:** Sleep **L5** (+1 Vit/+1 End vs L4), Alcohol L1 (**End +1**), Dance L1 (**Agi +1**). Pain already owned (no first-unlock pad). Night **Agi +1 / Vit +1 / End +2 / Will +0**. Floor-2 cook/tame: **Multitasking** L1 (**Int +1**, **Dex +1**); **Poison Resistance** L1 (**Vit +1**, **End +1**); **Basic Taming** L1 (**Cha +1**); **Mana Hands** at least **L7**. Chapter pad total rewrite **Agi +1 / Vit +2 / End +3 / Will +0 / Int +1 / Dex +1 / Cha +1**.
 
 ### Mage L25 (Ch 13 half-year end)
 
 Enter Ch 13 as post–Ch 12 stack still **Mage L20**, then **+5** Mage packages (L21–L25) and Floor-3 skill ranks (`Skills.md` Ch 13). Spells grant **no** attribute pads.
 
-**Post–Ch 12 (still L20):** from live Ch 10 + Ch 12 pads → Int **130** / Will **128** (and physical deltas on the live stack).
+**Post–Ch 12 (still L20):** from live Ch 10 + Ch 12 pads → Int **130** / Will **128** (and physical deltas on the live stack). Rewrite Will already includes estate Pain pads.
 
 **Class L20→L25:** Int **+5**, Will **+5**.
 
-**Ch 13 skill pads** (no evolves; **half a year** with the girls): Sword Basic **L8→L9** Str **+1**; Dodging Basic **L4→L6** Agi **+2**; Sneaking Basic **L8→L9** Agi **+1**; Marksmanship **L7→L9** Dex **+2**; Incantation **L6→L9** Int **+3** Will **+3**; Shaping **L6→L7** Int **+2** Will **+1**; Regulation **L7→L8** Int **+1** Will **+2**; Alcohol **L1→L4** End **+3**; Poison **L1→L6** Vit **+5** End **+5**; Recovery **L1→L5** Vit **+5** End **+5**.
+**Ch 13 skill pads** (no evolves; **half a year** with the girls): Sword Basic **L8→L9** Str **+1**; Dodging Basic **L4→L6** Agi **+2**; Sneaking Basic **L8→L9** Agi **+1**; Marksmanship **L7→L9** Dex **+2**; Incantation **L6→L9** Int **+3** Will **+3**; Shaping **L6→L7** Int **+2** Will **+1**; Regulation **L7→L8** Int **+1** Will **+2**; Alcohol **L1→L4** End **+3**; Poison **L1→L6** Vit **+5** End **+5**; Recovery **L4→L5** Vit **+1** End **+1**; Sharp **L2→L3** Vit **+1** End **+1**; Blunt holds **L5**; Pain holds **L4**.
 
-**Live Ch 13 sheet:** Str **49** / Agi **63** / Dex **59** / Vit **57** / End **62** / Int **137** / Will **135** / Cha **12** / Luck **7**; HP **756** / MP **2292** / SP **956**. Printed MP stands; Mage is recovery only.
+**Live Ch 13 sheet (printed, lags rewrite wound pads):** Str **49** / Agi **63** / Dex **59** / Vit **57** / End **62** / Int **137** / Will **135** / Cha **12** / Luck **7**; HP **756** / MP **2292** / SP **956**. Printed MP stands; Mage is recovery only. Rewrite Vit/End/Will sit higher by estate+field wound pads until the sheet is retouched.
 
 **Ch 14:** **Basic Dodging L6→L7** mid-chase (**Agi +1**). Live **Agi 64** / SP **959**.
 

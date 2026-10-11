@@ -53,7 +53,7 @@ Hub for Terra. Locked world facts live here in short form. Deep files hold the r
 | `../Food/Food.md` | Food and drink by wealth |
 | `../Progression/Progression.md` | Status, classes, XP, skills |
 | `../Runes/Magic.md` | Magic, scrolls, space bags, ranks |
-| `../Runes/Energy.md` | Mana (foundations locked; numeric η_cond / G later) |
+| `../Runes/Energy.md` | Mana. Rune-quality η_cond: Lowest **0.20** → Highest **1.00** (20% blocks) |
 | `../People/Roland/Character.md` | Main character |
 | `../People/Family.md` | House Arden |
 | `../../Premise.md` | Story premise |

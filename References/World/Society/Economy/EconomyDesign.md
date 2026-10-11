@@ -113,7 +113,7 @@ Use these rewrite anchors first. Prefer them over older Source-era numbers when 
 | Regional map / horse rental | **3–5 SS** / **1–2 SS / day** |
 | Airship / teleport gate ticket / old gate activation | **2–5 SG** / **5 LS–2 SG** per person / **1–5 SG** per activation |
 | Skill book T1 / T2 / T3 | **2–5 SG** / **10–25 SG** / **50–100 SG** |
-| Church services | **≈9×** engine casting labor |
+| Church services | Coin bands; casting-labor multiple **open** |
 | Scar-concealment / curing miracle / limb regen / divine elixir | **2–5 SG** / **9–30 SG** / **15–30 SG** / **30–100 SG** |
 | Mage robe / enchanted weapon or shield | **2–5 SG** / **5–10 SG** |
 | Runic prosthetic / runic carriage | **10–30 SG** / **5–20 SG** |
@@ -227,14 +227,14 @@ Working at unskilled mid **~7.5 LC/day**:
 | Porter / clerk / T3 barrier / T4 cleric / Platinum | **8–12 LC** / **10–15 LC** / **4–6 LS** / **1–2 SG** / **1–3 SG** per day (Lock) | Magic hire premium |
 | Map / horse rental / airship / teleport / old gate | **3–5 SS** / **1–2 SS/day** / **2–5 SG** / **5 LS–2 SG**/person / **1–5 SG** activation (Lock) | Travel ladder |
 | Skill books T1 / T2 / T3 | **2–5 / 10–25 / 50–100 SG** (Lock) | Permanent purchase |
-| Church services / elixirs | **≈9×** casting labor; scar **2–5** / curing **9–30** / limb **15–30** / divine **30–100 SG** (Lock) | Curse heal **9 SG** ÷ T3 Highest **1,024 LC** ≈ **8.8×** |
+| Church services / elixirs | Scar **2–5** / curing **9–30** / limb **15–30** / divine **30–100 SG** (Lock); Solaria curse heal **9 SG** | Casting-labor multiple **open** (old ≈9× / **1,024 LC** deleted with fake scroll labor; `ScrollEconomy.md`) |
 | Mage robe / weapon-shield / prosthetic / carriage | **2–5 / 5–10 / 10–30 / 5–20 SG** (Lock) | Complexity can exceed mithril floor |
 | Standard golem | **2–5 LG** (Lock); unique **~6×** build | Auction ratio Lock |
 | Stall protection fee | **2–5 SS / week** (Lock) | Concrete guild fee; percent Soft |
 | Debt / criminal labor contract, unskilled | **1–3 SG** | ~1–3 years wages |
 | Classed / skilled contract | **5–20+ SG** | Skill multiplies |
 
-**Roland scroll income check:** settled High Common Fire Arrow at **~10 SS** each, **~10/week** → **~1 SG/week** gross (~**1 LS/day** before fees). About **10×** a steady classed crafter day. Rare skill, high income, still far below landed nobility. Word-scroll cost engine + shop locks: `../../../Runes/ScrollEconomy.md` (Mana Arrow Intermediate **3 SS**, Fire Arrow Intermediate **6 SS**; word-scribe Intermediate day ~**35 LC**, separate from runic brand).
+**Roland scroll income check:** settled High Common Fire Arrow at **~10 SS** each, **~10/week** → **~1 SG/week** gross (~**1 LS/day** before fees). About **10×** a steady classed crafter day. Rare skill, high income, still far below landed nobility. Word-scroll cost engine: `../../../Runes/ScrollEconomy.md` (Mage+Scribe / elemental Mage sheets; η_craft pours; Mana Arrow Intermediate **3 SS**; Fire Arrow Intermediate **6 SS**; separate from runic brand).
 
 ---
 
@@ -556,7 +556,7 @@ Hangover potions and **healing / recovery potions** both exist and are in circul
 | Healing Low / Mid / High / Greater | **2–5 SS** / **1–2 LS** / **5–10 LS** / **1–3 SG** (Lock) | ×10 coin feel; Greater is rare single-use |
 | Guild mana potion (employee) | **2–4 SS** (Lock) | Separate product, not a cheap heal |
 | Dungeon-gate potion markup | market × **1.25+** (Lock) | Canon Ch 71 |
-| Church services | **≈9×** engine casting labor (Lock) | Curse heal **9 SG** ÷ T3 Highest casting labor **1,024 LC** ≈ **8.8×** |
+| Church services | Coin bands (Lock); casting-labor multiple **open** | Solaria curse heal **9 SG**; old ≈9× / **1,024 LC** deleted with fake scroll labor |
 | Scar-concealment elixir | **2–5 SG** (Lock) | Under miracle band |
 | T3 High Priest curse heal (Solaria) | **9 SG** (Lock) | Ch 53; curing-miracle floor |
 | Curing miracle | **9–30 SG** (Lock) | Harder cures climb |
@@ -838,7 +838,7 @@ Tavern weak-spirit pitcher prices are locked in the Rewrite price lock and §11.
 
 Full Source (chs 1-711) was swept. Hard `small/large` prices cluster early; late book often says bare "gold" (= large/regular when glossed). **Superseded Source numbers** (do not reuse in rewrite): commoner 1 SG/mo; rice-grain 4 SS; cheap inn 2 SS; tavern >1 LS; farm 100 SG; ship 1 SG; "100 SG >5 years" living; repair 1 SG; crystal ball 10/20 SG; black-market entry 5 SG; house phrase 10 LG.
 
-**Kept:** latrine 10 LC; ear 5 LC; gate 5 LC; card 2 LS; bags 5-10 SG; class crystal 2 SG; word scroll engine T1–T5; heal 9 SG (**≈9×** T3 Highest casting); severance 100/150 SG; golem **2–5 LG** + **~6×** unique; skill books T1–T3; potion ladder; mithril floor **≥1 LG** (mithril minimum).
+**Kept:** latrine 10 LC; ear 5 LC; gate 5 LC; card 2 LS; bags 5-10 SG; class crystal 2 SG; word scroll engine T1–T5 (`ScrollEconomy.md`); heal **9 SG** (story; casting-labor multiple open); severance 100/150 SG; golem **2–5 LG** + **~6×** unique; skill books T1–T3; potion ladder; mithril floor **≥1 LG** (mithril minimum).
 
 ## 31. Rewrite status
 

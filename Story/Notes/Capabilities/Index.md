@@ -9,6 +9,7 @@ Street adult baseline is **15** across the board.
 | File | When | Age | Anchor |
 |---|---|---|---|
 | [CarwenArrive.md](CarwenArrive.md) | Guild register / first Carwen lodging | **10y3m** | Ch **8** |
+| [EstateWoundGrind.md](EstateWoundGrind.md) | Pre-leave skills + blunt/sharp/pain/Recovery use budget | **5–10** | Ch **2–7** |
 | [EdelgardArrive.md](EdelgardArrive.md) | Train exit / Singing Crow | **11y0m** | Ch **19–20** |
 | [IslandArrive.md](IslandArrive.md) | Lands Dragnis → Albrook guild orb | **15** | Ch **67–68** |
 | [AcademyEscort.md](AcademyEscort.md) | Academy youths / dungeon escort arc | **16** | Ch **108** |

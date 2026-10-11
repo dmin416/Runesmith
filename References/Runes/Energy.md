@@ -2,7 +2,7 @@
 
 Spell-specific worked tables: `../World/Science/Energy/ManaCast.md`. Altitude density: `../World/Science/Energy/ManaConcentration.md`. Stone size / mass tables: `../World/Science/Energy/ManaStones.md`. Stone law: `../World/Materials/MonsterCores.md`. Metals / hosts: `../World/Materials/Metals.md`.
 
-Design companions: `EnergyDesign.md` (electrical analogy, wear stages, body-path proposals), `RuneSystem.md`, `RuneSetup.md`, `ManaMaterials.md`, `Nature.md`. Live lock: Ag→mythril; Au→orihalcum (MR=% / antimagic); Cu→aurium; Fe/steel→dark→star; Ti→adamantium cast-final (`../World/Materials/Metals.md`); η_cond = quality ladder in **20%** blocks (Lowest **0.2** → Highest **1.0**); host feel is narrative only. Future spell idea math: `../PotentialMagic/PotentialMagic.md` (design loot; same cast law).
+Design companions: `EnergyDesign.md` (electrical analogy, wear stages, body-path proposals), `RuneSystem.md`, `RuneSetup.md`, `ManaMaterials.md`, `Nature.md`. Live lock: Ag→mythril; Au→orihalcum (MR=% / antimagic); Cu→aurium; Fe/steel→dark→star; Ti→adamantium cast-final (`../World/Materials/Metals.md`); η_cond = **rune quality** ladder in **20%** blocks (Lowest **0.2** → Highest **1.0**); host feel is narrative only. Not scroll quality. Future spell idea math: `../PotentialMagic/PotentialMagic.md` (design loot; same cast law).
 
 ## Narrative
 
@@ -161,7 +161,7 @@ Electricity is the physical model for how mana **moves through material** (flow,
 
 **Primary dial: rune quality level** (Lowest → Low → Intermediate → High → Highest; see `RuneSystem.md`). Locked as straight **20%** blocks of useful mana (`η_cond`). Waste = the rest (`1 − η_cond`) as heat / stray discharge.
 
-| Quality | η_cond | Useful share | Waste share |
+| Rune quality | η_cond | Useful share | Waste share |
 |---|---:|---:|---:|
 | Lowest | **0.20** | 20% | 80% |
 | Low | **0.40** | 40% | 60% |

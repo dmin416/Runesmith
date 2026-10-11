@@ -205,7 +205,7 @@ Loose imbue soaks deepest at forging heat then must be trapped by cooling under 
 ## 8. Consistency checklist
 
 - Cost fixed. Path feel and ambient `A = √C` change output and waste only. Old linear G bands are dead.
-- Path heat / corruption = **½** of waste; ambient = **½**. η_cond from Energy.md quality table.
+- Path heat / corruption = **½** of waste; ambient = **½**. η_cond from Energy.md **rune quality** table.
 - Modes: wire, refuse/block, superconducting, absorber, soft, persistent, biological.
 - Blood/ink = living-path band. Scrolls work.
 - Copper = decent mid host. Ladder lives in Energy.md.

@@ -78,11 +78,11 @@ Chanted large fire storm.
 
 ### Fire Arrow / Firebolt Arrow
 First seen: Chapter 20 (shop scrolls)
-Tier 2 fire projectile. Shop and runic prices, including Grimboodle's dusty shelf and fair High: `../Runes/ScrollEconomy.md` and `../World/Society/Economy/PriceCatalog.md`. Power depends on the maker and the materials. A Runesmith has to produce the runic form.
+Tier 2 fire projectile. Shop and runic prices, including Grimboodle's dusty shelf and fair High: `../Runes/ScrollEconomy.md` and `../World/Society/Economy/PriceCatalog.md`. Word craft: spell ÷ η_craft; T2 elemental Mage maker (`../Runes/ScrollAspects.md`). A Runesmith has to produce the runic form.
 
 ### Fireball
 First seen: Chapter 20 (shop talk)
-Stronger fire AOE scroll; shop talk **≈1 large silver**.
+Stronger fire AOE scroll; shop talk **≈1 large silver**. Word craft spell cost **100** (η_craft); shape family Ball (`BasicSpellShapes.md`). `../Runes/ScrollAspects.md`.
 
 ### Runic Fire Arrow
 First seen: Chapter 20 (Grimboodle shelf); Roland's product Chapter 22

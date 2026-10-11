@@ -1,6 +1,6 @@
 # Scroll Imbue (Idea)
 
-> **Unread idea / design loot.** Not reviewed. **Not a lock.** Do not override `Energy.md` (η_cond = rune **quality** 0.2→1.0) or live scroll prices until this is accepted. Companions: `Magic.md`, `../World/Science/Invent/Ink.md`, `ManaMaterials.md`, `ScrollEconomy.md`, `RuneSetup.md`.
+> **Unread idea / design loot.** Not reviewed. **Not a lock.** Live **rune-quality** efficiency is **only** `Energy.md` η_cond: Lowest **0.20** / Low **0.40** / Intermediate **0.60** / High **0.80** / Highest **1.00**. Scroll quality is a different strength grade (`ScrollAspects.md`). Ink numbers below use **η_ink**, never the name η_cond.
 
 Parked model for how substrate density, narrative resistance, ink grade and engraving channels could set **imbuing** and **charging** costs for scripts. Kept here so it is findable next to Magic / ink notes.
 
@@ -11,10 +11,10 @@ Parked model for how substrate density, narrative resistance, ink grade and engr
 The model holds together with three adjustments.
 
 1. **Density and conductivity can conflict.** Silver is ten times denser than parchment yet conducts mana far better. The rules need a formula that weighs both rather than ranking materials on one trait.
-2. **Charging cost should account for conduction losses.** Canon says rune output = mana × 10 × η_cond × A. If a scroll must deliver the same effect as a cast 100-mana spell, the reservoir needs 100 ÷ η_cond, so a scroll with lossy ink costs more than 100 to charge.
+2. **Charging cost should account for conduction losses.** Canon useful output = mana × 10 × η_cond × A with **η_cond = rune quality only**. This idea’s separate ink loss dial is **η_ink** (not rune quality, not scroll quality).
 3. **Thin materials need a depth cap.** If imbuing saturates the whole thickness, a stone tablet becomes absurd. Imbuing should saturate a fixed bond depth under the line, so volumetric density matters and total thickness only matters when the material is thinner than that depth.
 
-**Conflict note vs live lock:** Live `Energy.md` ties η_cond to **rune quality grade**, not ink. This idea invents a separate ink η_cond for charge math. Resolve or merge only after review.
+**Conflict note vs live lock:** Live `Energy.md` ties **η_cond** only to **rune quality** **0.20 / 0.40 / 0.60 / 0.80 / 1.00**. This file must never reuse that symbol or those steps for ink.
 
 ---
 
@@ -38,7 +38,7 @@ The model holds together with three adjustments.
 
 ```
 Imbue = Spell × [1 + (D × R × I × C)]
-Charge = Spell ÷ η_cond
+Charge = Spell ÷ η_ink
 ```
 
 | Variable | Meaning |
@@ -47,13 +47,13 @@ Charge = Spell ÷ η_cond
 | R | Substrate resistance (paper = 1) |
 | I | Ink factor |
 | C | Channel factor |
-| η_cond | Ink conduction efficiency (this idea's dial, not quality ladder) |
+| η_ink | Ink conduction (idea dial only; **not** quality η_cond) |
 
 The leading 1 guarantees imbuing never costs less than the spell itself.
 
-### Ink grades
+### Ink grades (η_ink only; not the quality ladder)
 
-| Ink | I | η_cond |
+| Ink | I | η_ink |
 |---|---|---|
 | Soot ink | 1.5 | 0.60 |
 | Standard (mana stone dust) | 1.0 | 0.80 |

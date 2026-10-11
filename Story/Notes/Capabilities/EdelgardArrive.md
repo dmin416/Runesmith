@@ -54,11 +54,14 @@ Comfortable seated hold ≈ **~25 min** (~**25×** street adult).
 | Skill | Level | Effect left |
 |---|---:|---|
 | Pain Resistance | **L5** | **50%** felt |
+| Blunt Resistance | **L5** | **50%** blunt harm |
+| Sharp Resistance | **L3** | **70%** sharp harm |
 | Heat Resistance | **L5** | **50%** heat harm |
 | Cold Resistance | **L5** | **50%** cold harm |
 | Poison Resistance | **L6** | **40%** toxin |
 | Sleep Resistance | **L5** | **50%** sleep need |
 | Alcohol Resistance | **L4** | **60%** drunk/hangover |
+| Recovery | **L5** | **50%** close time |
 
 No immunities yet.
 

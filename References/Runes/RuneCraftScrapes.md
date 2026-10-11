@@ -1,6 +1,6 @@
 # Rune Craft Scrapes
 
-> **Design loot.** Live locks: Energy.md (eta_cond feel order, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md (Ag mythril, Au orihalcum, Cu aurium, Fe/steel dark→star, Ti adamantium). Non-canon here: path-% dials; adamantium as forgeable post-set supersteel.
+> **Design loot.** Live locks: Energy.md (rune-quality η_cond, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md (Ag mythril, Au orihalcum, Cu aurium, Fe/steel dark→star, Ti adamantium). Non-canon here: path-% dials; adamantium as forgeable post-set supersteel.
 
 Chapter prose scrape: how runes / runic enchantments look and how Roland makes them (hand, quill, hammer, chisel). Not a world-law file.
 

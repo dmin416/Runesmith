@@ -1,22 +1,19 @@
 # Every Damage Type and Its Resistance
 
-> **Ideas / taxonomy.** Maps real-world harm to seven core resists + status effects. Live skill names and −10%/level math: `SkillsDesign.md`, `RolandResistanceTracks.md`. Broader ladder ideas: `ResistanceImmunitySystem.md`. Multi-mechanism projection (Survival family, splits): `MultiMechanismResistance.md`. Radiation split detail: `../World/Space/Radiation/`. Vision dazzle vs damage: `../World/Space/Radiation/RadiationVision.md`.
+> **Ideas / taxonomy.** Maps real-world harm to resist skills. Full formulas, families, multi-mechanism math: `ResistanceImmunitySystem.md`. Live skill names and −10%/level math: `SkillsDesign.md`, `RolandResistanceTracks.md`. Sustenance leveling meters: `MultiMechanismResistance.md`. Radiation: `../World/Space/Radiation/`. Vision dazzle: `../World/Space/Radiation/RadiationVision.md`.
 
-Not automatic law. Roland’s live tracks (Heat, Cold, Poison, Pain, Sleep, Acid, Electricity, Blunt, Sharp, …) do not have to match these names 1:1. Use this table to decide **which track soaks which beat**.
+Not automatic law. Roland’s live tracks do not have to match these names 1:1. Use this table to decide **which track soaks which beat**.
 
-## Core resistances
+## Core resistances (idea families)
 
-| Resistance | Protects against |
-|---|---|
-| **Blunt** | Impact, crushing, pressure, shockwaves |
-| **Pierce** | Penetration at a point, from spears down to particles snapping DNA |
-| **Slash** | Cutting, tearing, scraping |
-| **Heat** | Any damage from tissue getting too hot |
-| **Cold** | Any damage from tissue getting too cold |
-| **Poison** | All chemical and biological damage: toxins, corrosives, infection |
-| **Deprivation** | Lack of something the body needs: oxygen, blood, water, food, sleep |
+| Family | Skills | Fused |
+|---|---|---|
+| **Thermal** | Heat, Cold | Temperature Immunity |
+| **Kinetic** | Blunt, Sharp | Melee Immunity |
+| **Bodily** | Pain, Poison, Alcohol | Bodily Immunity |
+| **Sustenance** | Sleep, Thirst, Hunger, Suffocation | Sustenance Immunity |
 
-Live note: Sharp on Roland’s grind sheet = pierce + slash (`RolandResistanceTracks.md`). Sleep Resistance is a **need cut**, not HP soak; it still maps under Deprivation for taxonomy.
+Live note: Sharp on Roland’s grind sheet = pierce + slash. Sleep Resistance is a **need cut** on the live sheet; idea Sustenance defers natural-need drop to the Fused tier (live wins in chapters).
 
 ## Status effects (no tissue damage)
 
@@ -35,20 +32,20 @@ Pain as a resist track soaks **felt** pain; status Pain here is the functional l
 |---|---|
 | Punches, kicks, clubs, hammers | Blunt |
 | Falls, vehicle crashes | Blunt |
-| Crushing (rubble, machinery) | Blunt |
+| Crushing (rubble, machinery) | Blunt (+ Suffocation if breathing blocked) |
 | Explosion blast wave | Blunt |
 | Deep-sea pressure | Blunt |
 | Concussion | Blunt + Stun |
 | Whiplash, twisting, joint dislocation | Blunt |
-| Bullets | Pierce + Blunt (shockwave stretches surrounding tissue) |
-| Arrows, spears, stabbing, needles | Pierce |
-| Shrapnel | Pierce + Slash |
-| Blades, claws, broken glass | Slash |
-| Saws, chainsaws | Slash |
-| Mauling, ripping, tearing | Slash + Blunt |
-| Animal bites | Pierce + Blunt + Poison (infection) |
-| Road rash, scraping | Slash + Heat (friction) |
-| Extreme G-forces | Blunt + Deprivation (brain starved of blood) |
+| Bullets | Sharp + Blunt (shock cavity if it penetrates) |
+| Arrows, spears, stabbing, needles | Sharp |
+| Shrapnel | Sharp |
+| Blades, claws, broken glass | Sharp |
+| Saws, chainsaws | Sharp |
+| Mauling, ripping, tearing | Sharp + Blunt |
+| Animal bites | Sharp + Blunt + Poison (infection) |
+| Road rash, scraping | Sharp + Heat (friction) |
+| Extreme G-forces | Blunt + Suffocation |
 | Loud noise | Blunt + Deafen |
 
 ## Thermal
@@ -71,16 +68,17 @@ Pain as a resist track soaks **felt** pain; status Pain here is the functional l
 
 | Damage | Resistance |
 |---|---|
-| Acids, alkalis | Poison |
+| Acids, alkalis | Poison (+ Heat if concentrated) |
 | Venom, plant and animal toxins | Poison |
-| Drug overdose, alcohol | Poison |
+| Drug overdose | Poison |
+| Drinking alcohol | Alcohol |
 | Heavy metals (lead, mercury) | Poison |
 | Nerve agents | Poison |
 | Blister agents (mustard gas) | Poison |
-| Carbon monoxide | Deprivation (Suffocation; Hb binding) |
-| Cyanide | Poison (cellular respiration) |
-| Allergic reaction | Poison + Deprivation (airway swelling) |
-| Smoke inhalation / house-fire plume | **½ Deprivation, ⅖ Poison, ⅒ Heat** (`MultiMechanismResistance.md`) |
+| Carbon monoxide | Suffocation |
+| Cyanide | Poison |
+| Allergic reaction | Poison + Suffocation (airway swelling) |
+| Smoke inhalation / house-fire plume | **½ Suffocation, ⅖ Poison, ⅒ Heat** |
 | Pepper spray, tear gas | Pain + Blind |
 
 Live note: Roland also has a dedicated **Acid** grind track. Treat Acid as a Poison sub-family or a parallel until fused.
@@ -95,27 +93,27 @@ Live note: Roland also has a dedicated **Acid** grind track. Treat Acid as a Poi
 | Parasites | Poison |
 | Prions | Poison |
 | Sepsis | Poison |
-| Cancer | Pierce + Poison (damaged DNA) |
+| Cancer | Sharp + Poison (damaged DNA) |
 
 ## Radiation
 
 | Damage | Resistance |
 |---|---|
-| Gamma, X-rays, beta, solar and cosmic protons | **⅓ Pierce, ⅔ Poison** |
+| Gamma, X-rays, beta, solar and cosmic protons | **⅓ Sharp, ⅔ Poison** |
 | Neutrons | Blunt |
-| Alpha, heavy cosmic ions | Pierce |
-| Swallowed or inhaled radioactive material | Pierce + Poison |
+| Alpha, heavy cosmic ions | Sharp |
+| Swallowed or inhaled radioactive material | Sharp + Poison |
 | UV | Poison |
 | Bright light | Blind |
 
-Aligns with low-LET ~⅓ direct / ~⅔ radical damage (`../World/Space/Radiation/Fundamentals.md`). Heat Resistance covers thermal radiation (IR, flash burns); it does **not** soak ionizing DNA damage (`RobustHeatHuman.md`, `RadiationVision.md`).
+Aligns with low-LET ~⅓ direct / ~⅔ radical damage (`../World/Space/Radiation/Fundamentals.md`). Heat covers thermal radiation; it does **not** soak ionizing DNA damage.
 
 ## Electrical
 
 | Damage | Resistance |
 |---|---|
-| Electrocution, lightning | Heat (burns) + Pierce (current punches holes in membranes) + Stun (heart and nerve) |
-| Taser | Stun |
+| Electrocution, lightning | Heat + Sharp + Suffocation |
+| Taser | Pain (muscle lockup has no skill) |
 | EMP | None (electronics only) |
 
 Live note: Roland **Electricity** grind track owns the soak; split above is feel for what the track is buying.
@@ -124,26 +122,26 @@ Live note: Roland **Electricity** grind track owns the soak; split above is feel
 
 | Damage | Resistance |
 |---|---|
-| Drowning, choking, suffocation | Deprivation |
-| Strangulation | Deprivation + Blunt |
-| High altitude, thin air | Deprivation |
-| Inert gas (nitrogen, helium) | Deprivation |
-| Blood loss | Deprivation |
-| Dehydration | Deprivation |
-| Starvation | Deprivation |
-| Sleep deprivation | Deprivation |
+| Drowning, choking, suffocation | Suffocation |
+| Strangulation | Suffocation + Blunt |
+| High altitude, thin air | Suffocation |
+| Inert gas (nitrogen, helium) | Suffocation |
+| Blood loss | Suffocation |
+| Dehydration | Thirst |
+| Starvation | Hunger |
+| Sleep deprivation / forced sleep | Sleep |
 
-Breath Control and Sleep Resistance are live tools in this family; they are not full Deprivation Immunity. Projected fused track: **Undying Body** (`MultiMechanismResistance.md`).
+Breath Control and Sleep Resistance are live tools in this family; they are not full **Sustenance Immunity**.
 
 ## Environmental extremes
 
 | Damage | Resistance |
 |---|---|
-| Vacuum exposure | Blunt (tissue swelling) + Deprivation |
-| Decompression sickness (the bends) | Pierce (gas bubbles tear tissue) + Deprivation (bubbles block blood) |
-| Volcanic eruption | Heat + Poison (gases) + Blunt (debris) |
-| Desert exposure | Heat + Deprivation (dehydration) + Poison (UV) |
-| Arctic exposure | Cold + Deprivation |
+| Vacuum exposure | Blunt + Suffocation |
+| Decompression sickness (the bends) | Sharp + Suffocation |
+| Volcanic eruption | Heat + Poison + Blunt |
+| Desert exposure | Heat + Thirst + Poison (UV) |
+| Arctic exposure | Cold + Hunger |
 
 ## Outside physical damage
 

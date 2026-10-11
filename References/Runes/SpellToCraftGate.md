@@ -8,7 +8,7 @@ These are **different products**. Same paper shape does not make them the same c
 
 | Family | What it is | Fuel / who | Craft skill |
 |---|---|---|---|
-| **Magic scroll** | Temporary magical pathway: written chant + pathways that guide the user's own mana. Disposable spell imprint. | User must have mana, **put their mana in**, and **chant**. Writer caps power. | Mana Scribing / magic-scroll craft |
+| **Magic scroll** | Temporary magical pathway: written chant + pathways that guide the user's own mana. Disposable spell imprint. | User must have mana, **put their mana in**, and **chant**. No user amp. Scroll quality = strength. Craft: spell ÷ η_craft (`ScrollAspects.md`). | Mana Scribing / magic-scroll craft |
 | **Runic scroll** | A **rune** laid on a scroll host. Rules machine, not a written spell. | **Anyone** can use. Common: user pays mana or stamina. **Special:** can be **preloaded with mana** and activated without the user casting a spell. | Rune Scribing / runecraft |
 
 A magic scroll is **not** a weak runic scroll. A runic scroll is **not** a magic scroll with symbols. Gate below treats them as separate outputs.

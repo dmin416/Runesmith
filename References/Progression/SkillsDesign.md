@@ -106,7 +106,7 @@ Already had at transfer from maps, GPS habits and diagrams at L4.
 
 ### Basic Calligraphy
 First seen: Chapter 7 (books packed for grind); L9 on status Chapter 13
-Writing skill. Roland takes calligraphy books when leaving Arden. Grinds months of nightly writing to L9 as a requirement for Mana Scribe (popup Chapter 13). Scroll work later: more mana infused into the writing makes a stronger spell.
+Writing skill. Roland takes calligraphy books when leaving Arden. Grinds months of nightly writing to L9 as a requirement for Mana Scribe (popup Chapter 13). Chapter: more mana into writing makes a stronger spell scroll. Notes: scroll quality ≠ rune quality; craft pour = spell ÷ η_craft (`../../Runes/ScrollAspects.md`).
 
 ## Resistance and recovery
 

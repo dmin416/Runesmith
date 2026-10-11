@@ -139,7 +139,7 @@ Dusty shelf runic Fire Arrow (2 LS) is vanity markup over regular word Fire Arro
 ```
 
 **Canon:** `References/Runes/ScrollEconomy.md`, `References/Runes/ScrollCraftScrapes.md`, `References/Runes/Magic.md` now carry extensive side-by-side lock:
-- Word scrolls: mana-only fuel, frozen cast, grade from power injected, Diagnosis blank
+- Word scrolls: mana-only fuel; scroll quality = strength; rune quality separate; craft pour = spell ÷ η_craft (low quality costs extra); T1 Mage+Scribe / T2 elemental Mage sheets; Diagnosis blank
 - Runic scrolls: mana or stamina, user-powered machine, amp to rank ceiling, Drawing works
 - Skills: Basic Mana Scribing for word; Basic Rune Scribing for runic
 - Timings: ~10 min Mana Arrow vs ~45 min Fire Orb runic (locked)
@@ -154,7 +154,7 @@ Dusty shelf runic Fire Arrow (2 LS) is vanity markup over regular word Fire Arro
 
 **Option (b) — Close out if sufficient:**
 ```
-- **Regular vs runic scroll craft:** Locked. Word scrolls (mana-only, frozen cast, Diagnosis blank, Basic Mana Scribing) vs runic scrolls (mana or stamina, amp-capable, Drawing, Basic Rune Scribing). Cost engine, skills, process, materials in ScrollEconomy / ScrollCraftScrapes / Magic. Open decisions (activation digits, P9 prepaid mix, exact runic mat cost) can defer until those beats are written.
+- **Regular vs runic scroll craft:** Locked. Word scrolls (mana-only, no user amp, Diagnosis blank, Basic Mana Scribing) vs runic scrolls (mana or stamina, amp-capable, Drawing, Basic Rune Scribing). Scroll vs rune quality: ScrollAspects.md. Cost engine in ScrollEconomy / ScrollCraftScrapes / Magic. Open decisions (activation digits, P9 prepaid mix, exact runic mat cost) can defer until those beats are written.
 ```
 
 ---

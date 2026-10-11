@@ -86,7 +86,7 @@ Surface symbols are not the whole working pattern. Working routes sit deeper and
 
 **Point:** Cast a spell the user could not otherwise cast (wrong affinity, missing spell), or fire a known form from paper. Mage cross-affinity / form patch. Fuel is **mana only** (no stamina substitute). User always pays the cast; the scroll does not replace their pool.
 
-**Limit:** Efficiency and power are capped by the one who wrote it.
+**Limit:** No user amplify. **Scroll quality** rates the product’s strength (Lowest→Highest). **Rune quality** is a different measure (perfection → `η_cond`). Craft pays spell cost ÷ η_craft (low quality costs extra). T1: Mage+Scribe. T2: elemental Mage. `ScrollAspects.md` / `ScrollEconomy.md`.
 
 **Roland gate:** Spells he can cast himself, he can put on **magic scrolls**. That does **not** unlock a **rune** for the same spell, and a magic scroll is **not** a runic scroll. Intention extras on a body cast (follow a person, lock to a chosen target) stay on the cast / magic-scroll side until a real **rune** sample teaches them. Full lock: `SpellToCraftGate.md`.
 
@@ -94,7 +94,7 @@ Surface symbols are not the whole working pattern. Working routes sit deeper and
 
 **Nature:** Rules-based scrolls. A **rune** on a scroll host. **Only this scroll family can be used by anyone.** Completely separate from magic scrolls.
 
-**Limit:** Can be open-ended. Not capped to a writer's personal efficiency and power the way magic scrolls are.
+**Limit:** Can be open-ended. User may feed extra energy up to the rank ceiling (`RuneSystem.md`). Scroll quality (strength) and rune quality (perfection / `η_cond`) stay separate (`ScrollAspects.md`). Rank is the tier dial for runes.
 
 **Type 1: Energy cast (common)**
 
