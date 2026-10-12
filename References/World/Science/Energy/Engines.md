@@ -1,6 +1,6 @@
 # Engines
 
-Hub: `../Science.md`. Shaft power into electricity: `Generators.md`. Line shafts and lathes: `../Invent/MechanicalPrecision.md`. Shop build order: `../../../Food/KitchenCraft.md`. Era lock: `../../Tech/Technology.md`.
+Hub: `../Science.md`. Shaft power into electricity: `Generators.md`. Line shafts and lathes: `../Invent/MechanicalPrecision.md`. Shop build order: `../../../Food/KitchenCraft.md`. Era lock: `../../Tech/Technology.md`. Auto ICE invent ladder (block through ignition, no computer): `../Vehicle/MechanicalCarComponents.md`.
 
 Heat engines turn a temperature difference into shaft power. Electric motors turn current into shaft power. A generator is a motor run backward.
 

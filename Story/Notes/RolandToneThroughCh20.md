@@ -135,10 +135,10 @@
 
 ## Chapter 20
 - [complain] `19-30.md:203` — breakfast gruel still mealy, plain; little seasoning
-- [complain] `19-30.md:259` — dusty old shop scrolls; solo crafter eats material losses
+- [complain] `19-30.md:259` — dusty old shop scrolls; solo eats full mat price + cuts (still sees tidy profit if demand)
 - [complain] `19-30.md:293` — *It costs about three times as much... who would buy this?*
 - [complain] `19-30.md:361` — "*Y-you want me to sign this?*" six-year magic contract
-- [complain] `19-30.md:367` — six years blocks rune experiments and freedom; leaves to find better deal
+- [complain] `19-30.md:367` — fair labor deal but locks adventure/experiment; leaves to shop around
 
 ## Notes
 - Through Ch 20, Roland has almost no hard profanity (`fuck` / `damn` / `shit` in his mouth). Strongest beats: *Psycho!*, *Yeesh*, *Rahhhh!*, *Tch*, "turd" for a failed orb.

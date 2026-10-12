@@ -1,81 +1,42 @@
 ---
-description: Directed line edits; cursor click insert point; prompt ellipses locate and finish; fix spelling
+description: Directed line edits; first word is absolute anchor
 alwaysApply: true
 ---
 
 # Directed Line Edits
 
-## Cursor click is the insert / edit point
+Do only what they named. No other lines, files, or cleanup.
 
-When the user gives wording to put into a file and the editor context shows a focused file with a cursor line:
+| They say | You do |
+| --- | --- |
+| Change / fix / replace | Change only that part |
+| Insert | Insert at the mark. Delete nothing |
+| Append | Append after the mark. Delete nothing |
+| Unclear | Ask. Do not guess |
 
-1. Treat that **clicked line** as the intended place unless they clearly point somewhere else.
-2. If the cursor sits on a **line with words**, use that line (and nearby lines) to find the right entry. Edit at that stretch. Do not hunt a different match first.
-3. If the cursor sits on a **blank line**, insert the new text there.
-4. If they also give a `...` locate line, prefer the **clicked line** when both point at the same area. If they conflict, ask only when the two targets are clearly different passages.
-5. Open-file context reports focused path and cursor line. That is the click. It does not show selection ranges.
+## Absolute anchor
 
-## Use the user's exact words
+The **first word** of their proposed change is the mark.
 
-When the user points at a line and gives replacement wording:
+1. Find that word on the clicked stretch.
+2. Edit from there only.
+3. Change **nothing** before it. Every character before the mark stays exact.
+4. Do not jump to a different paragraph, sentence, or “related” beat.
 
-1. Change only the line or clause they marked.
-2. Paste their wording into the story as they wrote it.
-3. Keep their commas, periods and question marks as they wrote them.
-4. Do not rewrite their wording to match other style rules.
-5. Do not flip the line back and forth after the edit is done.
+## Order lock
 
-## Always correct spelling
+Keep their sentence and clause order exactly. Do not move “while,” luck lines, or any other clause to where you think it reads better. Do not glue their words onto a later verb. Do not rewrite for grammar taste.
 
-Clear typos in the user's wording must be fixed when pasting into the story.
+## Exact words
 
-- Fix misspellings: `knwo` → `know`, `hapened` → `happened`, `couldnb't` → `couldn't`, `pat` → `past` when they meant past
-- Capitalize sentence starts when integrating their lines
-- Do **not** leave obvious spelling errors in chapter prose because the prompt had them
-- Do **not** change word choice, tone or meaning beyond spelling / capitalization for sentence starts
+- Paste their words exact (fix clear typos; capitalize sentence starts).
+- No synonym swaps. No style rewrites. No slang cleanup on their pasted lines.
+- Do not delete an opening sentence they did not mark.
+- Do not invent names, places, numbers, or fills. Ask, or keep their wording.
+- Do not graft leftover Source clauses onto their beat unless they kept them in the prompt.
 
-```
-# Prompt
-he had to knwo what to look out for
+## Locates
 
-# Wrong
-he had to knwo what to look out for
+`word?`, `...`, and short locate lines are not story text. Use them to find the match. Do not paste them into the story.
 
-# Right
-he had to know what to look out for
-```
-
-## What `...` means in an edit prompt
-
-`...` in the user's prompt is a locate marker. It is not story text.
-
-- Use the words around the `...` to find the matching stretch in the chapter
-- If the user has **clicked a line with words**, check that line first. Match the `...` locate text against the clicked stretch before searching the whole file
-- Apply the edit there
-- Do not paste the prompt's `...` into the story as a truncated ending
-- Finish the sentence with complete wording
-- Do not treat the `...` as a blank list of missing scenes to invent
-
-Example:
-
-User says: `he's never hit me before, but will he...`
-
-Find that clause. Put their words in. Finish the sentence. Do not leave `will he...` in the story.
-
-Wrong: `He's never hit me before, but will he...`
-Right: `He's never hit me before, but will he hit me if I annoy him?`
-
-Example with a locate line:
-
-User says:
-```
-i really need to get home
-
-he grabbed the umbrella to try to fix and headed...
-```
-
-The first line is the new wording. The second line with `...` only marks where to edit. Find that stretch and apply the change. Do not paste `headed...` into the story.
-
-Example with a click:
-
-Cursor on the chapter line that ends `headed into the storm.` User sends new wording. Edit that clicked line (or insert at that blank if the click is empty). Do not apply the text at the first similar phrase elsewhere in the file.
+Where: click first; else first-word anchor / locate / `...`. Same first word as an existing sentence → replace from that sentence. Undo = wrong; ask if still unclear. Do not re-guess.

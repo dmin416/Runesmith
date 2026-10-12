@@ -10,6 +10,13 @@ Skin, limbs, teeth, Gut Check, falling, speed / measurement perception, mind-bod
 
 - [Body.md](Body.md). Limbs, skin heat, grill, stealth, teeth; street recoil tolerance
 - [BloodNotes.md](BloodNotes.md). Mammal / bird blood and insect hemolymph: color, clot, volume, game trails (Earth reference)
+- [FatigueRestSleep.md](FatigueRestSleep.md). Earth sleep pressure / circadian / naps / debt recovery; Terra Sleep Resistance readout
+- [BluntTraumaHealing.md](BluntTraumaHealing.md). Earth blunt healing cycle (bruise→fracture→concussion); Terra Blunt / Recovery readout
+- [PiercingSlicingWounds.md](PiercingSlicingWounds.md). Earth cut / puncture / stab heal cycle; Terra Sharp / Recovery readout
+- [FrostbiteColdInjury.md](FrostbiteColdInjury.md). Earth frostbite / trench foot / hypothermia heal; Terra Cold / Recovery readout
+- [BurnsHealing.md](BurnsHealing.md). Earth burn heal cycle (depth, shock, graft, scar); Terra Heat / Acid / Recovery readout
+- [ToxinExposureRecovery.md](ToxinExposureRecovery.md). Earth toxin ADME / organ heal / venom / CO / metals; Terra Poison / Recovery readout
+- [TissueLossRecovery.md](TissueLossRecovery.md). Earth tissue-loss limits; speed vs capacity heal multipliers; Terra Recovery readout
 
 ## Skill / capacity
 

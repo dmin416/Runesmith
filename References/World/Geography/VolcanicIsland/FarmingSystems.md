@@ -123,7 +123,7 @@ Use for feel and feature ideas only. Names below are not Runesmith item IDs.
 - **Heater:** keeps animals happy in winter
 - **Hopper:** feeds items into machines automatically
 - **Scarecrows:** Scarecrow, Deluxe Scarecrow, Rarecrows
-- **Lightning Rod:** turns storms into Battery Packs
+- **Lightning Rod:** turns storms into Battery Packs (Earth capture ceiling: `../../Science/Energy/TriggeredLightning.md`)
 - **Solar Panel:** produces Battery Packs over time
 - **Worm Bin and Deluxe Worm Bin:** auto-generate bait
 - **Crab Pots:** passive seafood collection

@@ -105,7 +105,7 @@ Feel guides for elemental and force effects. Match cast Useful energy to these r
 - 100 J: an injury or a trick. Matches a punch or light gunfire.
 - 10 kJ: a kill shot on an unarmored person or a serious wound on an armored one.
 - 1 MJ: about 100× beyond 10 kJ; destroys a car or collapses a room.
-- 1 GJ: a real lightning bolt; levels a house.
+- 1 GJ: a real lightning bolt; levels a house. Ground-end harvest and trigger methods: `TriggeredLightning.md`.
 
 ## Mana Bolt speaking levels
 

@@ -36,7 +36,7 @@ Arrival detail: [EdelgardArrive.md](../EdelgardArrive.md)
 | Think **I** | **10.4×** → RT ≈ **0.019 s** |
 | Limb √P (AGI) | **2.07×** |
 | Heal / breath **M** | **5.03** |
-| Breath hold | ≈ **25 min** (Breath Control **L5**) |
+| Breath hold | ≈ **5 min** (body M only; **no** Breath Control) |
 
 ### Edelgard +9 mo (Ch 23 rewrite L35)
 
@@ -63,13 +63,13 @@ Arrival detail: [EdelgardArrive.md](../EdelgardArrive.md)
 | Think **I** | **9.8×** → RT ≈ **0.020 s** |
 | Limb √P (AGI) | **2.08×** |
 | Heal / breath **M** | **3.53** |
-| Breath hold | ≈ **18 min** (Breath Control **L5**) |
+| Breath hold | ≈ **3.5 min** (body M only; **no** Breath Control) |
 
-Prefer Ch 19 for breath/resist math (train pads). Ch 23 Vit/End is Source-delta rewrite artifact.
+Prefer Ch 19 for resist math (train pads). Ch 23 Vit/End is Source-delta rewrite artifact.
 
 ## Skills / resists (year highlights)
 
-- Breath **L5**; Heat/Cold/Pain **L5**; Poison **L6**; Recovery **L5**; Sleep **L5→L6**; Alcohol **L4**
+- Suffocation **L5** (train; holds + blood); Heat/Cold/Pain **L5**; Sharp **L4**; Poison **L6**; Recovery **L5**; Sleep **L5→L6**; Alcohol **L4**
 - Sound / Echo **L7**; Multitasking **L5**
 - Hands/Abs/Reinf/Sense/Incantation **L9**
 

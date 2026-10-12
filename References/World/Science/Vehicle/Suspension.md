@@ -1,6 +1,6 @@
 # Suspension
 
-Vehicle suspension architecture for carts, coaches, wagons and invent-grade active systems. Era baseline: `../../Tech/Technology.md`. Roads: `Roads.md`. Wheels: `Wheels.md`. Brakes on the unsprung mass: `Brakes.md`. Sprung seats: `Positions.md`.
+Vehicle suspension architecture for carts, coaches, wagons and invent-grade active systems. Era baseline: `../../Tech/Technology.md`. Roads: `Roads.md`. Wheels: `Wheels.md`. Brakes on the unsprung mass: `Brakes.md`. Sprung seats: `Positions.md`. Earth air / hydropneumatic / damper invent loot: `AirHydraulicSuspension.md`. Full auto parts ladder (frame through glass): `MechanicalCarComponents.md`.
 
 ## Narrative
 
@@ -117,8 +117,8 @@ Failure still needs a passive fallback (leaf or strap) if the active loop dies.
 | Early industrial | Leaf springs; live axle on leaves |
 | Late 1800s–1914 | Coil; pneumatic tire; early independent oddities |
 | Early 20th c. | Hydraulic dampers; torsion bar; wishbone; swing axle; tracked Christie |
-| Mid 20th c. | Telescopic dampers; MacPherson; air / hydropneumatic; monoshock |
-| Late 20th–21st | Multi-link; semi-active; fully active (nine-part above) |
+| Mid 20th c. | Telescopic dampers; MacPherson; air / hydropneumatic; monoshock (`AirHydraulicSuspension.md`) |
+| Late 20th–21st | Multi-link; semi-active; fully active (nine-part above; ABC / MagneRide detail in `AirHydraulicSuspension.md`) |
 
 Caldris baseline stops at leaf / thoroughbrace class unless an invent beat unlocks more.
 

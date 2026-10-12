@@ -290,3 +290,11 @@ Edelgard arrival / guild / Singing Crow.
 - Singing Crow room **−14 LC** (Steel-band pick; a bit above Carwen **1 SS**; **not** the **2 SS** better-inn tier) → wallet **21,598 LC**.
 
 **Still carrying after room / schematic:** Steel card, detonation rapier, **Ned**, Edelgard city map, Detonation + Impact + Fire Orb [Highest] schematics, parsleaves / needle-blood stocks, wallet **21,598 LC**, stone bank.
+
+### Chapter 20
+
+- Monster-skin blanks ×**10** (**5 SS**; **5 LC** each; ~A4) + magic ink (~**10 SS** for ten Mana Arrows worth).
+- No pencil; quills/paper only; fountain pens too dear.
+- Wallet **21,598 → 21,448 LC**.
+
+**Still carrying into Ch 21:** Steel card, detonation rapier, **Ned**, Edelgard map, three Highest lesser schematics, blanks + ink, wallet **21,448 LC**, stone bank.

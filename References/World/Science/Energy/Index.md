@@ -40,6 +40,7 @@ Stones, cast tables, batteries, engines, motors, fans, pumps, compression, fligh
 - [Lighting.md](Lighting.md). Incandescent, limelight, discharge, LED structure / failure; Caldris filter
 - [Waves.md](Waves.md). Wave / ozone bands
 - [Sound.md](Sound.md). Sound Production / echolocation
+- [TriggeredLightning.md](TriggeredLightning.md). Rocket-wire / tower / laser trigger; ground-end MJ yield; storm rates; volcanic sites
 
 ## Kinetic and launch
 

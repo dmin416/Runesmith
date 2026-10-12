@@ -15,8 +15,9 @@ Roland should **deliberately level** more body resists than Source tracked. Same
 | Poison / toxin | ≥ L6–L7 early | Vit/End |
 | Pain | Estate bravery unlock → leave **L3**; Ch 13 **L4**; train **L5**; deepens Ch **197** | Will/End; not a heal. `EstateWoundGrind.md` |
 | Blunt | Estate → leave **L4**; Ch 9.5 **L5** | Vit/End; ≫ Sharp early |
-| Sharp | Estate → leave **L2**; Ch 9.5 **L2–L3**; Ch 13 **L3** | Vit/End; pierce+slash; rare cuts |
+| Sharp | Estate → leave **L2**; Ch 9.5 **L2–L3**; Ch 13 **L3**; train **L4** (self drip pierces + Ned fang / miss needles) | Vit/End; pierce+slash |
 | Recovery | Estate → leave **L3**; Ch 9.5 **L4**; Ch 13 Ned **L5**; train **L5** | Vit/End; knit cycles |
+| Suffocation | Train unlock **L5** (grill holds **15 s = 1 use** + blood volume drip/nicks; **no** Breath Control) | Vit/End (`MultiMechanismResistance.md`) |
 | Heat | ≥ L5–L6 train; forge / Lord later | Vit/End |
 | Cold | ≥ L5–L6 | Vit/End |
 | Stress | Engineer Ch **196** | |

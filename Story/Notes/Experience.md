@@ -42,7 +42,9 @@ Ch 9.5 = **1,000** goblins over ~**90** days (~**11**/day). Trash + nest leaders
 | **14** | Watcher kill (people XP) | Pool **2750** (L55 × 50); Roland **+479** (banks at Mage L25 cap); Dodging **L6→L7**; Ned **25→26** |
 | **15** | Lesser Detonation Rune [Highest] schematic | **+1000 XP** (banks at L25); title **Runic Scholar**; class stone deferred |
 | **18** | Lesser Impact Rune [Highest] schematic | **+1000 XP** into L26 bar (**2479 / 13000**); Drawing **L1**; tree Dex **+10** |
-| **19** | Lesser Fire Orb [High] then [Highest] from memory | **+600** + **+400** = **1000 XP** → bar **3479 / 13000**; three Highest lesser schematics |
+| **19** | Train skill ranks + Fire Orb High→Highest | skill **+3700** + schematic **+1000** = **+4700** → bar **7179 / 13000** |
+| **20** | Job hunt / supply buy | **0** XP | Bar still **7179 / 13000** |
+| **21** (through `19-30.md:444`) | Job hunt, Libra scout, starts Mana Bolt word scroll | **0** XP awarded yet (scroll unfinished; +20 lands after) |
 
 Ch 6: weekly one-on-ones after the 9th birthday. Locked count **55** estate L1s after bravery (year of weeks plus a few extras) so the half-bank lands L3 empty under `500 × L`. After Mage, weekly continues and turns to **two** L1s at a time for ~**3 months** (**25** kills including the Ch 7 finale) so the first Carwen hunt can finish L3→L4.
 
@@ -87,7 +89,7 @@ Curve tables: `ExperienceCurve.md`.
 | 15 | Detonation schematic | at **L25** cap | **+1000 XP** banks; title **Runic Scholar**; bank total **1479** into Ch 16 |
 | 16 | Class change (Runic Mana Scribe) | bank applies | Full bank **1479** into L26 bar (**1479 / 13000**); stays **L26** / Scribe **L1** (no kills). No half-cut |
 | 18 | Impact schematic | at **L26** | **+1000 XP** → bar **2479 / 13000**; Drawing **L1**; tree Dex **+10** (Basic **+9** + L1 **+1**) |
-| 19 | Fire Orb schematic | at **L26** | Memory: **[High] +600** then **[Highest] +400** (total **1000**) → bar **3479 / 13000**; Detonation + Impact + Fire Orb all [Highest] |
+| 19 | Train ranks + Fire Orb | at **L26** | Skill **+3700** (37 ranks; Suffocation hypoxia **15 s** + blood **~50 mL**) + Fire Orb **[High]+600 / [Highest]+400** → bar **7179 / 13000**; three Highest lesser schematics |
 
 `XP_to_next(3) = 1500`. Entering Ch 9 with **1250 / 1500**: after L3 kill (+150) bar is **1400**; L4 kill (+200) levels to Mage **L4** with overflow **100 / 2000**. Day total kill XP **1,250** → end **1000 / 2000**.
 
@@ -319,16 +321,58 @@ Sahildr's hammer copy (Diagnosis overlay on paper; not scribing). Drawing breakt
 
 **Bar:** **1479 + 1000 = 2479 / 13000** toward L27. Still overall **L26** / Scribe **L1**. Skill: **Drawing L1**; Drawing tree Dex **+10** (Basic L9 **+9** baked + Drawing L1 **+1**). Hammer copy only; no kill XP. Fire Orb schematic still pending into Ch 19.
 
-## Ch 19 Fire Orb schematic
+## Ch 19 train action XP + Fire Orb
 
-Inn redraw from class-trial memory (not Diagnosis on a weapon). First pass **over** 1 hour (uneven; first real-world Fire Orb draw). Source one-shot **[Highest] +1000** discarded.
+Enter bar **2479 / 13000** (after Ch 18 Impact). Overall **L26** / Scribe **L1**.
 
-**Lesser quality XP ladder** (`ExperienceCurve.md`): Lowest **100** / Low **200** / Intermediate **400** / High **600** / Highest **1000**. Raising quality pays the **difference** only.
+### Train-week action uses (skill XP)
+
+Field curve: cum clean uses to L = **1 / 10 / 50 / 200 / 1,000 / 5,000 / 20,000 / 100,000 / 500,000**. Overall XP ≈ **100** per skill rank gained (Ch 13 lock). Full pace: `Skills.md` Ch 19.
+
+| Action | Meter / count | Exit rank | Ranks | Skill XP |
+|---|---|---|---:|---:|
+| Sound clicks | **1 / ~4 s** dual blocks → ~**22,000** | Sound **L7** | **7** | **700** |
+| Same + Ned locate / needle flight | same clicks | Echo **L7** | **7** | **700** |
+| Dual-focus minutes | ~**1,470** | Multitask **L1→L5** | **4** | **400** |
+| Hot grill patches | ~**1,240** burn cycles | Heat Res **L5** | **5** | **500** |
+| Cold grill patches | same pool half | Cold **L1→L5** | **4** | **400** |
+| Grill sting + Ned tips / misses | same pool | Pain **L1→L5** | **4** | **400** |
+| **Breath holds** | **15 s = 1 use**; ~**140 min**/day × **7** → ~**3,920** hypoxia uses | Suffocation (with blood) |  |  |
+| **Blood drops** | **~50 mL ≈ 1% ≈ 1 use**; ~**5%**/day × **7** → ~**35** volume uses | Suffocation **L5** (~**3,955** total) | **5** | **500** |
+| **Resisting sleep** | **15 s** awake past remaining need = **1** use; ~**2 h**/day debt × **7** → ~**3,360** | Sleep **L5** (short of **L6** at **5,000**) | **0** | **0** |
+| Self drip pierces + Ned fang / miss needles | sharp exposures | Sharp **L3→L4** | **1** | **100** |
+| Knit cycles | ~**1,240** | Recovery stays **L5** | **0** | **0** |
+| Ned toxin tips | soft repeat | Poison stays **L6** | **0** | **0** |
+| Remote clicks + grids | ~**22,000** | Shaping stays **L7** | **0** | **0** |
+| Ceiling draw all week | continuous | Regulation stays **L8** | **0** | **0** |
+| Hot patches as spell | ~**1,240** | Heat stays **L6** | **0** | **0** |
+| Catch-and-return tips | — | Throwing stays Basic **L9** | **0** | **0** |
+| **Skill XP total** |  |  | **37** | **3700** |
+
+No Breath Control. Hypoxia seconds and blood volume are **Suffocation Resistance** only.
+
+### Fire Orb schematic
+
+Inn redraw from class-trial memory. Lesser quality ladder: **100 / 200 / 400 / 600 / 1000** (raise pays difference).
 
 | Source | XP | Notes |
 |---|---:|---|
-| **Lesser Fire Orb Rune [High]** | **600** | Memory redraw; below Highest |
-| **Lesser Fire Orb Rune [Highest]** | **400** | Thin-sheet trace of correct lines (diff High→Highest) |
-| **Total** | **1000** | Same as going straight to Highest |
+| **Lesser Fire Orb Rune [High]** | **600** | Memory redraw; uneven; **over** 1 hour |
+| **Lesser Fire Orb Rune [Highest]** | **400** | Thin-sheet trace (diff High→Highest) |
+| **Schematic total** | **1000** | Same as straight Highest |
 
-**Bar:** **2479 + 1000 = 3479 / 13000** toward L27. Still overall **L26** / Scribe **L1**. Three Highest lesser schematics (Detonation + Impact + Fire Orb). Cut-paper Diagnosis overlays fail (needs one whole sheet).
+### Ch 19 bar
+
+**2479 + 3700 + 1000 = 7179 / 13000** toward L27. Still overall **L26** / Scribe **L1**. Three Highest lesser schematics (Detonation + Impact + Fire Orb).
+
+## Ch 20–21 (through `19-30.md:444`)
+
+No kill XP. No craft XP yet.
+
+| Ch | Source | XP | Notes |
+|---|---|---:|---|
+| 20 | Supply buy / Grimboodle contract refuse | **0** | — |
+| 21 | Five shops, Libra mark, inn setup | **0** | — |
+| 21 | Mana Bolt word scroll started | **0** | Unfinished at line **444**; finished beat is **+20** |
+
+**Bar at line 444:** **7179 / 13000** (overall **L26** / Scribe **L1**).

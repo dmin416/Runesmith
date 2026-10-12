@@ -74,7 +74,7 @@ Living-field reads sit inside Energy Sense, not beside it.
 - **Current:** Chapter 19 breath-holds between grill sets. Exit **L5**. Leveling unit is **1 minute** held = **1** use. Hold length = **T0 × M × skill level** (~**16.7 min** comfortable at his Vit/End with L5). Live law: `../../Progression/SkillsDesign.md`.
 - **Goal:** More held time, higher skill multiplier, and the same skill covering smoke and toxic gas. Poison stays its own track.
 - **Why:** Heat immunity doesn't stop smoke inhalation or suffocation. The volcanic island has gases that pool in low ground plus vog.
-- **Idea park (unread):** oxygen-efficiency M ladder / Suffocation Immunity / Abyssal Body pairing: `../../Progression/ResistanceImmunitySystem.md`. Do not replace Breath Control until that file is accepted.
+- **Ch 19 train:** uses **Suffocation Resistance** (holds + blood), **not** Breath Control. Breath Control stays optional later if a chapter unlocks hold-length skill. Oxygen-efficiency / Suffocation Immunity ideas: `../../Progression/ResistanceImmunitySystem.md`.
 
 ### Mana Overload Resistance
 

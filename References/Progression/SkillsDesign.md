@@ -114,7 +114,7 @@ Ideas ladder (Resistance → Immunity → Fused; M = 1/(1−r); Thermal / Kineti
 
 ### Sleep Resistance
 First seen: Chapter 2
-Passive. **Each level: -10% sleep needed** vs a normal full night (additive off 100%). Soft fatigue cut scales with that. Still collapses if he pushes past the remaining need for long.
+Passive. **Each level: -10% sleep needed** vs a normal full night (additive off 100%). Soft fatigue cut scales with that. Still collapses if he pushes past the remaining need for long. Earth baseline (adenosine, circadian, naps, debt): `../World/Science/Body/FatigueRestSleep.md`.
 
 | Level | Sleep needed |
 |---|---|
@@ -123,18 +123,18 @@ Passive. **Each level: -10% sleep needed** vs a normal full night (additive off 
 | L5 | 50% |
 | L9 | 10% |
 
-**Vitality +1 per level**, **Endurance +1 per level.** Transfer **L4** → Vit **+4** / End **+4**. Chapter 12: climbs **L4 → L5** after the Iron Flagon binge. Chapter 19: keeps him awake through a week-long train ride. Chapter 23: levels once during ~half year of inn-room scribing (one meal/day routine).
+**Vitality +1 per level**, **Endurance +1 per level.** Transfer **L4** → Vit **+4** / End **+4**. Chapter 12: climbs **L4 → L5** after the Iron Flagon binge. Chapter 19: keeps him awake through a week-long train ride; sleep-debt uses bank (~**3,360** at **15 s**/use; ~**2 h**/day past remaining need) but exit stays **L5** (short of **5,000** for L6). Chapter 23: levels once during ~half year of inn-room scribing (one meal/day routine).
 
 ### Sleep Immunity (evolve)
 Evolves from Sleep Resistance at **L9** when the story timing fits (Source: with first T2 / heavy all-nighter stretch ~Ch123). Same rule: **-10% sleep needed per level** vs baseline, continuing until the floor of **1% of normal sleep** (about one full night every hundred days). Attribute pads stay **Vit +1 / End +1** per level. Not true zero-sleep; short naps still help when near the floor.
 
 ### Alcohol Resistance / Basic Alcohol Resistance
 First seen: Chapter 12
-Passive. First gained as Basic Alcohol Resistance after forced tavern drinking with Becky / Sahildr / Reyna. **Endurance +1 per level.** Suggests other resistances can unlock via similar exposure (Roland considers mild poison later). Hangover potions exist in town; he skips them as too costly. Party girls recover overnight (built-up Alcohol Resistance). Same family as the other body resistances: soft -% intoxication / hangover severity is fine later if a scene needs it; not locked here yet.
+Passive. First gained as Basic Alcohol Resistance after forced tavern drinking with Becky / Sahildr / Reyna. **Endurance +1 per level.** Suggests other resistances can unlock via similar exposure (Roland considers mild poison later). Hangover potions exist in town; he skips them as too costly. Party girls recover overnight (built-up Alcohol Resistance). Same family as the other body resistances: soft -% intoxication / hangover severity is fine later if a scene needs it; not locked here yet. Ethanol hangover / liver heal baseline: `../World/Science/Body/ToxinExposureRecovery.md`.
 
 ### Poison Resistance / Basic Poison Resistance (toxin)
 First seen: Chapter 12
-Passive. Covers **poison and toxin** (venom, food toxin, spore, gas) as one track. Unlocks when Roland eats Needle Worm blood and crunches needle spikes for the cumin / red-pepper spice. Popup ignored on-page while he Mana Senses for a core-bearing worm to tame. Hard-caps at **L9**, then evolves. Earth diet→toxin sequestration (frogs, monarch, puffer): `../World/Fauna/ToxinSequestration.md`.
+Passive. Covers **poison and toxin** (venom, food toxin, spore, gas) as one track. Unlocks when Roland eats Needle Worm blood and crunches needle spikes for the cumin / red-pepper spice. Popup ignored on-page while he Mana Senses for a core-bearing worm to tame. Hard-caps at **L9**, then evolves. Earth diet→toxin sequestration (frogs, monarch, puffer): `../World/Fauna/ToxinSequestration.md`. Earth toxin ADME / organ heal / venom / CO / metals: `../World/Science/Body/ToxinExposureRecovery.md`.
 
 **Each level: -10% poison / toxin effect** (damage, duration, status strength) vs an unresisted dose of the same type. Additive off 100%. L1 = 90% effect → L9 = 10% effect. Does not erase the dose; a strong enough hit still lands through the remainder.
 
@@ -173,7 +173,7 @@ First seen: Chapter 19 (thermal grill unlock); later forge / Blacksmith's Heat S
 
 **Vitality +1 per level**, **Endurance +1 per level** (same pad family as Poison).
 
-**Ch 19 week:** unlock **L1 → L6** on the hot half of the damaging grill (real burn patches held with cold; regen-capped intensity).
+**Ch 19 week:** unlock **L1 → L6** on the hot half of the damaging grill (real burn patches held with cold; regen-capped intensity). Earth burn depth / shock / graft / scar: `../World/Science/Body/BurnsHealing.md`.
 
 ### Heat Immunity (evolve)
 From Heat Resistance L9. Same **-10%/level** to floor **1%** heat effect. Extreme magma / spell fire / abyssal heat still threatens the remainder.
@@ -185,7 +185,7 @@ First seen: Chapter 13 as ambient **Temperature Resistance** (cold bare inn / cl
 
 **Vitality +1 per level**, **Endurance +1 per level.**
 
-**Ch 13:** unlock **L1** (pauper lodging cold). **Ch 19 week:** **L1 → L6** on the cold half of the damaging grill (both drills every day; regen-capped intensity). Old notes that said Temperature Resistance with no attr line: use this Cold track instead (Vit/End pads apply).
+**Ch 13:** unlock **L1** (pauper lodging cold). **Ch 19 week:** cold half of the damaging grill (live exit **L5** in `../../Story/Notes/Skills.md`). Old notes that said Temperature Resistance with no attr line: use this Cold track instead (Vit/End pads apply). Earth frostbite / trench foot / hypothermia: `../World/Science/Body/FrostbiteColdInjury.md`.
 
 ### Cold Immunity (evolve)
 From Cold Resistance L9. Same **-10%/level** to floor **1%** cold effect. Magical deep-freeze / abyss cold can still land through the remainder.
@@ -197,7 +197,7 @@ From Cold Resistance L9. Same **-10%/level** to floor **1%** cold effect. Magica
 
 **Vitality +1 per level**, **Endurance +1 per level.**
 
-Not Poison (toxin status) and not Heat (thermal). Some dungeon goo may credit both Acid and Poison if the beat says so. Evolve → **Acid Immunity** (floor **1%**) when timing fits.
+Not Poison (toxin status) and not Heat (thermal). Some dungeon goo may credit both Acid and Poison if the beat says so. Evolve → **Acid Immunity** (floor **1%**) when timing fits. Chemical burn heal baseline: `../World/Science/Body/BurnsHealing.md`.
 
 ### Electricity Resistance
 **Rewrite lock:** Roland levels this (`RolandResistanceTracks.md`). Goals wishlist promoted.
@@ -206,7 +206,7 @@ Not Poison (toxin status) and not Heat (thermal). Some dungeon goo may credit bo
 
 **Vitality +1 per level**, **Endurance +1 per level.**
 
-Heat and Cold do not cover this. Paralysis from shock can still want a separate Paralysis track for true binds. Evolve → **Electricity Immunity** (floor **1%**) when timing fits.
+Heat and Cold do not cover this. Paralysis from shock can still want a separate Paralysis track for true binds. Evolve → **Electricity Immunity** (floor **1%**) when timing fits. Earth triggered lightning / harvest yield: `../World/Science/Energy/TriggeredLightning.md`.
 
 ### Blunt Resistance
 **Rewrite lock:** Roland levels this (`RolandResistanceTracks.md`). Kinetic pair with Sharp.
@@ -215,7 +215,7 @@ Heat and Cold do not cover this. Paralysis from shock can still want a separate 
 
 **Vitality +1 per level**, **Endurance +1 per level.**
 
-Falls, hammers, fists, compression. Head blackout / concussion may stay narrative or a later named skill; tissue crush still uses this track. Evolve → **Blunt Immunity** (floor **1%**) when timing fits.
+Falls, hammers, fists, compression. Head blackout / concussion may stay narrative or a later named skill; tissue crush still uses this track. Evolve → **Blunt Immunity** (floor **1%**) when timing fits. Earth bruise→fracture→concussion heal times: `../World/Science/Body/BluntTraumaHealing.md`.
 
 ### Sharp Resistance
 **Rewrite lock:** Roland levels this (`RolandResistanceTracks.md`). Sibling **next to Blunt**. Covers **piercing and slashing** as **one** skill (do not split Piercing vs Slashing on his sheet).
@@ -224,7 +224,7 @@ Falls, hammers, fists, compression. Head blackout / concussion may stay narrativ
 
 **Vitality +1 per level**, **Endurance +1 per level.**
 
-Blades, arrows, needles, claws. Ned tip **wounds** can credit Sharp; Ned **toxin** stays Poison. Evolve → **Sharp Immunity** (floor **1%**) when timing fits.
+Blades, arrows, needles, claws. Ned tip **wounds** can credit Sharp; Ned **toxin** stays Poison. Evolve → **Sharp Immunity** (floor **1%**) when timing fits. Earth cut / puncture / bleed heal times: `../World/Science/Body/PiercingSlicingWounds.md`.
 
 ### Recovery
 First seen: Chapter 13 (half-year)
@@ -244,14 +244,14 @@ Passive. Ordinary body skill (not a Heal spell; not Resilience). Unlocks from **
 
 Base blood/plasma numbers still come from **Vit/End M** in `Attributes.md`. Recovery multiplies those rates (or divides those times). At L5, half the time really is **twice** the blood restored per day off the same M baseline.
 
-**Does not** regrow **missing limbs** or large amputations. Does not purge poison / disease (those stay Resistance / potions / holy). Deep trauma can still need potions or magic on top.
+**Does not** regrow **missing limbs** or large amputations. Does not purge poison / disease (those stay Resistance / potions / holy). Deep trauma can still need potions or magic on top. Soft-tissue baselines: blunt `../World/Science/Body/BluntTraumaHealing.md`; cuts / punctures `../World/Science/Body/PiercingSlicingWounds.md`. Tissue-loss limits and speed-vs-capacity multipliers: `../World/Science/Body/TissueLossRecovery.md`.
 
 **Vitality +1 per level**, **Endurance +1 per level.**
 
-**Early grind lock:** daily Ned feed + skin poke through the Carwen half-year (~180 days). Exit **Recovery L5** (**2??** blood/wound recover). **Ch 19 grill (daily with sound, mana at ~99% regen ceiling):** → **L9** (**10??**); potion covers flesh lag so unused regen is not wasted (`../../Story/Notes/Skills.md`). **Rapid Recovery** evolve is **not** on the train; bank it for the next ~**2 years** of mixed trauma.
+**Early grind lock:** daily Ned feed + skin poke through the Carwen half-year (~180 days). Exit **Recovery L5** (**2×** blood/wound recover). **Ch 19 grill (daily with sound, mana at ~99% regen ceiling):** SkillsDesign plan once aimed **L9**; live Ch 19 exit keeps **L5** (`../../Story/Notes/Skills.md`). **Rapid Recovery** evolve is **not** on the train; bank it for the next ~**2 years** of mixed trauma.
 
 ### Rapid Recovery (evolve)
-Evolves from Recovery at **L9** when timing fits (**~2 years** after Ch 19 in the rewrite plan, not the train week). Same **-10%/level** until floor **1%** close time on small wounds. Deep trauma and missing tissue still need magic, surgery or time. Vit +1 / End +1 per level. Distinct from **Rapid Renewal** (End **40** attribute perk) and from Source **Resilience** (stagger / resolve recovery, not flesh knit).
+Evolves from Recovery at **L9** when timing fits (**~2 years** after Ch 19 in the rewrite plan, not the train week). Same **-10%/level** until floor **1%** close time on small wounds. Deep trauma and missing tissue still need magic, surgery or time. Still **speed only**; does not unlock blastema / scarless capacity (`../World/Science/Body/TissueLossRecovery.md`). Vit +1 / End +1 per level. Distinct from **Rapid Renewal** (End **40** attribute perk) and from Source **Resilience** (stagger / resolve recovery, not flesh knit).
 
 ### Sound Production
 First seen: Chapter 19 (train cabin)

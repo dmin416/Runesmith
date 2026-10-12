@@ -493,17 +493,17 @@ No full status screen. Gains **1000 XP** from Lesser Impact [Highest] schematic.
 
 ## Chapter 19
 
-No full status screen. Age **11** / world **6 years**. Enter wallet **21,641 LC** (personal **11,641** + parting gift **10 SG**). Solaria tip **−1 SS (−10 LC)** → **21,631**. Guild city map list **2 SS** / Steel **5%** → **−19 LC** → **21,612 LC**. Singing Crow room **−14 LC** → **21,598 LC**. Fire Orb memory redraw: **[High] +600 XP** (over 1 hour; uneven) then thin-sheet **[Highest] +400 XP** (total **1000**). Three Highest lesser schematics now. Train week (**both drills every day**, mana at **~99%** regen ceiling; Ned nibble/poke + **needle-catch / feed-back**; **1 click / ~4 s**): Sound Production **L7**, Echolocation **L7**, Breath Control **L5** (**1 min held = 1 use**), Multitasking **L5**, Throwing **L9** (Basic), Shaping **L7**, Regulation **L8**, Heat **L6**, Heat Resistance **L5**, Cold **L5**, Pain **L5**, Poison **L6**, Recovery **L5**; Hands / Absorption / Reinforcement / Sense stay **L9**; Incantation **L9** (`Skills.md` Ch 19 math). Lodging: The Singing Crow Inn, Edelgard (**14 LC**/night; Steel-band; skipped peasant hostel). Meets Helci.
+No full status screen. Age **11** / world **6 years**. Enter wallet **21,641 LC** (personal **11,641** + parting gift **10 SG**). Solaria tip **−1 SS (−10 LC)** → **21,631**. Guild city map list **2 SS** / Steel **5%** → **−19 LC** → **21,612 LC**. Singing Crow room **−14 LC** → **21,598 LC**. Fire Orb memory redraw: **[High] +600 XP** (over 1 hour; uneven) then thin-sheet **[Highest] +400 XP** (total **1000**). Three Highest lesser schematics now. Train week (**both drills every day**, mana at **~99%** regen ceiling; self Mana Hands drip pierces + Ned fang/needle + **needle-catch / feed-back**; **1 click / ~4 s**): Sound Production **L7**, Echolocation **L7**, Suffocation Resistance **L5** (holds + blood volume; **no** Breath Control), Sharp Resistance **L4** (pierces), Multitasking **L5**, Throwing **L9** (Basic), Shaping **L7**, Regulation **L8**, Heat **L6**, Heat Resistance **L5**, Cold **L5**, Pain **L5**, Poison **L6**, Recovery **L5**; Hands / Absorption / Reinforcement / Sense stay **L9**; Incantation **L9** (`Skills.md` Ch 19 math). Lodging: The Singing Crow Inn, Edelgard (**14 LC**/night; Steel-band; skipped peasant hostel). Meets Helci.
 
-**Rewrite:** train-week sheet **49/64/72/71/80/156/147/12/7**; HP **950** / MP **2578** / SP **1139** (`ChapterLedger.md`). Wallet **21,641 → 21,598 LC** after tip + map + room (`Items.md`). Personal **11,641 LC** never replaced by the gift alone. Fire Orb **High→Highest** **+1000 XP** total → bar **3479 / 13000** (`Experience.md`). Lesser quality ladder: **100 / 200 / 400 / 600 / 1000**. Source one-shot Highest **+1000** discarded.
+**Rewrite:** train-week sheet **49/64/72/71/80/156/147/12/7**; HP **950** / MP **2578** / SP **1139** (`ChapterLedger.md`). Wallet **21,641 → 21,598 LC** after tip + map + room (`Items.md`). Personal **11,641 LC** never replaced by the gift alone. Train skill ranks **+3700 XP** + Fire Orb **High→Highest** **+1000 XP** → bar **7179 / 13000** (`Experience.md`). Suffocation: hypoxia **15 s**/use + blood **~50 mL**/use; **no** Breath Control. Lesser quality ladder: **100 / 200 / 400 / 600 / 1000**. Source one-shot Highest **+1000** discarded.
 
 **Ned:** overall **26** / **4x** Greater. Train exit skills: Spike **L7**, Silk **L5**, Stealth **L7**, Climbing **L7**, Spring Charge **L6**, Seal **L5**, Poison Resistance **L5**, Pain **L5**, Heat **L5**, Cold **L5** (`NedStatus.md`).
 
 ## Chapter 20
 
-No full status screen. Supply buy provisional (`Paper.md` / `Economy.md` §17: blanks **~4–5 LC** each, not Source **9 SS**/10). Exeor offers a 6-year cursed Scribe contract; he declines for now. No class or XP change.
+No full status screen. Buys blanks (**5 SS**/10 = **5 LC** each) + ink (~**10 SS**). Grimboodle offers a 6-year magic Scribe contract; he declines for now (wants adventure/experiment). No class or XP change.
 
-**Rewrite:** same sheet as Ch 19 exit (`ChapterLedger.md`). Enter wallet **21,598 LC** after Ch 19 tip + map + Singing Crow night. Coin outlay retuned when Ch 20 is written.
+**Rewrite:** same sheet as Ch 19 exit (`ChapterLedger.md`). Enter wallet **21,598 LC** → exit **21,448 LC** after blanks + ink.
 
 ## Chapter 21
 

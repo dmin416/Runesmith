@@ -259,6 +259,6 @@ These are what he writes on. They do not move the clock.
 | Ch 8–9 cabin / calligraphy | Mundane paper. No hard sheet price on the page |
 | Ch 16 trial | Magical ink and monster-skin from class-space stock |
 | Ch 19 schematics | Mundane drawing paper. He wants better tools |
-| Ch 20+ shop | Use the bands in `References/World/Science/Invent/Paper.md`. Do not keep the Source blank-equals-scroll trap |
+| Ch 20 shop | Blanks **5 LC** each (×10 = **5 SS**, ~A4); ink ~**10 SS**/ten Mana Arrows; Mana Arrow **3 SS** / Fire Arrow **6 SS** / Fireball talk **~3 LS**. Grimboodle 6-year contract refused. Pencil not bought. Bands: `Paper.md` / `ScrollEconomy.md` |
 
 The chapters, notes, outline, volume synopsis, summaries, and source dumps use this clock.

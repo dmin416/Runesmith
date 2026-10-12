@@ -131,7 +131,7 @@ Live note: Roland **Electricity** grind track owns the soak; split above is feel
 | Starvation | Hunger |
 | Sleep deprivation / forced sleep | Sleep |
 
-Breath Control and Sleep Resistance are live tools in this family; they are not full **Sustenance Immunity**.
+Sleep Resistance is live. Ch 19 train locks **Suffocation Resistance** (holds + blood); Breath Control is optional later hold-length skill, not the train unlock. Not full **Sustenance Immunity**.
 
 ## Environmental extremes
 

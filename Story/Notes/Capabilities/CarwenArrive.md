@@ -41,7 +41,7 @@ Jump: no locked height. Soft √P band vs street adult ≈ **1.6×** takeoff; ch
 
 ## Breath / heal / sleep
 
-No **Breath Control** yet.
+No **Breath Control**. No **Suffocation Resistance** yet (train Ch 19).
 
 ```
 M = ((53+56)/2)/15 ≈ 3.63

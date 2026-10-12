@@ -47,7 +47,7 @@
 | 20 | Mana Arrow Intermediate | **3 SS** | Shop shelf |
 | 20 | Fire Arrow Intermediate | **6 SS** | Shop shelf (T2) |
 | 20 | Fireball (shop talk) | **≈3 LS** (fair **3 LS 2 SS**) | Compare |
-| 20 | Blank monster-skin ×10 | **5 SS** (**5 LC** each) | DIY buy |
+| 20 | Blank monster-skin ×10 | **5 SS** (**5 LC** each; ~A4) | DIY buy |
 | 20 | Ink for ten Mana Arrows | **~10 SS** | DIY margin beat |
 | 20 | Runic Orb of Light | **≥1 LS** | Dusty Exeor |
 | 20 | Runic Fire Arrow (dusty) | **2 LS** vanity (fair High **10 SS**) | Shelf vs word **6 SS** |

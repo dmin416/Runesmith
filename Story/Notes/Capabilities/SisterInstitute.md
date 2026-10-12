@@ -59,7 +59,7 @@ Combat feel: dumps **L227** Magic Swordmaster (Elythaes), suppresses lesser **T3
 M = ((259+289)/2)/15 ≈ 18.3
 ```
 
-Body-only breath ≈ **18 min**. Breath Control level past train **L5** is unprinted; at L5 hold ≈ **~1.5 h** seated. Likely higher after years; do not invent.
+Body-only breath ≈ **18 min** (M only; **no** Breath Control locked from train). Suffocation Resistance train floor **L5**; later ranks unprinted.
 
 **Sleep Immunity** exists by Ch **123** (week without sleep). At Institute he can run Enforcement night patrols on that track.
 

@@ -1,6 +1,7 @@
 # Source Chapter 20 – Looking for Work.
 
 Source dump: `References/Source/21-30.md` (catalog entry `# 22`).
+Rewrite beat map / changes: `Story/Notes/Notes.md` § Chapter 20. Live shop: Fireball **~3 LS**; grades = designed strength; no pencil buy; blanks ~A4; wallet **21,448 LC** exit; emporium **Grimboodle's**.
 
 ## Time
 
