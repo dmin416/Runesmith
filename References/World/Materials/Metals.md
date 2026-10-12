@@ -153,11 +153,11 @@ Nonmagnetic austenitic hosts when the channel zone is converted. Cleaner path fe
 
 ### Adamantium (titanium)
 
-Converted titanium. **Molten: cast once.** After set: indestructible to ordinary force. No forge, cut, or reshape. Destroy only by resonant sound / mana vibration. Every piece must be cast in final form. Mundane titanium is not street stock.
+Converted titanium. **Molten: cast once.** After set: indestructible to ordinary force. No forge, cut, or reshape. Destroy by casting-key resonance (street) or electron overload melt (rare). Every piece must be cast in final form. Mundane titanium is not street stock.
 
-**Enchanting:** adamantium carries little to no mana. Enchanting it is like projecting a movie onto clear glass: the image passes through and will not stick and its indestructible cast-final construction will not take alteration. It is not a rune host. It makes a great indestructible cover over a proper rune inlay in a real path metal underneath.
+**Enchanting / runes (locked):** adamantium **can** be enchanted and runed. The frozen lattice makes it a **stiff host**: seating takes more work, more setup skill and usually more paid mana than mythril or star steel because the metal will not yield, anneal or take a casual groove after set. Groove geometry is cast in at pour, or cut only by carefully driving the casting key along a line (singing chisel / resonant press). Once seated, the path geometry never warps and the piece never dulls, so finished adamantium runic gear is prestige-permanent. Mythril stays the easier clean everyday host. Cladding a softer path metal under an adamantium shell remains a valid simpler build.
 
-Extreme hardness and stiffness at weapon weight. Diamond-like thermal spreading plus mana-supported hardness. Orihalcum tools work by **starving mana support** at the contact face so brittle cleavage becomes possible on unfinished stock. Inscription stays hardest of the commons.
+Extreme hardness and stiffness at weapon weight. Electron heat spreading plus mana-supported hardness. Orihalcum tools work by **starving mana support** at the contact face so brittle cleavage becomes possible on unfinished stock. Post-set inscription is hardest of the commons (resonance tools or cast-in grooves).
 
 #### Form (cast-final)
 
@@ -175,63 +175,106 @@ Infernal forge talk in Source maps to pre-set work or cutting mana support, not 
 **Uses:** mail armor, mail curtains, linked screens, rigid cast parts (poles, plate, blades, vault stock, tower members, flywheel rims / axles / housings).
 
 **Firearms invent (cast-final jobs):**
-- **Barrel / chamber:** adamantium does not erode under hot powder gas. Double-base smokeless becomes the strongest practical propellant because barrel wear is gone. Chamber pressure is no longer limited by the tube; recoil, the shooter's body and the projectile surviving the pressure are the limits. Indestructible does not mean heat-proof: a steel-weight .50 barrel still climbs tens of °C per hot shot.
+- **Barrel / chamber:** adamantium does not erode under hot powder gas. Zero expansion means no heat warp or accuracy drift. Double-base smokeless becomes the strongest practical propellant because barrel wear is gone. Chamber pressure is no longer limited by the tube; recoil, the shooter's body and the projectile surviving the pressure are the limits. Low heat storage means barrel temperature climbs faster per shot, so cook-off risk arrives sooner without a water jacket or a heavy cladding sink.
 - **Penetrator needle:** `../../Combat/Firearms.md`. The barrel line above is the metal law. Powder choice: `../Science/Energy/GunpowderFirearms.md`.
 
-#### Heat and sound (follows from no-bend stiffness)
+#### Heat and sound (frozen lattice)
 
-**Why it conducts heat so well:** heat in a solid moves as lattice vibrations (phonons) plus free electrons. Phonon conduction scales with sound speed and with how far a vibration travels before scattering. A stiffer lattice carries vibration faster. A lattice that never yields is also almost perfectly elastic, so vibrations scatter far less and travel farther. Diamond is the real example: the stiffest common material is also the best heat conductor. Adamantium sits past diamond on stiffness, so it sits past diamond on conductivity.
+**Premise (locked):** after set, adamantium atoms do not vibrate. No phonons. No thermal expansion. Ordinary force cannot shift lattice sites. Heat and ordinary electrical conduction live in the free-electron sea. One deliberate exception is the piece's **casting key** (single allowed acoustic mode; see destroy paths).
 
-"Doesn't bend" applies at the scale of hands, hammers and siege engines. Atoms still vibrate at atomic scale, which is how heat and sound move through it.
+**Why it still spreads heat:** with no phonon scattering, cold adamantium is an exceptional electrical conductor (~**2.4 nΩ·m** at 300 K, about 7× better than copper). Wiedemann–Franz then yields thermal conductivity ~**3,000 W/m·K**, carried entirely by electrons (planning figure kept). Heat **storage** collapses to electronic heat capacity ~**20 J/kg·K** at 300 K (rises roughly with temperature), against titanium's ~520. High κ and low c_p give extreme thermal diffusivity ~**0.03 m²/s** (~25× diamond).
 
-**Why expansion is ~0:** thermal expansion comes from uneven atomic vibration pushing atoms apart. A lattice that holds its shape against all force holds it against heat too.
+**Why expansion is 0:** thermal expansion needs uneven lattice vibration. Frozen sites do not push apart.
 
-| Material | Conductivity (W/m·K) | Diffusivity (m²/s) | Expansion (ppm/K) | Sound speed (m/s) |
+| Material | Conductivity (W/m·K) | Diffusivity (m²/s) | Expansion (ppm/K) | Stiffness band / sound speed (m/s) |
 |---|---|---|---|---|
 | Titanium (CP) | ~22 | ~9×10⁻⁶ | 8.6 | ~6,100 |
 | Steel | ~45–50 | ~1.2×10⁻⁵ | ~12 | ~5,900 |
 | Copper | ~400 | ~1.1×10⁻⁴ | 16.5 | ~4,700 |
 | Diamond | ~2,200 | ~1.2×10⁻³ | ~1 | ~18,000 |
-| **Adamantium** | **~3,000** | **~1.25×10⁻³** | **~0** | **~20,000** |
+| **Adamantium** | **~3,000** | **~0.03** | **0** | **~20,000** (key / stiffness band) |
 
-Planning anchors (set piece, ~Ti density **~4.6 g/cm³**): tensile / hardness = no ordinary failure (indenter fails); pours molten ~**1,700 °C**; after set, no melt under ordinary forge heat. Specific heat ~**0.52 J/g·K**.
+Planning anchors (set piece, density **~4.51 g/cm³**): tensile / hardness = no ordinary failure (indenter fails); pours molten ~**1,700 °C**; after set, no melt under ordinary forge heat; electrical resistivity ~**2.4 nΩ·m** at 300 K, rising with electron temperature squared (runaway past a high threshold); **no corrosion** (surface atoms cannot leave).
 
-**Heat spread time (rough, t ≈ L² / diffusivity):**
+**Heat equalize time (rough, t ≈ L² / diffusivity):**
 
 | Distance | Titanium | Steel | Adamantium |
 |---|---|---|---|
-| Through 3 mm plate | ~1 s | ~0.75 s | <0.01 s |
-| Across 30 cm | ~3 hours | ~2 hours | ~70 s |
-| Across 1 m | ~1.3 days | ~1 day | ~13 min |
+| Through 5 mm plate | ~3 s | ~2 s | **<1 ms** |
+| Across 0.5 m | ~8 hours | ~6 hours | **~8 s** |
+| Across 1 m | ~1.3 days | ~1 day | **~30 s** |
 
 **Consequences (locked feel):**
-- **No hot spots.** Flame on one point spreads across the whole piece fast. A torch on a blade tip warms the hilt within a minute or two.
-- **Plate armor is a heat spreader.** The plate never fails to fire or frost. It pulls that heat or cold across the whole suit and into the wearer. A thick insulating underlayer (padded gambeson, Needle Worm silk, wool) is mandatory.
-- **Mail spreads heat far less than plate.** Links touch only at small contact points, so heat crosses link to link slowly.
-- **Heat sinks.** Ideal for cooling plates, quench blocks and forge tooling. Pairs with etherium tower cores (over-Jc quench dumps heat). Adamantium cladding over a mana-path metal also pulls mana-burn heat away from hot spots.
-- **No thermal shock.** Near-zero expansion means it never warps or cracks from sudden heating or cooling.
-- **Joint mismatch.** Steel rivets and mounts expand in heat while adamantium does not, so joints tighten or loosen with temperature. Steel cast around an adamantium part shrinks onto it as it cools (strong shrink-fit for hilts and mounts).
-- **Exact-size casting.** It sets with no shrink, so molds need no shrinkage allowance. High conductivity freezes it fast against mold walls; pours must be fast into preheated molds.
-- **It rings.** Near-zero internal damping means a struck plate rings like a bell for a long time. Adamantium-armored fighters are loud in combat.
-- **Kitchen.** Even heat, no warp, inert surface, hot handles, ringing pots. Full pan / knife picks: `../../Food/CookwareAndKnives.md`.
+- **Conduit, not buffer.** Outer face temperature appears on the inner face almost at once. Sustained fire or dragon breath cooks the wearer faster than steel. A brief flame lick or hot strike spikes the inner face but stores little energy (a sting). After leaving the heat, the plate sheds and cools in seconds.
+- **No hot spots.** Flame on one point equalizes across the piece in seconds, not minutes.
+- **Plate armor needs insulation.** Gambeson, Needle Worm silk or wool underlayer is mandatory for fire/frost work.
+- **Mail spreads heat far less than plate.** Links touch only at small contact points.
+- **Heat sinks / quench / motors.** Excellent steady-state spreader and fast path into a real thermal mass (water channel, copper block). Poor surge sponge alone. Quench blocks want a sink behind them. Pairs with etherium tower cores; cladding pulls mana-burn heat off path metals.
+- **Faraday / eddy behavior.** Plate and shells conduct so well that external fields and lightning tend to flow around the wearer. Changing magnetic fields drive strong eddy currents: slot motor cages and frames (`../Science/Energy/ElectricMotors.md`) or treat solid shells as deliberate brakes / shields.
+- **No thermal shock / joint mismatch / exact-size casting.** Same as before: no warp from heat; steel mounts expand against it; molds need no shrink allowance; pours must be fast into preheated molds.
+- **Strike sound.** A hit is a dull thud (rigid-body shove into the wearer). Energy that lands in the key builds a **pure sustained hum** at that casting's note. Internal damping is zero; air radiation and contact with padding / body set the real Q. Long fights leave ringing harnesses. Stored / racked gear is easier to sing apart than worn armor. Attacker's ordinary weapon may ring; the plate does not clang like a steel bell.
+- **Kitchen / tongs / anvils.** Even, instant pans (thin stored heat; searing wants a strong burner). Tong handles heat in seconds: insulated grips mandatory. Anvil face: perfect rebound because the hammer or workpiece stores the spring; the adamantium does not absorb impact. Full pan / knife picks: `../../Food/CookwareAndKnives.md`.
+- **Chemically inert.** No oxide scale, no acid dissolve after set. Basis for slime-proof kits (`../Fauna/Slimes.md`).
 
-**What indestructible means:** shape and structure hold under any ordinary force. Edges never dull. Force still transmits through it. A war hammer on adamantium plate leaves the plate untouched while the wearer still takes the momentum (concussions, bruising, broken bones under it).
+**What indestructible means:** shape and structure hold under any ordinary force. Edges never dull. Force still transmits through it. A war hammer on adamantium plate leaves the plate untouched while the wearer still takes the momentum (concussions, bruising, broken bones under it). Joints, rivets of lesser metal, straps and the body remain the weak points.
 
-#### Weakness / working method (locked destroy path)
+#### Destroy paths (ranked)
 
-**Lock:** destroy / soften after set only by **resonant sound / mana vibration** (same family as the Blaha–Langenecker acoustic softening analog). Each casting has its own resonant frequency; a sustained tone at that frequency softens or shatters it. Tuned tools (singing chisels, resonant presses) soften a line or zone for shaping or a clean cut. **Adamant mail:** every link rings at a slightly different frequency, so one tone breaks only a few links. **Plate** is one frequency, so one tone threatens the whole piece.
+**1. Resonance (street / locked primary).** Soften or shatter by driving the piece's **casting key** (single allowed mode, fixed at set by shape and mass). Same family as Blaha–Langenecker acoustic softening. Internal Q is infinite; air and contact losses leave a very narrow but finite tuning window, so forge **ledgers** (or a matching fork) matter. Tuned tools (singing chisels, resonant presses) soften a line or zone. **Plate / blade:** one key threatens the whole piece. **Mail:** each link has its own key, so one tone breaks only a few links. Keys use the locked ~**20 km/s** stiffness band in a **bending-mode** model (bass / baritone for swords and shields; curved plates run higher than flat estimates):
 
-The stiffness that makes adamantium a top heat conductor also gives the ~20 km/s sound speed and near-zero damping that lets resonant vibration build. Heat physics already supports the sound weakness.
+| Object (rough) | Key (planning) |
+|---|---|
+| Greatsword ~1.3 m × 6 mm | ~75 Hz |
+| Longsword ~1.0 m × 5 mm | ~105 Hz |
+| Dagger ~0.3 m × 4 mm | ~900 Hz |
+| Breastplate panel ~0.4 m × 2 mm (flat) | ~260 Hz |
+| Tower shield ~1.5 m × 4 mm (flat) | ~35 Hz |
 
-Inspirational alternate (not locked): electroplastic / forced dense mana current through a zone to loosen the lattice (runesmith-only work; armored fighters fear strong mages). Do not use unless a beat reopens this lock.
+**2. Electron overload melt (rare / high-end).** Dump enough energy into the electron sea faster than the piece can radiate it away. Bonds fail and the piece **melts / flashes** near electron temperature **~11,600–16,700 K** with no glow-and-sag warning: vapor/plasma burst and pressure wave. Ordinary fire (~2,000 K) never reaches it. Needs runaway lightning, massive induction or focused heat/electric magic. Small currents pass almost freely; past the resistivity runaway, heating spikes.
+
+**Energy requirement (locked planning, uniform heat-up):** electronic heat only, U ≈ ½ γ T² with titanium γ ≈ 3.35 mJ/mol·K². Cast law: **1 mana = 10 J** (`../../Runes/Energy.md`).
+
+| Threshold | Electron T | Energy per kg | Mana per kg | ~0.75 kg longsword |
+|---|---|---|---|---|
+| Lower (≈1 eV nonthermal) | ~11,600 K | **~4.7 MJ/kg** | **~470,000 mana/kg** | **~350,000 mana** (~3.5 MJ) |
+| Upper (Ti cohesive energy) | ~16,700 K | **~9.8 MJ/kg** | **~980,000 mana/kg** | **~730,000 mana** (~7.3 MJ) |
+
+Street read: same ballpark as vaporizing ordinary steel by energy, but **power-gated**. Near threshold the piece radiates on the order of **~300 MW/m²** (~tens of MW for a sword face), so the dump must beat that loss rate. Slow heating never catches up. Local overload can melt a pit or hole; whole-piece melt wants uniform induction or full-body discharge.
+
+**Mana friction Heat + mental focus:** unaided spot size from `../Science/Body/FocusCapacity.md`:
+
+```
+d = 100 μm / M
+m = ρ d³                 // ρ ≈ 4.51 g/cm³; cube nugget
+mana ≈ (4.7e5 to 9.8e5) × m_kg   // lower / upper melt table
+```
+
+Because adamantium is an electron **conduit**, heat from a spot on a large piece equalizes into the whole casting in microseconds to milliseconds. Mana friction on attached plate does **not** cheaply melt a 10 μm pit while the sword stays cold. Practical uses of fine focus:
+
+1. **Detached speck / filing / cast bead** of size ~d: melt that nugget for ~mana above (usually << 1 mana).
+2. **Whole piece:** pay the full piece mass × mana/kg (and the power gate), no matter how sharp the mind.
+3. **Resonance cut** still beats melt for shaping attached stock.
+
+| M | d | Nugget mass | Mana (lower–upper) |
+|---|---|---|---|
+| 1× | 100 μm | ~4.5 μg | ~0.002–0.004 |
+| 10× | 10 μm | ~4.5 ng | ~2×10⁻⁶ – 4×10⁻⁶ |
+| 20× | 5 μm | ~0.56 ng | ~3×10⁻⁷ – 6×10⁻⁷ |
+
+Detached-nugget melt is trivial in mana. Killing a 0.75 kg blade is still ~350k–730k mana plus power.
+
+**3. Radiation saturation (Soft doom clock only).** Extreme prolonged particle flux can transmute sites or trap helium without lattice relaxation. Natural background never matters. Not a street destroy path; open until a beat needs it.
+
+Dead as post-set ordinary paths: forge heat, campfire melting, acid, grinding, quench-and-temper.
 
 #### Handling (works with the locked weakness)
 
-- **Cast to net shape.** Mold design is the real craft. Holes, slots, threads and edge geometry get cast in.
+- **Cast to net shape.** Mold design is the real craft. Holes, slots, threads, edge geometry and the casting key are fixed at set.
 - **Cast sharp, stay sharp.** A blade edge cast into the mold never dulls.
+- **Record the key.** Smith ledgers (or a fork cut to the note) are the death note of that casting.
 - **Mechanical joining.** Star steel or darksteel rivets through cast-in holes. Other metals cast around adamantium for hilts, mounts and frames.
 - **Cast-in-place chain.** Each new mail link is cast closed through already-set links.
-- **Cladding.** Adamantium covers a real mana-path metal underneath.
+- **Cladding (optional).** Adamantium can cover a softer mana-path metal, or take the path itself as a stiff host.
 - **Ordinary moving and lifting.** Light enough (Ti density band) for normal handling.
 
 ### Durium and durasteel
@@ -315,7 +358,7 @@ Mundane Earth-like rows unchanged in feel. Named magic stock:
 | Orihalcum | Antimagic = % | Shield stock (Au line) |
 | Darkiron / star iron | Rising with % | Fe line |
 | Darksteel / star steel | Rising with % | Melee blades / plate |
-| Adamantium | Little/no mana; hard to alter (cast-final) | Indestructible cover over a real rune inlay |
+| Adamantium | Frozen lattice; stiff rune host (hard seating); electron heat; resonance / electron-melt | Prestige runic gear; also valid as shell over a softer path |
 | Durium / durasteel / aether durasteel | Earth-lean matrix; poor wire; **V / VC** density (steel-weight durasteel) | Cermet armor, tools, prestige hammers, golems |
 | Arcanium / aetherium | Stone refine line | `MonsterCores.md` |
 | Etherium | Persistent store; clean transfer | Tower cores, mixes |
@@ -421,5 +464,5 @@ Durium / durasteel **vanadium / VC** densities and HV in the locked Durium secti
 - Ebonite geography
 - Guild-rank spelling Orichalcum vs metal orihalcum (keep both unless prose confuses)
 - Promote any inspirational physical row above only when a scene needs that digit
-- Inspirational alternate adamantium weakness (forced mana current / electroplastic) stays Soft unless reopened
+- Adamantium radiation-saturation doom clock (method 3) stays Soft until a beat needs fluence / ledger-drift digits
 

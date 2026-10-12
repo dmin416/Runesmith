@@ -3,7 +3,7 @@
 Hub: `../Science.md`.
 **Shared cast / path law:** `../../../Runes/Energy.md` (η(L), μ(INT), η_cond, ambient `A = √C`, mana-in, no-stack rules, voice baselines).
 This file is spell-specific worked tables only (Bolt, Arrow, Shield, Hands, Heat, anchors). Tables below are at open-ground **A = 1** unless a row says otherwise. Multiply Useful by `A` in thicker fields.
-Cast blurbs: `../../../Combat/Spells.md`.
+Cast blurbs: `../../../Combat/Spells.md`. Explosive-compression / full kinetic price list (ideas): `../../../Combat/KineticSpellList.md`.
 
 ## Kinetic vs thermal mana (rough guide)
 

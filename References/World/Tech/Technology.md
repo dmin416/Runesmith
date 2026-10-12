@@ -6,6 +6,17 @@ Era / tech baseline for Caldris. Fat era notes: `TechnologyDesign.md`. Hub: `../
 
 Social structure stays medieval (kingdoms, nobles, knights). Tech reaches toward early industrial magitech. Magic stones fill roles coal, oil and electricity fill on Earth. Result is fantasy steampunk / magitech, not pure High Middle Ages.
 
+### Era mix (locked)
+
+Street goods, clothes, tools and shop finish sit on a **medieval → Victorian** band. Where a place falls on that band is driven mainly by **proximity to large cities** and **wealth**, not by a single calendar year for the whole kingdom.
+
+- **Far / poor:** farm fringe, forest cabins, small villages, hard-up districts lean medieval: coarse wool, cloaks, simple hose or loose trousers, leather and iron, hand tools, dirt and stone patch
+- **Near / rich:** capitals, crafting hubs (Edelgard), merchant Hightown, rail terminals lean Victorian-ish: tailored coats, finer shirts, polished shop glass, better metalwork, magitech conveniences next to plate and mail
+- **Mixed towns (Carwen default):** both at once. Victorian-ish civilians beside full-plate knights; poor stalls and peasant dress a street over from coin-heavy guilds and inns
+- Armor and feudal arms stay in the mix everywhere knights and adventurers work. Magitech (trains, airships, crystal mirrors) clusters with wealth and city access
+
+Earth era ladders for invent detail: `../Science/Invent/ClothingTechnology.md`, `../Science/Invent/ShoeTechnology.md`, `../Science/Invent/CraftsmanByCentury.md`.
+
 ## Detail
 
 ### Present
@@ -18,7 +29,9 @@ Social structure stays medieval (kingdoms, nobles, knights). Tech reaches toward
 - Ship **magic cannons** exist. Personal firearms not widespread: a high-class archer is basically a cannon, so gunpowder sidearms stay niche
 - Crystal-mirror calls for rich / companies
 - Mage-frozen cold and rail move out-of-season produce
-- Mixed Victorian-ish street clothes + full plate; peasants also in simple clothes
+- Clothes and civilian tech follow the **era mix** above (city distance + wealth)
+- Footwear eras (Earth invent ladder): `../Science/Invent/ShoeTechnology.md`
+- Clothing eras (underwear through hats): `../Science/Invent/ClothingTechnology.md`
 
 ### Gunpowder invent (not street baseline)
 

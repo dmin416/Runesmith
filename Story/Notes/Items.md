@@ -238,7 +238,7 @@ Class-change trial night. Carry-in from Ch 15.
 **Gained**
 - Class: **Runic Mana Scribe** (title-gated).
 - Skills: Basic Mana Scribing L1, Basic Rune Scribing L1, Basic Rune Mastery L1.
-- Working trial Fire Orb scroll (five-region linear; fist-sized heat orb on success) left in the trial space.
+- Working trial Fire Orb scroll (four-region linear; fist-sized heat orb on success) left in the trial space.
 
 **Scene props**
 - **Ned** silk-ties him upright in the inn chair on return; eats the silk after chin-scratch.

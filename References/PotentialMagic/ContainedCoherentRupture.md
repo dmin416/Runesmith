@@ -31,6 +31,6 @@ Live conversion bands (`Metals.md`) may need shifted harmonics or refuse the tun
 
 - **Mythril / aurium / dark-star Fe-steel:** likely retuned parents, not free passes.
 - **Orihalcum:** antimagic; may block or starve the wave inside its volume.
-- **Adamantium:** cast-final; rupture vs resonance destroy is a separate beat question.
+- **Adamantium:** cast-final frozen lattice; stiff rune host; street destroy = casting-key resonance; rare electron-overload melt (`../World/Materials/Metals.md`). Rupture as a rival path stays a beat question.
 
 Mana / ημ cost and field geometry stay unset until a beat needs them.

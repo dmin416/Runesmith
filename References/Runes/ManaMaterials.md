@@ -24,7 +24,7 @@ Each host uses **one primary mode**. Do not stack wire loss and gem absorption a
 | Mode | What it covers | Rule |
 |---|---|---|
 | **Wire** | Metals and graphitic conductors | Pulsed / alternating flow in a surface layer. Ferromagnetic hosts (iron, hardened steel) waste harder than nonmagnetic ones. Exact % unset. |
-| **Window / refuse** | Clear adamantium, some crystals | Adamantium carries little to no mana (clear glass). It is not a rune host. Orihalcum is a separate **block** mode (black velvet). |
+| **Window / refuse** | Some crystals | Mana passes with little seating. **Not** adamantium (adamantium is a stiff **Wire** host). Orihalcum is a separate **block** mode (black velvet). |
 | **Superconducting** | Mythril (plain name; elemental lean is a **mode**, not a separate brand metal) | Steady flow near lossless up to a critical current **Jc**. Pulses pay a little AC-loss feel. Past **Jc** the path can **quench** and dump heat. Quench is rare on gear-grade stock. Digits unset (`Energy.md` feel order). |
 | **Absorber** | Dark-lean mythril **mode** (not a separate “black mythril” metal) | Soaks non-dark bands. Dark band passes cleanly. |
 | **Soft channel** | Mana fiber (core + cladding) | Optical-fiber analog. Hide / darkiron as cladding. Tight bends leak. |
@@ -50,7 +50,7 @@ Short shop reminder, worst to best common path feel:
 - **Star steel** is strong durable channel stock.
 - **Mythril** is the best common clean host.
 - **Orihalcum** blocks seating (black velvet). Never a rune host. MR = conversion %.
-- **Adamantium** carries little to no mana (clear glass). Not a rune host. Cover over a real inlay only.
+- **Adamantium** is a stiff rune host (cast-final frozen lattice). Enchantable / runnable with more seating work than mythril. Shell-over-softer-path remains valid.
 
 **Two axes:**
 - **Path feel:** how cleanly mana flows (Energy.md ladder).
@@ -162,7 +162,7 @@ All pairs are layered or multiphase. A uniform lattice cannot hold opposite band
 | Durium / durium carbide (V / VC anchor) | Earth | Bound / native (carbide) |
 | Lead and tin | Water or Earth | Loose |
 | Etherium / aether durasteel | Aether | Native / bound |
-| Adamantium | none | Cannot be imbued (clear glass; not a path host; cover only) |
+| Adamantium | Unaspected (stiff host) | Imbue / rune OK; hard seating; cast-in or resonance grooves |
 | Durasteel / darkiron / star iron | Earth | Bound |
 | Darksteel / star steel | Unaspected | Loose |
 | Arcanite / resistium | Unaspected | n/a |
@@ -212,7 +212,7 @@ Loose imbue soaks deepest at forging heat then must be trapped by cooling under 
 - Dark / star Fe-steel = radiation-damage resistance (~10× life, section 2 only). Heat fade is a separate axis.
 - Austenitic = cleaner conductor than ferromagnetic iron-line stock.
 - Orihalcum = converted gold; MR = %; black velvet block. Never rune host.
-- Adamantium = converted Ti, cast-final; clear glass, little to no mana. Cover over real inlay. Not a path host.
+- Adamantium = converted Ti, cast-final stiff host; enchantable/runable with extra work. Resonance or electron-overload melt destroy (`../World/Materials/Metals.md`).
 - Mythril reusable at combat heat. Quench rare. Forge fire can still wipe.
 - Fire-lean mythril mode may recycle some waste heat as fire mana. Digits open. No separate color-mythril brands.
 - Converter phase change is free. Path feel still applies. Density gate required. Stone/ambient optional threshold helpers. Affinity still gates T2 elemental class spells.

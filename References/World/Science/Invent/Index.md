@@ -13,6 +13,8 @@ Century invent ladder, industrialization, paper, ink, writing tools, toilet desi
 - [Paper.md](Paper.md). Paper economy and craft
 - [PaperFormats.md](PaperFormats.md). Sheet sizes
 - [PerfectedItems.md](PerfectedItems.md). Widespread tools and goods whose form is settled; Earth manufacturing process notes
+- [ShoeTechnology.md](ShoeTechnology.md). Footwear milestones; medieval / Renaissance / Victorian styles and construction
+- [ClothingTechnology.md](ClothingTechnology.md). Underwear, pants, shirts, coats, hats, socks; same three eras
 - [Printing.md](Printing.md). Gutenberg / civilian-product invent seed
 - [ToiletDesign.md](ToiletDesign.md). Flush systems, vitreous china, seats and soft-close damper mechanisms
 - [WritingTools.md](WritingTools.md). Pencil / pen invent path

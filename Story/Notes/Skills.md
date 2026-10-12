@@ -531,7 +531,7 @@ Gained (permanent after pass):
 - Basic Rune Scribing L1 (scribe runes to scrolls)
 - Basic Rune Mastery L1 (rune comprehension; **−10%** activation cost per level on Lesser; **−90%** at L9)
 
-Reading Proficiency from Arden library aids the trial book. Temporary versions after the book / before assemble. Diagnosis blank mid-inscribe; scores the finished diagram only. Fire Orb = **five**-region linear chain (collector → fire core → shape → constrain → velocity); no binary / logic-gate parse on-page. First attempt fails (red). Mana-hand overlay blunder (~**1/4 MP** cascade). Second succeeds on last sand (~**1/4 MP** again). **Ned** silk-holds him upright on return.
+Reading Proficiency from Arden library aids the trial book. Temporary versions after the book / before assemble. Diagnosis blank mid-inscribe; scores the finished diagram only. Fire Orb = **four**-region linear chain (collector → fire core → shape → constrain); no velocity; no binary / logic-gate parse on-page. First attempt fails (red). Mana-hand overlay blunder (~**1/4 MP** cascade). Second succeeds on last sand (~**1/4 MP** again). **Ned** silk-holds him upright on return.
 
 ### Traits
 
@@ -548,7 +548,7 @@ Created **Lesser Impact Rune [Highest]** schematic (**+1000 XP** → bar **2479 
 
 ## Chapter 19
 
-Created **Lesser Fire Orb Rune [High]** from class-trial memory (**over** 1 hour; **+600 XP**; uneven / first real-world Fire Orb draw). Thin-sheet trace of Diagnosis-correct lines → **[Highest]** (**+400 XP**). Total **1000** (Source one-shot Highest **+1000** discarded). Lesser quality XP: **100 / 200 / 400 / 600 / 1000**. Three Highest lesser schematics. Nature lock on-page: **large linear segments** / five Fire Orb stages (collector → fire core → shape → constraint → velocity); Detonation / Impact same chain family; **not** Source resistor / transistor / memory modules. Diagnosis fails on cut-paper overlays (needs whole sheet). Quill + **Mana Hands** ink refill (multitask practice); wants a pencil (`WritingTools.md`: invent later, not buy). Sleep Resistance noted on the long train.
+Created **Lesser Fire Orb Rune [High]** from class-trial memory (**over** 1 hour; **+600 XP**; uneven / first real-world Fire Orb draw). Thin-sheet trace of Diagnosis-correct lines → **[Highest]** (**+400 XP**). Total **1000** (Source one-shot Highest **+1000** discarded). Lesser quality XP: **100 / 200 / 400 / 600 / 1000**. Three Highest lesser schematics. Nature lock on-page: **large linear segments** / four Fire Orb stages (collector → fire core → shape → constraint); Detonation / Impact same chain family; **not** Source resistor / transistor / memory modules. Diagnosis fails on cut-paper overlays (needs whole sheet). Quill + **Mana Hands** ink refill (multitask practice); wants a pencil (`WritingTools.md`: invent later, not buy). Sleep Resistance noted on the long train.
 
 ### Train-week skill math (locked)
 

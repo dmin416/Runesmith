@@ -40,7 +40,7 @@ Family meals with the Baron, wives and children. Roland sits furthest back by ra
 
 ### Carwen
 First seen: Chapter 7
-Mid-kingdom walled adventurer town with a dungeon nearby. Mixed Victorian-ish civilian clothes and full-plate knights. Roland arrives by mana train after Lustile is denied. Goblin forest and farms sit nearby.
+Mid-kingdom walled adventurer town with a dungeon nearby. Mixed Victorian-ish civilian clothes and full-plate knights (era mix: city access + wealth; see `../Tech/Technology.md`). Roland arrives by mana train after Lustile is denied. Goblin forest and farms sit nearby.
 
 ### Lustile
 First seen: Chapter 6 (named; not visited)

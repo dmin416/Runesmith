@@ -9,11 +9,12 @@ Skin, limbs, teeth, Gut Check, falling, speed / measurement perception, mind-bod
 ## Physiology
 
 - [Body.md](Body.md). Limbs, skin heat, grill, stealth, teeth; street recoil tolerance
+- [BloodNotes.md](BloodNotes.md). Mammal / bird blood and insect hemolymph: color, clot, volume, game trails (Earth reference)
 
 ## Skill / capacity
 
 - [ART.md](ART.md). Gut Check / ART / dowsing
-- [FocusCapacity.md](FocusCapacity.md). Mental capacity (N men); Multitasking split %; Parallel Thinking skill (N parallels)
+- [FocusCapacity.md](FocusCapacity.md). Mental capacity (N men); Multitasking split %; Parallel Thinking; focus spot `d = 100 μm / M`
 - [MeasurementPerception.md](MeasurementPerception.md). Weight, length, volume, Weber fractions, magnification vs hand tremor (Earth research)
 - [MindBodySkill.md](MindBodySkill.md). Recall ≠ motor skill (Drawing etc.)
 

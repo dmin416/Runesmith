@@ -16,3 +16,4 @@ Up: [World](../Index.md)
 - [Mounts.md](Mounts.md). Riding, draft and companion beasts. Food herds: ../../Food/Food.md. Ned: ../../People/Ned.md. Agni: ../../People/Agni.md. Fat notes: Design/MountsDesign.md.
 - [BiologicalAcid.md](BiologicalAcid.md). Earth research: acid spit anatomy, concentration ceilings, 10× physical delivery. Seeds for Myrmekes / Ned glands.
 - [ToxinSequestration.md](ToxinSequestration.md). Earth research: diet → stored poison (frogs, puffer, monarch deep dive). Story seed for monster toxins / Poison Resistance.
+- Blood / hemolymph and game trails (Earth): [BloodNotes.md](../Science/Body/BloodNotes.md).

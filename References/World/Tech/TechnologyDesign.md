@@ -39,14 +39,14 @@ Already on-page or locked in references:
 | **Magic stones** as fuel, light, craft and rail power | `../Society/Economy/Economy.md` / `../Materials/MonsterCores.md`; trains in Places |
 | **Airships** rare / royal / far above Baron spend | `../Geography/Places.md`; Ch 7 coach→train |
 | Gnomes invent magic trains; intricate machinery | `../Society/Races.md` |
-| Mixed Victorian-ish civilian clothes + full-plate knights | `../Geography/Places.md` Carwen |
+| Medieval→Victorian street mix by **city proximity + wealth** (Carwen: both at once) | `Technology.md` era mix; `../Geography/Places.md` Carwen |
 | Tamed monsters for **farm / draft** (Trox plow, caravan bulls, oversized draft equines) | `../Fauna/Mounts.md`; Arden fields in Places |
 | Three-metal coin ladder (copper / silver / gold + Royal gold) | `../Society/Economy/Economy.md` |
 | Monetary economy: wages, bounties, inns, merchants, taxation anchors | `../Society/Economy/EconomyDesign.md` |
 
 ### Revised historical approximation
 
-Social structure stays medieval (kingdoms, nobles, knights, Royals) while technology reaches toward the early Industrial Revolution (roughly 1760 to 1850). The result is a hybrid closest to fantasy steampunk / magitech. Magic stones fill the role that coal, oil and electricity fill in real history. Airships have no real historical parallel and serve as a prestige item similar to a royal yacht or private railcar.
+Social structure stays medieval (kingdoms, nobles, knights, Royals) while technology reaches toward the early Industrial Revolution (roughly 1760 to 1850). The result is a hybrid closest to fantasy steampunk / magitech. Magic stones fill the role that coal, oil and electricity fill in real history. Airships have no real historical parallel and serve as a prestige item similar to a royal yacht or private railcar. Street-level goods and clothes are not one era everywhere: they slide medieval→Victorian by distance from large cities and by wealth (`Technology.md` era mix).
 
 **Wheels / suspension:** Earth ladders and Caldris ceiling in `../Science/Vehicle/Wheels.md` and `../Science/Vehicle/Suspension.md`. Brakes: `../Science/Vehicle/Brakes.md`. Driving and piloting positions: `../Science/Vehicle/Positions.md`. Road baseline ≈ iron-tired wooden wheels + leaf / thoroughbrace coach springing; rail can use early industrial flanged metal wheels. Pneumatics, mass stamped discs and electronic suspension are invent-or-prestige only.
 

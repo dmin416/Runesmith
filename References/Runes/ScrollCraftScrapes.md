@@ -1,6 +1,6 @@
 # Scroll Craft Scrapes
 
-> **Design loot.** Live buyer / fuel lock: `Magic.md` + `Energy.md`. Shop prices / fair bands: `ScrollEconomy.md`. Metals: ../World/Materials/Metals.md.
+> **Design loot.** Live craft lock: `MagicScrollMaking.md`. Buyer / fuel: `Magic.md` + `Energy.md`. Shop prices / fair bands: `ScrollEconomy.md`. Metals: ../World/Materials/Metals.md.
 
 Chapter and Source scrape for word vs runic scroll craft, use, skills, and chapter mentions. Not a second lock file.
 
@@ -10,11 +10,11 @@ Chapter and Source scrape for word vs runic scroll craft, use, skills, and chapt
 |---|---|---|
 | What is it? | Incantation written in the correct language with mana through quill/ink | Rune pathway machine drawn on the blank |
 | Same magic laws? | **No.** Diagnosis blank on regulars. Different language / laws from runes (`Nature.md`, Ch 21). | Diagnosis sees pathways. Same rune law as weapons / plates. |
-| Prefilled with mana? | **Craft-charged one-shot, not a free battery.** Craft pour = spell cost ÷ η_craft (low quality costs extra). Shop device rates **scroll quality** (strength) Lowest–Highest. Chapter: more mana → stronger (prose). Notes: efficiency. User activates; needs mana to read. `ScrollAspects.md`. | Pathways are the product. Canon default: **user pays activation energy** (mana or stamina; filtration on that energy). Optional research models (P9 prepaid) are **not** the early-canon default. Craft still spends heavy setup mana. |
-| Who can **make** them? | T1: **Mage + Mana Scribe** (Calligraphy gate). T2: **T2 elemental Mage** (affinity path) + Scribe. Engine sheets: `ScrollAspects.md`. | **Runesmith** / **Runic Mana Scribe** (shop talk: Runesmith; Roland does it at T1 Runic Mana Scribe). No elemental affinity required (Fire Orb at **0%** fire works). |
-| Who can **use** them? | **Needs mana.** Read aloud. Mage cross-affinity / missing-spell patch (`Magic.md`). Not for people with no mana. Old Ch 20 “without magic” shop pitch is superseded. | **Anyone** who can pay energy (mana or stamina). Affinity irrelevant. Card-size needs only a little energy (farmer beat can be a spark of mana or SP). |
+| Prefilled with mana? | Craft imbues ink/paper at **half** cast cost. Not a free battery. Power = designed; cast cost scales. Chapter may still say more mana → stronger. User reads; needs mana. `MagicScrollMaking.md`. | **Absorbing** default: user pays mana or stamina (η table). **Preloaded** special: stored spell released on activate. Craft still spends setup mana. |
+| Who can **make** them? | T1: **Mage + Mana Scribe**. T2+: **T2+ mage** with the spell + Scribe. Sheets: `MagicScrollMaking.md`. | **Runesmith** / **Runic Mana Scribe** (shop talk: Runesmith; Roland does it at T1 Runic Mana Scribe). No elemental affinity required (Fire Orb at **0%** fire works). |
+| Who can **use** them? | **Needs mana.** Read aloud. Mage cross-affinity / missing-spell patch (`Magic.md`). Not for people with no mana. Old Ch 20 “without magic” shop pitch is superseded. | **Anyone.** Absorbing: mana or stamina. Preloaded: activate to release. Card-size needs only a little energy (farmer beat can be a spark of mana or SP). |
 | Need a magic class to use? | Need a **mana pool** (and to read aloud). Maker needs Mage-track Scribe. | **No.** |
-| Can overcharge / amplify? | **No user amplify.** Scroll quality = strength grade. Rune quality does not apply. | **Yes.** User may feed extra **energy** (mana or stamina) up to a **rank ceiling** (`RuneSystem.md`). Compression **cuts overload headroom**. Empower / Overload / overrun (~5× ceiling) are runic-side tools. |
+| Can overcharge / amplify? | Designed cast cost is the dial (stronger scroll costs more to cast). | **Yes.** Absorbing runes take more input; η sets same-power cost. Rank ceiling (`RuneSystem.md`). Compression **cuts overload headroom**. |
 | Diagnosis / upgrade? | Diagnosis does not work. | Diagnosis works; Roland upgrades bought lows to High / Highest schematics. |
 | Time / XP (Ch 21) | Mana Arrow ~**10 min**, **+20 XP** | Fire Orb runic ~**45 min**, **+50 XP** (imperfect). Five regulars ≈ one runic time for more XP. |
 | Price feel | Cheap bulk (Mana Arrow shop **3 SS** rewrite; Source had **1 SS**). | Fair High Common ~**1.7×** word Fire Arrow (**10 SS** vs **6 SS**). Dusty shelf **1.5–2 LS** is vanity list, not the fair buy. |
@@ -27,10 +27,10 @@ Chapter and Source scrape for word vs runic scroll craft, use, skills, and chapt
 
 - Skill: **Basic Mana Scribing** (Mana Scribe / Runic Mana Scribe trial grants it).
 - Method: spell out the **incantation** in the correct language while focusing mana into quill and ink. **No** runic pathway drawing.
-- Materials: magical paper and/or magical hide blanks; magic ink (`../World/Science/Invent/Paper.md`). Ordinary carbon / iron gall will not carry a path (`Energy.md`; Earth catalog: `../World/Science/Invent/Ink.md`).
-- **Scroll quality:** Lowest → Highest. Device-checked strength grade. Craft: spell ÷ η_craft; T1 Mage+Scribe / T2 elemental Mage. `ScrollEconomy.md`, `ScrollAspects.md`.
+- Materials: blank need **not** be magical. Mundane: easier imbue, burns after one cast. Magic stock: harder focus, **2–5** uses until threshold. Magic ink preferred for channel capacity (`../World/Science/Invent/Paper.md`, `MagicScrollMaking.md`).
+- **Scroll quality:** Lowest → Highest designed attacking value. Craft: half cast cost. Power: designed. T1 Mage+Scribe / T2+ mage. `ScrollEconomy.md`, `MagicScrollMaking.md`.
 - **Rune quality:** not this product. Word scrolls have no `η_cond` path.
-- Elemental example: Fire Arrow (T2) maker needs **T2 fire Mage** + Scribe (`ScrollAspects.md`).
+- Elemental example: Fire Arrow (T2) maker needs **T2 fire Mage** + Scribe (`MagicScrollMaking.md`).
 
 ### Use
 
@@ -41,7 +41,7 @@ Chapter and Source scrape for word vs runic scroll craft, use, skills, and chapt
 ### Limits
 
 - Diagnosis cannot see structure → cannot Diagnosis-upgrade regulars.
-- Strength fixed at craft; no Source beat saying the user dumps extra mana to amp a regular scroll.
+- Strength fixed at the designed cast; user pays that cast cost when reading.
 - Independent profit hard: mats priced so only intermediate+ grades pay (`Economy.md` / Ch 21 shop cartel).
 
 ---
@@ -51,7 +51,7 @@ Chapter and Source scrape for word vs runic scroll craft, use, skills, and chapt
 ### Craft
 
 - Skills: **Basic Rune Scribing** (draw rune to scroll); **Basic Rune Mastery** (understand / cheaper **activation** later). Class: Runic Mana Scribe eases learning (rewrite: no cost term); shop world often says **Runesmith**.
-- Method: layout pathway regions (Fire Orb trial: five linear stages). Mana into ink while drawing. Pathways sink into the scroll when infused.
+- Method: layout pathway regions (Fire Orb trial: four linear stages). Mana into ink while drawing. Pathways sink into the scroll when infused.
 - Time: much slower than word scrolls. Lesser Fire Orb practice ~45 min; Common Fire Arrow much harder / ~1 hour class with mana left for a second at mid Scribe; compaction later **5–6**/day.
 - **Affinity:** runic Fire Orb activates fine at **0%** fire. Runic scrolls do not need the maker’s element.
 - Setup mana is large (RuneSetup math; Common Fire Arrow draining). Blank + ink cheaper than finished shelf price.
@@ -76,19 +76,19 @@ Chapter and Source scrape for word vs runic scroll craft, use, skills, and chapt
 
 ### At craft (both)
 
-- Maker spends mana **into the writing / pathways**. Blanks are not pre-charged spell batteries sitting on the shelf with a full cast already paid for the user in the early canon read.
-- Regular: craft mana pour sizes the scroll; device grades scroll quality / strength (`ScrollAspects.md`).
-- Runic: craft mana **builds / seats the machine**; activation is usually a **separate** user (or stone) payment (`RuneSetup` P1 default). Rune quality (perfection) seats `η_cond`.
+- Maker spends mana **into the writing / pathways**. Magic scrolls: craft = half designed cast (`MagicScrollMaking.md`). Blanks are not free batteries with the user's cast already paid.
+- Regular: imbue at half cast cost; power designed; device grades = attacking value.
+- Runic: craft mana **builds / seats the machine**. **Absorbing:** user pays activation (η table). **Preloaded:** stored spell at craft; user activates. Rune quality (perfection) seats `η_cond`.
 
 ### At use
 
 | | Regular | Runic |
 |---|---|---|
-| Start cost | **Mana only.** Read aloud. Exact MP soft early. | User **energy** (mana or stamina) through the pattern; filtration tax allowed. Tiny cards need very little. |
-| Extra energy | Not a listed amp channel. | **Yes** → amplify up to rank ceiling / overload skills (mana or SP). |
-| Prepaid craft (P9/P10) | Research options: crafter pre-pays activation. Marked **differs from canon default**. | Same table. Do not treat as locked for Edelgard arc. |
+| Start cost | **Mana only.** Read aloud. Pay designed cast cost. | Absorbing: mana or stamina ÷ η. Preloaded: activate (may need a symbolic spark). |
+| Extra energy | Stronger design = higher cast cost. | Absorbing: yes, up to rank ceiling / overload. Preloaded: usually fixed release. |
+| Prepaid craft (P9/P10) | Not the magic-scroll model (user still pays cast). | Preloaded style is the special battery SKU. |
 
-**Bottom line:** neither type is “fully prefilled so the user pays zero and cannot add more” in locked early story. Regulars are **craft-powered one-shots**. Runics are **user-powered machines** you can **overfeed**.
+**Bottom line:** magic scrolls make the user pay the designed cast. Absorbing runics make the user pay activation energy. Preloaded runics release a stored spell on activate.
 
 ---
 
@@ -126,7 +126,7 @@ Chapter and Source scrape for word vs runic scroll craft, use, skills, and chapt
 
 ## Mentions index (high value)
 
-- Ch 13 / Status: more mana into writing → stronger scroll (chapter fact). Rewrite notes: scroll quality vs rune quality; craft = spell ÷ η_craft (`ScrollAspects.md`).
+- Ch 13 / Status: more mana into writing → stronger scroll (chapter fact). Rewrite notes: craft = half cast cost; power designed (`MagicScrollMaking.md`).
 - Ch 16 trial: Fire Orb **runic** scroll; skills Basic Mana Scribing + Basic Rune Scribing + Rune Mastery.
 - Ch 20–21 Edelgard: shop regulars vs dusty runic shelf; prices; production classes; Mana Arrow vs Fire Orb practice; Diagnosis blank on regulars; affinity 0 OK for runic; anyone activates runic; auction amplify explanation (Source 21-30 / rewrite 19-30).
 - Ch 22–27: Common Fire Arrow grind; compaction; overload headroom; weekly sales.

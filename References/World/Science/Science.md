@@ -142,7 +142,7 @@ Index and ownership: [Body/Index.md](Body/Index.md).
 
 | Issue | Resolution |
 |---|---|
-| Adamantium forge-supersteel vs cast-final | **Metals.md + CraftMetal shop:** final once cast; form while setting; no post-set forge |
+| Adamantium forge-supersteel vs cast-final | **Metals.md + CraftMetal shop:** final once cast; stiff rune host; resonance or electron-overload melt (~470k–980k mana/kg) |
 | Animal Materials vs Earth Materials | Animal = `Biomaterials/Biomaterials.md`. Earth = `Metallurgy/EarthAlloys.md` |
 | Stone dump SA-capped | **Dropped.** Law in `../Materials/MonsterCores.md`. Size tables: `Energy/ManaStones.md`. Compare: `Energy/Batteries.md` |
 | Path efficiency | **η_cond** is the **rune quality** ladder (**0.2** to **1.0**). Not scroll quality. Host feel is narrative and does not follow electrical conductivity. Direct casts and runes both take ambient `A = √C` (`../../Runes/Energy.md`) |

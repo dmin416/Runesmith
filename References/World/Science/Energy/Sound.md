@@ -43,7 +43,7 @@ Round trip for a there-and-back echo: t = 2d / c. Wavelength: λ = c / f (`Waves
 
 Solid rock compression at **3,000–6,000 m/s** is the combat shorthand (**10–15×** air): `../../../Combat/LightWarfare.md`. Soft ground is the exception. A surface wave in loose soil can be **slower than air**. Fill that soil with water and the compression wave jumps toward water speed. The shear and the surface wave stay slow.
 
-Wood across the grain is slower than along it, closer to **1,000–2,000 m/s**. A steel bar is the thin-rod speed. Bulk steel is closer to **5,900 m/s**. No acoustic speed is locked for mythril, star steel, orihalcum, aurium, or adamantium.
+Wood across the grain is slower than along it, closer to **1,000–2,000 m/s**. A steel bar is the thin-rod speed. Bulk steel is closer to **5,900 m/s**. No acoustic speed is locked for mythril, star steel, orihalcum, or aurium. Adamantium stiffness / casting-key band: ~**20,000 m/s** in `../../Materials/Metals.md` (bending-mode keys; not a free longitudinal ring).
 
 Example: 1 s at 120 dB, 5 m out → I = 1 W/m² → P ≈ 4π×25 ≈ **314 W** → **314 J** (~31 mana/s at ημ 1).
 

@@ -34,7 +34,7 @@ Like an engine diagram where fuel enters a combustion area and later parts turn 
 
 Stages 8 and 9 appear only at rune score above 1 (Common Low and up). Lesser runes are linear and have neither. Cost, efficiency, ambient gain and heat numbers: see `Energy.md`.
 
-**Story Ch 16 (trial Fire Orb, rewrite):** on-page as five regions of one linear Lesser chain (collector → fire converter → shape → constrain → velocity). Source used three parts plus binary / logic-gate talk; that model is dropped. Map loosely to Intake / Feed / Converter / Shaping / Emitter (constrain ≈ hold or waste control before release). Full stage names need not appear in prose.
+**Story Ch 16 (trial Fire Orb, rewrite):** on-page as four regions of one linear Lesser chain (collector → fire converter → shape → constrain). Source used three parts plus binary / logic-gate talk; that model is dropped. No velocity stage. Map loosely to Intake / Feed / Converter / Shaping (constrain ≈ hold or waste control so the orb holds form). Full stage names need not appear in prose.
 
 ## Rank Scale
 
@@ -138,7 +138,7 @@ Natural mana carries a tone by element and by place. T is the match between the 
 
 ### Substrate
 
-Path material is the instrument. Timbre is per host (`Energy.md`): iron thuds, copper hums, aurium damps, steel rings, darksteel tolls, body/blood, star steel and mythril chime. Not a locked rank order. **Adamantium is not a path host** (clear glass cover over a real inlay). **Orihalcum** is antimagic block, not a channel. Recovery returns a share of the path's own waste and never more so the substrate sets the ceiling.
+Path material is the instrument. Timbre is per host (`Energy.md`): iron thuds, copper hums, aurium damps, steel rings, darksteel tolls, body/blood, star steel and mythril chime, adamantium a hard clear ring once seated. Not a locked rank order. **Adamantium is a stiff path host** (more seating work; cast-in or resonance grooves). **Orihalcum** is antimagic block, not a channel. Recovery returns a share of the path's own waste and never more so the substrate sets the ceiling.
 
 Lower waste means proportionally lower heat and strain on the path. Legendary Highest halves the path's waste per cast. A leaking layout multiplies it.
 
@@ -146,7 +146,7 @@ Lower waste means proportionally lower heat and strain on the path. Legendary Hi
 
 Host η% and linear **G** rows are **not** used here. Pick η_cond from Energy.md **rune quality** table; multiply by `A = √C`.
 
-Layout cost anchor (same attack, same size): Highest **50** mana, Intermediate **125** mana (λ 0.4). The Intermediate pays more for the same converter delivery because the layout leaks. Path life and heat follow that waste ratio on identical size. Better hosts (toward mythril) widen the gap between clean and sloppy layouts; adamantium never sits on this ladder as a channel.
+Layout cost anchor (same attack, same size): Highest **50** mana, Intermediate **125** mana (λ 0.4). The Intermediate pays more for the same converter delivery because the layout leaks. Path life and heat follow that waste ratio on identical size. Better hosts (toward mythril) widen the gap between clean and sloppy layouts; adamantium sits on the ladder as a stiff prestige host (harder seating, permanent geometry once set).
 
 Cost of the same attack by quality (layout λ only): Lowest 313, Low 198, Intermediate 125, High 79, Highest 50 mana.
 

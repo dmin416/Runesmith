@@ -28,7 +28,7 @@ Author design lock for how runes and magic work in the rewrite. Engineering deta
 | Intention | Gives the pattern its purpose and output form |
 | Pathways | Physical or magical routes mana flows through |
 
-5. **Same rules across samples.** A trial book can name Fire Orb's five regions (mana collector → fire core → shape → constrain → velocity). Other lessers may lack that book. If their structure is still linear and progressive, they operate on the same rules.
+5. **Same rules across samples.** A trial book can name Fire Orb's four regions (mana collector → fire core → shape → constrain). Other lessers may lack that book. If their structure is still linear and progressive, they operate on the same rules.
 6. **Ranks are a complexity ladder, not only bigger numbers.** Each main rank adds a geometry and moves jobs off the body. Subgrades (Lowest → Highest) glue the ranks so peak of N ≈ floor of N+1. Detail and examples: `Runes.md` (Ranks), `RuneSystem.md` (Story feel + ceilings).
 
 ## Rank ladder (worldview)
@@ -66,7 +66,7 @@ Ignoring joule ceilings, Source and early rewrite treat the five ranks as **kind
 
 ## How Roland sees it (early arc)
 
-- Ch 15–16: Diagnosis shows large pathway stages in a flow. Technology fills knowledge gaps on encounter. Fire Orb trial = **five large regions** in a **linear chain** (giant letters). No binary / chips on-page.
+- Ch 15–16: Diagnosis shows large pathway stages in a flow. Technology fills knowledge gaps on encounter. Fire Orb trial = **four large regions** in a **linear chain** (giant letters). No binary / chips on-page.
 - Ch 19: segments are **large and linear**; pathways link stage to stage; shared rules across samples. Custom work = rearrange or swap **large stages** on a whole sheet (cut-paper overlays fail). Not a buried-code mystery.
 - Grafts are deliberate stage swaps on this causal model, not blind luck. Full unlock map: `RuneCauseEffect.md` (learn a job → use it immediately).
 

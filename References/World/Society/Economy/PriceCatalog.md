@@ -204,11 +204,11 @@ Size = level through the leader band. Above leader, guilds use stepped size band
 | Ink per T1 scroll | **~10 LC** (**5–15 LC** band) | Lock |
 | Ink T2 / T3 / T4 / T5 | **15 / 25 / 40 / 70 LC** | Lock |
 | Word Mana Arrow Intermediate (shop) | **3 SS** | Lock |
-| Word Mana Arrow Lowest → Highest (fair list) | **2 SS** / **2 SS 5 LC** / **3 SS** / **3 SS 5 LC** / **4 SS** | Lock (`ScrollEconomy.md`; η_craft; junk loss / scarcity) |
+| Word Mana Arrow Lowest → Highest (fair list) | **2 SS** / **2 SS 5 LC** / **3 SS** / **3 SS 5 LC** / **4 SS** | Lock (`ScrollEconomy.md`; half cast cost; junk loss / scarcity) |
 | Word Fire Arrow Intermediate (shop) | **6 SS** | Lock |
 | Word Fire Arrow Lowest → Highest (fair list) | **4 SS** / **5 SS** / **6 SS** / **7 SS** / **8 SS** | Lock (`ScrollEconomy.md`) |
-| Word Fireball Intermediate (shop talk) | **≈1 LS** | Lock |
-| Word Fireball Lowest → Highest (fair list) | **6 SS** / **8 SS** / **≈1 LS** / **1 LS 2 SS** / **1 LS 4 SS** | Lock (`ScrollEconomy.md`) |
+| Word Fireball Intermediate (shop talk) | **≈3 LS** (fair **3 LS 2 SS**) | Lock |
+| Word Fireball Lowest → Highest (fair list) | **2 LS** / **2 LS 5 SS** / **3 LS 2 SS** / **4 LS** / **4 LS 5 SS** | Lock (`ScrollEconomy.md`) |
 | Word Intermediate T3 / T4 / T5 (shop) | **2 LS 5 SS 3 LC** / **1 SG 2 LS 4 SS 7 LC** / **7 SG** | Lock |
 | Runic Orb of Light (dusty floor) | **≥1 LS** | Lock |
 | Runic Fire Arrow Common Low (dusty shelf) | **1.5–2 LS** vanity | Lock |
@@ -218,7 +218,7 @@ Size = level through the leader band. Above leader, guilds use stepped size band
 | Exeor settled High-only list | **10–12 SS** | Design |
 | Weekly ~10 High Fire Arrow gross | **~1 SG** | Lock feel |
 
-Cost engine (baseline scribe + pour × grade, shop cut, full table): `../../../Runes/ScrollEconomy.md`. Do not invent LC-per-mana tariffs.
+Cost engine (baseline scribe + half cast cost, shop cut, full table): `../../../Runes/ScrollEconomy.md`. Craft lock: `../../../Runes/MagicScrollMaking.md`. Do not invent LC-per-mana tariffs.
 
 ---
 
@@ -414,7 +414,7 @@ Use when a scene needs a price with no lock. Locks above win on conflict.
 | Simple runic repair **1 SG** | **~3 LS** |
 | Crystal ball **10 / 20 SG** | **4 / 8 SG** |
 | Black-market entry **5 SG** | **2 SG** |
-| Scroll shop Mana Arrow **1 SS** / Fire Arrow **3 SS** / Fireball **~6 SS** | **3 SS** / **6 SS** / **≈1 LS** |
+| Scroll shop Mana Arrow **1 SS** / Fire Arrow **3 SS** / Fireball **~6 SS** | **3 SS** / **6 SS** / **3 LS 2 SS** |
 | Blanks ×10 at **9 SS** | **5 SS** |
 | Lodging monthly **5%** off | **10%** -> **270 LC** |
 
@@ -448,7 +448,7 @@ Counted: **88** with a specific amount / **348** with no amount found / **436** 
 | Assassin loot split | **>20 SG** sold / **15 SG** held / **+5 SG** girls | 17 |
 | Parting cash | **10 SG** | 19 |
 | Steel map discount | no amount found (percent only) | 19 |
-| Scrolls / blanks / ink | **3 SS** / **6 SS** / **≈1 LS** / **5 SS**/10 blanks | 20 |
+| Scrolls / blanks / ink | **3 SS** / **6 SS** / **3 LS 2 SS** / **5 SS**/10 blanks | 20 |
 | Dusty runic Fire Arrow | **2 LS** | 20 |
 | Auction / weekly / 15% | no amount found | 21-23 |
 | Mithril floor | **≥1 LG** | 27 |

@@ -1,6 +1,6 @@
 # Magic
 
-> Mana / path law: `Energy.md`. Named catalog: `Runes.md`. Metals / hosts: `../World/Materials/Metals.md`. Cast tables: `../World/Science/Energy/ManaCast.md`. Spell blurbs: `../Combat/Spells.md`. Spell→scroll vs rune gate: `SpellToCraftGate.md`. Unread scroll imbue idea (density / ink / channels): `ScrollImbue.md`.
+> Mana / path law: `Energy.md`. Named catalog: `Runes.md`. Metals / hosts: `../World/Materials/Metals.md`. Cast tables: `../World/Science/Energy/ManaCast.md`. Spell blurbs: `../Combat/Spells.md`. Scroll craft lock: `MagicScrollMaking.md`. Spell→scroll vs rune gate: `SpellToCraftGate.md`. Unread scroll imbue idea (density / ink / channels): `ScrollImbue.md`.
 
 ## Narrative
 
@@ -78,31 +78,30 @@ Surface symbols are not the whole working pattern. Working routes sit deeper and
 
 ### Magic scrolls (word / Mana Scribing)
 
-**Nature:** Different from enchantments and from runes. Chants and pathways are written down. The scroll is a **temporary magical pathway** that guides the user's own mana through a known spell form. It is **not** a rune machine and **not** a runic scroll.
+**Nature:** More like an enchantment: the chant words are written on the scroll. Reading mobilizes the reader's mana. Full craft lock: `MagicScrollMaking.md`.
 
-**Who can use:** Existing mana users only (mages / anyone with a working mana pool). Not for people with no mana.
+**Who can use:** Mages / anyone who can push mana. Non-mages cannot use magic scrolls.
 
-**How used:** User puts in **their mana** and **chants the words** (read aloud). The written pathway forces their magic to follow that form and cast the spell. The imprint covers gaps such as elemental affinity.
+**How used:** Read the written words. The reader's mana casts the spell. Maker affinity is imbued into the paper.
 
-**Point:** Cast a spell the user could not otherwise cast (wrong affinity, missing spell), or fire a known form from paper. Mage cross-affinity / form patch. Fuel is **mana only** (no stamina substitute). User always pays the cast; the scroll does not replace their pool.
+**Point:** Cast a spell the user could not otherwise cast (wrong affinity, missing spell), or fire a known form from paper. Fuel is **mana only**. User pays the designed cast cost.
 
-**Limit:** No user amplify. **Scroll quality** rates the product’s strength (Lowest→Highest). **Rune quality** is a different measure (perfection → `η_cond`). Craft pays spell cost ÷ η_craft (low quality costs extra). T1: Mage+Scribe. T2: elemental Mage. `ScrollAspects.md` / `ScrollEconomy.md`.
+**Limit:** No separate user amplify dial beyond paying a higher designed cast. Craft = **half** cast cost. Power = designed. Mundane paper: single use on cast. Magic paper: **2–5** uses until mana-threshold burn. T1: Mage + Mana Scribe. T2+: T2+ mage with the spell. `MagicScrollMaking.md` / `ScrollEconomy.md`.
 
 **Roland gate:** Spells he can cast himself, he can put on **magic scrolls**. That does **not** unlock a **rune** for the same spell, and a magic scroll is **not** a runic scroll. Intention extras on a body cast (follow a person, lock to a chosen target) stay on the cast / magic-scroll side until a real **rune** sample teaches them. Full lock: `SpellToCraftGate.md`.
 
 ### Runic scrolls
 
-**Nature:** Rules-based scrolls. A **rune** on a scroll host. **Only this scroll family can be used by anyone.** Completely separate from magic scrolls.
+**Nature:** Runes as artificial magical pathways on a scroll host. **Only this scroll family can be used by anyone.** Completely separate from magic scrolls. Full lock: `MagicScrollMaking.md`.
 
-**Limit:** Can be open-ended. User may feed extra energy up to the rank ceiling (`RuneSystem.md`). Scroll quality (strength) and rune quality (perfection / `η_cond`) stay separate (`ScrollAspects.md`). Rank is the tier dial for runes.
+**Limit:** Efficiency `η_cond` (20% blocks) sets activation cost for the same power. Rank is the tier dial (`RuneSystem.md`). Device attacking tags stay separate from rune efficiency (`ScrollAspects.md`). Scroll-host runes are almost always destroyed in one use.
 
-**Type 1: Energy cast (common)**
+**Type 1: Absorbing (common)**
 
-- User supplies **energy** to cast: **mana or stamina** (`Energy.md`: same cost from either pool).
-- Literally anyone can cast it (warriors, civilians, non-mages included), if they can pay the energy.
+- User activates; runes draw power from the user. Mages push mana. Non-mages pay **stamina**.
+- Activation cost for same power = base MP ÷ η (`MagicScrollMaking.md` table).
 
-**Type 2: Preloaded / prefilled (special)**
+**Type 2: Preloaded (special)**
 
-- **Special** runic scrolls can be **preloaded with mana** at craft (or charged before use). Already charged. Waiting to be activated.
-- Literally anyone can activate it.
-- Not the default for every shelf runic; when the beat calls a battery scroll, this is the type.
+- Spell stored in the runes at craft (or charged before use). Activation releases it (narrative or physical: squeeze, tear, hold out, small symbolic energy).
+- Anyone can activate. Not the default for every shelf runic.

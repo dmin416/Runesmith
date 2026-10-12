@@ -103,7 +103,7 @@ Star-steel hardness / toughness rows follow inspirational grade tables in `Metal
 | Star steel, pure (1095 base) | ~67 HRC (~900 HV) | Exceptional (K_IC ~60) | High | Corundum stones | Best sharpenable kitchen steel possible. Thin, keen edges that don't chip. |
 | Durasteel | 900-1,300 HV matrix, 2,800 HV carbides | Low (K_IC ~10-15) | Extreme | Corundum barely touches the carbides. Needs durium carbide or adamantium. | Longest working life. Coarser edge, chips at thin geometry unless clad. |
 | Mythril | ~180 HV | High | Low | Easy | Fruit and table knives. Nonreactive, no taste transfer. |
-| **Adamantium** | Beyond measurement | Never fails | Never dulls | Only through its weakness (magic or sound) | Ultimate. Shaped and honed once, sharp forever. |
+| **Adamantium** | Beyond measurement | Never fails | Never dulls | Casting-key resonance or electron-overload melt | Ultimate. Shaped and honed once, sharp forever. Can take runes with hard seating. |
 | Orihalcum, aurium | Soft | High | Low | Easy | Not knife metals. Bolsters and fittings only. |
 
 ### Adamantium Blades

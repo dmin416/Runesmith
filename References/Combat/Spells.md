@@ -1,6 +1,6 @@
 # Spells
 
-> **Design loot / named catalog.** Magic foundation: `../Runes/Magic.md`. Cast physics: `../World/Science/Energy/ManaCast.md`. Path law: `../Runes/Energy.md`. Hands timing vs physicalists: `MageDefense.md`.
+> **Design loot / named catalog.** Magic foundation: `../Runes/Magic.md`. Cast physics: `../World/Science/Energy/ManaCast.md`. Path law: `../Runes/Energy.md`. Physics-priced kinetic catalog (ideas): `KineticSpellList.md`. Hands timing vs physicalists: `MageDefense.md`.
 
 Named magic and commonly referenced spell effects. Runic scroll versions are noted when the text treats them as spells.
 
@@ -10,7 +10,7 @@ Named magic and commonly referenced spell effects. Runic scroll versions are not
 First seen: Chapter 5
 Focused mana projectile; early core mage spell. Tutorial clone demonstrates chant + palm form before the skill dump. Damage scales with Intelligence. Chapter 7–9 field use: egg-sized bolt after a full chant (*Source of all magic, heed my call!* / *Gather before me and strike down my enemies, Mana Bolt!* or shortened closing *Mana Bolt!*). Fine vs eyes and other weak spots; not rapid-fire. **Must chant while shaping**; shaping alone evaporates. Whisper chant works but lowers power. Panting or running collapses the cast. Aim can track with Dexterity / prior FPS habit. Chapter 27: lesser elemental grafts (same research track as Mana Arrow). Chapter 37: inscribed on bronze paddle wands (~75 MP per cast through the item).
 
-**Cast law:** `../Runes/Energy.md`. Voice mana steps and the bolt tables are in `../World/Science/Energy/ManaCast.md`. Goblin skull/eye clear on L1 normal from mid INT; hardness and aim still gate armor.
+**Cast law:** `../Runes/Energy.md`. Voice mana steps and the bolt tables are in `../World/Science/Energy/ManaCast.md`. Explosive-compression pricing idea: `KineticSpellList.md`. Goblin skull/eye clear on L1 normal from mid INT; hardness and aim still gate armor.
 
 ### Mana Arrow
 First seen: Chapter 10
@@ -78,11 +78,11 @@ Chanted large fire storm.
 
 ### Fire Arrow / Firebolt Arrow
 First seen: Chapter 20 (shop scrolls)
-Tier 2 fire projectile. Shop and runic prices, including Grimboodle's dusty shelf and fair High: `../Runes/ScrollEconomy.md` and `../World/Society/Economy/PriceCatalog.md`. Word craft: spell ÷ η_craft; T2 elemental Mage maker (`../Runes/ScrollAspects.md`). A Runesmith has to produce the runic form.
+Tier 2 fire projectile. Shop and runic prices, including Grimboodle's dusty shelf and fair High: `../Runes/ScrollEconomy.md` and `../World/Society/Economy/PriceCatalog.md`. Word craft: half cast cost; power designed; T2 elemental Mage (`../Runes/MagicScrollMaking.md`). A Runesmith has to produce the runic form.
 
 ### Fireball
 First seen: Chapter 20 (shop talk)
-Stronger fire AOE scroll; shop talk **≈1 large silver**. Word craft spell cost **100** (η_craft); shape family Ball (`BasicSpellShapes.md`). `../Runes/ScrollAspects.md`.
+Stronger fire AOE scroll; shop talk **≈3 large silvers**; fair Intermediate **3 LS 2 SS**. Word craft: cast **400** (Ball rung) → craft **200**; power designed; shape Ball (`BasicSpellShapes.md`, `KineticSpellList.md`). `../Runes/MagicScrollMaking.md`.
 
 ### Runic Fire Arrow
 First seen: Chapter 20 (Grimboodle shelf); Roland's product Chapter 22

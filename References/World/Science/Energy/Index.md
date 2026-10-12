@@ -27,6 +27,7 @@ Stones, cast tables, batteries, engines, motors, fans, pumps, compression, fligh
 
 ## Air and fluid
 
+- [FrictionNotes.md](FrictionNotes.md). Adhesion / DLC coatings / air bearings / labyrinth piston on no-bend stock
 - [Compression.md](Compression.md). Fire Piston, Frost, air cartridge, cloak compress-expand cooling (forgoes for cold rune)
 - [FanAirflow.md](FanAirflow.md). Fan φ/ψ power
 - [Pumps.md](Pumps.md). Lift, head, taps

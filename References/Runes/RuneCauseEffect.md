@@ -57,7 +57,7 @@ Add rows when a new sample teaches a new job. Do not invent jobs without a sampl
 
 | If he has … | He can build … |
 |---|---|
-| Fire converter + Orb shape + constrain + velocity | Fire Orb (already); any orb-shaped fire tool |
+| Fire converter + Orb shape + constrain | Fire Orb (already); any orb-shaped fire tool |
 | Fire converter alone (stripped from arrow/orb) | Torch, kettle heat, cook plate, forge assist, flame jet, fireball (new shape), Fire Arrow (if he has arrow body) |
 | Light converter + Orb shape | Light Orb; camp light; signal flare; dazzle if overcharged |
 | Light + attach/seek/sense **(both from rune samples)** | Homing light tag; targeting attack that rides the seeker onto a sensed mark |
@@ -91,8 +91,8 @@ Chapter numbers are rewrite anchors. Move samples earlier if the story does; **e
 
 | Learns | Does |
 |---|---|
-| Named five-stage fire orb chain; scribing skills | Working Fire Orb scroll in trial |
-| Fire converter + orb + constrain + velocity as distinct jobs | After class: redraws, variants, grenade ideas with Detonation |
+| Named four-stage fire orb chain; scribing skills | Working Fire Orb scroll in trial |
+| Fire converter + orb + constrain as distinct jobs | After class: redraws, variants, grenade ideas with Detonation |
 
 ### Ch 18: Impact schematic
 

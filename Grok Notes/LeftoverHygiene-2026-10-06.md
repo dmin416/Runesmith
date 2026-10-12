@@ -11,7 +11,7 @@ Draft hygiene note packing the leftover research-note issues that are still open
 Earlier audit issues addressed path-link fixes, OpenFixes dropped, Conflicts culled, StoryPrices↔ScrollEconomy aligned, Magic.md filled, adult MP 210, Mastery −10%/level. This note covers what's still open on main after those updates.
 
 **What was already fixed (do not re-open):**
-- StoryPrices ↔ ScrollEconomy alignment (Mana Arrow 3 SS, Fire Arrow 6 SS, Fireball ≈1 LS)
+- StoryPrices ↔ ScrollEconomy alignment (Mana Arrow 3 SS, Fire Arrow 6 SS, Fireball 3 LS 2 SS)
 - Magic.md / ScrollEconomy / ScrollCraftScrapes side-by-side lock
 - Adult MP 210 (`References/Progression/Attributes.md`)
 - Mastery −10%/level (`References/Ideas.md`)
@@ -139,7 +139,7 @@ Dusty shelf runic Fire Arrow (2 LS) is vanity markup over regular word Fire Arro
 ```
 
 **Canon:** `References/Runes/ScrollEconomy.md`, `References/Runes/ScrollCraftScrapes.md`, `References/Runes/Magic.md` now carry extensive side-by-side lock:
-- Word scrolls: mana-only fuel; scroll quality = strength; rune quality separate; craft pour = spell ÷ η_craft (low quality costs extra); T1 Mage+Scribe / T2 elemental Mage sheets; Diagnosis blank
+- Word scrolls: mana-only fuel; craft = half cast cost; power designed; rune quality separate; T1 Mage+Scribe / T2 elemental Mage sheets; Diagnosis blank (`MagicScrollMaking.md`)
 - Runic scrolls: mana or stamina, user-powered machine, amp to rank ceiling, Drawing works
 - Skills: Basic Mana Scribing for word; Basic Rune Scribing for runic
 - Timings: ~10 min Mana Arrow vs ~45 min Fire Orb runic (locked)
@@ -154,7 +154,7 @@ Dusty shelf runic Fire Arrow (2 LS) is vanity markup over regular word Fire Arro
 
 **Option (b) — Close out if sufficient:**
 ```
-- **Regular vs runic scroll craft:** Locked. Word scrolls (mana-only, no user amp, Diagnosis blank, Basic Mana Scribing) vs runic scrolls (mana or stamina, amp-capable, Drawing, Basic Rune Scribing). Scroll vs rune quality: ScrollAspects.md. Cost engine in ScrollEconomy / ScrollCraftScrapes / Magic. Open decisions (activation digits, P9 prepaid mix, exact runic mat cost) can defer until those beats are written.
+- **Regular vs runic scroll craft:** Locked in `MagicScrollMaking.md`. Word scrolls (mana-only, half cast craft, designed power, Diagnosis blank) vs runic scrolls (absorbing mana/stamina or preloaded, η table, Drawing, Basic Rune Scribing). Quality split: ScrollAspects.md. Coin engine: ScrollEconomy.md. Open: exact runic mat cost, T3+ sheets, Fire Arrow/Fireball ManaCast pins.
 ```
 
 ---
@@ -189,12 +189,12 @@ This clarifies the L8 @ 1 LS isn't a title law violation.
 **Canon:** `References/World/Materials/Metals.md` conversion lock:
 - Ag → mythril
 - Au → orihalcum (never hosts)
-- Ti → adamantium (clear glass, never hosts)
+- Ti → adamantium (stiff rune host; cast-final; resonance / electron-melt)
 
 **Proposal:** Add a clarifying note at the top of the Natural lean map (line ~142) **only if useful**:
 
 ```
-**Pre- vs post-conversion split:** Earth materials (silver Ag, gold Au, titanium Ti) show natural lean as **pre-conversion** imbue hosts. After conversion (Ag → mythril, Au → orihalcum, Ti → adamantium), the **conversion lock** in `Metals.md` wins: orihalcum and adamantium never host runes. Mythril is native superconducting host (mode, not lean). Do not invent new material law from this table.
+**Pre- vs post-conversion split:** Earth materials (silver Ag, gold Au, titanium Ti) show natural lean as **pre-conversion** imbue hosts. After conversion (Ag → mythril, Au → orihalcum, Ti → adamantium), the **conversion lock** in `Metals.md` wins: orihalcum never hosts; adamantium is a stiff host (hard seating). Mythril is native superconducting host (mode, not lean). Do not invent new material law from this table.
 ```
 
 **Note:** This is optional and soft. ManaMaterials is marked "design loot" and already states Metals.md wins. Only add the note if confusion risk is real.

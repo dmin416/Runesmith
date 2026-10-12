@@ -65,7 +65,7 @@ Order below is worst to best common path feel. These are full story jobs, not ef
 
 **Orihalcum** is antimagic. Enchanting it is like projecting a movie onto black velvet: the image is swallowed and nothing seats. It is plate, anvil damp and mage-hostile fittings, not a rune host.
 
-**Adamantium** carries little to no mana. Enchanting it is like projecting a movie onto clear glass: the image passes through and will not stick and its indestructible cast-final construction will not take alteration. It is not a rune host. It makes a great indestructible cover over a proper rune inlay set in a real path metal underneath.
+**Adamantium** is a stiff rune host. Enchanting and runing work; the frozen lattice makes seating harder (cast-in or resonance-cut grooves, more skill / paid setup). Once seated, path geometry is permanent. Shell over a softer path metal remains valid. Electron-overload melt energy: `../World/Materials/Metals.md`.
 
 Longer or thinner paths hurt motion and pile heat at once so thin iron lines cook first. Mundane silver and gold convert into mythril and orihalcum with those story jobs. Bronze, brass, tin, lead, bone, hide and scales stay unplaced until a beat needs them.
 
@@ -175,7 +175,7 @@ Converter input is cost × 10 J. Useful output is that input × η_cond × ambie
 
 - **Strain (corruption).** Waste energy passing through a path damages it directly at any temperature. Path life in casts = mass × strain capacity / waste per cast. Strain shows as dulled or mottled metal and rising path resistance with no heat tint. A damaged path wastes harder and cooks faster. Sharp corners and narrow sections concentrate strain.
 - **Heat.** Retained heat raises temperature and speeds strain. Heat damage follows the stages below. Each component has a rated flow at a safe steady temperature. Thermal conductivity, mass and geometry set how fast that heat leaves (`OverheatedMetals.md`).
-- **Burst limit.** A single cast fails the first section whose waste per kg exceeds its burst tolerance. Waste concentrates in narrow sections and small masses so those fail first. Metals: 4 percent of strain capacity per cast (iron about 2800 J/kg up through mythril-class stock, proposed). Living tissue: about 430 J/kg (section 10). Adamantium is not a path host so it is not on this burst ladder.
+- **Burst limit.** A single cast fails the first section whose waste per kg exceeds its burst tolerance. Waste concentrates in narrow sections and small masses so those fail first. Metals: 4 percent of strain capacity per cast (iron about 2800 J/kg up through mythril-class stock, proposed). Living tissue: about 430 J/kg (section 10). Adamantium is on the ladder as a stiff host: ordinary path waste does not bend it; electron-overload melt is a separate destroy path (`../World/Materials/Metals.md`), not the 4% burst analog.
 
 | Stage | Effect | Threshold |
 |---|---|---|
@@ -245,7 +245,7 @@ Useful tip energy and waste follow **rune-quality** η_cond and host job feel (`
 | Star steel | strong channel under load | holds under heavy channel use | very long |
 | Mythril | cleanest common host | barely warms | effectively permanent |
 
-Adamantium and orihalcum are not blade path hosts. Adamantium can cover a real inlay. Orihalcum swallows seating.
+Orihalcum is not a blade path host (swallows seating). Adamantium is a stiff blade path host (hard seating; prestige once set). Shell-over-softer-path remains valid.
 
 - Strain limits a blade long before heat does. Dirty hosts die first. Mythril lasts.
 - A rounded or damaged tip concentrates less and weakens the burst. A film of blood or other mana material on the blade helps surface seating. Grip material sets how cleanly flow passes from the wielder into the blade.
@@ -254,11 +254,11 @@ Adamantium and orihalcum are not blade path hosts. Adamantium can cover a real i
 
 Paper carries no meaningful mana flow so flow follows the ink line. A thin trace concentrates power in a tiny mass and paper conducts heat poorly. About 30 J into 0.1 g of paper reaches ignition (about 230 C). A 3 mana scroll with blood ink uses the body / blood path feel. Useful energy scales with that feel and ambient `A`. Absolute closed and open-air joules stay unset.
 
-The scroll is a fuse that is also the load. It burns when flow exceeds what the trace carries and it is single-use by nature. Stronger or fresher monster blood or star steel or mythril powder in the ink delays ignition. Wider traces spread heat. Mineral-treated paper resists ignition longer. Adamantium powder does not help as a path additive because adamantium is not a path host.
+The scroll is a fuse that is also the load. It burns when flow exceeds what the trace carries and it is single-use by nature. Stronger or fresher monster blood or star steel or mythril powder in the ink delays ignition. Wider traces spread heat. Mineral-treated paper resists ignition longer. Fine adamantium powder can stiffen a trace if the scribe can seat it; it is a hard additive, not a refuse.
 
 ### D. Enchanted metal plate
 
-Plate life is set by strain first. Life in casts = mass × strain capacity / waste per cast so a thicker plate and a cleaner host last longer. Iron fails first. Copper and steel last moderately. Darksteel and star steel last long. Mythril is effectively permanent for ordinary work. Adamantium is a cover, not the rune plate. Orihalcum will not take the enchant.
+Plate life is set by strain first. Life in casts = mass × strain capacity / waste per cast so a thicker plate and a cleaner host last longer. Iron fails first. Copper and steel last moderately. Darksteel and star steel last long. Mythril is effectively permanent for ordinary work. Adamantium plates that take a seated path are prestige-permanent under ordinary cast waste (electron-overload melt is a separate kill). Orihalcum will not take the enchant.
 
 Heat is secondary. Retained heat warms the plate each use and speeds strain. Narrow sections and sharp corners are hot spots. A corrupted plate looks dulled or mottled. It wastes harder and runs warmer than before. Eventually a joint loosens or a section opens. Running below the rated flow lasts far longer. Repair means re-plating the pattern or replacing fittings.
 
@@ -294,7 +294,7 @@ The body is a good living path (body / blood feel). It still breaks like flesh. 
 - Proposed bare physical cap lands near **473 × Rob** mana at the hand for an ordinary body path. Injury begins at the cap. The hand is mangled at twice the cap. Absolute section loads wait on unset waste digits.
 - Robustness is in adult-man equivalents for a 140 cm body and scales with height cubed as he grows (210 cm is 3.4 times).
 - Useful output from body casts still follows converter input × living-path feel × ambient `A`.
-- Fix: place a high-tolerance metal focus in the final section so the peak waste lands in metal. Mythril foci last. Adamantium cover can shield an inlay. Orihalcum will not seat as a channel.
+- Fix: place a high-tolerance metal focus in the final section so the peak waste lands in metal. Mythril foci last. Adamantium foci last if seated; shell-over-softer-path also works. Orihalcum will not seat as a channel.
 
 **Instantaneous channel limit.** Mana expands and contracts explosively so a cast is not limited by intake or recovery. Three things limit it: mental focus, robustness and the tissue's capacity to withstand.
 

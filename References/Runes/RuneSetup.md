@@ -109,7 +109,7 @@ M = sqrt(strain capacity / 140). Capital against running cost. Cleaner path host
 | Star steel | 2.00 | 2,000 | strong durable channel stock |
 | Mythril | 2.83 | 2,830 | cleanest common host |
 
-Orihalcum and adamantium are not setup hosts. Orihalcum swallows seating. Adamantium will not take alteration and may only cover a real inlay underneath.
+Orihalcum is not a setup host (swallows seating). Adamantium **is** a setup host but a stiff one: cast-in grooves or resonance-cut lines, more seating work than mythril; shell-over-softer-path remains valid.
 
 Mythril costs about 4 times iron to set and lasts far longer under the same cast load.
 
@@ -175,7 +175,7 @@ Totals use unrounded factors (shown here to enough decimals to reproduce by hand
 ## Considerations
 
 - Early tension. A Lesser rune costs 900 at L1. Street all-15 bare MP is **210** (`../Progression/Attributes.md`), so early setup is several street pools or needs stone banks (canon: running out of mana while crafting basic runes is a main early tension). At 20 mana per minute that is 45 min which matches the canon Fire Orb runic scroll at about 45 min if that scroll sits at C 1.
-- Scroll day (**runic** setup, not word η_craft). A Common Fire Arrow costs 2,000 at L0. Canon 5 to 6 a day costs 5,500 at L5 against bare street MP **210** (all-15 example) that is many pool-fills; stones and ambient absorb carry the grind. That matches the canon L5 drain (Ch 22). Word Mana Scribe engine uses classed pools (`ScrollAspects.md` MP **910** / **1,610**). The crafter finishes at zero and takes the canon headache and next-day regen debuff. At L9 the same day costs 1,100 (~5.2 street pools).
+- Scroll day (**runic** setup, not word half-cast craft). A Common Fire Arrow costs 2,000 at L0. Canon 5 to 6 a day costs 5,500 at L5 against bare street MP **210** (all-15 example) that is many pool-fills; stones and ambient absorb carry the grind. That matches the canon L5 drain (Ch 22). Word Mana Scribe engine uses classed pools (`MagicScrollMaking.md` MP **910** / **1,610**). The crafter finishes at zero and takes the canon headache and next-day regen debuff. At L9 the same day costs 1,100 (~5.2 street pools).
 - Quality is free at build. Every crafter builds the best quality reachable. Skill and comprehension gate the reach and mana does not.
 - Skill drives price. An L9 crafter sets the same rune for one ninth of an L1 crafter's mana (100 against 900 at Lesser) so masters undercut novices by nine times before wages. Scroll price can track setup mana. Dusty shelf runic Fire Arrow can list ~6–7× a cheap regular (**vanity**); fair High Common is **10 SS** vs word Fire Arrow **6 SS** (`ScrollEconomy.md`).
 - Setup is small next to a run. An airship setup at L0 is tens of street-all-15 pools (far fewer at L9) against a 95 GJ run. Stone banks and ambient intake carry activation (rune file, Power source) and setup stays a crafter's job. Team pour (O4) only buys speed.

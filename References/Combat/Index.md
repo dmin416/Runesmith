@@ -19,5 +19,6 @@ Up: [References](../Index.md)
 - [ShieldRuneDefense.md](ShieldRuneDefense.md). Redirecting the strike is the most effective option. Stopping it, hardening the shield and bashing back each solve a different part of the problem and cost
 - [SpeedVsIntellect.md](SpeedVsIntellect.md). Think time vs move time when INT and physical stats diverge. Mage Hands / instant magic: Combat.md, MageDefense.md. Earth RT anchors: ../World/Science/Body/SpeedPerception.md. Sound / ping limits sit at the end.
 - [Spells.md](Spells.md). Design loot / named catalog. Magic foundation: ../Runes/Magic.md. Cast physics: ../World/Science/Energy/ManaCast.md. Path law: ../Runes/Energy.md. Hands
+- [KineticSpellList.md](KineticSpellList.md). **Ideas.** Physics-priced kinetic / compression spells; explosive `(MP÷25)²`; Bolt 25 / Arrow 50 / Ball 400.
 - [BasicSpellShapes.md](BasicSpellShapes.md). Ideas. Bolt = egg, Arrow = arrow, Spear = spear, Shield = shield, Ball/Fireball ≈ softball (volleyball = fat/overcharge).
 - [Weapons.md](Weapons.md). Design loot. Hardness / pierce gates: ../World/Science/Energy/ManaCast.md. Attack map: AttackScale.md. Bows / crossbows / limb materials: Bows.md. Light

@@ -109,7 +109,7 @@ Both pathways multiply by `A` after their own efficiency term. Fully sealed rune
 
 ### Temporary magic
 
-Magical phenomena that are not enchanted or runed are temporary. Earth walls, ice, fire, and similar hit hard while they exist, then fade fast. A fireball can cost the same as a shield and feel grenade-scale while active, but when the spell ends the ground is not baked and bodies are not lava. Mana pays the spell effect, not lasting leftover real-world energy. Fire and similar break hard joule ladders; treat scale as narrative feel, not thermal inventory after the spell is gone.
+Magical phenomena that are not enchanted or runed are temporary. Earth walls, ice, fire, and similar hit hard while they exist, then fade fast. A fireball (Ball rung **~400 MP**) hits far harder than a basic shield (**~100 MP**) and can feel grenade-scale while active, but when the spell ends the ground is not baked and bodies are not lava. Mana pays the spell effect, not lasting leftover real-world energy. Fire and similar break hard joule ladders; treat scale as narrative feel, not thermal inventory after the spell is gone.
 
 **Fire's chemical energy is not the spell's energy.** A fire spell is an ignition source. With fuel present the fuel's own energy follows and is not part of the spell budget. With no fuel the fire is capped by the spell's Useful output. Do not scale mana cost by how energetic fire is in general.
 
@@ -189,7 +189,7 @@ Host material is a second **narrative** feel axis (dirty iron vs clean mythril),
 - **Body / blood ink:** living path. Excellent handling; still breaks like flesh.
 - **Mythril:** cleanest common host for reusable runic gear.
 - **Orihalcum:** antimagic. Prime proof that mana conductivity ignores electricity: gold conducts current well; orihalcum swallows mana. Enchanting it is like projecting a movie onto black velvet: the image is swallowed and nothing seats. Not a rune host.
-- **Adamantium:** carries little to no mana. Enchanting it is like projecting a movie onto clear glass: the image passes through and will not stick and its indestructible cast-final body will not take alteration. Not a rune host. It makes a great indestructible cover over a proper rune inlay (mythril or other real path metal underneath).
+- **Adamantium:** stiff rune host. Can be enchanted and runed; seating takes more work and skill because the frozen lattice will not yield (cast-in grooves or resonance-cut lines). Once seated, path geometry is permanent. Mythril stays easier for everyday gear. Detail / electron-melt costs: `../World/Materials/Metals.md`.
 
 Direct casts never use η_cond. A mythril wand does not buff Mana Bolt; it only helps the **rune path** seated on it.
 

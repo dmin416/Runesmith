@@ -1,6 +1,6 @@
 # Basic Spell Shapes
 
-> **Ideas / feel note.** Named catalog: `Spells.md`. Cast physics: `../World/Science/Energy/ManaCast.md`. Magic families: `../Runes/Magic.md`. Fire Orb stages: `../Runes/RuneCauseEffect.md`. Do not override locked Bolt egg size or Arrow kinetic tables.
+> **Ideas / feel note.** Named catalog: `Spells.md`. Cast physics: `../World/Science/Energy/ManaCast.md`. Physics-priced kinetic catalog: `KineticSpellList.md`. Magic families: `../Runes/Magic.md`. Fire Orb stages: `../Runes/RuneCauseEffect.md`. Do not override locked Bolt egg size or Arrow kinetic tables.
 
 ## Shape family (early mage kit)
 
@@ -51,7 +51,7 @@ Naming: Bolt / Arrow / Spear / Shield / Ball are the form words. **Fireball** = 
 
 Locked voice baselines (`ManaCast.md`): **Bolt** normal **25** mana; **Arrow** **50** (2× Bolt); **Shield** baseline **100** (4× Bolt).
 
-Shop word-scroll fair Intermediate (`ScrollEconomy.md`): Mana Arrow **3 SS**, Fire Arrow **6 SS**, **Fireball ≈ 1 LS**. Craft pour = spell ÷ η_craft (Arrow spell **50**, Fireball craft **100**).
+Shop word-scroll fair Intermediate (`ScrollEconomy.md`): Mana Arrow **3 SS**, Fire Arrow **6 SS**, **Fireball 3 LS 2 SS**. Craft = half cast (Arrow **25**, Fireball **200**); power designed (`../Runes/MagicScrollMaking.md`). Ball cast **400** (`KineticSpellList.md`).
 
 ### Elementalization
 
@@ -59,20 +59,20 @@ Converter / phase-change law (`ManaMaterials.md`): pure mana → Fire (or other 
 
 Affinity gates who can cast or scribe the elemental form. Roland at **0%** fire: no body Fireball; word scroll or runic Fire Orb instead.
 
-Scroll quality ≠ rune quality; craft pour = spell ÷ η_craft: `../Runes/ScrollAspects.md`. Shop Intermediate Fireball **≈1 LS**. Body Fire Arrow / Fireball voice still open in `ManaCast.md` (craft Fire Arrow uses Arrow **50**; craft Fireball **100**).
+Craft = half cast; power designed: `../Runes/MagicScrollMaking.md`. Shop Intermediate Fireball **3 LS 2 SS**. Body Fire Arrow voice still open in `ManaCast.md`.
 
 ## Open
 
 - Whether pure **Mana Ball** or **Mana Spear** exist as T1 skills or only show up as elemental / runic forms.
 - Whether Shield’s initial bubble diameter should track Ball (softball) or stay independent (likely independent).
 - Exact cm when a chapter needs a measure; until then use egg / arrow / spear / shield / softball wording.
-- Pin Fire Arrow / Fireball voice tables in `ManaCast.md`.
+- Pin Fire Arrow voice in `ManaCast.md`. Fireball cast follows Ball rung **400** (`KineticSpellList.md`) until ManaCast writes an elemental voice.
 
 ## Cross-links
 
 - Catalog blurbs: `Spells.md`
 - Bolt / Arrow / Shield math: `../World/Science/Energy/ManaCast.md`
 - Fire Orb rune stages: `../Runes/RuneCauseEffect.md`
-- Shop Fireball **≈1 LS**: `../Runes/ScrollEconomy.md`
+- Shop Fireball **3 LS 2 SS**: `../Runes/ScrollEconomy.md`
 - Scroll vs rune quality: `../Runes/ScrollAspects.md`
 - Element phase change: `../Runes/ManaMaterials.md`

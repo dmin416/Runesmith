@@ -15,8 +15,9 @@ Up: [References](../Index.md)
 - [Runes.md](Runes.md). Named catalog + **ranks/grades with story examples**. Path / ambient law: Energy.md. Magic nature: Magic.md.
 - [RuneSetup.md](RuneSetup.md). Design loot. Live locks: Energy.md (rune-quality η_cond, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md (Ag mythril, Au orihalcum, Cu
 - [RuneSystem.md](RuneSystem.md). Rank Scale (joule ceilings) + **Story feel** table; stages, harmonics, layout.
-- [ScrollAspects.md](ScrollAspects.md). **Lock.** Scroll quality ≠ rune quality. Craft pour = spell ÷ η_craft. T1 Mage+Scribe / T2 elemental Mage sheets.
-- [ScrollCraftScrapes.md](ScrollCraftScrapes.md). Design loot. Live buyer / fuel lock: Magic.md + Energy.md. Quality split: ScrollAspects.md. Shop prices / fair bands: ScrollEconomy.md. Metals: ../World/Materials/Metals.md.
-- [ScrollEconomy.md](ScrollEconomy.md). Design loot. Word cost engine: classed sheets + η_craft pours; Intermediate shelves + grade tables. Spell blurbs: ../Combat/Spells.md.
-- [ScrollImbue.md](ScrollImbue.md). **Unread idea.** Substrate density / resistance / ink / channel imbue+charge model. Not a lock.
+- [MagicScrollMaking.md](MagicScrollMaking.md). **Lock.** Magic vs runic scrolls; craft = half cast cost; paper tiers / multi-use; ink narrative; designed power; runic absorbing/preloaded + η activation table; casting damage.
+- [ScrollAspects.md](ScrollAspects.md). **Lock.** Scroll device grade ≠ rune `η_cond`. Points at MagicScrollMaking.md for craft.
+- [ScrollCraftScrapes.md](ScrollCraftScrapes.md). Design loot. Live buyer / fuel lock: Magic.md + Energy.md. Craft lock: MagicScrollMaking.md. Shop prices / fair bands: ScrollEconomy.md. Metals: ../World/Materials/Metals.md.
+- [ScrollEconomy.md](ScrollEconomy.md). Design loot. Word cost engine: classed sheets + half cast cost; Intermediate shelves + grade tables. Spell blurbs: ../Combat/Spells.md.
+- [ScrollImbue.md](ScrollImbue.md). **Unread idea.** Substrate density / resistance / ink / channel imbue+charge model. Not a lock. Live ink / imbue: MagicScrollMaking.md.
 - [SpellToCraftGate.md](SpellToCraftGate.md). Rewrite lock. Magic scroll ≠ runic scroll. Castable spell → magic scroll OK; castable spell → rune / runic scroll no. Intention extras (follow / mind-lock target) stay sample-gated.

@@ -1,0 +1,14 @@
+---
+description: No shorthand, slang, or notes jargon in story prose; never explain or justify unasked
+alwaysApply: true
+---
+
+# Story Plain Prose
+
+Chapter text in `Story/Chapters/` is narrative only. The story is the author's.
+
+- Never paste reference shorthand, note labels, slang, or wiki jargon into the story.
+- Keep coin math and craft facts in words Roland would think. Leave sheet terms in References / Notes.
+- If a fact must land in prose, say it in ordinary language. Do not import the sheet name for it.
+- Never explain, justify, teach, or clarify anything unless the user explicitly orders that beat.
+- Do not add "why this matters," background for the reader, or hand-holding. Assume the author and reader already know.

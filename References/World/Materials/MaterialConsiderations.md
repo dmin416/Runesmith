@@ -1,69 +1,32 @@
 # Materials Considerations
 
-> **Design loot.** Not locked law. Locked metals stay in `Metals.md` and `Materials.md` (adamantium is cast-final, a heat spreader, and weak to sound resonance; it does not bend). These notes are later invent ideas. Prefer locked text on conflict. Promote a row only when a beat needs it.
+> **Design loot.** Not locked law. Locked metals stay in `Metals.md` and `Materials.md`. **Adamantium is the perfectly rigid metal** (frozen lattice, no bend, cast-final; stiff rune host; destroy = casting key or electron-overload melt). Prefer locked text on conflict. Promote a row only when a beat needs it.
 >
-> Earth insulation ladder (aerogel, vacuum, shuttle tiles, effusivity): `InsulationMaterials.md`. Motor and flywheel use of these stocks: `../Science/Energy/ElectricMotors.md`, `../Science/Energy/FlywheelStorage.md`. Quiet dryer that uses the rigid shell: `../Science/Energy/QuietBlowDryer.md`. Cast law: `../../Runes/Energy.md` (1 mana = 10 J).
+> Earth insulation ladder (aerogel, vacuum, shuttle tiles, effusivity): `InsulationMaterials.md`. Friction, DLC, air bearings, labyrinth piston on adamantium / no-bend stock: `../Science/Energy/FrictionNotes.md`. Motor and flywheel use: `../Science/Energy/ElectricMotors.md`, `../Science/Energy/FlywheelStorage.md`. Quiet dryer on rigid shell: `../Science/Energy/QuietBlowDryer.md`. Cast law: `../../Runes/Energy.md` (1 mana = 10 J).
 
 ---
 
-## Perfectly Rigid Material
+## Perfectly Rigid Material (= adamantium)
 
-A truly perfectly hard material whose molecules don't vibrate.
+**Lock home:** `Metals.md` (converted Ti). This section is not a second metal.
 
-### Core Rule
+Adamantium atoms do not vibrate after set. No stretch, no bend, no ordinary failure. Force moves the whole piece. Heat and electricity live in the electron sea. Stiff rune/enchant host. Destroy: casting key (street) or electron-overload melt (rare; ~470k–980k mana/kg).
 
-A perfectly rigid object has no internal vibration. The only way it can take in energy is by moving or rotating as one whole piece.
+### Dead Soft claims (superseded)
 
-### Does Heat Get Through?
+Old invent rows here that **contradict** the lock. Do not use:
 
-No. The particles that carry heat are far too small to move a perfectly rigid object enough to pass anything to the other side. A perfectly rigid solid is a near-perfect thermal insulator, not a conductor.
+- Thermal insulator / “fire on one side, cool on the other” → adamantium is an electron **heat conduit**
+- Immune to resonance / forever silent → casting-key resonance is the primary destroy; strikes build a pure key hum
+- Electrical insulator → exceptional conductor (~2.4 nΩ·m cold)
+- Perfect mirror / cannot absorb light as the only optical rule → not locked
+- Old "clear glass, never hosts runes" → dead; stiff enchant/rune host is locked in `Metals.md`
 
-| What Hits a 2 kg Brick | Mass | Speed | Brick Moves At |
-|---|---|---|---|
-| One air molecule (room temp) | ~0.00000000000000000000000005 kg | ~500 m/s | ~0.00000000000000000000001 m/s |
-| A falling snowflake | ~3 mg | ~1 m/s | ~1.5 micrometers per second |
-| A sword strike | ~1.5 kg | ~10+ m/s | Several m/s |
+### Still true (matches lock)
 
-- **One molecule:** Transfers roughly one ten-trillion-trillionth of its energy to the brick. Effectively nothing.
-- **Billions of molecules:** They hit from every side at random and cancel each other out.
-- **The whole brick's thermal motion:** At room temperature, all the heat the entire rigid brick can hold makes it drift at about 0.00000000005 m/s. That's about one atom's width every two seconds.
-
-### Snow on a Brick
-
-- **The snowflake's weight and impact:** A real push. It moves the whole brick a tiny but real amount, and the bottom moves the same amount instantly. That's mechanical force, not heat.
-- **The snow's coldness:** Lives in the jiggling of individual water molecules. Those are far too light to move the brick, so the cold never reaches the other side.
-
-### Properties
-
-- **Heat and cold:** Blocked almost completely. Fire on one side, comfortable on the other.
-- **Radiant heat:** Blocked as well if the surface reflects light, since it can't absorb it.
-- **Touch:** Feels faintly warm to the hand because it never draws body heat away.
-- **Impacts:** Swords, arrows, hammers and snowballs are massive enough to move it as a whole. Collisions rebound fully, knockback still applies and force spreads evenly across every contact point.
-- **Light:** Can't absorb light without heating, so it reflects or transmits all of it. A perfect mirror or perfectly clear.
-- **Sound:** Silent when struck and immune to resonance. The only sound comes from whatever hits it.
-- **Electricity:** Insulator.
-- **Fabrication:** Can't be cut, bent, melted or engraved. Its final shape and any inscriptions have to be set at creation.
-
-### Uses
-
-- **Armor:** Protects anyone from fire, frost and elemental heat. Rebounds weapon strikes back into the attacker's blade.
-- **Insulation:** Perfect walls for forges, furnaces, cold storage and Lili's lava chambers.
-- **Weapon breaker:** Shields and bracers that send full impact energy back into enemy weapons.
-- **Light reflector:** Turns flash attacks and light spells back toward the caster.
-
-### Weaknesses
-
-- **Knockback:** Momentum still moves the wearer.
-- **Unrepairable and unalterable:** Any mistake in its shape is permanent.
-- **Mana behavior:** Undecided.
-
-### Name Ideas
-
-- Stillstone
-- Null Lattice
-- Stasis Steel
-- Mirror Adamant
-- Quiet Metal
+- Impacts shove the whole piece; knockback and force transmission stay
+- Cast-final; unrepairable / unalterable after set
+- Armor needs insulation under plate against sustained heat; joints and the wearer remain the weak points
 
 ---
 
@@ -120,7 +83,7 @@ Earth metallurgy companion (composition, melt, work, shape set, Hawaiian mass ba
 - **Perfect spring:** Fatigue-free superelasticity stores mechanical energy indefinitely.
 - **Artificial muscle:** Wire contracts when heated, enabling golems, prosthetics, locks and powered joints.
 - **Mana conductivity:** Better than pure adamantium thanks to the nickel half.
-- **Inherited weakness:** Takes on adamantium's weakness (magic or sound, undecided). Locked adamantium weakness today is sound resonance (`Metals.md`).
+- **Inherited weakness:** Takes on adamantium's casting-key resonance (primary). Electron-overload melt remains a rare high-end path on the parent metal (`Metals.md`).
 
 ### Flavor Details
 
@@ -191,11 +154,11 @@ Diamond already does it:
 ### Limits
 
 - Near-perfect hardness and conductivity are possible. Truly perfect versions of either aren't, and magic covers that last step.
-- It needs some internal vibration to carry heat, so it can never be perfectly rigid. A perfectly rigid material becomes an insulator instead.
+- Carbon invent path: lattice vibration / phonon heat. Separate from adamantium's frozen lattice + electron heat (`Metals.md`).
 
 ### Fantasy Fit
 
-- Carbon-based, not metal. Titanium and adamantium conduct electricity and titanium is a poor heat conductor. Locked adamantium is already a heat spreader (`Metals.md`). This note is the carbon / diamond path, not a retcon of that.
+- Carbon-based, not metal. Locked adamantium is already the perfectly rigid electron heat spreader (`Metals.md`). This note is the carbon / diamond path beside it, not a second rigid metal.
 
 ### Uses
 
@@ -211,7 +174,7 @@ Diamond already does it:
 
 | Material | Hardness | Heat | Electricity | Workable After Creation |
 |---|---|---|---|---|
-| Perfectly Rigid Material | Perfect | Blocks almost completely | Insulator | No |
+| Adamantium (perfectly rigid) | Perfect (frozen lattice) | Electron conduit (~3,000 W/m·K) | Exceptional conductor | No (cast-final) |
 | Mana-Saturated Nitinol | Indestructible when hot, soft when cool | Triggered by it | Conducts | Only in the soft state |
 | Hard Insulating Heat Conductor | Near-diamond | Conducts nearly perfectly | Insulator | Shaped before finishing |
 

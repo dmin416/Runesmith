@@ -234,7 +234,7 @@ Working at unskilled mid **~7.5 LC/day**:
 | Debt / criminal labor contract, unskilled | **1–3 SG** | ~1–3 years wages |
 | Classed / skilled contract | **5–20+ SG** | Skill multiplies |
 
-**Roland scroll income check:** settled High Common Fire Arrow at **~10 SS** each, **~10/week** → **~1 SG/week** gross (~**1 LS/day** before fees). About **10×** a steady classed crafter day. Rare skill, high income, still far below landed nobility. Word-scroll cost engine: `../../../Runes/ScrollEconomy.md` (Mage+Scribe / elemental Mage sheets; η_craft pours; Mana Arrow Intermediate **3 SS**; Fire Arrow Intermediate **6 SS**; separate from runic brand).
+**Roland scroll income check:** settled High Common Fire Arrow at **~10 SS** each, **~10/week** → **~1 SG/week** gross (~**1 LS/day** before fees). About **10×** a steady classed crafter day. Rare skill, high income, still far below landed nobility. Word-scroll cost engine: `../../../Runes/ScrollEconomy.md` (Mage+Scribe / elemental Mage; half cast cost; Mana Arrow Intermediate **3 SS**; Fire Arrow Intermediate **6 SS**; separate from runic brand).
 
 ---
 

@@ -2,7 +2,7 @@
 
 > **Ideas / design loot.** Family trees, damage map, multi-mechanism math, and worked examples live in `ResistanceImmunitySystem.md` (Thermal / Kinetic / Bodily / **Sustenance**). This file only keeps **leveling meters** for Suffocation (and fused Sustenance) so breath and blood do not share one false clock.
 >
-> Live hubs win: `SkillsDesign.md`, `SkillRanks.md`, Breath Control, Sleep Resistance.
+> Live hubs win: `SkillsDesign.md`, `SkillRanks.md`, Breath Control, Sleep Resistance. Earth blood / trail feel: `../World/Science/Body/BloodNotes.md`.
 
 Retired names from older drafts: **Undying Body**, **Survival** family, **Starvation** (split into **Thirst** + **Hunger**), **Pure Blood**, **Iron Will**. Use **Sustenance Immunity** and **Bodily Immunity**.
 
