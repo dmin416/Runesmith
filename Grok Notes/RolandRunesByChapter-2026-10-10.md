@@ -179,34 +179,11 @@ Chapter-ordered list of runes Roland Arden (D) has crafted or created in complet
 
 ### Runic Mana Bolt (First Pure-Mana Runic Attack)
 - **Item**: Runic Mana Bolt scroll
-- **Rank/Quality**: Lesser (quality unspecified; working seat)
+- **Rank/Quality**: Lesser (Highest schematic; working seats)
 - **Method**: Built from shared Orb-shape spine + small-mana compression block (Bolt's squeeze)
 - **MP Cost**: Designed cast 25 MP (same as Orb)
 - **Characteristics**: First pure-mana runic attack scroll in his kit; 0% affinity still fine (runic scrolls don't require affinity); no detect-contact portion (pop is compression constraint coming undone on impact)
-- **Cite**: `Story/Chapters/19-30.md` Ch 21.5 line 503; `Story/Notes/Chapter21_5.md` Bolt section
-
-### Fireball Scroll (Component Swap Success)
-- **Item**: Runic Fireball scroll
-- **Rank/Quality**: Lesser (quality unspecified; working seat)
-- **Method**: Aqua Ball shape + fire converter swap; "laughably easy" once Aqua Ball mastered
-- **MP Cost**: Designed cast unspecified (likely ~50 MP per Ball baseline)
-- **Characteristics**: Component swap technique demonstration; lazy grafts with unmodified ratios still work; Diagnosis marks what's wrong as long as paper doesn't spontaneously burn
-- **Note**: Fireball ≠ "Fire Ball" in this context; prose uses "Fireball" as spell name
-- **Cite**: `Story/Chapters/19-30.md` Ch 21.5 line 503 (implied in "months went into Fire Arrow after that"); `Story/Notes/Chapter21_5.md` swap section lines 109-110
-
-### Water Arrow Scroll (Component Swap)
-- **Item**: Runic water arrow scroll
-- **Rank/Quality**: Lesser (quality unspecified; working seat)
-- **Method**: Arrow body + water converter swap
-- **Characteristics**: Easy swap following component technique
-- **Cite**: `Story/Chapters/19-30.md` (implied in Ch 21.5 experiments); `Story/Notes/Chapter21_5.md` swap section line 111
-
-### Light Ball Scroll (Component Swap)
-- **Item**: Runic light ball scroll
-- **Rank/Quality**: Lesser (quality unspecified; working seat)
-- **Method**: Ball shape + light converter swap
-- **Characteristics**: Easy swap following component technique
-- **Cite**: `Story/Chapters/19-30.md` (implied in Ch 21.5 experiments); `Story/Notes/Chapter21_5.md` swap section line 111
+- **Cite**: `Story/Chapters/19-30.md` Ch 21.5 line 503; `Story/Notes/Chapter21_5.md` Bolt section; `Story/Notes/Experience.md` Ch 21.5 (schematic +1000 XP)
 
 ### Experimentation Results (Skip Period)
 - **Ratio Surgery**: Component size ratios extremely important for mana processing; forcing ratio changes barely works (slight altered results, heavy inefficiency); scaling whole diagram smaller lowers both input and output cleanly
@@ -218,10 +195,117 @@ Chapter-ordered list of runes Roland Arden (D) has crafted or created in complet
 ### Common Fire Arrow Schematic [Highest]
 - **Rank/Quality**: Common, Highest
 - **Method**: Perfect schematic from shop Fire Arrow sample (Diagnosis breakdown after mastering shape-family kit)
-- **XP**: +2000 XP (2× lesser schematic XP = Common baseline)
+- **XP**: +2000 XP (2× lesser schematic XP = Common baseline; early in skip)
 - **Time**: Created after shape discoveries, before month-1 FA production push
 - **Characteristics**: Arrow body shared with other elemental arrows; Common grade harder than Lesser (double schematic size, ~L4+ scribing before manageable)
-- **Cite**: `Story/Notes/Chapter21_5.md` FA track section; `Story/Chapters/19-30.md` Ch 21.5 (implied in comet batch outcome)
+- **Cite**: `Story/Notes/Chapter21_5.md` FA track section; `Story/Notes/Experience.md` Ch 21.5; `Story/Chapters/19-30.md` Ch 21.5
+
+### Orb of Light Schematic [Highest]
+- **Rank/Quality**: Common, Highest
+- **Method**: Shop sample (Orb of Light 1 LS) → light segment isolate → full perfect schematic
+- **XP**: +2000 XP (Common; 2× lesser)
+- **Characteristics**: Light orb with intangible leash (ties effect to relative object so it can follow); leash is not kinetic shove or attack seek-homing; soft relative attach
+- **Cite**: `Story/Notes/Experience.md` Ch 21.5 line 389; `References/Items/ScrollRuneAbilities.md` Fire Orb vs Orb of Light section
+
+### Aqua Ball Schematic [Highest]
+- **Rank/Quality**: Common, Highest
+- **Method**: Shop sample (Aqua Ball 1 LS) → water segment isolate → full perfect schematic
+- **XP**: +2000 XP (Common; 2× lesser)
+- **Characteristics**: Water ball; Ball shape + water converter; moderate compression band
+- **Cite**: `Story/Notes/Experience.md` Ch 21.5 line 390; `Story/Notes/Chapter21_5.md` isolate section
+
+### Mana Bolt (Runic) Schematic [Highest]
+- **Rank/Quality**: Lesser, Highest
+- **Method**: Built from shared Orb-shape spine + small-mana compression block (Bolt's squeeze) + pure mana converter
+- **XP**: +1000 XP (Lesser)
+- **Characteristics**: First pure-mana runic attack; Bolt shape + soft hold compression; no detect-contact portion (pop is compression coming undone on impact)
+- **Cite**: `Story/Notes/Experience.md` Ch 21.5 line 391; `Story/Notes/Chapter21_5.md` Bolt section
+
+### Fire Bolt Schematic [Highest]
+- **Rank/Quality**: Lesser, Highest
+- **Method**: Bolt shape + fire converter swap; component swap technique
+- **XP**: +1000 XP (Lesser)
+- **Characteristics**: Fire version of Mana Bolt; soft hold compression on Bolt shape
+- **Cite**: `Story/Notes/Experience.md` Ch 21.5 line 392; `References/Items/ScrollRuneAbilities.md` derived runes
+
+### Water Bolt Schematic [Highest]
+- **Rank/Quality**: Lesser, Highest
+- **Method**: Bolt shape + water converter swap
+- **XP**: +1000 XP (Lesser)
+- **Characteristics**: Water version of Mana Bolt; soft hold compression
+- **Cite**: `Story/Notes/Experience.md` Ch 21.5 line 392; `References/Items/ScrollRuneAbilities.md` derived runes
+
+### Light Bolt Schematic [Highest]
+- **Rank/Quality**: Lesser, Highest
+- **Method**: Bolt shape + light converter swap
+- **XP**: +1000 XP (Lesser)
+- **Characteristics**: Light version of Mana Bolt; soft hold compression
+- **Cite**: `Story/Notes/Experience.md` Ch 21.5 line 392; `References/Items/ScrollRuneAbilities.md` derived runes
+
+### Aqua Orb Schematic [Highest]
+- **Rank/Quality**: Lesser, Highest
+- **Method**: Orb shape + water converter; Orb seat (mid complexity)
+- **XP**: +1000 XP (Lesser)
+- **Characteristics**: Water orb; mid compression on Orb shape
+- **Cite**: `Story/Notes/Experience.md` Ch 21.5 line 393
+
+### Light Arrow Schematic [Highest]
+- **Rank/Quality**: Common, Highest
+- **Method**: Arrow body + light converter swap; Common Arrow seat
+- **XP**: +2000 XP (Common)
+- **Characteristics**: Light arrow; Arrow shape + light converter
+- **Cite**: `Story/Notes/Experience.md` Ch 21.5 line 394; `Story/Notes/Chapter21_5.md` swap section
+
+### Fireball Schematic [Highest]
+- **Rank/Quality**: Common, Highest
+- **Method**: Ball shape + fire converter swap; "laughably easy" once Aqua Ball mastered; Common Ball seat
+- **XP**: +2000 XP (Common)
+- **MP Cost**: Designed cast unspecified (likely ~50+ MP per Ball baseline; Ball uses moderate compression band ~200-500 MP)
+- **Characteristics**: Fire ball; Ball shape (highest sphere complexity) + fire converter; moderate compression; component swap demonstration
+- **Cite**: `Story/Notes/Experience.md` Ch 21.5 line 395; `Story/Notes/Chapter21_5.md` swap section line 109-110
+
+### Water Arrow Schematic [Highest]
+- **Rank/Quality**: Common, Highest
+- **Method**: Arrow body + water converter swap; Common Arrow seat
+- **XP**: +2000 XP (Common)
+- **Characteristics**: Water arrow; Arrow shape + water converter
+- **Cite**: `Story/Notes/Experience.md` Ch 21.5 line 396; `Story/Notes/Chapter21_5.md` swap section line 111
+
+### Light Ball Schematic [Highest]
+- **Rank/Quality**: Common, Highest
+- **Method**: Ball shape + light converter swap; Common Ball seat
+- **XP**: +2000 XP (Common)
+- **Characteristics**: Light ball; Ball shape + light converter; moderate compression
+- **Cite**: `Story/Notes/Experience.md` Ch 21.5 line 397; `Story/Notes/Chapter21_5.md` swap section line 111
+
+### Lesser Fire Detonation Schematic [Highest]
+- **Rank/Quality**: Lesser, Highest
+- **Method**: Lesser Detonation + fire converter graft
+- **XP**: +1000 XP (Lesser)
+- **Characteristics**: Detonation with fire element; blast converter + fire; internal explosion + fire damage
+- **Cite**: `Story/Notes/Experience.md` Ch 21.5 line 398
+
+### Lesser Water Detonation Schematic [Highest]
+- **Rank/Quality**: Lesser, Highest
+- **Method**: Lesser Detonation + water converter graft
+- **XP**: +1000 XP (Lesser)
+- **Characteristics**: Detonation with water element; blast + water
+- **Cite**: `Story/Notes/Experience.md` Ch 21.5 line 398
+
+### Lesser Light Detonation Schematic [Highest]
+- **Rank/Quality**: Lesser, Highest
+- **Method**: Lesser Detonation + light converter graft
+- **XP**: +1000 XP (Lesser)
+- **Characteristics**: Detonation with light element; blast + light
+- **Cite**: `Story/Notes/Experience.md` Ch 21.5 line 398
+
+### Ch 21.5 Schematic Summary
+- **Total XP from schematics**: +22,000 XP (old 13,000 + new 9,000)
+- **Old 13,000**: Detonation/Impact/Fire Orb (pre-skip Ch 15/18/19) + Fire Arrow + Orb of Light + Aqua Ball + Mana Bolt + Aqua Orb + Light arrow
+- **New 9,000**: Fire Bolt + Water Bolt + Light Bolt + Fireball + Water arrow + Light ball + Fire/Water/Light Detonation
+- **Paper schematics burned**: Over the skip (taking up space); knowledge stays; redraws from memory when needed; exit inventory carries NO schematic sheets
+- **Component mastery**: Input bands (low/mid/high MP), converters (fire/water/light/pure mana/blast), shapes (Bolt→Orb→Ball sphere ladder, Arrow), compression (soft hold/mid/moderate squeeze), extras (intangible leash, kinetic, mass, direction, contact trigger, tip concentration/location)
+- **Cite**: `Story/Notes/Experience.md` Ch 21.5 lines 387-402; `References/Items/ScrollRuneAbilities.md`
 
 ### Common Fire Arrow Production (Comet Brand, Months 1-6)
 - **Item**: Common Fire Arrow scrolls with comet brand
@@ -248,16 +332,16 @@ Chapter-ordered list of runes Roland Arden (D) has crafted or created in complet
 - **Heat/Cold/Pain Resistance**: Continues via burn patch + freeze spot; printed exit ranks soft past Ch 19 L5
 - **Basic Rune Mastery**: Slight up only (desk pours barely move it; combat is later)
 - **Basic Mana Scribing**: Still low (L1 soft; L2 by Ch 23; rare word drills)
-- **Class**: Runic Mana Scribe "a few levels" up (exact L soft); FA schematic +2000 XP + many pour XP at 25-50 MP each
+- **Class**: Runic Mana Scribe "a few levels" up (exact L soft); schematic total +22,000 XP + many pour XP at 25-50 MP each
 - **Cite**: `Story/Notes/Chapter21_5.md` skills section; `Story/Notes/Skills.md` Ch 21.5; `Story/Notes/Experience.md` Ch 21.5
 
-### Additional Experiments & Discoveries (Not Itemized Above)
-- **Aqua Ball full schematic**: Completed when desk allowed (water segment already isolated)
-- **Orb of Light full schematic**: Completed when desk allowed (light segment already isolated)
+### Additional Notes
+- **Full schematics completed**: 16 total (see Ch 21.5 Schematic Summary above for all ranks/qualities/XP)
+- **Aqua Ball & Orb of Light**: Full schematics completed when desk allowed (segments already isolated)
 - **Lazy Diagnosis grafts**: Component swaps with unmodified ratios; Diagnosis marks faults; occasional paper spontaneous burn
 - **Press matrix technique**: Relief stamp for repeated patterns; remade when wrong; then seconds per pull
-- **Continuous desk work**: Fire Orb practice when Common FA fails stack; rare Bolt/Fireball seat practice; ~13-15h awake desk-ish time per day
-- **Cite**: `Story/Notes/Chapter21_5.md` daily clock and experimentation sections
+- **Continuous desk work**: Fire Orb practice when Common FA fails stack; rare Bolt/Fireball/variant seat practice; ~13-15h awake desk-ish time per day
+- **Cite**: `Story/Notes/Chapter21_5.md` daily clock and experimentation sections; `Story/Notes/Items.md` Ch 21.5
 
 ---
 
