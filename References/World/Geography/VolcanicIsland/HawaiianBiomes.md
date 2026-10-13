@@ -47,7 +47,7 @@ A new volcano, Kamaʻehuakanaloa (formerly called Lōʻihi), is currently buildi
 
 **Trade winds.** Northeast trade winds blow most of the year. Moist air hits the windward (northeast-facing) slopes and rises, cools and drops its rain. The leeward (southwest-facing) slopes sit in a rain shadow. Rainfall gradients are among the steepest on Earth. On Kauaʻi the summit region near Waiʻaleʻale receives long-term averages reported between roughly 370 and 460 inches per year depending on the period measured. Less than 15 miles away the Mānā coastal plain receives around 20 inches. On Hawaiʻi Island the Kawaihae coast receives under 10 inches while windward Hilo receives about 130 inches.
 
-**The trade wind inversion.** A layer of warm dry air typically sits around 6,000 to 7,000 feet. It acts as a lid on cloud formation. Below it windward slopes are wet; above it conditions abruptly become dry, sunny and prone to frost. This single atmospheric feature creates the sharp boundary between rainforest and subalpine shrubland on Haleakalā, Mauna Kea and Mauna Loa.
+**The trade wind inversion.** A layer of warm dry air typically sits around 6,000 to 7,000 feet. Month and week numbers by side and height: `Weather.md`. It acts as a lid on cloud formation. Below it windward slopes are wet; above it conditions abruptly become dry, sunny and prone to frost. This single atmospheric feature creates the sharp boundary between rainforest and subalpine shrubland on Haleakalā, Mauna Kea and Mauna Loa.
 
 **Elevation and temperature.** Temperature drops about 3.5 °F per 1,000 feet. Sea level averages in the mid 70s to low 80s °F. The summit of Mauna Kea sees nightly freezing and winter snow.
 

@@ -28,9 +28,9 @@ Both place lasting effects on gear. Enchantments use a word-like language (Earth
 
 ## Ranks and grades
 
-Five main rune ranks. Worldview: `Nature.md`. Ceilings / score math: `RuneSystem.md`. **First-seen dates** are when the story names that band (exposition can name a higher rank before Roland can craft it).
+Five main rune ranks. Worldview: `Nature.md`. Ceilings / score math: `RuneSystem.md`. Named-glyph counts and compound depth: `RuneLexicon.md`. **First-seen dates** are when the story names that band (exposition can name a higher rank before Roland can craft it).
 
-Ranks are a **complexity ladder** (geometry and job home), not only bigger punch. Subgrades glue ranks so peak of N ≈ floor of N+1.
+Ranks are a **complexity ladder** (geometry and job home), not only bigger punch. Subgrades glue ranks so peak of N ≈ floor of N+1. Narrative tier feel also folds in lexicon size and how deep glyphs combine — do not invent Uncommon / Rare as separate names.
 
 | Rank | First seen | Geometry | Job home | Examples (story / Source) |
 |---|---|---|---|---|

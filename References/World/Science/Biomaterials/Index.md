@@ -18,6 +18,7 @@ Animal and Ned material process, rubber, insect stocks, adhesives, wood.
 
 - [BiologicalSilks.md](BiologicalSilks.md). Silk types; Ned cellulose silk
 - [BiologicalAdhesives.md](BiologicalAdhesives.md). Dry, wet, capture and harvested natural adhesives; strongest-by-category
+- [PrinterWorm.md](PrinterWorm.md). Biological fabricator: glands, cures, materials, print methods. Not Ned's species lock. His silk stays cellulose in BiologicalSilks.md
 
 ## Plant timber
 

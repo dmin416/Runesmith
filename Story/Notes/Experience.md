@@ -44,7 +44,7 @@ Ch 9.5 = **1,000** goblins over ~**90** days (~**11**/day). Trash + nest leaders
 | **18** | Lesser Impact Rune [Highest] schematic | **+1000 XP** into L26 bar (**2479 / 13000**); Drawing **L1**; tree Dex **+10** |
 | **19** | Train skill ranks + Fire Orb High→Highest | skill **+3700** + schematic **+1000** = **+4700** → bar **7179 / 13000** |
 | **20** | Job hunt / supply buy | **0** XP | Bar still **7179 / 13000** |
-| **21** (through `19-30.md:444`) | Job hunt, Libra scout, starts Mana Bolt word scroll | **0** XP awarded yet (scroll unfinished; +20 lands after) |
+| **21** | Job hunt, Libra, inn: Mana Bolt word **+25** + Fire Orb runic **+25** | **+50** | Bar **7179 → 7229 / 13000**. Word L1 pay **22.5** MP (`25 × 0.9`); XP = cast **25** |
 
 Ch 6: weekly one-on-ones after the 9th birthday. Locked count **55** estate L1s after bravery (year of weeks plus a few extras) so the half-bank lands L3 empty under `500 × L`. After Mage, weekly continues and turns to **two** L1s at a time for ~**3 months** (**25** kills including the Ch 7 finale) so the first Carwen hunt can finish L3→L4.
 
@@ -373,6 +373,20 @@ No kill XP. No craft XP yet.
 |---|---|---:|---|
 | 20 | Supply buy / Grimboodle contract refuse | **0** | — |
 | 21 | Five shops, Libra mark, inn setup | **0** | — |
-| 21 | Mana Bolt word scroll started | **0** | Unfinished at line **444**; finished beat is **+20** |
+| 21 | Mana Bolt word scroll | **+25** | List **25**, L1 pay **22.5**; XP = designed cast **25** |
+| 21 | Fire Orb runic practice (Diagnosis red) | **+25** | XP = Orb cast **25**; pour ~**75** MP (about three Bolts; Low/Lowest) |
 
-**Bar at line 444:** **7179 / 13000** (overall **L26** / Scribe **L1**).
+**Bar after both scrolls:** **7229 / 13000** (overall **L26** / Scribe **L1**).
+
+## Ch 21.5 (~6 months desk grind)
+
+No kill XP. Craft / schematic XP only. Enter bar **7229 / 13000**.
+
+| Beat | XP | Notes |
+|---|---:|---|
+| Day-1 buy: Orb of Light + Fire Arrow + Aqua Ball samples | **0** | Grimboodle's; coin only |
+| Common Fire Arrow schematic → Highest | **+2000** | **2×** lesser (**1000**); early in skip |
+| Common Orb of Light / Aqua Ball schematics (when perfected) | **+2000** each | Soft timing; same **2×** rule |
+| Scroll pours (FA fails + Fire Orb practice + keepers) | cast each | FA cast **50**; Orb **25**; many reds; XP ignores S |
+
+Class **a few levels** by Ch 22 (soft). Exit bar pads toward Ch 23 **L35** / Scribe **L10**; exact mid-skip total soft until a ledger pass.

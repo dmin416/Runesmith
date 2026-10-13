@@ -27,7 +27,7 @@ SP = (Endurance × 10) + (Strength × 3) + (Agility × 3)
 MP = (Intelligence × 10) + (Willpower × 4)
 ```
 
-Bare all-15 (no class bonuses): **HP 195**, **SP 240**, **MP 210**. A street adult with no Mage/Acolyte still has no usable mana pool to absorb into; the MP number is the sheet formula once a pool exists.
+Bare all-15 (no class bonuses): **HP 195**, **SP 240**, **MP 210**. Usable work and recovery notes for that SP pool: `../World/Science/Body/Stamina.md`. The formula stays here. A street adult with no Mage/Acolyte still has no usable mana pool to absorb into; the MP number is the sheet formula once a pool exists.
 
 Skill bonuses can raise displayed pools above the bare formulas (e.g. Mana Reinforcement). **Mage** and **Blessed by Mana** do **not** raise max MP.
 

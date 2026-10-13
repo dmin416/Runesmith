@@ -77,7 +77,7 @@ Round to nearest whole XP after RaceMult. Family table: `RaceMult.md`. Common go
 
 **Party XP:** Split by ability and contribution. Early dungeon lock: idle / spectating ~**1%** of the kill; active help ~**1/4**. Later beats can refine the formula without reopening those counts.
 
-**Craft / schematic XP:** First-time basic / lesser rune schematic at **[Highest]** pays **1000** XP. Quality ladder toward that: **100 / 200 / 400 / 600 / 1000** (raise pays the difference). A first Common schematic pays **2×** that lesser Highest award (**2000** XP, Fire Arrow). Repeat copies / practice crafts pay much less. Spell and skill rank-ups can also award XP.
+**Craft / schematic XP:** First-time basic / lesser rune schematic at **[Highest]** pays **1000** XP. Quality ladder toward that: **100 / 200 / 400 / 600 / 1000** (raise pays the difference). A first Common schematic pays **2×** that lesser Highest award (**2000** XP, Fire Arrow). **Scroll craft (locked forward):** XP = **designed cast cost** of the spell on the scroll (the spell's mana cost). Ignore Scribing / cost-cut skills when awarding XP; discounts change what you pay, not the XP. Word and runic scrolls use the same rule. Rune **item** seating XP stays open. Spell and skill rank-ups can also award XP. Detail: `ExperienceCurve.md`.
 
 **Pre-class bank:** XP before first ascension banks and applies at first class with a **½** penalty. One-time only. Does not refill for later class changes.
 

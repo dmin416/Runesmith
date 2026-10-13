@@ -123,17 +123,6 @@ Optional extras on the same skill later: comprehension gates for that rank, fewe
 
 Same bar for **build** skills: Marksmanship changes hit chance and kit design. Analyze shows real formulas. Hastened Reading cuts real grind time. If the number is too small to matter at L1–L9, raise it or change the effect. **Flavor skills** (Cooking, Technology, Acting, Basic Mathematics, Map Reading, and similar) stay soft and behind the scenes; do not force combat math onto them. **Sleep Resistance** is the light exception: −10% sleep need per level, evolve → Sleep Immunity down to a 1% floor (`Progression/Skills.md`). Unread Resistance→Immunity→Fused park (thermal / kinetic / bodily + breath/aim/heal; conflicts noted): `Progression/ResistanceImmunitySystem.md`.
 
-### Mana tree: Telekinesis / Mage Hand (passive, Tier 2+)
-
-Idea only. Not on early sheets.
-
-- **Mana Hands** (Ch 10 spell, self-discovered) stays an **active cast**: move objects with mana (lift, fetch, hold, shove). Visible hands optional. Spell ranks L1–L9 like other spells.
-- Above **Basic Mana Shaping** / **Mana Shaping** sits a separate **passive** telekinesis / mage-hand skill (name TBD: e.g. **Mana Telekinesis**, **Telekinetic Grip**, **Silent Hands**).
-- **Gate:** unlockable only after Roland holds a **Tier 2** class. Maxing Basic Mana Shaping at Tier 1 is not enough. No T1 evolve path into this skill.
-- **Feel:** always-on fine force at short range without a full chant. Hold tools, catch dropped parts, brace a shield rim, pluck a fuse, steady a launcher while both hands are busy. Costs a thin ambient MP trickle or spikes when he pushes weight / speed. Levels raise mass, range, precision and multitask count.
-- **Pads (draft):** Int-heavy like Shaping, or Int +1 / Will +1 even. Lock when the skill is written into `Progression/Skills.md`.
-- **Anti-pad:** if he can already do the same job with Mana Hands + Shaping and never feels the new skill, cut it or raise the numbers until T2 craft / combat scenes change.
-
 ### Tier 1 Mage: foundational applications
 
 Idea map for what a common **Class / Tier 1 Mage** is expected to learn besides raw combat spam. Split **skills** (passive / always-training) from **spells** (chants). Roland’s **0% elemental affinity** blocks true fire/water/wind/earth schools; he can still take pure-mana and friction tricks (Heat already). Academy or book paths teach more than the class dump.
@@ -353,7 +342,7 @@ See `../Story/Notes/Early Logical Skills.md`. Short version: Basic Mathematics a
 - How much Armand / Lobelia stay attached to that thread.
 - Finalize Early Logical Skills naming (Ambient Mana Absorption vs early Regulation). Parallel Thinking = **skill** (rewrite lock).
 - Skill redesign loot: `Progression/SkillsRedesign.md` (merge accepted rows into Skills / SkillsDesign).
-- Name and lock the Tier 2+ passive telekinesis / mage-hand skill above Mana Shaping (`Ideas.md` Systems).
+- Optional T2+ **passive** always-on force (only if active Mana Hands track still feels thin). Canon Hands lock: `Progression/ManaHands.md`.
 - Later **Goblin Slaughterer** may need its own kill or boss gate (Goblin Hunter **1000** is locked in `../Story/Notes/Experience.md` / `Progression/SkillsDesign.md`).
 - Ordinary-person skill list + L9 training times: `Progression/NormalPersonSkills.md` (through Expert; no system acceleration).
 - **Regular vs runic scroll craft (open):** Drawing / making **regular magic scrolls** (incantation / word / mana-ink path) is different from **runic scrolls**. Ch 21 already shows Diagnosis blank on regulars and different laws; timings differ (~10 min Mana Arrow vs ~45 min Fire Orb runic). Still need to learn and lock the full difference (skills, process, what Drawing covers for each, Identify readout, materials). Not locked yet.

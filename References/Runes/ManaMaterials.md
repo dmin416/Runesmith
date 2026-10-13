@@ -184,6 +184,13 @@ Converters cover **craft and metalwork only**. Affinity still gates elemental cl
 - Reverse (element → pure) is allowed under the same rules.
 - Orihalcum cannot hold a converter. Place converters on mythril / star steel / steel beside orihalcum cladding if needed.
 
+### Getting stone powder (Ch 21.5 Notes)
+Intact magic stones are normally extremely robust and durable. Two paths Roland finds:
+1. **Drain** — empty all held mana → stone becomes **crumbly** and powders.
+2. **Overload** — force far too much mana in → also breaks, but extremely violent, noisy, and hard to collect the pieces.
+
+Drain is the practical path for ink powder. Overload is a bad harvest method.
+
 ### Stone powder in metal
 Crushed magic stone in an alloy follows the stone rules: **capacity scales with volume** and **transfer rate scales with area**. Crushed particles do **not** inherit full stone dump rates.
 

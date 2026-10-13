@@ -40,6 +40,7 @@ Stones, cast tables, batteries, engines, motors, fans, pumps, compression, fligh
 - [Lighting.md](Lighting.md). Incandescent, limelight, discharge, LED structure / failure; Caldris filter
 - [Waves.md](Waves.md). Wave / ozone bands
 - [Sound.md](Sound.md). Sound Production / echolocation
+- [SevenFirecrackers.md](SevenFirecrackers.md). Seven coincident blast waves in pure linear superposition. Pressure 7x, intensity 49x, +16.9 dB
 - [TriggeredLightning.md](TriggeredLightning.md). Rocket-wire / tower / laser trigger; ground-end MJ yield; storm rates; volcanic sites
 
 ## Kinetic and launch

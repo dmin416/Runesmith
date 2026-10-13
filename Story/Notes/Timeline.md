@@ -97,7 +97,8 @@ Counted forward from that morning. Months are added as written. Six months is ha
 | Mark | Addition | Age | In this world |
 |---|---|---|---|
 | Arrival, chapter 21 | 0 | 11 and 0 months | 6 years |
-| Chapter 22, half a year of Fire Arrow grind | +6 months | 11 and 6 months | 6 years 6 months |
+| Chapter 21.5, half a year of Fire Arrow grind (day 1: buy Orb of Light + Fire Arrow + Aqua Ball) | +6 months | 11 and 6 months | 6 years 6 months |
+| Chapter 22, auction present day after 21.5 | 0 (same mark) | 11 and 6 months | 6 years 6 months |
 | Chapter 23, another 3 months. Own total: about 9 months since arrival | +3 months | 11 and 9 months | 6 years 9 months |
 | Chapter 27, another 6 months. More than 1 year in Edelgard | +6 months | 12 and 3 months | 7 years 3 months |
 | Chapter 34, about 5 months after the mine | +5 months | 12 and 8 months | 7 years 8 months |
@@ -111,7 +112,8 @@ He arrives Edelgard at 11. Nine months of early grind, then another 6, land past
 |---|---|---|---|
 | 20 | Morning after the train. About nine months of adventuring behind him (3 mo goblins + half year with the girls). Autumn-cool. **6 years** in this world. Just 11. Same day as chapter 21 | 11 and 0 months | 6 years |
 | 21 | Same day, fifth shop by sunset. **Just 11.** This line is the arrival age | 11 and 0 months | 6 years |
-| 22 | About half a year after the chapter 21 decision. Age still about 11. Party gold lasted that half year of materials, not 10 months | 11 and 6 months | 6 years 6 months |
+| 21.5 | Rewrite skip. Next morning: buys **Runic Orb of Light**, **Fire Arrow**, **Aqua Ball**. Then ~half year FA grind. Party gold lasts half year of mats, not 10 months | 11 and 0 → 11 and 6 months | 6 years → 6 years 6 months |
+| 22 | Auction present day after 21.5. Age still about 11 | 11 and 6 months | 6 years 6 months |
 | 23 | **Timeskip: another 3 months.** Total about 9 months of Edelgard grind since arrival. Age still about 11. Then the forest and Helci | 11 and 9 months | 6 years 9 months |
 | 24 | Helci is past 16. Church until 14, then 2 years of work, then the stone. Calendar: 24-hour days, 12 months of 30 days, plus New Year's Day | — | 6 years 9 months |
 | 25 | Half a year or more since the first Emporium visit. This is the chapter 22–23 stretch, not a new half year. Contract offered at 3 years (the rejected one was 6) | 11 and 9 months | 6 years 9 months |

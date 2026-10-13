@@ -10,7 +10,7 @@ Common writing and drawing kit before Roland invents anything:
 
 | Tool | Who uses it | Notes |
 |---|---|---|
-| **Quill** | Most scribes, clerks, Roland | Goose (or similar) feather + ink. Messy; needs constant refill. Roland uses **Mana Hands** to refill while focused (multitask practice). |
+| **Quill** | Most scribes, clerks, Roland | Goose (or similar) feather + ink. Messy; needs constant refill. Roland uses **Mana Hands** to refill while focused (multitask practice). Later Hands ink craft: **pen mode** (tip draws) or **press mode** (matrix / lino-style print) — `../../../Progression/ManaHands.md`. |
 | **Soft metal stylus** | Scholars, draftsmen | Lead / soft metal rods for faint lines (Roman *stylus plumbeus* analog). Not a wood-cased pencil. |
 | **Chalk** | Teachers, drafts, street marks | Natural chalks (red / black / white). Soft shading; smudges. |
 | **Charcoal** | Artists, rough layout | Burnt twigs; easy wipe; dirty. |

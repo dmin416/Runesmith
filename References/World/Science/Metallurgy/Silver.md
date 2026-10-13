@@ -53,3 +53,4 @@ Sources: eggs, onions, rubber, wool, some paper/cardboard, polluted air. Film go
 - Best Earth mirror metal when polished; mythril inherits silver's path feel after conversion (`Metals.md`).
 - Winding silver vs copper: tiny conductivity win, bad cost habit (`Generators.md`).
 - Humidity + bias can grow silver dendrites between contacts (LED / electronics short).
+- Jewelry-gauge wire, chain and twist: `JewelryWire.md`. Mythril grades stay in `../../Materials/Metals.md`.

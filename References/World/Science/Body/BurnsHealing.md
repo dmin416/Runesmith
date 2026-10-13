@@ -1,6 +1,6 @@
 # Burns: Complete Healing Cycle (Average Adult Man)
 
-> Earth reference / invent loot. Not locked law. Heat Resistance / Acid Resistance / Recovery: `../../../Progression/SkillsDesign.md`, `../../../Progression/Attributes.md`. Cold counterpart: `FrostbiteColdInjury.md`. Sharp / blunt: `PiercingSlicingWounds.md`, `BluntTraumaHealing.md`. Thermal grill: `Body.md`, `../../../../Story/Notes/Skills.md` Ch 19. Fatigue: `FatigueRestSleep.md`.
+> Earth reference / invent loot. Not locked law. Heat Resistance / Acid Resistance / Recovery: `../../../Progression/SkillsDesign.md`, `../../../Progression/Attributes.md`. Cold counterpart: `FrostbiteColdInjury.md`. Sharp / blunt: `PiercingSlicingWounds.md`, `BluntTraumaHealing.md`. Thermal grill: `Body.md`, `../../../../Story/Notes/Skills.md` Ch 19. Ongoing burn/freeze grind (hide Fire Orb patch, potion cycles): `../../../../Story/Notes/ResistanceGrindBurnFreeze.md`. Fatigue: `FatigueRestSleep.md`.
 
 Terra **Heat Resistance** cuts thermal burn harm (−10%/level). **Acid Resistance** covers chemical burns. **Recovery** speeds soft-tissue knit when living dermis remains. Full-thickness centers still need graft / edge creep (~1 mm/day) or magic; Recovery does not regrow destroyed follicles.
 

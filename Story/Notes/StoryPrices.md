@@ -49,10 +49,15 @@
 | 20 | Fireball (shop talk) | **≈3 LS** (fair **3 LS 2 SS**) | Compare |
 | 20 | Blank monster-skin ×10 | **5 SS** (**5 LC** each; ~A4) | DIY buy |
 | 20 | Ink for ten Mana Arrows | **~10 SS** | DIY margin beat |
-| 20 | Runic Orb of Light | **≥1 LS** | Dusty Exeor |
+| 20 | Runic Orb of Light | **≥1 LS** | Dusty Grimboodle shelf |
 | 20 | Runic Fire Arrow (dusty) | **2 LS** vanity (fair High **10 SS**) | Shelf vs word **6 SS** |
+| 20 | Runic Aqua Ball | ≥**1 LS** band (exact soft) | Same dusty shelf |
 | 21 | Libra entry | **2 SS** | Auction house |
 | 21 | Refused shop contracts | **−60%** mana breach | Cartel talk |
+| 21.5 day 1 | Runic Orb of Light | **1 LS** | Grimboodle dusty floor |
+| 21.5 day 1 | Runic Fire Arrow | **2 LS** | Same shelf |
+| 21.5 day 1 | Runic Aqua Ball | **1 LS** | Same floor band as Orb |
+| 21.5 day 1 | Three-sample total | **4 LS (400 LC)** | Wallet **21448 → 21048** |
 | 22 | Intermediate Fire Arrow | **6 SS** | Appraiser compare |
 | 22 | High Common runic Fire Arrow | up to **~10 SS** | Appraise |
 | 22 | Highest Common | **~12–15 SS** | Appraise |

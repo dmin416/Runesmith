@@ -10,7 +10,7 @@ Horses stay common. Tamed monsters work farms, caravans and war. Companion bonds
 
 ### Trox
 
-Large three-horned draft beast for plowing and farm work. Caravan bulls of the same line exist (three-tailed / three-horned variants). Steady dairy in farm areas from tamed monster herds includes this class of stock.
+Large three-horned draft beast for plowing and farm work. Caravan bulls of the same line exist (three-tailed / three-horned variants). Steady dairy in farm areas from tamed monster herds includes this class of stock. Blood substance (cow/ox Earth map): `../Science/Body/BloodNotes.md` § Trox.
 
 ### Horse
 

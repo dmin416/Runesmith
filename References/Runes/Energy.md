@@ -45,6 +45,8 @@ Useful (J) = mana × 10 × η(L) × μ(INT) × A
 A      = √C                     // ambient; open ground A = 1
 ```
 
+**Mana Hands exception:** telekinetic work uses joules from physics, then `mana_paid = (J / (10 × μ(INT) × A)) × R` with Hands-track waste \(R\) (not Bolt \(\eta(L)\)). Canon: `../Progression/ManaHands.md`. Worked table: `../World/Science/Energy/ManaCast.md` § Mana Hands.
+
 | L | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 |---|---|---|---|---|---|---|---|---|---|
 | η | 0.30 | 1.00 | 1.29 | 1.57 | 1.86 | 2.14 | 2.43 | 2.71 | 3.00 |

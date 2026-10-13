@@ -188,7 +188,7 @@ Mineral-based reds and gold inks sank fast in a thin gum solution. Scribes eithe
 
 **Not actually blood:** "Dragon's blood" is a red plant resin from *Dracaena* and *Daemonorops* trees. It was used in red inks, varnishes and violin finishes.
 
-**Terra note:** Blood as a **mana path** (scrolls, runes) is locked under `../../../Runes/Energy.md` / `ManaMaterials.md`. The table above is Earth cultural practice, not scroll law.
+**Terra note:** Blood as a **mana path** (scrolls, runes) is locked under `../../../Runes/Energy.md` / `ManaMaterials.md`. The table above is Earth cultural practice, not scroll law. Cow/ox blood substance on Terra is **Trox blood** (`../../Body/BloodNotes.md` § Trox).
 
 ### 12. Animal-derived ink ingredients
 

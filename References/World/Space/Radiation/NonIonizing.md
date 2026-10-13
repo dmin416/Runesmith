@@ -52,7 +52,7 @@ Sunlight in Earth orbit is about **30–40%** stronger in **total energy** than 
 | Above the atmosphere (solar constant) | ~**1,361 W/m²** |
 | Sea level, sun overhead, clear sky | ~**1,000 W/m²** |
 
-The atmosphere absorbs and scatters roughly a **quarter to a third** of incoming sunlight even in ideal conditions. With the sun low, clouds or haze, surface intensity drops much further.
+The atmosphere absorbs and scatters roughly a **quarter to a third** of incoming sunlight even in ideal conditions. With the sun low, clouds or haze, surface intensity drops much further. Equatorial breakdown: medieval-countryside noon is about **1,051 W/m²**, still this round thousand (`../EquatorialSunlight.md`).
 
 ### Ultraviolet is where the difference becomes extreme
 

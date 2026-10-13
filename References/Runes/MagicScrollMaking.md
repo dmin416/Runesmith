@@ -55,15 +55,21 @@ Magic scrolls can be made in two ways:
 
 ### Creation Cost
 
-Creating a magic scroll costs half the mana cost of casting the spell. This mana imbues the magic ink into the paper.
+Creating a magic (word) scroll costs the **same mana as casting** that designed spell, then **Basic Mana Scribing** cuts the pour:
 
 ```
-craft_mana = 0.5 × cast_cost
+list = cast_cost                         // designed voice / strength
+S    = 1 − 0.1 × Mana_Scribing_L         // L0 = 1.0; L1 = 0.9; L9 = 0.1
+paid = list × S
 ```
 
 `cast_cost` is the designed cast cost of that scroll (normal spell voice, or a stronger designed voice).
 
-Example: A normal Mana Bolt costs **25 MP** to cast so its scroll costs **12.5 MP** to make. Fireball (Ball rung **400 MP**) costs **200 MP** to make. Fair Intermediate shelf **3 LS 2 SS** (`ScrollEconomy.md`).
+Example: Mana Bolt **25** → L0 pay **25**, L1 pay **22.5**, L9 pay **2.5**. Fireball (Ball rung **400**) → L0 **400**, L1 **360**. Fair Intermediate shelf **3 LS 2 SS** (`ScrollEconomy.md`) still uses shop labor tables; retune if throughput feels wrong under full-cast craft.
+
+**Craft XP (locked forward):** overall XP = **`cast_cost`** (ignore S). Word and runic share that XP rule. `../Progression/ExperienceCurve.md`.
+
+Old `craft = 0.5 × cast` is **dead**.
 
 ### Elemental Affinity
 
@@ -87,7 +93,13 @@ Magic ink can be made from:
 
 For mana stone ink, quality depends first on the amount of crushed mana stone in the ink and second on the quality of that stone.
 
-Ink can also simply be powerful blood. Ink rules are more narrative than rigid.
+**Powdering a magic stone (Ch 21.5 Notes):** intact stones are normally extremely robust and durable. Roland finds two ways to get powder. (1) **Drain** all mana out of the stone → it becomes crumbly and powders cleanly. (2) **Overload** it hard → also shatters, but extremely violent, noisy, and hard to collect the pieces. Drain is the practical ink path.
+
+Ink can also simply be powerful blood. Ink rules are more narrative than rigid. Cheap beast blood on Terra is **Trox blood** (substance lock: `../World/Science/Body/BloodNotes.md` § Trox). Not cow or ox.
+
+**Ch 21.5 (chapter):** Roland reads street cheap ink as a **magical substrate + crushed magic stones**. Shop cheap bottle under Sense matches dank/fetid mana color of goblins and sewer rats; thin, dark, rust / dried-iron smell. He plans to brew his own rather than keep buying.
+
+**Ch 21.5 (Notes):** Homemade ink = **his blood + Ned's blood + powdered goblin cores** from his stone-bank stock (powder via drain-to-crumbly; overload shatter works but violent/noisy/hard to collect). Not Trox / butcher blood. Fire Orb on rough hide reaches trial-level working seating fast; pour cost ~same band, quality clearly above trial/shop-cheap. Water segment isolated from Aqua Ball and light from Orb of Light basically at once after that. Form kit after Arrow + Ball + Orb: shared Orb/Bolt shape, Ball (bigger), Arrow; small-mana compression → Bolt, moderate-mana compression → Ball. System Mana Bolt has no detect-contact rune; pop = compression undoing on denser-than-air hit. Ratio experiments: segment size ratios dominate processing; forced ratio tweaks barely nudge size/effect and are inefficient; whole-diagram shrink cuts mana in and power out; enlarging the simple compression alone tends to implode Bolt rather than a fiercer explosion. Component swaps succeed far better: Aqua Ball → Fireball almost laughably easy; same for water arrow and light ball; lazy unmodified-ratio grafts still Diagnosis-readable unless the paper spontaneously burns (occasional). Skill rise gives a vague clock-mechanism feel for how other runes might need to change and familiarity on sight, not a brain dump (`RuneCauseEffect.md`, `../Combat/BasicSpellShapes.md`).
 
 The main purpose of better magic ink is to allow more mana. Ink quality determines the amount of mana that can flow into the spell. Better ink carries more mana which raises the upper threshold for the highest level of spell that can be made.
 
@@ -137,16 +149,70 @@ Rune cost for the same power = base MP ÷ efficiency, rounded up to whole MP.
 | Spell | 20% | 40% | 60% | 80% | 100% |
 |---|---|---|---|---|---|
 | Mana Bolt | 125 | 63 | 42 | 32 | 25 |
+| Orb (Fire Orb / Orb of Light rung) | 125 | 63 | 42 | 32 | 25 |
 | Mana Arrow | 250 | 125 | 84 | 63 | 50 |
 | Mana Shield | 500 | 250 | 167 | 125 | 100 |
 | Mana Ball | 2,000 | 1,000 | 667 | 500 | 400 |
 | Spear Spells | 2,000 | 1,000 | 667 | 500 | 400 |
 
-Bases for this table: Bolt **25**, Arrow **50**, Shield **100**, Ball / Spear **400**. Live body-cast Shield formula may differ (`ManaCast.md`); this sheet is the runic same-power activation ladder.
+Bases for this table: Bolt **25**, **Orb 25**, Arrow **50**, Shield **100**, Ball / Spear **400**. Same designed mana bill for Orb and Bolt. Runic geometry: shared Orb/Bolt shaping; Bolt = small-mana compression, Ball = moderate-mana compression, Orb = soft restraint; Bolt pop is compression undoing, not a contact-detect rune (`../Combat/BasicSpellShapes.md`, `RuneCauseEffect.md`). Live body-cast Shield formula may differ (`ManaCast.md`); this sheet is the runic same-power activation ladder.
 
 ### Mana Input
 
 Every rune has a lowest amount of mana needed to activate it. The user can supercharge it or add more mana because a rune is an artificial mana circuit.
+
+### Runic scroll craft: paid cost (good → bad)
+
+Word-scroll craft is full cast × Mana Scribing S (above). **Runic** scroll pours use the same-power list, then Rune Scribing S:
+
+```
+list = cast_cost / η_cond          // η_cond = quality 0.20 … 1.00
+S    = 1 − 0.1 × Rune_Scribing_L   // L0 = 1.0; L1 = 0.9; L9 = 0.1
+paid = list × S                    // clean pour, no botch
+```
+
+**Craft XP** still = `cast_cost` (ignore S and η). Discounts and quality change **what you pay**, not XP.
+
+| Quality | η_cond | List vs cast | Feel |
+|---|---|---|---|
+| Highest | 1.00 | **1×** | Clean machine; pay near designed cast × S |
+| High | 0.80 | **1.25×** | Good shop work |
+| Intermediate | 0.60 | **~1.67×** | Competent pass; trial success band |
+| Low | 0.40 | **2.5×** | Sloppy but usable |
+| Lowest | 0.20 | **5×** | Barely seated; expensive for the boom |
+
+**Skill band (clean pour):** L1 cuts **10%**; L9 cuts **90%** (pay one-tenth of list). Class “eases learning” does **not** cut this bill.
+
+#### Orb / Bolt rung worked (`cast = 25`)
+
+| Pour | η | S | **Paid** | Notes |
+|---|---|---|---|---|
+| Best clean (Highest L9) | 1.00 | 0.1 | **2.5** | Master scribe, perfect schematic |
+| Good clean (Highest L1) | 1.00 | 0.9 | **22.5** | First ranks, perfect pattern |
+| Intermediate L1 | 0.60 | 0.9 | **~38** | Solid working scroll |
+| Lowest L1 | 0.20 | 0.9 | **~113** | Weak seating; still a controlled pour |
+| Lowest L0 (no skill) | 0.20 | 1.0 | **125** | Full list |
+
+**Botch / cascade (worse than Lowest):** a runaway ink feed or wrong pour method can burn far past the Lowest list. Effective η falls below **20%**. Scale:
+
+```
+η_eff ≈ (cast × S) / mana_burned
+botch_vs_Lowest ≈ mana_burned / (cast / 0.20 × S)
+```
+
+#### Chapter 16 Fire Orb trial (worked example)
+
+Pool ≈ **2292**. Temp skills **L1**. Designed Orb **25**.
+
+| Attempt | What happened | Paid (read) | Implied |
+|---|---|---|---|
+| 1st | Slow hand pour; Diagnosis red / fail (“turd”) | **~113** if Lowest clean (“frugal”) | Paid for a bad seating; scroll unusable |
+| 2nd | Mana-hand cascade / Pollock | **~¼ pool ≈ 573** (on-page) | η_eff ≈ **4%** (~**5×** Lowest L1 bill, ~**15×** Intermediate L1) |
+| 3rd | Methodical pass; scroll works | **~38** if Intermediate L1 | Clean Intermediate; not another ¼ |
+
+Session total under that read: **~113 + 573 + 38 ≈ 724** (~**32%** of pool). On-page “another ¼” on the success is looser narrative; Intermediate L1 is the cost law for a competent working scroll.
+
+**Takeaway:** good process spans about **2.5 → 125** MP on the Orb/Bolt rung (Highest L9 → Lowest L0). Bad process is unbounded upward: one cascade can cost **many times** a Lowest pour and still fail. Mats and time die with fails; XP only lands on a finished scroll at `cast_cost`.
 
 ### Scroll Durability
 
@@ -180,7 +246,8 @@ Workday **10 hours** seated. Spendable craft mana / workday **= MP**.
 ## Forbidden
 
 - Do not treat magic-scroll craft as `spell × I` seating waste.
-- Do not set magic-scroll **power** from crafter `μ(INT)` alone. Power is **designed**; cast cost scales with it; craft is **half** that cast cost.
+- Do not set magic-scroll **power** from crafter `μ(INT)` alone. Power is **designed**; cast cost scales with it; word craft list is **full** cast, then Mana Scribing S.
+- Do not use dead `craft = 0.5 × cast`.
 - Do not require magical paper for creation. Magic stock changes focus and use-count, not craft MP.
 - Do not treat scroll device grade as rune `η_cond`.
 - Do not invent LC-per-mana tariffs.

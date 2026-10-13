@@ -8,7 +8,7 @@ These are **different products**. Same paper shape does not make them the same c
 
 | Family | What it is | Fuel / who | Craft skill |
 |---|---|---|---|
-| **Magic scroll** | Written chant; reading mobilizes the user's mana. | Mage / mana user must **read**. Craft = half cast cost; power designed (`MagicScrollMaking.md`). | Mana Scribing / magic-scroll craft |
+| **Magic scroll** | Written chant; reading mobilizes the user's mana. | Mage / mana user must **read**. Craft = full cast × Mana Scribing S; power designed (`MagicScrollMaking.md`). | Mana Scribing / magic-scroll craft |
 | **Runic scroll** | A **rune** laid on a scroll host. Artificial pathways. | **Anyone** can use. **Absorbing:** mana or stamina. **Preloaded:** stored spell released on activate. | Rune Scribing / runecraft |
 
 A magic scroll is **not** a weak runic scroll. A runic scroll is **not** a magic scroll with symbols. Gate below treats them as separate outputs.

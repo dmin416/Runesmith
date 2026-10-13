@@ -1,6 +1,6 @@
 # Slimes
 
-> Metal slime / living crucible design loot. Conversion law: `../../Materials/Metals.md`. Ambient soak `A = √C`: `../../Science/Energy/ManaConcentration.md`. Hub: `../Creatures.md`. Source fire-slime card: `../Design/CreaturesDesign.md`.
+> Metal slime / living crucible design loot. Conversion law: `../../Materials/Metals.md`. Ambient soak `A = √C`: `../../Science/Energy/ManaConcentration.md`. Process catalog (cast, glass, gems, chemicals): `FurnaceSlime.md`. Hub: `../Creatures.md`. Source fire-slime card: `../Design/CreaturesDesign.md`.
 
 ## Metal Slime: A Living Crucible
 

@@ -2,11 +2,11 @@
 
 > **Design loot.** Craft/use laws: `MagicScrollMaking.md`, `Magic.md`, `Energy.md`, `ScrollCraftScrapes.md`, `ScrollAspects.md`. Spell blurbs: `../Combat/Spells.md`. Currency ladder: `../World/Society/Economy/EconomyDesign.md`.
 >
-> **Honest status:** Intermediate shelves + mats locked. Classed Mage/Scribe sheets; craft mana = **half** designed cast cost; power = designed (`MagicScrollMaking.md`).
+> **Honest status:** Intermediate shelves + mats locked. Classed Mage/Scribe sheets; word craft list = **full** designed cast, then Mana Scribing S; power = designed (`MagicScrollMaking.md`).
 
 ## Shop prices & contracts
 
-Labor-days method: handwritten scrolls stay **medieval dear** (`../World/Society/Economy/EconomyDesign.md`). Blank lock: rough hide wholesale **4 LC** / retail **~4–5 LC** (`../World/Science/Invent/Paper.md`). Word Intermediate shelves locked. Mana labor from `0.5 × cast_cost` keyed off Intermediate shelf (`MagicScrollMaking.md`).
+Labor-days method: handwritten scrolls stay **medieval dear** (`../World/Society/Economy/EconomyDesign.md`). Blank lock: rough hide wholesale **4 LC** / retail **~4–5 LC** (`../World/Science/Invent/Paper.md`). Word Intermediate shelves locked. Mana labor keyed off Intermediate shelf; pour law is full cast × S (`MagicScrollMaking.md`).
 
 ### Locked fair rewrite (Ch 20+)
 
@@ -26,11 +26,11 @@ Labor-days method: handwritten scrolls stay **medieval dear** (`../World/Society
 | Early auction High (entry) | **8–10 SS** | 80–100 | Tight after 25% fee |
 | Exeor settled High-only list | **10–12 SS** | 100–120 | Comfortable apprentice |
 
-**Why 3 SS Mana Arrow:** mats **14 LC** + Intermediate labor **11.5 LC** ÷ **0.85** = **30 LC**. Craft = **0.5 × 50** = **25** MP. Source **1 SS** cannot cover mats.
+**Why 3 SS Mana Arrow:** mats **14 LC** + Intermediate labor **11.5 LC** ÷ **0.85** = **30 LC**. Craft list = cast **50** (L1 pay **45**, L9 pay **5**). Source **1 SS** cannot cover mats. Shelf labor was frozen when craft felt ~**25** MP; keep coin locks until a retune.
 
-**Why 6 SS word Fire Arrow:** T2 mats **19 LC** + Intermediate labor **32 LC** ÷ **0.85** = **60 LC**. Same half-cost law; T2 elemental Mage sheet. ~**1.7×** under fair High runic (**10 SS**).
+**Why 6 SS word Fire Arrow:** T2 mats **19 LC** + Intermediate labor **32 LC** ÷ **0.85** = **60 LC**. Same full-cast list law; T2 elemental Mage sheet. ~**1.7×** under fair High runic (**10 SS**).
 
-**Why Fireball 3 LS 2 SS:** cast **400** → craft **200** = **8×** Fire Arrow craft **25**. Same T2 sheet: labor **32 × 8 = 256 LC** + mats **19** ÷ **0.85** ≈ **323 LC** → lock **3 LS 2 SS** (**320 LC**). Ch 20 shop talk: about **three** large silvers.
+**Why Fireball 3 LS 2 SS:** cast **400** = **8×** Fire Arrow cast **50**. Same T2 sheet: labor **32 × 8 = 256 LC** + mats **19** ÷ **0.85** ≈ **323 LC** → lock **3 LS 2 SS** (**320 LC**). Ch 20 shop talk: about **three** large silvers.
 
 **Why 10 SS High runic:** story fair. Stamina buyers need a target worth about a leader stone (**1 LS**) or an emergency. Dusty shelf **2 LS** is vanity markup. Runic prices are **not** derived from the word engine.
 
@@ -90,9 +90,11 @@ Word scrolls are mage cross-affinity patches. Runic scrolls are anyone-with-ener
 Coin pegs: **1 LC = 10 SC**, **1 SS = 10 LC**, **1 LS = 100 LC**, **1 SG = 1,000 LC**, **1 LG = 10,000 LC**, **1 RG = 100,000 LC**. Peg: **5 LC = 1d**.
 
 ```
-craft_mana = 0.5 × cast_cost
-labor_I = shop_I × 0.85 − mats          // from locked Intermediate shelf
-labor = labor_I × (craft / craft_I)     // scales when designed cast differs
+craft_list = cast_cost                      // full designed cast
+S          = 1 − 0.1 × Mana_Scribing_L      // L9 → 0.1
+paid       = craft_list × S
+labor_I = shop_I × 0.85 − mats              // from locked Intermediate shelf
+labor = labor_I × (cast / cast_I)            // scales when designed cast differs
 shop = (mats + labor) ÷ 0.85
 ```
 
@@ -101,13 +103,13 @@ shop = (mats + labor) ÷ 0.85
 | T1 maker | Mage L25 + Mana Scribe L25 on body **15/15** → INT/Will **65/65**, MP **910** |
 | T2 maker | + Elemental Mage L25 → INT/Will **115/115**, MP **1,610** |
 | `day_mana` | **= MP** (T1 **910**, T2 **1,610**) |
-| Craft law | **half** designed cast cost (`MagicScrollMaking.md`) |
-| Scroll **power** | Designed; cast cost scales; craft = half cast |
+| Craft law | **full** designed cast × Mana Scribing S (`MagicScrollMaking.md`) |
+| Scroll **power** | Designed; cast cost scales; pay = cast × S |
 | Shop cut (fair) | **15%** (÷ **0.85**). Auction first-timer **25%** |
-| Mana Arrow / Fire Arrow normal cast | **50** → craft **25** |
-| Fireball normal cast | **400** → craft **200** |
+| Mana Arrow / Fire Arrow normal cast | **50** → L0 **50** / L1 **45** / L9 **5** |
+| Fireball normal cast | **400** → L0 **400** / L9 **40** |
 
-**Scrolls/day (pool-bound, normal Intermediate):** T1 Mana Arrow **≈36.4**/day (910÷25). T2 Fire Arrow **≈64.4**/day (1610÷25). Fireball **≈8.1**/day (1610÷200). Stronger designed casts burn more pool per scroll.
+**Scrolls/day (pool-bound):** T1 Mana Arrow at L0 **≈18**/day (910÷50); at L5 **≈36**/day (910÷25); at L9 **≈182**/day (910÷5). T2 Fire Arrow scales the same on **1,610**. Fireball L0 **≈4**/day (1610÷400); L9 **≈40**/day. Coin shelves stay; throughput is skill-gated.
 
 ### Paper world order
 
@@ -158,54 +160,54 @@ Earth parchment labor (Diocletian's Edict: 1.6 unskilled days per 8 leaves) appl
 
 At Tier 1, materials alone are ~**14 LC** (wholesale) to ~**15 LC** (retail). Ink is the largest material cost.
 
-### Craft mana (half cast cost)
+### Craft mana (full cast × S)
 
-Normal Intermediate designed cast → craft:
+Normal Intermediate designed cast → list / sample pays:
 
-| Spell | Cast | Craft |
-|---|---|---|
-| Mana Arrow / Fire Arrow | **50** | **25** |
-| Fireball | **400** | **200** |
+| Spell | Cast (list) | L1 pay (×0.9) | L9 pay (×0.1) |
+|---|---|---|---|
+| Mana Arrow / Fire Arrow | **50** | **45** | **5** |
+| Fireball | **400** | **360** | **40** |
 
-Shop grades Lowest → Highest are **designed attacking value** tags, not seating waste. Same designed cast → same craft mana and same labor. Stronger designs raise cast and craft together (`MagicScrollMaking.md`). **Rune quality** ≠ this table.
+Shop grades Lowest → Highest are **designed attacking value** tags, not seating waste. Same designed cast → same labor coin at that design. Stronger designs raise cast and pay together (`MagicScrollMaking.md`). **Rune quality** ≠ this table.
 
-**Breakeven** = mana-labor cost shop at that craft. **Fair list** = shelf charge. High/Highest list **above** Intermediate (scarcity). Lowest/Low list **below** Intermediate (junk); independents lose on junk tags (Ch 21: only Intermediate clears).
+**Breakeven** = mana-labor cost shop at that design. **Fair list** = shelf charge. High/Highest list **above** Intermediate (scarcity). Lowest/Low list **below** Intermediate (junk); independents lose on junk tags (Ch 21: only Intermediate clears).
 
 ### T1 Mana Arrow shop (word)
 
-Mats **14 LC**. Intermediate shelf lock **3 SS** → labor_I **11.5 LC**. Normal cast **50** → craft **25** for all grades at that design.
+Mats **14 LC**. Intermediate shelf lock **3 SS** → labor_I **11.5 LC**. Normal cast **50** (list) for all grades at that design. Coin columns unchanged.
 
-| Grade | Craft mana | Labor | Breakeven | Fair list |
+| Grade | Cast list | Labor | Breakeven | Fair list |
 |---|---|---|---|---|
-| Lowest | 25 | **11.5 LC** | **3 SS** | **2 SS** (junk; loss) |
-| Low | 25 | **11.5 LC** | **3 SS** | **2 SS 5 LC** (junk; loss) |
-| Intermediate | 25 | **11.5 LC** | **3 SS** | **3 SS** (lock) |
-| High | 25 | **11.5 LC** | **3 SS** | **3 SS 5 LC** (scarcity) |
-| Highest | 25 | **11.5 LC** | **3 SS** | **4 SS** (scarcity) |
+| Lowest | 50 | **11.5 LC** | **3 SS** | **2 SS** (junk; loss) |
+| Low | 50 | **11.5 LC** | **3 SS** | **2 SS 5 LC** (junk; loss) |
+| Intermediate | 50 | **11.5 LC** | **3 SS** | **3 SS** (lock) |
+| High | 50 | **11.5 LC** | **3 SS** | **3 SS 5 LC** (scarcity) |
+| Highest | 50 | **11.5 LC** | **3 SS** | **4 SS** (scarcity) |
 
 ### T2 Fire Arrow shop (word)
 
-Mats **19 LC**. Intermediate lock **6 SS** → labor_I **32 LC**. T2 elemental Mage sheet. Normal cast **50** → craft **25**.
+Mats **19 LC**. Intermediate lock **6 SS** → labor_I **32 LC**. T2 elemental Mage sheet. Normal cast **50**.
 
-| Grade | Craft mana | Labor | Breakeven | Fair list |
+| Grade | Cast list | Labor | Breakeven | Fair list |
 |---|---|---|---|---|
-| Lowest | 25 | **32 LC** | **6 SS** | **4 SS** (junk; loss) |
-| Low | 25 | **32 LC** | **6 SS** | **5 SS** (junk; loss) |
-| Intermediate | 25 | **32 LC** | **6 SS** | **6 SS** (lock) |
-| High | 25 | **32 LC** | **6 SS** | **7 SS** (scarcity) |
-| Highest | 25 | **32 LC** | **6 SS** | **8 SS** (scarcity) |
+| Lowest | 50 | **32 LC** | **6 SS** | **4 SS** (junk; loss) |
+| Low | 50 | **32 LC** | **6 SS** | **5 SS** (junk; loss) |
+| Intermediate | 50 | **32 LC** | **6 SS** | **6 SS** (lock) |
+| High | 50 | **32 LC** | **6 SS** | **7 SS** (scarcity) |
+| Highest | 50 | **32 LC** | **6 SS** | **8 SS** (scarcity) |
 
 ### T2 Fireball shop (word)
 
-Mats **19 LC**. Intermediate lock **3 LS 2 SS** (**320 LC**) → labor_I **253 LC**. Normal cast **400** → craft **200**.
+Mats **19 LC**. Intermediate lock **3 LS 2 SS** (**320 LC**) → labor_I **253 LC**. Normal cast **400**.
 
-| Grade | Craft mana | Labor | Breakeven | Fair list |
+| Grade | Cast list | Labor | Breakeven | Fair list |
 |---|---|---|---|---|
-| Lowest | 200 | **253 LC** | **3 LS 2 SS** | **2 LS** (junk; loss) |
-| Low | 200 | **253 LC** | **3 LS 2 SS** | **2 LS 5 SS** (junk; loss) |
-| Intermediate | 200 | **253 LC** | **3 LS 2 SS** | **3 LS 2 SS** (lock) |
-| High | 200 | **253 LC** | **3 LS 2 SS** | **4 LS** (scarcity) |
-| Highest | 200 | **253 LC** | **3 LS 2 SS** | **4 LS 5 SS** (scarcity) |
+| Lowest | 400 | **253 LC** | **3 LS 2 SS** | **2 LS** (junk; loss) |
+| Low | 400 | **253 LC** | **3 LS 2 SS** | **2 LS 5 SS** (junk; loss) |
+| Intermediate | 400 | **253 LC** | **3 LS 2 SS** | **3 LS 2 SS** (lock) |
+| High | 400 | **253 LC** | **3 LS 2 SS** | **4 LS** (scarcity) |
+| Highest | 400 | **253 LC** | **3 LS 2 SS** | **4 LS 5 SS** (scarcity) |
 
 ### T3 / T4 / T5 Intermediate shelf (lock) + other grades
 
@@ -381,7 +383,7 @@ So the two runic SKUs are not a new invention:
 
 - `RuneSetup.md`: **scroll price can track setup mana** (example note: runic Fire Arrow **6–7×** a regular scroll). Skill S cuts setup (L9 = 10% of L0).
 - Shop / auction coin bands: `Economy.md` / `Paper.md` / Ch 20–27 beats. Those are **item prices**, not a mana exchange rate.
-- Regular (word) scrolls: craft = half cast cost; power designed (`MagicScrollMaking.md`). Diagnosis blank.
+- Regular (word) scrolls: craft = full cast × Mana Scribing S; power designed (`MagicScrollMaking.md`). Diagnosis blank.
 
 ## How to price without inventing LC/mana
 

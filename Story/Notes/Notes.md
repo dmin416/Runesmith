@@ -181,7 +181,7 @@ Rewrite-only timeskip (~3 months). Source folds this into the opening of Ch 10 a
 - **Basic Calligraphy L9** after months of nightly writing (Mana Scribe gate). Bare windy inn room; wool cloak + Ned for warmth; **Temperature Resistance** makes pauper lodging easier despite having coin. About **nine months** in that lodging (**3 months** goblins + **half a year** with the girls). Party grown on him (smell / crass / drinks leveled **Alcohol Resistance** to **L4**) but Carwen stay temporary. Plans to leave Carwen for craft training / scroll sales (needs established company + selling permit; street peddling dismissed).
 - Mage backline: not regular frontline hits; shortsword still needs repairs; boots wore down; leather cracked; kit **−790 LC** over the half year. Bronze/Steel pay is low until Silver (needs T2). Rank ladder talk: Bronze/Steel = T1; Silver/Gold = T2; Platinum+ = T3; Adamantium maybe T4/5; most stop at Silver.
 - Resolves toward craftsmanship: loves the hunt and party but hits Mage L25 limits vs the girls; Multitasking does not mean multi-spell cast; sword+cast barely holds a Spiked Boar, not a Wereboar. First-class mages are not frontliners (carpenter/meal analogy). Does not delude himself about dying in the profession.
-- Scroll strength scales with mana infused (chapter). Notes: craft = half cast cost; power designed (`References/Runes/MagicScrollMaking.md`). Crafting classes earn less XP from monster fights. Sahildr won't lend the hammer (arm-wrestle / drink tease). Regular enchantments cheaper/weaker; **suffused through** the item (not surface-engraved); storage bag shows no rune traces but mana moves under the surface; only runic items draw his pathway sense. Plans study piece: knife with **lesser sharpness**. Avoid dungeon until class change (XP banks with heavy loss like first ascension).
+- Scroll strength scales with mana infused (chapter). Notes: word craft = full cast × Mana Scribing S; power designed (`References/Runes/MagicScrollMaking.md`). Crafting classes earn less XP from monster fights. Sahildr won't lend the hammer (arm-wrestle / drink tease). Regular enchantments cheaper/weaker; **suffused through** the item (not surface-engraved); storage bag shows no rune traces but mana moves under the surface; only runic items draw his pathway sense. Plans study piece: knife with **lesser sharpness**. Avoid dungeon until class change (XP banks with heavy loss like first ascension).
 - Innkeepers **Hilde** and **Boris** named; monthly stay **10%** off (**270 LC**; same advertised rate as Ch 9). Digs buried class-change crystal (~**2 small gold** market; commoner household ~**4 LS**/month; he has barely half saved). Basic skills still climbing inside Basic cards (Running/Sneaking/Swordsmanship; he jogs this trip for Running and skips Sprint on the hot open road vs the dungeon). Each new Basic rank still pads its favored attribute.
 - Ambush on the return path: throwing knives, hooded man ~183 cm, heavy rapier. Calls him **bastard son**; implies Baron. Reveals as the forgotten Arden watcher. Cliffhangs mid-fight.
 
@@ -270,16 +270,113 @@ Rewrite-only timeskip (~3 months). Source folds this into the opening of Ch 10 a
 
 ## Chapter 21
 
-- Five shops by sunset. Later contracts worse than Exeor (longer terms, quotas or fixed hours, no days off). Shops in cahoots; mats priced so only intermediate scrolls profit; academy kids get soft deals; solo acts get near slave labor. Breach curse: **−60% mana** until term ends. May forbid part-time / smith work.
-- Options weighed: leave city, dungeon-town side hustle (craft XP from kills is weak), hooded market peddle, or **auction** (anonymous). Marks **Libra Auction House** (scale sign; curvy elf barker; **2 SS** entry weeds window shoppers; day intake / night sale).
-- Inn practice: Mana Arrow regular scroll ~10 min → **+20 XP** (incantation + mana ink; Identify = name only). Fire Orb runic ~45 min → **+50 XP** (Diagnosis still shows red; needs practice). Five regular scrolls ≈ 100 XP vs one runic 50; schematics cover XP; gold plan = runic bundles of ten. Diagnosis blank on regular scrolls (different laws). Fire Orb works at **0%** fire affinity (anyone can fire scrolls). Supplies already cost a couple large silver.
-- **Later (open):** drawing / making **regular magic scrolls** is a different craft from **runic scrolls**. Need to learn and lock the difference (laws, skills, Diagnosis blank on word/incantation scrolls, materials, timing). See `Ideas.md` Open.
-- Decision: refuse six-year traps; practice runic scribing; auction tens. Party **10 SG** covers ~half year with no wages.
+**Summary:** Same evening as Ch 20 job hunt. Five shops by sunset prove the cartel; finds **Libra Auction House**; inn tests word **Mana Bolt** then runic **Fire Orb**; chooses auction grind over indenture.
+
+**Beat map**
+- Five shops by sunset. Later contracts worse than Grimboodle's (longer terms, quotas or fixed hours, no days off). Shops in cahoots; mats priced so only intermediate scrolls profit; academy kids get soft deals; solo acts get harsh labor. Breach curse: **−60% mana** until term ends. May forbid part-time / smith work.
+- Options weighed: leave city, dungeon-town side hustle, reclusive-gnome market peddle, or **auction** (anonymous). Marks **Libra Auction House** (scale sign; curvy elf barker; **2 SS** entry; day intake / night sale; clerk confirms).
+- Inn practice: **Mana Bolt** word scroll (few min) → list **25**, L1 pay **22.5** MP ("about as much as casting the Bolt himself"), **+25 XP** (Identify = name only). Fire Orb runic → about **three Mana Bolts** of mana (~**75** MP; Low/Lowest band), **+25 XP** (Diagnosis still red). Same XP for same designed cast; runic slower. Diagnosis blank on regular scrolls. Fire Orb works at **0%** fire affinity. Supplies already a few large silver (future investment framing).
+- Decision: refuse six-year traps; practice to cut mana cost; auction bundles / brand; party gold covers **nearly a year without working**; close on adventure, not life-or-death grind.
+
+**Changed (rewrite vs Source)**
+- First contract tone: Source "scam" → decent/strict, unpleasant but not terrible (tracks Ch 20 Grimboodle walk-away).
+- Inner line: "I made a big mistake" → misunderstood working conditions. Sun Church "strange" pose → familiar poses + Astora-on-Terra aside.
+- Age on-page: Source "not even eleven" → **just eleven** (Timeline lock).
+- Competition fear: Source mostly "safe / won't hit their bottom line" → dusty shelves help, but businessmen still uncertain; Carwen eased youth worry, Highest still rare.
+- Peddle idea: hooded robe → pretend reclusive gnome. Auction path more deliberative (hopes city has one; anonymity TBD).
+- Street: Ned gets apple scrap + chin plates; oxen → **Trox**; luck/charm line lands twice (Ned, then Libra). Fee lecture shortened (clientele filter, not long poor-vs-rich rant). Intake hours from **clerk**, not pure guess.
+- Supply / start lines: poorer grumble → investment; "I hope this pays off" → "*Here goes nothing.*" + Ned blood send-off.
+- Word scroll: Source **Mana Arrow** (~10 min, **+20 XP**) → **Mana Bolt** (first/basics; few min; **+25 XP** = cast). Pour cost said in Bolt units. Body-feel channeling kept/expanded; no "no lines to slow him" shortcut.
+- Runic Fire Orb: Source **+50 XP** / ~**45 min** / hands-waver excuse → **+25 XP** (= Orb cast **25**); "about three Mana Bolts" pour (~**75**); ink viscosity / hide roughness / mana in mats; Diagnosis overlay works on thin schematics, not thick hide; trial redraw ≠ live perfect.
+- Dropped Source "5 word ≈ 100 XP vs 1 runic 50" optimality rant. Added: runic potential / printing-press thought; card-deck fantasy; Runesmith gear upkeep OK for Int-heavy scribe; flood market vs brand; practice lowers mana cost.
+- Debugger → **Diagnosis** throughout. Party runway: Source **half a year with no work** → **nearly a year without working**. Close: "scribe like his life depended on it" → **continue enjoying his amazing adventure**.
+
+**Unchanged (still Source spine)**
+- Five shops / cartel / academy soft deals / **−60%** breach curse / leave-or-dungeon options.
+- Libra discovery beat (scale gate, curvy Chinese-dress elf, half hour, **2 SS** entry weeds crowd, mark map, sell later).
+- Inn order: word scroll then Fire Orb; Identify name-only; Diagnosis red on runic / blank on word; **0%** fire affinity still fires; three runes known, Fire Orb is the scrollable one.
+- Plan: practice runic, bundles of ten, auction over six-year desk trap. TV/internet → taverns / red light aside. Morning plan to buy sample runic scrolls.
+
+**Open vs lock**
+- Word vs runic craft laws still partly open (Diagnosis blank on word scrolls locked on-page; full skill/material split may still need Reference lock). See Ideas Open if present.
+- Living-only purse optimism (**nearly a year**) vs mats burn: resolved in **Ch 21.5** / Ch 22 lookback (**ten months** thought → **half a year** actual).
+
+## Chapter 21.5
+
+**Working lock (full beat / experiment map):** `Chapter21_5.md`. Resistance grind: `ResistanceGrindBurnFreeze.md`.
+
+Rewrite-only timeskip (~**half a year** / **6 months**). Source folds mid/late into Ch 22 open. **Opening prose is author-written** in `Chapters/19-30.md` (chapter wins). Mid-skip month grind / comet batch / last **1 SS** still Notes + Ch 22 lookback until more 21.5 prose lands.
+
+**Enter (end Ch 21):** auction plan; word Bolt + red Fire Orb practice done; wallet **~21,448 LC**; party gift still mostly intact; Singing Crow; **Ned**; three Highest lesser schematics; blanks/ink on hand. Age **11 and 0 months** / **6 years** in-world.
+
+**Beat map (opening = chapter)**
+- **Morning after Ch 21:** early buy of the three runic scrolls from the **second shop** only (does not chase other shops yet). Puts them away. More supplies to recreate trial conditions. **Regular paper**; ignores expensive ink.
+- **Cheap ink (chapter):** thin and dark; smells like rust and dried iron. Mana Sense shows the same dank / vaguely fetid mana color as goblins and sewer rats. He reads magic ink as magical substrate + crushed magic stones → plans to **make his own**. Brief Ned gel-sack / slug-caterpillar harvest idea; drops it (do not antagonize Ned).
+- **Ned:** silk variety for clothing upgrades (itchy linen long johns / sack-soft leather boots complaint).
+- **Drill:** thinner paper + hides from the day before; trace proper runic structures by hand/quill, Mana Hand as quill and all-at-once like the class test. Do **not** imbue all at once; imbue properly after the ink has settled on the surface.
+- **Sample cost (locked from Ch 20 shelf):** Orb of Light **1 LS** · Fire Arrow **2 LS** · Aqua Ball **1 LS**. **Total 4 LS = 400 LC**. Wallet **21,448 → 21,048 LC** after the three (before further mats).
+
+**Beat map (rest = Notes until prose continues)**
+
+**Process / temperament**
+- Desk work is skill gain. He levels **everything that can tick** while making scrolls (Rune Scribing, Drawing, Multitasking, Hands uses, understanding, Sleep Resistance on short nights, class XP on pours, etc.). Not a single-skill tunnel.
+- **~10× mind** (`FocusCapacity.md`) plus high Willpower. Will of ten men feel. He is not a sensitive wreck under ink and fails. Grind hard without constant bitching (Roland rewrite).
+
+**Homemade ink + Fire Orb first**
+- Brews own ink from **his blood + Ned's blood + powdered goblin cores** (stone-bank stock). Rough hide hosts. Same pour-cost band as shop/trial work, **clearly higher seating quality** than the Ch 16 trial success / Ch 21 red practice.
+- **Perfects Fire Orb quickly** to the same working level shown in the class test (functional seating, clean enough to match that trial outcome) even on rough hide + homemade ink. Fast, not a month wall.
+- **Immediately after** that Fire Orb lock he isolates segments **basically instantly**: **water** element from the **Aqua Ball** sample, **light** from the **Orb of Light** sample. Diagnosis / Technology / prior linear-chain read. No long research beat.
+- **Shape-family pattern (with Arrow + Ball + Orb in hand):** **Ball ≈ Orb** — nearly the same machine; difference is a **couple of extra lines**. **Arrow** keeps a **similar overall form on the shaping portion** but packs a **very different set of sub-symbols inside that shaping segment**. He starts to see runes as shared skeletons with swap-in cores / extras, not three unrelated drawings.
+- **Runic Mana Bolt (same stretch):** **Orb and Bolt share the same shaping.** Same initial shape. Difference is the **compression / restraint** section — Bolt adds **explosive compression** (kinetic pop); Orb stays soft (restrain / no explode-on-form). He builds a working **runic Mana Bolt** by adding that compression block to the shared Orb-shape spine. First pure-mana runic attack scroll in his kit (0% affinity still fine).
+- **Shape-symbol kit (locked after this):** he holds runic forms for **Orb/Bolt shaping** (shared), **Ball** (Orb + a couple lines), **Arrow** (similar outline, different inner sub-symbols), plus Bolt’s **compression** block. Pure-mana or elemental converters ride those once he has the rest of the chain.
+
+**Then Common Fire Arrow track**
+- Perfect **Fire Arrow** schematic (**2×** lesser XP). Orb / Aqua full schematics when desk allows (segment isolation already done).
+- **Month 1:** fails → first Common FA at **Lowest** ~full month after the FA push starts. Hands-as-pen + stamp press already in the chapter drill.
+- **Months 2–6:** High/Highest comet brand; refuse Low; robe/mask servant cover; mats burn to **last 1 SS**. Sleep Resistance **+1**.
+- **Exit into Ch 22:** ten Common Fire Arrows (**8 High + 2 Highest**); seller plaque; bloodshot.
+
+**Skills / class (exit locks)**
+| Track | Exit |
+|---|---|
+| Basic Rune Scribing | **L5** (biggest climb) |
+| Understanding of runic scroll making | **L2** (prose progress line; not the same card as Rune Scribing) |
+| Basic Rune Mastery | slight up only (desk pours barely move it; combat is later) |
+| Basic Mana Scribing | still low (**L1** soft; **L2** by Ch 23) |
+| Drawing | climbing off-page from plain **L1** (no printed mid-rank) |
+| Mana Hands | stays **L9** (evolve bar only) |
+| Multitasking | keeps climbing on dual quill/Hands work (enter train **L5**) |
+| Sleep Resistance | **+1** over the half year (sheet talk Ch 23) |
+| Class | Runic Mana Scribe **a few levels** (exact L soft until rewrite sheet); overall bar pads on schematic **+2000** + many cast-XP pours (`Experience.md`) |
+
+**Daily skill climb (field curve; ~180 days; averages)**
+
+Uses law: `SkillRanks.md` (**1 / 10 / 50 / 200 / 1,000 / …**). Hands actions: `ManaHands.md` (`ceil(m/100)×t×A` per finished action). Clean ~**40–70%** of raw desk attempts early.
+
+| Track | Enter → exit | Clean uses needed | **Avg clean / day** | Notes |
+|---|---|---|---|---|
+| Basic Rune Scribing | L1 → **L5** | **1,000** | **~5.6** | Main grind. Month 1 fewer clean (fails); later denser. Raw attempts often **~10–20**/day |
+| Understanding (runic scrolls) | L1 → **L2** | **10** | **≪1** | Clears in the first days of real Common work |
+| Drawing | L1 → **~L5** soft | **~1,000** if it tracks line work | **~5.6** | Same actions as scribing when lines land clean; exit rank unprinted |
+| Multitasking | L5 → **~L6** soft | **4,000** to L6 | **~22** | Dual quill + Hands per finished scroll action; may exit mid-L6 if denser |
+| Mana Hands | L9 → still L9 | toward **2M** evolve | **~50–200** typical | Scribe action ~**6** uses (30 g × 120 s × 0.05 cm²); **10** actions/day ≈ **60**/day. Half year at ~**100**/day ≈ **18k** uses ≪ **1.5M** left to Mind (~**1%** of the evolve wall) |
+| Basic Mana Scribing | L1 → L1 | — | **~0–1** | Rare word drills; not the plan |
+| Basic Rune Mastery | L1 → slight | combat-gated | **~0** desk | Almost no daily climb until grimoire fights |
+| Sleep Resistance | +1 rank | skip meter | — | One-meal / short-sleep half year; not the Hands use formula |
+| Class / overall XP | +few Scribe L | cast XP / day | soft | Early FA schematic **+2000**; each pour XP = designed cast (FA **50**, Orb **25**). Exact L soft |
+
+**Rhythm:** inn desk most days; buy mats as coin allows; Fire Orb when Common fails stack; no shop contract; no dungeon main. Adventure motive stays (auction freedom vs six-year desk curse), not greed-first.
+
+**Open vs lock:** Chapter owns the opening only so far. Mid-skip / comet exit still Notes + Ch 22 lookback. Ch 25 later tries **Orb of Light / Aqua Ball / Frost Bolt** again; retcon later. Mat LC ledger and exact mid-skip class L still soft.
+
+End ranks / XP / coin: `Skills.md` / `Experience.md` / `Items.md` / `Status.md` Ch 21.5. Timeline age **11 and 6 months**.
 
 ## Chapter 22
 
-- Months grinding Common **Runic Fire Arrow**: bought sample at Exeor (Zilyana tried to talk him out of it). Perfect schematic = **2×** lesser schematic XP. Common harder than lesser; ~1 month to first Lowest; practiced Fire Orb between fails. Burned through party **10 SG** + adventurer savings; last **1 SS**. Basic Rune Scribing **L5**; understanding of runic scroll making **L2**; Rune Mastery slightly up; class a few levels. Robe + mask; poses as servant of a posh runesmith; comet/shooting-star logo branding; father/assassin paranoia.
+**Present day** after Ch 21.5 (~half year of Fire Arrow grind). Auction day; grind backstory lives in **21.5**.
+
 - Libra: **Percival** (analytic class; appraisal/ID without mana tools) + assistant **Cynthia**. Rejects below price floor. Appraises ten Common Fire Arrows: **8 High + 2 Highest** (none Intermediate). High ≈ up to **9 SS**; Highest near grade-jump (half-step toward Greater), maybe 2–3×. Runic scrolls can **amplify** if the user feeds more mana (rank-capped). City runesmiths mostly metal; scrolls are mana-control practice.
+- Lookback (filed under 21.5): next-day buy **Orb of Light + Fire Arrow + Aqua Ball**; Fire Arrow schematic **2×** (main grind); month-1 Lowest FA; Rune Scribing **L5**; understanding **L2**; Mastery slight; last **1 SS**; brand + servant disguise.
 - Auction: seller plaque (no entry fee); sits in back; first-timer cut **25%** (can fall to 10%). Stage for common→grand; paddles; beauty auctioneer. Two boxes of five (4 High + 1 Highest each); open **3 LS**; sell **4L+5S** and **4L+7S** (~**1 SG** gross).
 
 ## Chapter 23

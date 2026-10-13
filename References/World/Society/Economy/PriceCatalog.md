@@ -204,7 +204,7 @@ Size = level through the leader band. Above leader, guilds use stepped size band
 | Ink per T1 scroll | **~10 LC** (**5–15 LC** band) | Lock |
 | Ink T2 / T3 / T4 / T5 | **15 / 25 / 40 / 70 LC** | Lock |
 | Word Mana Arrow Intermediate (shop) | **3 SS** | Lock |
-| Word Mana Arrow Lowest → Highest (fair list) | **2 SS** / **2 SS 5 LC** / **3 SS** / **3 SS 5 LC** / **4 SS** | Lock (`ScrollEconomy.md`; half cast cost; junk loss / scarcity) |
+| Word Mana Arrow Lowest → Highest (fair list) | **2 SS** / **2 SS 5 LC** / **3 SS** / **3 SS 5 LC** / **4 SS** | Lock (`ScrollEconomy.md`; full cast × S; junk loss / scarcity) |
 | Word Fire Arrow Intermediate (shop) | **6 SS** | Lock |
 | Word Fire Arrow Lowest → Highest (fair list) | **4 SS** / **5 SS** / **6 SS** / **7 SS** / **8 SS** | Lock (`ScrollEconomy.md`) |
 | Word Fireball Intermediate (shop talk) | **≈3 LS** (fair **3 LS 2 SS**) | Lock |
@@ -218,7 +218,7 @@ Size = level through the leader band. Above leader, guilds use stepped size band
 | Exeor settled High-only list | **10–12 SS** | Design |
 | Weekly ~10 High Fire Arrow gross | **~1 SG** | Lock feel |
 
-Cost engine (baseline scribe + half cast cost, shop cut, full table): `../../../Runes/ScrollEconomy.md`. Craft lock: `../../../Runes/MagicScrollMaking.md`. Do not invent LC-per-mana tariffs.
+Cost engine (baseline scribe + full cast × S, shop cut, full table): `../../../Runes/ScrollEconomy.md`. Craft lock: `../../../Runes/MagicScrollMaking.md`. Do not invent LC-per-mana tariffs.
 
 ---
 

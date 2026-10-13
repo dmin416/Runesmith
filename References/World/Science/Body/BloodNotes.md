@@ -1,6 +1,6 @@
 # Blood Notes
 
-> Earth reference / design loot. Not locked law. Body physiology hub: `Body.md`. Blood restore / Recovery: `../../../Progression/Attributes.md`, `../../../Progression/SkillsDesign.md`. Suffocation / blood-loss resist: `../../../Progression/ResistanceImmunitySystem.md`. Wound trails in hunt prose.
+> Earth reference / design loot. Not locked law. Body physiology hub: `Body.md`. Blood restore / Recovery: `../../../Progression/Attributes.md`, `../../../Progression/SkillsDesign.md`. Suffocation / blood-loss resist: `../../../Progression/ResistanceImmunitySystem.md`. Wound trails in hunt prose. Transfusion craft: `BloodTech.md`.
 
 ---
 
@@ -11,13 +11,23 @@
 - **Smell:** Metallic. The "iron" smell is partly a compound formed when blood's iron reacts with oils on skin.
 - **Clotting:** Sets into a dark red jelly within minutes. Over the next hour the clot shrinks and squeezes out clear straw-yellow serum.
 
-## Cow
+## Cow (Earth)
 
 - **Color:** Deep red, very close to human. "Oxblood" as a color name refers to the dark brownish red that dried cattle blood takes on.
 - **Consistency:** Slightly thinner than human blood (hematocrit around 30 to 35% vs human 40 to 45%). Red cells are small and don't stack much, so blood in a bucket stays evenly mixed longer before settling.
 - **Volume:** About 55 to 65 mL per kg. A 600 kg steer holds roughly 35 L; slaughter bleeding recovers about 15 to 20 L.
 - **Clotting:** Moderate speed. Butchers stir it by hand or add salt or vinegar to keep it liquid.
 - **Uses:** Blood sausage, blood meal fertilizer, traditional polished "oxblood" clay floors. Maasai herders tap a live cow's neck vein and drink the blood fresh or mixed with milk.
+
+## Trox (Caldris draft stock)
+
+Earth cow/ox blood mapped onto Trox (`../../Fauna/Mounts.md`). Use this for shop tags, butcher talk and cheap beast-blood ink. Do not write cow or ox on Terra labels.
+
+- **Color:** Deep red. Dried Trox blood goes dark brownish red.
+- **Consistency:** Thin (hematocrit around 30 to 35%). Red cells stay small and do not stack much. Blood in a bucket stays evenly mixed a long time before settling.
+- **Volume:** About 55 to 65 mL per kg. A heavy draft Trox holds tens of liters. Slaughter bleeding recovers a large share.
+- **Clotting:** Moderate speed. Stirring or salt or vinegar keeps it liquid.
+- **Uses:** Food stock, blood meal, polish and binder work, living-path carrier in street-cheap magic ink / liquid Trox blood.
 
 ## Pig
 
@@ -72,7 +82,7 @@ Insects don't have blood in the mammal sense. They have **hemolymph**, which slo
 
 | Animal | Fresh color | Thickness | Clot speed | Notable trait |
 |---|---|---|---|---|
-| Cow | Deep red | Slightly thin | Moderate | Large volume, slow settling |
+| Cow (Earth) / Trox (Terra) | Deep red | Slightly thin | Moderate | Large volume, slow settling |
 | Pig | Bright red | Medium | Fast | Closest to human |
 | Boar | Dark deep red | Medium-thick | Fast | Gamy smell, sparse trails |
 | Bird | Bright scarlet | Medium | Variable | Hot, nucleated cells |

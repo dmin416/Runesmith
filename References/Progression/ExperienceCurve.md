@@ -16,7 +16,7 @@ Awards are **straightforward**: flat or simple by action. Class does **not** cha
 | Typical early forest goblin (~L4) | **200** (RaceMult 1.0) |
 | First Kill achievement (on top of the kill) | **+200** (Chapter 4; not every kill) |
 | First-time basic / lesser rune schematic at **[Highest]** | **1000** (quality ladder: **100 / 200 / 400 / 600 / 1000**; raise pays difference) |
-| Repeat scrolls / practice crafts | much less than first schematic (story: ~20 regular, ~50 runic until retuned) |
+| **Scroll craft** (word or runic; locked forward) | **XP = designed cast cost** of the spell made (spell mana cost). Ignore Scribing / cost-cut skills. Old ~20 / ~50 repeat tags superseded |
 
 **Goblin levels in early rewrite**
 
@@ -108,8 +108,11 @@ XP already spent stays spent. Goblin-counts are a yardstick only. Real paths mix
 | Goblin L4 (RaceMult 1.0) | 200 | ~1/12.5 level | ~1/62.5 level | ~1/125 level |
 | First basic/lesser rune schematic | 1000 | 0.4 level | 0.08 level | 0.04 level |
 | First Common rune schematic (e.g. Fire Arrow) | **2000** (2× lesser) | 0.8 level | 0.16 level | 0.08 level |
-| Mana Arrow scroll (repeat craft) | 20 | tiny | tiny | tiny |
-| Fire Orb runic scroll (repeat) | 50 | tiny | tiny | tiny |
+| Mana Bolt scroll (designed cast **25**) | **25** | tiny | tiny | tiny |
+| Orb scroll (Fire Orb / light; designed cast **25**) | **25** | tiny | tiny | tiny |
+| Mana Arrow scroll (designed cast **50**) | **50** | tiny | tiny | tiny |
+| Fire Arrow scroll (designed cast **50**) | **50** | tiny | tiny | tiny |
+| Mana Ball / Fireball scroll (designed cast **400**) | **400** | 0.16 level | 0.03 level | 0.02 level |
 | Person L55 (pool `50 × L`) | **2750** | ~1.10 level | ~0.22 level | ~0.11 level |
 | Tier 2 fencer L55 (Roland share; Ch 14) | **479** | ~0.19 level | ~0.04 level | ~0.02 level |
 
@@ -127,7 +130,9 @@ Ch 19 Fire Orb: memory **[High] +600** then **[Highest] +400** = **1000**.
 
 Chapter 26 common schematic stacking: Intermediate common = **1000 XP**; then perfecting to Highest adds another **1000** (total **2000** = **2×** lesser Highest). Going straight to Highest also pays **2000**. No further XP for redoing the same schematic past that cap. Perfect common schematic from a shop sample pays **2×** lesser (`../Combat/Spells.md` Fire Arrow).
 
-Chapter 21 timing: regular Mana Arrow ~**10 min** / 20 XP; Fire Orb runic ~**45 min** / 50 XP (imperfect). Five regular scrolls ≈ one runic's time for more XP; schematics still dominate leveling. Shop breach curses: `../Runes/ScrollEconomy.md`. Common schematics pay **2×** lesser (`Progression.md`).
+**Scroll craft XP (locked forward):** `XP = designed_cast_cost` of the spell on the scroll. Same for word and runic. **Do not** reduce XP when Scribing skills cut mana paid. Word pay = `cast × S_mana_scribing`; runic clean pay = `(cast / η_cond) × S_rune_scribing`; botches can burn more (`../Runes/MagicScrollMaking.md`). XP tracks the **spell** cost, not the pour. First schematics stay on the quality ladder above. Rune **item** seating XP not locked here.
+
+Chapter 21 timing (prose pace): regular Mana Arrow ~**10 min**; Fire Orb runic ~**45 min**. Old on-page **+20** / **+50** tags are superseded by this law going forward (Arrow **50**, Bolt **25**, etc.). Schematics still dominate single-spike leveling. Shop breach curses: `../Runes/ScrollEconomy.md`. Common schematics pay **2×** lesser (`Progression.md`).
 
 Chapter 14 narration: common Tier 2 packages grow about **×1.5** vs Tier 1 (forward-only on new levels). Fresh T2 physicals still burn hard on active skills (**stamina**; Gale Step and similar). A coordinated T1 party deep into second classes can beat a green T2. **Ch 14 lock:** Arden watcher fencer is overall **L55** (not green); Becky / Sahildr / Reyna overall **~45**; Roland Mage **L25**. Party coordination + skill waste still beats him.
 

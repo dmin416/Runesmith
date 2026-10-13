@@ -77,6 +77,11 @@ Passive. Sense soul energy (Soulsmith path).
 First seen: Chapter 148
 Multi-mind processing Roland relies on for complex runework.
 
+### Mana Hands / Mana Mind / Mana Heart / Mana Soul
+First seen: Chapter 10 (Hands). Self-discovered spell: move objects with mana (lift, fetch, hold, shove, ink). Visible hands optional. Evolves **Mana Hands → Mana Mind → Mana Heart → Mana Soul**. Each level upgrades efficiency (\(R\)), accuracy, precision, stability, and mass/range/grips together. Prior form L9 is a power floor on evolve. Not Mana Control (Regulation track).
+**Canon lock:** `ManaHands.md` (\(R\), mana↔joules, action uses, level/evolve times). Worked joule table: `../World/Science/Energy/ManaCast.md`. Catalog: `../Combat/Spells.md`.
+Roland: Hands **L9** by Ch 13.
+
 ### Multitasking
 First seen: Chapter 12
 Gained while holding multiple **Mana Hands** over a cook fire (eight skewers). Lets him split attention across concurrent actions. Roland does not notice the unlock on-page. Hard-caps at **L9**, then evolves.
@@ -106,7 +111,7 @@ Already had at transfer from maps, GPS habits and diagrams at L4.
 
 ### Basic Calligraphy
 First seen: Chapter 7 (books packed for grind); L9 on status Chapter 13
-Writing skill. Roland takes calligraphy books when leaving Arden. Grinds months of nightly writing to L9 as a requirement for Mana Scribe (popup Chapter 13). Chapter: more mana into writing makes a stronger spell scroll. Notes: craft = half cast cost; power designed (`../../Runes/MagicScrollMaking.md`).
+Writing skill. Roland takes calligraphy books when leaving Arden. Grinds months of nightly writing to L9 as a requirement for Mana Scribe (popup Chapter 13). Chapter: more mana into writing makes a stronger spell scroll. Notes: word craft list = full cast; Mana Scribing cuts pay; power designed (`../../Runes/MagicScrollMaking.md`).
 
 ## Resistance and recovery
 
@@ -474,7 +479,8 @@ Faster, better chanting. **Intelligence +1 per level**, **Willpower +1 per level
 
 ### Basic Mana Scribing
 First seen: Chapter 16
-Scribe basic spells onto scrolls. Temporary in the Runic Mana Scribe trial, then permanent at L1. Chapter 21: write the spell's incantation in the correct language while pushing mana through quill and ink (no runic pathways). First Mana Arrow scroll ~10 min, **+20 XP**. Identify on his own scroll returns name only until scribing levels.
+Scribe basic spells onto scrolls. Temporary in the Runic Mana Scribe trial, then permanent at L1. Chapter 21: write the spell's incantation in the correct language while pushing mana through quill and ink (no runic pathways). First **Mana Bolt** word scroll: list **25**, L1 pay **22.5**, **+25 XP**.
+**Cost bonus (locked):** **-10% mana to scribe** a word/magic scroll **per skill level, capped at -90% (L9)** → `paid = cast_cost × (1 − 0.1×L)`. Twin of **Basic Rune Scribing** on runic scrolls. Class learning-ease does not stack on this cost. Craft XP = designed cast (ignore S). Identify on his own scroll returns name only until scribing levels.
 
 ### Mana Reinforcement
 First seen: Chapter 9.5 (rewrite self-teach); Source Chapter 56 (skill book)
@@ -517,7 +523,7 @@ Inscribe magical runes on items. Runic Blacksmith grant (temporary in trial, the
 ### Basic Rune Scribing
 First seen: Chapter 16
 Scribe runes to scrolls. Temporary in the Runic Mana Scribe trial, then permanent at L1. Runes have a max working size; the trial forces a compressed fire-orb schematic onto scroll parchment. Chapter 22: Common Fire Arrow grind to **L5**; understanding of runic scroll making noted at **L2** (separate progress line in prose). Chapter 27: can compact commons onto **envelope**-size scrolls (aim: playing-card); power holds but overload headroom drops; Fire Arrow throughput **5-6**/day.
-**Cost bonus (locked):** **-10% mana cost to scribe** a rune onto a scroll **per skill level, capped at -90% (L9)** → the scroll-side twin of Runecraft's setup discount on items (`../Runes/RuneSetup.md` skill S factor). This is the **only** mana-cost discount on scroll setup; the Runic Mana Scribe class card grants a separate, non-cost learning-ease bonus instead (`Classes.md`), so the two never stack on the same cost. Unlike the class bonus, this stays on the sheet through any later class change → the persistent half of the pair.
+**Cost bonus (locked):** **-10% mana cost to scribe** a rune onto a scroll **per skill level, capped at -90% (L9)** → `paid = (cast / η_cond) × S` with that S. Twin of **Basic Mana Scribing** on word scrolls and of Runecraft's item setup discount (`../Runes/RuneSetup.md`). Class learning-ease does not stack on this cost. Stays on the sheet through later class changes.
 
 ### Basic Rune Mending / Rune Mending
 First seen: Chapter 81

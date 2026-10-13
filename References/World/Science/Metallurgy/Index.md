@@ -39,6 +39,7 @@ Forge metals, Earth alloys, ores, vacuum, gem seats, kitchen metal.
 - [Arrowheads.md](Arrowheads.md). Forged / cast heads, flight
 - [StructuralForge.md](StructuralForge.md). Hammers, beams, vacuum-seam pipe / I-beam
 - [Thermometers.md](Thermometers.md). Temperature readout ladder
+- [JewelryWire.md](JewelryWire.md). Earth jewelry-wire strength, bend, twist and braid. Not mythril grades
 
 ## Magic craft
 

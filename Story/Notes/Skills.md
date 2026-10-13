@@ -607,11 +607,25 @@ No new skills. Hides Runic Mana Scribe while job hunting as Mana Scribe. Still h
 
 ## Chapter 21
 
-First on-page Mana Scribing: Mana Arrow scroll (~10 min, +20 XP; Identify = name only). First practice Fire Orb runic scroll (~45 min, +50 XP; Diagnosis red). Diagnosis blank on regular scrolls. Runic scrolls work at 0% elemental affinity. Plans auction practice grind.
+First on-page Mana Scribing: **Mana Bolt** word scroll (few min, list **25** / L1 pay **22.5** MP, **+25 XP**; Identify = name only). First practice Fire Orb runic scroll (~**75** MP / about three Bolts; **+25 XP**; Diagnosis red). Diagnosis blank on regular scrolls. Runic scrolls work at 0% elemental affinity. Plans auction practice grind.
+
+## Chapter 21.5
+
+**Full process / experiment lock:** `Chapter21_5.md`. Burn/freeze resistance grind: `ResistanceGrindBurnFreeze.md` (weak hide Fire Orb patch on leg).
+
+Rewrite-only ~**6 month** desk grind (Source folds into Ch 22 open). Enter: Rune Scribing **L1**, Mana Scribing **L1**, Rune Mastery **L1**, Drawing plain **L1**, Mana Hands **L9**, Multitasking **L5**.
+
+**Bought / set up:** three second-shop runics (Orb of Light, Fire Arrow, Aqua Ball); cheap ink → homebrew plan; Ned silk; quill / Hands-as-pen / all-at-once settle-then-imbue drills.
+
+**Made:** homemade ink (his blood + Ned's blood + powdered goblin cores; drain crumbly vs overload explode); Fire Orb to trial quality on rough hide; weak hide Fire Orb leg patch for burn grind.
+
+**Discovered:** water and light after Fire Orb; Ball ≈ bigger Orb; Arrow shared outline / different inners; Orb–Bolt shared shape (Bolt small-mana compression, Ball moderate, Orb soft restraint); system Mana Bolt has no contact-detect (pop = compression undone); ratios matter / shrink cuts power / upsizing compression alone tends to implode; swaps beat ratio tweaks (Aqua Ball → Fireball, water arrow, light ball); lazy wrong ratios still Diagnosis-readable unless paper burns; skill feel = clockwork familiarity; freeze-flip fails (in chapter).
+
+**Exit:** working runic Mana Bolt; FA schematic → High/Highest comet batch; Rune Scribing **L5**, understanding **L2**, Sleep Resistance **+1**, ten branded FA scrolls, last **1 SS**, servant cover into auction.
 
 ## Chapter 22
 
-Basic Rune Scribing L5. Understanding of runic scroll making L2. Basic Rune Mastery leveled slightly. Perfect Common Runic Fire Arrow schematic (**2× XP** vs lesser). Auction set: 8 High + 2 Highest Common Fire Arrow scrolls (comet logo). Cover: robed/masked servant of a runesmith.
+Auction day after 21.5. Skills as 21.5 exit. Batch: 8 High + 2 Highest Common Fire Arrow (comet logo). Cover: robed/masked servant of a runesmith.
 
 ## Chapter 23
 

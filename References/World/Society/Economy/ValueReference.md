@@ -19,7 +19,7 @@ History is English unless noted, mostly 14th century.
 | Laborer | ~2d/day; £2/year max (c. 1300) | 10 LC/day; 2,400 LC/year | 5–10 LC/day | **5–10 LC/day** |
 | Master carpenter | 3d/day (1351) | 15 LC/day | Skilled town craft 15–25 LC | **15–20 LC/day** (Lock) |
 | Master mason | 4d/day (1351) | 20 LC/day | Same band | **20 LC/day** (Lock) |
-| Classed (Tier 1) crafter | No history (magic premium) | n/a | 30–50 LC/day; Mage+Scribe Intermediate throughput higher | **30–50 LC/day** band (mason compare); word engine uses classed MP + half cast cost (`ScrollEconomy.md`) |
+| Classed (Tier 1) crafter | No history (magic premium) | n/a | 30–50 LC/day; Mage+Scribe Intermediate throughput higher | **30–50 LC/day** band (mason compare); word engine uses classed MP + full cast × S (`ScrollEconomy.md`) |
 | Kitchen servant / maid | 2s–4s/year + keep | 120–240 LC/year + board | Earlier proposal 1.5–3 LS/month (too high) | **1–2 SS/month + board** (Lock) |
 | Page / boy servant | 1s–6s/year + keep | 60–360 LC/year | None | **5 LC–3 SS/month + board** (Lock) |
 | Squire | 13s 4d–£1/year + keep | 800–1,200 LC/year | None | **7–10 SS/month + keep** (Lock) |
@@ -213,7 +213,7 @@ Promoted to Lock (2026-10), batch 4: food staples (bread, good ale, goose, eggs,
 
 Promoted to Lock (2026-10), batch 5: healing potion ladder + hangover + guild mana; hired help (porter / clerk / T3 barrier / T4 cleric / Platinum); travel (map / horse rental / airship / teleport ticket / old gate activation); skill books T1–T3; church elixir coin bands (scar / curing / limb / divine; casting-labor multiple open) + Solaria **9 SG**; enchanted gear (robe / weapon-shield / prosthetic / carriage); standard golem **2–5 LG**; stall protection **2–5 SS/week**. Soft held: power armor, orichalcum set, mithril/orichalcum anvil, percent town finance.
 
-Promoted to Lock (2026-10), batch 5b: word Intermediate shop anchors T1–T5; blanks / ink. Craft = half cast cost; power designed (`MagicScrollMaking.md`). T1 Mage+Scribe MP **910**; T2 elemental Mage MP **1,610**. Same designed cast → same labor; fair list junk/scarcity (`ScrollEconomy.md`).
+Promoted to Lock (2026-10), batch 5b: word Intermediate shop anchors T1–T5; blanks / ink. Craft = full cast × Mana Scribing S; power designed (`MagicScrollMaking.md`). T1 Mage+Scribe MP **910**; T2 elemental Mage MP **1,610**. Same designed cast → same labor coin; fair list junk/scarcity (`ScrollEconomy.md`).
 
 Next promotions: remaining Design (wine gallons, Needle Worm silk, spell grimoire floor) and Soft late metal/construct bands, one at a time.
 

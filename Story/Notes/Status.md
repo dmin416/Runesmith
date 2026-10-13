@@ -507,13 +507,19 @@ No full status screen. Buys blanks (**5 SS**/10 = **5 LC** each) + ink (~**10 SS
 
 ## Chapter 21
 
-No full status screen. Gains **20 XP** (Mana Arrow scroll, ~10 min) and **50 XP** (Fire Orb runic scroll, ~45 min, imperfect). Diagnosis works on runic only. Auction plan set (bundles of ten). Runway ~half year on party gold. Refuses cursed shop contracts (−60% mana).
+No full status screen. Gains **25 XP** (Mana Bolt word scroll; L1 pay **22.5** MP) and **25 XP** (Fire Orb runic ~**75** MP / three Bolts, imperfect). Diagnosis works on runic only. Auction plan set (bundles of ten). Runway **nearly a year without working** on party gold (living-only; mats burn in **21.5**). Refuses cursed shop contracts (−60% mana).
 
-**Rewrite:** inherits Ch 17 rewrite; Mana Scribing / Rune Scribing climbing off-page toward Ch 22–23 ranks.
+**Rewrite:** inherits Ch 17 rewrite. Changed vs Source filed under `Notes.md` Ch 21.
+
+## Chapter 21.5
+
+No full status screen (rewrite-only skip). Day 1: buys **Runic Orb of Light**, **Fire Arrow**, **Aqua Ball**. Then ~**6 months** Common Fire Arrow grind. Class **a few levels** (soft). Skills: Rune Scribing → **L5**; understanding of runic scroll making → **L2**; Rune Mastery slight; Sleep Resistance **+1**. Wallet **~21,448 LC → last 1 SS**. Bloodshot / one-meal look into Ch 22 auction.
+
+**Rewrite:** pads overall bar toward Ch 23 **L35** / Scribe **L10**; exact mid-skip class L soft. See `Notes.md` / `Experience.md` Ch 21.5.
 
 ## Chapter 22
 
-No full status screen. Class a few levels up (off-page). Skills: Basic Rune Scribing L5; runic-scroll understanding L2; Rune Mastery slight up. Last cash: **1 SS** before auction. Gross sale ~**1 SG** (4L+5S and 4L+7S); **25%** first-timer fee. Party 10 SG lasted ~half year of mats. Comet brand launched.
+No full status screen. Present day after 21.5. Last cash **1 SS** into auction. Gross sale ~**1 SG** (4L+5S and 4L+7S); **25%** first-timer fee. Comet brand launches on-stage.
 
 **Rewrite:** climbing toward Ch 23 full sheet (Scribe toward **L10** / overall **L35**).
 

@@ -8,7 +8,7 @@
 
 **What it is:** how perfect the rune is (pathway seating, form fidelity).
 
-**What it does:** sets **efficiency** on the rune / item path: `η_cond` in `Energy.md` and the activation ladder in `MagicScrollMaking.md` (Lowest **20%** → Highest **100%** in 20% blocks).
+**What it does:** sets **efficiency** on the rune / item path: `η_cond` in `Energy.md` and the activation **and runic craft-pay** ladders in `MagicScrollMaking.md` (Lowest **20%** → Highest **100%** in 20% blocks). Clean craft pay = `(cast / η_cond) × S_scribing`. Botches can burn past Lowest (Ch 16 cascade ~**4%** effective). Good→bad band: `MagicScrollMaking.md` **Runic scroll craft: paid cost**.
 
 **What it is not:** spell tier / rune rank. Not magic-scroll attacking strength. Not host-metal "feel."
 
@@ -18,7 +18,7 @@
 
 **What it is not:** rune perfection / `η_cond`. Not seating-inefficiency waste.
 
-**Craft:** `craft_mana = 0.5 × cast_cost` (`MagicScrollMaking.md`). Stronger designed scrolls cost more to cast and half that to make.
+**Craft:** `paid = cast_cost × S_mana_scribing` (`MagicScrollMaking.md`). Stronger designed scrolls cost more to cast and the same list to make before skill.
 
 **Power:** as the mage designs. More mana in the design → stronger spell and higher cast cost. Not crafter `μ(INT)` as the power dial. Chapter prose that says more mana into writing → stronger stays on-page until rewritten; rewrite craft law is this file's parent lock.
 

@@ -28,7 +28,7 @@ Chapter and Source scrape for word vs runic scroll craft, use, skills, and chapt
 - Skill: **Basic Mana Scribing** (Mana Scribe / Runic Mana Scribe trial grants it).
 - Method: spell out the **incantation** in the correct language while focusing mana into quill and ink. **No** runic pathway drawing.
 - Materials: blank need **not** be magical. Mundane: easier imbue, burns after one cast. Magic stock: harder focus, **2–5** uses until threshold. Magic ink preferred for channel capacity (`../World/Science/Invent/Paper.md`, `MagicScrollMaking.md`).
-- **Scroll quality:** Lowest → Highest designed attacking value. Craft: half cast cost. Power: designed. T1 Mage+Scribe / T2+ mage. `ScrollEconomy.md`, `MagicScrollMaking.md`.
+- **Scroll quality:** Lowest → Highest designed attacking value. Craft: full cast × Mana Scribing S. Power: designed. T1 Mage+Scribe / T2+ mage. `ScrollEconomy.md`, `MagicScrollMaking.md`.
 - **Rune quality:** not this product. Word scrolls have no `η_cond` path.
 - Elemental example: Fire Arrow (T2) maker needs **T2 fire Mage** + Scribe (`MagicScrollMaking.md`).
 
@@ -76,8 +76,8 @@ Chapter and Source scrape for word vs runic scroll craft, use, skills, and chapt
 
 ### At craft (both)
 
-- Maker spends mana **into the writing / pathways**. Magic scrolls: craft = half designed cast (`MagicScrollMaking.md`). Blanks are not free batteries with the user's cast already paid.
-- Regular: imbue at half cast cost; power designed; device grades = attacking value.
+- Maker spends mana **into the writing / pathways**. Magic scrolls: craft = full designed cast × S (`MagicScrollMaking.md`). Blanks are not free batteries with the user's cast already paid.
+- Regular: imbue at full cast × Mana Scribing S; power designed; device grades = attacking value.
 - Runic: craft mana **builds / seats the machine**. **Absorbing:** user pays activation (η table). **Preloaded:** stored spell at craft; user activates. Rune quality (perfection) seats `η_cond`.
 
 ### At use
@@ -126,7 +126,7 @@ Chapter and Source scrape for word vs runic scroll craft, use, skills, and chapt
 
 ## Mentions index (high value)
 
-- Ch 13 / Status: more mana into writing → stronger scroll (chapter fact). Rewrite notes: craft = half cast cost; power designed (`MagicScrollMaking.md`).
+- Ch 13 / Status: more mana into writing → stronger scroll (chapter fact). Rewrite notes: craft = full cast × S; power designed (`MagicScrollMaking.md`).
 - Ch 16 trial: Fire Orb **runic** scroll; skills Basic Mana Scribing + Basic Rune Scribing + Rune Mastery.
 - Ch 20–21 Edelgard: shop regulars vs dusty runic shelf; prices; production classes; Mana Arrow vs Fire Orb practice; Diagnosis blank on regulars; affinity 0 OK for runic; anyone activates runic; auction amplify explanation (Source 21-30 / rewrite 19-30).
 - Ch 22–27: Common Fire Arrow grind; compaction; overload headroom; weekly sales.
@@ -135,6 +135,49 @@ Chapter and Source scrape for word vs runic scroll craft, use, skills, and chapt
 - `RuneSystem.md`: scroll amp rank-capped.
 - `RuneSetup.md`: P1 user-pays vs P9 prepaid (optional).
 - `Economy.md` / `Paper.md`: blank vs finished scroll ladder.
+
+---
+
+## Roland first-scroll ramp (rewrite clocks)
+
+Pattern matches his tests: **first try messy, second same sitting often works** when the image exists. Materials add variables; new hosts reset a short learning loop, not a year.
+
+### First night (Ch 21, monster-skin + magic ink)
+
+| Piece | Time | Result |
+|---|---|---|
+| Word **Mana Bolt** | **few minutes** | Works first try (L1 pay ~cast×0.9). Identify = name only |
+| Practice runic **Fire Orb** | slower than word; same evening | Seats enough for XP; Diagnosis **red** (~**75** MP / ~3 Bolts). Ink viscosity + cheap hide roughness + latent mana; thin-sheet schematic overlay **does not** work on thick hide |
+
+Trial Fire Orb (Ch 16) was already a working seating on beast skin under hourglass pressure (fail → Hands cascade → success). Ch 21 is the first **real-world** Orb on bought stock: still red, not a multi-week wall.
+
+### Half-year desk (Ch 21.5 → Ch 22)
+
+| When | What |
+|---|---|
+| **Day 1** | Buys Orb of Light / Fire Arrow / Aqua samples. **Fire Arrow** schematic perfected first (Common **2×** XP) |
+| **~Month 1** | Common Fire Arrow **possible at Lowest** (Rune Scribing climbing) |
+| **Mid skip** | Quality climbs Low → Intermediate → **High**; fails burn blanks/ink |
+| **Exit (~6 months)** | Rune Scribing **L5**; comet batch **8 High + 2 Highest** FA; Orb/Aqua boards when desk allows; Mana Scribing still low (**L2** by Ch 23) |
+
+### Throughput after sellable quality
+
+| Beat | Pace |
+|---|---|
+| Ch 26 contract | ~**1 hour**/Common FA; min **10**/week |
+| Ch 27 compacted | **5–6**/day |
+
+### Other materials (soft, same growth shape)
+
+| Host | Feel vs cheap monster skin | Learning reset |
+|---|---|---|
+| **Mundane paper** | Easier imbue; **1 cast** then burns | **Same day** for known rune (smoother draw; less multi-use forgive) |
+| **Better / magic hide or magic paper** | Harder focus (latent mana); multi-use threshold | **1–3 evenings** to seat cleanly after skin mastery |
+| **New rune pattern** (Frost/Gale Arrow, etc.) | Schematic first (hours → Highest board), then seating | **Days**, not months, once FA technique exists (Ch 26 maps Highest same stretch) |
+| **Hands pen / press** on known pattern | See `../Progression/ManaHands.md` | **Same day → ~1 week** steady; press wins batch once matrix does not cascade |
+| **Metal / wood later** | Hammer / heat / different wear | New craft family (Blacksmith era); not scroll-desk months |
+
+**Rule of thumb:** known pattern on a **new blank type** ≈ trial-shaped loop (ugly → clean in **one sitting to a few days**). Known blank type on a **new pattern** ≈ schematic hours + seating **days**. Both at once stretches toward **a week**, not half a year.
 
 ---
 

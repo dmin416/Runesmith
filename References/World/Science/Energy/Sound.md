@@ -5,6 +5,7 @@ Hub: `../Science.md`. Bands / ozone: `Waves.md`. Cast law: `ManaCast.md`. Skills
 ## Power equations
 
 L = 10 log₁₀(I / I₀), I₀ = 10⁻¹² W/m²  
+Seven coincident identical waves, linear case only: `SevenFirecrackers.md`.  
 I = I₀ · 10^(L/10)  
 Point source: I = P / (4 π r²)  
 P = I₀ · 10^(L/10) · 4 π r²  

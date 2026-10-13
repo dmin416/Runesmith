@@ -376,6 +376,27 @@ Ignition energy needed at the target. Heat pays Useful joules into heat at a poi
 
 Move objects with mana. Visible hands are optional. Work done by a telekinetic lift, push or throw. Hold rows use continuous drain (J/s).
 
+### Mana ↔ joules (locked)
+
+Hands pay for **physical work** in joules. Intelligence sets how many joules each mana buys. The Mana Hands → Mind → Heart → Soul track sets waste \(R\) (and accuracy / precision / stability / mass-range-grips). Full canon lock: `../../../Progression/ManaHands.md`.
+
+```
+μ(INT) = (INT / 15)^0.8          // INT 15 = 1×; same as Energy.md
+A      = √C                      // open ground A = 1
+
+Useful needed (J) = work from the table / physics
+  lift ≈ m × g × h
+  throw ≈ ½ m v²
+  hold  ≈ (J/s) × seconds
+
+mana_ideal = Useful / (10 × μ(INT) × A)     // 1 mana = 10 J base, × Int
+mana_paid  = mana_ideal × R                // R = Hand-track waste (unskilled 1 → Hand L9 0.1 → …)
+```
+
+**Plain read:** higher Int → fewer mana for the same lift. Higher Hand skill (\(R\) down) → fewer mana again, plus cleaner control. Do **not** also multiply by spell \(\eta(L)\) from Bolt/Arrow — Hands use \(R\) instead of that \(\eta\) table.
+
+**Hold drain:** `mana/s = (J/s) / (10 × μ(INT) × A) × R`. Fast redirects pay KE (\(\propto v^2\)); see `../../../Combat/MageDefense.md`.
+
 | Action | Energy |
 |---|---|
 | Flip a page, snuff a candle | <0.1 J |
@@ -410,12 +431,12 @@ Move objects with mana. Visible hands are optional. Work done by a telekinetic l
 | Pull a 500 kg loaded cart 100 m on road | ~10 kJ |
 | Raise a 500 kg portcullis 3 m | 14.7 kJ |
 | Raise a 2-ton drawbridge | ~40 kJ |
-| Hold 1 kg (proposed rule) | 1 J/s |
-| Hold 20 kg (proposed rule) | 20 J/s |
-| Hold 80 kg (proposed rule) | 78 J/s |
-| Hold 500 kg (proposed rule) | 490 J/s |
+| Hold 1 kg | 1 J/s |
+| Hold 20 kg | 20 J/s |
+| Hold 80 kg | 78 J/s |
+| Hold 500 kg | 490 J/s |
 
-Hold rows are **grip / restraint** only. Airborne hover and flight use the power equations in `Flight.md` (η and μ apply; no separate expensive/cheap fiat).
+Hold rows are **grip / restraint** only. Airborne hover and flight use the power equations in `Flight.md` (μ and Hands \(R\) apply; no separate expensive/cheap fiat).
 
 ## Mana Shield
 

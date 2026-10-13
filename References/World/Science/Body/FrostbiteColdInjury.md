@@ -1,6 +1,6 @@
 # Frostbite and Cold Injury: Complete Healing Cycle (Average Adult Man)
 
-> Earth reference / invent loot. Not locked law. Cold Resistance / Recovery: `../../../Progression/SkillsDesign.md`, `../../../Progression/Attributes.md`. Thermal grill: `Body.md`, `../../../../Story/Notes/Skills.md` Ch 19. Heat burns counterpart: `BurnsHealing.md`. Blunt / sharp heal: `BluntTraumaHealing.md`, `PiercingSlicingWounds.md`. Fatigue: `FatigueRestSleep.md`.
+> Earth reference / invent loot. Not locked law. Cold Resistance / Recovery: `../../../Progression/SkillsDesign.md`, `../../../Progression/Attributes.md`. Thermal grill: `Body.md`, `../../../../Story/Notes/Skills.md` Ch 19. Ongoing burn/freeze grind: `../../../../Story/Notes/ResistanceGrindBurnFreeze.md`. Heat burns counterpart: `BurnsHealing.md`. Blunt / sharp heal: `BluntTraumaHealing.md`, `PiercingSlicingWounds.md`. Fatigue: `FatigueRestSleep.md`.
 
 Terra **Cold Resistance** cuts cold / frostbite harm (−10%/level). **Recovery** speeds soft-tissue knit after thaw. Much tissue death still happens in the **post-rewarming** clot window; resistance that halves freeze depth helps more than Recovery alone. Does not regrow lost digits.
 

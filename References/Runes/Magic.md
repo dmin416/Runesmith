@@ -86,7 +86,7 @@ Surface symbols are not the whole working pattern. Working routes sit deeper and
 
 **Point:** Cast a spell the user could not otherwise cast (wrong affinity, missing spell), or fire a known form from paper. Fuel is **mana only**. User pays the designed cast cost.
 
-**Limit:** No separate user amplify dial beyond paying a higher designed cast. Craft = **half** cast cost. Power = designed. Mundane paper: single use on cast. Magic paper: **2–5** uses until mana-threshold burn. T1: Mage + Mana Scribe. T2+: T2+ mage with the spell. `MagicScrollMaking.md` / `ScrollEconomy.md`.
+**Limit:** No separate user amplify dial beyond paying a higher designed cast. Craft = **full** cast × Mana Scribing S. Power = designed. Mundane paper: single use on cast. Magic paper: **2–5** uses until mana-threshold burn. T1: Mage + Mana Scribe. T2+: T2+ mage with the spell. `MagicScrollMaking.md` / `ScrollEconomy.md`.
 
 **Roland gate:** Spells he can cast himself, he can put on **magic scrolls**. That does **not** unlock a **rune** for the same spell, and a magic scroll is **not** a runic scroll. Intention extras on a body cast (follow a person, lock to a chosen target) stay on the cast / magic-scroll side until a real **rune** sample teaches them. Full lock: `SpellToCraftGate.md`.
 

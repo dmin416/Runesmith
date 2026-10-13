@@ -10,6 +10,8 @@ Named magic and commonly referenced spell effects. Runic scroll versions are not
 First seen: Chapter 5
 Focused mana projectile; early core mage spell. Tutorial clone demonstrates chant + palm form before the skill dump. Damage scales with Intelligence. Chapter 7–9 field use: egg-sized bolt after a full chant (*Source of all magic, heed my call!* / *Gather before me and strike down my enemies, Mana Bolt!* or shortened closing *Mana Bolt!*). Fine vs eyes and other weak spots; not rapid-fire. **Must chant while shaping**; shaping alone evaporates. Whisper chant works but lowers power. Panting or running collapses the cast. Aim can track with Dexterity / prior FPS habit. Chapter 27: lesser elemental grafts (same research track as Mana Arrow). Chapter 37: inscribed on bronze paddle wands (~75 MP per cast through the item).
 
+**Runic read (Ch 21.5 Notes):** same shaping as Orb; kinetic difference is **small-mana compression** (Orb = soft restraint). Even the system-identified spell has **no detect-contact rune**; the pop is the compression constraint coming undone on anything denser than air (straw ball undone by a hard hit). Component ratios dominate processing; forced ratio tweaks barely work; whole-diagram shrink lowers in/out; upsizing compression alone tends to implode. `BasicSpellShapes.md`, `../Runes/RuneCauseEffect.md`.
+
 **Cast law:** `../Runes/Energy.md`. Voice mana steps and the bolt tables are in `../World/Science/Energy/ManaCast.md`. Explosive-compression pricing idea: `KineticSpellList.md`. Goblin skull/eye clear on L1 normal from mid INT; hardness and aim still gate armor.
 
 ### Mana Arrow
@@ -40,7 +42,10 @@ Lower-tier shield spell.
 
 ### Mana Hands / Mana Hand / Mage Hand
 First seen: Chapter 10
-Move objects with mana (lift, fetch, hold, shove). Visible hands are optional; the name stuck. Weight and range scale with Intelligence. Self-discovered early (not a free class grant). Mage Hand is the common cast name later. Lift / throw / hold energy tables: `../World/Science/Energy/ManaCast.md` (Mana Hands). Mind-speed blade redirects vs a faster stronger attacker: `MageDefense.md`. Chapter 12 dungeon cook: eight concurrent Hands over skewers; ranks up on-page (unnoticed) and unlocks **Multitasking**.
+Move objects with mana (lift, fetch, hold, shove). Visible hands are optional; the name stuck. Self-discovered early (not a free class grant). Mage Hand is the common cast name later. Chapter 12 dungeon cook: eight concurrent Hands over skewers; ranks up on-page (unnoticed) and unlocks **Multitasking**. Mind-speed blade redirects: `MageDefense.md`.
+
+**Canon lock (forms, \(R\), uses, times, evolve):** `../Progression/ManaHands.md`.  
+**Joule work table:** `../World/Science/Energy/ManaCast.md` § Mana Hands.
 
 ### Lesser Mana Burst
 First seen: Chapter 437
@@ -78,11 +83,15 @@ Chanted large fire storm.
 
 ### Fire Arrow / Firebolt Arrow
 First seen: Chapter 20 (shop scrolls)
-Tier 2 fire projectile. Shop and runic prices, including Grimboodle's dusty shelf and fair High: `../Runes/ScrollEconomy.md` and `../World/Society/Economy/PriceCatalog.md`. Word craft: half cast cost; power designed; T2 elemental Mage (`../Runes/MagicScrollMaking.md`). A Runesmith has to produce the runic form.
+Tier 2 fire projectile. Shop and runic prices, including Grimboodle's dusty shelf and fair High: `../Runes/ScrollEconomy.md` and `../World/Society/Economy/PriceCatalog.md`. Word craft: full cast × Mana Scribing S; power designed; T2 elemental Mage (`../Runes/MagicScrollMaking.md`). A Runesmith has to produce the runic form.
 
 ### Fireball
 First seen: Chapter 20 (shop talk)
-Stronger fire AOE scroll; shop talk **≈3 large silvers**; fair Intermediate **3 LS 2 SS**. Word craft: cast **400** (Ball rung) → craft **200**; power designed; shape Ball (`BasicSpellShapes.md`, `KineticSpellList.md`). `../Runes/MagicScrollMaking.md`.
+Stronger fire AOE scroll; shop talk **≈3 large silvers**; fair Intermediate **3 LS 2 SS**. Word craft: cast **400** (Ball rung) → L0 pay **400** / L9 **40**; power designed; shape Ball (`BasicSpellShapes.md`, `KineticSpellList.md`). `../Runes/MagicScrollMaking.md`. Not the same as Fire Orb.
+
+### Fire Orb / Runic Fire Orb
+First seen: Chapter 16 (Runic Mana Scribe trial); schematic Chapter 19
+**Orb** family: a soft fire-filled sphere, bigger than a Bolt, practically useless as a weapon (no kinetic / compression). Designed cast **25**; craft XP **25**; Highest runic activation **25** (`BasicSpellShapes.md`, `../Runes/MagicScrollMaking.md`). Trial four-stage chain; Rank lessers. Do not price as Ball / Fireball **400**.
 
 ### Runic Fire Arrow
 First seen: Chapter 20 (Grimboodle shelf); Roland's product Chapter 22
@@ -90,7 +99,7 @@ Runic scroll form of a fire arrow. User can feed extra mana to amplify output (r
 
 ### Runic Orb of Light
 First seen: Chapter 20
-Cheap end of Grimboodle's dusty runic shelf (≥1 large silver). Utility light. Chapter 25: Roland tries to buy a sample for schematic research.
+Cheap end of Grimboodle's dusty runic shelf (≥1 large silver). Utility light on the **Orb** rung (same soft-sphere job as Fire Orb; light converter). Designed cast **25**. Chapter 25: Roland tries to buy a sample for schematic research.
 
 ### Runic Aqua Ball
 First seen: Chapter 20
