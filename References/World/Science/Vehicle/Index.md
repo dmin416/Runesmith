@@ -18,3 +18,4 @@ Suspension, brakes, crew positions, wheels, roads, mobile home, glider, mechanic
 - [AirHydraulicSuspension.md](AirHydraulicSuspension.md). Earth invent loot: Citroën hydropneumatics, air ride, Hydragas, dampers, military / industry
 - [MechanicalCarComponents.md](MechanicalCarComponents.md). Earth invent loot: simplest→most capable auto parts (frame through safety), no-computer peak
 - [Wheels.md](Wheels.md). Wheel tech ladder + Caldris readout
+- [FatTireBike.md](FatTireBike.md). 29–36 in fat-tire best fit; superhuman power vs traction / parts ceiling

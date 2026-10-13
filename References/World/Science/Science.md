@@ -90,6 +90,7 @@ Index and ownership: `Energy/Index.md`.
 | `Energy/Waves.md` | Wave / ozone bands |
 | `Energy/Sound.md` | Sound Production / echolocation |
 | `Energy/SevenFirecrackers.md` | Seven coincident waves, linear superposition only. Pressure adds, intensity squares |
+| `Energy/KineticImpartation.md` | Superposition vs capped energy; fixed-force N² draw; merged projectiles |
 | `Energy/Kinetic.md` | Kinetic pours / throws; recoil / countermass |
 | `Energy/Projectiles.md` | Projectile physics; flywheel pinch launch |
 | `Energy/GuidedProjectiles.md` | Guided munitions, mechanical vs computer guidance, turn-radius limits |

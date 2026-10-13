@@ -236,10 +236,10 @@ Rewrite-only timeskip (~3 months). Source folds this into the opening of Ch 10 a
 
 - Baron Wentworth (Adam delivers): weekly watcher reports stopped; Roland and watcher gone; party also left Carwen. Rage / chair smash / schnapps. Suspects escape, foul play or death. Guild won't leak member locations except to Ducal houses or the King (guilds have elite muscle kingdoms won't fight). Orders more searchers.
 - Roland: ~1 week train ride (Sleep Resistance keeps him awake). Enter wallet **21,641 LC** (personal **11,641** + parting gift **10 SG**; more than the 5 he wanted of the girls' ~20; almost turned back after the detonation rapier). Caldris temperate → colder autumn mountains. Edelgard built into a mountain (mines, smoke, gorge bridge, rock/brick). Spatial bag = no luggage haul.
-- **Train week (rewrite vs Source boredom stare):** both sound + thermal grill every day at ~**99%** mana regen ceiling (`Skills.md`). Sound: tongue + free-placement mana clicks (Heat base, pressure not heat) → unlock **Sound Production** + **Echolocation**; Ned as eyes-shut locate target; then needle-catch / feed-back (spent tips recycled). Grill: heat/cold grid on forearm/hand (real blister/frost); Ned nibble/toxin between squares; potion when Recovery lags; Multitasking under dual load. **Suffocation Resistance** only (**no** Breath Control): hypoxia holds **15 s = 1 use** (~**140 min**/day → ~**3,920**/week) + blood volume (**~50 mL ≈ 1 use**; ~**5%**/day → ~**35**/week) → exit **L5**. **Sleep Resistance** stays **L5**: ~**2 h**/day awake past remaining need (**15 s**/use → ~**3,360**/week); short of **L6** (**5,000**); Ch 23 still owns +1. Sharp **L3→L4** from drip pierces + Ned fang / miss needles. Exit slate: Sound / Echo **L7**, Suffocation **L5**, Sleep **L5**, Sharp **L4**, Multitasking **L5**, Basic Throwing **L9**, Shaping **L7**, Regulation **L8**, Heat **L6**, Recovery **L5**, Heat / Cold / Pain Resistance **L5**, Poison **L6**. Skill XP **+3700** + Fire Orb **+1000** → bar **7179 / 13000**. No Vibration Sense evolve (**2,000,000**). **Ned** on-page: echolocation hide, launches, bites, scarf cold near-miss (Roland shifts patch); shared ranks locked in `NedStatus.md` (Spike **L7**, Stealth **L7**, Climbing **L7**, Seal **L5**, Pain **L5**, Heat **L5**, Cold **L5**).
+- **Train week (rewrite vs Source boredom stare):** both sound + thermal grill every day at ~**99%** mana regen ceiling (`Skills.md`). Sound: tongue + free-placement mana clicks (Heat base, pressure not heat) → unlock **Sound Production** + **Echolocation**; Ned as eyes-shut locate target; then needle-catch / feed-back (spent tips recycled). Grill: heat/cold grid on forearm/hand (real blister/frost); Ned nibble/toxin between squares; potion when Recovery lags; Multitasking under dual load. **Suffocation Resistance** only (**no** Breath Control): hypoxia holds **15 s = 1 use** (~**140 min**/day → ~**3,920**/week) + blood volume (**~50 mL ≈ 1 use**; ~**5%**/day → ~**35**/week) → exit **L5**. **Sleep Resistance** **L5→L6**: **T0 = 8 h**; L5 need **4.0 h**; ignored / not needed **4.0 h**/day (**15 s**/use → ~**6,720**/week); Ch 23 owns **L6→L7**. Sharp **L3→L4** from drip pierces + Ned fang / miss needles. Exit slate: Sound / Echo **L7**, Suffocation **L5**, Sleep **L6**, Sharp **L4**, Multitasking **L5**, Basic Throwing **L9**, Shaping **L7**, Regulation **L8**, Heat **L6**, Recovery **L5**, Heat / Cold / Pain Resistance **L5**, Poison **L6**. Skill XP **+3800** + Fire Orb **+1000** → bar **7279 / 13000**. No Vibration Sense evolve (**2,000,000**). **Ned** on-page: echolocation hide, launches, bites, scarf cold near-miss (Roland shifts patch); shared ranks locked in `NedStatus.md` (Spike **L7**, Stealth **L7**, Climbing **L7**, Seal **L5**, Pain **L5**, Heat **L5**, Cold **L5**).
 - Station: Church of the Sun / **Solaria** priests (sun robes, bell, collection plate). Acolyte → Cleric → Paladin path. Churches produce class-change stones (god-gift claim; multiple churches keep prices in check). **Rewrite:** tips **1 SS** (Source copper); says "*Praise the Son.*" (Source "*Praise the sun!*"); faith unlocked Acolyte for him so the church has real power here (old-world cult skepticism kept, not blanket contempt).
 - Guild: no local dungeon; hired muscle / wild clears. City map list **2 SS**; Steel **5%** → **19 LC** (nice gesture; Source copper-saving punchline dropped). Skips peasant hostel; considers a nicer splurge after the week on the road but picks clean/quiet Steel-band **The Singing Crow** (4 floors; straw bed; room **14 LC**/night = a bit above Carwen **1 SS**, not **2 SS**; cloak could sleep outside but he will not grind misery for skill). Meets **Helci** (gnome waitress; long ears/brows, high cheekbones; boss yells "stop flirting"). City full of dwarves and gnomes (gnomes: trains, intricate machinery/trinkets). Wallet path: tip **−10** → map **−19** → room **−14** → **21,598 LC**.
-- From memory (rewrite vs Source one-shot Highest **+1000**): first **Lesser Fire Orb Rune [High]** in **over** an hour (**+600 XP**; uneven / not David); thin-sheet trace → **[Highest]** (**+400 XP**). Total **1000** (quality ladder: Lowest **100** / Low **200** / Intermediate **400** / High **600** / Highest **1000**; raise pays difference only). Three Highest lesser schematics. Nature lock: **large linear segments** (Fire Orb four named stages from the trial book; Detonation / Impact same kind of chain); pathways link stage to stage; **not** Source resistor / transistor / memory chip fantasy. Custom work = rearrange large stages on a **whole** sheet (cut-paper overlays fail Diagnosis). Quill + **Mana Hands** refill (multitask practice); wants a **pencil** in Edelgard (`References/World/Science/Invent/WritingTools.md`: world has soft metal / chalk / quills / rare fountain pens; he invents pencil later via synthetic graphite + Ned toxin-free spike; then pen after metalworking). Prefers a shop job first; solo scroll sales look hard.
+- From memory (rewrite vs Source one-shot Highest **+1000**): first **Lesser Fire Orb Rune [High]** in **over** an hour (**+600 XP**; uneven / not David). The hour is **learning / first put-together** of stages he had never drawn from memory as one sheet, **not** because a lowest lesser is inherently hard (it is a few simple large marks). Thin-sheet trace → **[Highest]** (**+400 XP**). Total **1000** (quality ladder: Lowest **100** / Low **200** / Intermediate **400** / High **600** / Highest **1000**; raise pays difference only). Three Highest lesser schematics. Nature lock: **large linear segments** (Fire Orb four named stages from the trial book; Detonation / Impact same kind of chain); pathways link stage to stage; **not** Source resistor / transistor / memory chip fantasy. Custom work = rearrange large stages on a **whole** sheet (cut-paper overlays fail Diagnosis). Quill + **Mana Hands** refill (multitask practice); wants a **pencil** in Edelgard (`References/World/Science/Invent/WritingTools.md`: world has soft metal / chalk / quills / rare fountain pens; he invents pencil later via synthetic graphite + Ned toxin-free spike; then pen after metalworking). Prefers a shop job first; solo scroll sales look hard.
 
 ## Chapter 20
 
@@ -321,6 +321,8 @@ Rewrite-only timeskip (~**half a year** / **6 months**). Source folds mid/late i
 **Process / temperament**
 - Desk work is skill gain. He levels **everything that can tick** while making scrolls (Rune Scribing, Drawing, Multitasking, Hands uses, understanding, Sleep Resistance on short nights, class XP on pours, etc.). Not a single-skill tunnel.
 - **~10× mind** (`FocusCapacity.md`) plus high Willpower. Will of ten men feel. He is not a sensitive wreck under ink and fails. Grind hard without constant bitching (Roland rewrite).
+- **Hunger / mana / stamina:** cannot will himself to feel hungry, but can make himself hungry by burning fuel. Mana from ambient / drained stones (not gut). SP scroll fills refill fast but spend nutrients. High burn + little/no food **is** starvation → **Hunger Resistance** (~**L6**) and **Pain Resistance** (starve-ache **15 min**/use, soft-repeat). SP loop ceiling ~**12.6 SP/s** / ~**2,600–4,700 kcal/day** (`Chapter21_5.md`).
+- **Ned leg jabs** on the desk: **Blunt** + **Sharp** (pierce) + **Poison** + **Pain** each jab (`Chapter21_5.md`).
 
 **Homemade ink + Fire Orb first**
 - Brews own ink from **his blood + Ned's blood + powdered goblin cores** (stone-bank stock). Rough hide hosts. Same pour-cost band as shop/trial work, **clearly higher seating quality** than the Ch 16 trial success / Ch 21 red practice.
@@ -331,23 +333,23 @@ Rewrite-only timeskip (~**half a year** / **6 months**). Source folds mid/late i
 - **Shape-symbol kit (locked after this):** he holds runic forms for **Orb/Bolt shaping** (shared), **Ball** (Orb + a couple lines), **Arrow** (similar outline, different inner sub-symbols), plus Bolt’s **compression** block. Pure-mana or elemental converters ride those once he has the rest of the chain.
 
 **Then Common Fire Arrow track**
-- Perfect **Fire Arrow** schematic (**2×** lesser XP). Orb / Aqua full schematics when desk allows (segment isolation already done).
+- Perfect schematics this skip **+22,000** XP (prior packet **+13,000** + elemental Bolts / Aqua Orb / Light arrow / elemental Detonations **+9,000**). Detonation / Impact / Fire Orb already paid. **Burns all paper schematics** for space; knowledge retained (`Experience.md`).
 - **Month 1:** fails → first Common FA at **Lowest** ~full month after the FA push starts. Hands-as-pen + stamp press already in the chapter drill.
 - **Months 2–6:** High/Highest comet brand; refuse Low; robe/mask servant cover; mats burn to **last 1 SS**. Sleep Resistance **+1**.
-- **Exit into Ch 22:** ten Common Fire Arrows (**8 High + 2 Highest**); seller plaque; bloodshot.
+- **Exit into Ch 22:** ten Common Fire Arrows (**8 High + 2 Highest**); seller plaque; bloodshot; **no** schematic sheets.
 
 **Skills / class (exit locks)**
 | Track | Exit |
 |---|---|
-| Basic Rune Scribing | **L5** (biggest climb) |
-| Understanding of runic scroll making | **L2** (prose progress line; not the same card as Rune Scribing) |
-| Basic Rune Mastery | slight up only (desk pours barely move it; combat is later) |
-| Basic Mana Scribing | still low (**L1** soft; **L2** by Ch 23) |
-| Drawing | climbing off-page from plain **L1** (no printed mid-rank) |
-| Mana Hands | stays **L9** (evolve bar only) |
-| Multitasking | keeps climbing on dual quill/Hands work (enter train **L5**) |
-| Sleep Resistance | **+1** over the half year (sheet talk Ch 23) |
-| Class | Runic Mana Scribe **a few levels** (exact L soft until rewrite sheet); overall bar pads on schematic **+2000** + many cast-XP pours (`Experience.md`) |
+| Basic Rune Scribing | **L5** (chapter; cum ~**1.5k–2.7k**, short of L6 **5k**) |
+| Understanding of runic scroll making | **L2** (chapter) |
+| Basic Rune Mastery | slight at desk; **L3** by Ch 23 combat |
+| Basic Mana Scribing | **L1** soft; **L2** by Ch 23 |
+| Drawing | **L5** |
+| Mana Hands | **L9** (evolve bar pads) |
+| Multitasking | **L5 → L6** |
+| Sleep Resistance | **L6 → L7** |
+| Class | Runic Mana Scribe **a few levels**; schematics **+22,000** + pour XP (`Experience.md`) |
 
 **Daily skill climb (field curve; ~180 days; averages)**
 
@@ -355,15 +357,15 @@ Uses law: `SkillRanks.md` (**1 / 10 / 50 / 200 / 1,000 / …**). Hands actions: 
 
 | Track | Enter → exit | Clean uses needed | **Avg clean / day** | Notes |
 |---|---|---|---|---|
-| Basic Rune Scribing | L1 → **L5** | **1,000** | **~5.6** | Main grind. Month 1 fewer clean (fails); later denser. Raw attempts often **~10–20**/day |
-| Understanding (runic scrolls) | L1 → **L2** | **10** | **≪1** | Clears in the first days of real Common work |
-| Drawing | L1 → **~L5** soft | **~1,000** if it tracks line work | **~5.6** | Same actions as scribing when lines land clean; exit rank unprinted |
-| Multitasking | L5 → **~L6** soft | **4,000** to L6 | **~22** | Dual quill + Hands per finished scroll action; may exit mid-L6 if denser |
-| Mana Hands | L9 → still L9 | toward **2M** evolve | **~50–200** typical | Scribe action ~**6** uses (30 g × 120 s × 0.05 cm²); **10** actions/day ≈ **60**/day. Half year at ~**100**/day ≈ **18k** uses ≪ **1.5M** left to Mind (~**1%** of the evolve wall) |
-| Basic Mana Scribing | L1 → L1 | — | **~0–1** | Rare word drills; not the plan |
-| Basic Rune Mastery | L1 → slight | combat-gated | **~0** desk | Almost no daily climb until grimoire fights |
-| Sleep Resistance | +1 rank | skip meter | — | One-meal / short-sleep half year; not the Hands use formula |
-| Class / overall XP | +few Scribe L | cast XP / day | soft | Early FA schematic **+2000**; each pour XP = designed cast (FA **50**, Orb **25**). Exact L soft |
+| Basic Rune Scribing | L1 → **L5** | **1,000** to L5; **5,000** to L6 | phased ~**10–12** clean/day late | Chapter L5. Total clean ~**1.5k–2.7k** (short of L6). Curve: `SkillRanks.md` |
+| Understanding (runic scrolls) | L1 → **L2** | **10** | front-loaded | Chapter L2 |
+| Drawing | L1 → **L5** | **1,000** | tracks RS seats | |
+| Multitasking | L5 → **L6** | **5,000** cum | ~**25–30**/day dual desk | Clears L6 |
+| Mana Hands | L9 → L9 | toward **2M** | ~**60–90+**/day scribe band | No evolve; bar pads |
+| Basic Mana Scribing | L1 → L1 | — | rare | L2 by Ch 23 |
+| Basic Rune Mastery | L1 → slight | combat | ~**0** desk | L3 Ch 23 grimoire |
+| Sleep Resistance | L6 → **L7** | skip meter | short nights | Chapter +1 |
+| Class / overall XP | +few Scribe L | cast XP / day | soft | Schematics **+22,000** + pour XP |
 
 **Rhythm:** inn desk most days; buy mats as coin allows; Fire Orb when Common fails stack; no shop contract; no dungeon main. Adventure motive stays (auction freedom vs six-year desk curse), not greed-first.
 

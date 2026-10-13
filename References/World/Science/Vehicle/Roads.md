@@ -42,7 +42,7 @@ Culverts, side ditches, fords, retaining walls, switchbacks. Draft-animal grades
 
 ### Caldris filter
 
-Iron-tired wheels destroy soft tops. Wide tires or rubber (when invented) change what surfaces survive. Local stone, lime, wood and natural bitumen decide what a kingdom can afford. Army roads and coach/mail roads are different budgets. Magitech rollers and binders are invent, not baseline.
+Iron-tired wheels destroy soft tops. Wide tires or rubber (when invented) change what surfaces survive. Fat-tire bike speeds on dirt vs pave: `FatTireBike.md`. Local stone, lime, wood and natural bitumen decide what a kingdom can afford. Army roads and coach/mail roads are different budgets. Magitech rollers and binders are invent, not baseline.
 
 Street baseline is medieval social structure with magitech long-haul (rail / airships). Most overland roads stay dirt or stone-patched; engineered macadam / county-tax roads are invent or prestige. Monster density makes solo travel dangerous; caravans are normal (`../../Tech/Technology.md`).
 

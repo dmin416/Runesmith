@@ -1,6 +1,6 @@
 # Seven Firecrackers: Pure Superposition
 
-> Linear wave case only. Seven identical blast waves at one point at one moment, amplitudes added point by point. Real blast waves are shocks and do not add this cleanly. Overpressure effects on people stay in `../../../Combat/LightWarfareVariables.md`. Ear injury and the ordinary-wave ceiling stay in `../Body/EyeEarScaling.md`. Sound power equations stay in `Sound.md`. The +16.9 dB step below is `20 × log₁₀(7)`, which is the same step as `10 × log₁₀(49)` on that intensity formula. Mana Bolt's "one standard firecracker" is a TNT-mass equivalent in `../../../Combat/KineticSpellList.md`. This note does not change that spell.
+> Linear wave case only. Seven identical blast waves at one point at one moment, amplitudes added point by point. Real blast waves are shocks and do not add this cleanly. General law (capped energy vs fixed-force N² draw): `KineticImpartation.md`. Overpressure effects on people stay in `../../../Combat/LightWarfareVariables.md`. Ear injury and the ordinary-wave ceiling stay in `../Body/EyeEarScaling.md`. Sound power equations stay in `Sound.md`. The +16.9 dB step below is `20 × log₁₀(7)`, which is the same step as `10 × log₁₀(49)` on that intensity formula. Mana Bolt's "one standard firecracker" is a TNT-mass equivalent in `../../../Combat/KineticSpellList.md`. This note does not change that spell.
 
 Seven identical blast waves occupy the same point at the same moment. Under pure linear superposition the waves add amplitude point by point.
 

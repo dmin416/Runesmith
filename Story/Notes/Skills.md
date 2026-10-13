@@ -548,13 +548,13 @@ Created **Lesser Impact Rune [Highest]** schematic (**+1000 XP** → bar **2479 
 
 ## Chapter 19
 
-Created **Lesser Fire Orb Rune [High]** from class-trial memory (**over** 1 hour; **+600 XP**; uneven / first real-world Fire Orb draw). Thin-sheet trace of Diagnosis-correct lines → **[Highest]** (**+400 XP**). Total **1000** (Source one-shot Highest **+1000** discarded). Lesser quality XP: **100 / 200 / 400 / 600 / 1000**. Three Highest lesser schematics. Nature lock on-page: **large linear segments** / four Fire Orb stages (collector → fire core → shape → constraint); Detonation / Impact same chain family; **not** Source resistor / transistor / memory modules. Diagnosis fails on cut-paper overlays (needs whole sheet). Quill + **Mana Hands** ink refill (multitask practice); wants a pencil (`WritingTools.md`: invent later, not buy). Sleep Resistance noted on the long train.
+Created **Lesser Fire Orb Rune [High]** from class-trial memory (**over** 1 hour; **+600 XP**; uneven). Time was **first assembly from memory**, putting together stages he had only met in the trial, **not** inherent diagram complexity (lowest lesser is simple: a few large linear segments). Thin-sheet trace of Diagnosis-correct lines → **[Highest]** (**+400 XP**). Total **1000** (Source one-shot Highest **+1000** discarded). Lesser quality XP: **100 / 200 / 400 / 600 / 1000**. Three Highest lesser schematics. Nature lock on-page: **large linear segments** / four Fire Orb stages (collector → fire core → shape → constraint); Detonation / Impact same chain family; **not** Source resistor / transistor / memory modules. Diagnosis fails on cut-paper overlays (needs whole sheet). Quill + **Mana Hands** ink refill (multitask practice); wants a pencil (`WritingTools.md`: invent later, not buy). Sleep Resistance noted on the long train.
 
 ### Train-week skill math (locked)
 
 Field-use curve (`SkillRanks.md`): cum clean uses to reach L = **1 / 10 / 50 / 200 / 1,000 / 5,000 / 20,000 / 100,000 / 500,000**. Evolve at **2,000,000**, when the ability surpasses itself. Peak use (regen ceiling, real blister/frost, longest holds he can keep) accelerates the week; mostly narrative on top of the counts. Technique skills ~**40%** clean on raw attempts. Soft mana clicks count near **100%** clean (deliberate pulse). Resistance exposures are dose-gated (repeats of the same burn/frost still count but slow after the first days). Absorption / Reinforcement / Hands / Sense already **L9**.
 
-**Mana rule:** practice at the **regen ceiling**. Keep the pool near **~99%** (max ambient pull). Soft cabin clicks barely spend, so the grill soaks the surplus: hotter / colder / denser patches and longer holds until draw matches Regulation refill. Potion when Recovery lags so he does not idle on unused regen. Seated Regulation L7 band ≈ **empty→full in a few hours** (~**13–16 mana/min** on his Ch 19 pool).
+**Mana rule:** practice at the **regen ceiling**. Keep the pool near **~99%** (max ambient pull). Soft cabin clicks barely spend, so the grill soaks the surplus: hotter / colder / denser patches and longer holds until draw matches Regulation refill. Potion when Recovery lags so he does not idle on unused regen. Seated Regulation band ≈ **empty→full in a couple of hours** (faster still / more bare skin); Ch 21.5 desk tip-sip ~**21 MP/min** clothed on the **2148** pool (`Energy.md` / `Chapter21_5.md`).
 
 **Schedule:** **both drills every day** for the full ~**7 days**, overlapped for Multitasking. About **3–4 h** dual drill blocks around eat/rest (~**3.5 h**/day used below).
 
@@ -566,7 +566,7 @@ Field-use curve (`SkillRanks.md`): cum clean uses to reach L = **1 / 10 / 50 / 2
 - **Blood volume:** open bleed only. **~50 mL ≈ 1% ≈ 1 use** (adult ~5 L; fractions count). Mana Hands drip + Ned fang nicks + missed needle beads, survived; Recovery refills (refill ≠ use). Hard Recovery grind ~**5%**/day → **~5** blood uses/day × **7** ≈ **~35** uses.
 - **Combined:** ~**3,955** clean uses → clears **L5** (**1,000**); short of **L6** (**5,000**). Exit **L5**. Do **not** double-count the same hemorrhage as volume **and** hypoxic seconds.
 
-**Sleep Resistance pace:** enter **L5** (Ch 12). Meter (`MultiMechanismResistance.md`): **15 s** awake past remaining need = **1** use. L5 need ≈ **50%** of a full night (~**4 h**). He still sleeps some (`19-30.md`: eating and sleeping), but Sleep Resistance keeps him too alert to nap the empty hours and he shortens night rest for dual drills. Story lock ~**2 h**/day awake past remaining need → **2 × 3600 / 15 = 480** uses/day × **7** ≈ **~3,360** uses. Clears nothing new (**L6** needs **5,000** cum from L5). Exit **L5**. Ch 23 half-year scribing still owns the next rank.
+**Sleep Resistance pace:** enter **L5** (Ch 12). Baseline full night **T0 = 8 h**. Need at L5 = **50%** → **4.0 h**. Sleep ignored / not needed = **T0 − need = 4.0 h/day**. Meter (`MultiMechanismResistance.md`): **15 s** of that cut window spent awake = **1** use (he sleeps his remaining need; true debt past need is extra and not locked here). Uses/day = **4 × 3600 / 15 = 960** × **7** ≈ **~6,720**. Enter cum **1,000** (L5) + **6,720** → **~7,720** → clears **L6** (**5,000**); short of **L7** (**20,000**). Exit **L6** (**40%** need = **3.2 h**). Ch 23 half-year scribing owns **L6→L7**.
 
 **Thermal pace (regen-capped + Recovery):** enter Rec **L5**. Cycle time pressed toward the mana period with potion assist when flesh lags (roughly **~1–1.5 min/cycle**). ~**1,240** burn/frost/knit cycles over the week (day path roughly **146 → 156 → 165 → 187 → 192 → 199 → 199**). From a fresh L5 bar that is **+1,240** toward L6 (**5,000** cum). Exit Recovery still **L5**. Heat / Cold / Pain resistances from the same pool clear **L5** (**1,000**) and stop short of **L6** (**5,000**).
 
@@ -591,11 +591,11 @@ Field-use curve (`SkillRanks.md`): cum clean uses to reach L = **1 / 10 / 50 / 2
 | **Pain Resistance** | **L1** | **L5** | Grill sting + Ned tip pricks + missed launches. |
 | **Poison Resistance** | **L6** | **L6** | Daily shallow Ned toxin. Soft repeat. L7 needs **20,000**. Poison is one skill. |
 | **Suffocation Resistance** | — | **L5** | Hypoxia ~**3,920** (**15 s**/use) + blood ~**35** (~**50 mL**/use). Clears **1,000**. Short of **5,000**. No Breath Control. |
-| **Sleep Resistance** | **L5** | **L5** | Debt ~**3,360** (**15 s** awake past need; ~**2 h**/day). Short of **L6** (**5,000**). Ch 23 still owns +1. |
+| **Sleep Resistance** | **L5** | **L6** | Ignored sleep ~**6,720** (**4.0 h**/day cut of **8 h** T0; **15 s**/use). Clears **5,000**. Short of **20,000**. |
 | **Sharp Resistance** | **L3** | **L4** | Self drip pierces + Ned fang / miss needles. Clears **200**. Short of **1,000**. |
 | **Recovery** | **L5** | **L5** | ~**1,240** knit cycles. L6 needs **5,000** cum. **No evolve.** |
 
-**Attr pads from this week only** (exit − enter): Sound Prod **+7 Int / +7 Dex**; Echo **+7 Will / +7 Int**; Multitask **+4 Int / +4 Dex**; Throwing none (already Basic L9); Shaping none; Regulation none; Heat none (spell); Heat Resistance **+5 Vit / +5 End**; Cold **+4 Vit / +4 End**; Pain **+4 Will / +4 End**; Poison none; Suffocation **+5 Vit / +5 End**; Sharp **+1 Vit / +1 End**; Sleep none; Recovery none.
+**Attr pads from this week only** (exit − enter): Sound Prod **+7 Int / +7 Dex**; Echo **+7 Will / +7 Int**; Multitask **+4 Int / +4 Dex**; Throwing none (already Basic L9); Shaping none; Regulation none; Heat none (spell); Heat Resistance **+5 Vit / +5 End**; Cold **+4 Vit / +4 End**; Pain **+4 Will / +4 End**; Poison none; Suffocation **+5 Vit / +5 End**; Sharp **+1 Vit / +1 End**; Sleep **+1 Vit / +1 End**; Recovery none.
 
 **Sheet note:** fold these into the Ch 19 rewrite when the live L26 Scribe sheet is retconned; do not invent a second full status screen on the train.
 
@@ -621,7 +621,7 @@ Rewrite-only ~**6 month** desk grind (Source folds into Ch 22 open). Enter: Rune
 
 **Discovered:** water and light after Fire Orb; Ball ≈ bigger Orb; Arrow shared outline / different inners; Orb–Bolt shared shape (Bolt small-mana compression, Ball moderate, Orb soft restraint); system Mana Bolt has no contact-detect (pop = compression undone); ratios matter / shrink cuts power / upsizing compression alone tends to implode; swaps beat ratio tweaks (Aqua Ball → Fireball, water arrow, light ball); lazy wrong ratios still Diagnosis-readable unless paper burns; skill feel = clockwork familiarity; freeze-flip fails (in chapter).
 
-**Exit:** working runic Mana Bolt; FA schematic → High/Highest comet batch; Rune Scribing **L5**, understanding **L2**, Sleep Resistance **+1**, ten branded FA scrolls, last **1 SS**, servant cover into auction.
+**Exit:** working runic Mana Bolt; FA schematic → High/Highest comet batch; Rune Scribing **L5** (chapter; ~**1.5k–2.7k** clean on the **1 / 10 / 50 / 200 / 1,000 / 5,000** curve, short of L6), understanding **L2**, Drawing **L5**, Multitasking **L5→L6**, Sleep Resistance **L6→L7**, Hands stay **L9** (evolve bar pads), Shaping/Regulation stay **L7/L8**, ten branded FA scrolls, last **1 SS**, servant cover into auction. Buildup: `Chapter21_5.md` skill climb.
 
 ## Chapter 22
 

@@ -13,13 +13,13 @@
 | Strength | **49** | **3.3×** |
 | Agility | **64** | **4.3×** |
 | Dexterity | **72** | **4.8×** |
-| Vitality | **71** | **4.7×** |
-| Endurance | **80** | **5.3×** |
+| Vitality | **72** | **4.8×** |
+| Endurance | **81** | **5.4×** |
 | Intelligence | **156** | **10.4×** |
 | Willpower | **147** | **9.8×** |
 | Charisma | **12** | 0.8× |
 | Luck | **7** | 0.5× |
-| HP / MP / SP | **950 / 2578 / 1139** | |
+| HP / MP / SP | **963 / 2578 / 1149** | |
 
 Age-9 height was ~**140 cm**; age-11 height not locked. Perks already from Str/Dex/Int/Will **40+** (Titan's Back, Exacting Motion, Blessed by Mana, Unbroken Focus).
 
@@ -38,11 +38,11 @@ Age-9 height was ~**140 cm**; age-11 height not locked. Perks already from Str/D
 ## Breath / heal
 
 ```
-M = ((71+80)/2)/15 ≈ 5.03
-hold = 1 × M ≈ 5 min   // no Breath Control yet
+M = ((72+81)/2)/15 ≈ 5.10
+hold = 1 × M ≈ 5.1 min   // no Breath Control yet
 ```
 
-Comfortable seated hold ≈ **~5 min** (body M only). Suffocation Resistance **L5** covers oxygen-starve harm; it is not a Breath Control multiplier.
+Comfortable seated hold ≈ **~5.1 min** (body M only). Suffocation Resistance **L5** covers oxygen-starve harm; it is not a Breath Control multiplier.
 
 **Recovery L5** → **2×** rate on top of M:
 - Plasma ≈ **~1.0–1.5 L/h**
@@ -59,7 +59,7 @@ Comfortable seated hold ≈ **~5 min** (body M only). Suffocation Resistance **L
 | Heat Resistance | **L5** | **50%** heat harm |
 | Cold Resistance | **L5** | **50%** cold harm |
 | Poison Resistance | **L6** | **40%** toxin |
-| Sleep Resistance | **L5** | **50%** sleep need |
+| Sleep Resistance | **L6** | **40%** sleep need (**3.2 h** of **8 h** T0) |
 | Suffocation Resistance | **L5** | **50%** oxygen-starve harm |
 | Alcohol Resistance | **L4** | **60%** drunk/hangover |
 | Recovery | **L5** | **50%** close time |

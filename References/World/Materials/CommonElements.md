@@ -363,7 +363,7 @@ Density is in g/cm³ for solids and g/L for gases at standard conditions. Temper
 | 6 | 12.011 | Solid | 2.27 (graphite), 3.51 (diamond) | Sublimes ~3640 | N/A |
 
 - **Harvest:** Coal, crude oil and natural gas. Graphite from China, Mozambique, Madagascar and Brazil. Diamonds from Russia, Botswana, Canada and DR Congo.
-- **Uses:** Fuels, coke for steelmaking, plastics, graphite electrodes and battery anodes, diamond jewelry and cutting tools, activated carbon filters, carbon fiber.
+- **Uses:** Fuels, coke for steelmaking, plastics, graphite electrodes and battery anodes, diamond jewelry and cutting tools, activated carbon filters, carbon fiber. Exotic allotropes (graphene, CNT, carbyne, lonsdaleite): `ExoticMaterials.md`.
 - **Notable:** Basis of all known life. Forms millions of compounds. Turns directly from solid to gas at normal pressure.
 
 ### Nitrogen (N)

@@ -13,5 +13,7 @@ Up: [World](../Index.md)
 - [MaterialPurification.md](MaterialPurification.md). Purity grades, extract methods and energy for silica, clay, Fe, Ti, Au, Ag; volcanic and Hawaii notes. Bond floor: AtomizationEnergy.md.
 - Silica / foundry feed detail: [SilicaSand.md](../Science/Metallurgy/SilicaSand.md)
 - [MaterialConsiderations.md](MaterialConsiderations.md). Design loot, not a lock. Perfectly rigid insulator, mana-saturated nitinol, hard heat-conducting insulator. Earth NiTi metallurgy: ../Science/Metallurgy/Nitinol.md. Motors that use them: ../Science/Energy/ElectricMotors.md. Locked metals: Metals.md.
+- [ExoticMaterials.md](ExoticMaterials.md). Invent loot: carbyne / graphene / CNT, metallic H, polymeric N, high-entropy alloys, neutronium / strange matter
+- [PermeationBarriers.md](PermeationBarriers.md). Skatole / H₂ / bacteria through film; breathable waterproof (Gore-Tex style); odor and gas barrier tables
 - [InsulationMaterials.md](InsulationMaterials.md). Conductivity ladder, aerogel / vacuum / shuttle tiles, contact effusivity. Thermal skills do not insulate: ../../Progression/ResistanceImmunitySystem.md.
 - [MonsterCores.md](MonsterCores.md). Size / mass / recharge tables: ../Science/Energy/ManaStones.md. Dump is setup-gated, not SA-capped (this file). Foundations locked. Optional later: Old

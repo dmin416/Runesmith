@@ -192,7 +192,7 @@ Several other factors help:
 
 ### Young boar
 
-Young boar needs cumin less than lamb or mature game does. The strong gamey notes come from mature males, whose fat carries androstenone and skatole (boar taint), plus heavy myoglobin and forage flavors. Young boar has little of that, so the meat tastes like a lean, slightly sweet, nutty pork with a mild wild edge.
+Young boar needs cumin less than lamb or mature game does. The strong gamey notes come from mature males, whose fat carries androstenone and skatole (boar taint), plus heavy myoglobin and forage flavors. Young boar has little of that, so the meat tastes like a lean, slightly sweet, nutty pork with a mild wild edge. Skatole permeation / odor-bag barriers: `../World/Materials/PermeationBarriers.md`.
 
 Cumin still works, but its role changes from balancing strong flavor to adding warmth and depth.
 

@@ -1,6 +1,6 @@
 # Insulation Materials
 
-> Earth reference / design loot. Not locked law. Thermal skills do **not** insulate (`../../Progression/ResistanceImmunitySystem.md`). Gear and separate skills sit here. Fantasy insulator ideas: `MaterialConsiderations.md`. Silica feed: `../Science/Metallurgy/SilicaSand.md`.
+> Earth reference / design loot. Not locked law. Thermal skills do **not** insulate (`../../Progression/ResistanceImmunitySystem.md`). Gear and separate skills sit here. Fantasy insulator ideas: `MaterialConsiderations.md`. Graphene aerogel / metamaterials invent: `ExoticMaterials.md`. Silica feed: `../Science/Metallurgy/SilicaSand.md`.
 
 ---
 

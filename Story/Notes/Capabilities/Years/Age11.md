@@ -18,13 +18,13 @@ Arrival detail: [EdelgardArrive.md](../EdelgardArrive.md)
 | Str | **49** | **3.3×** |
 | Agi | **64** | **4.3×** |
 | Dex | **72** | **4.8×** |
-| Vit | **71** | **4.7×** |
-| End | **80** | **5.3×** |
+| Vit | **72** | **4.8×** |
+| End | **81** | **5.4×** |
 | Int | **156** | **10.4×** |
 | Will | **147** | **9.8×** |
 | Cha | **12** | **0.8×** |
 | Luck | **7** | **0.5×** |
-| HP / MP / SP | **950 / 2578 / 1139** | |
+| HP / MP / SP | **963 / 2578 / 1149** | |
 
 ## Frame
 
@@ -35,8 +35,8 @@ Arrival detail: [EdelgardArrive.md](../EdelgardArrive.md)
 | Equal-mass sprint | ≈ **12.4 m/s** |
 | Think **I** | **10.4×** → RT ≈ **0.019 s** |
 | Limb √P (AGI) | **2.07×** |
-| Heal / breath **M** | **5.03** |
-| Breath hold | ≈ **5 min** (body M only; **no** Breath Control) |
+| Heal / breath **M** | **5.10** |
+| Breath hold | ≈ **5.1 min** (body M only; **no** Breath Control) |
 
 ### Edelgard +9 mo (Ch 23 rewrite L35)
 

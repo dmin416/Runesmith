@@ -128,7 +128,7 @@ Passive. **Each level: -10% sleep needed** vs a normal full night (additive off 
 | L5 | 50% |
 | L9 | 10% |
 
-**Vitality +1 per level**, **Endurance +1 per level.** Transfer **L4** → Vit **+4** / End **+4**. Chapter 12: climbs **L4 → L5** after the Iron Flagon binge. Chapter 19: keeps him awake through a week-long train ride; sleep-debt uses bank (~**3,360** at **15 s**/use; ~**2 h**/day past remaining need) but exit stays **L5** (short of **5,000** for L6). Chapter 23: levels once during ~half year of inn-room scribing (one meal/day routine).
+**Vitality +1 per level**, **Endurance +1 per level.** Transfer **L4** → Vit **+4** / End **+4**. Baseline full night **T0 = 8 h**; need = **T0 × (1 − 0.10×L)**; ignored = **T0 − need**. Chapter 12: climbs **L4 → L5** after the Iron Flagon binge. Chapter 19: lives on L5 need (**4.0 h**); ignored **4.0 h**/day × **7** → ~**6,720** uses (**15 s**/use) → exit **L6** (**3.2 h** need). Chapter 23: **L6 → L7** during ~half year of inn-room scribing (one meal/day routine).
 
 ### Sleep Immunity (evolve)
 Evolves from Sleep Resistance at **L9** when the story timing fits (Source: with first T2 / heavy all-nighter stretch ~Ch123). Same rule: **-10% sleep needed per level** vs baseline, continuing until the floor of **1% of normal sleep** (about one full night every hundred days). Attribute pads stay **Vit +1 / End +1** per level. Not true zero-sleep; short naps still help when near the floor.
@@ -397,7 +397,7 @@ Passive. Climb surfaces better. **Strength +level**, **Agility +level**.
 
 ### Basic Acrobatics
 First seen: Chapter 4-5 (age-10 rewrite stack)
-Passive. Balance, rolls, landings and body control. **Agility +level**. Roland trains it on the estate drill loop (vaults, tree landings, dodge-adjacent footwork). Age-10 target **L3** so body AGI **17** + Climbing **9** + Sneaking **8** + Cooking **3** + Acrobatics **3** = displayed Agility **40**.
+Passive. Balance, rolls, landings and body control. **Agility +level**. Roland trains it on the estate drill loop (vaults, tree landings, dodge-adjacent footwork). Age-10 target **L3** so body AGI **17** + Climbing **9** + Sneaking **8** + Cooking **3** + Acrobatics **3** = displayed Agility **40**. Earth proprioception / vestibular / interception limits: `../World/Science/Body/BodySpatialSense.md`.
 
 ### Basic Sneaking / Sneaking
 First seen: Chapter 7
