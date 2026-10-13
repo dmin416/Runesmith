@@ -1,6 +1,6 @@
 # Human Measurement Perception and Precision
 
-Earth research on weight, length, area, volume and small-scale craft precision. Mind vs hand for Drawing: `MindBodySkill.md`. Eye hardware / pursuit: `SpeedPerception.md`, `Vision360.md`. Shop gauges and machines: `../Invent/MechanicalPrecision.md`. Drawing / calligraphy skill: `../../../Progression/SkillsDesign.md`.
+Earth research on weight, length, area, volume and small-scale craft precision. Mind vs hand for Drawing: `MindBodySkill.md`. Eye hardware / pursuit: `SpeedPerception.md`, `Vision360.md`. Joint / foot placement and interception: `BodySpatialSense.md`. Shop gauges and machines: `../Invent/MechanicalPrecision.md`. Drawing / calligraphy skill: `../../../Progression/SkillsDesign.md`.
 
 ## Story notes (Terra)
 

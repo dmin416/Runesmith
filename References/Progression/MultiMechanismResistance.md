@@ -27,8 +27,9 @@ Fuse when **all four** Immunities are at Lv9 (`ResistanceImmunitySystem.md`).
 |---|---|---|
 | **Breath / hypoxia** (airway, ambient O₂, circulatory stop without bleed) | **15 s** under load = 1 use | 1 min held = **4** uses on **Suffocation**. Breath Control (if unlocked later) stays a separate hold-length skill (`SkillsDesign.md`). |
 | **Blood loss** (volume leaves the body) | **1% of full blood volume** lost and survived = 1 use | Fractions count. Adult ~5 L → **~50 mL ≈ 1% ≈ 1 use**. |
-| **Sleep debt** | **15 s** awake past remaining need = 1 use | Banks Sleep until fused; then Sustenance. |
-| **Thirst / Hunger** | Still open (day / meal / hour under deficit) | Lock when a chapter needs it. |
+| **Sleep** | **15 s** = 1 use | **(1) Skill-cut wake:** each **15 s** of the hours a full night still owes that the skill removed from need, spent awake while living on reduced need. **(2) True debt:** **15 s** awake past **remaining** need. Same second never counts twice. Banks Sleep until fused; then Sustenance. Baseline full night **T0 = 8 h**. Need = **T0 × (1 − 0.10×L)**. Ignored = **T0 − need**. |
+| **Hunger** | **1% of that day's energy expenditure unmet by food**, survived = 1 use | Fractions count. Full fast day (eat **0**, body still burns) = **100** uses. SP→scroll nutrient burn with no meal covering it **is** starvation. Banks Hunger Resistance. Thirst still open. |
+| **Thirst** | Still open (day / hour under deficit) | Lock when a chapter needs it. |
 
 **Do not double-count** the same hemorrhage as both volume % and hypoxic seconds. Blood choke with no external loss = **time**. Open bleeding = **volume**.
 

@@ -203,7 +203,7 @@ Covers underwear, pants, shirts, jackets and coats, hats and socks. Each garment
 - **Waxed cotton (late 1800s):** Oiled sailcloth and waxed cotton gave water resistance for sailors and outdoor workers.
 - **Leather flight jackets (1930s):** The A-2 jacket kept pilots warm in open cockpits.
 - **Quilted down jackets (1936):** Eddie Bauer designed a quilted goose down jacket after nearly dying from hypothermia.
-- **Gore-Tex (1976):** A waterproof breathable membrane for rain jackets.
+- **Gore-Tex (1976):** A waterproof breathable membrane for rain jackets. Pore vs vapor physics: `../../Materials/PermeationBarriers.md`.
 - **Fleece and synthetic insulation (1979 onward):** Polar fleece and Thinsulate gave light warmth that held up when wet.
 
 ## Jackets and Coats by Era

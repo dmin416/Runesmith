@@ -25,6 +25,7 @@ Skin, limbs, teeth, Gut Check, falling, speed / measurement perception, mind-bod
 - [FocusCapacity.md](FocusCapacity.md). Mental capacity (N men); Multitasking split %; Parallel Thinking; focus spot `d = 100 μm / M`
 - [MeasurementPerception.md](MeasurementPerception.md). Weight, length, volume, Weber fractions, magnification vs hand tremor (Earth research)
 - [MindBodySkill.md](MindBodySkill.md). Recall ≠ motor skill (Drawing etc.)
+- [BodySpatialSense.md](BodySpatialSense.md). Proprioception / vestibular / interception timing; đá cầu test case; blind last ~100–200 ms
 
 ## Physics (body ↔ environment)
 

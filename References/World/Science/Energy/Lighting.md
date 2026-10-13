@@ -158,6 +158,56 @@ Types (Earth): edge-emitting, VCSEL, superluminescent. Wavelengths: telecom 1310
 | White LED | 150–200+ | Prestige invent |
 | Mana-stone lamp | narrative; stone economics | Present gap product |
 
+## Energy to keep a light on
+
+Light output is measured in **watts**, and 1 watt equals 1 joule per second. A light running for one hour uses its wattage × 3,600 joules.
+
+For about 800 lumens (the brightness of an old 60 W bulb):
+
+| Source | Power | Joules per hour | Share that becomes visible light |
+|---|---|---|---|
+| Incandescent | 60 W | 216,000 J | ~2 to 3% |
+| Halogen | 43 W | 155,000 J | ~3 to 4% |
+| CFL | 13 to 15 W | ~50,000 J | ~10 to 15% |
+| Typical LED | 8 to 10 W | ~32,000 J | ~30 to 40% |
+| Best lab LEDs | ~3 to 4 W | ~13,000 J | ~50 to 60% |
+
+A candle gives only about 12 lumens yet releases around 80 W of combustion energy. Less than 0.1% of that comes out as visible light.
+
+### Visible light only, no waste heat
+
+The physical ceiling is set by how the human eye responds to light:
+
+- **Pure green light at 555 nm:** 683 lumens per watt. This is the absolute maximum.
+- **White light:** about 250 to 350 lumens per watt, depending on the exact spectrum.
+
+A perfect 800-lumen source with zero waste heat would need:
+
+- **~1.2 W** if pure green (about 4,200 J per hour)
+- **~2.3 to 3.2 W** if white (about 8,000 to 11,500 J per hour)
+
+Modern LEDs are already within a factor of 3 to 4 of this limit.
+
+### Energy per photon
+
+Each photon carries energy E = hc/λ:
+
+- **Red (700 nm):** 2.8 × 10⁻¹⁹ J (1.8 eV)
+- **Green (555 nm):** 3.6 × 10⁻¹⁹ J (2.2 eV)
+- **Violet (400 nm):** 5.0 × 10⁻¹⁹ J (3.1 eV)
+
+One watt of green light is about 2.8 quintillion photons per second. The smallest possible light is a single photon. A light that uses zero energy is impossible because the light itself is the energy.
+
+### The heat catch
+
+Even a perfect source with no waste heat still warms the room. Every joule of light that hits a wall, floor or object is absorbed and turns into heat. The difference is that an ideal source heats nothing at the bulb itself. All of its energy travels outward as light first.
+
+### Distance range
+
+In a vacuum light has no maximum range. Brightness drops with the square of the distance, so twice as far means one quarter as bright. In air, dust and moisture scatter and absorb it further.
+
+Mana / stone lamps still pay joules (or mana) for every lumen-hour. Perfect white at 800 lm is still ~8–11.5 kJ/h of light energy that ends up as room heat.
+
 ## Open
 
 - Mana-stone lamp efficacy vs stone drain when a beat sells them

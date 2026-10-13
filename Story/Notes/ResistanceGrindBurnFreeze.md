@@ -52,8 +52,10 @@ He splashes a healing potion whenever the damage gets too deep.
 
 ### Additional Opportunity to Level Skills
 
-- **Pain:** Fresh nerves mean full-intensity pain every cycle with no numb plateau.
+- **Pain:** Fresh nerves mean full-intensity pain every cycle with no numb plateau. Desk starve / SP nutrient burn also credits Pain (hollow gut, headache, body ache; `Chapter21_5.md`). **Ned leg jabs** credit Pain too.
+- **Ned leg jabs:** Blunt (bash) + Sharp pierce + Poison toxin + Pain per jab (`Chapter21_5.md`).
 - **Sleep:** Constant exposure makes sleep nearly impossible. Sleep deprivation becomes the biggest physical threat. (Ch 21.5 already locks Sleep Resistance **+1** over the half year.)
+- **Hunger:** High burn with thin or no meals is starvation → Hunger Resistance (`Chapter21_5.md` / `MultiMechanismResistance.md`).
 - **Metabolism:** If potions accelerate natural healing, each splash spends protein, fat and water. He must eat heavily to avoid wasting. If potions build tissue from mana alone this cost disappears.
 - **Supply:** Dozens of splashes a day may be needed. Sustainability depends on potion cost or his ability to make them.
 

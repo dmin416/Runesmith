@@ -37,7 +37,7 @@ Stones, cast tables, batteries, engines, motors, fans, pumps, compression, fligh
 
 - [Optics.md](Optics.md). Water-lens; lasers; atmosphere glints; integrating spheres; radiance / collimators
 - [FiberOptics.md](FiberOptics.md). How fiber works; fused-silica glass, bend / strength / thermal / cable types
-- [Lighting.md](Lighting.md). Incandescent, limelight, discharge, LED structure / failure; Caldris filter
+- [Lighting.md](Lighting.md). Incandescent, limelight, discharge, LED structure / failure; J/h for 800 lm; lm/W ceiling; Caldris filter
 - [Waves.md](Waves.md). Wave / ozone bands
 - [Sound.md](Sound.md). Sound Production / echolocation
 - [SevenFirecrackers.md](SevenFirecrackers.md). Seven coincident blast waves in pure linear superposition. Pressure 7x, intensity 49x, +16.9 dB
@@ -46,6 +46,7 @@ Stones, cast tables, batteries, engines, motors, fans, pumps, compression, fligh
 ## Kinetic and launch
 
 - [Kinetic.md](Kinetic.md). Kinetic pours / throws; recoil / countermass
+- [KineticImpartation.md](KineticImpartation.md). Superposition vs added energy; capped J vs fixed-force N² draw; merged projectiles
 - [Projectiles.md](Projectiles.md). Projectile physics; flywheel pinch launch
 - [GuidedProjectiles.md](GuidedProjectiles.md). Guided munitions, mechanical vs computer guidance, turn-radius limits
 - [GunpowderFirearms.md](GunpowderFirearms.md). Medieval / Victorian powder chemistry and raw materials

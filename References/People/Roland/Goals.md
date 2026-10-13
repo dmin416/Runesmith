@@ -159,12 +159,14 @@ Science ladders stay in `../../World/Science/Vehicle/`. These are D's builds.
 ### Rune Bike
 
 - **Drive:** Runes turn mana directly into kinetic motion with little loss, driving the wheel hubs.
-- **Frame:** Star steel tubing or a needle worm silk and shellac composite. No aluminum exists, so light strength comes from silk composites, chitin and steel.
-- **Tires:** Dandelion rubber reinforced with needle worm silk cords and cloth.
+- **Frame:** Star steel tubing or a needle worm silk and shellac composite. No aluminum exists, so light strength comes from silk composites, chitin and steel. Frame size follows the rider, not the power.
+- **Wheels / tires:** About **29–36 in** fat tires (roughly 3–4.8 in wide). Past ~36 in raises CG and penny-farthing rut risk. Earth sizing / traction ceiling: `../../World/Science/Vehicle/FatTireBike.md`.
+- **Tires:** Dandelion rubber reinforced with needle worm silk cords and cloth. Solid or puncture-proofed if rubber is short.
 - **Suspension:** Resilin springs and dampers from Ned for rough lava rock and mountain trails.
 - **Power storage:** A small flywheel or mana stone pack stores energy for bursts and recovers energy when braking.
+- **Parts under superhuman torque:** Motorcycle-grade chain and hubs, tall gearing, strong brakes (dirt stop takes longer than accel).
 - **Anti-magic backup:** Pedal drive so it still moves when the runes go dead.
-- **Terrain:** Built for trails, lava fields and switchbacks between farm zones.
+- **Terrain:** Built for trails, lava fields and switchbacks between farm zones. Safe pace set by traction and sightlines (~25–35 km/h rutted, ~50–70 km/h good pave), not raw watts.
 
 ### Hover Vehicle
 

@@ -141,10 +141,10 @@ Story clocks, not ordinary-human Drawing years:
 | Ch 15 Detonation | Diagnosis + Calligraphy → **[Highest]** schematic in **~1 hour** first redraw |
 | Ch 16 Runic Mana Scribe trial | Book in **minutes**; first Fire Orb scroll fails (half glass); **Mana Hand overlay/press try same sitting** (cascades ~¼ MP, Pollock mess); second quill pass **succeeds before last sand** |
 | Ch 18 Impact | Overlay copy during Sahildr’s **~30 min** nap → **[Highest]** + Drawing L1 |
-| Ch 19 Fire Orb schematic | Memory redraw **over 1 hour** → **[High]**; thin-sheet same session → **[Highest]** |
+| Ch 19 Fire Orb schematic | Memory redraw **over 1 hour** → **[High]** (first assembly from memory, **not** diagram complexity); thin-sheet same session → **[Highest]** |
 | Ch 21 first word / practice Fire Orb | Bolt word scroll in **a few minutes**; practice runic Orb same night |
 
-Pattern: **first attempt messy, second attempt same sitting works** when the image and skills are already there. Class card **learning-ease while scribing** speeds clean schematics. Hands ink methods follow that curve, not NormalPersonSkills year columns.
+Pattern: **first attempt messy / slow, second attempt same sitting works** when the image and skills are already there. Lowest lesser runes are simple marks; long first draws are **learning and putting unseen pieces together**, not inherent complexity. Class card **learning-ease while scribing** speeds clean schematics. Hands ink methods follow that curve, not NormalPersonSkills year columns.
 
 ### 1. Pen mode
 
