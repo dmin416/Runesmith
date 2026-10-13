@@ -6,7 +6,7 @@ Earth tech ladder for vehicle wheels. Each entry lists the era and the tools, ma
 
 **Caldris readout** (`../../Tech/Technology.md`): craftsman economy with early-industrial magitech (mana-stone trains, smith guilds, no mass manufacturing). Typical carts and coaches: **iron-tired wooden wheels**, wheelwright craft, hub liners if the shop is good. Rail: flanged metal wheels within early industrial reach (cast / wrought / early steel via forge + magic heat). **Not** baseline: vulcanized pneumatic tires, pressed mass-production discs, carbon fiber, electronics, mecanum / omni / spherical drives. Those wait on Roland invent arcs or rare prestige builds.
 
-Companion: `Suspension.md`.
+Companion: `Suspension.md`. Auto wheels / tires invent ladder: `MechanicalCarComponents.md` §18–19.
 
 ## Precursors and Antiquity
 

@@ -2,7 +2,7 @@
 
 Hub: `Space.md`. Ambient mana vs altitude: `../Science/Energy/ManaConcentration.md`. Flight / air density: `../Science/Energy/Flight.md`. World size lock: `../World.md` (Earth-sized planet).
 
-Terra uses Earth-like layer heights and weather physics. Open-air mana follows **pressure** (`C = P₀ / P(h)`) to the thermopause / exobase, then **haze number density** through the exosphere / geocorona to the solar-wind floor. Layer names below are the air-structure map. Digits: `../Science/Energy/ManaConcentration.md`.
+Terra uses Earth-like layer heights and weather physics. Equatorial surface sunlight: `EquatorialSunlight.md`. Open-air mana follows **pressure** (`C = P₀ / P(h)`) to the thermopause / exobase, then **haze number density** through the exosphere / geocorona to the solar-wind floor. Layer names below are the air-structure map. Digits: `../Science/Energy/ManaConcentration.md`.
 
 ## Troposphere
 

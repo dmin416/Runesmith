@@ -65,6 +65,6 @@ Relative order for the same mass and same mana pulse:
 - **Mythril** barely warms.
 - **Lead** can still risk melt if pulses stack before heat leaves, because its heat capacity is low.
 - **Orihalcum** is not a path. Heat from blocked flow only.
-- **Adamantium** is not a path host. Cover plates may warm from contact heat, not from carrying the channel.
+- **Adamantium** is a stiff path host. Channel waste heat spreads almost instantly through the piece (electron conduit). Ordinary cast waste does not melt it; electron-overload melt is a separate rare destroy (`../../Materials/Metals.md`).
 
 Stacked pulses without pause remain dangerous on poor hosts.

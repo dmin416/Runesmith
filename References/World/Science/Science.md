@@ -44,6 +44,7 @@ Ownership and file list: [Metallurgy/Index.md](Metallurgy/Index.md). Street stoc
 | `Metallurgy/MagicPowderMetallurgy.md` | Magic PM: conjured dies / HIP / vacuum weld; powder + mage labor limits |
 | `Metallurgy/RunicBladeChannels.md` | Internal runic channels |
 | `Metallurgy/GemInlay.md` | Unbreakable jewelry-gem seats (not mana cores) |
+| `Metallurgy/JewelryWire.md` | Earth jewelry-wire strength, bend, twist and braid |
 | `Metallurgy/Vacuum.md` | Void-Weld / forcefield vacuum craft |
 | `Metallurgy/VacuumForcefieldHeat.md` | Radiant HT in forcefield vacuum |
 | `Metallurgy/SteelVacuumChamber.md` | Physical chamber build |
@@ -58,6 +59,7 @@ Index and ownership: [Biomaterials/Index.md](Biomaterials/Index.md).
 | `Biomaterials/RubberAndInsect.md` | Latex, insect toolkit, Ned strength/sticky targets |
 | `Biomaterials/BiologicalSilks.md` | Silk types; Ned cellulose silk |
 | `Biomaterials/BiologicalAdhesives.md` | Dry, wet, capture and harvested natural adhesives |
+| `Biomaterials/PrinterWorm.md` | Biological fabricator catalog. Not Ned's body lock |
 | `Biomaterials/WoodProcessing.md` | Seasoning + vacuum kiln |
 
 ### Energy
@@ -87,6 +89,7 @@ Index and ownership: `Energy/Index.md`.
 | `Energy/Lighting.md` | Incandescent, limelight, discharge, LED structure / failure; Caldris filter |
 | `Energy/Waves.md` | Wave / ozone bands |
 | `Energy/Sound.md` | Sound Production / echolocation |
+| `Energy/SevenFirecrackers.md` | Seven coincident waves, linear superposition only. Pressure adds, intensity squares |
 | `Energy/Kinetic.md` | Kinetic pours / throws; recoil / countermass |
 | `Energy/Projectiles.md` | Projectile physics; flywheel pinch launch |
 | `Energy/GuidedProjectiles.md` | Guided munitions, mechanical vs computer guidance, turn-radius limits |
@@ -106,6 +109,8 @@ Index and ownership: [Body/Index.md](Body/Index.md).
 | `Body/MeasurementPerception.md` | Weight / length / volume estimates; magnification vs hand tremor |
 | `Body/Falling.md` | Fall thresholds, Shepherd's Leap |
 | `Body/SpeedPerception.md` | Optic flow, RT pipeline, pursuit limits |
+| `Body/EyeEarScaling.md` | Strength scaling for blink, pupil, acoustic reflex, light and sound injury |
+| `Body/Stamina.md` | Human stamina systems and k-scaling at fixed mass. Power is k^1.5 |
 | `Body/Vision360.md` | Full-sphere vision: acuity, Rig A / Band B / Helm C, tiers, ten-men mind |
 | `Body/CrystalMinds.md` | Human vs LLM compute; crystal brains, copies, magic segments (holding; Earth anchors) |
 | `Body/CrystalComputerMath.md` | Self-improvement ignition; multi-state digits; binary / trinary / hexanary / octonary crystal architectures |
@@ -142,10 +147,10 @@ Index and ownership: [Body/Index.md](Body/Index.md).
 
 | Issue | Resolution |
 |---|---|
-| Adamantium forge-supersteel vs cast-final | **Metals.md + CraftMetal shop:** final once cast; form while setting; no post-set forge |
+| Adamantium forge-supersteel vs cast-final | **Metals.md + CraftMetal shop:** final once cast; stiff rune host; resonance or electron-overload melt (~470k–980k mana/kg) |
 | Animal Materials vs Earth Materials | Animal = `Biomaterials/Biomaterials.md`. Earth = `Metallurgy/EarthAlloys.md` |
 | Stone dump SA-capped | **Dropped.** Law in `../Materials/MonsterCores.md`. Size tables: `Energy/ManaStones.md`. Compare: `Energy/Batteries.md` |
-| Path efficiency | **η_cond** is the quality ladder (**0.2** to **1.0**). Host feel is narrative and does not follow electrical conductivity. Direct casts and runes both take ambient `A = √C` (`../../Runes/Energy.md`) |
+| Path efficiency | **η_cond** is the **rune quality** ladder (**0.2** to **1.0**). Not scroll quality. Host feel is narrative and does not follow electrical conductivity. Direct casts and runes both take ambient `A = √C` (`../../Runes/Energy.md`) |
 | Cast law formulas | `../../Runes/Energy.md` (**1 mana = 10 J**; η(L); μ(INT)). Spell tables: `Energy/ManaCast.md` |
 | Living resistance / air-deny | Vitality + magic resist raw mana body / air-shell tricks. No cheap vacuum / suffocate / micro-compression / contactless sonic kill on a resisting person. Vacuum detail: `Metallurgy/Vacuum.md` |
 | Flight cost fiat | No locked cheap/expensive flight. Pay the chosen model at η×μ. Hold ≠ hover. `Energy/Flight.md` |

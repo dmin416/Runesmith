@@ -201,7 +201,7 @@ Magnetic pressure is `B² / (2 μ0)`.
 | 20 T | about 1,600 bar |
 | 50 T | about 10,000 bar |
 
-Adamantium takes that load. It is the wrong metal for the winding. It conducts, so a solid shell around a changing field is a shorted turn and a brake that cannot melt. Cast the cage as open spokes and teeth, electrically broken, so it carries torque and pressure without linking the flux.
+Adamantium takes that load. It is the wrong metal for the winding. It conducts, so a solid shell around a changing field is a shorted turn and a brake. Ordinary motor heat will not melt it; electron-overload melt is a separate rare path (`../../Materials/Metals.md`). Cast the cage as open spokes and teeth, electrically broken, so it carries torque and pressure without linking the flux.
 
 The rotor is a closed mythril loop, charged once, then left shorted. The current persists with no supply. Flux pinning holds it, so the rotor is a permanent magnet that does not fade, stronger than lodestone or a neodymium grade. Meissner bearings, the same effect, hold the shaft with no contact. A vacuum gap takes windage with it.
 

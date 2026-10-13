@@ -46,7 +46,7 @@ Carbon black multiplies abrasion life. Products: rubberized cloth, molded goods,
 | Tan / ink | Gall tannins | Leather + iron-gall ink |
 | Wax | Beeswax, insect wax | Candles, lost-wax, waterproof |
 
-**Silk / glue deep catalogs:** numbers and reel / degum in `BiologicalSilks.md`. Dry / wet / capture adhesives in `BiologicalAdhesives.md`. Toolkit rows above stay as job picks only.
+**Silk / glue deep catalogs:** numbers and reel / degum in `BiologicalSilks.md`. Dry / wet / capture adhesives in `BiologicalAdhesives.md`. Fabricator process (glands, cures, magic polyisoprene) in `PrinterWorm.md`. Toolkit rows above stay as job picks only. The spring row here (~95% resilin) is the working figure.
 
 ### Ned / Needle Worm targets
 

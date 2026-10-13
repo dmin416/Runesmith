@@ -130,15 +130,15 @@ Path feel ladder: `../Runes/Energy.md`. Host roles: `../Runes/ManaMaterials.md` 
 |---|---|---|
 | A. Engraved plain steel | Groove in ferromagnetic steel | Hot channel, electromigration-like pits, few charges |
 | B. Mana-inlaid steel | Channel converted to austenitic darksteel / star steel | Leakage into bulk; slow wear. Best mundane default |
-| C. Magical monolith | Pattern written in mythril (or covered by adamantium) | Heat above ordering / wipe T fades pattern. Keep cool |
+| C. Magical monolith | Pattern written in mythril or seated in adamantium | Mythril: heat above wipe T fades pattern. Adamantium: stiff seating; permanent geometry once set |
 | D. Orihalcum layer | Shield / anvil insert | Never the channel. Antimagic / proximity interfere; no written runes |
 
 **Inlay rule:** same-metal phase conversion beats foreign-metal inlay (avoids galvanic attack at the border).
 
-Darksteel still wastes more than star steel. Rune-life bonus: `../Runes/ManaMaterials.md` section 2. **Star steel** channel runs cooler. **Mythril** barely warms and stays reusable if kept under wipe T. **Adamantium** covers a real inlay. **Orihalcum** is shield or anvil only.
+Darksteel still wastes more than star steel. Rune-life bonus: `../Runes/ManaMaterials.md` section 2. **Star steel** channel runs cooler. **Mythril** barely warms and stays reusable if kept under wipe T. **Adamantium** is a stiff prestige channel (or shell over a softer path). **Orihalcum** is shield or anvil only.
 
 ### Worked channel (path heat)
 
 Channel **2 mm** wide, **1 mm** deep, **60 cm** long (**1.2 cm³**). One **100 mana** pulse. Path heat / corruption = **½** of waste (`../Runes/Energy.md` η_cond table). Mass and heat capacity still matter for rise.
 
-Relative peak rise for that geometry: plain hardened steel and darksteel cook hardest, star steel cooler, mythril barely warm. Orihalcum never is a weapon channel. Adamantium never is the channel itself.
+Relative peak rise for that geometry: plain hardened steel and darksteel cook hardest, star steel cooler, mythril barely warm. Adamantium equalizes heat almost instantly through the piece (low storage). Orihalcum never is a weapon channel.

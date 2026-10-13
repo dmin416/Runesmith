@@ -1,6 +1,6 @@
 # Universally Widespread Items That Reached Perfection
 
-Earth manufacturing notes for everyday tools whose form is settled. Century invent bands: `CraftsmanByCentury.md`. Shop precision: `MechanicalPrecision.md`. Industrial order: `MedievalIndustrialization.md`. Writing tools: `WritingTools.md`. Matches seed: `Printing.md`.
+Earth manufacturing notes for everyday tools whose form is settled. Century invent bands: `CraftsmanByCentury.md`. Footwear: `ShoeTechnology.md`. Clothing: `ClothingTechnology.md`. Shop precision: `MechanicalPrecision.md`. Industrial order: `MedievalIndustrialization.md`. Writing tools: `WritingTools.md`. Matches seed: `Printing.md`.
 
 ## 1. Sewing Needle
 

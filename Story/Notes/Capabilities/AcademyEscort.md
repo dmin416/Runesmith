@@ -42,7 +42,7 @@ Source: overall **~L100**, near gold, above Armand as a fighter. Rewrite attrs a
 
 ## Breath / heal / sleep
 
-- Breath Control: last hard lock **L5** (~**27+ min** at Ch 77 Vit/End). May have risen; not printed.
+- Suffocation Resistance: train floor **L5**. No Breath Control locked. Body hold = **T0 × M** only unless a later chapter unlocks Breath Control.
 - Recovery: last hard lock **L5**. Rapid Recovery still banked for ~2 years after Ch 19 in design notes; by age 16 that window is open but evolve not confirmed on-page before Ch 108.
 - **Sleep Immunity** first called out Ch **123** (week without sleep). At Ch 108 he is **before** that beat → Sleep Resistance high / near evolve, **not** Immunity yet.
 

@@ -2,7 +2,7 @@
 
 Hub: `../Science.md`. Multitasking skill and Parallel Thinking: `../../../Progression/SkillsDesign.md`. Mental attributes: `../../../Progression/Training.md`. Full-sphere vision load at N-men capacity: `Vision360.md`. Crystal / LLM / mind-copy holding file: `CrystalMinds.md`. Extra-limb attention tax feel: `Body.md`. Nav: `Index.md`.
 
-**Owns:** men-worth table, Multitasking %, Parallel Thinking N. Earth neuron / watt / conscious bits/s anchors: `CrystalMinds.md` Part 1 (cite, do not redefine).
+**Owns:** men-worth table, Multitasking %, Parallel Thinking N, deliberate focus spot size vs men-worth. Earth neuron / watt / conscious bits/s anchors: `CrystalMinds.md` Part 1 (cite, do not redefine). Imagery grain / mm anchors: `MeasurementPerception.md`. Adamantium mana-friction melt: `../../Materials/Metals.md`.
 
 **Capacity** is the absolute mental budget in **men-worth** (1× = one average adult's full deliberate mind). Multitasking and Parallel Thinking only carve and tax this number. Without capacity, their % and parallel counts are empty.
 
@@ -98,3 +98,30 @@ Literal separate thought trains. **Skill level = N parallels** (L1–L9, then ev
 | 20x | 20.0 | 10.0 | 6.67 | 4.00 | 2.00 | 1.33 |
 | 50x | 50.0 | 25.0 | 16.7 | 10.0 | 5.00 | 3.33 |
 | 100x | 100 | 50.0 | 33.3 | 20.0 | 10.0 | 6.67 |
+
+## Deliberate focus spot (locked planning)
+
+How small a patch of matter one train can hold as a **real control target** for mana work (Heat / mana friction, fine shaping intent), not a labeled atom.
+
+```
+M  = effective men-worth on that train
+     solo ≈ capacity
+     Parallel Thinking: capacity ÷ N each
+d₁ = 100 μm = 0.1 mm     // 1× hair-class linear focus
+d  = d₁ / M              // spot side length (square patch)
+A  = d²                  // focus area
+V  = d³                  // focus nugget if depth ≈ side
+```
+
+| M | d | A | V |
+|---|---|---|---|
+| 1× | 100 μm | 0.01 mm² | 10⁻³ mm³ |
+| 5× | 20 μm | 4×10⁻⁴ mm² | 8×10⁻⁶ mm³ |
+| 10× | 10 μm | 10⁻⁴ mm² | 10⁻⁶ mm³ |
+| 20× | 5 μm | 2.5×10⁻⁵ mm² | 1.25×10⁻⁷ mm³ |
+| 50× | 2 μm | 4×10⁻⁶ mm² | 8×10⁻⁹ mm³ |
+| 100× | 1 μm | 10⁻⁶ mm² | 10⁻⁹ mm³ |
+
+**Floor:** about **1 μm** at 100× (hard schema edge from `MeasurementPerception.md`). Atoms and true atomic rows stay symbols only. Loupes, microscopes, Diagnosis zoom or magic sense can extend past this; the formula is unaided mental focus.
+
+**Mana friction / Heat:** the caster rubs mana in the focus spot. Energy lands in volume **V** first. Ordinary materials can take a local hot spot. Conduit metals (adamantium) dump that heat into the whole piece almost at once; see melt tie-in in `../../Materials/Metals.md`.

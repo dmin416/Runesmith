@@ -36,6 +36,12 @@ Excludes Agni, Millie, Bernir, Lucille, Robert, Arthur skills and traits.
 
 Age-10 technique targets: see `Progression.md` / Ch 7 note in `Skills.md`. Chapter 7 train screen is **live** at those targets (Sword/H2H/Sneak L8; Running/Sprint/Climbing/Throwing/Leather L9). Packs calligraphy books (Basic Calligraphy grind starts; L9 by Ch 13).
 
+**Estate wound tracks** (rewrite notes; bravery week unlock; budget `Capabilities/EstateWoundGrind.md`):
+23a. **Pain Resistance** – unlock L1 on bravery / stick suffering → leave **L3**
+23b. **Blunt Resistance** – stick / bruise / armor bash / clubs → leave **L4** (main kinetic)
+23c. **Sharp Resistance** – rare blade bites → leave **L2** (≪ Blunt)
+23d. **Recovery** – clot-and-close bruises/nicks → leave **L3**
+
 ## Tier 1 Mage (Ch 5)
 
 24. Basic Mana Shaping – Ch 5 – Mage grant; Intelligence +2 / Willpower +1 per level
@@ -54,17 +60,19 @@ Age-10 technique targets: see `Progression.md` / Ch 7 note in `Skills.md`. Chapt
 34. Mana Reinforcement – Ch 9.5 – self-taught body store from the same drills; **L9** by end; same skill as common dealer books (discovery takes longer). Source delayed to book Ch 54 / learn Ch 56 (rewrite: already owned; skip or reframe that purchase)
 35. Basic Alcohol Resistance – Ch 12 – Iron Flagon binge; exposure unlock at **L1**; Ch 13 party drinks → **L4**; **Endurance +1** per level; other resistances possible the same way
 36. Dance – Ch 12 – tavern-table dance; **L1**; **Agility +1** per level
-37. Pain Resistance – Ch 12 – hangover / force-feed night; **L1**; Ch 19 daily grill → **L5**; **Willpower +1**, **Endurance +1** per level (later Ch 197 deepens)
+37. Pain Resistance – estate bravery unlock (notes); leave **L3**; Ch 12 hangover climbs (not first unlock); Ch 13 end **L4**; Ch 19 grill → **L5**; **Willpower +1**, **Endurance +1** per level (later Ch 197 deepens)
 37a. Cold Resistance – Ch 13 – cold bare inn / cloak+Ned (was labeled Temperature Resistance); unlock **L1**; Ch 19 daily grill → **L5**; **Vitality +1**, **Endurance +1** per level
 37b. Heat Resistance – Ch 19 – thermal grill unlock; **L1 → L5**; **Vitality +1**, **Endurance +1** per level (forge / Heat Sense deepen later)
 37c. Sound Production – Ch 19 – free-placement mana + tongue clicks every ~**4 s**; **L1 → L7**; **Intelligence +1**, **Dexterity +1** per level
 37d. Echolocation – Ch 19 – Ned move / click-locate eyes closed + needle-in-flight catches; **L1 → L7**; evolve to **Vibration Sense** waits for **2,000,000** uses; **Willpower +1**, **Intelligence +1** per level; ladder in `World/Science/Energy/Sound.md`
-37d2. Breath Control – Ch 19 – breath-holds between grill sets; **1 min held = 1 use**; hold = **T0 × M × level** (L5 ≈ **16.7 min** at his Vit/End); unlock **L1 → L5**; **Vitality +1**, **Endurance +1** per level
+37d2. Suffocation Resistance – Ch 19 – grill-peak holds (**15 s = 1 use**) + blood volume (drip / Ned nicks; **~50 mL ≈ 1 use**); unlock **L1 → L5**; **no** Breath Control on train; Vit/End +level
 37e. Multitasking – Ch 12 cook **L1**; Ch 19 dual drills daily → **L5**; **Intelligence +1**, **Dexterity +1** per level
-37f. Train mana foundations – Ch 19 (both every day): Shaping **L7**, Regulation **L8**, Heat **L6**; Hands / Absorption / Reinforcement / Sense / Incantation stay **L9**; Recovery **L5**; Poison **L6** (one poison track); Basic Throwing stays **L9**; Breath Control **L5**. Full math: `Skills.md` Ch 19.
+37f. Train mana foundations – Ch 19 (both every day): Shaping **L7**, Regulation **L8**, Heat **L6**; Hands / Absorption / Reinforcement / Sense / Incantation stay **L9**; Recovery **L5**; Poison **L6** (one poison track); Basic Throwing stays **L9**; Suffocation **L5** (no Breath Control). Full math: `Skills.md` Ch 19.
 38. Sleep Resistance – Ch 12 – climbs **L4 → L5** (**Vitality +1**, **Endurance +1** that tick)
 39. Poison Resistance – Ch 12 – Needle Worm blood / needle crunch; popup ignored; **L1**; daily Ned toxin seasoning through Ch 13–19 (~187 days) → **L6**; Ch 19 train tip-pricks stay **L6**; **Vitality +1**, **Endurance +1** per level
-39a. Recovery – Ch 13 – daily Mana Hands skin poke + 150 mL bleed/knit to Ned; unlock **L1 → L5**; Ch 19 grill stays **L5**; small-wound close time **−10%/level**; **Vitality +1**, **Endurance +1** per level; evolve → Rapid Recovery
+39a. Recovery – estate unlock (notes); leave **L3**; Ch 9.5 field knits → **L4**; Ch 13 Ned poke + 150 mL → **L5**; Ch 19 grill stays **L5**; small-wound close time **−10%/level**; **Vitality +1**, **Endurance +1** per level; evolve → Rapid Recovery
+39b. Blunt Resistance – estate → leave **L4**; Ch 9.5 clubs/bashes → **L5**; Vit/End +level
+39c. Sharp Resistance – estate → leave **L2**; Ch 9.5 rare cuts → **L2–L3**; Ch 13 → **L3**; train **L4** (self drip pierces + Ned fang / miss needles); Vit/End +level
 40. Multitasking – Ch 12 – eight Mana Hands on cook skewers; unlock unnoticed; **L1**; Ch 19 dual drills → **L5**; **Intelligence +1**, **Dexterity +1** per level
 41. Basic Taming – Ch 12 – core Needle Worm bind (food, shield stall, Will stare); **L1**; **Charisma +1** per level; worm worn as green scarf
 

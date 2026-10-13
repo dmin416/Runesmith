@@ -108,7 +108,7 @@ Each tier jumps roughly “a day → two weeks → half a year.” Test any pric
 | Map / horse rental / airship / teleport ticket / old gate | **3–5 SS** / **1–2 SS/day** / **2–5 SG** / **5 LS–2 SG**/person / **1–5 SG** activation |
 | Skill books T1 / T2 / T3 | **2–5 SG** / **10–25 SG** / **50–100 SG** |
 | Church elixirs (scar / curing / limb / divine) | **2–5 SG** / **9–30 SG** / **15–30 SG** / **30–100 SG** |
-| Church services | **≈9×** engine casting labor |
+| Church services | Coin bands below; casting-labor multiple **open** |
 | Mage robe / enchanted weapon-shield / prosthetic / carriage | **2–5 SG** / **5–10 SG** / **10–30 SG** / **5–20 SG** |
 | Standard golem | **2–5 LG** (unique auction **~6×** build) |
 | Stall protection fee | **2–5 SS / week** |
@@ -134,7 +134,7 @@ Dungeon-gate stalls mark potions up about **25% or more** over normal market.
 
 | Service | Price | Notes |
 |---|---|---|
-| Church services | **≈9×** engine casting labor | Anchor: **9 SG** curse heal ÷ T3 Highest casting labor **1,024 LC** ≈ **8.8×** |
+| Church services | Story coin bands | Solaria curse heal **9 SG**. Casting-labor multiple **open** (old ≈9× used deleted T3 Highest labor digit; `../../../Runes/ScrollEconomy.md`) |
 | Scar-concealment elixir | **2–5 SG** | Cosmetic / stigma |
 | T3 High Priest curse heal (Solaria) | **9 SG** | Ch 53 list; curing-miracle floor |
 | Curing miracle | **9–30 SG** | Harder cures climb the band |

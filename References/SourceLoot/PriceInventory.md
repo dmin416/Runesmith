@@ -47,7 +47,7 @@ Leftover superseded-string scan (2026-10): clean. Better-inn **2 SS** at Black R
 | Ch ~1–100 | 11-20.md | 2414 | 17 | Assassin loot split | **>20 SG** sold / **15 SG** held / **+5 SG** girls | >20 / 15 / +5 SG | KEEP (no lock) |
 | Ch ~1–100 | 21-30.md | 42 | 19 | Parting cash | **10 SG** | 10 SG | KEEP (no lock) |
 | Ch ~1–100 | 21-30.md | 88 | 19 | Steel map discount | no amount found (percent only) | 5% | KEEP (no lock) |
-| Ch ~1–100 | 21-30.md | 273-301 | 20 | Scrolls / blanks / ink | **3 SS** / **6 SS** / **≈1 LS** / **5 SS**/10 blanks | 3 SS / 6 SS / 1 LS / 5 SS pack | KEEP (no lock) |
+| Ch ~1–100 | 21-30.md | 273-301 | 20 | Scrolls / blanks / ink | **3 SS** / **6 SS** / **3 LS 2 SS** / **5 SS**/10 blanks | 3 SS / 6 SS / ~3 LS / 5 SS pack | KEEP (rewrite Fireball) |
 | Ch ~1–100 | 21-30.md | 337 | 20 | Dusty runic Fire Arrow | **2 LS** | 2 LS | KEEP (no lock) |
 | Ch ~1–100 | 21-30.md | 560-978 | 21-23 | Auction / weekly / 15% | no amount found | matches StoryPrices | KEEP (no lock) |
 | Ch ~1–100 | 21-30.md | 2088 | 27 | Mithril floor | **≥1 LG** | ≥1 LG | KEEP (no lock) |

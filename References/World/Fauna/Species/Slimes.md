@@ -1,6 +1,6 @@
 # Slimes
 
-> Metal slime / living crucible design loot. Conversion law: `../../Materials/Metals.md`. Ambient soak `A = √C`: `../../Science/Energy/ManaConcentration.md`. Hub: `../Creatures.md`. Source fire-slime card: `../Design/CreaturesDesign.md`.
+> Metal slime / living crucible design loot. Conversion law: `../../Materials/Metals.md`. Ambient soak `A = √C`: `../../Science/Energy/ManaConcentration.md`. Process catalog (cast, glass, gems, chemicals): `FurnaceSlime.md`. Hub: `../Creatures.md`. Source fire-slime card: `../Design/CreaturesDesign.md`.
 
 ## Metal Slime: A Living Crucible
 
@@ -42,7 +42,7 @@ Converted metals keep their grade through melting and through acid digestion. Di
 |---|---|---|
 | Mythril, aurium, darkiron/star iron, darksteel/star steel | Digests slower than the mundane parent, in proportion to grade. Re-deposited nuggets keep their grade. | Melts hotter than its parent as grade rises (planning feel). Keeps its grade. |
 | Orihalcum | Resists in proportion to conversion %. High grades barely dissolve, so farm acid routes don't recover high-grade orihalcum economically. | Melts hotter than gold. High grades need hotter lava. Keeps its grade. |
-| Adamantium | No | No. Never melts after set. |
+| Adamantium | No | No ordinary melt. Electron-overload melt only (`../../../Materials/Metals.md`). |
 
 ### Growth Path
 
@@ -231,5 +231,5 @@ An adamantium blade left stuck through a lava slime drains its heat out the expo
 - **Indigestible.** It never melts, dissolves or reacts.
 - **Thermal equilibrium.** Fully submerged, it reaches slime temperature in seconds and does nothing further for heat. If any part sticks out, it acts as a constant heat leak. It stays indigestible and stays a sound target the whole time.
 - **Teeth and skeleton.** A lava slime that swallowed adamantium mail or blades can carry them as rigid internal pieces and drive them through its body like a blender, or extrude a mail coil as a whip.
-- **No mana path.** Adamantium carries little to no mana, so a slime can't use it to hold or protect its core without cutting that core off from the rest of its body.
+- **Stiff mana path.** Adamantium can hold a seated path, but a slime rarely seats one. A loose adamantium pearl does not give the slime an easy core shield the way a soft host would.
 - **Resonance predator.** Canon locks adamantium's only weakness as resonant sound or mana vibration after set. A slime that hums at an adamantium piece's resonant frequency is a natural predator of adamantium gear. Each casting has its own frequency (per `../../Materials/Metals.md`), so it has to find each piece's tone separately. Mail links all differ.

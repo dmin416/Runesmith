@@ -19,6 +19,8 @@ Surface rate ≈ **0.008 mSv/day**.
 
 ## Space
 
+Sunlight (total energy + UV extremes vs ground): `NonIonizing.md` (solar constant ~**1,361 W/m²** vs ~**1,000 W/m²** overhead clear sky; unfiltered UV burns in seconds).
+
 | Environment | Composition | Dose rate |
 |---|---|---|
 | GCR (deep space) | 87% protons, 12% He, 1% heavy ions, ~1% electrons | ~1.8 mSv/day |

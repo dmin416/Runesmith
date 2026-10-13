@@ -12,7 +12,7 @@ Useful (J) = mana × 10 × η_cond × A
 A = √C   // ambient osmosis; Energy.md / ManaConcentration.md
 ```
 
-This is a **rune** stroke. Use mana conductivity and ambient `A` only. Do **not** also multiply η(L) or μ(INT).
+This is a **rune** stroke. Use **rune-quality** η_cond and ambient `A` only. Do **not** also multiply η(L) or μ(INT).
 
 | Lock | Value |
 |---|---|
@@ -20,7 +20,7 @@ This is a **rune** stroke. Use mana conductivity and ambient `A` only. Do **not*
 | Input at peg | **1,000 J** |
 | Worked example | η_cond = 1, A = 1 (open ground) → **1,000 J** Useful |
 
-Steel in story is a **mid** conductor (worse than mythril, better than iron). When a chapter needs steel η_cond or site `A`, set η_cond from conductivity feel and `C` from altitude + dungeon/spiritual thickness, then `A = √C`.
+Steel in story is a **mid** host feel (worse than mythril, better than iron). Host feel is narrative only. **η_cond** follows **rune quality** (how perfect the rune is) in `../Runes/Energy.md` (Lowest **0.20** → Highest **1.00**). Not scroll quality. Site `A = √C` from altitude + dungeon/spiritual thickness.
 
 That Useful **is** the energy the stroke adds to the head (ΔKE).
 
@@ -78,4 +78,4 @@ Partial feed: Useful scales with mana paid.
 
 ## Open
 
-- Steel η_cond and site `A` (`√C`) when a fight beat needs exact joules
+- Rune quality (η_cond from `Energy.md`) and site `A` (`√C`) when a fight beat needs exact joules

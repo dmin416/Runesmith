@@ -37,7 +37,7 @@ Height over **6'1"** (~**185 cm**) noted Ch 71. Adult mass now; equal-mass AGI c
 
 ## Breath / heal
 
-Train floor still **Breath Control L5** unless later chapters print a rise (none locked before Ch 68).
+Train floor: **Suffocation Resistance L5**; **no** Breath Control unless a later chapter unlocks it.
 
 ```
 M = ((76+88)/2)/15 ≈ 5.47

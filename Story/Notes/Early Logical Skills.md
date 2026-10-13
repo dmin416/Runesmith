@@ -64,7 +64,8 @@ These should stay behind class, pain, or politics even if he is clever:
 - Runecraft / Rune Mastery / Forging package (class)
 - Rune Overload, Empower, Duplication, Authority (power spikes)
 - Runic Eye of Truth / True Runic Sight (high-end perception)
-- Pain Resistance, Abyssal Corruption Resistance (earned the hard way)
+- Abyssal Corruption Resistance (earned the hard way)
+- Pain / Blunt / Sharp / Recovery: not “logical early,” but estate **bravery + drills** earn them (`Capabilities/EstateWoundGrind.md`); leave-home ranks locked in notes
 - Overlord aura / intimidation package (tier and role)
 - Heavy armor / spearmanship / mighty bash (optional, low priority if ranged)
 

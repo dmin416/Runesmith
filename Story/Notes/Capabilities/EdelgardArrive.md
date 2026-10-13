@@ -39,10 +39,10 @@ Age-9 height was ~**140 cm**; age-11 height not locked. Perks already from Str/D
 
 ```
 M = ((71+80)/2)/15 ≈ 5.03
-hold = 1 × M × BreathControl_L5 ≈ 25 min
+hold = 1 × M ≈ 5 min   // no Breath Control yet
 ```
 
-Comfortable seated hold ≈ **~25 min** (~**25×** street adult).
+Comfortable seated hold ≈ **~5 min** (body M only). Suffocation Resistance **L5** covers oxygen-starve harm; it is not a Breath Control multiplier.
 
 **Recovery L5** → **2×** rate on top of M:
 - Plasma ≈ **~1.0–1.5 L/h**
@@ -54,11 +54,15 @@ Comfortable seated hold ≈ **~25 min** (~**25×** street adult).
 | Skill | Level | Effect left |
 |---|---:|---|
 | Pain Resistance | **L5** | **50%** felt |
+| Blunt Resistance | **L5** | **50%** blunt harm |
+| Sharp Resistance | **L4** | **60%** sharp harm |
 | Heat Resistance | **L5** | **50%** heat harm |
 | Cold Resistance | **L5** | **50%** cold harm |
 | Poison Resistance | **L6** | **40%** toxin |
 | Sleep Resistance | **L5** | **50%** sleep need |
+| Suffocation Resistance | **L5** | **50%** oxygen-starve harm |
 | Alcohol Resistance | **L4** | **60%** drunk/hangover |
+| Recovery | **L5** | **50%** close time |
 
 No immunities yet.
 
@@ -76,7 +80,7 @@ Running / Sprint / Climbing / Throwing **Basic L9**. Dodging **Basic L7**. Acrob
 
 ## Magic toolkit
 
-Hands / Absorption / Reinforcement / Sense / Incantation **L9**. Shaping **L7**, Regulation **L8**. Heat spell **L6**. Breath Control **L5**. Drawing **L1** (+ Basic Drawing L9 baked). Mage regen card still on.
+Hands / Absorption / Reinforcement / Sense / Incantation **L9**. Shaping **L7**, Regulation **L8**. Heat spell **L6**. Suffocation Resistance **L5** (hold hypoxia + blood volume). **No** Breath Control. Drawing **L1** (+ Basic Drawing L9 baked). Mage regen card still on.
 
 ## One-line
 

@@ -7,6 +7,7 @@ Hub for Terra near-space and moons. World: `../World.md`. Ambient mana vs altitu
 | File | Holds |
 |---|---|
 | `Atmosphere.md` | Atmosphere layers, ionosphere, magnetosphere, geosynchronous geometry |
+| `EquatorialSunlight.md` | Equatorial clear-sky sunlight. Earth-year model. Does not replace the 361-day year |
 | `Moons.md` | Red / blue moons; space-soaked deposits and craft split |
 | `Radiation.md` | Hub: dose snapshot + links to `Radiation/` pack |
 | `Radiation/` | Fundamentals, ionizing/non-ionizing types, environments, biology, shielding/limits, robust heat-human model |

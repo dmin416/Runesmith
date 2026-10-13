@@ -1,6 +1,6 @@
 # Roland Resistance Tracks
 
-> **Rewrite lock.** Live resist math: `SkillsDesign.md` (−10%/level → Immunity floor **1%** where that family uses it). Broader **ideas** ladder (M tables, Fused names, soft-ok physics): `ResistanceImmunitySystem.md`. Wishlist seeds: `../People/Roland/Goals.md`. How rare deliberate self-torture grinds are: `ResistanceGrindRarity.md`.
+> **Rewrite lock.** Live resist math: `SkillsDesign.md` (−10%/level → Immunity floor **1%** where that family uses it). Broader **ideas** ladder (M tables, Fused names, soft-ok physics): `ResistanceImmunitySystem.md`. Damage-type map (blunt/pierce/slash/…): `DamageTypeResistances.md`. Wishlist seeds: `../People/Roland/Goals.md`. How rare deliberate self-torture grinds are: `ResistanceGrindRarity.md`.
 
 ## Purpose
 
@@ -13,14 +13,18 @@ Roland should **deliberately level** more body resists than Source tracked. Same
 | Sleep → Immunity | L4 transfer → L5 Ch 12 → L6 Ch 23; Immunity Ch **123** | Need cut, not HP soak |
 | Alcohol | ≥ L4 Carwen | End pad |
 | Poison / toxin | ≥ L6–L7 early | Vit/End |
-| Pain | ≥ L5 train; deepens Ch **197** | Will/End; not a heal |
+| Pain | Estate bravery unlock → leave **L3**; Ch 13 **L4**; train **L5**; deepens Ch **197** | Will/End; not a heal. `EstateWoundGrind.md` |
+| Blunt | Estate → leave **L4**; Ch 9.5 **L5** | Vit/End; ≫ Sharp early |
+| Sharp | Estate → leave **L2**; Ch 9.5 **L2–L3**; Ch 13 **L3**; train **L4** (self drip pierces + Ned fang / miss needles) | Vit/End; pierce+slash |
+| Recovery | Estate → leave **L3**; Ch 9.5 **L4**; Ch 13 Ned **L5**; train **L5** | Vit/End; knit cycles |
+| Suffocation | Train unlock **L5** (grill holds **15 s = 1 use** + blood volume drip/nicks; **no** Breath Control) | Vit/End (`MultiMechanismResistance.md`) |
 | Heat | ≥ L5–L6 train; forge / Lord later | Vit/End |
 | Cold | ≥ L5–L6 | Vit/End |
 | Stress | Engineer Ch **196** | |
 | Resilience | Engineer Ch **196** | Stagger / resolve |
 | Abyssal Corruption | Ch **398** | Late |
 
-## Add / promote (Roland must level these)
+## Add / promote (still thin early)
 
 Same **−10% effect per level** shape as Poison / Heat / Cold unless a beat forces a special rule. **Vitality +1 / Endurance +1** per level (match Poison / Heat / Cold). Evolve at L9 → matching **Immunity** (floor **1%**) when timing fits.
 
@@ -28,8 +32,6 @@ Same **−10% effect per level** shape as Poison / Heat / Cold unless a beat for
 |---|---|---|---|
 | **Acid Resistance** | Chemical burn, corrosive spit, acid fog, dissolving fluids | Not Poison (toxin status) and not Heat (thermal). Slimes, ants, forge pickles, mine drip. | Controlled acid splash / slime spit / diluted bath; keep Recovery in the loop |
 | **Electricity Resistance** | Shock, lightning bolt, stun-arc, heart-stopping current | Already on Goals wishlist. Heat / Cold do not cover it. Paralysis from shock can stack with true paralysis effects. | Shock runes, storm work, controlled spark drills, later lightning fights |
-| **Blunt Resistance** | Impact, crush, fall, hammer, concussion compression | Kinetic half of melee soak. Design park pair below. | Sparring, fall drills, mace hits through padding, siege/impact training |
-| **Sharp Resistance** | **Piercing and slashing** as one track (thrusts, arrows, blades, needles, claws) | Sibling **next to Blunt**. One skill on purpose (see science note). | Controlled cuts, archery bruises through mail, Ned tips (wound type vs toxin type), blade drills |
 
 **Kinetic naming lock:** do **not** split Piercing Resistance and Slashing Resistance into two skills for Roland’s sheet. **Blunt + Sharp** is the pair. Sharp = pierce **and** slash.
 

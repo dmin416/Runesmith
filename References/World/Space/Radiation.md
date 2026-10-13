@@ -32,3 +32,5 @@ Body / heat physiology cross-link: `../Science/Body/Body.md`.
 | Io surface | ~36 Sv/day |
 
 NASA career limit **600 mSv** (3% REID). Untreated human LD50 ≈ **4.5 Sv**. Detail: `Radiation/ShieldingAndLimits.md`, `Radiation/BiologicalEffects.md`.
+
+Sunlight: orbit ~**30–40%** more total energy than clear overhead ground (~**1,361** vs ~**1,000 W/m²**); UV damage hundreds–thousands× worse. Detail: `Radiation/NonIonizing.md`.

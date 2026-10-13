@@ -1,6 +1,6 @@
 # Compression
 
-Gas and solid compression math for Fire Piston, Frost Breath, air cartridges, micro-pierce and cloak cooling. Fans: `FanAirflow.md`. Cast: `../../../Runes/Energy.md` (`Mana = J / (10 × η × μ)`). ημ = 1 figures are L2 INT 15 reference.
+Gas and solid compression math for Fire Piston, Frost Breath, air cartridges, micro-pierce and cloak cooling. Fans: `FanAirflow.md`. Low-friction seals / air bearings / DLC: `FrictionNotes.md`. Cast: `../../../Runes/Energy.md` (`Mana = J / (10 × η × μ)`). ημ = 1 figures are L2 INT 15 reference.
 
 ## Narrative
 

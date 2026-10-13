@@ -94,7 +94,7 @@ Only silk composite keeps the limbs light enough to hold high efficiency at supe
 
 ## Beyond Physical Limits
 
-Canon mana converts into kinetic motion with little loss. A kinetic rune adds energy beyond any limb material or archer. Mythril rune lines run on inlays in the riser, since adamantium can't host runes, and an etherium cell powers them. Past that point, the limits become arrow survival under acceleration and the archer's mana budget rather than bow physics. Useful pricing follows `../Runes/Energy.md` (η_cond × A).
+Canon mana converts into kinetic motion with little loss. A kinetic rune adds energy beyond any limb material or archer. Runes can sit in mythril inlays or in stiff adamantium grooves (harder seating) in the riser, with an etherium cell for power. Past that point, the limits become arrow survival under acceleration and the archer's mana budget rather than bow physics. Useful pricing follows `../Runes/Energy.md` (η_cond × A).
 
 ## Open
 

@@ -531,7 +531,7 @@ Gained (permanent after pass):
 - Basic Rune Scribing L1 (scribe runes to scrolls)
 - Basic Rune Mastery L1 (rune comprehension; **−10%** activation cost per level on Lesser; **−90%** at L9)
 
-Reading Proficiency from Arden library aids the trial book. Temporary versions after the book / before assemble. Diagnosis blank mid-inscribe; scores the finished diagram only. Fire Orb = **five**-region linear chain (collector → fire core → shape → constrain → velocity); no binary / logic-gate parse on-page. First attempt fails (red). Mana-hand overlay blunder (~**1/4 MP** cascade). Second succeeds on last sand (~**1/4 MP** again). **Ned** silk-holds him upright on return.
+Reading Proficiency from Arden library aids the trial book. Temporary versions after the book / before assemble. Diagnosis blank mid-inscribe; scores the finished diagram only. Fire Orb = **four**-region linear chain (collector → fire core → shape → constrain); no velocity; no binary / logic-gate parse on-page. First attempt fails (red). Mana-hand overlay blunder (~**1/4 MP** cascade). Second succeeds on last sand (~**1/4 MP** again). **Ned** silk-holds him upright on return.
 
 ### Traits
 
@@ -548,7 +548,7 @@ Created **Lesser Impact Rune [Highest]** schematic (**+1000 XP** → bar **2479 
 
 ## Chapter 19
 
-Created **Lesser Fire Orb Rune [High]** from class-trial memory (**over** 1 hour; **+600 XP**; uneven / first real-world Fire Orb draw). Thin-sheet trace of Diagnosis-correct lines → **[Highest]** (**+400 XP**). Total **1000** (Source one-shot Highest **+1000** discarded). Lesser quality XP: **100 / 200 / 400 / 600 / 1000**. Three Highest lesser schematics. Nature lock on-page: **large linear segments** / five Fire Orb stages (collector → fire core → shape → constraint → velocity); Detonation / Impact same chain family; **not** Source resistor / transistor / memory modules. Diagnosis fails on cut-paper overlays (needs whole sheet). Quill + **Mana Hands** ink refill (multitask practice); wants a pencil (`WritingTools.md`: invent later, not buy). Sleep Resistance noted on the long train.
+Created **Lesser Fire Orb Rune [High]** from class-trial memory (**over** 1 hour; **+600 XP**; uneven / first real-world Fire Orb draw). Thin-sheet trace of Diagnosis-correct lines → **[Highest]** (**+400 XP**). Total **1000** (Source one-shot Highest **+1000** discarded). Lesser quality XP: **100 / 200 / 400 / 600 / 1000**. Three Highest lesser schematics. Nature lock on-page: **large linear segments** / four Fire Orb stages (collector → fire core → shape → constraint); Detonation / Impact same chain family; **not** Source resistor / transistor / memory modules. Diagnosis fails on cut-paper overlays (needs whole sheet). Quill + **Mana Hands** ink refill (multitask practice); wants a pencil (`WritingTools.md`: invent later, not buy). Sleep Resistance noted on the long train.
 
 ### Train-week skill math (locked)
 
@@ -560,11 +560,17 @@ Field-use curve (`SkillRanks.md`): cum clean uses to reach L = **1 / 10 / 50 / 2
 
 **Sound pace:** **one click every ~4 seconds** during the dual blocks. Time between clicks is for mapping the cabin and for the grill / needle / breath work. ~**22,000** clicks over the week (**3.5 × 3600 × 7 / 4**). That clears **L7** (**20,000**). Not **L8** (**100,000**). No evolve (**2,000,000**).
 
-**Breath pace:** holds between grill sets. **1 minute** held = **1** clean use (`SkillsDesign.md`). Grill sting time across ~**1,240** cycles lands about **1,000+** minutes held → exit **L5**. **L6** needs **5,000** minutes (~**83 h**). Not smoke or vog.
+**Suffocation pace (two meters, one skill):** `MultiMechanismResistance.md`. **No Breath Control** on this train.
+
+- **Hypoxia / holds:** **15 s** under load = **1** use. Grill-peak holds between thermal sets. Story lock ~**140 min**/day held → **140 × 60 / 15 = 560** hypoxia uses/day × **7** ≈ **~3,920** uses.
+- **Blood volume:** open bleed only. **~50 mL ≈ 1% ≈ 1 use** (adult ~5 L; fractions count). Mana Hands drip + Ned fang nicks + missed needle beads, survived; Recovery refills (refill ≠ use). Hard Recovery grind ~**5%**/day → **~5** blood uses/day × **7** ≈ **~35** uses.
+- **Combined:** ~**3,955** clean uses → clears **L5** (**1,000**); short of **L6** (**5,000**). Exit **L5**. Do **not** double-count the same hemorrhage as volume **and** hypoxic seconds.
+
+**Sleep Resistance pace:** enter **L5** (Ch 12). Meter (`MultiMechanismResistance.md`): **15 s** awake past remaining need = **1** use. L5 need ≈ **50%** of a full night (~**4 h**). He still sleeps some (`19-30.md`: eating and sleeping), but Sleep Resistance keeps him too alert to nap the empty hours and he shortens night rest for dual drills. Story lock ~**2 h**/day awake past remaining need → **2 × 3600 / 15 = 480** uses/day × **7** ≈ **~3,360** uses. Clears nothing new (**L6** needs **5,000** cum from L5). Exit **L5**. Ch 23 half-year scribing still owns the next rank.
 
 **Thermal pace (regen-capped + Recovery):** enter Rec **L5**. Cycle time pressed toward the mana period with potion assist when flesh lags (roughly **~1–1.5 min/cycle**). ~**1,240** burn/frost/knit cycles over the week (day path roughly **146 → 156 → 165 → 187 → 192 → 199 → 199**). From a fresh L5 bar that is **+1,240** toward L6 (**5,000** cum). Exit Recovery still **L5**. Heat / Cold / Pain resistances from the same pool clear **L5** (**1,000**) and stop short of **L6** (**5,000**).
 
-**Ned assist:** shallow intentional nibble / tip-poke on forearm or hand between grill squares (toxin prick). **Needle-catch drill:** Ned short-launches a spent/regrown tip at Roland; Roland eyes shut, locates on the spaced clicks, catches, feeds the needle back into Ned’s mouth (spider-web recycle). Misses sting and count for Pain / Recovery / Poison. Same Needle Worm toxin family (soft repeat credit). Blood is **Roland’s**: usual drip plus **extra** from pokes/misses, paid out of Recovery restore (not free). **Ned shared Trauma lock:** on-page scarf cold near-miss + tip wear; exit Spike **L7**, Stealth **L7**, Climbing **L7**, Seal **L5**, Pain **L5**, Heat **L5**, Cold **L5** (`NedStatus.md`).
+**Ned assist:** shallow intentional nibble / tip-poke on forearm or hand between grill squares (toxin prick). **Needle-catch drill:** Ned short-launches a spent/regrown tip at Roland; Roland eyes shut, locates on the spaced clicks, catches, feeds the needle back into Ned’s mouth (spider-web recycle). Misses sting and count for Pain / Recovery / Poison. Same Needle Worm toxin family (soft repeat credit). Blood is **Roland’s**: usual drip plus **extra** from pokes/misses → **Suffocation** volume uses; Recovery restores the tank (refill is not a use). **Ned shared Trauma lock:** on-page scarf cold near-miss + tip wear; exit Spike **L7**, Stealth **L7**, Climbing **L7**, Seal **L5**, Pain **L5**, Heat **L5**, Cold **L5** (`NedStatus.md`).
 
 | Skill | Enter | Exit | Why |
 |---|---|---|---|
@@ -584,10 +590,12 @@ Field-use curve (`SkillRanks.md`): cum clean uses to reach L = **1 / 10 / 50 / 2
 | **Cold Resistance** | **L1** | **L5** | Inn L1 + daily frost half. Same pool. |
 | **Pain Resistance** | **L1** | **L5** | Grill sting + Ned tip pricks + missed launches. |
 | **Poison Resistance** | **L6** | **L6** | Daily shallow Ned toxin. Soft repeat. L7 needs **20,000**. Poison is one skill. |
-| **Breath Control** | — | **L5** | ~**1,000+** minutes held. L6 needs **5,000**. |
+| **Suffocation Resistance** | — | **L5** | Hypoxia ~**3,920** (**15 s**/use) + blood ~**35** (~**50 mL**/use). Clears **1,000**. Short of **5,000**. No Breath Control. |
+| **Sleep Resistance** | **L5** | **L5** | Debt ~**3,360** (**15 s** awake past need; ~**2 h**/day). Short of **L6** (**5,000**). Ch 23 still owns +1. |
+| **Sharp Resistance** | **L3** | **L4** | Self drip pierces + Ned fang / miss needles. Clears **200**. Short of **1,000**. |
 | **Recovery** | **L5** | **L5** | ~**1,240** knit cycles. L6 needs **5,000** cum. **No evolve.** |
 
-**Attr pads from this week only** (exit − enter): Sound Prod **+7 Int / +7 Dex**; Echo **+7 Will / +7 Int**; Multitask **+4 Int / +4 Dex**; Throwing none (already Basic L9); Shaping none; Regulation none; Heat none (spell); Heat Resistance **+5 Vit / +5 End**; Cold **+4 Vit / +4 End**; Pain **+4 Will / +4 End**; Poison none; Breath Control **+5 Vit / +5 End**; Recovery none.
+**Attr pads from this week only** (exit − enter): Sound Prod **+7 Int / +7 Dex**; Echo **+7 Will / +7 Int**; Multitask **+4 Int / +4 Dex**; Throwing none (already Basic L9); Shaping none; Regulation none; Heat none (spell); Heat Resistance **+5 Vit / +5 End**; Cold **+4 Vit / +4 End**; Pain **+4 Will / +4 End**; Poison none; Suffocation **+5 Vit / +5 End**; Sharp **+1 Vit / +1 End**; Sleep none; Recovery none.
 
 **Sheet note:** fold these into the Ch 19 rewrite when the live L26 Scribe sheet is retconned; do not invent a second full status screen on the train.
 
@@ -595,15 +603,29 @@ Still Runic Mana Scribe. Plans large-stage rearrange / swap experiments (same li
 
 ## Chapter 20
 
-No new skills. Hides Runic Mana Scribe while job hunting as Mana Scribe. Still has not scribed paid scrolls on-page. Buys blanks/ink/pencil for later work.
+No new skills. Hides Runic Mana Scribe while job hunting as Mana Scribe. Still has not scribed paid scrolls on-page. Buys monster-skin blanks + magic ink. No pencil (quills/paper only; expensive fountain pens ignored).
 
 ## Chapter 21
 
-First on-page Mana Scribing: Mana Arrow scroll (~10 min, +20 XP; Identify = name only). First practice Fire Orb runic scroll (~45 min, +50 XP; Diagnosis red). Diagnosis blank on regular scrolls. Runic scrolls work at 0% elemental affinity. Plans auction practice grind.
+First on-page Mana Scribing: **Mana Bolt** word scroll (few min, list **25** / L1 pay **22.5** MP, **+25 XP**; Identify = name only). First practice Fire Orb runic scroll (~**75** MP / about three Bolts; **+25 XP**; Diagnosis red). Diagnosis blank on regular scrolls. Runic scrolls work at 0% elemental affinity. Plans auction practice grind.
+
+## Chapter 21.5
+
+**Full process / experiment lock:** `Chapter21_5.md`. Burn/freeze resistance grind: `ResistanceGrindBurnFreeze.md` (weak hide Fire Orb patch on leg).
+
+Rewrite-only ~**6 month** desk grind (Source folds into Ch 22 open). Enter: Rune Scribing **L1**, Mana Scribing **L1**, Rune Mastery **L1**, Drawing plain **L1**, Mana Hands **L9**, Multitasking **L5**.
+
+**Bought / set up:** three second-shop runics (Orb of Light, Fire Arrow, Aqua Ball); cheap ink → homebrew plan; Ned silk; quill / Hands-as-pen / all-at-once settle-then-imbue drills.
+
+**Made:** homemade ink (his blood + Ned's blood + powdered goblin cores; drain crumbly vs overload explode); Fire Orb to trial quality on rough hide; weak hide Fire Orb leg patch for burn grind.
+
+**Discovered:** water and light after Fire Orb; Ball ≈ bigger Orb; Arrow shared outline / different inners; Orb–Bolt shared shape (Bolt small-mana compression, Ball moderate, Orb soft restraint); system Mana Bolt has no contact-detect (pop = compression undone); ratios matter / shrink cuts power / upsizing compression alone tends to implode; swaps beat ratio tweaks (Aqua Ball → Fireball, water arrow, light ball); lazy wrong ratios still Diagnosis-readable unless paper burns; skill feel = clockwork familiarity; freeze-flip fails (in chapter).
+
+**Exit:** working runic Mana Bolt; FA schematic → High/Highest comet batch; Rune Scribing **L5**, understanding **L2**, Sleep Resistance **+1**, ten branded FA scrolls, last **1 SS**, servant cover into auction.
 
 ## Chapter 22
 
-Basic Rune Scribing L5. Understanding of runic scroll making L2. Basic Rune Mastery leveled slightly. Perfect Common Runic Fire Arrow schematic (**2× XP** vs lesser). Auction set: 8 High + 2 Highest Common Fire Arrow scrolls (comet logo). Cover: robed/masked servant of a runesmith.
+Auction day after 21.5. Skills as 21.5 exit. Batch: 8 High + 2 Highest Common Fire Arrow (comet logo). Cover: robed/masked servant of a runesmith.
 
 ## Chapter 23
 

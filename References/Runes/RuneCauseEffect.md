@@ -35,14 +35,26 @@ Names below are design labels. Prose can stay plain ("the fire part," "the seeke
 | **Converter: Water** | Mana → water mass | Aqua Ball |
 | **Converter: Light** | Mana → light | Orb of Light |
 | **Converter: Pure mana** | Mana stays mana (bolt / blade / barrier body) | Mana Arrow spell form; Mana Slash later |
-| **Shape: Orb** | Holds output as a ball | Fire Orb, Orb of Light, Aqua Ball |
-| **Shape: Arrow / bolt** | Projects a thin fast packet | Fire / Frost / Gale Arrow |
+| **Shape: Orb / Bolt (shared)** | Same initial shape for Orb and Bolt | Fire Orb, Orb of Light; runic Mana Bolt uses this shape too |
+| **Shape: Ball** | Orb skeleton + a couple extra lines; bigger packed / damaging round | Aqua Ball; Fireball-class later |
+| **Shape: Arrow** | Similar shaping outline to Orb/Ball family; different inner sub-symbols; pierce packet | Fire / Frost / Gale Arrow |
+| **Restraint (Orb)** | Soft hold; no explode-on-form | Fire Orb constrain stage |
+| **Compression (Bolt, small mana)** | Tight explosive compression on the shared Orb/Bolt shape; small mana load | Runic Mana Bolt (Ch 21.5 Notes) |
+| **Compression (Ball, moderate mana)** | Same compression job on the Ball shape; moderately more mana packed | Aqua Ball / Fireball-class compression |
+
+**Ch 21.5 Notes lock** (full desk map: `Story/Notes/Chapter21_5.md`): Orb and Bolt share shaping; difference is compression / restraint, not a separate Bolt outline. Kit after Arrow + Ball + Orb compare: **Orb/Bolt shape**, **Ball** (bigger), **Arrow**, **small-mana compression** (Bolt), **moderate-mana compression** (Ball). System-identified Mana Bolt has **no detect-contact rune**; the pop is the compression constraint coming undone when the packet hits anything denser than air (straw ball undone by a hard hit). Contact triggers stay Detonation-family, not Bolt.
+
+**Component ratio / scale (Ch 21.5 experiment):** Segment **size ratios** dominate how mana is processed. Forcing ratio changes to enlarge/shrink parts or nudge effects barely works; results are slight and inefficient. Scaling the **whole** machine smaller reduces mana input and power output together. Upsizing the **simple compression** rune alone to chase a fiercer Bolt pop is more likely to **implode** than to explode harder.
+
+**Component swap (Ch 21.5 experiment):** Swapping converters / fills onto known shapes is **much** more successful than ratio surgery. Once he can make Aqua Ball, **Fireball** is almost laughably easy; same for **water arrow** and **light ball**. Lazy grafts that leave ratios unmodified still let **Diagnosis** flag what is wrong, unless the paper spontaneously burns up (occasional).
+
+**Skill feel (Ch 21.5):** Rising Rune Scribing / Mastery / Diagnosis does **not** dump schematics into his head. It gives a vague clock-mechanism sense of how neighboring runes might need to change, and a familiarity when he looks at new runes so they feel like they will make sense the moment he sees them.
 | **Shape: Tip / edge** | Concentrates on weapon tip or edge | Detonation tip; Sharpness; Scorch |
 | **Constrain / contain** | Stops premature dump (orb does not explode on form) | Fire Orb |
 | **Velocity / launch** | Gives heading and speed | Fire Orb; arrow family; Velocity |
 | **Arrow body (shared)** | Common middle stages shared by elemental arrows | Fire + Frost + Gale Arrow comparison |
 | **Attach / seek / sense target** | Locks effect onto a marked or sensed target | Shop seeker scrolls; life-detect / tracking samples when bought; later armor scan. **Not** from casting Shield/Light with follow intent (`SpellToCraftGate.md`) |
-| **Trigger: contact** | Arms until tip inserts / hits | Detonation hold-lock |
+| **Trigger: contact** | Arms until tip inserts / hits | Detonation hold-lock. **Not** on Mana Bolt (system or runic); Bolt pop = compression undoing on denser-than-air impact |
 | **Trigger: pressure / step** | Dormant until weight or open | Mine adapt from Detonation |
 | **Trigger: user will** | Manual activate | Most gear runes |
 | **Sustain / coat** | Thin mana layer that stays (hardening, resist) | Hardening; resistance suite |
@@ -57,7 +69,7 @@ Add rows when a new sample teaches a new job. Do not invent jobs without a sampl
 
 | If he has … | He can build … |
 |---|---|
-| Fire converter + Orb shape + constrain + velocity | Fire Orb (already); any orb-shaped fire tool |
+| Fire converter + Orb shape + constrain | Fire Orb (already); any orb-shaped fire tool |
 | Fire converter alone (stripped from arrow/orb) | Torch, kettle heat, cook plate, forge assist, flame jet, fireball (new shape), Fire Arrow (if he has arrow body) |
 | Light converter + Orb shape | Light Orb; camp light; signal flare; dazzle if overcharged |
 | Light + attach/seek/sense **(both from rune samples)** | Homing light tag; targeting attack that rides the seeker onto a sensed mark |
@@ -91,8 +103,8 @@ Chapter numbers are rewrite anchors. Move samples earlier if the story does; **e
 
 | Learns | Does |
 |---|---|
-| Named five-stage fire orb chain; scribing skills | Working Fire Orb scroll in trial |
-| Fire converter + orb + constrain + velocity as distinct jobs | After class: redraws, variants, grenade ideas with Detonation |
+| Named four-stage fire orb chain; scribing skills | Working Fire Orb scroll in trial |
+| Fire converter + orb + constrain as distinct jobs | After class: redraws, variants, grenade ideas with Detonation |
 
 ### Ch 18: Impact schematic
 
@@ -108,14 +120,21 @@ Chapter numbers are rewrite anchors. Move samples earlier if the story does; **e
 | All lessers share linear segment rules | Swaps whole stages on full sheets; no cut-paper cheat |
 | Three Highest lessers in hand | Explicit plan: isolate converters and rebuild products |
 
-### Ch 20–22: first shop samples (Fire Arrow, Orb of Light, …)
+### Ch 20–22: first shop samples (Fire Arrow, Orb of Light, Aqua Ball, …)
 
 | Learns | Does |
 |---|---|
 | **Arrow body** + Fire on a Common | Fire Arrow product line (Comet can be quality/brand, not ignorance) |
 | Isolates Fire from arrow | **Any** fire machine he has shapes for: orb (has), jet, plate heat, cook/forge assist scrolls or later metal |
 | **Light** converter from Orb of Light | Camp lights, signals; with seeker → targeting tag / guided attack |
-| Aqua / Frost Bolt if bought | Water and frost converters enter the library the same day |
+| **Water** from Aqua Ball (Ch 21.5 Notes: instant after Fire Orb lock) | Water converter in the library same stretch |
+| **Form family (Arrow + Ball + Orb):** Ball ≈ Orb (same machine + a couple extra lines; bigger). Arrow shares shaping **overall form** but very different **sub-symbols inside** the shaping segment | Reads shared skeletons + swap-in cores; not three unrelated drawings |
+| Shared Orb/Bolt shape + **small-mana explosive compression** (vs Orb soft restraint); Ball uses **moderate-mana compression** | Working **runic Mana Bolt** (kinetic; pure mana) |
+| **Form kit:** Orb/Bolt shape, Ball, Arrow, Bolt compression (small), Ball compression (moderate) | Converters ride these; pure-mana Bolt is the first full Bolt build |
+| Mana Bolt (even system-named) has **no detect-contact rune**; pop = compression constraint coming undone on denser-than-air hit (straw-ball feel) | Does not graft Detonation contact into Bolt; contact triggers stay separate samples |
+| Component **ratios** gate mana processing; forced ratio tweaks → tiny/inefficient size or effect nudges; whole-diagram shrink → less in / less out; enlarge compression alone → implode risk, not a fiercer Bolt | Stops treating one-segment upsizing as free power; keeps working ratios; uses whole-scale for quiet/cheap variants |
+| Converter / fill **swaps** onto known shapes succeed far more than ratio surgery; Aqua Ball → **Fireball** easy; same for **water arrow**, **light ball**; lazy unmodified-ratio grafts still Diagnosis-readable unless paper burns (occasional) | Builds Fireball / water arrow / light ball product line from kit; uses Diagnosis on sloppy first drafts when the host survives |
+| Skill rise → vague clock-mechanism feel for how other runes might need to change; familiarity on sight, not a brain dump | Trusts that new samples will click when seen; does not wait for system tutorial text |
 
 Rewrite default: he buys **study samples early** and strips them. Brand income can be multi-SKU once quality is High enough. Conflict shifts to mana cost, attention, identity, mats, not "he only knows one spell."
 

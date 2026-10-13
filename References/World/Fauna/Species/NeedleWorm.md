@@ -1,6 +1,6 @@
 # Needle Worm
 
-> Species biomechanics / combat-body design for Floor-2 Needle Worms and Ned's steered worm line. Character lock: `../../../People/Ned.md`. Silk numbers: `../../Science/Biomaterials/BiologicalSilks.md`. Craft harvest / stockpile: `../../Science/Biomaterials/Biomaterials.md`. Companion skill grind: `../../../Progression/CompanionSkillLeveling.md`. Hub: `../Creatures.md`.
+> Species biomechanics / combat-body design for Floor-2 Needle Worms and Ned's steered worm line. Character lock: `../../../People/Ned.md`. Silk numbers: `../../Science/Biomaterials/BiologicalSilks.md`. Fabricator catalog (not this body's lock): `../../Science/Biomaterials/PrinterWorm.md`. Craft harvest / stockpile: `../../Science/Biomaterials/Biomaterials.md`. Companion skill grind: `../../../Progression/CompanionSkillLeveling.md`. Hub: `../Creatures.md`.
 
 Map Earth anchors to Caldris; do not paste Earth taxonomies into prose as if local.
 

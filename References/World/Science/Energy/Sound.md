@@ -5,6 +5,7 @@ Hub: `../Science.md`. Bands / ozone: `Waves.md`. Cast law: `ManaCast.md`. Skills
 ## Power equations
 
 L = 10 log₁₀(I / I₀), I₀ = 10⁻¹² W/m²  
+Seven coincident identical waves, linear case only: `SevenFirecrackers.md`.  
 I = I₀ · 10^(L/10)  
 Point source: I = P / (4 π r²)  
 P = I₀ · 10^(L/10) · 4 π r²  
@@ -43,7 +44,7 @@ Round trip for a there-and-back echo: t = 2d / c. Wavelength: λ = c / f (`Waves
 
 Solid rock compression at **3,000–6,000 m/s** is the combat shorthand (**10–15×** air): `../../../Combat/LightWarfare.md`. Soft ground is the exception. A surface wave in loose soil can be **slower than air**. Fill that soil with water and the compression wave jumps toward water speed. The shear and the surface wave stay slow.
 
-Wood across the grain is slower than along it, closer to **1,000–2,000 m/s**. A steel bar is the thin-rod speed. Bulk steel is closer to **5,900 m/s**. No acoustic speed is locked for mythril, star steel, orihalcum, aurium, or adamantium.
+Wood across the grain is slower than along it, closer to **1,000–2,000 m/s**. A steel bar is the thin-rod speed. Bulk steel is closer to **5,900 m/s**. No acoustic speed is locked for mythril, star steel, orihalcum, or aurium. Adamantium stiffness / casting-key band: ~**20,000 m/s** in `../../Materials/Metals.md` (bending-mode keys; not a free longitudinal ring).
 
 Example: 1 s at 120 dB, 5 m out → I = 1 W/m² → P ≈ 4π×25 ≈ **314 W** → **314 J** (~31 mana/s at ημ 1).
 
@@ -93,6 +94,6 @@ Brute fracture energy: E_punch = 1.5 × R × A × t (`ManaCast.md`). Resonance d
 
 ### Echolocation → Vibration Sense → Energy Sense
 
-Mana cheap (sound rates above). Bottleneck is attention / cortex. Each name hard-caps at L9. Evolve at **2,000,000** clean uses. Echolocation reads sound returns. Vibration Sense reads the same returns through skin and hair, and through the ground. Energy Sense is the next evolve: a general read of whatever carries energy (heat, mana, living fields), not one animal trick. Rank card: `../../../Progression/SkillsDesign.md`. Chapter 19 needle-catch drill uses **one click every ~4 s** (~**22,000**/week → Sound / Echo **L7**) and Breath Control: `../../../../Story/Notes/Skills.md`. Ideas alt names (Sonar / Resonance) and √M / M^1/4 tables: `../../../Progression/SensingManaSoundSystem.md` (live evolve names stay Vibration / Energy Sense).
+Mana cheap (sound rates above). Bottleneck is attention / cortex. Each name hard-caps at L9. Evolve at **2,000,000** clean uses. Echolocation reads sound returns. Vibration Sense reads the same returns through skin and hair, and through the ground. Energy Sense is the next evolve: a general read of whatever carries energy (heat, mana, living fields), not one animal trick. Rank card: `../../../Progression/SkillsDesign.md`. Chapter 19 needle-catch drill uses **one click every ~4 s** (~**22,000**/week → Sound / Echo **L7**); Suffocation (holds + blood), not Breath Control: `../../../../Story/Notes/Skills.md`. Ideas alt names (Sonar / Resonance) and √M / M^1/4 tables: `../../../Progression/SensingManaSoundSystem.md` (live evolve names stay Vibration / Energy Sense).
 
 Q sharpens frequency resolution. Air–stone is fine. Air–tissue interior still needs coupling. A 10 m return is ~58 ms in air, ~14 ms in water, and a few milliseconds through rock. Loose soil can be slower than the air click. A few seconds between clicks is enough to read a cabin-scale return and still leave attention for other work.

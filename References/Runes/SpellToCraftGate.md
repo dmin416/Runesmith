@@ -8,12 +8,12 @@ These are **different products**. Same paper shape does not make them the same c
 
 | Family | What it is | Fuel / who | Craft skill |
 |---|---|---|---|
-| **Magic scroll** | Temporary magical pathway: written chant + pathways that guide the user's own mana. Disposable spell imprint. | User must have mana, **put their mana in**, and **chant**. Writer caps power. | Mana Scribing / magic-scroll craft |
-| **Runic scroll** | A **rune** laid on a scroll host. Rules machine, not a written spell. | **Anyone** can use. Common: user pays mana or stamina. **Special:** can be **preloaded with mana** and activated without the user casting a spell. | Rune Scribing / runecraft |
+| **Magic scroll** | Written chant; reading mobilizes the user's mana. | Mage / mana user must **read**. Craft = full cast × Mana Scribing S; power designed (`MagicScrollMaking.md`). | Mana Scribing / magic-scroll craft |
+| **Runic scroll** | A **rune** laid on a scroll host. Artificial pathways. | **Anyone** can use. **Absorbing:** mana or stamina. **Preloaded:** stored spell released on activate. | Rune Scribing / runecraft |
 
 A magic scroll is **not** a weak runic scroll. A runic scroll is **not** a magic scroll with symbols. Gate below treats them as separate outputs.
 
-Full family law: `Magic.md`.
+Full family law: `Magic.md`, `MagicScrollMaking.md`.
 
 ## Purpose
 
@@ -59,6 +59,6 @@ Early power growth should feel like: cast what he knows, scribe **magic scrolls*
 
 ## Related
 
-- Magic scroll vs runic scroll families: `Magic.md`
+- Magic scroll vs runic scroll families: `Magic.md`, `MagicScrollMaking.md`
 - Segment unlock law (sample-gated; attach/seek not free from personal casts): `RuneCauseEffect.md`
 - Named catalog: `Runes.md`

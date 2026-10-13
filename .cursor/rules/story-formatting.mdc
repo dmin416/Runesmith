@@ -13,7 +13,8 @@ alwaysApply: true
 
 ## Punctuation
 
-- Never use em dashes (`—`). Use commas, periods, colons, or ASCII hyphens (`-`).
+- Never use em dashes (`—`). Use commas, periods, or ASCII hyphens (`-`).
+- Never use colons (`:`) in story prose.
 - Do not put a comma before coordinating `and` or `but`.
 
 ## Prose

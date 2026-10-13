@@ -18,7 +18,7 @@ Move  = t_m / √P
 Total = Think + Move
 ```
 
-Baseline reaction `t_r ≈ 0.2 s` (matches average simple visual RT ~190-250 ms in `SpeedPerception.md`). `t_m` = baseline human motion time for that action. Absolute visual floor without anticipation is about **0.10-0.15 s**.
+Baseline reaction `t_r ≈ 0.2 s` (matches average simple visual RT ~190-250 ms in `SpeedPerception.md`). `t_m` = baseline human motion time for that action. Absolute visual floor without anticipation is about **0.10-0.15 s**. Eye and ear reflex splits, durability, and light and sound injury times: `../World/Science/Body/EyeEarScaling.md`. That file does not replace `t_r`.
 
 ### Specialist floors
 

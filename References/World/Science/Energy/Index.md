@@ -23,9 +23,11 @@ Stones, cast tables, batteries, engines, motors, fans, pumps, compression, fligh
 - [Generators.md](Generators.md). Faraday generators; paired flywheels; cryogenic / relativistic drain bottleneck
 - [FlywheelStorage.md](FlywheelStorage.md). Rim-weighted indestructible flywheel sizes; 0.1c / 0.9c; solid-drum pack. Perfect-winding storage note. Speed ceiling: ElectricMotors.md
 - [FlywheelApplications.md](FlywheelApplications.md). Lossless crystal laser / lighting / loads from flywheel sets; air ceilings
+- [CleanestUsefulEnergyStorage.md](CleanestUsefulEnergyStorage.md). Earth comparison: flywheel, H₂, CSP, pumped hydro, thermal, CAES, liquid air, iron-air, flow, Na-ion, LFP, supercap
 
 ## Air and fluid
 
+- [FrictionNotes.md](FrictionNotes.md). Adhesion / DLC coatings / air bearings / labyrinth piston on no-bend stock
 - [Compression.md](Compression.md). Fire Piston, Frost, air cartridge, cloak compress-expand cooling (forgoes for cold rune)
 - [FanAirflow.md](FanAirflow.md). Fan φ/ψ power
 - [Pumps.md](Pumps.md). Lift, head, taps
@@ -38,6 +40,8 @@ Stones, cast tables, batteries, engines, motors, fans, pumps, compression, fligh
 - [Lighting.md](Lighting.md). Incandescent, limelight, discharge, LED structure / failure; Caldris filter
 - [Waves.md](Waves.md). Wave / ozone bands
 - [Sound.md](Sound.md). Sound Production / echolocation
+- [SevenFirecrackers.md](SevenFirecrackers.md). Seven coincident blast waves in pure linear superposition. Pressure 7x, intensity 49x, +16.9 dB
+- [TriggeredLightning.md](TriggeredLightning.md). Rocket-wire / tower / laser trigger; ground-end MJ yield; storm rates; volcanic sites
 
 ## Kinetic and launch
 

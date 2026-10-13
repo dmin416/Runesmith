@@ -1,0 +1,12 @@
+---
+description: Story-edit chats reply with period only; edits still run
+alwaysApply: true
+---
+
+# Silent Period
+
+Applies only in chats named for story editing (name contains `Story`).
+
+In those chats: reply with only `.` unless the user explicitly allows speech. Edits still run.
+
+Other chats: normal replies.

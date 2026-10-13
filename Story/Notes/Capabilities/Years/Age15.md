@@ -36,7 +36,7 @@ Arrival detail: [IslandArrive.md](../IslandArrive.md)
 | Think **I** | **11.4×** → RT ≈ **0.018 s** |
 | Limb √P (AGI) | **2.21×** |
 | Heal / breath **M** | **5.37** |
-| Breath hold | ≈ **27 min** (Breath Control **L5**) |
+| Breath hold | ≈ **5.4 min** (body M only unless Breath Control unlocks later) |
 
 ### Ch 68 rewrite (L71 / RB L21)
 
@@ -63,11 +63,11 @@ Arrival detail: [IslandArrive.md](../IslandArrive.md)
 | Think **I** | **11.5×** → RT ≈ **0.017 s** |
 | Limb √P (AGI) | **2.21×** |
 | Heal / breath **M** | **5.47** |
-| Breath hold | ≈ **27 min** (Breath Control **L5**) |
+| Breath hold | ≈ **5.5 min** (body M only unless Breath Control unlocks later) |
 
 ## Skills / resists (year highlights)
 
-- Breath Control last hard lock **L5** (~**27 min**)
+- Suffocation train floor **L5**; no Breath Control locked from train
 - Pain/Heat/Cold ≥ **L5**; Poison ≥ **L6**; Sleep ≥ **L6**
 - Craft eyes online
 

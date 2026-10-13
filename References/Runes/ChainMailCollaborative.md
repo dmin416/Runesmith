@@ -1,6 +1,6 @@
 # Chain Mail as One Collaborative Rune
 
-> **Design loot.** Live locks: Energy.md (eta_cond feel order, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md (Ag mythril, Au orihalcum, Cu aurium, Fe/steel dark→star, Ti adamantium). Stone rates: ../World/Science/Energy/ManaStones.md + ../World/Materials/MonsterCores.md (dump setup-gated, not SA-capped; recharge area-gated). Non-canon here: path-% dials; adamantium as forgeable post-set supersteel.
+> **Design loot.** Live locks: Energy.md (rune-quality η_cond, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md (Ag mythril, Au orihalcum, Cu aurium, Fe/steel dark→star, Ti adamantium). Stone rates: ../World/Science/Energy/ManaStones.md + ../World/Materials/MonsterCores.md (dump setup-gated, not SA-capped; recharge area-gated). Non-canon here: path-% dials; adamantium as forgeable post-set supersteel.
 
 Research note: one shirt-wide rune network that pools rice-grain stones across links into the struck point. Path vs cast Useful: `Energy.md` / `../World/Science/Energy/ManaCast.md`. Strike energy bands: `../Combat/AttackScale.md`.
 

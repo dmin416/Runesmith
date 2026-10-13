@@ -5,7 +5,7 @@
 > Each line: two Tier 1 skills evolve separately, then fuse at Tier 3. The note after each line names the quantity M multiplies.
 
 **Related idea files**
-- Resist pairs (eight resists → four Fused): `ResistanceImmunitySystem.md` — Heat+Cold → Temperature Immunity; Blunt+Sharp → Melee Immunity; Poison+Alcohol → Pure Blood; Sleep+Pain → Iron Will
+- Resist families: `ResistanceImmunitySystem.md` — Heat+Cold → Temperature Immunity; Blunt+Sharp → Melee Immunity; Pain+Poison+Alcohol → **Bodily Immunity**; Sleep+Thirst+Hunger+Suffocation → **Sustenance Immunity**
 - Sensing / mana / smith / sound: `SensingManaSoundSystem.md`
 
 ---
@@ -30,7 +30,7 @@
 ### Soft-ok
 
 - Same **M** tier curve as the other idea files for *feel* on one skill’s depth.
-- **Disease / Curse** as tracks outside Pure Blood (pathogen / curse gap).
+- **Disease / Curse** as tracks outside Bodily Immunity (pathogen / curse gap).
 - **Electric** current thresholds as feel for Electricity Resistance.
 - **Stealth vs sensing** contest (detection range × √M style).
 - **Reflexes** dividing reaction time as combat feel (do not override SpeedVsIntellect locks without a merge).
@@ -51,7 +51,7 @@
   - *Live:* prefer **Recovery / Rapid Recovery**. Limb regrow stays idea-only.
 - **Stamina Recovery → Second Wind** + **Mana Recovery** (if separate from Absorption) → **Endless Vigor.** M multiplies recovery rate from exertion.
   - *Live:* SP/MP regen sit on attributes / Regulation / Absorption; Reinforcement is not Mana Recovery.
-- **Disease Resistance → Disease Immunity** + **Curse Resistance → Curse Immunity** → **Untainted.** M divides infection load and curse potency. This fills the pathogen gap left out of Pure Blood.
+- **Disease Resistance → Disease Immunity** + **Curse Resistance → Curse Immunity** → **Untainted.** M divides infection load and curse potency. Idea gap-fill if infections are split out of Poison.
   - *Soft-ok as gap fillers.* Abyssal Corruption Resistance stays its own late track.
 
 ---
@@ -61,8 +61,8 @@
 - **Breath Holding → Suffocation Immunity** + **Pressure Resistance → Pressure Immunity** → **Abyssal Body.** M multiplies oxygen efficiency and pressure tolerance. Tier 3 survives the deep sea and vacuum.
   - *Live:* **Breath Control**. Pressure track is new idea.
 - **Hunger Resistance → Fasting** + **Thirst Resistance → Arid Body** → **Self-Sustaining.** M multiplies time survivable without food or water. Baseline about **3 weeks** without food and **3 days** without water.
-- **Fatigue Resistance → Tireless** + **Exertion Endurance** → merges cleanly with Iron Will or stands alone. M multiplies time to exhaustion.
-  - *Idea;* live Endurance attr and Iron Will (resist idea) are not this skill.
+- **Fatigue Resistance → Tireless** + **Exertion Endurance** → merges cleanly with Sustenance / Bodily or stands alone. M multiplies time to exhaustion.
+  - *Idea;* live Endurance attr is not this skill.
 - **Radiation Resistance → Radiation Immunity.** M divides effective dose in sieverts. Useful for magic-crystal or alchemical radiation settings.
 - **Electric Resistance → Electric Immunity.** M multiplies the current needed to stop the heart. Baseline about **0.1 A** across the chest. Pairs with Temperature Immunity for lightning.
   - *Soft-ok feel for live **Electricity Resistance**.* Do not invent a second named Electric track.

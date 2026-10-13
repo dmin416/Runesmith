@@ -7,7 +7,7 @@ Named rune catalog and chapter first-seens. Character skills that manipulate run
 | File | Role |
 |---|---|
 | `Runes.md` | Named catalog / first-seens |
-| `Energy.md` | Path / ambient / wear / η_cond host feel |
+| `Energy.md` | Path / ambient / wear; rune-quality η_cond; host feel narrative |
 | `EnergyDesign.md` | Electrical analogy, wear / body-path proposals (path-% non-canon) |
 | `Magic.md` | Enchant vs rune vs scrolls |
 | `Nature.md` | Worldview: segments, pathways, law / causality |
@@ -24,13 +24,13 @@ Named rune catalog and chapter first-seens. Character skills that manipulate run
 
 ## Rune vs enchantment (Chapter 6 book)
 
-Both place lasting effects on gear. Enchantments use a word-like language (Earth analogy: English). Runes use a symbol language (Earth analogy: Japanese / Chinese characters). Runes are harder to master and considered better. Chapter 13 shop talk: regular enchantments are cheaper and weaker and cover more surface area so fewer fit on one item; only runic pieces trigger Roland's pathway attraction. Runesmith and Enchantsmith are the matching Tier 2 craft classes; both need Mana Scribe first. Rune quality leans on the crafter's Intelligence and Dexterity; mana helps making and using them.
+Both place lasting effects on gear. Enchantments use a word-like language (Earth analogy: English). Runes use a symbol language (Earth analogy: Japanese / Chinese characters). Runes are harder to master and considered better. Chapter 13 shop talk: regular enchantments are cheaper and weaker and cover more surface area so fewer fit on one item; only runic pieces trigger Roland's pathway attraction. Runesmith and Enchantsmith are the matching Tier 2 craft classes; both need Mana Scribe first. Rune quality leans on the crafter's Intelligence and Dexterity; mana helps making and using them. Rune quality = how perfect the rune is (`η_cond`). Magic-scroll device grade is a separate designed-strength tag (`ScrollAspects.md`, `MagicScrollMaking.md`).
 
 ## Ranks and grades
 
-Five main rune ranks. Worldview: `Nature.md`. Ceilings / score math: `RuneSystem.md`. **First-seen dates** are when the story names that band (exposition can name a higher rank before Roland can craft it).
+Five main rune ranks. Worldview: `Nature.md`. Ceilings / score math: `RuneSystem.md`. Named-glyph counts and compound depth: `RuneLexicon.md`. **First-seen dates** are when the story names that band (exposition can name a higher rank before Roland can craft it).
 
-Ranks are a **complexity ladder** (geometry and job home), not only bigger punch. Subgrades glue ranks so peak of N ≈ floor of N+1.
+Ranks are a **complexity ladder** (geometry and job home), not only bigger punch. Subgrades glue ranks so peak of N ≈ floor of N+1. Narrative tier feel also folds in lexicon size and how deep glyphs combine — do not invent Uncommon / Rare as separate names.
 
 | Rank | First seen | Geometry | Job home | Examples (story / Source) |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ Active common rune. Coats the weapon in a thin mana layer that absorbs physical 
 First seen: Chapter 16
 Fire orb projection rune. Roland's Runic Mana Scribe trial scroll.
 
-**Rewrite (Ch 16 through mid-scribe):** five linked regions on a **linear chain** (simpler than Detonation): fire core fed by mana collector → shape fireball → constrain so it does not explode on form → give velocity. Looks like five large letters while scribing; pathways under the ink. Magical ink + mana-retaining parchment (monster skin). Temporary Basic Mana Scribing / Rune Scribing / Rune Mastery for the trial. No binary, logic gates or chip talk on-page.
+**Rewrite (Ch 16 through mid-scribe):** four linked regions on a **linear chain** (simpler than Detonation): fire core fed by mana collector → shape fireball → constrain so it does not explode on form. Looks like four large letters while scribing; pathways under the ink. Magical ink + mana-retaining parchment (monster skin). Temporary Basic Mana Scribing / Rune Scribing / Rune Mastery for the trial. No binary, logic gates or chip talk on-page. No velocity stage (orb projection, not a thrown shot).
 
 **Source (old model, dropped for rewrite law):** three main parts (fire / orb shape / control "program"); logic gates and binary; transistors/resistors/chips; Circuitry skill; naked-eye three symbols after dry; hard maximal size + compress off a large schematic.
 

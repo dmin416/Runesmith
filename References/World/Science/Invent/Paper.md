@@ -73,13 +73,16 @@ Within a stock. Global shop order follows the LC table.
 
 ## What goes on which stock
 
+**Scroll / rune seating (lock):** blank need **not** be magical. Mundane paper is easier to imbue and burns after **one** cast. Magic paper / hide takes more focus (latent mana) but lasts **2–5** uses until its mana threshold is passed. Paper tiers match spell tiers. Full craft law: `../../../Runes/MagicScrollMaking.md`.
+
 | Job | Usual stock |
 |---|---|
 | Notes, schematic practice (Ch 19) | Mundane paper |
 | Ordinary contracts | Mundane paper; lasting copies on mundane parchment |
-| Early runic blanks | Lowest **magical hide** (shop monster skin, or later Ned gel-nodule skins when strong enough: `../../../People/Ned.md`) |
+| Early runic blanks | Lowest **magical hide** (shop default; mundane possible, single-use host) |
 | Magical ink | Shop reagents, or later Ned gel-nodule fluid |
-| Spellbooks / many regular scrolls | Magical paper and/or magical hide |
+| Low-tier word scrolls | Mundane paper (1 cast) **or** magical hide (multi-use) |
+| Spellbooks / shop volume / higher tiers | Magical paper and/or magical hide |
 | Heirloom runic / royal magical docs | Finest magical hide |
 
 ## Story anchors

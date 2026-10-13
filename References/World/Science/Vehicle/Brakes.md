@@ -1,6 +1,6 @@
 # Brakes
 
-Hub: `Index.md`. Tires and wheels: `Wheels.md`. Roads: `Roads.md`. Pedal and seat: `Positions.md`. Axle motors that can also brake: `../Energy/ElectricMotors.md`, `../Energy/Generators.md`.
+Hub: `Index.md`. Tires and wheels: `Wheels.md`. Roads: `Roads.md`. Pedal and seat: `Positions.md`. Axle motors that can also brake: `../Energy/ElectricMotors.md`, `../Energy/Generators.md`. Auto brake invent ladder (drum→disc→mechanical ABS): `MechanicalCarComponents.md` §17.
 
 A brake turns motion into heat, into stored energy, or into a locked hold. The best one is the one that matches the job. A shoe that can park a wagon is the wrong brake for a fast wheel, and a hot racing disc cannot hold a vehicle once the fluid pressure leaks away.
 

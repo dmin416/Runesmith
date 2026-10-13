@@ -1,6 +1,6 @@
 # Rune System Redesign
 
-> **Design loot.** Live locks: Energy.md (eta_cond feel order, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md (Ag mythril, Au orihalcum, Cu aurium, Fe/steel dark→star, Ti adamantium). Non-canon here: path-% dials; adamantium as forgeable post-set supersteel.
+> **Design loot.** Live locks: Energy.md (rune-quality η_cond, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md (Ag mythril, Au orihalcum, Cu aurium, Fe/steel dark→star, Ti adamantium). Non-canon here: path-% dials; adamantium as forgeable post-set supersteel.
 
 Basis for runes going forward (not frozen; dials stay open). **Nature / worldview lock:** `Nature.md` (segments, pathways, law and causality). Companion: setup mana in `RuneSetup.md`. Activation energy, path efficiency and heat: `Energy.md`. Named rune catalog and chapter first-seens: `Runes.md`.
 
@@ -34,13 +34,15 @@ Like an engine diagram where fuel enters a combustion area and later parts turn 
 
 Stages 8 and 9 appear only at rune score above 1 (Common Low and up). Lesser runes are linear and have neither. Cost, efficiency, ambient gain and heat numbers: see `Energy.md`.
 
-**Story Ch 16 (trial Fire Orb, rewrite):** on-page as five regions of one linear Lesser chain (collector → fire converter → shape → constrain → velocity). Source used three parts plus binary / logic-gate talk; that model is dropped. Map loosely to Intake / Feed / Converter / Shaping / Emitter (constrain ≈ hold or waste control before release). Full stage names need not appear in prose.
+**Story Ch 16 (trial Fire Orb, rewrite):** on-page as four regions of one linear Lesser chain (collector → fire converter → shape → constrain). Source used three parts plus binary / logic-gate talk; that model is dropped. No velocity stage. Map loosely to Intake / Feed / Converter / Shaping (constrain ≈ hold or waste control so the orb holds form). Full stage names need not appear in prose. Visual gist: simple = control-block diagram; complex = dense industrial schematic (`RuneLexicon.md` Look).
 
 ## Rank Scale
 
-**The five ranks:** Lesser, Common, Greater, Grand, Legendary. **The five qualities:** Lowest, Low, Intermediate, High, Highest. A rune is named rank first and quality second (Common Low). Rank sets the scale of the machine: size, complexity and working ceiling. Quality sets how well the machine is built and so the position inside the rank. **Flow, useful effect and waste follow quality level** (`Energy.md`): Highest = practically no waste; Lowest is the worst. Bad runes show as same-cost weak power, or high minimum activation cost for only average power. Harmonics (next section) refine seating inside that quality band. Output stops at the ceiling except for overrun (below). Extra mana fed into a scroll adds output up to it (canon: amplification is rank-capped).
+**The five ranks:** Lesser, Common, Greater, Grand, Legendary. **The five qualities:** Lowest, Low, Intermediate, High, Highest. A rune is named rank first and quality second (Common Low). Rank sets the scale of the machine: size, complexity and working ceiling. Quality sets how well the machine is built and so the position inside the rank. **Lexicon** (how many named concept-glyphs the world holds at that rank, and how compounds stack) is a third axis — `RuneLexicon.md`. Narrative tier / power is the **mixture** of rank geometry + quality seating + lexicon/composition, not joules alone. Do **not** rename ranks Uncommon / Rare / Epic.
 
-**Working ceiling = 10 J x 100^s** per activation or per run (power x run length for a sustained machine). Each rank is a band of 100 times from Lowest to Highest. Lowest of a rank equals Highest of the rank below (canon). Intermediate sits at 10 times the Lowest. Lesser steps: 10 J, 32 J, 100 J, 316 J, 1 kJ. Lesser Highest is the baseline anchor: **1 mana ≈ 10 J** paid (`Energy.md`, `../World/Science/Energy/ManaCast.md`). Rune useful output uses `Useful = mana × 10 × η_cond × A` with ambient `A = √C` and η_cond from Energy.md quality **20%** blocks (Lowest **0.2** → Highest **1.0**; host feel narrative only). Story "about 100 MP" detonation beats are round Intermediate / open-air mixes, not a second constant.
+**Flow, useful effect and waste follow quality level** (`Energy.md`): Highest = practically no waste; Lowest is the worst. Bad runes show as same-cost weak power, or high minimum activation cost for only average power. Harmonics (next section) refine seating inside that quality band. Output stops at the ceiling except for overrun (below). Extra mana fed into a scroll adds output up to it (canon: amplification is rank-capped).
+
+**Working ceiling = 10 J x 100^s** per activation or per run (power x run length for a sustained machine). Each rank is a band of 100 times from Lowest to Highest. Lowest of a rank equals Highest of the rank below (canon). Intermediate sits at 10 times the Lowest. Lesser steps: 10 J, 32 J, 100 J, 316 J, 1 kJ. Lesser Highest is the baseline anchor: **1 mana ≈ 10 J** paid (`Energy.md`, `../World/Science/Energy/ManaCast.md`). Rune useful output uses `Useful = mana × 10 × η_cond × A` with ambient `A = √C` and η_cond from Energy.md **rune quality** **20%** blocks (Lowest **0.2** → Highest **1.0**; host feel narrative only). Rank span is not the η_cond span. Story "about 100 MP" detonation beats are round Intermediate / open-air mixes, not a second constant.
 
 **Overrun.** The ceiling is soft. Overcharging, a rune done exceptionally well, or a Highest quality can push output past it by up to about 5 times. A Lesser Highest rune can reach about 5 kJ, above a Common Low. This is how a Lesser Highest rune can be powerful.
 
@@ -103,13 +105,13 @@ Rank index: Lesser 1, Common 2, Greater 3, Grand 4, Legendary 5. Quality fractio
 
 ### Formulas (design loot; layout / resonance only)
 
-**Live activation law is only** `Energy.md`: `Useful = mana × 10 × η_cond × A` with `A = √C` and η_cond = quality **20%** blocks. Host feel is narrative; **no locked host η%**. Retired linear **G** and copper/steel η% tables are dead (do not paste them back as working math).
+**Live activation law is only** `Energy.md`: `Useful = mana × 10 × η_cond × A` with `A = √C` and η_cond = **rune quality** **20%** blocks. Host feel is narrative; **no locked host η%**. Retired linear **G** and copper/steel η% tables are dead (do not paste them back as working math).
 
 Layout / resonance dials below are **proposed design loot**, not a second live pathway:
 
 - Layout efficiency: **λ = 0.16^(1 - s)** for s below 1 (0.4 at Intermediate). λ = 1 from s = 1 up.
 - Recovery: **r = 0.125 × u**
-- η_cond: Energy.md quality ladder (0.2 / 0.4 / 0.6 / 0.8 / 1.0).
+- η_cond: Energy.md **rune quality** ladder (0.2 / 0.4 / 0.6 / 0.8 / 1.0). Not scroll quality.
 - Effective path through layout / recovery / discord (proposed): **η_eff = 1 - (1 - η_cond × λ) × (1 - r) × (1 + d)**
 - Resonance boost on ambient (proposed): **H_eff = 1 + 0.25 × u × T**
 - **Proposed output = cost × 10 J × η_eff × A × H_eff**. Sealed / no breath: A = 1 unless the beat says otherwise.
@@ -138,15 +140,15 @@ Natural mana carries a tone by element and by place. T is the match between the 
 
 ### Substrate
 
-Path material is the instrument. Timbre is per host (`Energy.md`): iron thuds, copper hums, aurium damps, steel rings, darksteel tolls, body/blood, star steel and mythril chime. Not a locked rank order. **Adamantium is not a path host** (clear glass cover over a real inlay). **Orihalcum** is antimagic block, not a channel. Recovery returns a share of the path's own waste and never more so the substrate sets the ceiling.
+Path material is the instrument. Timbre is per host (`Energy.md`): iron thuds, copper hums, aurium damps, steel rings, darksteel tolls, body/blood, star steel and mythril chime, adamantium a hard clear ring once seated. Not a locked rank order. **Adamantium is a stiff path host** (more seating work; cast-in or resonance grooves). **Orihalcum** is antimagic block, not a channel. Recovery returns a share of the path's own waste and never more so the substrate sets the ceiling.
 
 Lower waste means proportionally lower heat and strain on the path. Legendary Highest halves the path's waste per cast. A leaking layout multiplies it.
 
 ### Worked cases (illustrative layout λ only)
 
-Host η% and linear **G** rows are **not** used here. Pick η_cond from Energy.md quality table; multiply by `A = √C`.
+Host η% and linear **G** rows are **not** used here. Pick η_cond from Energy.md **rune quality** table; multiply by `A = √C`.
 
-Layout cost anchor (same attack, same size): Highest **50** mana, Intermediate **125** mana (λ 0.4). The Intermediate pays more for the same converter delivery because the layout leaks. Path life and heat follow that waste ratio on identical size. Better hosts (toward mythril) widen the gap between clean and sloppy layouts; adamantium never sits on this ladder as a channel.
+Layout cost anchor (same attack, same size): Highest **50** mana, Intermediate **125** mana (λ 0.4). The Intermediate pays more for the same converter delivery because the layout leaks. Path life and heat follow that waste ratio on identical size. Better hosts (toward mythril) widen the gap between clean and sloppy layouts; adamantium sits on the ladder as a stiff prestige host (harder seating, permanent geometry once set).
 
 Cost of the same attack by quality (layout λ only): Lowest 313, Low 198, Intermediate 125, High 79, Highest 50 mana.
 
