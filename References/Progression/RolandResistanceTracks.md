@@ -10,7 +10,7 @@ Roland should **deliberately level** more body resists than Source tracked. Same
 
 | Track | Early hard locks (notes) | Notes |
 |---|---|---|
-| Sleep → Immunity | L4 transfer → L5 Ch 12 → L6 Ch 23; Immunity Ch **123** | Need cut, not HP soak |
+| Sleep → Immunity | L4 transfer → L5 Ch 12 → L6 Ch 19 train → L7 Ch 21.5 desk; Immunity Ch **123** | Need cut, not HP soak |
 | Alcohol | ≥ L4 Carwen | End pad |
 | Poison / toxin | ≥ L6–L7 early | Vit/End |
 | Pain | Estate bravery unlock → leave **L3**; Ch 13 **L4**; train **L5**; deepens Ch **197** | Will/End; not a heal. `EstateWoundGrind.md` |

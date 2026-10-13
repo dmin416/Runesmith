@@ -249,6 +249,7 @@ Most of what makes this island unique forms in these zones.
   - Carbon dioxide pools in craters and low valleys. This is far more dangerous on an island with deep valleys and crater lakes.
   - Sulfur dioxide and hydrogen sulfide form vog.
   - Laze forms where lava reaches the sea.
+  - Gas catalog and damage filing: `VolcanicGases.md`.
 - **Crater lakes:** water sources, ritual sites and potential limnic eruptions (sudden CO2 release, as at Lake Nyos in Cameroon).
 - **Lava lakes or active vents:** constant heat and light.
 
@@ -295,7 +296,7 @@ The old island has had time to grow rich soils and complex forest.
 
 **Other plant and fungal resources**
 - **Mosses and ferns:** used for packing, insulation, bedding and wound dressing.
-- **Wood ash potash:** leached to make lye for soap and glass.
+- **Wood ash potash:** leached to make lye for soap and glass. Full salt, sugar, fixed-oil and glycerin catalog: `../../../Food/SaltSugarOil.md`.
 - **Fungi:** edible species, medicinal species and wood-rot species in wet forest.
 
 **Medicinal plants (traditional Hawaiian use)**

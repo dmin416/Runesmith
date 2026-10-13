@@ -58,7 +58,7 @@ Hard locks from train still on the sheet unless later grind printed a rise:
 | Heat Resistance | Ch 19 **L5** | **≥ L5**. Blacksmith card: narrative fire resist. Runesmith Lord later grants Heat Resistance (Ch 81) |
 | Cold Resistance | Ch 19 **L5** | **≥ L5** |
 | Poison Resistance | Ch 19 **L6** | **≥ L6** |
-| Sleep Resistance | Ch 12 **L5**, Ch 23 **+1 → L6** | **≥ L6** (40% sleep need). Immunity is Ch **123**, not yet |
+| Sleep Resistance | Ch 12 **L5**, Ch 19 train **L6**, Ch 21.5 desk **L7** | **≥ L7** (30% sleep need). Immunity is Ch **123**, not yet |
 | Alcohol Resistance | Carwen **L4** | **≥ L4** |
 
 Forge years and dungeon heat likely pushed Heat higher; do not invent a level past L5 without a note lock.

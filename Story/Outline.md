@@ -27,8 +27,9 @@ Rewrite note: once he has a sample, he isolates segments and builds what the job
 - Ch 19: Train week skill grill (sound / echo / heat-cold). Arrives Edelgard. Meets **Helci** at Singing Crow. Fire Orb memory schematic → three Highest lessers.
 - Ch 20: Shop hunt. Exeor dusty runic shelf (Light / Fire Arrow / Aqua). Refuses six-year slave contract.
 - Ch 21: Other shops worse. Practices regular vs runic scrolls. Chooses auction path over cursed contracts.
-- Ch 22: Buys Fire Arrow sample. Masters Common Fire Arrow. **Crimson Comet** brand. Libra appraises High/Highest lot.
-- Ch 23: Auction payday. Mass-produces Fire Arrows. Forest grind for Rune Mastery. Helci flees mountain goblins toward a cliff.
+- Ch 21.5: Desk skip ~**4 months**. Day 1 buys runic **Orb of Light** / **Fire Arrow** / **Aqua Ball**. Seat-time **Fireball** sell / **Mana Arrow** keep / few Light Balls. Prefill personal/gift only. Exit ten comet Fireballs (all **Highest**, empty), last **1 SS**, RS / Technology **L8**.
+- Ch 22: Libra appraises comet **Fireball** Highest lot (empty). **Crimson Comet** brand launches. Auction present day. Empty fair Highest **7.5 LS**. Two boxes of five @ open **32 LS**; hammers **40** + **40** → gross **8 SG**; **25%** → net **6 SG**.
+- Ch 23: Auction payday. Pivots volume to **Fire Arrow** after the Fireball brand lands. Forest grind for Rune Mastery. Helci flees mountain goblins toward a cliff.
 - Ch 24: Saves Helci with Fire Arrows. Road berating / sausage “thanks.” Separate at gate.
 - Ch 25: Sample-buy plan. Exeor manager outs him as Runic Mana Scribe. Sponsorship offer (workspace, mats, shorter term).
 - Ch 26: Signs Exeor contract. Status-hide band. Buys out city runic scrolls. Frost / Gale schematics. Deliberate grafts (Smoke and kin). Helci still at inn.

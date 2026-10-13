@@ -566,11 +566,11 @@ Field-use curve (`SkillRanks.md`): cum clean uses to reach L = **1 / 10 / 50 / 2
 - **Blood volume:** open bleed only. **~50 mL ≈ 1% ≈ 1 use** (adult ~5 L; fractions count). Mana Hands drip + Ned fang nicks + missed needle beads, survived; Recovery refills (refill ≠ use). Hard Recovery grind ~**5%**/day → **~5** blood uses/day × **7** ≈ **~35** uses.
 - **Combined:** ~**3,955** clean uses → clears **L5** (**1,000**); short of **L6** (**5,000**). Exit **L5**. Do **not** double-count the same hemorrhage as volume **and** hypoxic seconds.
 
-**Sleep Resistance pace:** enter **L5** (Ch 12). Baseline full night **T0 = 8 h**. Need at L5 = **50%** → **4.0 h**. Sleep ignored / not needed = **T0 − need = 4.0 h/day**. Meter (`MultiMechanismResistance.md`): **15 s** of that cut window spent awake = **1** use (he sleeps his remaining need; true debt past need is extra and not locked here). Uses/day = **4 × 3600 / 15 = 960** × **7** ≈ **~6,720**. Enter cum **1,000** (L5) + **6,720** → **~7,720** → clears **L6** (**5,000**); short of **L7** (**20,000**). Exit **L6** (**40%** need = **3.2 h**). Ch 23 half-year scribing owns **L6→L7**.
+**Sleep Resistance pace:** enter **L5** (Ch 12). Baseline full night **T0 = 8 h**. Need at L5 = **50%** → **4.0 h**. Sleep ignored / not needed = **T0 − need = 4.0 h/day**. Meter (`MultiMechanismResistance.md`): **15 s** of that cut window spent awake = **1** use (he sleeps his remaining need; true debt past need is extra and not locked here). Uses/day = **4 × 3600 / 15 = 960** × **7** ≈ **~6,720**. Enter cum **1,000** (L5) + **6,720** → **~7,720** → clears **L6** (**5,000**); short of **L7** (**20,000**). Exit **L6** (**40%** need = **3.2 h**). Ch 21.5 four-month desk owns **L6→L7**.
 
 **Thermal pace (regen-capped + Recovery):** enter Rec **L5**. Cycle time pressed toward the mana period with potion assist when flesh lags (roughly **~1–1.5 min/cycle**). ~**1,240** burn/frost/knit cycles over the week (day path roughly **146 → 156 → 165 → 187 → 192 → 199 → 199**). From a fresh L5 bar that is **+1,240** toward L6 (**5,000** cum). Exit Recovery still **L5**. Heat / Cold / Pain resistances from the same pool clear **L5** (**1,000**) and stop short of **L6** (**5,000**).
 
-**Ned assist:** shallow intentional nibble / tip-poke on forearm or hand between grill squares (toxin prick). **Needle-catch drill:** Ned short-launches a spent/regrown tip at Roland; Roland eyes shut, locates on the spaced clicks, catches, feeds the needle back into Ned’s mouth (spider-web recycle). Misses sting and count for Pain / Recovery / Poison. Same Needle Worm toxin family (soft repeat credit). Blood is **Roland’s**: usual drip plus **extra** from pokes/misses → **Suffocation** volume uses; Recovery restores the tank (refill is not a use). **Ned shared Trauma lock:** on-page scarf cold near-miss + tip wear; exit Spike **L7**, Stealth **L7**, Climbing **L7**, Seal **L5**, Pain **L5**, Heat **L5**, Cold **L5** (`NedStatus.md`).
+**Ned assist:** shallow intentional nibble / tip-poke on forearm or hand between grill squares (toxin prick). **Needle-catch drill:** Ned short-launches a spent/regrown tip at Roland; Roland eyes shut, locates on the spaced clicks, catches, feeds the needle back into Ned’s mouth (spider-web recycle). Misses sting and count for Pain / Recovery / Poison. Same Needle Worm toxin family (soft repeat credit). Blood is **Roland’s**: usual drip plus **extra** from pokes/misses → **Suffocation** volume uses; Recovery restores the tank (refill is not a use). **Ned shared Trauma lock:** on-page scarf cold near-miss + tip wear; exit Spike **L7**, Stealth / Camouflage **L8** (always-on since tame), Climbing **L7**; by 21.5 desk enter night pack also Silk / Seal / **Recovery** / Pain / Heat / Cold / Moon / Tail / Horn / Blunt / Sharp **L6**, Formation / Absorb / Acid Prod / Acid Spray **L5** (`NedStatus.md`).
 
 | Skill | Enter | Exit | Why |
 |---|---|---|---|
@@ -613,7 +613,7 @@ First on-page Mana Scribing: **Mana Bolt** word scroll (few min, list **25** / L
 
 **Full process / experiment lock:** `Chapter21_5.md`. Burn/freeze resistance grind: `ResistanceGrindBurnFreeze.md` (weak hide Fire Orb patch on leg).
 
-Rewrite-only ~**6 month** desk grind (Source folds into Ch 22 open). Enter: Rune Scribing **L1**, Mana Scribing **L1**, Rune Mastery **L1**, Drawing plain **L1**, Mana Hands **L9**, Multitasking **L5**.
+Rewrite-only ~**4 month** desk grind (Source folds into Ch 22 open). Enter: Rune Scribing **L1**, Mana Scribing **L1**, Rune Mastery **L1**, Drawing plain **L1**, Mana Hands **L9**, Multitasking **L5**, Technology **L7**.
 
 **Bought / set up:** three second-shop runics (Orb of Light, Fire Arrow, Aqua Ball); cheap ink → homebrew plan; Ned silk; quill / Hands-as-pen / all-at-once settle-then-imbue drills.
 
@@ -621,15 +621,15 @@ Rewrite-only ~**6 month** desk grind (Source folds into Ch 22 open). Enter: Rune
 
 **Discovered:** water and light after Fire Orb; Ball ≈ bigger Orb; Arrow shared outline / different inners; Orb–Bolt shared shape (Bolt small-mana compression, Ball moderate, Orb soft restraint); system Mana Bolt has no contact-detect (pop = compression undone); ratios matter / shrink cuts power / upsizing compression alone tends to implode; swaps beat ratio tweaks (Aqua Ball → Fireball, water arrow, light ball); lazy wrong ratios still Diagnosis-readable unless paper burns; skill feel = clockwork familiarity; freeze-flip fails (in chapter).
 
-**Exit:** working runic Mana Bolt; FA schematic → High/Highest comet batch; Rune Scribing **L5** (chapter; ~**1.5k–2.7k** clean on the **1 / 10 / 50 / 200 / 1,000 / 5,000** curve, short of L6), understanding **L2**, Drawing **L5**, Multitasking **L5→L6**, Sleep Resistance **L6→L7**, Hands stay **L9** (evolve bar pads), Shaping/Regulation stay **L7/L8**, ten branded FA scrolls, last **1 SS**, servant cover into auction. Buildup: `Chapter21_5.md` skill climb.
+**Exit:** working runic **pure mana** Mana Bolt / Mana Arrow / Mana Orb / Mana Ball (schematic XP **+6,000** inside skip **+27,000**); quality-only seating (trial / first night already taught); sibling forms fast transfer; seat-time desk mix **~76** Mana Arrow / **~8** Fireball / **~2** Light Ball per day; prefill **personal / gift** only (**~20** MA / **~6** Light Ball; sell-line Fireballs never preloaded); Rune Scribing / Drawing **L8**, Technology **L7→L8** (every rune + desk-tech observe), understanding **L3**, Multitasking **L7**, Sleep Resistance **L6→L7** printed, Hunger **L6**, Pain **L6**, Hands stay **L9** (×MT concurrent; no evolve), Shaping/Regulation **L7/L8**, ten branded Highest Fireballs empty, Mana Arrow keep pile, last **1 SS**, servant cover. Full exit sheet: `Chapter21_5Exit.md`. Buildup: `Chapter21_5.md` / `Chapter21_5DaySkillYear.md`.
 
 ## Chapter 22
 
-Auction day after 21.5. Skills as 21.5 exit. Batch: 8 High + 2 Highest Common Fire Arrow (comet logo). Cover: robed/masked servant of a runesmith.
+Day after 21.5 exit. Skills as 21.5 exit. Batch: ten Highest Fireball empty (red comet / brand plaque). Cover: robed/masked servant of a runesmith.
 
 ## Chapter 23
 
-Basic Mana Scribing L2. Basic Rune Scribing L5. Basic Rune Mastery L3 (combat use via scrap Fire Arrow grimoire). Basic Mana Shaping L6. Basic Mana Regulation L7 (full regen in a few hours; faster when still / more skin bare). Sleep Resistance +1 (half-year grind). Stealth Basic → regular. Common runes manageable from Rune Scribing L4+ (less mana burn while crafting). Scrap Low/Lowest Fire Arrow grimoire: page crumbles on cast; no chant.
+Basic Mana Scribing L2. Basic Rune Scribing **L8** (desk exit; sheet may lag). Basic Rune Mastery L3 (combat use via scrap Fire Arrow grimoire). Basic Mana Shaping L7. Basic Mana Regulation L8 (full regen in a few hours; faster when still / more skin bare). Sleep Resistance already **L7** from 21.5. Technology **L8** from 21.5. Stealth Basic → regular. Common runes quality-only (seating known; only rank moves). Scrap Low/Lowest Fire Arrow grimoire: page crumbles on cast; no chant.
 
 ## Chapter 24
 
@@ -733,7 +733,7 @@ Sharp Runic Steel Longsword [Intermediate, High] (Lesser Sharpness). Mana Slash 
 
 ## Chapter 47
 
-Gained: Basic Rune Compression (book), Runic Blacksmith's Eyes (class ~L13), Blacksmith's Heat Sense (class ~L7). Dual Mana Slash/Thrust sword [Highest] lesser runes. Skill list as in chapter status block. Technology (not Circuitry) L7.
+Gained: Basic Rune Compression (book), Runic Blacksmith's Eyes (class ~L13), Blacksmith's Heat Sense (class ~L7). Dual Mana Slash/Thrust sword [Highest] lesser runes. Skill list as in chapter status block. Technology (not Circuitry) **L8** (desk exit; not L7).
 
 ## Chapter 48
 

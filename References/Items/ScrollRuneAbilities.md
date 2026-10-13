@@ -111,8 +111,11 @@ He can mismatch shape grade, compression band, and input band; Diagnosis / implo
 
 Actual working runes he can make from the current kit. Not parts. Not recipes. Weak → strong within each type.
 
-### Pure mana
+### Pure Mana
 - Mana Bolt (runic)
+- Mana Orb (runic)
+- Mana Arrow (runic)
+- Mana Ball (runic)
 
 ### Fire
 - Fire Bolt
@@ -123,14 +126,14 @@ Actual working runes he can make from the current kit. Not parts. Not recipes. W
 ### Water
 - Water Bolt
 - Aqua Orb
-- Water arrow
+- Water Arrow
 - Aqua Ball
 
 ### Light
 - Light Bolt
 - Orb of Light
-- Light arrow
-- Light ball
+- Light Arrow
+- Light Ball
 
 ### Blast
 - Lesser Detonation

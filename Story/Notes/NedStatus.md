@@ -160,7 +160,7 @@ Luck                   7
 |---|---|---|---|
 | Spike Throwing / Needle Launch | **L6** | **L7** | ~**200** short cabin launches/day × 7 at real-aim weight; catch drill clears L7. |
 | Silk Production | **L5** | **L5** | Light lines only after Ch 16 hold; holds L5. |
-| Stealth / Camouflage | **L6** | **L7** | All-week hide spam as echolocation target (seat / rack / panels). |
+| Stealth / Camouflage | **L7** | **L8** | Always-on camo since tame + all-week hide spam (seat / rack / panels). Full night-pack enter ranks: `§ Night drills since tame`. |
 | Climbing | **L6** | **L7** | Cabin verticals all week (under seats → wall panels → luggage rack). |
 | Spring Charge | **L6** | **L6** | Cabin has no charge lane; holds L6. |
 | Seal / Regeneration | **L5** | **L5** | Shared burn/frost/knit + tip wear / harvest nicks; parallel to Roland **Recovery** stay **L5**. |
@@ -170,4 +170,38 @@ Luck                   7
 | **Cold Resistance** | — | **L5** | Daily frost patches (scarf flinch → controlled dose); parallel to Roland **Cold L1→L5**. |
 
 No skill evolutions. **Rapid Regeneration** (Seal evolve) stays later with Roland’s **Rapid Recovery** window (~**2 years**), not this week.
+
+## Night drills since tame (Ch 12 → 21.5 enter)
+
+Every night since D met him (tame Ch 12 → half year with the girls → travel/train → Edelgard desk). Soft **~200** nights. **Every skill Ned can** gets a night band (camp/inn; thinner than Crow desk). Camouflage is **always-on** (all hours), not night-only.
+
+| Skill | Soft night / day | **21.5 enter** | Cum soft |
+|---|---:|---:|---:|
+| Spike Throwing | **~25** short launches | **L7** | **~45k** |
+| Silk Production | **~15** lines | **L6** | **~5.5k** |
+| Stealth / Camouflage | **~60–80** always-on | **L8** | **~120k** |
+| Climbing | **~15** wall/tree/seat | **L7** | **~40k** |
+| Spring Charge | **~6** (reload throttle) | **L6** | **~6.5k** |
+| Seal / Regeneration | **~12** nicks from drills | **L6** | **~5.5k** |
+| **Recovery** | **~15** blood-meal / tip-cycle restore | **L6** | **~5.5k** |
+| Poison Resistance | **~8** soft (own toxin) | **L5** | **~3.5k** |
+| Pain Resistance | **~20** variety doses | **L6** | **~6.0k** |
+| Heat / Cold Resistance | **~12** each (camp + grill stack) | **L6** | **~5.5k** each |
+| Moon Curl | **~15** | **L6** | **~6.0k** |
+| Tail Bash / Horn Pierce | **~12** each | **L6** | **~5.5k** each |
+| Blunt / Sharp Res | **~10** each (from bash/clash) | **L6** | **~5.5k** each |
+| Needle Formation | **~10** tip-bed regrows | **L5** | **~2.5k** |
+| Needle Absorb | **~10** tips swallowed | **L5** | **~2.5k** |
+| Acid Production | **~8** gland fills | **L5** | **~2.0k** |
+| Acid Spray / Aim | **~6** board spits (no face/eyes) | **L5** | **~1.6k** |
+
+**Ned Recovery** (kept alongside Needle Formation): body restore from D’s blood meals and tip-cycle rebuild — not the same meter as Seal (wound knit). Formation stays tip-bed regrow after harvest.
+
+Train-week denser days sit inside the same total. Printed Ch 19 “L5 Pain/Heat/Cold” mid-path is superseded for **21.5 enter** by this full night pack.
+
+## Ch 21.5 desk grind (with D)
+
+Enter = full night pack above (every trainable skill). Desk continues the same set harder while D scribes.
+
+Day-by-day uses and exit ranks: `Chapter21_5DaySkillYear.md` / `.csv` (Ned_* columns). Beat lock: `Chapter21_5.md` § Ned desk grind.
 

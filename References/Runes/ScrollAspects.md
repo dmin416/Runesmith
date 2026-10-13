@@ -10,6 +10,8 @@
 
 **What it does:** sets **efficiency** on the rune / item path: `η_cond` in `Energy.md` and the activation **and runic craft-pay** ladders in `MagicScrollMaking.md` (Lowest **20%** → Highest **100%** in 20% blocks). Clean craft pay = `(cast / η_cond) × S_scribing`. Botches can burn past Lowest (Ch 16 cascade ~**4%** effective). Good→bad band: `MagicScrollMaking.md` **Runic scroll craft: paid cost**.
 
+**Skill / XP weight (locked):** rune quality also multiplies clean skill-use credit (and can weight craft XP): Lowest **1** · Low **2** · Intermediate **4** · High **8** · Highest **16**. Same ladder for other graded actions. `../Progression/SkillRanks.md`.
+
 **What it is not:** spell tier / rune rank. Not magic-scroll attacking strength. Not host-metal "feel."
 
 ## Scroll quality (magic scrolls)

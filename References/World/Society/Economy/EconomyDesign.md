@@ -813,7 +813,7 @@ Tavern weak-spirit pitcher prices are locked in the Rewrite price lock and §11.
 
 **Break-even goblin day (no stone):** 7 ears = 35 LC = 7 inn meals or 3.5 lodging nights. **One rice-grain stone (20 LC)** = 4 ears. Cores still help; ears alone can cover basic room+meal if volume is high.
 
-**Craft runway:** **10 SG** mats ~ **6 months** frugal research (canon). Plan **~1.5-2 SG/month** mat burn while learning.
+**Craft runway:** **10 SG** mats ~ **4 months** frugal research (canon Ch 21.5). Plan **~2–2.5 SG/month** mat burn while learning.
 
 **Big life purchase:** home/workshop **~30 SG**; ship move **5 LS** + food; keep **9 SG** in reserve for a bad curse heal.
 

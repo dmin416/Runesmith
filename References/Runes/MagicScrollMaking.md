@@ -101,6 +101,10 @@ Ink can also simply be powerful blood. Ink rules are more narrative than rigid. 
 
 **Ch 21.5 (Notes):** Homemade ink = **his blood + Ned's blood + powdered goblin cores** from his stone-bank stock (powder via drain-to-crumbly; overload shatter works but violent/noisy/hard to collect). Not Trox / butcher blood. Fire Orb on rough hide reaches trial-level working seating fast; pour cost ~same band, quality clearly above trial/shop-cheap. Water segment isolated from Aqua Ball and light from Orb of Light basically at once after that. Form kit after Arrow + Ball + Orb: shared Orb/Bolt shape, Ball (bigger), Arrow; small-mana compression → Bolt, moderate-mana compression → Ball. System Mana Bolt has no detect-contact rune; pop = compression undoing on denser-than-air hit. Ratio experiments: segment size ratios dominate processing; forced ratio tweaks barely nudge size/effect and are inefficient; whole-diagram shrink cuts mana in and power out; enlarging the simple compression alone tends to implode Bolt rather than a fiercer explosion. Component swaps succeed far better: Aqua Ball → Fireball almost laughably easy; same for water arrow and light ball; lazy unmodified-ratio grafts still Diagnosis-readable unless the paper spontaneously burns (occasional). Skill rise gives a vague clock-mechanism feel for how other runes might need to change and familiarity on sight, not a brain dump (`RuneCauseEffect.md`, `../Combat/BasicSpellShapes.md`).
 
+**Quality-only seating (Ch 21.5):** Trial Fire Orb took **~3** tries to Highest; first night in town took **~2–3** tries to a working scroll. **After that**, seating is known — every try finishes a scroll. The only question is **quality rank** (Lowest → … → Highest). New sibling forms climb **fast and linearly** (circle→square). Mats die to quality remakes and refuse-below-High, not fail cascades.
+
+**Seat time (Ch 21.5 Notes lock):** `wall ≈ draw + paid / tip_sip`. Tip-sip **~21.1 MP/min**; known Arrow draw **~5 min**; Ball draw **~15 min**; `paid = (cast / η) × S`. Highest Arrow wall **~6 min**; Highest Fireball wall **~21–26 min** (RS L4–L7). Phase C mix **~70%** Mana Arrow keep / **~25%** Fireball sell / **~5%** Light Ball → **~85** clean seats/day at RS **L8**, **~1.7–3k MP**/day (draw-limited, under **~12.6k** tip-sip ceiling). Skip exit **~4 months / d120**. **Prefill:** when MP or SP is full, overflow may preload **personal keep** or **gift** scrolls only (**1.31 ×** activation); sell-line Fireballs stay empty. Seat counts unchanged. Full table: `../../Story/Notes/Chapter21_5.md`.
+
 The main purpose of better magic ink is to allow more mana. Ink quality determines the amount of mana that can flow into the spell. Better ink carries more mana which raises the upper threshold for the highest level of spell that can be made.
 
 Better ink can also reduce the mana cost of making the scroll.
@@ -171,7 +175,7 @@ S    = 1 − 0.1 × Rune_Scribing_L   // L0 = 1.0; L1 = 0.9; L9 = 0.1
 paid = list × S                    // clean pour, no botch
 ```
 
-**Craft XP** still = `cast_cost` (ignore S and η). Discounts and quality change **what you pay**, not XP.
+**Craft XP** = `cast_cost × quality_mult` (ignore S and η for the XP line). Quality mult: Lowest **1** · Low **2** · Intermediate **4** · High **8** · Highest **16** (`../Progression/SkillRanks.md`). S and η still change **what you pay**, not the base cast in the XP product.
 
 | Quality | η_cond | List vs cast | Feel |
 |---|---|---|---|

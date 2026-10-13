@@ -1,0 +1,15 @@
+---
+description: Never mention or allude to chapters beyond the ones in scope
+alwaysApply: true
+---
+
+# No Forward Chapters
+
+Never name, cite, preview, or allude to any chapter beyond the ones currently in scope for this chat or task.
+
+- Do not write "Ch 22", "into chapter N", "opens in…", or any later chapter number or title.
+- Do not hint at later-chapter events, reveals, inventory payoffs, lookbacks, or prose homes.
+- Do not say a beat "leads into" or "exits toward" a later chapter.
+- Notes and ledgers may mark a skip close, exit inventory, or day cut without naming a future chapter.
+
+If an exit or handoff must be labeled, use only the material in scope (e.g. skip exit, day 180, month close). Leave later chapters unnamed until the user is working on them.
