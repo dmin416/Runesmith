@@ -6,7 +6,7 @@ Map flavor to Caldris; do not paste Earth month names or trade cities into prose
 
 **Caldris calendar:** **12 × 30 + New Year's Day** = **361** days (`../World/World.md`). Earth month labels below (e.g. November / Martinmas) are anchors only.
 
-**Caldris seasoning lock:** common tables = **salt** (+ local herbs/onion). **Pepper** is middle-class / merchant luxury. **Ginger** sits with other imported spice luxuries on noble / merchant tables. **Sugar** is rare spice / medicine / feast; honey does ordinary sweetening. Adventurer kit and mage packs can carry pepper or ginger without breaking this lock.
+**Caldris seasoning lock:** common tables = **salt** (+ local herbs/onion). **Pepper** is middle-class / merchant luxury. **Ginger** sits with other imported spice luxuries on noble / merchant tables. **Sugar** is rare spice / medicine / feast; honey does ordinary sweetening. Adventurer kit and mage packs can carry pepper or ginger without breaking this lock. Extraction methods: `SaltSugarOil.md`. They do not change this lock.
 
 ## Peasant / common food
 
@@ -113,11 +113,13 @@ Earth technique for trail / camp meals (Roland forest lunches, goblin-camp prey,
 - **Bamboo tubes:** Fill green bamboo with rice or vegetables and water, plug the end and lean it over coals.
 - **Minimal kit:** Salt, a spice tin, cooking fat, foil, a sharp knife and cord cover nearly every method above.
 
+Full preservation catalog: `FoodPreservation.md`. The camp lines above stay the trail methods.
+
 ## Steam-era spirits and liqueurs
 
 Caldris has magic steam trains and noble airships so copper stills and boiler craft are common. Tavern prices live in `../World/Society/Economy/Economy.md`. Process anchors below are Earth/steam technique, not brand names for Caldris shelves.
 
-**Everything comes down to fermenting a sugar source and distilling it in a copper still.** Steam-era gear makes it faster and cleaner.
+**Everything comes down to fermenting a sugar source and distilling it in a copper still.** Steam-era gear makes it faster and cleaner. Plant volatile oils and hydrosols: `EssentialOils.md`. Those are not drinkable spirits.
 
 ### Rum (for the coffee liqueur)
 

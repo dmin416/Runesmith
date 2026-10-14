@@ -9,6 +9,9 @@ Up: [References](../Index.md)
 - [BioFriendlyNonStick.md](BioFriendlyNonStick.md). Seasoning, vitreous enamel and metal-pan care without synthetic nonstick. Pan picks: CookwareAndKnives.md.
 - [CookwareAndKnives.md](CookwareAndKnives.md). Food domain. Material picks and kitchen physics for pans and blades. Production methods: KitchenCraft.md. Gear lists: KitchenKit.md. Metal law stays in
 - [EssentialFlavorings.md](EssentialFlavorings.md). Earth research anchors for adventure cooking. Salt is assumed under everything below. ★ marks the core ten. Map flavor to Caldris; crop and spice names
+- [EssentialOils.md](EssentialOils.md). Earth peppermint and essential-oil catalog: composition, stills, yields, absolutes, expression. Not the drink still. Seasoning locks stay in Food.md.
+- [SaltSugarOil.md](SaltSugarOil.md). Earth extraction catalog for salt, sugar, fixed oil and glycerin. Does not change the seasoning lock. Volatile oils stay in EssentialOils.md.
+- [FoodPreservation.md](FoodPreservation.md). Earth preservation catalog: cellar, drying, curing, canning, ferment, pantry. Does not change the seasoning lock. Camp trail methods stay in FoodDesign.md.
 - [EssentialIngredients.md](EssentialIngredients.md). Earth research anchors for adventure cooking. Field methods and cuts. Flavor partners refer to EssentialFlavorings.md. Map flavor to Caldris; crop names
 - [Food.md](Food.md). Food and drink hub. Wealth feel is locked here. Deep cook / camp / ingredient tables live in the files below.
 - [FoodDesign.md](FoodDesign.md). Design loot (Earth table anchors, camp methods, spirits process, dungeon seasoning notes). Wealth / never-eaten locks: Food.md. Cuts:

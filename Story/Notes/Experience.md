@@ -378,7 +378,7 @@ No kill XP. No craft XP yet.
 
 **Bar after both scrolls:** **7329 / 13000** (overall **L26** / Scribe **L1**).
 
-## Ch 21.5 (~6 months desk grind)
+## Ch 21.5 (~4 months desk grind)
 
 No kill XP. Craft / schematic XP only. Enter bar **7329 / 13000** (overall **L26**). Detonation / Impact / Fire Orb Highest already paid in Ch 15 / 18 / 19 (**do not** re-award).
 
@@ -388,7 +388,10 @@ No kill XP. Craft / schematic XP only. Enter bar **7329 / 13000** (overall **L26
 | Common Fire Arrow schematic → Highest | **+2000** | **2×** lesser; early in skip |
 | Orb of Light schematic → Highest | **+2000** | Common; **2×** lesser |
 | Aqua Ball schematic → Highest | **+2000** | Common; **2×** lesser |
-| Mana Bolt (runic) schematic → Highest | **+1000** | Lesser |
+| Mana Bolt (runic) schematic → Highest | **+1000** | Lesser; **pure mana** |
+| Mana Arrow (runic) schematic → Highest | **+2000** | Common (Arrow seat); **pure mana** |
+| Mana Orb (runic) schematic → Highest | **+1000** | Lesser (Orb seat); **pure mana** |
+| Mana Ball (runic) schematic → Highest | **+2000** | Common (Ball seat); **pure mana** |
 | Fire Bolt / Water Bolt / Light Bolt → Highest | **+1000** each | Lesser; **+3000** |
 | Aqua Orb → Highest | **+1000** | Lesser (Orb seat) |
 | Light arrow → Highest | **+2000** | Common (Arrow seat) |
@@ -396,9 +399,11 @@ No kill XP. Craft / schematic XP only. Enter bar **7329 / 13000** (overall **L26
 | Water arrow schematic → Highest | **+2000** | Common (Arrow seat) |
 | Light ball schematic → Highest | **+2000** | Common (Ball seat) |
 | Lesser Fire / Water / Light Detonation → Highest | **+1000** each | Lesser grafts; **+3000** |
-| **Schematic subtotal (skip)** | **+22,000** | All first perfect boards this skip (old **13,000** + new **9,000**) |
-| Scroll pours (FA fails + practice + keepers) | cast each | FA **50**; Orb / Bolt **25**; XP ignores S; soft volume |
+| **Pure mana set** (Bolt + Arrow + Orb + Ball) | **+6,000** | Included in subtotal |
+| **Schematic subtotal (skip)** | **+27,000** | All first perfect boards this skip (old **22,000** + Mana Arrow / Orb / Ball **+5,000**) |
+| Scroll pours (Phase A–C mix) | cast × **quality mult** | Seat-time: MA **50** / Fireball·Light Ball **400** / Orb·Bolt **25**; XP ignores S. Quality weight: Lowest **1** · Low **2** · Intermediate **4** · High **8** · Highest **16** (`SkillRanks.md`). Quality-only seating (no fail wall). Volume from draw+fill (`Chapter21_5.md` § Seat time) |
+| Prefill pours (personal / gift only) | **0** schematic XP | Extra store charge **1.31 ×** activation when MP/SP full (`ScrollEconomy.md`); never sell-line Fireballs. Soft **~20** MA / **~6** Light Ball across Phase C |
 
 **Paper schematics burned** over the skip (taking up space). Knowledge stays; he redraws from memory when needed. Exit inventory carries **no** schematic sheets.
 
-**Bar from schematics alone:** **7329 + 22,000 = 29,329** into the L26→27 gate (**13,000**). Clears **L27** and keeps climbing; exact mid ranks soft with pour XP toward Ch 23 **L35** / Scribe **L10**.
+**Bar from schematics alone:** **7329 + 27,000 = 34,329** into the L26→27 gate (**13,000**). Clears **L27** and keeps climbing; exact mid ranks soft with pour XP toward Ch 23 **L35** / Scribe **L10**.

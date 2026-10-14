@@ -38,6 +38,7 @@ Skills cap at **L9**. Filling the L9 bar triggers a **skill evolution** instead 
 | Climbing | One climb segment (tree, wall, panel, rack) | Strength + Agility | 1.0 | 3.6 |
 | Spring Charge | One full coil and release | Strength | 1.15 | 4.10 |
 | Seal / Regeneration | One wound sealed | Vitality | 1.29 | 4.65 |
+| Recovery | One blood-meal / tip-cycle body restore (not a wound seal) | Vitality + Endurance | 1.29 | 4.65 |
 | Poison Resistance | One dose ingested or exposure survived | Vitality | 1.29 | 4.65 |
 | Pain Resistance | One real pain dose survived (burn, frost, nick, impact, bash) | Willpower + Endurance | 1.0 | 3.6 |
 | Heat Resistance | One real heat / burn exposure survived | Vitality + Endurance | 1.29 | 4.65 |
@@ -65,7 +66,7 @@ Locked in `../../Story/Notes/NedStatus.md`. Exit overall **~25** / **~3x**, stil
 | Seal / Regeneration | 14 (2 harvest cuts + 6 combat wounds) | 2,520 | 1.75 | 4,410 | **L5** |
 | Poison Resistance | 12 (6 real doses) | 2,160 | 1.75 | 3,780 | **L5** (L4 if poison variety stays low) |
 
-**Ch 14–19:** Greater **4x** aptitude surge + Carwen closeout + train hide / climb / poke / **needle-launch catch** week + **shared Pain / Heat / Cold / Seal** grill → exit Spike **L7**, Silk **L5**, Stealth **L7**, Climbing **L7**, Charge **L6**, Seal **L5**, Poison **L5**, Pain **L5**, Heat **L5**, Cold **L5** (`NedStatus.md` train-week lock). Acid / Formation / Absorb unlock when Roland starts feedstock drills (post-train invent beat; not on Ch 19 exit).
+**Ch 14–19 + night pack:** Greater **4x** + every-night drills since tame (~**200** nights, every skill Ned can — including Formation / Absorb / Acid Production / Acid Spray / **Recovery**) + train week → **21.5 enter** Spike / Climb **L7**, Stealth **L8**, Spring / Seal / **Recovery** **L6**, Silk / Pain / Heat / Cold / Moon / Tail / Horn / Blunt / Sharp **L6**, Poison / Formation / Absorb / Acid Prod / Acid Spray **L5** (`NedStatus.md` § Night drills). Ned **Recovery** = blood-meal / tip-cycle restore; **Seal** = wound knit; **Formation** = tip-bed regrow (all three kept).
 
 ## Skill evolution at L9
 

@@ -50,7 +50,23 @@ Counts are **cumulative clean uses** to *reach* that level (not XP).
 
 The name hard-caps at **L9**. It evolves at **2,000,000** clean uses, when the ability surpasses itself. The next form starts at **L1**. No L10 on the same name.
 
-**Peak use (narrative):** working the ability at its current peak (hardest clean cast, longest hold, sharpest clear, densest absorb loop he can sustain) accelerates how fast the bar moves. Soft or lazy reps still count when clean, but climb slower in the story. This is mostly narrative pacing, not a second formula on top of the cum-use table.
+**Quality multiplier (locked):** clean actions are weighted by result **quality** before they add to the cum-use bar (and the same ladder can weight craft / action XP). Rune seating uses the five rune qualities. Other skills use the same 1–2–4–8–16 band when the action has a clear quality / grade (scroll device grade, hit quality, drill grade, etc.).
+
+| Quality | Multiplier |
+|---|---:|
+| Lowest | **1** |
+| Low | **2** |
+| Intermediate | **4** |
+| High | **8** |
+| Highest | **16** |
+
+One Highest clean seat counts as **16** toward the cum-use table; one Lowest counts as **1**. Misses / fails still do not count. Lazy soft reps that only reach Lowest climb slow; Highest work climbs fast.
+
+**Quality-only seating (scribing / graded craft, post trial / first night):** trial Fire Orb took **~3** tries to Highest; first night in town **~2–3** tries to a working scroll. After that, every try finishes a scroll — grind is **only quality** (Lowest → Low → Intermediate → High → Highest), not surviving botches. No fail-wall month on known seating.
+
+**Form transfer (circle → square):** sibling forms (Orb → Ball → Arrow → Bolt; Fire → Water → Light on a known shape) climb **fast and roughly linear**, not from scratch. Same machine family; swap cores / a few lines. Artist who can perfect a circle does not relearn geometry for a square. Desk lock / kit: `../../Story/Notes/Chapter21_5.md`, `../Runes/MagicScrollMaking.md`.
+
+**Peak use (feel):** working at the top quality you can currently seat is how the story *feels* faster. The number is the quality mult above, not a separate vague dial.
 
 **Short-climb brake (optional dial):** if a skill would rank absurdly fast under raw counting, multiply uses / skill-exp needed by **current skill level** and / or **evolution tier**. If the climb is already long, leave the flat table alone. Full rule: `SkillLevelCostMultiplier.md`.
 

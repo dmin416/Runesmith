@@ -151,19 +151,22 @@ Pattern matches his tests: **first try messy, second same sitting often works** 
 
 Trial Fire Orb (Ch 16) was already a working seating on beast skin under hourglass pressure (fail → Hands cascade → success). Ch 21 is the first **real-world** Orb on bought stock: still red, not a multi-week wall.
 
-### Half-year desk (Ch 21.5 → Ch 22)
+### 4-month desk (Ch 21.5)
+
+Seat time = **draw + tip-sip fill** (`../../Story/Notes/Chapter21_5.md` § Seat time). Known Arrow wall **~6 min**; Ball **~21–26 min** (RS L4–L7 Highest). Technology ticks on every rune + desk-tech observe.
 
 | When | What |
 |---|---|
 | **Day 1** | Buys Orb of Light / Fire Arrow / Aqua samples. **Fire Arrow** schematic perfected first (Common **2×** XP) |
-| **~Month 1** | Common Fire Arrow **possible at Lowest** (Rune Scribing climbing) |
-| **Mid skip** | Quality climbs Low → Intermediate → **High**; fails burn blanks/ink |
-| **Exit (~6 months)** | Rune Scribing **L5**; comet batch **8 High + 2 Highest** FA; Orb/Aqua boards when desk allows; Mana Scribing still low (**L2** by Ch 23) |
+| **~Month 1** | Quality climb → first Highest each; early stock (quality only; seating already known) |
+| **Months 2–4** | **~70%** Mana Arrow keep (**~76**/day) · **~25%** Fireball sell (**~8**/day) · **~5%** Light Ball (**~2**/day); quality only; sell batch Highest empty; prefill **personal / gift** only |
+| **Exit (~4 months / d120)** | Rune Scribing **L8**; Technology **L8**; comet Fireballs **10 Highest** empty; Mana Arrow keep (**~20** preloaded); Light Ball few (**~6** preloaded) |
 
 ### Throughput after sellable quality
 
 | Beat | Pace |
 |---|---|
+| Ch 21.5 Phase C (seat-time) | MA **~76**/day · Fireball **~8**/day · Light Ball **~2**/day; seat MP ~**1.7–3k**/day (draw-limited; falls as S drops); plus soft **~80**/day preload pours on a few finished High/Highest |
 | Ch 26 contract | ~**1 hour**/Common FA; min **10**/week |
 | Ch 27 compacted | **5–6**/day |
 

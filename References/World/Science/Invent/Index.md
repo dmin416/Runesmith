@@ -17,5 +17,5 @@ Century invent ladder, industrialization, paper, ink, writing tools, toilet desi
 - [ClothingTechnology.md](ClothingTechnology.md). Underwear, pants, shirts, coats, hats, socks; same three eras
 - [Printing.md](Printing.md). Gutenberg / civilian-product invent seed
 - [ToiletDesign.md](ToiletDesign.md). Flush systems, vitreous china, seats and soft-close damper mechanisms
-- [WritingTools.md](WritingTools.md). Pencil / pen invent path
+- [WritingTools.md](WritingTools.md). Pencil / pen invent path, plus Earth factory ballpoint and wood-pencil lines
 - Temperature readout invent ladder: [Thermometers.md](../Metallurgy/Thermometers.md)

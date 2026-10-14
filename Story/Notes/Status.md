@@ -497,7 +497,7 @@ No full status screen. Age **11** / world **6 years**. Enter wallet **21,641 LC*
 
 **Rewrite:** train-week sheet **49/64/72/72/81/156/147/12/7**; HP **963** / MP **2578** / SP **1149** (`ChapterLedger.md`). Wallet **21,641 → 21,598 LC** after tip + map + room (`Items.md`). Personal **11,641 LC** never replaced by the gift alone. Train skill ranks **+3800 XP** (incl. Sleep **L5→L6**) + Fire Orb **High→Highest** **+1000 XP** → bar **7279 / 13000** (`Experience.md`). Suffocation: hypoxia **15 s**/use + blood **~50 mL**/use; **no** Breath Control. Sleep: **T0 = 8 h**; L5 need **4.0 h**; ignored **4.0 h**/day → ~**6,720** uses. Lesser quality ladder: **100 / 200 / 400 / 600 / 1000**. Source one-shot Highest **+1000** discarded.
 
-**Ned:** overall **26** / **4x** Greater. Train exit skills: Spike **L7**, Silk **L5**, Stealth **L7**, Climbing **L7**, Spring Charge **L6**, Seal **L5**, Poison Resistance **L5**, Pain **L5**, Heat **L5**, Cold **L5** (`NedStatus.md`).
+**Ned:** overall **26** / **4x** Greater. Train week + night pack since tame → 21.5 enter: Spike / Climb **L7**, Stealth **L8**, Spring / Seal / **Recovery** **L6**, Silk / Pain / Heat / Cold / Moon / Tail / Horn / Blunt / Sharp **L6**, Poison / Formation / Absorb / Acid Prod / Acid Spray **L5** (`NedStatus.md`).
 
 ## Chapter 20
 
@@ -513,19 +513,21 @@ No full status screen. Gains **25 XP** (Mana Bolt word scroll; L1 pay **22.5** M
 
 ## Chapter 21.5
 
-No full status screen (rewrite-only skip). Day 1: buys **Runic Orb of Light**, **Fire Arrow**, **Aqua Ball**. Then ~**6 months** Common Fire Arrow grind. Skip perfect schematics **+22,000** XP (includes elemental Bolts, Aqua Orb, Light arrow, elemental Detonations); Detonation / Impact / Fire Orb already paid. **Burns all paper schematics** for space. Class **a few levels** (soft). Skills: Rune Scribing → **L5**; understanding of runic scroll making → **L2**; Rune Mastery slight; Sleep Resistance **+1**. Wallet **~21,448 LC → last 1 SS**. Bloodshot / one-meal look into Ch 22 auction.
+No on-page full status screen (rewrite-only skip). **Exit sheet:** `Chapter21_5Exit.md` (attrs, HP/SP/MP, skills, Ned, inventory, wallet).
 
-**Rewrite:** schematic bar alone **7329 + 22,000**; pads toward Ch 23 **L35** / Scribe **L10**. See `Notes.md` / `Experience.md` Ch 21.5.
+Day 1: buys **Runic Orb of Light**, **Fire Arrow**, **Aqua Ball**. Then ~**4 months** / **day 120** desk. Skip perfect schematics **+27,000** XP; Detonation / Impact / Fire Orb already paid. **Burns all paper schematics**. Soft Scribe **+3** (enter L1 → soft **L4**). Exit (printed in 21.5 close / Ch 22 lookback): Dex **85** / Vit **79** / End **89** / Int **165** / Will **151**; HP **1057** / SP **1229** / MP **2254**; Basic Rune Scribing **L8**; Drawing **L8**; **Technology L8** (enter L7); understanding **L3**; MT **L7**; Sleep **L7**; Hunger / Pain **L6**; Hands **L9**; wallet **1 SS**; ten branded Fireballs (all **Highest**, **empty**).
+
+**Rewrite:** pads toward later full sheet. See `Notes.md` / `Experience.md` / `Chapter21_5Exit.md`.
 
 ## Chapter 22
 
-No full status screen. Present day after 21.5. Last cash **1 SS** into auction. Gross sale ~**1 SG** (4L+5S and 4L+7S); **25%** first-timer fee. Comet brand launches on-stage.
+No full status screen. Present day after 21.5. Last cash **1 SS** into auction. Gross sale **8 SG** (two × **40 LS**, ten Highest empty); **25%** → net **6 SG**. Comet brand launches on-stage.
 
 **Rewrite:** climbing toward Ch 23 full sheet (Scribe toward **L10** / overall **L35**).
 
 ## Chapter 23
 
-Overall L35. Mage L25 secondary. Runic Mana Scribe L10 main. Seller #64 net **6L+9S**. Weekly ~**1 SG** from ten Fire Arrow scrolls. Live sheet (mid-hunt MP spent):
+Overall L35. Mage L25 secondary. Runic Mana Scribe L10 main. Seller #64 net **6 SG** (Fireball first sale). Weekly ~**1 SG** from ten Fire Arrow scrolls. Live sheet (mid-hunt MP spent):
 
 **Live (chapter)** — Source block still on-page:
 

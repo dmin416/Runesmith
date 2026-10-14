@@ -236,7 +236,7 @@ Rewrite-only timeskip (~3 months). Source folds this into the opening of Ch 10 a
 
 - Baron Wentworth (Adam delivers): weekly watcher reports stopped; Roland and watcher gone; party also left Carwen. Rage / chair smash / schnapps. Suspects escape, foul play or death. Guild won't leak member locations except to Ducal houses or the King (guilds have elite muscle kingdoms won't fight). Orders more searchers.
 - Roland: ~1 week train ride (Sleep Resistance keeps him awake). Enter wallet **21,641 LC** (personal **11,641** + parting gift **10 SG**; more than the 5 he wanted of the girls' ~20; almost turned back after the detonation rapier). Caldris temperate → colder autumn mountains. Edelgard built into a mountain (mines, smoke, gorge bridge, rock/brick). Spatial bag = no luggage haul.
-- **Train week (rewrite vs Source boredom stare):** both sound + thermal grill every day at ~**99%** mana regen ceiling (`Skills.md`). Sound: tongue + free-placement mana clicks (Heat base, pressure not heat) → unlock **Sound Production** + **Echolocation**; Ned as eyes-shut locate target; then needle-catch / feed-back (spent tips recycled). Grill: heat/cold grid on forearm/hand (real blister/frost); Ned nibble/toxin between squares; potion when Recovery lags; Multitasking under dual load. **Suffocation Resistance** only (**no** Breath Control): hypoxia holds **15 s = 1 use** (~**140 min**/day → ~**3,920**/week) + blood volume (**~50 mL ≈ 1 use**; ~**5%**/day → ~**35**/week) → exit **L5**. **Sleep Resistance** **L5→L6**: **T0 = 8 h**; L5 need **4.0 h**; ignored / not needed **4.0 h**/day (**15 s**/use → ~**6,720**/week); Ch 23 owns **L6→L7**. Sharp **L3→L4** from drip pierces + Ned fang / miss needles. Exit slate: Sound / Echo **L7**, Suffocation **L5**, Sleep **L6**, Sharp **L4**, Multitasking **L5**, Basic Throwing **L9**, Shaping **L7**, Regulation **L8**, Heat **L6**, Recovery **L5**, Heat / Cold / Pain Resistance **L5**, Poison **L6**. Skill XP **+3800** + Fire Orb **+1000** → bar **7279 / 13000**. No Vibration Sense evolve (**2,000,000**). **Ned** on-page: echolocation hide, launches, bites, scarf cold near-miss (Roland shifts patch); shared ranks locked in `NedStatus.md` (Spike **L7**, Stealth **L7**, Climbing **L7**, Seal **L5**, Pain **L5**, Heat **L5**, Cold **L5**).
+- **Train week (rewrite vs Source boredom stare):** both sound + thermal grill every day at ~**99%** mana regen ceiling (`Skills.md`). Sound: tongue + free-placement mana clicks (Heat base, pressure not heat) → unlock **Sound Production** + **Echolocation**; Ned as eyes-shut locate target; then needle-catch / feed-back (spent tips recycled). Grill: heat/cold grid on forearm/hand (real blister/frost); Ned nibble/toxin between squares; potion when Recovery lags; Multitasking under dual load. **Suffocation Resistance** only (**no** Breath Control): hypoxia holds **15 s = 1 use** (~**140 min**/day → ~**3,920**/week) + blood volume (**~50 mL ≈ 1 use**; ~**5%**/day → ~**35**/week) → exit **L5**. **Sleep Resistance** **L5→L6**: **T0 = 8 h**; L5 need **4.0 h**; ignored / not needed **4.0 h**/day (**15 s**/use → ~**6,720**/week); Ch **21.5** desk owns **L6→L7**. Sharp **L3→L4** from drip pierces + Ned fang / miss needles. Exit slate: Sound / Echo **L7**, Suffocation **L5**, Sleep **L6**, Sharp **L4**, Multitasking **L5**, Basic Throwing **L9**, Shaping **L7**, Regulation **L8**, Heat **L6**, Recovery **L5**, Heat / Cold / Pain Resistance **L5**, Poison **L6**. Skill XP **+3800** + Fire Orb **+1000** → bar **7279 / 13000**. No Vibration Sense evolve (**2,000,000**). **Ned** on-page: echolocation hide, launches, bites, scarf cold near-miss (Roland shifts patch); shared ranks locked in `NedStatus.md` (Spike **L7**, Stealth **L7**, Climbing **L7**, Seal **L5**, Pain **L5**, Heat **L5**, Cold **L5**).
 - Station: Church of the Sun / **Solaria** priests (sun robes, bell, collection plate). Acolyte → Cleric → Paladin path. Churches produce class-change stones (god-gift claim; multiple churches keep prices in check). **Rewrite:** tips **1 SS** (Source copper); says "*Praise the Son.*" (Source "*Praise the sun!*"); faith unlocked Acolyte for him so the church has real power here (old-world cult skepticism kept, not blanket contempt).
 - Guild: no local dungeon; hired muscle / wild clears. City map list **2 SS**; Steel **5%** → **19 LC** (nice gesture; Source copper-saving punchline dropped). Skips peasant hostel; considers a nicer splurge after the week on the road but picks clean/quiet Steel-band **The Singing Crow** (4 floors; straw bed; room **14 LC**/night = a bit above Carwen **1 SS**, not **2 SS**; cloak could sleep outside but he will not grind misery for skill). Meets **Helci** (gnome waitress; long ears/brows, high cheekbones; boss yells "stop flirting"). City full of dwarves and gnomes (gnomes: trains, intricate machinery/trinkets). Wallet path: tip **−10** → map **−19** → room **−14** → **21,598 LC**.
 - From memory (rewrite vs Source one-shot Highest **+1000**): first **Lesser Fire Orb Rune [High]** in **over** an hour (**+600 XP**; uneven / not David). The hour is **learning / first put-together** of stages he had never drawn from memory as one sheet, **not** because a lowest lesser is inherently hard (it is a few simple large marks). Thin-sheet trace → **[Highest]** (**+400 XP**). Total **1000** (quality ladder: Lowest **100** / Low **200** / Intermediate **400** / High **600** / Highest **1000**; raise pays difference only). Three Highest lesser schematics. Nature lock: **large linear segments** (Fire Orb four named stages from the trial book; Detonation / Impact same kind of chain); pathways link stage to stage; **not** Source resistor / transistor / memory chip fantasy. Custom work = rearrange large stages on a **whole** sheet (cut-paper overlays fail Diagnosis). Quill + **Mana Hands** refill (multitask practice); wants a **pencil** in Edelgard (`References/World/Science/Invent/WritingTools.md`: world has soft metal / chalk / quills / rare fountain pens; he invents pencil later via synthetic graphite + Ned toxin-free spike; then pen after metalworking). Prefers a shop job first; solo scroll sales look hard.
@@ -299,13 +299,13 @@ Rewrite-only timeskip (~3 months). Source folds this into the opening of Ch 10 a
 
 **Open vs lock**
 - Word vs runic craft laws still partly open (Diagnosis blank on word scrolls locked on-page; full skill/material split may still need Reference lock). See Ideas Open if present.
-- Living-only purse optimism (**nearly a year**) vs mats burn: resolved in **Ch 21.5** / Ch 22 lookback (**ten months** thought → **half a year** actual).
+- Living-only purse optimism (**nearly a year**) vs mats burn: resolved in **Ch 21.5** / Ch 22 lookback (**ten months** thought → **4 months** actual).
 
 ## Chapter 21.5
 
 **Working lock (full beat / experiment map):** `Chapter21_5.md`. Resistance grind: `ResistanceGrindBurnFreeze.md`.
 
-Rewrite-only timeskip (~**half a year** / **6 months**). Source folds mid/late into Ch 22 open. **Opening prose is author-written** in `Chapters/19-30.md` (chapter wins). Mid-skip month grind / comet batch / last **1 SS** still Notes + Ch 22 lookback until more 21.5 prose lands.
+Rewrite-only timeskip (~**4 months**). Source folds mid/late into Ch 22 open. **Opening prose is author-written** in `Chapters/19-30.md` (chapter wins). Mid-skip month grind / comet batch / last **1 SS** still Notes + Ch 22 lookback until more 21.5 prose lands.
 
 **Enter (end Ch 21):** auction plan; word Bolt + red Fire Orb practice done; wallet **~21,448 LC**; party gift still mostly intact; Singing Crow; **Ned**; three Highest lesser schematics; blanks/ink on hand. Age **11 and 0 months** / **6 years** in-world.
 
@@ -319,7 +319,7 @@ Rewrite-only timeskip (~**half a year** / **6 months**). Source folds mid/late i
 **Beat map (rest = Notes until prose continues)**
 
 **Process / temperament**
-- Desk work is skill gain. He levels **everything that can tick** while making scrolls (Rune Scribing, Drawing, Multitasking, Hands uses, understanding, Sleep Resistance on short nights, class XP on pours, etc.). Not a single-skill tunnel.
+- Desk work is skill gain. He levels **everything that can tick** while making scrolls (Rune Scribing, Drawing, Multitasking, Hands uses, understanding, **Technology** on every rune and desk-tech observe, Sleep Resistance on short nights, class XP on pours, etc.). Not a single-skill tunnel.
 - **~10× mind** (`FocusCapacity.md`) plus high Willpower. Will of ten men feel. He is not a sensitive wreck under ink and fails. Grind hard without constant bitching (Roland rewrite).
 - **Hunger / mana / stamina:** cannot will himself to feel hungry, but can make himself hungry by burning fuel. Mana from ambient / drained stones (not gut). SP scroll fills refill fast but spend nutrients. High burn + little/no food **is** starvation → **Hunger Resistance** (~**L6**) and **Pain Resistance** (starve-ache **15 min**/use, soft-repeat). SP loop ceiling ~**12.6 SP/s** / ~**2,600–4,700 kcal/day** (`Chapter21_5.md`).
 - **Ned leg jabs** on the desk: **Blunt** + **Sharp** (pierce) + **Poison** + **Pain** each jab (`Chapter21_5.md`).
@@ -332,58 +332,60 @@ Rewrite-only timeskip (~**half a year** / **6 months**). Source folds mid/late i
 - **Runic Mana Bolt (same stretch):** **Orb and Bolt share the same shaping.** Same initial shape. Difference is the **compression / restraint** section — Bolt adds **explosive compression** (kinetic pop); Orb stays soft (restrain / no explode-on-form). He builds a working **runic Mana Bolt** by adding that compression block to the shared Orb-shape spine. First pure-mana runic attack scroll in his kit (0% affinity still fine).
 - **Shape-symbol kit (locked after this):** he holds runic forms for **Orb/Bolt shaping** (shared), **Ball** (Orb + a couple lines), **Arrow** (similar outline, different inner sub-symbols), plus Bolt’s **compression** block. Pure-mana or elemental converters ride those once he has the rest of the chain.
 
-**Then Common Fire Arrow track**
-- Perfect schematics this skip **+22,000** XP (prior packet **+13,000** + elemental Bolts / Aqua Orb / Light arrow / elemental Detonations **+9,000**). Detonation / Impact / Fire Orb already paid. **Burns all paper schematics** for space; knowledge retained (`Experience.md`).
-- **Month 1:** fails → first Common FA at **Lowest** ~full month after the FA push starts. Hands-as-pen + stamp press already in the chapter drill.
-- **Months 2–6:** High/Highest comet brand; refuse Low; robe/mask servant cover; mats burn to **last 1 SS**. Sleep Resistance **+1**.
-- **Exit into Ch 22:** ten Common Fire Arrows (**8 High + 2 Highest**); seller plaque; bloodshot; **no** schematic sheets.
+**Then keep / sell track**
+- Perfect schematics this skip **+27,000** XP (prior packet **+13,000** + elemental Bolts / Aqua Orb / Light arrow / elemental Detonations **+9,000** + Mana Arrow / Orb / Ball **+5,000**; pure mana set Bolt+Arrow+Orb+Ball **+6,000** inside the total). Detonation / Impact / Fire Orb already paid. **Burns all paper schematics** for space; knowledge retained (`Experience.md`).
+- **Month 1:** fails → first Common FA at **Lowest** ~full month after the FA push starts (Arrow teacher). Hands-as-pen + stamp press already in the chapter drill.
+- **Months 2–4:** seat-time mix (~**76** Mana Arrow keep / **~8** Fireball sell / **~2** Light Ball per day); prefill **personal / gift** only (never sell-line Fireballs); robe/mask servant cover; mats burn to **last 1 SS**. Sleep Resistance **+1**. RS → **L8**. **Technology L7 → L8** (printed at skip close).
+- **Skip exit:** ten branded Fireballs (all **Highest**, **empty**); Mana Arrow keep pile (**~20** preloaded); a few Light Balls (**~6** preloaded); seller plaque; bloodshot; **Technology L8**; **no** schematic sheets.
 
 **Skills / class (exit locks)**
 | Track | Exit |
 |---|---|
-| Basic Rune Scribing | **L5** (chapter; cum ~**1.5k–2.7k**, short of L6 **5k**) |
-| Understanding of runic scroll making | **L2** (chapter) |
+| Basic Rune Scribing | **L8** (seat-time; cum ~**100k–110k**; short of L9) |
+| Understanding of runic scroll making | **L3** |
 | Basic Rune Mastery | slight at desk; **L3** by Ch 23 combat |
 | Basic Mana Scribing | **L1** soft; **L2** by Ch 23 |
-| Drawing | **L5** |
-| Mana Hands | **L9** (evolve bar pads) |
-| Multitasking | **L5 → L6** |
+| Drawing | **L8** (tracks RS) |
+| Mana Hands | **L9** (no evolve by exit; bar pads) |
+| Multitasking | **L5 → L7** |
 | Sleep Resistance | **L6 → L7** |
-| Class | Runic Mana Scribe **a few levels**; schematics **+22,000** + pour XP (`Experience.md`) |
+| Class | Runic Mana Scribe **a few levels**; schematics **+27,000** + pour XP (`Experience.md`) |
 
-**Daily skill climb (field curve; ~180 days; averages)**
+**Daily skill climb (seat-time; Phase C)**
 
-Uses law: `SkillRanks.md` (**1 / 10 / 50 / 200 / 1,000 / …**). Hands actions: `ManaHands.md` (`ceil(m/100)×t×A` per finished action). Clean ~**40–70%** of raw desk attempts early.
+Uses law: `SkillRanks.md` + quality ×. Wall = draw + tip-sip fill (`Chapter21_5.md` § Seat time). Clean **1.0** (quality only; seating known from trial / first night).
 
-| Track | Enter → exit | Clean uses needed | **Avg clean / day** | Notes |
-|---|---|---|---|---|
-| Basic Rune Scribing | L1 → **L5** | **1,000** to L5; **5,000** to L6 | phased ~**10–12** clean/day late | Chapter L5. Total clean ~**1.5k–2.7k** (short of L6). Curve: `SkillRanks.md` |
-| Understanding (runic scrolls) | L1 → **L2** | **10** | front-loaded | Chapter L2 |
-| Drawing | L1 → **L5** | **1,000** | tracks RS seats | |
-| Multitasking | L5 → **L6** | **5,000** cum | ~**25–30**/day dual desk | Clears L6 |
-| Mana Hands | L9 → L9 | toward **2M** | ~**60–90+**/day scribe band | No evolve; bar pads |
-| Basic Mana Scribing | L1 → L1 | — | rare | L2 by Ch 23 |
-| Basic Rune Mastery | L1 → slight | combat | ~**0** desk | L3 Ch 23 grimoire |
-| Sleep Resistance | L6 → **L7** | skip meter | short nights | Chapter +1 |
-| Class / overall XP | +few Scribe L | cast XP / day | soft | Schematics **+22,000** + pour XP |
+| Track | Enter → exit | **Avg clean / day** (Phase C) | Notes |
+|---|---|---|---|
+| Basic Rune Scribing | L1 → **L8** | **~75** seats × quality ~**13** → ~**1,000** weighted/day | L7 in weeks of Phase C; L8 by exit |
+| Understanding (runic scrolls) | L1 → **L3** | front-loaded | |
+| Drawing | L1 → **L8** | tracks RS | |
+| Multitasking | L5 → **L7** | dual desk / Hands concurrent | |
+| Mana Hands | L9 → L9 | ×MT concurrent | No evolve by day **120** |
+| Basic Mana Scribing | L1 → L1 | rare | L2 by Ch 23 |
+| Basic Rune Mastery | L1 → slight | combat | L3 Ch 23 |
+| Sleep Resistance | L6 → **L7** | short nights | +1 |
+| Technology | L7 → **L8** | every rune/tech observe | seats×q + 12/day |
+| Hunger / Pain | —→L6 / L5→L6 | starve + patch | |
+| Class / overall XP | +few Scribe L | pour × quality | Schematics **+27,000** + pour XP |
 
-**Rhythm:** inn desk most days; buy mats as coin allows; Fire Orb when Common fails stack; no shop contract; no dungeon main. Adventure motive stays (auction freedom vs six-year desk curse), not greed-first.
+**Rhythm:** inn desk most days; buy mats as coin allows; no shop contract; no dungeon main. Adventure motive stays (sell-batch freedom vs six-year desk curse), not greed-first.
 
 **Open vs lock:** Chapter owns the opening only so far. Mid-skip / comet exit still Notes + Ch 22 lookback. Ch 25 later tries **Orb of Light / Aqua Ball / Frost Bolt** again; retcon later. Mat LC ledger and exact mid-skip class L still soft.
 
-End ranks / XP / coin: `Skills.md` / `Experience.md` / `Items.md` / `Status.md` Ch 21.5. Timeline age **11 and 6 months**.
+End ranks / XP / coin / inventory: `Chapter21_5Exit.md` · `Skills.md` / `Experience.md` / `Items.md` / `Status.md` Ch 21.5. Timeline age **11 and 4 months**. After-exit day table (later use): `Chapter21_5DayByDayAfterExit.md`.
 
 ## Chapter 22
 
-**Present day** after Ch 21.5 (~half year of Fire Arrow grind). Auction day; grind backstory lives in **21.5**.
+**Present day** after Ch 21.5 (~4 months desk; seat-time mix). Grind backstory lives in **21.5**.
 
-- Libra: **Percival** (analytic class; appraisal/ID without mana tools) + assistant **Cynthia**. Rejects below price floor. Appraises ten Common Fire Arrows: **8 High + 2 Highest** (none Intermediate). High ≈ up to **9 SS**; Highest near grade-jump (half-step toward Greater), maybe 2–3×. Runic scrolls can **amplify** if the user feeds more mana (rank-capped). City runesmiths mostly metal; scrolls are mana-control practice.
-- Lookback (filed under 21.5): next-day buy **Orb of Light + Fire Arrow + Aqua Ball**; Fire Arrow schematic **2×** (main grind); month-1 Lowest FA; Rune Scribing **L5**; understanding **L2**; Mastery slight; last **1 SS**; brand + servant disguise.
-- Auction: seller plaque (no entry fee); sits in back; first-timer cut **25%** (can fall to 10%). Stage for common→grand; paddles; beauty auctioneer. Two boxes of five (4 High + 1 Highest each); open **3 LS**; sell **4L+5S** and **4L+7S** (~**1 SG** gross).
+- Libra: **Percival** (analytic class; appraisal/ID without mana tools) + assistant **Cynthia**. Rejects below price floor. Appraises ten branded Fireballs: all **Highest**, **empty**. Empty fair Highest **7.5 LS** (`ScrollEconomy.md`). Runic scrolls can **amplify** if the user feeds more mana (rank-capped). City runesmiths mostly metal; scrolls are mana-control practice.
+- Lookback (filed under 21.5): next-day buy three dusty runic samples; perfect schematics; quality-only seats; Fireball sell after Aqua Ball; Phase C **~76** Mana Arrow / **~8** Fireball / **~2** Light Ball per day; Rune Scribing / Drawing **L8**; Technology **L8**; understanding **L3**; Multitasking **L7**; Mastery slight; last **1 SS**; brand + servant disguise.
+- Sale hall: seller plaque (no entry fee); sits in back; first-timer cut **25%** (can fall to 10%). Stage for common→grand; paddles; beauty auctioneer. Two boxes of five Highest each; open **32 LS**; sell **40 LS** + **40 LS** (gross **8 SG**).
 
 ## Chapter 23
 
-- Seller **#64** pickup after midnight: gross **9L+2S** → net **6L+9S** after 25% (fee 2L+3S). Buyers who refuse pay get reported; house is sanctioned. Hood + ninja mouth-mask; curious staff note the new Highest-common craftsman. **Sleep Resistance** +1 over the half-year grind (one meal/day looks). Sleeps to noon church bells.
+- Seller **#64** pickup after midnight: gross **8 SG** → net **6 SG** after 25% (fee **2 SG**). Buyers who refuse pay get reported; house is sanctioned. Hood + ninja mouth-mask; curious staff note the new Highest-common craftsman. **Sleep Resistance** +1 over the four-month grind (one meal/day looks). Sleeps to noon church bells.
 - Mass-produces Fire Arrow (~**10/week** ≈ **1 SG**). Mana drain: dizzy/sleepy when low; zero = headache/pass out + next-day regen debuff. Fire Arrow scribing is Runesmith-tier mana cost (Blessed regen + Mage pool lets him push past 1–2/day). Percival sees more Highests; shops notice but volume too small to squeeze him. Better quill/paper; fortune recovering.
 - +3 months: bored of assembly-line Fire Arrow (sample stack 6 Highest + 4 High). Forest ~2h from city. **Mountain Goblins** (pale, taller, tougher; rare carriage attacks; late second-T1 fight band). Stealth Basic→regular (advanced needs Rogue). Scrap **Fire Arrow grimoire** from Low/Lowest rejects: page crumbles on cast; no chant; levels **Rune Mastery** via use. Craft class = weak kill XP.
 - Live sheet **L35** / Mage L25 secondary / Scribe L10. Skills: Mana Scribing L2, Rune Scribing L5, Rune Mastery L3; Mana Shaping L6, Mana Regulation L7 (full regen in a few hours; faster still / more skin bare). Common runes manageable from Rune Scribing L4+. Plans buy city runic scrolls for schematics; dreams runic staff.
@@ -398,8 +400,8 @@ End ranks / XP / coin: `Skills.md` / `Experience.md` / `Items.md` / `Status.md` 
 ## Chapter 25
 
 - Reflects on Helci (tsundere / "bipolar" read); free sausage; one more Fire Arrow before bed. Plans sample-buying spree for schematics; wants Libra cut below 25%. Warlock-robe disguise.
-- Exeor: tries to buy dusty **Orb of Light**, **Aqua Ball**, **Frost Bolt**. Zilyana stalls → manager. Common schematics ~2× lesser size; half year to master one; Diagnosis can lift others' work to Highest in hours.
-- Manager (advanced Alchemist gnome ~**120 cm**; gray beard, turban, wart on left nostril, pipe; furnace in office): already **Identified** him as **Runic Mana Scribe L10** on first visit; auction Fire Arrows confirmed it. Disguise useless without status-hide enchant. Not blackmail: sponsorship.
+- Exeor: tries to buy dusty **Orb of Light**, **Aqua Ball**, **Frost Bolt**. Zilyana stalls → manager. Common schematics ~2× lesser size; four months to master one; Diagnosis can lift others' work to Highest in hours.
+- Manager (advanced Alchemist gnome ~**120 cm**; gray beard, turban, wart on left nostril, pipe; furnace in office): already **Identified** him as **Runic Mana Scribe L10** on first visit; auction Fireballs confirmed it. Disguise useless without status-hide enchant. Not blackmail: sponsorship.
 - Offer vs old 6-year trap: workspace, cheaper mats, exclusive sell-to-store, **15%** cut (better than auction), self-craft / free gifts / cheap sales to a few chosen OK, **3 years** then renegotiate or leave, breach **−30%** mana (not instant; can work it out). Facilities for craft including future Blacksmith smithy. Unique classes rare; merchant **council** meets every 3 months (recruit then crush); gnome member = umbrella. Other shops would crush / ban from auctions.
 - Takes contract copy overnight. Will keep comet brand + hidden identity. Will agree.
 
@@ -412,7 +414,7 @@ End ranks / XP / coin: `Skills.md` / `Experience.md` / `Items.md` / `Status.md` 
 
 ## Chapter 27
 
-- +6 months Exeor work (~**1 year** in Edelgard). Past copy-only scribing: can tweak output / AoE / elemental variants on lesser Mana Arrow, Mana Bolt, Mana Shield (fire / water / wind / earth). Surface only; no internal algorithm edits. Equipment runes next; needs **Blacksmith** then **Runecraft**.
+- +6 months Exeor work (~**1 year 1 month** in Edelgard). Past copy-only scribing: can tweak output / AoE / elemental variants on lesser Mana Arrow, Mana Bolt, Mana Shield (fire / water / wind / earth). Surface only; no internal algorithm edits. Equipment runes next; needs **Blacksmith** then **Runecraft**.
 - Paper scrolls burn/crumble after cast; magic ink fails on metal. Speculates Heavy Impact Arrow; wants reusable staff/items (Runesmith gate). Impact rune hard to test on paper.
 - Status: **L45** / Mage L25 secondary / Runic Mana Scribe L20 main. **Basic Rune Mastery L4** (combat kills only; out-of-combat casts do not level; aims **L9** before Blacksmith for possible special class). Compact commons toward playing-card size; best now = **envelope**; smaller = less overload headroom; power holds. Speed: **5–6** Fire Arrows/day (was ~1/day).
 - Contract leave: weekends + **25** unpaid days/year; can batch min 10/week early. Brand nicknames: **Crimson Comet / Red Star / Scarlet Runesmith** (High/Highest only; shipped out-city; support casters love them). Schematic sale price huge (Zilyana); keeps boards private. Gear: fine gambeson under black robe, heavy rapier, leather shoes/gloves; mithril gear ≥ **1 large gold**. Still Steel (idle ~1 year; occasional goblin grind too weak).
@@ -528,13 +530,13 @@ End ranks / XP / coin: `Skills.md` / `Experience.md` / `Items.md` / `Status.md` 
 
 - Noble house (knight-on-horse shield seal) delivers letter via courier to abyss dead-tree drop. Courier trapped in loop/curse ~2 weeks; cult pair harvests T2 blood crystal and letter.
 - Sharp Runic Steel Longsword [Intermediate, High] (5 days; no comet mark). Helci delivers to Exeor; paid month+sword gold.
-- Second shop: Helci Solaria distraction while Roland Diagnosis-borrows Mana Slash. Lends spare steel sword; ~1 week for her blade. Months pass across 2 years 7 months.
+- Second shop: Helci Solaria distraction while Roland Diagnosis-borrows Mana Slash. Lends spare steel sword; ~1 week for her blade. Months pass across 2 years 6 months.
 
 ## Chapter 47
 
-- 2 years 7 months later. 183 cm. Steel Arming Sword of Mana [Intermediate, Highest] dual Mana Slash + Mana Thrust (week craft). Status L69 / Mage 25 sec / Scribe 25 X / Runic Blacksmith 19. Int 116 (Hastened Reading +2). Luck 8.
+- 2 years 6 months later (montage length). 183 cm. Steel Arming Sword of Mana [Intermediate, Highest] dual Mana Slash + Mana Thrust (week craft). Status L69 / Mage 25 sec / Scribe 25 X / Runic Blacksmith 19. Int 116 (Hastened Reading +2). Luck 8.
 - Helci left ~2 months ago for dungeon city (farewell gift off-page). Fosco still delivers. Runic fridge + runic grindstone. Bought Basic Rune Compression. Class skills: Runic Blacksmith's Eyes, Blacksmith's Heat Sense.
-- Skill snapshot: Diagnosis 6, Technology 7, Fabrication 8, Identify 8, mana basics/Rune Mastery/Scribing 9, Smithing Mastery 8, Runecraft 7, Eyes 5, Heat Sense 6, Compression 3, Ethereal Pathways 6. Considers adventuring again for levels/schematics.
+- Skill snapshot: Diagnosis 6, Technology **8** (21.5 desk exit), Fabrication 8, Identify 8, mana basics/Rune Mastery/Scribing 9, Smithing Mastery 8, Runecraft 7, Eyes 5, Heat Sense 6, Compression 3, Ethereal Pathways 6. Considers adventuring again for levels/schematics.
 
 ## Chapter 48
 

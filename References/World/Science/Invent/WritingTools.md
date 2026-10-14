@@ -98,6 +98,95 @@ Wood charcoal alone is hard carbon that resists forming graphite. The **tar and 
 
 **Caldris / invent notes:** Acheson-class graphitize heat (2500 to 3000 °C) needs heat runes, a sealed barrier shell, or forge magic once Roland can hold temperature and keep oxygen out (`../Metallurgy/CraftMetal.md` sealed-work habits). Lead fire and wood casing are ordinary kiln / carpenter work. Ned toxin-free spike cores remain an alternate lead path once that evolution exists.
 
+## Earth factory lines
+
+Earth mass production. Not the first Caldris pencil or pen. The story lock above still wins. Graphite is synthesized. There is no native deposit. The steel-nib dip pen comes before a ball pen. `Printing.md` still starts the ball pen with a hardened steel ball about 1 mm, or a gem or stone bead, in a brass socket. The tungsten carbide sphere below is the later Earth factory ball. `Ink.md` keeps the historical ink catalog. The ink batch here is the factory mix. Inch sizes, choking-safety vents, incense cedar, and yellow lacquer are Earth anchors. Where a core ratio or kiln temperature disagrees with the Conté ladder above, the Conté ladder is the first pencil.
+
+## Ballpoint Pen
+
+**1. Ink**
+- Dyes or pigments (crystal violet and phthalocyanine blue for blue, carbon black or dye blends for black) are dissolved in solvents such as benzyl alcohol, phenoxyethanol or glycols.
+- Resins (ketone or aldehyde resins, polyvinylpyrrolidone) are added to set the thick, paste-like viscosity, along with lubricants, surfactants and corrosion inhibitors.
+- The batch is mixed in heated kettles, then filtered very finely, since any particle can jam the tip.
+
+**2. Ball**
+- Tungsten carbide powder is mixed with a cobalt binder, pressed into rough spheres and sintered at about 1,400 °C.
+- The spheres are ground and lapped between grooved plates with diamond abrasive until round within a fraction of a micron.
+- Typical sizes are 0.5 to 1.6 mm (0.7 and 1.0 mm are most common).
+
+**3. Tip (socket)**
+- Brass, nickel silver or stainless steel wire is fed into automated transfer machines.
+- The machines cut the cone shape, drill a central ink channel and broach small radial grooves that feed ink around the ball.
+- The ball is dropped into the seat. The rim is then crimped inward so the ball spins freely without falling out.
+
+**4. Refill tube**
+- Polypropylene (or brass, in premium refills) is extruded into thin tubes and cut to length.
+
+**5. Refill assembly**
+- The tip is pressed onto the tube.
+- Ink is injected from the back end.
+- The refill is centrifuged to drive ink down to the tip and push out air bubbles.
+- A grease "follower" plug is added on top of the ink column to stop drying and backflow while letting the ink slide down as it is used.
+
+**6. Barrel, cap and parts**
+- Plastic pellets (polystyrene for clear barrels, polypropylene or ABS for others) are dried, melted at roughly 200 to 250 °C and injected into multi-cavity steel molds.
+- Caps get a vent hole to meet choking-safety standards.
+- Metal pens use drawn aluminum or brass tubes that are plated, lacquered or anodized.
+- Retractable pens also need a coiled steel spring plus a molded plunger and cam.
+
+**7. Decoration**
+- Logos and text are applied by pad printing or hot foil stamping.
+
+**8. Final assembly**
+- Automated lines insert the refill into the barrel, then fit the end plug, clip and cap (or the click mechanism).
+
+**9. Testing and packaging**
+- Sample pens are run on writing machines that draw continuous lines to measure ink output, line length, skipping and blobbing.
+- Leak and cap-fit checks follow before packaging.
+
+## Wooden Graphite Pencil
+
+**1. Core ("lead")**
+- Natural or synthetic graphite is ground fine and blended with clay (kaolin or bentonite) and water.
+- The ratio sets the grade: more clay makes harder H grades and more graphite makes softer B grades. HB is roughly 70% graphite.
+- The paste is milled and kneaded until uniform, then extruded through a die into thin strands.
+- The strands are cut to length, dried and fired in a kiln at about 1,000 °C without air, which hardens the clay.
+- The fired cores are soaked in hot wax or oil for smoother writing.
+
+**2. Wood slats**
+- Incense cedar is the standard wood (basswood and jelutong are cheaper alternatives).
+- Logs are sawn into blocks, then into slats about 7.25 in long, 2.75 in wide and 0.25 in thick.
+- The slats are kiln dried, then waxed and stained so they sharpen cleanly and look uniform.
+
+**3. Grooving**
+- A machine cuts parallel half-round grooves (usually 8 or 9) into each slat.
+
+**4. Sandwiching**
+- Glue is spread on a grooved slat and the cores are laid into the grooves.
+- A second grooved slat is glued on top, creating a "sandwich."
+- Sandwiches are clamped under pressure until the glue cures.
+
+**5. Shaping**
+- Each sandwich passes through rotating cutter heads on the top and bottom.
+- The cutters shape the outside (hexagonal, round or triangular) and split it into individual pencils.
+
+**6. Finishing**
+- Pencils are sanded smooth.
+- They are pushed through coating machines that apply several layers of lacquer, drying between coats (yellow is the traditional color).
+- The ends are trimmed or dipped.
+
+**7. Ferrule and eraser**
+- Erasers are made from rubber or vinyl compounded with factice and a mild abrasive such as pumice, extruded and cut into plugs.
+- An aluminum ferrule is crimped onto the pencil end with the eraser plug locked inside.
+
+**8. Stamping**
+- The brand name and grade are hot stamped onto the barrel with metal foil.
+
+**9. Sharpening, testing and packaging**
+- Some pencils are pre-sharpened.
+- Samples are tested for core strength, breakage and how well the core is bonded to the wood.
+- Finished pencils are boxed and shipped.
+
 ## Cross-links
 
 - Inks (carbon, iron gall, print paste, blood, density): `Ink.md`
@@ -105,4 +194,5 @@ Wood charcoal alone is hard carbon that resists forming graphite. The **tar and 
 - Ned spikes / toxin: `../../../../Story/Notes/NedStatus.md`, `../../../People/Ned.md`
 - Edelgard mines: `../../Geography/Places.md`
 - Later mass product / ball pen: `../../../Ideas.md` (civilian shortlist; pencil invent is earlier personal craft)
+- Guild front and letters patent: `../../Society/GuildPatents.md`. This file still wins on feedstock. No native graphite deposit.
 - Craft metals / heat: `../Metallurgy/CraftMetal.md`

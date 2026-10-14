@@ -23,7 +23,12 @@ Labor-days method: handwritten scrolls stay **medieval dear** (`../World/Society
 | Runic Fire Arrow Common **Low** (dusty shelf) | **1.5–2 LS** | 150–200 | Vanity / low turn |
 | Runic Fire Arrow Common **High** | **10 SS** | 100 | True clear; amp-capable |
 | Runic Fire Arrow Common **Highest** | **12–15 SS** | 120–150 | Top grade |
-| Early auction High (entry) | **8–10 SS** | 80–100 | Tight after 25% fee |
+| Runic Fireball Common **Lowest** (empty) | **2.5 LS** | 250 | Empty ladder under High |
+| Runic Fireball Common **Low** (empty) | **3 LS 1 SS** | 310 | Empty ladder under High |
+| Runic Fireball Common **Intermediate** (empty) | **4 LS** | 400 | Empty ladder under High |
+| Runic Fireball Common **High** (empty) | **5 LS** | 500 | Amp-capable fair |
+| Runic Fireball Common **Highest** (empty) | **7.5 LS** | 750 | Scarcity over High |
+| Early auction High FA (entry) | **8–10 SS** | 80–100 | Tight after 25% fee |
 | Exeor settled High-only list | **10–12 SS** | 100–120 | Comfortable apprentice |
 
 **Why 3 SS Mana Arrow:** mats **14 LC** + Intermediate labor **11.5 LC** ÷ **0.85** = **30 LC**. Craft list = cast **50** (L1 pay **45**, L9 pay **5**). Source **1 SS** cannot cover mats. Shelf labor was frozen when craft felt ~**25** MP; keep coin locks until a retune.
@@ -63,9 +68,8 @@ Independent scribe income: roughly **10 High / week ~ 1 SG** gross at the locked
 
 ### Chapter contract beats (Libra / Exeor)
 
-- Roland's first Libra Fire Arrow boxes (2x5): **4L+5S** and **4L+7S** (~1 SG gross; **25%** first-timer fee).
-- Seller #64 payout (Ch 23): gross **9L+2S** -> net **6L+9S** after 25%.
-- Ongoing Fire Arrow deposits: ~10 scrolls/week ~ **1 SG**.
+- First Libra sell line is **Fireball** (comet brand). Empty ladder above. First sale **10 Highest empty**: two boxes of five @ **40 LS** each → gross **8 SG**; **25%** → net **6 SG** (fair ten ≈ **7.5 SG**; auction heat). Prefill is personal/gift only, never the sell batch.
+- After brand lands, volume pivots to **Fire Arrow** (~10/week ~ **1 SG** at High fair). Seller #64 / later FA boxes keep the Arrow income beat.
 - Ch 21 Edelgard Scribe shops: price mats so only intermediate scrolls profit for independents; academy students get softer contracts; solo acts face multi-year cursed deals (**-60% mana** on breach until term ends). Libra entry **2 SS**.
 - Ch 25 Exeor offer: exclusive sell-to-store, **15%** commission, **3 years**, workspace + cheaper mats, **-30%** mana breach curse (not instant); facilities can cover later Blacksmith needs. Merchant council of top owners meets every **3 months** (recruit upstarts, then crush holdouts).
 - Ch 26 signed: mana signature (not name); identity secret; **min price** vs auction / no undersell; status-hide **armband**; basement office free rent; basic mats supplied; min **10 common scrolls/week** (+ bonus); Fire Arrow ~1 hour with mana left for a second.

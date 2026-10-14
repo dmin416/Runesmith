@@ -11,7 +11,7 @@ Excludes Agni, Millie, Bernir, Lucille, Robert, Arthur skills and traits.
 2. Mana Sense – Ch 2 – boy’s original (Intelligence +level, Willpower +level; L1 at transfer)
 3. Diagnosis – Ch 2 – previous life – Intelligence +8 at L8
 4. Technology – Ch 2 – previous life (Source: Circuitry) – Dexterity +7, Intelligence +7 at L7; Ch 4 clock: conceptual / understanding
-5. Sleep Resistance – Ch 2 – previous life; **Vitality +level**, **Endurance +level** (L4 at transfer → Vit **+4** / End **+4**; Ch 12 → **L5**; Ch 19 train ignored-sleep uses → **L6**; Ch 23 → **L7**)
+5. Sleep Resistance – Ch 2 – previous life; **Vitality +level**, **Endurance +level** (L4 at transfer → Vit **+4** / End **+4**; Ch 12 → **L5**; Ch 19 train ignored-sleep uses → **L6**; Ch 21.5 desk → **L7**)
 6. Fabrication – Ch 2 – previous life – Dexterity +8 at L8; Ch 4 clock: physical / mechanical
 7. Cooking – Ch 2 – previous life – Dexterity +3, Agility +3 at L3
 8. Marksmanship – Ch 2 – previous life – Dexterity +7 at L7 (`Progression.md` firearms track); stays **L7** through Ch 9.5–10 (L8 needs **100,000**; named on-page Ch 10); Ch 13 → **L9**
@@ -68,7 +68,7 @@ Age-10 technique targets: see `Progression.md` / Ch 7 note in `Skills.md`. Chapt
 37d2. Suffocation Resistance – Ch 19 – grill-peak holds (**15 s = 1 use**) + blood volume (drip / Ned nicks; **~50 mL ≈ 1 use**); unlock **L1 → L5**; **no** Breath Control on train; Vit/End +level
 37e. Multitasking – Ch 12 cook **L1**; Ch 19 dual drills daily → **L5**; **Intelligence +1**, **Dexterity +1** per level
 37f. Train mana foundations – Ch 19 (both every day): Shaping **L7**, Regulation **L8**, Heat **L6**; Hands / Absorption / Reinforcement / Sense / Incantation stay **L9**; Recovery **L5**; Poison **L6** (one poison track); Basic Throwing stays **L9**; Suffocation **L5** (no Breath Control). Full math: `Skills.md` Ch 19.
-38. Sleep Resistance – Ch 12 – climbs **L4 → L5**; Ch 19 train – lives on L5 need (**4.0 h** of **T0 = 8 h**); ignored **4.0 h**/day → ~**6,720** uses → **L6** (**Vitality +1**, **Endurance +1**); Ch 23 half-year → **L7**
+38. Sleep Resistance – Ch 12 – climbs **L4 → L5**; Ch 19 train – lives on L5 need (**4.0 h** of **T0 = 8 h**); ignored **4.0 h**/day → ~**6,720** uses → **L6** (**Vitality +1**, **Endurance +1**); Ch 21.5 four-month desk → **L7**
 39. Poison Resistance – Ch 12 – Needle Worm blood / needle crunch; popup ignored; **L1**; daily Ned toxin seasoning through Ch 13–19 (~187 days) → **L6**; Ch 19 train tip-pricks stay **L6**; **Vitality +1**, **Endurance +1** per level
 39a. Recovery – estate unlock (notes); leave **L3**; Ch 9.5 field knits → **L4**; Ch 13 Ned poke + 150 mL → **L5**; Ch 19 grill stays **L5**; small-wound close time **−10%/level**; **Vitality +1**, **Endurance +1** per level; evolve → Rapid Recovery
 39b. Blunt Resistance – estate → leave **L4**; Ch 9.5 clubs/bashes → **L5**; Vit/End +level

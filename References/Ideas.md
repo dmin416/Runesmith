@@ -38,7 +38,7 @@ Rewrite directions for this project. Source is loot, not a script. Reader stop p
 
 - **Rails to keep:** Diagnosis + runecraft, tier/dungeon milestones (shortened and paid), a base to bank power, escalating pressure (nobles, cult, church, school).
 - **Economy:** contracts, patents, sales, commissions. Profit early is allowed. Conflict then comes from politics and identity, not poverty.
-- **Future products (Earth tech import):** mana-stone lamps, **printing**, pins/pens/matches/soap/toilet paper, **bicycle**, steel process and other civilian tech Caldris lacks. Shortlist + print pathway below. Patents and guild heat follow. Keep personal kit upgrades tied to the same breakthroughs. Era baseline: `World/Tech/Technology.md`.
+- **Future products (Earth tech import):** mana-stone lamps, **printing**, pins/pens/matches/soap/toilet paper, **bicycle**, steel process and other civilian tech Caldris lacks. Shortlist + print pathway below. Patents and guild heat: `World/Society/GuildPatents.md`. Keep personal kit upgrades tied to the same breakthroughs. Era baseline: `World/Tech/Technology.md`.
 - **Progression split:** early = build the machine (kit, prices, XP routes). Then = conflict that spends that machine.
 - **Personal power:** every major workshop breakthrough should also upgrade his ranged kit / armor OS so levels and golems do not diverge for years.
 - **Gamer-manga skills:** skills must do something you feel in play. No paper bonuses that never change a fight, craft or plan. If a skill is on the sheet, it either unlocks a real option, changes a hard limit or stacks into a build the reader can track.

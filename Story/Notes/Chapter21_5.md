@@ -1,10 +1,10 @@
 # Chapter 21.5 — Desk Grind Notes
 
-Rewrite-only timeskip (~**half a year** / **6 months**). Source folds mid/late into Ch 22 open.
+Rewrite-only timeskip (~**4 months**). Source folds mid/late into Ch 22 open.
 
 **Canon homes:** this file is the working beat / experiment lock for the skip. Sheet exits also live in `Skills.md` / `Experience.md` / `Items.md` / `Status.md` / `Notes.md` / `Timeline.md`. Shape / rune law mirrors: `References/Runes/RuneCauseEffect.md`, `References/Combat/BasicSpellShapes.md`, `References/Runes/MagicScrollMaking.md`.
 
-**Opening prose** is author-written in `Story/Chapters/19-30.md` (chapter wins). Mid-skip until more prose lands is Notes + Ch 22 lookback.
+**Opening and skip-exit prose** is author-written in `Story/Chapters/19-30.md` (chapter wins). Mid-skip month grind still Notes until more prose lands.
 
 ---
 
@@ -13,8 +13,8 @@ Rewrite-only timeskip (~**half a year** / **6 months**). Source folds mid/late i
 | | |
 |---|---|
 | Enter age | **11 and 0 months** / **6 years** in-world (end Ch 21) |
-| Exit age | **11 and 6 months** / **6 years 6 months** |
-| Enter skills (desk) | Rune Scribing **L1**, Mana Scribing **L1**, Rune Mastery **L1**, Drawing plain **L1**, Mana Hands **L9**, Multitasking **L5** |
+| Exit age | **11 and 4 months** / **6 years 4 months** |
+| Enter skills (desk) | Rune Scribing **L1**, Mana Scribing **L1**, Rune Mastery **L1**, Drawing plain **L1**, Mana Hands **L9**, Multitasking **L5**, Technology **L7** |
 | Enter wallet | **~21,448 LC** (before day-1 samples) |
 | Carrying | Steel card, detonation rapier, **Ned**, map, three Highest lesser schematics, blanks/ink, Singing Crow |
 
@@ -33,9 +33,10 @@ Rewrite-only timeskip (~**half a year** / **6 months**). Source folds mid/late i
 
 ## Process / temperament
 
-- Desk work **is** skill gain. He levels **everything that can tick** while making scrolls (Rune Scribing, Drawing, Multitasking, Hands uses, understanding, Sleep Resistance on short nights, class XP on pours, etc.). Not a single-skill tunnel.
+- Desk work **is** skill gain. He levels **everything that can tick** while making scrolls (Rune Scribing, Drawing, Multitasking, Hands uses, understanding, **Technology** on every rune and desk-tech observe, Sleep Resistance on short nights, class XP on pours, etc.). Not a single-skill tunnel.
 - **~10× mind** (`FocusCapacity.md`) plus high Willpower. Will of ten men feel. Not a sensitive wreck under ink and fails. Grind hard without constant bitching (Roland rewrite).
 - Hands ink methods: **pen** (bead draw) and **press** (relief matrix → contact). Both available; press does not skip seating quality. See `References/Progression/ManaHands.md`.
+- **Hands × Multitasking:** concurrent Mana Hands ≈ Multitasking L (floor 2). Hands **uses** scale with how many Hands are active. Shaping / Regulation stay more linear (seat/pulse), not × Hands. Year ledger: `Chapter21_5DaySkillYear.md`.
 
 ### Hunger, mana, and stamina pours
 
@@ -43,6 +44,7 @@ Rewrite-only timeskip (~**half a year** / **6 months**). Source folds mid/late i
 - He **can still make himself hungry**: burn body fuel until the need is real (desk hours, burn/freeze patch, blood for ink, **stamina pours** into scrolls).
 - **Mana** for desk work is not the same kind of bill. Ambient mana fills him from around him. Draining mana stones to crumbly powder for homemade magic ink is also outside his gut; the stone's stored mana is feedstock, not his dinner.
 - **Runic scrolls can be filled with stamina** as well as mana (`MagicScrollMaking.md`: absorbing runes; non-mages already pay SP). He can preload / pour with SP when he wants.
+- **Prefill when full (skip lock):** sell-line Fireballs stay **empty absorbing** (buyer pays activation). When his **MP** or **SP** bar is full he may dump overflow into a **preloaded** charge on **personal keep** or **gift** scrolls only (`ScrollEconomy.md`: store tax **1.31 ×** activation). Never on the comet sell batch.
 - SP **refills quickly**, but each stamina pour **uses up nutrients**. Fast SP regen does not erase the food debt. One-meal days plus stamina-heavy pour stretches force heavier evening eats or he goes lightheaded.
 - **Burning thousands of kcal with little or no food is starvation.** That unlocks and levels **Hunger Resistance** (`MultiMechanismResistance.md`: **1%** of that day's energy out unmet by food = **1** use; full fast day = **100**). The SP loop is a starve engine, not a dead grind.
 - **Starve also feeds Pain Resistance.** Hollow gut, headache, and body ache from unmet calories are real pain doses. Meter: **15 min** of felt starve-ache under deficit = **1** Pain use. Soft-repeat after the first ~**2 h** of a continuous stretch the same day (same ache family). Burn/freeze patch stays the sharp Pain climb; hunger is the background grind.
@@ -78,20 +80,23 @@ Floor assumes store pull ≈ rune joules restored (energy left the body into the
 
 He still cannot flip appetite on. Running near this ceiling **makes** hunger: glycogen empties, then fat pull + lightheaded / one-meal catch-up.
 
-**Desk craft vs physiology max.** Ordinary FA pours (~**10–20**/day at list **50**) are only hundreds of SP/day if paid in stamina. That is **≪** the **12.6 SP/s** refill cap. To starve on purpose he must **keep** spending SP (practice pours, preloads, failed seats, deliberate SP dumps into hide patches / scrap scrolls) so the bar stays in refill, not only the few auction keepers.
+**Desk craft vs physiology max.** Ordinary Arrow pours (~**65–70**/day at list **50**) are only thousands of SP/day if paid in stamina. That is still **≪** the **12.6 SP/s** refill cap. To starve on purpose he must **keep** spending SP (practice pours, preloads, failed seats, deliberate SP dumps into hide patches / scrap scrolls) so the bar stays in refill, not only the sell-batch keepers.
 
-**Hunger Resistance (skip lock):** Unlocks on the first real starve stretch (SP burn / one-meal / skip lunch with stores pulling). Meter: unmet % of that day's burn. Worked band for this desk: one meal (~**800 kcal**) against ~**2,700–4,700 kcal** out → ~**70–85** uses/day. Over ~**180** days ≈ **~13k–15k** uses → exit **L6** (clears **5,000**; short of **L7** at **20,000**). Zero-food hard-loop days pay **100**/day and accelerate. Vit/End **+1** per level.
+**Hunger Resistance (skip lock):** Unlocks on the first real starve stretch (SP burn / one-meal / skip lunch with stores pulling). Meter: unmet % of that day's burn. Worked band for this desk: one meal (~**800 kcal**) against ~**2,700–4,700 kcal** out → ~**70–85** uses/day. Over ~**120** days ≈ **~9k–10k** uses → exit **L6** (clears **5,000**; short of **L7** at **20,000**). Zero-food hard-loop days pay **100**/day and accelerate. Vit/End **+1** per level.
 
-**Pain from starve (skip lock):** Enter Pain **L5** (train). Starve-ache ~**8–20** clean Pain uses/day after soft-repeat (first ~**2 h** dense, then thin). Half year ≈ **~1.5k–3.6k** Hunger-side Pain uses, plus burn/freeze patch cycles. Patch + hunger together clear **L6** (**5,000** cum); **L7** (**20,000**) only if patch grind is hard every day. Exit Pain **at least L6**; **L7** soft if he runs both hard.
+**Pain from starve (skip lock):** Enter Pain **L5** (train). Starve-ache ~**8–20** clean Pain uses/day after soft-repeat (first ~**2 h** dense, then thin). Four months ≈ **~1k–2.4k** Hunger-side Pain uses, plus burn/freeze patch cycles. Patch + hunger together clear **L6** (**5,000** cum); **L7** (**20,000**) only if patch grind is hard every day. Exit Pain **at least L6**; **L7** soft if he runs both hard.
 
 ---
 
 ## Homemade ink + Fire Orb first
 
 - Brews own ink from **his and Ned's blood + powdered goblin cores** (his stone-bank stock). Not Trox / butcher blood; Trox stays shop-cheap beast blood only (`BloodNotes.md`). Rough hide hosts.
-- **Powdering a magic stone / goblin core (two ways he finds):** intact stones are normally extremely robust and durable.
-  1. **Drain:** suck out all the mana held in the stone → it becomes **crumbly** and can be powdered.
-  2. **Overload:** dump a whole lot of mana into it → also breaks, but **extremely violent, noisy, and hard to collect** the pieces. Drain is the practical path for ink.
+- **Powdering a magic stone / goblin core:** intact stones are normally extremely robust and durable. Even when they will break, grinding them is **really hard**, like trying to powder a **Jolly Rancher** (hard candy).
+  - **Moist / sugar-like / mana-rich air:** powder and fresh chips **stick** (clump, smear, cling to tools and each other). Bad for clean ink stock.
+  - **Mana-voided space + vacuum:** much **easier** to powder and keep the grit free (no mana-rich moist air to glue it).
+  - **Two break paths he finds:**
+    1. **Drain:** suck out all the mana held in the stone → it becomes **crumbly** and can be powdered (still hard-candy work unless void/vacuum helps).
+    2. **Overload:** dump a whole lot of mana into it → also breaks, but **extremely violent, noisy, and hard to collect** the pieces. Drain is the practical path for ink.
 - Same pour-cost band as shop/trial work; **clearly higher seating quality** than Ch 16 trial success / Ch 21 red practice (~**75** MP practice was waste; designed Orb cast **25**).
 - **Perfects Fire Orb quickly** to the same working level shown in the class test (functional seating, clean enough to match that trial outcome) even on rough hide + homemade ink. Fast, not a month wall.
 - **Immediately after** that Fire Orb lock he isolates segments **basically instantly**: **water** from the **Aqua Ball** sample, **light** from the **Orb of Light** sample. No long research beat.
@@ -102,14 +107,26 @@ He still cannot flip appetite on. Running near this ceiling **makes** hunger: gl
 - Summons the **smallest Fire Orb** he can make, fills it with mana, sticks the patch on his **leg** (coin-sized sustained burn).
 - Full burn / freeze leveling law (with and without potions, numbness stall, Pain / Sleep hooks): `ResistanceGrindBurnFreeze.md`.
 
-### Ned leg jabs (desk)
+### Ned desk grind (own levels + D's leg)
 
-- **Ned** jabs into D's leg on the desk grind (same limb as the burn/freeze patch). Each intentional jab can credit:
-  - **Blunt Resistance** — plate / chin / body bash of the strike landing
-  - **Sharp Resistance** — needle **pierce** (Sharp = pierce + slash)
-  - **Poison Resistance** — Needle Worm toxin on the tip (same family; soft repeat after daily doses)
-  - **Pain Resistance** — the jab hurt itself (stack with patch sting and starve-ache)
-- He keeps jabs shallow on purpose. Soft-repeat rules apply once the same day's toxin / bruise / pierce family has already paid. Blood from pierces still feeds Suffocation volume if open bleed is survived (`MultiMechanismResistance.md`).
+**On D (shared limb with burn/freeze patch):** shallow intentional jabs. Credits for **D:** Blunt Res (landing bash), Sharp Res (pierce), Poison Res (Needle Worm toxin; soft-repeat), Pain Res. Blood can feed Suffocation volume if survived. Soft-repeat once that day's toxin / bruise / pierce family has paid.
+
+**Ned's own desk drills** (full ranks in `Chapter21_5DaySkillYear.md` / `NedStatus.md`):
+
+**Every night since tame** (**~200** nights, Ch 12 → desk enter): **every skill Ned can** gets a camp/inn night band, then harder at the Crow desk. Enter already Moon / Tail / Horn / Blunt / Sharp / Silk / Seal / **Recovery** / Pain / Heat / Cold **L6**, Spike / Climb **L7**, Stealth **L8**, Formation / Absorb / Acid Production / Acid Spray **L5**. **Ned Recovery** = blood-meal / tip-cycle restore (alongside Formation tip-bed regrow; Seal stays wound knit).
+
+**Camouflage always-on** since tame (scarf blend + hide whenever possible). Desk days keep paying a soft-repeat always-on band (~**72** uses/day).
+
+| Drill | Ned skills |
+|---|---|
+| **Moon curl** — coil into a moon shape, hold, uncoil | MoonCurl body control; light Pain |
+| **Tail bash** into own plates / floor | TailBash (blunt attack), Blunt Res, Pain, Seal |
+| **Horn / spike clash** into own plates or each other | HornPierce (pierce attack), Sharp Res, SpikeThrowing (light), Pain, Seal |
+| Jabs into D | SpikeThrowing, Poison Res (own toxin soft-repeat) |
+| Silk for D's clothes | Silk Production |
+| **Camouflage always-on** + Climb while D desks | Stealth / Camouflage, Climbing |
+| Light Spring (room-limited) | Spring Charge (low volume) |
+| Near D's burn/freeze patch | Heat Res, Cold Res |
 
 ---
 
@@ -178,34 +195,45 @@ He still cannot flip appetite on. Running near this ceiling **makes** hunger: gl
 
 ---
 
-## Then Common Fire Arrow track
+## Then keep / brand track
 
-- Perfect schematics this skip (first Highest each; `Experience.md`): prior packet **+13,000** plus Fire/Water/Light Bolt **+1000** each, Aqua Orb **+1000**, Light arrow **+2000**, Lesser Fire/Water/Light Detonation **+1000** each → **+22,000** total. Detonation / Impact / Fire Orb already paid earlier.
+- Perfect schematics this skip (first Highest each; `Experience.md`): prior packet **+13,000** plus Fire/Water/Light Bolt **+1000** each, Aqua Orb **+1000**, Light arrow **+2000**, Lesser Fire/Water/Light Detonation **+1000** each, plus **pure mana** Mana Arrow **+2000** / Mana Orb **+1000** / Mana Ball **+2000** (Mana Bolt **+1000** already in the old packet) → **+27,000** total. Detonation / Impact / Fire Orb already paid earlier.
 - **Burns all paper schematics** during the skip because they take up space. Knowledge kept; redraw from memory.
-- **Month 1:** fails → first Common FA at **Lowest** ~full month after the FA push starts. Hands-as-pen + stamp press already in the chapter drill.
-- **Months 2–6:** High/Highest comet brand; refuse Low; robe/mask servant cover; mats burn to **last 1 SS**. Sleep Resistance **+1**.
-- **Exit into Ch 22:** ten Common Fire Arrows (**8 High + 2 Highest**); seller plaque; bloodshot; **no** schematic sheets in the bag.
+- **Seating already known:** trial Fire Orb took **~3** tries to Highest; first night in town **~2–3** tries to a working scroll. Into this skip, **every try finishes** — only quality rank moves (Lowest → … → Highest).
+- **Sibling forms** (Bolt, Ball, other converters on known shapes): climb **fast and linear** (circle→square). At most a rare second Diagnosis remake on a brand-new swap; never a month of fails. Fireball / Mana Arrow / Light Ball stay easy swaps.
+- **Months 2–4 production mix:** a **few** Light Ball keepers; **mainly Mana Arrow** High/Highest to **keep**; **Fireball** Highest under the **red comet** (or whatever brand plaque) to **sell** (empty). Prefill only personal keep / gifts when MP/SP is full. Robe/mask servant cover; mats burn to **last 1 SS**. Sleep Resistance **+1**. Technology **L7→L8**.
+- **Skip exit:** ten branded Fireballs (all **Highest**, **empty**); personal Mana Arrow keep stock (**~20** preloaded among the pile); a few Light Balls (**~6** preloaded); seller plaque; bloodshot; **no** schematic sheets in the bag.
 
 ---
 
 ## Skills / class (exit locks)
 
-Chapter locks (Ch 22 lookback / Ch 23 sheet talk): **Rune Scribing L5**, understanding **L2**, Sleep **+1**. Other ranks from the cum-use curve below.
+Retuned under **quality-only seating** (post trial / first night) + quality × (1/2/4/8/16) + Hands×MT. Old **RS L5** lookback and invented FA fail-wall superseded. Ledger: `Chapter21_5DaySkillYear.md`.
 
-| Track | Exit |
+### Success model (fixed)
+
+| Stage | Success | Leveling |
+|---|---|---|
+| Trial / first night (already done) | **~2–3** tries to working / Highest-path | Seating learned |
+| This skip (all patterns) | **Every try finishes** a scroll | **Only quality**: Lowest ×**1** → Low ×**2** → Int ×**4** → High ×**8** → Highest ×**16** |
+| Sibling forms / new swaps | Fast linear (circle→square) | Rare 2nd Diagnosis remake at most; then quality only |
+
+**Quality ×** = Rune Scribing / Drawing / Diagnosis / craft XP on the finished seat. **Not** on Mana Hands mass×time (Hands scale with Multitasking concurrent count only). Shaping / Regulation stay linear.
+
+| Track | Exit (~120 days / 4 months) |
 |---|---|
-| Basic Rune Scribing | **L5** (chapter; biggest climb) |
-| Understanding of runic scroll making | **L2** (chapter) |
-| Basic Rune Mastery | slight at desk; **L3** by Ch 23 combat grimoire |
-| Basic Mana Scribing | **L1** soft; **L2** by Ch 23 |
-| Drawing | **L5** (same clean line seats as RS) |
-| Mana Hands | **L9** (evolve bar moves; no evolve) |
-| Multitasking | **L6** (dual quill + Hands all desk day) |
-| Basic Mana Shaping | stays **L7** (bar into L8; need **100k** cum for L8) |
-| Basic Mana Regulation | stays **L8** (tip-sip pulses; soft toward L9) |
-| Sleep Resistance | **L6 → L7** (short nights; chapter +1) |
-| Hunger / Pain / Ned tracks | as resistance rows below |
-| Class | Runic Mana Scribe **a few levels**; schematics **+22,000** + pour XP (`Experience.md`) |
+| Basic Rune Scribing | **L8** (seat-time volume; L7 ~month 2, L8 by exit; cum ~**100k–110k**; short of L9) |
+| Drawing | **L8** (tracks RS) |
+| Understanding of runic scroll making | **L3** |
+| Multitasking | **L7** |
+| Mana Hands | **L9** (cum ~**0.8M**; no evolve; ledger) |
+| Basic Mana Shaping | **L7** (linear; short of L8) |
+| Basic Mana Regulation | **L8** |
+| Basic Mana Scribing | **L1** soft (**L2** Ch 23) |
+| Basic Rune Mastery | slight (**L3** Ch 23 combat) |
+| Sleep Resistance | **L6 → L7** printed (+1); raw meter overshoots if unsoftened |
+| Hunger / Pain / Technology / Ned | Hunger **L6**; Pain **L6**; Technology **L7→L8** (every rune/tech observe); Ned night pack |
+| Class | schematics **+27,000** + pour × quality; soft toward Ch 23 **L35** / Scribe **L10** |
 
 ### How the skill bar builds (read this)
 
@@ -224,33 +252,65 @@ Chapter locks (Ch 22 lookback / Ch 23 sheet talk): **Rune Scribing L5**, underst
 | L9 | **500,000** | +400,000 |
 | Evolve | **2,000,000** | +1,500,000 |
 
-Technique clean-rate ~**40–70%** of raw attempts (worse early, better late). **Already at a rank:** only uses past that cum count toward the next. Peak desk work accelerates feel; it does not skip the table.
+Technique clean-rate: **~1.0** this skip (seating already known). **Only quality** moves. **Already at a rank:** only uses past that cum count toward the next.
 
-**Why RS stops at L5:** L6 needs **5,000** clean. Peak seats count heavier, so the **1,000** for L5 arrives with fewer lazy equal-weight reps, but Common FA still demands a real fail month. Phased raw attempts ~**4,450**; clean+peak-weighted clears **L5** and stays short of **L6** (**5,000**). Chapter L5 matches. Late hide cost drops (cut-to-size); time and Diagnosis, not A5 price, stay the brake.
+**Quality × skill credit (locked):** Lowest **1** · Low **2** · Intermediate **4** · High **8** · Highest **16** (`SkillRanks.md`).
 
-### Daily skill climb (~180 desk days)
+**Quality-only:** no fail wall this skip. **Form transfer:** kit siblings are fast/linear (`MagicScrollMaking.md`).
 
-| Track | Enter → exit | Clean math | Notes |
-|---|---|---|---|
-| Basic Rune Scribing | L1 → **L5** | ~**1.5k–2.7k** cum (phased **~4**/day discovery, **~6** FA wall, **~10–12** brand) | Chapter **L5**. Bar ~**30–50%** into the **+4,000** toward L6 |
-| Understanding | L1 → **L2** | **10** early | Chapter **L2**. Further Common familiarity soft toward L3 (**50**) |
-| Drawing | L1 → **L5** | tracks RS clean line seats | Same Diagnosis-correct seats; exit **L5** |
-| Multitasking | L5 → **L6** | enter ≥**1,000**; +~**25–30**/day dual desk (**quill + Hands** concurrent) → **~5.5k–6.5k** cum | Clears **L6**. Short of L7 (**20k**) |
-| Mana Hands | L9 → **L9** | scribe band ~**6** uses/finished rune × ~**10–15** actions/day ≈ **~60–90**/day, denser when Hands-as-pen holds longer → order **~10k–30k**/half-year | Evolve needs **2M**. Half-year pads the Hand bar (~**1–3%** of evolve if light; up to ~**tens of %** of the **1.5M** remaining if Hands-as-pen is long attended). No evolve |
-| Basic Mana Shaping | **L7** → **L7** | +thousands of ink-shape seats; need **+80k** for L8 | Bar moves; rank stays **L7** |
-| Basic Mana Regulation | **L8** → **L8** | tip-sip all desk day; need **+400k** for L9 | Soft progress; rank stays **L8** unless pulse count is hunt-dense |
-| Basic Mana Scribing | L1 → L1 | rare word | **L2** in Ch 23 |
-| Basic Rune Mastery | L1 → slight | desk almost **0**; combat later | **L3** Ch 23 grimoire |
-| Sleep Resistance | L6 → **L7** | ignored sleep hours / **15 s** meter | Chapter +1 |
-| Class / overall | L26 + schematics | **+22,000** schematic + pour cast XP | Soft mid ranks toward Ch 23 **L35** / Scribe **L10** |
-
-**Rhythm:** inn desk most days; buy mats as coin allows; Fire Orb when Common fails stack; no shop contract; no dungeon main. Adventure motive stays (auction freedom vs six-year desk curse), not greed-first.
+**Rhythm:** inn desk most days; buy mats as coin allows; Fire Orb keep-alives when bored of Arrow remakes; no shop contract; no dungeon main. Adventure motive stays (sell-batch freedom vs six-year desk curse), not greed-first.
 
 ---
 
-## Day clock + half-year budget (soft estimate)
+## Seat time (locked math)
 
-All numbers below are **working estimates** pinned to locked exits (wallet **21,048 → 10 LC**, RS **L1→L5**, ~**180** desk days, FA cast **50** / Orb **25**, A5 wholesale **4 LC**, Crow room **14 LC**/night). Exact day-by-day ledger still soft.
+One finished scroll = **draw** + **fill**. Do not invent daily counts by spreading keepers across the four months.
+
+```
+paid = (cast / η) × S          // S = 1 − 0.1 × Rune_Scribing_L
+fill_min = paid / tip_sip      // tip-sip ≈ 21.1 MP/min clothed near ~99%
+wall_min ≈ draw_min + fill_min
+```
+
+| Lever | Lock |
+|---|---|
+| Tip-sip | **~21.1 MP/min** clothed; spendable **~12,650 MP / 10 h** |
+| Known schematic draw | **seconds–minutes** (first assembly was the slow part) |
+| Fluent Arrow draw (soft) | **~5 min** ink (pen/press) |
+| Fluent Ball draw (soft) | **~15 min** ink (bigger footprint) |
+| Highest η | **1.00** → pay = cast × S |
+| High η | **0.80** → pay = (cast / 0.80) × S |
+
+### Highest wall clock (fluent, tip-sip fill)
+
+| RS L | S | Mana Arrow pay / wall | Fireball (or Light Ball) pay / wall |
+|---:|---:|---|---|
+| **4** | 0.6 | **30** MP / **~6.4 min** | **240** MP / **~26 min** |
+| **5** | 0.5 | **25** / **~6.2 min** | **200** / **~25 min** |
+| **6** | 0.4 | **20** / **~5.9 min** | **160** / **~23 min** |
+| **7** | 0.3 | **15** / **~5.7 min** | **120** / **~21 min** |
+
+**Read:** draw dominates Arrow seats; Ball fill is the long pour. At mid ranks a **10 h** tip-sip desk can spend only **~3k MP/day** under a MA-heavy mix — far under the **12.6k** MP ceiling. **Hide / ink / blood**, not pool size, set the brake.
+
+### Phase C desk mix (months 2–4, soft)
+
+Time share of pour desk (**~10 h**/day tip-sip capable): **~70% Mana Arrow keep** · **~25% Fireball sell** · **~5% Light Ball** (few).
+
+| At RS **L8** (late brand / exit) | Per day | Over **~85** brand days |
+|---|---:|---:|
+| Mana Arrow High/Highest | **~76** | **~6,500** |
+| Fireball High/Highest | **~8** | **~665** |
+| Light Ball High/Highest | **~2** | **~135** |
+| **Clean seats / day** | **~85** | |
+| **MP / day** (mix) | **~1.7–3.2k** | under tip-sip cap; falls as S drops |
+
+RS weighted (mostly Highest ×**16**) clears **L7** in ~**3 weeks** of Phase C and **L8** by day **~117**. Technology tracks the same desk (**L7→L8**).
+
+---
+
+## Day clock + 4-month budget (soft estimate)
+
+All numbers below follow the seat-time table. Pinned exits: wallet **21,048 → 10 LC**, RS **L1→L8**, Technology **L7→L8**, ~**120** desk days, Arrow cast **50** / Ball **400** / Orb **25**, A5 wholesale **4 LC**, Crow room **14 LC**/night. Exact day-by-day ledger still soft.
 
 ### Inscription footprint (hide sizing)
 
@@ -269,87 +329,87 @@ At **1 mana/cm²** (no compression), footprint = mana. The sheet only has to hol
 
 ### Peak skill vs hide burn
 
-Peak desk seats (Diagnosis-correct, hard Common work) **count heavier** toward the RS cum bar (`SkillRanks.md` peak-use). He still burns a bloody FA wall month on volume, but brand-phase remakes drop hard. Net: **L5** on fewer calendar fails than a lazy equal-weight count, while hide spend shifts from “full A5 every try” to “cut to need.”
+Waste is **quality remakes** (Lowest→Highest) and refuse-below-High, not fail cascades. Quality × (High **8** / Highest **16**) plus seat-time volume pulls RS to **L8**. Hide spend is cut-to-need quality pulls.
 
-### Half-year hide buy (locked estimate)
+### 4-month hide buy (from seat-time volume)
 
-| Phase | Days | Raw attempts | Hide habit | A5-eq sheets | Hide LC |
-|---|---:|---:|---|---:|---:|
-| **A. Discovery** | **~14** | **~110** (mostly Orb/Bolt **25**) | Full A5; cascade waste **~30–35%** | **~150** | **~600** |
-| **B. FA wall** | **~30** | **~540** (mostly FA **50**) | Still full A5; fail cascades **~45–50%** | **~810** | **~3,200** |
-| **C. Brand** | **~136** | **~3,800** (FA heavy; some Orb/Bolt; rare Ball **400** / tip **125**) | Cut to footprint; compress **~×2**; remake waste **~5–10%** | **~420** | **~1,700** |
-| **Total** | **~180** | **~4,450** | | **~1,380** (+**~10%** nesting → **~1,500** bought) | **~5,500** |
+Compress **~×2** cut-to-footprint after Phase B. Arrow ~**0.32 LC**/ea; Ball ~**2.6 LC**/ea.
 
-Brand FA effective cost ~**0.3 LC**/attempt vs wall **4–6 LC**/attempt (full sheet + waste). That is why late volume can rise without eating the whole purse in hides alone.
+| Phase | Days | Seats (soft) | Hide habit | Hide LC |
+|---|---:|---|---|---:|
+| **A. Discovery** | **~14** | **~120** (Orb/Bolt **25**) | Full A5 scraps; quality remakes | **~500** |
+| **B. Quality climb + early stock** | **~21** | seat-time Arrow/Ball (quality only) | Cut + compress; remake waste **~5–10%** | **~850** |
+| **C. Keep / sell mix** | **~85** | **~6,500** MA + **~665** Fireball + **~135** Light Ball | Cut + compress; remake waste **~5–10%** | **~2,950** |
+| **Total** | **~120** | | | **~4,300** |
 
-### Half-year money envelope
+### 4-month money envelope
 
 | | LC |
 |---|---:|
 | After day-1 samples | **21,048** |
 | Exit cash | **10** (1 SS) |
-| **Burned over ~180 days** | **~21,038** |
-| **Avg spend / day** | **~117** |
+| **Burned over ~120 days** | **~21,038** |
+| **Avg spend / day** | **~175** |
 
-| Sink over half year | LC | Notes |
+| Sink over 4 months | LC | Notes |
 |---|---:|---|
-| Singing Crow room | **~2,520** | **14** × **180** |
-| Food (thin / binge) | **~2,000–2,500** | Often skipped |
-| **Hide blanks (above)** | **~5,500** | Dominant mat cash; falls hard after size discipline |
+| Singing Crow room | **~1,680** | **14** × **120** |
+| Food (thin / binge) | **~1,300–1,700** | Often skipped |
+| **Hide blanks (above)** | **~4,300** | Quality-only; cut + compress (old fail-wall **~8.5k** scrapped) |
 | Homemade ink | **~0 cash** | Cores + blood |
-| Potions / robe-mask / tools / misc / bad buys | **~10,000–11,000** | Headroom after room+food+hide; still not potion-spam days |
+| Potions / robe-mask / tools / misc / bad buys | **~13,300–13,800** | Headroom after room+food+hide → still burns to **1 SS** |
 
-**Saved vs shop ink every pour:** shop ink **~10 LC**/scroll is avoided; cost is core bank + blood. **Saved vs forever-full-A5:** without cut-to-size, brand alone at **~28**/day × **136** × **4 LC** ≈ **~15k LC** hides; size discipline cuts that brand slice to **~1.7k**.
+**Saved vs shop ink every pour:** shop ink **~10 LC**/scroll avoided. Full-A5 forever on Phase C volume would blow the wallet; cut-to-need is mandatory.
 
 **Not sustainable:** dozens of healing-potion splashes/day (`ResistanceGrindBurnFreeze.md`). Budget allows **0–2** low-grade splashes on bad days, or mostly **no-potion** scar-rotate. Sleep Resistance climb rides short sleep more than potion cycles.
 
-### Phases (time share of the half year)
+### Phases (time share of the 4 months)
 
 | Phase | Calendar | Desk focus | Keepers |
 |---|---|---|---|
-| **A. Discovery** | ~**first 1–2 weeks** | Ink brew, powder methods, Fire Orb lock, water/light isolate, shape kit, Mana Bolt, Fireball / water arrow / light ball, hide burn patch, freeze-flip fail | Experiment scraps; few sale pieces |
-| **B. FA wall** | ~**month 1** after FA push | Common FA fails → first **Lowest** | Mostly trash / Lowest refuse |
-| **C. Brand climb** | **months 2–6** | High/Highest only; comet; servant cover; mats to **1 SS** | Stockpile toward auction **10**; refuse Low |
+| **A. Discovery** | ~**first 1–2 weeks** | Ink brew, powder, Fire Orb lock, water/light, shape kit, first Mana Bolt / Fireball / Light Ball seats, hide burn patch | Experiment scraps |
+| **B. Quality climb** | ~**month 1** back half | FA + siblings → first Highest each; early stock; quality only | Working seats every try |
+| **C. Keep / sell** | **months 2–4** | **~70%** Mana Arrow keep · **~25%** Fireball comet sell · **~5%** Light Ball; servant cover; mats to **1 SS** | Exit Fireball batch **10 Highest** empty; MA keep pile; few Light Balls |
 
 ### Timed day — Phase C typical (months 3–4)
 
-Soft clock. He does not keep a tidy schedule; this is what a full day *contains*.
+Soft clock. Seat counts from wall-clock math, not keeper averaging.
 
 | Clock | Block | What |
 |---|---|---|
-| **05:00–05:30** | Body | Wake from short sleep (or never fully out). Check hide Fire Orb patch on leg; rotate site if numb; rare potion splash if wound too deep. |
-| **05:30–06:30** | Ink / mats | Drain goblin cores from stock to crumbly → powder. Mix **his + Ned's blood** ink batch for the day. Ned silk background if needed. |
-| **06:30–11:30** | Desk 1 (~5 h) | FA pen or press attempts. Diagnosis on reds. Multitasking Hands + quill. Burn patch stays on. |
-| **11:30–12:00** | MP dip | Short still sit; Regulation tops pool. Or push through on SP edge (rare). |
-| **12:00–12:30** | Needs (often skipped) | Force one plate / bread / meat when lightheaded; many days **ignored** until evening. |
-| **12:30–17:30** | Desk 2 (~5 h) | More FA; occasional Fire Orb keep-alive when FA fails stack; rare Bolt / Fireball practice seat. |
-| **17:30–18:30** | Errand | Mat buy (hides / paper). Not every day — every **2–3** days bulk. Ink blood is self + Ned; cores from bank. |
-| **18:30–22:00** | Desk 3 (~3.5 h) | Cleaner attempts after errands; schematic polish; press matrix remake if smeared. |
-| **22:00–00:00** | Low light | Study samples / clock-feel familiarity; weak hide orb re-seat; Sleep Resistance exposure (patch + short night). |
-| **00:00–05:00** | Sleep (broken) | **~3–5 h** real sleep most nights; patch may stay on. One-meal / short-sleep is the Sleep Resistance engine. |
+| **05:00–05:30** | Body | Wake from short sleep. Check hide Fire Orb patch; rotate if numb; rare potion. |
+| **05:30–06:30** | Ink / mats | Drain goblin cores → powder. Mix **his + Ned's blood** ink. Ned silk if needed. |
+| **06:30–11:30** | Desk 1 (~5 h) | **Mana Arrow** High/Highest keep (fluent **~6 min**/seat). Hands pen/press. Burn patch on. |
+| **11:30–12:00** | MP dip | Short still sit; tip-sip tops pool. SP edge rare. |
+| **12:00–12:30** | Needs (often skipped) | One plate when lightheaded; many days ignored until evening. |
+| **12:30–17:30** | Desk 2 (~5 h) | More Mana Arrow; **~2–4 Fireball** sell seats (**~25 min**/Highest at L5); occasional Light Ball. |
+| **17:30–18:30** | Errand | Hide/paper buy every **2–3** days. Cores from bank. |
+| **18:30–22:00** | Desk 3 (~3.5 h) | More Arrow keep; Fireball remakes toward High/Highest; press matrix if smeared. |
+| **22:00–00:00** | Low light | Sample study / clock-feel; weak hide orb re-seat; short-night Sleep Resistance. |
+| **00:00–05:00** | Sleep (broken) | **~3–5 h** real sleep; patch may stay on. |
 
-**Awake desk-ish time:** ~**13–15 h**/day. **Clean sleep:** ~**3–5 h**. **Errands + body:** ~**1–2 h**.
+**Awake desk-ish time:** ~**13–15 h**/day. **Pour-capable tip-sip block:** ~**10 h**. **Clean sleep:** ~**3–5 h**.
 
 ### Timed day — Phase A (first week, denser discovery)
 
-Same lodging / patch / short sleep, but desk blocks swap FA spam for:
+Same lodging / patch / short sleep, but desk blocks swap production mix for:
 
 - Ink powder experiments (drain vs one loud overload test).
 - Fire Orb seating loops on rough hide (**~30–60 min**/attempt early; faster once locked).
 - Instant water / light segment pulls once Orb is clean.
-- Shape compare (Arrow / Ball / Orb) + first Mana Bolt / Fireball / water arrow / light ball seats.
+- Shape compare (Arrow / Ball / Orb) + first Mana Bolt / Fireball / Light Ball seats.
 - Ratio fails and lazy Diagnosis grafts (occasional paper burn).
 
-### Productivity per typical Phase C day
+### Productivity per typical Phase C day (seat-time)
 
 | Output | Soft count |
 |---|---|
-| Raw scroll attempts (mostly FA) | **~10–20**/day |
-| Clean / skill-counting seats | **~5–8**/day (→ ~**5.6** RS clean avg) |
-| Sale-quality keepers (High+) | **~0–2**/day average; many weeks **0** kept (refuse Low; destroy reds) |
-| Auction stockpile rate | Need only **10** keepers by exit → ~**1 keeper / 2 weeks** if linear; real shape is late-month denser High runs |
-| Fire Orb / Bolt / swap practice | **0–4** side seats when FA stalls |
-| Hide burn patch | **1** weak rune reseated every few days (host lasts a while) |
+| Mana Arrow High/Highest (keep) | **~65–70**/day (**~6 min** wall each at L5 Highest) |
+| Fireball High/Highest (sell) | **~5–7**/day (**~25 min** wall each at L5 Highest) |
+| Light Ball High/Highest | **~1**/day (few; some days **0**) |
+| Clean / skill-counting seats | **~75**/day |
+| MP spent | **~3,000–3,500**/day (draw-limited; tip-sip cap **~12.6k**) |
+| Hide burn patch | **1** weak rune reseated every few days |
 | Ink batch | **1** mix / day or every other day |
 | Press matrix | Remade when wrong; then **seconds**/pull |
 
@@ -387,38 +447,42 @@ Also (not in the formula, but real):
 - **Class learning-ease** → first-correct diagrams sooner; lost if he ever drops Runic Mana Scribe.
 - **Known schematic** → redraw is seconds–minutes; first assembly was the slow part.
 
-#### Fire Arrow (cast **50**) pay ladder
+#### Pay ladders (tip-sip fill only; add draw for wall clock)
 
-| RS L | S | Lowest pay | High pay | Highest pay | Tip-sip Highest pours / 10 h (~12,650 MP) |
+**Mana Arrow / Fire Arrow** (cast **50**):
+
+| RS L | S | High pay | Highest pay | Highest fill @ **21.1**/min | Wall + **~5 min** draw |
 |---:|---:|---:|---:|---:|---:|
-| **1** | 0.9 | **225** | **56.3** | **45** | **~281** |
-| **2** | 0.8 | **200** | **50** | **40** | **~316** |
-| **3** | 0.7 | **175** | **43.8** | **35** | **~361** |
-| **4** | 0.6 | **150** | **37.5** | **30** | **~422** |
-| **5** | 0.5 | **125** | **31.3** | **25** | **~506** |
+| **4** | 0.6 | **37.5** | **30** | **~1.4 min** | **~6.4 min** |
+| **5** | 0.5 | **31.3** | **25** | **~1.2 min** | **~6.2 min** |
+| **6** | 0.4 | **25** | **20** | **~1.0 min** | **~5.9 min** |
+| **7** | 0.3 | **18.8** | **15** | **~0.7 min** | **~5.7 min** |
 
-Same day at L1 Lowest vs L5 Highest: **225 → 25 MP** per scroll (**9×** cheaper). Throughput **~56 → ~506** clean FA/day if mats keep up (still + skin tip pushes higher).
+**Fireball / Light Ball / Mana Ball** (cast **400**):
 
-Orb (cast **25**) is half those pays → about **2×** the pour counts.
+| RS L | S | High pay | Highest pay | Highest fill @ **21.1**/min | Wall + **~15 min** draw |
+|---:|---:|---:|---:|---:|---:|
+| **4** | 0.6 | **300** | **240** | **~11 min** | **~26 min** |
+| **5** | 0.5 | **250** | **200** | **~9.5 min** | **~25 min** |
+| **6** | 0.4 | **200** | **160** | **~7.6 min** | **~23 min** |
+| **7** | 0.3 | **150** | **120** | **~5.7 min** | **~21 min** |
 
-Mats / ink / hide often choke before the MP ceiling. Diagram-only (no pour) is not mana-gated. SP pours skip MP and bill nutrients.
+Orb / Bolt (cast **25**) is half Arrow pays → about **2×** Arrow pour counts if he sat only those. **Phase C reality:** draw time + Ball seats keep daily MP ~**3k**, not the **12.6k** tip-sip ceiling. Mats / ink / hide choke before pool does. SP pours skip MP and bill nutrients.
 
 ### Timeline: when it gets easier
 
-Field curve cum clean RS uses: **1 / 10 / 50 / 200 / 1,000** → L1…L5. Clean seat = finished controlled pour (not a cascade). Early raw attempts are dirty; class learning-ease + Hands raise clean %.
+Field curve: weighted cum uses (seat × quality). Clean seat = finished controlled pour. This skip: **every try finishes** — only quality moves.
 
 | When | What improves | Feel |
 |---|---|---|
-| **First days** | Homemade ink; Fire Orb to working seat; water/light isolate; shape kit; Understanding → **L2** | Discovery. Few sale pours. Near-top sip already available from train habit. |
-| **First hard pour day(s)** | RS **L1 → L2** (need **10** clean) | One good day of Orb/FA attempts can clear L2. Pay S **0.9 → 0.8**. |
-| **~First week of FA push** | RS → **L3** (cum **50**) | Still mostly fails / Lowest. Pay **175–225**/FA. Botches common. Learning, not complexity. |
-| **~Weeks 2–3** | RS → **L4** (cum **200**); Hands seating steadier | High starts appearing. Pay High **~38–50**. Fail rate drops. |
-| **After FA wall (~month of FA push)** | First **Lowest** Common FA exists; then climb High/Highest | η leap: **5× → 1.25× → 1×** list. This is the big “suddenly cheap” jump. |
-| **Once High/Highest is routine** | RS → **L5** (cum **1,000**); S **0.5** | Pay Highest FA **25**. Tip-sip ceiling **~500+/day** if hides allow. Comet brand phase. |
-| **Through brand months** | Clean % high; refuse Low; Sleep/Hunger/Pain/Ned side grinds | MP less often the story beat; **mats and blood-ink** are. Mastery still flat (combat). |
-| **Auction batch** | Ten keepers (8 High + 2 Highest) | Output was never the hard part late; **quality + coin** were. |
+| **First days** | Homemade ink; Fire Orb; water/light; shape kit | Discovery. Quality only (seating already known). |
+| **Quality climb (~month 1)** | FA + siblings → first Highest each | Working seats every try; push Low→Int→High→Highest. |
+| **Early stock** | Same desk; refuse below High on sell line | Sibling forms transfer fast. |
+| **~Weeks into Phase C** | RS **L5 → L7** fast (~**85** seats/day × quality) | Then **L8** by ~d117; Technology **L8** by ~d98; S drops each RS rank. |
+| **Brand months** | MA keep + Fireball sell; refuse below Highest on sell batch | Mats and blood-ink are the brake; Mastery flat (combat). |
+| **Exit sell batch** | Ten Fireballs (all **Highest**, empty), comet brand | Quality + coin, not “can he finish a scroll.” |
 
-**Compound picture:** early week = expensive Lowest + low S + botches (few keepers, fat MP bills). Late brand = Highest + S **0.5** + rare botch (many cheap pours, hide pile is the brake). Near-top sip means he is not waiting a couple of hours after every dump once he stops panic-emptying the bar.
+**Compound picture:** quality remakes only, High/Highest credit, S falling with RS L. Hide pile is the late brake.
 
 ### Recipes / products invented or seated (skip total, not per day)
 
@@ -426,34 +490,96 @@ Field curve cum clean RS uses: **1 / 10 / 50 / 200 / 1,000** → L1…L5. Clean 
 |---|---|
 | **Homemade magic ink** | His blood + Ned's blood + drained **goblin-core** powder |
 | **Stone powder (drain)** | Practical; overload = loud waste |
-| **Fire Orb** (rough hide, high seating) | First perfected product |
+| **Fire Orb** (rough hide, high seating) | First perfected product (Highest already Ch 19; not re-climbed here) |
 | **Weak hide Fire Orb patch** | Smallest orb, mana-filled, on leg — resistance grind |
-| **Runic Mana Bolt** | Shared Orb shape + small-mana compression |
+| **Runic Mana Bolt** | Shared Orb shape + small-mana compression (**pure mana**) |
+| **Runic Mana Arrow** | Arrow body + pure mana fill |
+| **Runic Mana Orb** | Orb shape + pure mana (no converter) |
+| **Runic Mana Ball** | Ball shape + pure mana (moderate compression) |
 | **Fireball** | Aqua Ball shape + fire (easy swap) |
 | **Water arrow** | Arrow body + water |
-| **Light ball** | Ball + light |
+| **Light Ball** | Ball + light; **few** keepers after first Highest |
 | **Aqua / Light** segment boards | Isolations; full schematics when desk allows |
-| **Common Fire Arrow** schematic + comet scrolls | Main sell line; exit **8 High + 2 Highest** |
+| **Mana Arrow** (runic) | **Main keep** stock (High/Highest) |
+| **Fireball** + red comet brand | **Main sell** line; exit **10 Highest** empty |
 
-### Skills moved (half year)
+### To first Highest each (soft count + mana)
+
+**Assumption:** he works each new pattern only until the **first Highest** seat, then stops that pattern (stock lines excepted). Quality-only. Pay = `(cast / η) × S` (`MagicScrollMaking.md`). Fire Orb / Detonation / Impact boards already Highest before this skip (not in the climb table).
+
+**Seat ladders (soft):**
+- **Every pattern:** **0** fails (seating known). Quality ladder **1 Low + 1 Intermediate + 2 High + 1 Highest** = **5** scrolls to first Highest.
+- Rare Diagnosis remake on a brand-new swap counts as a Low remake, not a red fail cascade.
+
+| Rune | Cast | Working scrolls (Low/Int/High/Hi) | Seat MP | **Total MP** |
+|---|---:|---|---:|---:|
+| Fire Arrow | **50** | 1/1/2/1 (**5**) | **~230** | **~230** |
+| **Mana Bolt** (pure) | **25** | 1/1/2/1 (**5**) | **~134** | **~134** |
+| **Mana Arrow** (pure) | **50** | 1/1/2/1 (**5**) | **~230** | **~230** |
+| **Mana Orb** (pure) | **25** | 1/1/2/1 (**5**) | **~115** | **~115** |
+| **Mana Ball** (pure) | **400** | 1/1/2/1 (**5**) | **~2,147** | **~2,147** |
+| Orb of Light | **25** | 1/1/2/1 (**5**) | **~134** | **~134** |
+| Aqua Ball | **400** | 1/1/2/1 (**5**) | **~2,147** | **~2,147** |
+| Fireball | **400** | 1/1/2/1 (**5**) | **~2,147** | **~2,147** |
+| Water arrow | **50** | 1/1/2/1 (**5**) | **~230** | **~230** |
+| Light ball | **400** | 1/1/2/1 (**5**) | **~1,840** | **~1,840** |
+| Fire Bolt | **25** | 1/1/2/1 (**5**) | **~115** | **~115** |
+| Water Bolt | **25** | 1/1/2/1 (**5**) | **~115** | **~115** |
+| Light Bolt | **25** | 1/1/2/1 (**5**) | **~115** | **~115** |
+| Aqua Orb | **25** | 1/1/2/1 (**5**) | **~115** | **~115** |
+| Light arrow | **50** | 1/1/2/1 (**5**) | **~230** | **~230** |
+| Lesser Fire Detonation | **125** | 1/1/2/1 (**5**) | **~575** | **~575** |
+| Lesser Water Detonation | **125** | 1/1/2/1 (**5**) | **~575** | **~575** |
+| Lesser Light Detonation | **125** | 1/1/2/1 (**5**) | **~575** | **~575** |
+| **Totals** | | **90** working (**18** Highest keepers) | **~11,539** | **~11,539** |
+
+**Pure mana set:** Mana Bolt + Mana Arrow + Mana Orb + Mana Ball = **20** working / **4** Highest / seat MP **~2,626** / schematic XP **+6,000**.
+
+**Read:** ~**90** finished scrolls to land one Highest of each listed pattern. Mana ~**11.5k** (no fail-wall tax). Detonation cast **125** soft (tip band). S rises as RS climbs during the sequence.
+
+**Not included:** Phase C seat-time volume below (after first Highest each). That is most of the 4-month mana and RS credit.
+
+### Then Phase C production (seat-time)
+
+**Assumption:** after first Highest each (~**700** weighted RS, still **L4**), desk uses the **Seat time** mix (**~70%** MA / **~25%** Fireball / **~5%** Light Ball). Never fails. Wall = draw + tip-sip fill. Sell-line Fireballs stay **empty absorbing**. When MP tip-sip is blocked at full, or SP is full on starve dumps, he spends the overflow as a **preload** pour on **personal keep** or **gift** scrolls only (**1.31 ×** activation at that quality; Highest Arrow **~65.5** MP or SP-eq; Highest Ball **~524**).
+
+| Role | Pattern | Soft seats (~**85** days) | Of which **preloaded** | Notes |
+|---|---|---:|---:|---|
+| Main keep | **Mana Arrow** | **~6,500** High/Highest | **~20** | **~76**/day; climb **5** in floor; personal / emergency |
+| Comet sell | **Fireball** | **~665** High/Highest | **0** | Empty for buyers; exit batch **10 Highest** empty |
+| Few keep | **Light Ball** | **~135** High/Highest | **~6** | **~2**/day; some days **0**; personal / gift only |
+
+| | MP (or SP-eq) |
+|---|---:|
+| First-Highest-each floor | **~21,500** |
+| Phase C seat mix (~**3,200**/day × **85**) | **~272,000** |
+| Prefill pours (**~20** MA + **~12** FB + **~6** LB × **1.31** × cast) | **~11,000** |
+| **Grand pour (soft)** | **~304,500** |
+
+Prefill does **not** change seat counts or hide spend — same scroll, second pour. Extra bill is pool/SP time only (~**80** MP/day soft across Phase C).
+
+**Highest Fireballs made (soft):** climb **1** + share of the **~665** sell-line seats. At **~70%** Highest on the sell line → **~465** Highest Fireballs (~**5–6**/day when he seats Balls). Not **18** — that was keeper-averaging, not draw/fill math.
+
+**RS:** Phase C alone is ~**85** seats/day × ~**13.4** avg quality weight ≈ **~1,140** weighted/day → **L7** in weeks, **L8** by exit (cum ~**100k–110k**).
+
+### Skills moved (4 months)
 
 | Skill | Motion |
 |---|---|
-| Rune Scribing | **L1 → L5** (chapter; ~**1.5k–2.7k** clean; short of L6 **5k**) |
-| Understanding (runic scrolls) | **L1 → L2** (chapter) |
-| Drawing | **L1 → L5** |
-| Multitasking | **L5 → L6** |
-| Mana Hands | stays **L9** (Hand evolve bar pads; no evolve) |
-| Mana Shaping / Regulation | stay **L7** / **L8** (bars move; L8 / L9 walls are huge) |
-| Sleep Resistance | **L6 → L7** |
+| Rune Scribing | **L1 → L8** (~**100k–110k** weighted; short of L9 **500k**) |
+| Understanding (runic scrolls) | **L1 → L3** |
+| Drawing | **L1 → L8** |
+| Multitasking | **L5 → L7** |
+| Mana Hands | stays **L9** (×MT concurrent; cum ~**0.8M**; no evolve) |
+| Mana Shaping / Regulation | stay **L7** / **L8** |
+| Sleep Resistance | **L6 → L7** printed |
 | Hunger Resistance | **— → L6** |
-| Pain Resistance | **L5 → at least L6** |
-| Blunt Resistance | enter **L5**; exit soft **L5–L6** |
-| Sharp Resistance | enter **L4**; exit soft **L4–L5** |
-| Poison Resistance | enter **L6**; exit soft **L6–L7** |
-| Heat / Cold | patch grind; soft past Ch 19 **L5** |
+| Pain Resistance | **L5 → L6** |
+| Blunt / Sharp / Poison | Ned jabs; soft climb |
+| Technology | **L7 → L8** (every rune + desk-tech observe) |
+| Heat / Cold | patch grind past Ch 19 **L5** |
 | Rune Mastery / Mana Scribing | flat at desk → Ch 23 **L3** / **L2** |
-| Class / overall | schematics **+22,000** + pour XP; soft toward Ch 23 |
+| Class / overall | schematics **+27,000** + pour × quality (Phase C ~**3k MP**/day × quality) |
 
 ### Needs ignored → addressed
 
@@ -462,20 +588,22 @@ Field curve cum clean RS uses: **1 / 10 / 50 / 200 / 1,000** → L1…L5. Clean 
 | **Sleep** | Most nights cut to **3–5 h**; patch on; Sleep Resistance +1 | Occasional crash sleep after bad MP/pain day; never a clean 8 h routine |
 | **Food** | Skips lunch; one-meal days common; cannot will hunger on | SP / desk burn with thin meals **is** starvation → **Hunger Resistance** (~**L6**) + **Pain** (starve-ache); evening plate when lightheaded |
 | **Hygiene / wounds** | Leaves coin burn/frost sites under crust | Rotate sites when numb; rare potion; basic clean to avoid infection |
-| **Social / adventure** | No dungeon main; servant cover prep late | Ned silk clothes; auction identity work months 5–6 |
-| **Money anxiety** | Spends into **1 SS** on purpose for the auction shot | Homemade ink + refuse Low is the only brake |
+| **Social / adventure** | No dungeon main; servant cover prep late | Ned silk clothes; seller-identity work months 3–4 |
+| **Money anxiety** | Spends into **1 SS** on purpose for the sell shot | Homemade ink + refuse Low is the only brake |
 
 ### Productivity headline
 
 - **Discovery weeks:** low sale output, high learning (kit + recipes).
-- **Month 1 FA:** high waste, first Lowest possible.
-- **Months 2–6:** brand volume rises as hides shrink to footprint (FA ~**0.3 LC**/try vs wall **4+ LC**); **≪1** auction keeper/day on average; **~117 LC**/day total burn; homemade ink; sleep and meals deferred; exit **ten** branded FA, **~1,500** A5-eq hides bought over the skip, empty purse.
+- **Month 1:** quality climb → first Highest each; early stock (quality only).
+- **Months 2–4:** seat-time mix (~**76** MA / **~8** Fireball / **~2** Light Ball per day); prefill personal/gift only; hide cut-to-need; exit **ten** branded Highest Fireballs empty, RS **L8**, Technology **L8**, empty purse.
 
 ---
 
-## Exit inventory (into Ch 22)
+## Exit inventory (skip close)
 
-Steel card, detonation rapier, **Ned**, map, ten branded FA scrolls for auction, robe/mask disguise kit, wallet **1 SS**, stone bank. **No** paper schematics (burned for space; knowledge retained).
+Steel card, detonation rapier, **Ned**, map, ten branded **Fireball** scrolls (all **Highest**, red comet / brand plaque; **empty**), personal **Mana Arrow** keep stock (~thousands High/Highest seated; carries a working pile; **~20** preloaded), a few **Light Ball** keepers (**~6** preloaded), robe/mask disguise kit, wallet **1 SS**, stone bank. **No** paper schematics (burned for space; knowledge retained).
+
+**Full exit status / skills / Ned / wallet sheet:** `Chapter21_5Exit.md`.
 
 ---
 
@@ -488,14 +616,18 @@ Steel card, detonation rapier, **Ned**, map, ten branded FA scrolls for auction,
 | Shape kit + Bolt compression / no-contact | Exact Drawing / Multitasking printed mid-ranks |
 | Ratio vs swap experiment results | Exact mid-skip class L |
 | Clock-mechanism skill feel | Ch 25 sample retcon (Orb / Aqua / Frost Bolt buy again) |
-| Exit **L5** RS / comet **8 High + 2 Highest** / **1 SS** | |
+| Exit **L8** RS / Drawing; MT **L7**; comet Fireballs **10 Highest** empty; Mana Arrow keep (**~20** preloaded); few Light Balls (**~6** preloaded); **1 SS** | Prefill personal/gift only; day timing soft |
 
 ---
 
 ## Cross-links
 
 - Beat summary (short): `Notes.md` § Chapter 21.5
+- **Exit sheet (status / skills / inventory / wallet):** `Chapter21_5Exit.md`
 - Skills one-liner: `Skills.md` § Chapter 21.5
+- Day-by-day story window (d1–120): `Chapter21_5DayByDay.md`
+- Day-by-day after exit (d121–365, later use): `Chapter21_5DayByDayAfterExit.md`
+- **365-day skill use ledger:** `Chapter21_5DaySkillYear.md` + `Chapter21_5DaySkillYear.csv` (regen: `_gen_day_skill_year.py`)
 - Resistance grind: `ResistanceGrindBurnFreeze.md`
 - XP: `Experience.md` § Ch 21.5
 - Items: `Items.md` § Chapter 21.5

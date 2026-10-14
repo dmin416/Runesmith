@@ -89,6 +89,10 @@ Identify, a recharge test, or a shop grading device reads Q. Weighing alone does
 
 **Market (guild buy):** `../../Society/Economy/PriceCatalog.md`. Size physics and the Q ladder stay in this file. A pure volume rule would price a 16 mm marble near 2.3 SG. The catalog does not.
 
+### Powdering (craft / ink)
+
+Intact stones are extremely hard to grind, like powdering a **Jolly Rancher** (hard candy). In **moist or mana-rich air** (sugar-like feel under Sense) fresh powder **sticks** and clumps. A **mana-voided volume under vacuum** makes grinding easier and keeps grit free. Drain-to-crumbly then grind is the practical ink path; overload shatter is violent and wasteful. Story lock: `../../../../Story/Notes/Chapter21_5.md` · `../../../Runes/MagicScrollMaking.md`.
+
 ### Vs chemical batteries
 
 Full tables (Wh/kg ratios, sustainable homes, sharding): `Batteries.md` **Mana Stone vs Battery Performance**.

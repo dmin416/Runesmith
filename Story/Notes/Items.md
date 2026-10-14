@@ -301,10 +301,12 @@ Edelgard arrival / guild / Singing Crow.
 
 ## Chapter 21.5
 
-Rewrite-only ~**6 month** grind. Source folds into Ch 22 open.
+Rewrite-only ~**4 month** grind.
 
 **Day 1 (morning after Ch 21; chapter prose):** second-shop runic three — **Orb of Light** (**1 LS**), **Fire Arrow** (**2 LS**), **Aqua Ball** (**1 LS**); **4 LS = 400 LC**; wallet **21,448 → 21,048 LC**. **Regular paper**; skips expensive ink. **Cheap ink** thin/dark, rust and dried-iron smell; Mana Sense dank/fetid like goblin / sewer-rat mana. Plans homebrew ink. Ned on silk for clothes (not gel harvest). Thinner paper + prior hides for quill / Hand-as-quill / all-at-once trace drills; imbue after settle.
 
-**Notes (early skip):** full lock in `Chapter21_5.md`. Homemade ink = **goblin cores** (bank) + **his and Ned's blood**; Fire Orb lock; instant water/light; shape kit + Bolt; Fireball / water arrow / light ball swaps; FA track → High/Highest comet batch of **10**; exit **last 1 SS**. Stone bank drawn down for ink powder. Perfect schematics this skip **+22,000** XP (`Experience.md`). **Burns all paper schematics** (space); knowledge retained.
+**Notes (early skip):** full lock in `Chapter21_5.md` (seat-time: Arrow wall **~6 min**, Ball **~21–26 min**; Phase C **~76** MA / **~8** Fireball / **~2** Light Ball per day; prefill **personal / gift** only). Homemade ink = **goblin cores** (bank) + **his and Ned's blood**; Fire Orb lock; shape kit; Technology every rune/tech observe; exit Fireball batch of **10 Highest** **empty**; MA keep (**~20** preloaded); Light Ball few (**~6** preloaded); **last 1 SS**. Stone bank drawn down for ink powder. Perfect schematics this skip **+27,000** XP (`Experience.md`; pure mana Bolt+Arrow+Orb+Ball **+6,000** inside). **Burns all paper schematics** (space); knowledge retained.
 
-**Still carrying into Ch 22:** Steel card, detonation rapier, **Ned**, map, ten branded FA scrolls for auction, robe/mask disguise kit, wallet **1 SS**, stone bank (reduced by ink cores). **No** schematic sheets.
+**Skip exit carry:** Steel card, detonation rapier, **Ned**, map, ten branded **Fireball** scrolls (all **Highest**, **empty**), Mana Arrow keep pile (**~20** preloaded), a few Light Ball keepers (**~6** preloaded), robe/mask disguise kit, wallet **1 SS**, stone bank (reduced by ink cores). **No** schematic sheets. Full exit sheet: `Chapter21_5Exit.md`.
+
+**Ch 22 Libra (first Fireball sale):** ten Highest empty; two boxes @ **40 LS** → gross **8 SG**; **25%** → net **6 SG** into wallet (was **1 SS**). Empty fair Highest **7.5 LS** (`ScrollEconomy.md`).
