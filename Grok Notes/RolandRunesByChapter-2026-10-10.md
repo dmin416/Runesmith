@@ -107,13 +107,15 @@ Chapter-ordered list of runes Roland Arden (D) has crafted or created in complet
 
 ---
 
-## Chapter 21.5: Desk Grind (~6 Month Timeskip)
+## Chapter 21.5: Desk Grind (~4 Month Timeskip)
 
-**Scope**: Rewrite-only ~half-year timeskip between Ch 21 and Ch 22. Enter age 11 years 0 months; exit 11 years 6 months. Wallet **21,048 LC → 10 LC** (last 1 SS). Basic Rune Scribing **L1 → L5** (main grind). ~180 desk days of experimentation, invention, and Common Fire Arrow brand production.
+**Scope**: Rewrite-only ~4 month timeskip (day 120) between Ch 21 and Ch 22. Enter age 11 years 0 months; exit 11 years 4 months. Wallet **21,048 LC → 10 LC** (last 1 SS). Basic Rune Scribing **L1 → L8** (main grind). ~120 desk days of experimentation, invention, and Common Fireball brand production for auction.
 
-**Key inventions**: Homemade magic ink (goblin cores + his/Ned's blood), stone-powder methods (drain vs overload), shape-family kit (Orb/Ball/Arrow shared skeletons), compression theory (Bolt/Ball), component swap technique (converters ride shapes).
+**Key inventions**: Homemade magic ink (goblin cores + his/Ned's blood), stone-powder methods (drain-to-crumbly vs violent overload), shape-family kit (Orb/Ball/Arrow shared skeletons), compression theory (Bolt/Ball), component swap technique (converters ride shapes), pure-mana spell set (Mana Bolt/Arrow/Orb/Ball).
 
-**Sources**: `Story/Notes/Chapter21_5.md` (full lock); `Story/Notes/Items.md` Ch 21.5; `Story/Chapters/19-30.md` Ch 21.5 prose (lines 485-505).
+**Exit highlights**: Ten branded Common Fireballs (all Highest, empty); Mana Arrow keep pile (~20 preloaded); Light Ball few (~6 preloaded); Basic Rune Scribing L8, Drawing L8, Technology L8; schematic total +27,000 XP; paper schematics burned (knowledge retained).
+
+**Sources**: `Story/Notes/Chapter21_5.md` · `Story/Notes/Chapter21_5Exit.md` · `Story/Notes/Items.md` Ch 21.5; `Story/Chapters/19-30.md` Ch 21.5 prose.
 
 ### Day 1 Purchases (Morning After Ch 21)
 - **Items Bought**: Orb of Light scroll (**1 LS**), Fire Arrow scroll (**2 LS**), Aqua Ball scroll (**1 LS**) — total **4 LS = 400 LC**
@@ -127,11 +129,12 @@ Chapter-ordered list of runes Roland Arden (D) has crafted or created in complet
 - **Stone Powdering Methods**: 
   1. **Drain** (practical): Suck out all mana from stone → becomes crumbly → grind to powder
   2. **Overload** (loud waste): Dump massive mana into stone → violent explosion → hard to collect pieces; discarded method
+- **Powdering Feel**: Intact stones extremely hard to grind, like powdering a **Jolly Rancher** (hard candy); in **moist or mana-rich air** (sugar-like under Sense) fresh powder **sticks** and clumps; **mana-voided volume under vacuum** makes grinding easier and keeps grit free; drain-to-crumbly then grind is the practical path
 - **Ink Quality**: Clearly higher seating quality than Ch 16 trial success or Ch 21 red practice (~75 MP practice waste; designed Orb cast 25 MP)
-- **Cost Savings**: Shop ink ~10 LC/scroll × ~10-15 attempts ≈ 100-150 LC/day; homemade ink costs almost no cash (cores from stock + personal/Ned blood) → saves ~100-150 LC/day, allowing purse to last half year
+- **Cost Savings**: Shop ink ~10 LC/scroll × ~10-15 attempts ≈ 100-150 LC/day; homemade ink costs almost no cash (cores from stock + personal/Ned blood) → major savings
 - **Characteristics**: Thin and dark; rust and dried-iron smell when cheap shop ink examined; Mana Sense shows dank/fetid mana like goblins/sewer rats; homemade version uses his cleaner mana + goblin core substrate
 - **Not Used**: Ned gel-sack harvest (decided not to antagonize Ned); Trox/butcher blood (Trox stays shop-cheap beast blood only per `BloodNotes.md`)
-- **Cite**: `Story/Chapters/19-30.md` Ch 21.5 lines 489, 495-496; `Story/Notes/Chapter21_5.md` ink section
+- **Cite**: `Story/Chapters/19-30.md` Ch 21.5 lines 489, 495-496; `Story/Notes/Chapter21_5.md` ink section; `References/World/Science/Energy/ManaStones.md` powdering section
 
 ### Fire Orb Perfection (Early Skip, Rough Hide + Homemade Ink)
 - **Item**: Lesser Fire Orb scrolls on rough beast hide with homemade ink
@@ -221,6 +224,27 @@ Chapter-ordered list of runes Roland Arden (D) has crafted or created in complet
 - **Characteristics**: First pure-mana runic attack; Bolt shape + soft hold compression; no detect-contact portion (pop is compression coming undone on impact)
 - **Cite**: `Story/Notes/Experience.md` Ch 21.5 line 391; `Story/Notes/Chapter21_5.md` Bolt section
 
+### Mana Arrow (Runic) Schematic [Highest]
+- **Rank/Quality**: Common, Highest
+- **Method**: Arrow body + pure mana converter; Common Arrow seat
+- **XP**: +2000 XP (Common; 2× lesser)
+- **Characteristics**: Pure-mana arrow; Arrow shape + pure mana (no elemental converter)
+- **Cite**: `Story/Notes/Experience.md` Ch 21.5 line 392
+
+### Mana Orb (Runic) Schematic [Highest]
+- **Rank/Quality**: Lesser, Highest
+- **Method**: Orb shape + pure mana converter; Lesser Orb seat
+- **XP**: +1000 XP (Lesser)
+- **Characteristics**: Pure-mana orb; Orb shape + pure mana
+- **Cite**: `Story/Notes/Experience.md` Ch 21.5 line 393
+
+### Mana Ball (Runic) Schematic [Highest]
+- **Rank/Quality**: Common, Highest
+- **Method**: Ball shape + pure mana converter; Common Ball seat
+- **XP**: +2000 XP (Common; 2× lesser)
+- **Characteristics**: Pure-mana ball; Ball shape (highest sphere complexity) + pure mana; moderate compression
+- **Cite**: `Story/Notes/Experience.md` Ch 21.5 line 394
+
 ### Fire Bolt Schematic [Highest]
 - **Rank/Quality**: Lesser, Highest
 - **Method**: Bolt shape + fire converter swap; component swap technique
@@ -300,48 +324,59 @@ Chapter-ordered list of runes Roland Arden (D) has crafted or created in complet
 - **Cite**: `Story/Notes/Experience.md` Ch 21.5 line 398
 
 ### Ch 21.5 Schematic Summary
-- **Total XP from schematics**: +22,000 XP (old 13,000 + new 9,000)
-- **Old 13,000**: Detonation/Impact/Fire Orb (pre-skip Ch 15/18/19) + Fire Arrow + Orb of Light + Aqua Ball + Mana Bolt + Aqua Orb + Light arrow
-- **New 9,000**: Fire Bolt + Water Bolt + Light Bolt + Fireball + Water arrow + Light ball + Fire/Water/Light Detonation
+- **Total XP from schematics**: +27,000 XP (old 22,000 + pure mana set +5,000)
+- **Old 22,000**: Detonation/Impact/Fire Orb (pre-skip Ch 15/18/19) + Fire Arrow + Orb of Light + Aqua Ball + Mana Bolt + Fire/Water/Light Bolt + Aqua Orb + Light arrow + Fireball + Water arrow + Light ball + Fire/Water/Light Detonation
+- **Pure mana set +5,000**: Mana Arrow (+2000) + Mana Orb (+1000) + Mana Ball (+2000)
+- **Total schematics perfected**: 19 (3 pre-skip + 16 this skip)
 - **Paper schematics burned**: Over the skip (taking up space); knowledge stays; redraws from memory when needed; exit inventory carries NO schematic sheets
 - **Component mastery**: Input bands (low/mid/high MP), converters (fire/water/light/pure mana/blast), shapes (Bolt→Orb→Ball sphere ladder, Arrow), compression (soft hold/mid/moderate squeeze), extras (intangible leash, kinetic, mass, direction, contact trigger, tip concentration/location)
-- **Cite**: `Story/Notes/Experience.md` Ch 21.5 lines 387-402; `References/Items/ScrollRuneAbilities.md`
+- **Cite**: `Story/Notes/Experience.md` Ch 21.5 lines 387-409; `References/Items/ScrollRuneAbilities.md`
 
-### Common Fire Arrow Production (Comet Brand, Months 1-6)
-- **Item**: Common Fire Arrow scrolls with comet brand
+### Common Fireball Production (Comet Brand, Auction Exit, ~4 Months)
+- **Item**: Common Fireball scrolls with comet brand
 - **Rank/Quality**: 
-  - Month 1: Fails → first **Lowest** ~full month after FA push starts
-  - Months 2-6: Refuse Low; keep only High/Highest; exit batch **8 High + 2 Highest**
+  - Early phase: Arrow wall → Fire Arrow schematic perfected early
+  - Later phase: Switched to Fireball (after Aqua Ball); exit batch **10 Highest** all **empty** (sell line never preloaded)
 - **Method**: Hands-as-pen + stamp press (relief matrix → contact) both available; press doesn't skip seating quality; dual quill/Hands work for Multitasking skill
-- **MP Cost**: Designed cast 50 MP (Common Fire Arrow baseline)
-- **Production Rhythm**: ~10-20 raw attempts/day; ~5-8 clean seats/day (skill-counting); ~0-2 sale keepers/day average; many weeks 0 kept (refuse Low; destroy reds)
-- **Brand**: Small red comet mark in corner
-- **Time Investment**: Months went into Fire Arrow after shape discoveries; half year total ~180 days; exit stockpile 10 scrolls for auction
-- **Materials Burn**: Rough hide blanks ~40-70 LC/day (~8-14 A5 hides × 4-5 LC); homemade ink ~0 LC cash (cores from bank + blood); typical day ~60-110 LC cash + core burn
+- **MP Cost**: Designed cast Fireball 400 MP (Common Ball baseline); Mana Arrow 50 MP
+- **Production Rhythm**: Phase C ~76 Mana Arrow / ~8 Fireball / ~2 Light Ball per day (seat-time mix); kept personal Mana Arrow pile (~20 preloaded) and Light Ball few (~6 preloaded)
+- **Brand**: Small red comet mark in corner (plaque: Crimson Comet / Red Star / Scarlet Runesmith)
+- **Time Investment**: ~4 months / day 120; early Fire Arrow schematic work, then pivot to Fireball sell line after mastering Aqua Ball shape
+- **Materials Burn**: ~21,038 LC over ~120 days; homemade ink ~0 LC cash (cores from bank + blood) saves major cost vs shop ink
 - **Robe/Mask Cover**: Bought disguise to play servant for a runesmith (identity protection)
 - **Exit Wallet**: Spent party gold and savings down to **1 SS** (10 LC)
-- **Cite**: `Story/Chapters/19-30.md` Ch 21.5 lines 503-505, Ch 22 lines 558-579 (appraisal); `Story/Notes/Chapter21_5.md` FA track section
+- **Exit Inventory**: Ten branded Fireballs (all Highest, empty); Mana Arrow pile (~20 preloaded personal); Light Ball few (~6 preloaded)
+- **Cite**: `Story/Chapters/19-30.md` Ch 22 lookback; `Story/Notes/Chapter21_5.md` seat-time section; `Story/Notes/Items.md` Ch 21.5; `Story/Notes/Chapter21_5Exit.md`
 
-### Skills Progression (Half Year Exit)
-- **Basic Rune Scribing**: L1 → **L5** (main grind; ~5.6 clean seats/day avg over 180 days = ~1,000 skill uses)
-- **Understanding of runic scroll making**: L1 → **L2** (prose progress line; not same as Rune Scribing skill)
-- **Drawing**: L1 → **~L5** soft (same line work as Rune Scribing when clean; exit rank unprinted)
-- **Multitasking**: L5 → **~L6** soft (~22 dual quill+Hands actions/day; 4,000 to L6)
-- **Mana Hands**: Stays L9 (~50-200 uses/day; ~1% of evolve wall; nowhere near Mind evolve)
-- **Sleep Resistance**: +1 rank (short sleep ~3-5h most nights + burn patch exposure)
-- **Heat/Cold/Pain Resistance**: Continues via burn patch + freeze spot; printed exit ranks soft past Ch 19 L5
-- **Basic Rune Mastery**: Slight up only (desk pours barely move it; combat is later)
-- **Basic Mana Scribing**: Still low (L1 soft; L2 by Ch 23; rare word drills)
-- **Class**: Runic Mana Scribe "a few levels" up (exact L soft); schematic total +22,000 XP + many pour XP at 25-50 MP each
-- **Cite**: `Story/Notes/Chapter21_5.md` skills section; `Story/Notes/Skills.md` Ch 21.5; `Story/Notes/Experience.md` Ch 21.5
+### Skills Progression (Day 120 / ~4 Months Exit)
+- **Basic Rune Scribing**: L1 → **L8** (main grind; ~103.7k cum; short of L9 at 500k)
+- **Drawing**: L1 → **L8** (tracks Rune Scribing clean line work; ~103.7k cum)
+- **Technology**: L7 → **L8** (every rune + desk-tech observe; ~125.1k cum)
+- **Understanding of runic scroll making**: L1 → **L3** (~134 cum; prose progress line)
+- **Multitasking**: L5 → **L7** (~23.9k cum; dual quill+Hands concurrent work)
+- **Mana Hands**: Stays L9 (~0.80M cum; no evolve; evolve needs 2M)
+- **Basic Mana Shaping**: Stays L7 (~28.5k cum; L8 needs 100k)
+- **Basic Mana Regulation**: Stays L8 (~108.5k cum; L9 needs 500k)
+- **Sleep Resistance**: L6 → **L7** (20k soft-cap; short sleep + burn patch)
+- **Hunger Resistance**: Unlocks → **L6** (~9.6k cum; stamina-pour starve engine + one-meal days)
+- **Pain Resistance**: L5 → **L6** (~5.2k cum; burn patch + starve-ache + Ned jabs)
+- **Heat/Cold Resistance**: Continues via burn patch + freeze spot (Heat L5 ~3.3k, Cold L5 ~3.0k)
+- **Sharp/Blunt Resistance**: Ned leg jabs (Sharp L4 ~770, Blunt L4 ~513)
+- **Poison Resistance**: Ned toxin jabs (L6 ~5.4k cum; soft-repeat after daily doses)
+- **Basic Rune Mastery**: L1 slight (~7 cum; desk almost 0; combat later → L3 by Ch 23)
+- **Basic Mana Scribing**: Still low (L1 ~2 cum; rare word drills; L2 by Ch 23)
+- **Class**: Runic Mana Scribe L1 → soft **L4** (+3 this skip); schematic total +27,000 XP + pour XP (quality-weighted); overall bar ~16.0M (soft toward Ch 23 L35 / Scribe L10)
+- **Cite**: `Story/Notes/Chapter21_5Exit.md` skills section; `Story/Notes/Skills.md` Ch 21.5; `Story/Notes/Experience.md` Ch 21.5; `Story/Notes/Status.md` Ch 21.5
 
 ### Additional Notes
-- **Full schematics completed**: 16 total (see Ch 21.5 Schematic Summary above for all ranks/qualities/XP)
-- **Aqua Ball & Orb of Light**: Full schematics completed when desk allowed (segments already isolated)
+- **Full schematics completed**: 19 total this skip (3 pre-skip + 16 during) = Lesser (7): Detonation, Impact, Fire Orb, Mana Bolt/Orb, Fire/Water/Light Bolt, Fire/Water/Light Detonation, Aqua Orb; Common (9): Fire Arrow, Orb of Light, Aqua Ball, Mana Arrow/Ball, Light arrow, Fireball, Water arrow, Light ball
+- **Pure-mana set**: Mana Bolt + Mana Arrow + Mana Orb + Mana Ball (Bolt/Orb/Arrow/Ball shapes all have pure-mana variants)
+- **Desk rhythm**: Inn desk most days; Fire Orb practice when fails stack; no shop contract; no dungeon main; adventure motive (auction freedom vs six-year desk curse), not greed-first
 - **Lazy Diagnosis grafts**: Component swaps with unmodified ratios; Diagnosis marks faults; occasional paper spontaneous burn
 - **Press matrix technique**: Relief stamp for repeated patterns; remade when wrong; then seconds per pull
-- **Continuous desk work**: Fire Orb practice when Common FA fails stack; rare Bolt/Fireball/variant seat practice; ~13-15h awake desk-ish time per day
-- **Cite**: `Story/Notes/Chapter21_5.md` daily clock and experimentation sections; `Story/Notes/Items.md` Ch 21.5
+- **Continuous desk work**: ~13-15h awake desk-ish time per day over ~120 days
+- **Attributes exit**: Dex 85, Vit 79, End 89, Int 165, Will 151; HP 1057, SP 1229, MP 2254
+- **Cite**: `Story/Notes/Chapter21_5.md` daily clock and experimentation sections; `Story/Notes/Items.md` Ch 21.5; `Story/Notes/Chapter21_5Exit.md`
 
 ---
 
