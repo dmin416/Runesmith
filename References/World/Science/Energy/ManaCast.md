@@ -145,7 +145,7 @@ Voice sets how much mana you feed the cast. Power follows the cast law on that m
 
 ### Goblin kill thresholds (normal voice, 25 mana)
 
-Orbit skull failure ~**32 J** and eye-entry burst ~**63 J** both clear on **L1** from INT 40 up on a normal cast (L1 INT 40 ≈ 164 J). Weakspot aim still matters more than raw joules at low level. Whisper is 0.6× normal mana; mental is 0.4×. Temple hits fail earlier than vault hits.
+Orbit skull failure ~**32 J** and eye-entry burst ~**63 J** both clear on **L1** from INT 40 up on a normal cast (L1 INT 40 ≈ 164 J). Weakspot aim still matters more than raw joules at low level. Whisper is 0.6× normal mana (near-silent floor). Mental / true silent never lands a normal magic spell (`../../../../Story/Notes/SilentCasting.md`). Temple hits fail earlier than vault hits.
 
 Overcharge = mana spent. Named voices are convenience labels, not a separate formula.
 
@@ -577,7 +577,7 @@ Match live Bolt / Arrow casts from the cast law (voice mana × 10 × η × μ). 
 
 | Threat | Energy |
 |---|---|
-| Mana Bolt, mental 10 mana (INT 40 L1) | ~66 J |
+| Mana Bolt, whisper 15 mana (INT 40 L1) | ~99 J |
 | Mana Bolt, normal 25 mana (INT 40 L1) | ~164 J |
 | Mana Bolt, normal 25 mana (INT 40 L9) | ~1,644 J |
 | Mana Arrow, normal 50 mana (INT 40 L1) | ~328 J |
