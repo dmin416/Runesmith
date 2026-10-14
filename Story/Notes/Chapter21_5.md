@@ -91,9 +91,12 @@ He still cannot flip appetite on. Running near this ceiling **makes** hunger: gl
 ## Homemade ink + Fire Orb first
 
 - Brews own ink from **his and Ned's blood + powdered goblin cores** (his stone-bank stock). Not Trox / butcher blood; Trox stays shop-cheap beast blood only (`BloodNotes.md`). Rough hide hosts.
-- **Powdering a magic stone / goblin core (two ways he finds):** intact stones are normally extremely robust and durable.
-  1. **Drain:** suck out all the mana held in the stone → it becomes **crumbly** and can be powdered.
-  2. **Overload:** dump a whole lot of mana into it → also breaks, but **extremely violent, noisy, and hard to collect** the pieces. Drain is the practical path for ink.
+- **Powdering a magic stone / goblin core:** intact stones are normally extremely robust and durable. Even when they will break, grinding them is **really hard**, like trying to powder a **Jolly Rancher** (hard candy).
+  - **Moist / sugar-like / mana-rich air:** powder and fresh chips **stick** (clump, smear, cling to tools and each other). Bad for clean ink stock.
+  - **Mana-voided space + vacuum:** much **easier** to powder and keep the grit free (no mana-rich moist air to glue it).
+  - **Two break paths he finds:**
+    1. **Drain:** suck out all the mana held in the stone → it becomes **crumbly** and can be powdered (still hard-candy work unless void/vacuum helps).
+    2. **Overload:** dump a whole lot of mana into it → also breaks, but **extremely violent, noisy, and hard to collect** the pieces. Drain is the practical path for ink.
 - Same pour-cost band as shop/trial work; **clearly higher seating quality** than Ch 16 trial success / Ch 21 red practice (~**75** MP practice was waste; designed Orb cast **25**).
 - **Perfects Fire Orb quickly** to the same working level shown in the class test (functional seating, clean enough to match that trial outcome) even on rough hide + homemade ink. Fast, not a month wall.
 - **Immediately after** that Fire Orb lock he isolates segments **basically instantly**: **water** from the **Aqua Ball** sample, **light** from the **Orb of Light** sample. No long research beat.

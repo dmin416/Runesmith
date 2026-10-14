@@ -93,7 +93,7 @@ Magic ink can be made from:
 
 For mana stone ink, quality depends first on the amount of crushed mana stone in the ink and second on the quality of that stone.
 
-**Powdering a magic stone (Ch 21.5 Notes):** intact stones are normally extremely robust and durable. Roland finds two ways to get powder. (1) **Drain** all mana out of the stone → it becomes crumbly and powders cleanly. (2) **Overload** it hard → also shatters, but extremely violent, noisy, and hard to collect the pieces. Drain is the practical ink path.
+**Powdering a magic stone (Ch 21.5 Notes):** intact stones are normally extremely robust and durable. Grinding them is **really hard**, like powdering a **Jolly Rancher** (hard candy). In **moist / sugar-like / mana-rich air** the powder and chips **stick** (clump, smear). In a **mana-voided space under vacuum** powdering is much **easier** and the grit stays free. Break paths: (1) **Drain** all mana → crumbly, then grind (practical ink path). (2) **Overload** → shatters, but extremely violent, noisy, and hard to collect.
 
 Ink can also simply be powerful blood. Ink rules are more narrative than rigid. Cheap beast blood on Terra is **Trox blood** (substance lock: `../World/Science/Body/BloodNotes.md` § Trox). Not cow or ox.
 
