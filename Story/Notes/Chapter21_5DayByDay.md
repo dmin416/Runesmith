@@ -1346,7 +1346,7 @@ Attrs @120: Vit **79** · End **89** · Dex **85** · Int **165** · Will **151*
 
 ### Month-4 close
 
-Technology **L8** (d98). MT **L7** (d104). Pain **L6** (d114). RS **L8** (d117). Story skip exit **day 120** — ten comet Fireballs (**~3** preloaded), MA keep (**~20** preloaded), few Light Balls (**~6** preloaded), wallet **1 SS**, RS **L8**, Technology **L8**, schematics burned. Prefill pours from full MP/SP dumps.
+Technology **L8** (d98). MT **L7** (d104). Pain **L6** (d114). RS **L8** (d117). Story skip exit **day 120** — ten comet Fireballs (**all empty**; sell line never preloaded), MA keep (**~20** preloaded), few Light Balls (**~6** preloaded), wallet **1 SS**, RS **L8**, Technology **L8**, schematics burned. Prefill pours from full MP/SP dumps go to personal / gift keepers only.
 
 ---
 

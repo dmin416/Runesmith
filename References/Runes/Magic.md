@@ -16,7 +16,7 @@ Magic follows laws and intention. Spells can form from the body alone, usually a
 
 **Body cast:** Spells can happen from the body alone. Usually low level. Can also be done intentionally.
 
-**Tier 1 cast loop:** Imagine the spell circle (the formula), shape the mana, then chant, in that order. Fail any step and the spell sizzles. Intelligence helps visualize and recall circles. Higher tiers use larger circles and longer chants. Skills reduce the mental strain. Must chant while shaping. Shaping alone evaporates.
+**Tier 1 cast loop:** Imagine the spell circle (the formula), shape the mana, then chant, in that order. Fail any step and the spell sizzles. Intelligence helps visualize and recall circles. Higher tiers use larger circles and longer chants. Skills reduce the mental strain. Must chant while shaping. Shaping alone evaporates. The chant must leave the mouth (spoken, loud, or near-silent whisper). **True silent** cast of a normal magic spell never works, no matter how hard the caster tries; words only in the head fail the same way. Occurrence scrape: `../../Story/Notes/SilentCasting.md`.
 
 **Ambient draw:** Thick air / dungeons can let a caster push more mana into a body cast (mana-in). Useful output on that paid mana still runs `Useful = mana × 10 × η(L) × μ(INT) × A` with `A = √C`. Same ambient `A` multiplies rune / item paths after η_cond. Retired linear G is not used.
 
@@ -60,7 +60,7 @@ Magic follows laws and intention. Spells can form from the body alone, usually a
 | Intention | Gives the pattern its purpose and output form |
 | Pathways | Physical or magical routes mana flows through |
 
-Surface symbols are not the whole working pattern. Working routes sit deeper and show under magical vision / Diagnosis. Worldview scrape: `Nature.md`.
+Surface symbols are not the whole working pattern. Working routes sit deeper and show under magical vision / Diagnosis. On **scrolls**, after imbue the fine lines fade into the host and leave a readable surface rune image unless obscured (`MagicScrollMaking.md`). Worldview scrape: `Nature.md`.
 
 **Rank language (trade / craft):** Lesser → Common → Greater → Grand → Legendary. Quality language: Lowest → Highest. Ladder feel (geometry / job home / examples): `Nature.md`, `Runes.md`, `RuneSystem.md` (Story feel).
 
@@ -93,6 +93,8 @@ Surface symbols are not the whole working pattern. Working routes sit deeper and
 ### Runic scrolls
 
 **Nature:** Runes as artificial magical pathways on a scroll host. **Only this scroll family can be used by anyone.** Completely separate from magic scrolls. Full lock: `MagicScrollMaking.md`.
+
+**After imbue:** Some working lines **fade into** the paper or host. A surface **rune image** remains so an unobscured viewer can tell **roughly** what the scroll does. Full pathways stay sunk (Diagnosis / magical vision). Obscuration can hide the surface image. Word scrolls have no pathway layer.
 
 **Limit:** Efficiency `η_cond` (20% blocks) sets activation cost for the same power. Rank is the tier dial (`RuneSystem.md`). Device attacking tags stay separate from rune efficiency (`ScrollAspects.md`). Scroll-host runes are almost always destroyed in one use.
 

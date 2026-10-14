@@ -51,7 +51,7 @@ Chapter and Source scrape for word vs runic scroll craft, use, skills, and chapt
 ### Craft
 
 - Skills: **Basic Rune Scribing** (draw rune to scroll); **Basic Rune Mastery** (understand / cheaper **activation** later). Class: Runic Mana Scribe eases learning (rewrite: no cost term); shop world often says **Runesmith**.
-- Method: layout pathway regions (Fire Orb trial: four linear stages). Mana into ink while drawing. Pathways sink into the scroll when infused.
+- Method: layout pathway regions (Fire Orb trial: four linear stages). Mana into ink while drawing. On imbue, fine pathways **fade into** the host; a surface **rune image** remains so an unobscured viewer can tell roughly what it does (`MagicScrollMaking.md`).
 - Time: much slower than word scrolls. Lesser Fire Orb practice ~45 min; Common Fire Arrow much harder / ~1 hour class with mana left for a second at mid Scribe; compaction later **5–6**/day.
 - **Affinity:** runic Fire Orb activates fine at **0%** fire. Runic scrolls do not need the maker’s element.
 - Setup mana is large (RuneSetup math; Common Fire Arrow draining). Blank + ink cheaper than finished shelf price.
