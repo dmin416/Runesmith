@@ -545,17 +545,19 @@ Chapter-ordered list of runes Roland Arden (D) has crafted or created in complet
 
 3. **Trial items**: Class-change trials (Ch 16 Fire Orb scroll, Ch 35 Fire Resistance ladle) are pass/fail items, not sold. Ladle rated `[Lesser: Lowest, High]` split shows item craft vs rune quality can differ.
 
-4. **Chapter 21.5 timeskip**: ~6 month desk grind (rewrite-only) between Ch 21 and Ch 22. Major inventions: homemade magic ink (goblin cores + blood), shape-family kit (Orb/Ball/Arrow/Bolt shared structure), component swap technique, runic Mana Bolt, Fireball/water arrow/light ball variants, Common Fire Arrow schematic + branded batch production. Basic Rune Scribing L1→L5 main grind. Full detail in `Story/Notes/Chapter21_5.md`.
+4. **Chapter 21.5 timeskip**: ~4 months / day 120 desk grind (rewrite-only) between Ch 21 and Ch 22. Major inventions: homemade magic ink (goblin cores + blood), shape-family kit (Orb/Ball/Arrow/Bolt shared structure), component swap technique, pure-mana spell set (Mana Bolt/Arrow/Orb/Ball), elemental variants (Fireball/water arrow/light ball, Fire/Water/Light Bolt/Detonation). Exit: 19 schematics perfected (+27,000 XP), Basic Rune Scribing L1→L8, ten branded Common Fireballs (all Highest, empty). Full detail in `Story/Notes/Chapter21_5.md` and `Story/Notes/Chapter21_5Exit.md`.
 
-5. **Missing details**: Some runes listed in `References/Runes/Runes.md` (Sharpness, Piercing, Velocity, etc.) are mentioned as knowledge or plans but not shown crafted on-page in Ch 1-80. Ch 44-45 dialogue references Sharpness but final product was Mana Slash/Thrust instead. If not in completed chapter prose, not listed here.
+5. **Scroll surface appearance**: After imbue, fine working lines fade/sink into the material; surface keeps a clear **image of the rune itself** (large symbols/stages) readable at a glance without Diagnosis — Fire Orb looks like fire-orb mark, Arrow like arrow mark. Not a full schematic steal. Brand cover, sleeve, or trade wrap can hide the image. Diagnosis still sees sunk pathways; naked eye does not get full circuit after imbue. Word scrolls (magic, not runic) don't use this rule. See `References/Runes/MagicScrollMaking.md` § After imbue.
 
-6. **Later Source beats**: Source (Ch 81-711) has many more runes, enchantments, and craft techniques (3D stacking, Miniaturisation, Rune Mending, Runic Restructuring, concealment, soul-path, etc.) but those are beyond scope of this Ch 1-80 compilation.
+6. **Missing details**: Some runes listed in `References/Runes/Runes.md` (Sharpness, Piercing, Velocity, etc.) are mentioned as knowledge or plans but not shown crafted on-page in Ch 1-80. Ch 44-45 dialogue references Sharpness but final product was Mana Slash/Thrust instead. If not in completed chapter prose, not listed here.
 
-7. **Wand repairs**: Ch 61-70 show repeated wand repairs with runecrafting hammer; each repair degrades metal slightly; runes erode into steel until unusable. Better metals (deep steel, eventually mithril) needed for durability.
+7. **Later Source beats**: Source (Ch 81-711) has many more runes, enchantments, and craft techniques (3D stacking, Miniaturisation, Rune Mending, Runic Restructuring, concealment, soul-path, etc.) but those are beyond scope of this Ch 1-80 compilation.
 
-8. **Armor runes**: Ch 65-70 mention preparing full elemental resistance suite for armor (fire, cold, poison, curse) but completed armor not shown in detail by Ch 80. Shield dual-rune (Fire Resistance + Mana Shield) in Ch 70-73 is most detailed armor-class rune example.
+8. **Wand repairs**: Ch 61-70 show repeated wand repairs with runecrafting hammer; each repair degrades metal slightly; runes erode into steel until unusable. Better metals (deep steel, eventually mithril) needed for durability.
 
-9. **Utility/tool runes**: Pressure-trigger trap scrolls (Ch 37), runic powered grindstone (Ch 48+), runic grenades with timed detonation (Ch 51-60), elemental shield scrolls (Ch 51-60), detection orb (Ch 61-70), poison wand (Ch 69-70) demonstrate practical applications beyond combat weapons.
+9. **Armor runes**: Ch 65-70 mention preparing full elemental resistance suite for armor (fire, cold, poison, curse) but completed armor not shown in detail by Ch 80. Shield dual-rune (Fire Resistance + Mana Shield) in Ch 70-73 is most detailed armor-class rune example.
+
+10. **Utility/tool runes**: Pressure-trigger trap scrolls (Ch 37), runic powered grindstone (Ch 48+), runic grenades with timed detonation (Ch 51-60), elemental shield scrolls (Ch 51-60), detection orb (Ch 61-70), poison wand (Ch 69-70) demonstrate practical applications beyond combat weapons.
 
 ---
 
