@@ -335,8 +335,8 @@ Rewrite-only timeskip (~**4 months**). Source folds mid/late into Ch 22 open. **
 **Then keep / sell track**
 - Perfect schematics this skip **+27,000** XP (prior packet **+13,000** + elemental Bolts / Aqua Orb / Light arrow / elemental Detonations **+9,000** + Mana Arrow / Orb / Ball **+5,000**; pure mana set Bolt+Arrow+Orb+Ball **+6,000** inside the total). Detonation / Impact / Fire Orb already paid. **Burns all paper schematics** for space; knowledge retained (`Experience.md`).
 - **Month 1:** fails → first Common FA at **Lowest** ~full month after the FA push starts (Arrow teacher). Hands-as-pen + stamp press already in the chapter drill.
-- **Months 2–4:** seat-time mix (~**76** Mana Arrow keep / **~8** Fireball sell / **~2** Light Ball per day); prefill **personal / gift** only (never sell-line Fireballs); robe/mask servant cover; mats burn to **last 1 SS**. Sleep Resistance **+1**. RS → **L8**. Technology → **L8**.
-- **Skip exit:** ten branded Fireballs (all **Highest**, **empty**); Mana Arrow keep pile (**~20** preloaded); a few Light Balls (**~6** preloaded); seller plaque; bloodshot; **no** schematic sheets.
+- **Months 2–4:** seat-time mix (~**76** Mana Arrow keep / **~8** Fireball sell / **~2** Light Ball per day); prefill **personal / gift** only (never sell-line Fireballs); robe/mask servant cover; mats burn to **last 1 SS**. Sleep Resistance **+1**. RS → **L8**. **Technology L7 → L8** (printed at skip close).
+- **Skip exit:** ten branded Fireballs (all **Highest**, **empty**); Mana Arrow keep pile (**~20** preloaded); a few Light Balls (**~6** preloaded); seller plaque; bloodshot; **Technology L8**; **no** schematic sheets.
 
 **Skills / class (exit locks)**
 | Track | Exit |
