@@ -121,11 +121,10 @@ Ram pressure = ½ ρ v²    (ρ = 2,000 kg/m³)
 
 ### Speaking levels (mana; same spell L)
 
-Voice sets how much mana you feed the cast. Power follows the cast law on that mana. **Overcharging a spell is equal to the mana used** (any amount; loud / very loud are just named rungs on that scale).
+Voice sets how much mana you feed the cast. Power follows the cast law on that mana. **Overcharging a spell is equal to the mana used** (any amount; loud / very loud are just named rungs on that scale). Quiet floor is **whisper**. Mental / true silent never lands (`../../../../Story/Notes/SilentCasting.md`).
 
 | Voice | Mana | L1 @ INT 40 | L1 @ INT 73 | L9 @ INT 40 |
 |---|---|---|---|---|
-| Mental | 10 | 66 J | 106 J | 658 J |
 | Whisper | 15 | 99 J | 160 J | 986 J |
 | Quiet | 20 | 132 J | 213 J | 1,315 J |
 | Normal | 25 | 164 J | 266 J | 1,644 J |
@@ -182,7 +181,6 @@ Speed = √(2 × Kinetic / 0.04 kg)
 
 | Voice | Mana (Arrow) | vs Bolt |
 |---|---|---|
-| Mental | 20 | 2× |
 | Whisper | 30 | 2× |
 | Quiet | 40 | 2× |
 | Normal | 50 | 2× |

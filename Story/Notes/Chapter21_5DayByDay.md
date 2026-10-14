@@ -324,7 +324,7 @@ XP bar **~13,139 / 13000** — clears the L26→27 gate on pour/schem drip this 
 
 ### Week-1 close
 
-Homemade ink locked. Fire Orb + water/light isolates. Shape kit (Orb/Bolt/Ball/Arrow) in hand. Working runic Mana Bolt. Swaps starting. Freeze-flip failed. No comet sell stock. Phase B quality climb starts ~day 15 (FA + siblings; every try finishes).
+Homemade ink locked. Fire Orb + water/light isolates. Shape kit (Orb/Bolt/Ball/Arrow) in hand. Working runic Mana Bolt. Swaps starting. Freeze-flip failed. No comet sell stock. Phase B quality climb starts ~day 15 (Fireball + Mana Arrow / Light Ball siblings; every try finishes).
 
 ---
 
@@ -405,7 +405,7 @@ Hunger **L4 → L5** → Vit **76 → 77**, End **85 → 86**. RS cum **~96**. B
 ## Day 14 — Phase A (end discovery fortnight)
 
 ### Makes
-Kit lock day: Orb/Bolt/Ball/Arrow shapes named in his head. Working set includes Fire Orb, Mana Bolt, elemental Bolts (soft), water/light boards. Schematics toward Highest boards started where Diagnosis is green enough. **Tomorrow he commits to Common Fire Arrow quality climb** (working seats; rank only).
+Kit lock day: Orb/Bolt/Ball/Arrow shapes named in his head. Working set includes Fire Orb, Mana Bolt, elemental Bolts (soft), water/light boards. Schematics toward Highest boards started where Diagnosis is green enough. **Tomorrow he commits to Common Fireball quality climb** (working seats; rank only), with Mana Arrow keep and Light Ball siblings.
 
 | Seats | **~5** (quality-only) | | Mana **~513** | Phase A week-2 MP soft **~3.4k** (d8–14) |
 
@@ -426,7 +426,7 @@ Attrs: Vit **77** · End **86** · Dex **74**. Bar **~19,392**. Ned Moon / Tail 
 ## Day 15 — Phase B (quality climb begins)
 
 ### Makes
-Pivots hard to **Common Fire Arrow** and sibling climbs. Seating already known (trial / first night). **Every try finishes** — only quality rank moves (Low → Int → High → Highest). Working FA on try one or two at Low/Int; then remakes only for rank.
+Pivots hard to **Common Fireball** and sibling climbs (Mana Arrow keep / Light Ball). Seating already known (trial / first night). **Every try finishes** — only quality rank moves (Low → Int → High → Highest). Working Fireball on try one or two at Low/Int; then remakes only for rank.
 
 | MA | FB | LB | Seats | Mana |
 |---:|---:|---:|---:|---:|
@@ -607,7 +607,7 @@ Quality climb / early stock. Seats **~73**. Mana **~3,538**. RS cum **~15,857** 
 ## Day 44 — Phase B (first Highest pack locks)
 
 ### Makes
-First **Highest** seats on the climb pack land (FA + transfers soft). Tomorrow Phase C keep/sell mix goes full. Still quality only — no fail wall.
+First **Highest** seats on the climb pack land (Fireball + Mana Arrow / Light Ball transfers soft). Tomorrow Phase C keep/sell mix goes full. Still quality only — no fail wall.
 
 | MA | FB | LB | Seats | Mana |
 |---:|---:|---:|---:|---:|
