@@ -31,6 +31,7 @@ Stones, cast tables, batteries, engines, motors, fans, pumps, compression, fligh
 - [Compression.md](Compression.md). Fire Piston, Frost, air cartridge, cloak compress-expand cooling (forgoes for cold rune)
 - [FanAirflow.md](FanAirflow.md). Fan φ/ψ power
 - [Pumps.md](Pumps.md). Lift, head, taps
+- [ShowerBathHeat.md](ShowerBathHeat.md). Earth heat to raise shower and bath water. Mixing valve and head stay in Pumps.md
 - [Flight.md](Flight.md). Hover / lift power
 
 ## Light and wave

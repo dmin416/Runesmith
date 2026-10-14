@@ -123,6 +123,15 @@ Shop device grades Lowest → Highest rate designed attacking value / cast cost.
 
 Runic scrolls use runes instead of drawn chants. The runes are actual artificial magical pathways.
 
+### After imbue (what the eye sees)
+
+When a runic scroll is **imbued / seated** with mana, **some of the working lines fade into** the paper or other host. The fine pathways sink into the material. What stays on the surface is a clear **image of the rune itself** (the large symbols / stages), so a viewer who is allowed to look can tell **roughly what it does** without Diagnosis.
+
+- **Not obscured:** surface rune image is readable at a glance (Fire Orb looks like a fire-orb mark, Arrow like an arrow mark, and so on). Rough job, not a full schematic steal.
+- **Obscured / hidden:** brand cover, sleeve, enchant, or trade wrap can hide that image. Then the viewer does not get the free rough read.
+- **Diagnosis / magical vision** still sees the sunk pathways under the image. Naked eye does not get the full circuit after imbue.
+- **Word (magic) scrolls** do not use this rule. They are written chants with no runic pathway layer.
+
 ### Activation
 
 The user does not need to be a mage to cast a runic spell. Non-mages cannot push mana, which is why they cannot use magic scrolls and must use runic scrolls instead. How the spell is powered depends on its style.

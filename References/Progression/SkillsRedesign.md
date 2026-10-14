@@ -83,7 +83,7 @@ World law: **Basic X** maxes at L9 → evolves to non-Basic form. Chapter 7 alre
 **Change:** Ambient absorption rate and pool stability. Hard regen % or MP/min per level. L9: fight without sitting. Evolve → **Mana Regulation**: combat regen / overflow control. **Only with a mana pool.** Pre-class / no-pool forced absorb is radiation-class poison (not practice).
 
 ### Basic Incantation
-**Change:** Cast time cut, not flavor. e.g. −10% chant time per level (cap), or skip one word tier at high level. Evolve → silent/short cast for lesser spells. Matters for bolt spam.
+**Change:** Cast time cut, not flavor. e.g. −10% chant time per level (cap), or skip one word tier at high level. Evolve → shorter / quieter (still audible) cast for lesser spells. **Not** true silent; normal magic spells cannot fire silent (`SilentCasting.md` / `Magic.md`). Matters for bolt spam.
 
 ### Mana Bolt (Spell)
 **Change:** Spells also L1–L9 then evolve (Mana Bolt → Mana Arrow is already that pattern; keep). Damage and cast cost scale clearly. Prefer evolving along ranged tree: Bolt → Arrow → Pierce / Volley forms.

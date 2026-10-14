@@ -364,7 +364,7 @@ No new traits. Becomes Bronze adventurer (card / rank, not a trait).
 
 No new named skills. Field use:
 
-- **Mana Bolt** + **Basic Incantation**: full chant required to finish shaping; whisper lowers power; **mental chant** weaker still (rewrite; Source only had whisper). Panting/running collapses the cast. Loud shout supercharges cost (~**>10%** MP pool on one heavy bolt).
+- **Mana Bolt** + **Basic Incantation**: full chant required to finish shaping; **near-silent whisper** lowers power; true silent / mental-only **fail** no matter how hard he tries (`SilentCasting.md`). Panting/running collapses the cast. Loud shout supercharges cost (~**>10%** MP pool on one heavy bolt).
 - **Mana Sense**: detects mana stones in corpses without butchering.
 - **Climbing** + **Sneaking**: tree ambush after tribal alarm chase (sooner than Source’s long run).
 - **Identify**: levels from reading / general knowledge (library note).
@@ -445,7 +445,7 @@ The caster moves objects with mana. Weight and range scale with Intelligence. Vi
 ════════════════════════
 ```
 
-Cast method (rewrite): chant makes the circle appear in the mind and easy to trace; mana almost guides itself while chanting (**on the move** ok). Mangled chant interrupts unless he already controls every part of the mana along the circle. Silent draw possible but so far always fails without some chant present. Even T1 circles are moderately complex. Int holds/follows the appeared circle. Spell/skill level-ups grant XP (often more than trash goblins). Absorption / Reinforcement stay up as mana is spent. **No evolves this skip** (evolve bar **2,000,000**). Foundations: Shaping **L6**, Regulation **L7**, Incantation **L6**. Running / Climbing / Throwing / Sprint / Leather stay **Basic L9**. Sword / Sneaking stay **Basic L8**. Marksmanship stays **L7**. **Basic Dodging** unlocked in Ch 9.5 and ends **L4**. Still Mage L20 on first class. Plans Mana Scribe next.
+Cast method (rewrite): chant makes the circle appear in the mind and easy to trace; mana almost guides itself while chanting (**on the move** ok). Mangled chant interrupts unless he already controls every part of the mana along the circle. True silent / mental-only cast of a normal magic spell **never works**; quiet floor is a **near-silent whisper**. Even T1 circles are moderately complex. Int holds/follows the appeared circle. Spell/skill level-ups grant XP (often more than trash goblins). Absorption / Reinforcement stay up as mana is spent. **No evolves this skip** (evolve bar **2,000,000**). Foundations: Shaping **L6**, Regulation **L7**, Incantation **L6**. Running / Climbing / Throwing / Sprint / Leather stay **Basic L9**. Sword / Sneaking stay **Basic L8**. Marksmanship stays **L7**. **Basic Dodging** unlocked in Ch 9.5 and ends **L4**. Still Mage L20 on first class. Plans Mana Scribe next.
 
 ### Traits
 
