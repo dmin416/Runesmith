@@ -349,9 +349,9 @@ Chapter-ordered list of runes Roland Arden (D) has crafted or created in complet
 - **Cite**: `Story/Chapters/19-30.md` Ch 22 lookback; `Story/Notes/Chapter21_5.md` seat-time section; `Story/Notes/Items.md` Ch 21.5; `Story/Notes/Chapter21_5Exit.md`
 
 ### Skills Progression (Day 120 / ~4 Months Exit)
-- **Basic Rune Scribing**: L1 → **L8** (main grind; ~103.7k cum; short of L9 at 500k)
-- **Drawing**: L1 → **L8** (tracks Rune Scribing clean line work; ~103.7k cum)
-- **Technology**: L7 → **L8** (every rune + desk-tech observe; ~125.1k cum)
+- **Basic Rune Scribing**: L1 → **L8** (main grind; ~105.4k cum; short of L9 at 500k; includes lighter scraps)
+- **Drawing**: L1 → **L8** (tracks Rune Scribing clean line work; ~105.4k cum)
+- **Technology**: L7 → **L8** (every rune + desk-tech observe + lighters; ~126.9k cum)
 - **Understanding of runic scroll making**: L1 → **L3** (~134 cum; prose progress line)
 - **Multitasking**: L5 → **L7** (~23.9k cum; dual quill+Hands concurrent work)
 - **Mana Hands**: Stays L9 (~0.80M cum; no evolve; evolve needs 2M)
@@ -363,7 +363,7 @@ Chapter-ordered list of runes Roland Arden (D) has crafted or created in complet
 - **Heat/Cold Resistance**: Continues via burn patch + freeze spot (Heat L5 ~3.3k, Cold L5 ~3.0k)
 - **Sharp/Blunt Resistance**: Ned leg jabs (Sharp L4 ~770, Blunt L4 ~513)
 - **Poison Resistance**: Ned toxin jabs (L6 ~5.4k cum; soft-repeat after daily doses)
-- **Basic Rune Mastery**: L1 slight (~7 cum; desk almost 0; combat later → L3 by Ch 23)
+- **Basic Rune Mastery**: L1 → **L5** (~2,910 cum; reject burns + tiny Fire Orb lighter scraps that always fired; combat later)
 - **Basic Mana Scribing**: Still low (L1 ~2 cum; rare word drills; L2 by Ch 23)
 - **Class**: Runic Mana Scribe L1 → soft **L4** (+3 this skip); schematic total +27,000 XP + pour XP (quality-weighted); overall bar ~16.0M (soft toward Ch 23 L35 / Scribe L10)
 - **Cite**: `Story/Notes/Chapter21_5Exit.md` skills section; `Story/Notes/Skills.md` Ch 21.5; `Story/Notes/Experience.md` Ch 21.5; `Story/Notes/Status.md` Ch 21.5
@@ -371,6 +371,7 @@ Chapter-ordered list of runes Roland Arden (D) has crafted or created in complet
 ### Additional Notes
 - **Full schematics completed**: 19 total this skip (3 pre-skip + 16 during) = Lesser (7): Detonation, Impact, Fire Orb, Mana Bolt/Orb, Fire/Water/Light Bolt, Fire/Water/Light Detonation, Aqua Orb; Common (9): Fire Arrow, Orb of Light, Aqua Ball, Mana Arrow/Ball, Light arrow, Fireball, Water arrow, Light ball
 - **Pure-mana set**: Mana Bolt + Mana Arrow + Mana Orb + Mana Ball (Bolt/Orb/Arrow/Ball shapes all have pure-mana variants)
+- **Tiny Fire Orb lighter scraps**: Coin-corner / scrap-paper Lowest Fire Orbs for utility light/heat and bored keep-alives between main production; always seated and fired (never kept); ~1,615 over skip (Phase A ~20/day, B ~15/day, C ~12/day); contribute to Rune Mastery L5 along with reject burns (~1,295)
 - **Desk rhythm**: Inn desk most days; Fire Orb practice when fails stack; no shop contract; no dungeon main; adventure motive (auction freedom vs six-year desk curse), not greed-first
 - **Lazy Diagnosis grafts**: Component swaps with unmodified ratios; Diagnosis marks faults; occasional paper spontaneous burn
 - **Press matrix technique**: Relief stamp for repeated patterns; remade when wrong; then seconds per pull
