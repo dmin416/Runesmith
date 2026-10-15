@@ -343,7 +343,7 @@ Rewrite-only timeskip (~**4 months**). Source folds mid/late into Ch 22 open. **
 |---|---|
 | Basic Rune Scribing | **L8** (seat-time; cum ~**100k–110k**; short of L9) |
 | Understanding of runic scroll making | **L3** |
-| Basic Rune Mastery | slight at desk; **L3** by Ch 23 combat |
+| Basic Rune Mastery | **L5** (~**2,910**; reject burns + lighter scraps); combat later |
 | Basic Mana Scribing | **L1** soft; **L2** by Ch 23 |
 | Drawing | **L8** (tracks RS) |
 | Mana Hands | **L9** (no evolve by exit; bar pads) |
@@ -363,7 +363,7 @@ Uses law: `SkillRanks.md` + quality ×. Wall = draw + tip-sip fill (`Chapter21_5
 | Multitasking | L5 → **L7** | dual desk / Hands concurrent | |
 | Mana Hands | L9 → L9 | ×MT concurrent | No evolve by day **120** |
 | Basic Mana Scribing | L1 → L1 | rare | L2 by Ch 23 |
-| Basic Rune Mastery | L1 → slight | combat | L3 Ch 23 |
+| Basic Rune Mastery | L1 → **L5** | reject burns + tiny Fire Orb lighters (~**2,910**) | combat later |
 | Sleep Resistance | L6 → **L7** | short nights | +1 |
 | Technology | L7 → **L8** | every rune/tech observe | seats×q + 12/day |
 | Hunger / Pain | —→L6 / L5→L6 | starve + patch | |
@@ -380,7 +380,7 @@ End ranks / XP / coin / inventory: `Chapter21_5Exit.md` · `Skills.md` / `Experi
 **Present day** after Ch 21.5 (~4 months desk; seat-time mix). Grind backstory lives in **21.5**.
 
 - Libra: **Percival** (analytic class; appraisal/ID without mana tools) + assistant **Cynthia**. Rejects below price floor. Appraises ten branded Fireballs: all **Highest**, **empty**. Empty fair Highest **7.5 LS** (`ScrollEconomy.md`). Runic scrolls can **amplify** if the user feeds more mana (rank-capped). City runesmiths mostly metal; scrolls are mana-control practice.
-- Lookback (filed under 21.5): next-day buy three dusty runic samples; perfect schematics; quality-only seats; Fireball sell after Aqua Ball; Phase C **~76** Mana Arrow / **~8** Fireball / **~2** Light Ball per day; Rune Scribing / Drawing **L8**; Technology **L8**; understanding **L3**; Multitasking **L7**; Mastery slight; last **1 SS**; brand + servant disguise.
+- Lookback (filed under 21.5): next-day buy three dusty runic samples; perfect schematics; quality-only seats; Fireball sell after Aqua Ball; Phase C **~76** Mana Arrow / **~8** Fireball / **~2** Light Ball per day; Rune Scribing / Drawing **L8**; Technology **L8**; understanding **L3**; Multitasking **L7**; Mastery **L5**; last **1 SS**; brand + servant disguise.
 - Sale hall: seller plaque (no entry fee); sits in back; first-timer cut **25%** (can fall to 10%). Stage for common→grand; paddles; beauty auctioneer. Two boxes of five Highest each; open **32 LS**; sell **40 LS** + **40 LS** (gross **8 SG**).
 
 ## Chapter 23

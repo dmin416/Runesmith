@@ -74,7 +74,7 @@ Uses are clean weighted where quality applies.
 | Blunt Res | **~3.6** | **1** | **~3.6** | **Unlocks** |
 | Poison Res | **~2.8** | **6** | — | Soft toxin |
 | Recovery | **~2** | **5** | — | |
-| Rune Mastery | **~0.05** | **1** | — | Desk-dead |
+| Rune Mastery | reject burns + **~20** lighters | **1** | — | Rejects + tiny Fire Orb lighters → **L5** |
 | Mana Scribing | **0** | **1** | — | No word scroll today |
 
 **Attribute pads today (from new Hunger levels L1–L3):** Vit **72 → 75**, End **81 → 84**.  

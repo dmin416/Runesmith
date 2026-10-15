@@ -230,7 +230,7 @@ Retuned under **quality-only seating** (post trial / first night) + quality × (
 | Basic Mana Shaping | **L7** (linear; short of L8) |
 | Basic Mana Regulation | **L8** |
 | Basic Mana Scribing | **L1** soft (**L2** Ch 23) |
-| Basic Rune Mastery | slight (**L3** Ch 23 combat) |
+| Basic Rune Mastery | **L5** (~**2,910** = reject burns + lighter scraps; combat later) |
 | Sleep Resistance | **L6 → L7** printed (+1); raw meter overshoots if unsoftened |
 | Hunger / Pain / Technology / Ned | Hunger **L6**; Pain **L6**; Technology **L7→L8** (every rune/tech observe); Ned night pack |
 | Class | schematics **+27,000** + pour × quality; soft toward Ch 23 **L35** / Scribe **L10** |
@@ -255,6 +255,12 @@ Retuned under **quality-only seating** (post trial / first night) + quality × (
 Technique clean-rate: **~1.0** this skip (seating already known). **Only quality** moves. **Already at a rank:** only uses past that cum count toward the next.
 
 **Quality × skill credit (locked):** Lowest **1** · Low **2** · Intermediate **4** · High **8** · Highest **16** (`SkillRanks.md`).
+
+**Rune Mastery activations (locked):** seating does **not** count. Every scrap he **fires** (paper burns) counts **1** (unweighted). Keep / sell floor stays unfired. Phase A fires all. Phase B keeps High+Highest, burns Low/Int. Phase C keeps High+Highest Mana Arrow / Light Ball, sells Highest Fireballs empty, burns everything below those floors (plus weak hide patch reseats).
+
+**Tiny Fire Orb lighter scraps (locked):** coin-corner / scrap-paper **Lowest** Fire Orbs for utility light/heat and bored keep-alives between Arrow remakes. Always seated **and** fired (never keep stock). Not in the MA/FB/LB seat-time mix. Rates: Phase A **~20**/day · B **~15**/day · C **~12**/day → **~1,615** over the skip. Also credit **Rune Scribing / Drawing** (Lowest ×**1** each), light Hands / Shaping / Technology ticks.
+
+**Mastery skip total:** reject burns **~1,295** + lighters **~1,615** → **~2,910** → exit **L5** (short of L6 at **5,000**).
 
 **Quality-only:** no fail wall this skip. **Form transfer:** kit siblings are fast/linear (`MagicScrollMaking.md`).
 
@@ -410,6 +416,7 @@ Same lodging / patch / short sleep, but desk blocks swap production mix for:
 | Clean / skill-counting seats | **~75**/day |
 | MP spent | **~3,000–3,500**/day (draw-limited; tip-sip cap **~12.6k**) |
 | Hide burn patch | **1** weak rune reseated every few days |
+| Tiny Fire Orb lighter scraps | **~12**/day Phase C (A **~20** / B **~15**); always fired |
 | Ink batch | **1** mix / day or every other day |
 | Press matrix | Remade when wrong; then **seconds**/pull |
 
@@ -479,7 +486,7 @@ Field curve: weighted cum uses (seat × quality). Clean seat = finished controll
 | **Quality climb (~month 1)** | FA + siblings → first Highest each | Working seats every try; push Low→Int→High→Highest. |
 | **Early stock** | Same desk; refuse below High on sell line | Sibling forms transfer fast. |
 | **~Weeks into Phase C** | RS **L5 → L7** fast (~**85** seats/day × quality) | Then **L8** by ~d117; Technology **L8** by ~d98; S drops each RS rank. |
-| **Brand months** | MA keep + Fireball sell; refuse below Highest on sell batch | Mats and blood-ink are the brake; Mastery flat (combat). |
+| **Brand months** | MA keep + Fireball sell; refuse below Highest on sell batch | Mats and blood-ink are the brake; Mastery **L5** from reject burns + tiny Fire Orb lighter scraps. |
 | **Exit sell batch** | Ten Fireballs (all **Highest**, empty), comet brand | Quality + coin, not “can he finish a scroll.” |
 
 **Compound picture:** quality remakes only, High/Highest credit, S falling with RS L. Hide pile is the late brake.
@@ -578,7 +585,7 @@ Prefill does **not** change seat counts or hide spend — same scroll, second po
 | Blunt / Sharp / Poison | Ned jabs; soft climb |
 | Technology | **L7 → L8** (every rune + desk-tech observe) |
 | Heat / Cold | patch grind past Ch 19 **L5** |
-| Rune Mastery / Mana Scribing | flat at desk → Ch 23 **L3** / **L2** |
+| Rune Mastery / Mana Scribing | Mastery **L1 → L5** (~**2,910**; rejects + lighters); Scribing **L8** (lighters pad Lowest); Mana Scribing flat → Ch 23 **L2** |
 | Class / overall | schematics **+27,000** + pour × quality (Phase C ~**3k MP**/day × quality) |
 
 ### Needs ignored → addressed
