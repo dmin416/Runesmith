@@ -270,21 +270,48 @@ for day in range(1, 366):
         cast_for_xp = MA_SHARE * 50 + FB_SHARE * 400 + LB_SHARE * 400
         S = st["S"]
 
+    # Tiny Fire Orb lighter / keep-alive scraps (Lowest; always seated + fired).
+    # Bored keep-alives between Arrow remakes + utility light/heat. Not sell stock.
+    if phase == "A":
+        lighters = 20.0
+    elif phase == "B":
+        lighters = 15.0
+    else:
+        lighters = 12.0
+
     # --- Roland daily uses (rules) ---
-    rs_uses = seats * q_avg
+    rs_uses = seats * q_avg + lighters  # lighters = Lowest ×1
     drawing_uses = rs_uses
     understanding = (1.0 if day <= 25 else (0.12 if day <= 90 else 0.04)) * min(4.0, q_avg)
-    mt_uses = seats * (1.2 + 0.25 * concurrent_hands)  # attention split, no quality×
-    # Hands: 6 uses/Hand/finished seat × concurrent Hands (no quality×)
-    hands_uses = seats * HANDS_PER_SEAT * concurrent_hands
-    shaping = seats * 1.0  # linear
-    regulation = 60.0 + seats * 0.15  # tip-sip pulses, linear
+    mt_uses = seats * (1.2 + 0.25 * concurrent_hands) + lighters * 0.5
+    # Hands: 6 uses/Hand/finished seat × concurrent Hands (no quality×); lighters lighter touch
+    hands_uses = seats * HANDS_PER_SEAT * concurrent_hands + lighters * 2.0
+    shaping = seats * 1.0 + lighters
+    regulation = 60.0 + seats * 0.15 + lighters * 0.5
     absorb = regulation * 0.85
     reinf = regulation * 0.45
     mana_scribing = 0.15 if day % 17 == 0 else 0.0
-    rune_mastery = 0.05
+    # Mastery = activations (paper burns). Not seating.
+    # Keep/sell floor stays unfired; everything below is burned as scrap.
+    # A: fire all. B: keep High+Highest. C: MA/LB keep High+Highest; FB sell Highest only.
+    # Lighters always fire. Patch reseat ~every 3 days.
+    if phase == "A":
+        rune_mastery = seats + lighters
+    elif phase == "B":
+        rune_mastery = seats * (
+            mix["Lowest"] + mix["Low"] + mix["Intermediate"]
+        ) + lighters
+    else:
+        below_hi = mix["Intermediate"] + mix["High"]
+        rune_mastery = (
+            ma * mix["Intermediate"]
+            + fb * below_hi
+            + lb * below_hi
+            + (1.0 / 3.0)
+            + lighters
+        )
     # Technology: every observe of runes + desk tech (ink, press, tools, pathways)
-    technology = seats * q_avg + 12.0
+    technology = seats * q_avg + 12.0 + lighters
 
     # Sleep: T0=8h, sleep ~4h; soft-repeat so exit ~L7 @ skip (printed +1)
     sleep_L = level_from_cum(roland_cum["SleepRes"])

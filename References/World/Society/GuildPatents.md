@@ -6,7 +6,7 @@
 
 How paper, ink, print, and steel are made stays in `World/Science/Invent/Paper.md`, `Ink.md`, `Printing.md`, and the metallurgy notes. Coin locks stay in `Economy/Economy.md`. Source lines that say this world has no patents, and that he buys a pencil, stay Source. Year bands below are design stages after the partnership starts. They do not rebuild the 361-day year and they are not chapter numbers.
 
-The contract terms this note uses are the ones in the first section: active protection and a 50/50 split.
+The contract terms this note uses are the ones in the first section: active protection and a 50/50 split. Earth ceilings for city guilds, churches, and empires are in `PowerTypes.md`. Those ceilings do not cap this partnership.
 
 ---
 

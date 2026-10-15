@@ -309,4 +309,4 @@ Rewrite-only ~**4 month** grind.
 
 **Skip exit carry:** Steel card, detonation rapier, **Ned**, map, ten branded **Fireball** scrolls (all **Highest**, **empty**), Mana Arrow keep pile (**~20** preloaded), a few Light Ball keepers (**~6** preloaded), robe/mask disguise kit, wallet **1 SS**, stone bank (reduced by ink cores). **No** schematic sheets. Full exit sheet: `Chapter21_5Exit.md`.
 
-**Ch 22 Libra (first Fireball sale):** ten Highest empty; two boxes @ **40 LS** → gross **8 SG**; **25%** → net **6 SG** into wallet (was **1 SS**). Empty fair Highest **7.5 LS** (`ScrollEconomy.md`).
+**Ch 22 Libra (first Fireball sale):** ten **Runic Fireball [Common][Highest]** empty (red comet / shooting-star logo); Amplify if fed (rank-capped). Percival almost trashes low-look hide wrap; guide **~7–8 LS** each (fair Highest empty **7.5 LS**). Bundled two×five; open **32 LS**; hammers **42 LS** + **46 LS** → gross **8 SG 8 LS**; **25%** → net **6 SG 6 LS** (wallet **6 SG 6 LS 1 SS** with kept **1 SS**). Identify: scrolls need the **rune visible**; body need full cloth cover (water-ball self-test).

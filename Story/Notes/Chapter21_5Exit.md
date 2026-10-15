@@ -60,16 +60,16 @@ Overall XP bar enter **7329** → exit **~16,034,518** (schematics **+27,000** +
 
 | Skill | L | Cum (soft) | Notes |
 |---|---:|---:|---|
-| Basic Rune Scribing | **8** | **~103.7k** | Short of L9 **500k** |
-| Drawing | **8** | **~103.7k** | Tracks RS |
-| Technology | **8** | **~125.1k** | Every rune + desk-tech observe |
+| Basic Rune Scribing | **8** | **~105.4k** | Short of L9 **500k**; includes lighter scraps |
+| Drawing | **8** | **~105.4k** | Tracks RS |
+| Technology | **8** | **~126.9k** | Every rune + desk-tech observe + lighters |
 | Understanding (runic scrolls) | **3** | **~134** | |
 | Multitasking | **7** | **~23.9k** | Concurrent Hands **7** |
 | Mana Hands | **9** | **~0.80M** | No evolve |
 | Basic Mana Shaping | **7** | **~28.5k** | |
 | Basic Mana Regulation | **8** | **~108.5k** | |
 | Basic Mana Scribing | **1** | **~2** | Soft; **L2** later |
-| Basic Rune Mastery | **1** | **~7** | Slight at desk; combat later |
+| Basic Rune Mastery | **5** | **~2,910** | Reject burns + tiny Fire Orb lighter scraps (always fired); combat later |
 | Sleep Resistance | **7** | **20k** soft-cap | Printed **+1** this skip |
 | Hunger Resistance | **6** | **~9.6k** | |
 | Pain Resistance | **6** | **~5.2k** | |

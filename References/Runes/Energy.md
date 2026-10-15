@@ -53,7 +53,7 @@ A      = √C                     // ambient; open ground A = 1
 
 η is a level power factor, not a 0–1 cap. Combined INT × level feel lands about **1× to 10×** in normal bands.
 
-**Voice / mana-in (Bolt baseline):** Mental 10, Whisper 15, Quiet 20, Normal 25, Loud 40, Very loud 50. Voice only sets mana spent. Overcharge = mana used. Spell-specific voice tables (Arrow 2× Bolt, etc.): `../World/Science/Energy/ManaCast.md`.
+**Voice / mana-in (Bolt baseline):** Whisper 15, Quiet 20, Normal 25, Loud 40, Very loud 50. Quiet floor is whisper (near-silent). Mental / true silent never lands a normal magic spell (`../../Story/Notes/SilentCasting.md`). Voice only sets mana spent. Overcharge = mana used. Spell-specific voice tables (Arrow 2× Bolt, etc.): `../World/Science/Energy/ManaCast.md`.
 
 **Mana-in channels (what sets mana spent):** Voice/volume, emotional intensity / focus / skill, and overcharge all only change **how much mana** goes into the cast. They do not change η(L) or μ(INT). A whisper from a furious focused caster and a shout from a calm one can land on the same mana total and the same joules.
 

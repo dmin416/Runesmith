@@ -2,7 +2,7 @@
 
 Earth station calendar for a Big-Island-style volcanic island at about 19–20°N, mountains above 4,000 m, northeast trades, and an older ridge to the north. Real stations on Hawaiʻi Island and Maui anchor the zones. A value marked *representative* has no station and follows the documented pattern.
 
-Design use: Dragnis-class islands. Biomes: `HawaiianBiomes.md`. Farm placement: `Farming.md`. Equator sunlight (0°, not this latitude): `../../Space/EquatorialSunlight.md`. Hilo's 41% of possible sunshine and Honolulu's 68% match that sheet's cloud rows.
+Design use: Dragnis-class islands. Biomes: `HawaiianBiomes.md`. Farm placement: `Farming.md`. Coast / channel wind atlas and beach-glider lift: `HawaiianWindsBeachGlider.md`. Equator sunlight (0°, not this latitude): `../../Space/EquatorialSunlight.md`. Hilo's 41% of possible sunshine and Honolulu's 68% match that sheet's cloud rows.
 
 Terra's year is 361 days (`../Places.md`). Months, weeks and solstice dates below are an Earth year. Use the pattern. Do not paste January 1 onto the Terra calendar.
 

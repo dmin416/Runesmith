@@ -343,7 +343,7 @@ Rewrite-only timeskip (~**4 months**). Source folds mid/late into Ch 22 open. **
 |---|---|
 | Basic Rune Scribing | **L8** (seat-time; cum ~**100k–110k**; short of L9) |
 | Understanding of runic scroll making | **L3** |
-| Basic Rune Mastery | slight at desk; **L3** by Ch 23 combat |
+| Basic Rune Mastery | **L5** (~**2,910**; reject burns + lighter scraps); combat later |
 | Basic Mana Scribing | **L1** soft; **L2** by Ch 23 |
 | Drawing | **L8** (tracks RS) |
 | Mana Hands | **L9** (no evolve by exit; bar pads) |
@@ -363,7 +363,7 @@ Uses law: `SkillRanks.md` + quality ×. Wall = draw + tip-sip fill (`Chapter21_5
 | Multitasking | L5 → **L7** | dual desk / Hands concurrent | |
 | Mana Hands | L9 → L9 | ×MT concurrent | No evolve by day **120** |
 | Basic Mana Scribing | L1 → L1 | rare | L2 by Ch 23 |
-| Basic Rune Mastery | L1 → slight | combat | L3 Ch 23 |
+| Basic Rune Mastery | L1 → **L5** | reject burns + tiny Fire Orb lighters (~**2,910**) | combat later |
 | Sleep Resistance | L6 → **L7** | short nights | +1 |
 | Technology | L7 → **L8** | every rune/tech observe | seats×q + 12/day |
 | Hunger / Pain | —→L6 / L5→L6 | starve + patch | |
@@ -377,18 +377,22 @@ End ranks / XP / coin / inventory: `Chapter21_5Exit.md` · `Skills.md` / `Experi
 
 ## Chapter 22
 
-**Present day** after Ch 21.5 (~4 months desk; seat-time mix). Grind backstory lives in **21.5**.
+**Present day** after Ch 21.5 (~4 months desk; seat-time mix). Grind backstory lives in **21.5**. Chapter wins.
 
-- Libra: **Percival** (analytic class; appraisal/ID without mana tools) + assistant **Cynthia**. Rejects below price floor. Appraises ten branded Fireballs: all **Highest**, **empty**. Empty fair Highest **7.5 LS** (`ScrollEconomy.md`). Runic scrolls can **amplify** if the user feeds more mana (rank-capped). City runesmiths mostly metal; scrolls are mana-control practice.
-- Lookback (filed under 21.5): next-day buy three dusty runic samples; perfect schematics; quality-only seats; Fireball sell after Aqua Ball; Phase C **~76** Mana Arrow / **~8** Fireball / **~2** Light Ball per day; Rune Scribing / Drawing **L8**; Technology **L8**; understanding **L3**; Multitasking **L7**; Mastery slight; last **1 SS**; brand + servant disguise.
-- Sale hall: seller plaque (no entry fee); sits in back; first-timer cut **25%** (can fall to 10%). Stage for common→grand; paddles; beauty auctioneer. Two boxes of five Highest each; open **32 LS**; sell **40 LS** + **40 LS** (gross **8 SG**).
+- **Libra intake:** **Percival** (special non-combat analytic class; appraisal / Identify without mana tools) + assistant **Cynthia**. Multiple ranked stages (no grand sword before lesser potion). Rejects below a price floor (trash tray). Rough wrap / low-look hide almost tossed; Cynthia spots large symbols → runic, not word scrolls.
+- **Appraisal:** ten **Runic Fireball [Common][Highest]**; every one Highest; red shooting-star / **comet** logo. **Empty** (buyer pays charge). Amplify if user feeds more mana (rank-capped). Percival guide **~7–8 LS** each (fair Highest empty **7.5 LS**, `ScrollEconomy.md`). Intermediate **word** Fireball shop talk **~3 LS**. Highest ≈ half-step into greater. City runesmiths mostly metal; scrolls = mana-control practice. Prices guide auctioneer minimum.
+- **Bundle:** Cynthia asks bundle vs separate; Percival says bundle (Highest pulls bids). Two boxes of five; string wrap for stage.
+- **Roland outside / lookback:** robe + face mask (servant of the runesmith). Last **1 SS**. Status: RS **L8**, Mastery **L5** (reject burns + tiny Fire Orb lighters), Understanding **L3**, Technology **L8**; Drawing / MT / resists / attrs from desk (`Chapter21_5Exit.md`). Three dusty samples day 1 → perfect schematics → quality-only seats; Fireball sell after Aqua Ball. Party gift + hunt wallet felt like quiet living for the better part of a year; **4 months** desk emptied it. Stuck-room feel **nearly half a year**; ditched chair to keep muscles. Brand logo; refuse sell below Highest. Merchant-slave / rivalry / family paranoia → disguise.
+- **Identify tests (desk months):** even weak Identify tags **Ned** as monster. Concealment weak unless whole body under enough cloth / obstruction. Scrolls: cannot Identify unless the **rune is visible**. Wraps himself until he cannot Identify his reflection in a **water ball**.
+- **Seller path:** numbered plaque; no entry fee. Evening: other rejected lots leave; his stay = accepted. Sits back of **third hall** (common **and** grand; he expected lesser/common-only). Paddles; count of three. First-timer cut **25%** (can fall to **10%**). Buyer pays house; seller can collect another day.
+- **Auction:** beauty auctioneer in red dress (duck-face pose). Common lots first (open accessory **5 SS**). His lot last of commons / spectacle. Open first box **32 LS** (higher than he expected). Hammers **42 LS** + **46 LS** → gross **8 SG 8 LS**. He reads it as more than enough room to keep working after the house cut.
 
 ## Chapter 23
 
-- Seller **#64** pickup after midnight: gross **8 SG** → net **6 SG** after 25% (fee **2 SG**). Buyers who refuse pay get reported; house is sanctioned. Hood + ninja mouth-mask; curious staff note the new Highest-common craftsman. **Sleep Resistance** +1 over the four-month grind (one meal/day looks). Sleeps to noon church bells.
+- Seller **#64** pickup after midnight: gross **8 SG 8 LS** → net **6 SG 6 LS** after 25% (fee **2 SG 2 LS**). Wallet **6 SG 6 LS 1 SS** (kept the last **1 SS**). Buyers who refuse pay get reported; house is sanctioned. Hood + ninja mouth-mask; curious staff note the new Highest-common craftsman. **Sleep Resistance** +1 over the four-month grind (one meal/day looks). Sleeps to noon church bells.
 - Mass-produces Fire Arrow (~**10/week** ≈ **1 SG**). Mana drain: dizzy/sleepy when low; zero = headache/pass out + next-day regen debuff. Fire Arrow scribing is Runesmith-tier mana cost (Blessed regen + Mage pool lets him push past 1–2/day). Percival sees more Highests; shops notice but volume too small to squeeze him. Better quill/paper; fortune recovering.
 - +3 months: bored of assembly-line Fire Arrow (sample stack 6 Highest + 4 High). Forest ~2h from city. **Mountain Goblins** (pale, taller, tougher; rare carriage attacks; late second-T1 fight band). Stealth Basic→regular (advanced needs Rogue). Scrap **Fire Arrow grimoire** from Low/Lowest rejects: page crumbles on cast; no chant; levels **Rune Mastery** via use. Craft class = weak kill XP.
-- Live sheet **L35** / Mage L25 secondary / Scribe L10. Skills: Mana Scribing L2, Rune Scribing L5, Rune Mastery L3; Mana Shaping L6, Mana Regulation L7 (full regen in a few hours; faster still / more skin bare). Common runes manageable from Rune Scribing L4+. Plans buy city runic scrolls for schematics; dreams runic staff.
+- Live sheet **L35** / Mage L25 secondary / Scribe L10. Skills: Mana Scribing L2; Rune Scribing / Mastery Source print **L5 / L3** behind desk exit (**RS L8** / Mastery **L5+**); Mana Shaping L6, Mana Regulation L7 (full regen in a few hours; faster still / more skin bare). Common runes manageable from Rune Scribing L4+. Plans buy city runic scrolls for schematics; dreams runic staff.
 - Hunt interrupted: Helci fleeing **5** mountain goblins (clubs/swords; bloody dagger) toward a ~**20 m** cliff ledge. He sets up to snipe with the grimoire.
 
 ## Chapter 24
