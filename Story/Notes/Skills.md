@@ -625,11 +625,13 @@ Rewrite-only ~**4 month** desk grind (Source folds into Ch 22 open). Enter: Rune
 
 ## Chapter 22
 
-Day after 21.5 exit. Skills as 21.5 exit. Batch: ten Highest Fireball empty (red comet / brand plaque). Cover: robed/masked servant of a runesmith.
+Skills as **21.5 exit** (printed on lookback): Basic Rune Scribing **L8**, Basic Rune Mastery **L5**, Understanding of runic scroll making **L3**, Technology **L8**; Drawing / Multitasking / resists as exit sheet. Batch: ten Highest Fireball empty (red comet / brand plaque). Cover: robed/masked servant of a runesmith.
+
+**Identify (on-page tests):** weak Identify still tags **Ned** as monster. Body concealment fails unless the whole body is under enough cloth / obstruction. Scrolls cannot be Identified unless the **rune itself is visible**. He wraps until he cannot Identify his own reflection in a **water ball**. No new named skill unlock.
 
 ## Chapter 23
 
-Basic Mana Scribing L2. Basic Rune Scribing **L8** (desk exit; sheet may lag). Basic Rune Mastery **L5** from desk reject burns (Source L3 behind); combat use via scrap Fire Arrow grimoire climbs further. Basic Mana Shaping L7. Basic Mana Regulation L8 (full regen in a few hours; faster when still / more skin bare). Sleep Resistance already **L7** from 21.5. Technology **L8** from 21.5. Stealth Basic → regular. Common runes quality-only (seating known; only rank moves). Scrap Low/Lowest Fire Arrow grimoire: page crumbles on cast; no chant.
+Basic Mana Scribing L2. Basic Rune Scribing **L8** (desk exit). Basic Rune Mastery **L5+** from desk (Source hunt sheet **L3** behind); combat use via scrap Fire Arrow grimoire climbs further. Basic Mana Shaping L7. Basic Mana Regulation L8 (full regen in a few hours; faster when still / more skin bare). Sleep Resistance already **L7** from 21.5. Technology **L8** from 21.5. Stealth Basic → regular. Common runes quality-only (seating known; only rank moves). Scrap Low/Lowest Fire Arrow grimoire: page crumbles on cast; no chant.
 
 ## Chapter 24
 

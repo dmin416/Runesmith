@@ -61,8 +61,11 @@
 | 22 | Intermediate Fire Arrow | **6 SS** | Appraiser compare |
 | 22 | High Common runic Fire Arrow | up to **~10 SS** | Appraise |
 | 22 | Highest Common | **~12–15 SS** | Appraise |
-| 22 | First auction boxes (2×5) | **4 LS 5 SS** and **4 LS 7 SS** | Sold |
-| 22–23 | Auction gross → net | **9 LS 2 SS** → **6 LS 9 SS** after **25%** | Seller #64 |
+| 22 | Percival guide (Highest empty Fireball) | **~7–8 LS** each | Chapter |
+| 22 | Fair Highest empty Fireball | **7.5 LS** | `ScrollEconomy.md` |
+| 22 | First auction open (box of 5) | **32 LS** | Stage |
+| 22 | First auction boxes (2×5) | **42 LS** and **46 LS** | Sold |
+| 22–23 | Auction gross → net | **8 SG 8 LS** → **6 SG 6 LS** after **25%** | Seller #64; wallet **6 SG 6 LS 1 SS** |
 | 22 | Auction commission ladder | first **25%**, can fall to **10%** | House rules |
 | 22 | Party gift runway | **10 SG** lasted **~half year** of mats | Not ten months |
 | 23 | Weekly Fire Arrow volume | **~10** scrolls ~ **~1 SG** gross | Ongoing |

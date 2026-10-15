@@ -33,6 +33,7 @@ Stones, cast tables, batteries, engines, motors, fans, pumps, compression, fligh
 - [Pumps.md](Pumps.md). Lift, head, taps
 - [ShowerBathHeat.md](ShowerBathHeat.md). Earth heat to raise shower and bath water. Mixing valve and head stay in Pumps.md
 - [Flight.md](Flight.md). Hover / lift power
+- [LighterThanAir.md](LighterThanAir.md). Hot air / He / H2 / vacuum shells; tethers; buoyancy-assisted ascent; 100 kg volumes
 
 ## Light and wave
 

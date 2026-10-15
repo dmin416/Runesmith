@@ -170,7 +170,7 @@ Science ladders stay in `../../World/Science/Vehicle/`. These are D's builds.
 
 ### Hover Vehicle
 
-- **Lift:** Mana-powered lift holding it off the ground.
+- **Lift:** Mana-powered lift holding it off the ground. Heavier-than-air; buoyancy / aerostat family is separate (`../../World/Science/Energy/LighterThanAir.md`).
 - **Altitude effect:** Ambient mana thickens with height, so the vehicle gathers more power and runs more efficiently in the uplands and over the summit.
 - **Uses:** Crossing fresh lava, flooded loʻi, swamps, reefs and open water where wheels fail.
 - **Weakness:** Drops when mana runs out or inside an anti-magic zone.

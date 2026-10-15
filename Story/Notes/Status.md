@@ -521,13 +521,13 @@ Day 1: buys **Runic Orb of Light**, **Fire Arrow**, **Aqua Ball**. Then ~**4 mon
 
 ## Chapter 22
 
-No full status screen. Present day after 21.5. Last cash **1 SS** into auction. Gross sale **8 SG** (two × **40 LS**, ten Highest empty); **25%** → net **6 SG**. Comet brand launches on-stage.
+No full status screen. Present day after 21.5. Lookback prints RS **L8**, Mastery **L5**, Understanding **L3**, Technology **L8**. Last cash **1 SS** into auction. Percival: ten Highest empty Fireballs; amplify-capable; guide **~7–8 LS** each. Open **32 LS**; hammers **42 LS** + **46 LS** → gross **8 SG 8 LS**. Net after **25%** lands in Ch 23 (**6 SG 6 LS**; wallet **6 SG 6 LS 1 SS**). Comet / red shooting-star brand on stage.
 
-**Rewrite:** climbing toward Ch 23 full sheet (Scribe toward **L10** / overall **L35**).
+**Rewrite:** climbing toward Ch 23 full sheet (Scribe toward **L10** / overall **L35**). Desk exit attrs from `Chapter21_5Exit.md` (not the soft Ch 23 Source block).
 
 ## Chapter 23
 
-Overall L35. Mage L25 secondary. Runic Mana Scribe L10 main. Seller #64 net **6 SG** (Fireball first sale). Weekly ~**1 SG** from ten Fire Arrow scrolls. Live sheet (mid-hunt MP spent):
+Overall L35. Mage L25 secondary. Runic Mana Scribe L10 main. Seller #64 net **6 SG 6 LS** (Fireball first sale; wallet **6 SG 6 LS 1 SS**). Weekly ~**1 SG** from ten Fire Arrow scrolls. Live sheet (mid-hunt MP spent):
 
 **Live (chapter)** — Source block still on-page:
 
@@ -583,7 +583,7 @@ Luck                   7
 ════════════════════════
 ```
 
-Skills shown: Basic Mana Scribing L2, Basic Rune Scribing L5, Basic Rune Mastery L3; also Mana Shaping L6, Mana Regulation L7. Helci cliff rescue unfinished.
+Skills shown (Source print): Basic Mana Scribing L2, Basic Rune Scribing L5, Basic Rune Mastery L3. **Rewrite floor from desk:** RS **L8**, Mastery **L5+**; also Mana Shaping L6, Mana Regulation L7. Helci cliff rescue unfinished.
 
 ## Chapter 24
 

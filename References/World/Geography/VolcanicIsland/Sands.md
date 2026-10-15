@@ -1,6 +1,6 @@
 # Volcanic Island Sands
 
-Companion to `Resources.md`, `Ecology.md`. Minerals / iron / elements: `HawaiianMinerals.md`. Titanium source notes: `../../Science/Metallurgy/Titanium.md`. Separation properties: `../../Science/Metallurgy/SilicaSand.md`.
+Companion to `Resources.md`, `Ecology.md`. Minerals / iron / elements: `HawaiianMinerals.md`. Blowing-sand thresholds / beach wind: `HawaiianWindsBeachGlider.md`. Titanium source notes: `../../Science/Metallurgy/Titanium.md`. Separation properties: `../../Science/Metallurgy/SilicaSand.md`.
 
 Earth Hawaii / hotspot-island sand and silica-titanium geology. Use for Dragnis-class island design. Legal note at end is Earth Hawaii law, not Terra law.
 

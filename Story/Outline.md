@@ -28,7 +28,7 @@ Rewrite note: once he has a sample, he isolates segments and builds what the job
 - Ch 20: Shop hunt. Exeor dusty runic shelf (Light / Fire Arrow / Aqua). Refuses six-year slave contract.
 - Ch 21: Other shops worse. Practices regular vs runic scrolls. Chooses auction path over cursed contracts.
 - Ch 21.5: Desk skip ~**4 months**. Day 1 buys runic **Orb of Light** / **Fire Arrow** / **Aqua Ball**. Seat-time **Fireball** sell / **Mana Arrow** keep / few Light Balls. Prefill personal/gift only. Exit ten comet Fireballs (all **Highest**, empty), last **1 SS**, RS / Technology **L8**.
-- Ch 22: Libra appraises comet **Fireball** Highest lot (empty). **Crimson Comet** brand launches. Auction present day. Empty fair Highest **7.5 LS**. Two boxes of five @ open **32 LS**; hammers **40** + **40** → gross **8 SG**; **25%** → net **6 SG**.
+- Ch 22: Libra (**Percival** / **Cynthia**) appraises ten comet **Fireball** Highest empty. Guide **~7–8 LS**; fair **7.5 LS**. Identify concealment tests (Ned / scrolls / water ball). Open **32 LS**; hammers **42** + **46** → gross **8 SG 8 LS**; net in Ch 23.
 - Ch 23: Auction payday. Pivots volume to **Fire Arrow** after the Fireball brand lands. Forest grind for Rune Mastery. Helci flees mountain goblins toward a cliff.
 - Ch 24: Saves Helci with Fire Arrows. Road berating / sausage “thanks.” Separate at gate.
 - Ch 25: Sample-buy plan. Exeor manager outs him as Runic Mana Scribe. Sponsorship offer (workspace, mats, shorter term).
