@@ -52,7 +52,7 @@ Mana Shaping, Mana Regulation, Mana Bolt, Incantation (+ **40** attribute perks)
 
 ### Not yet (post-leave)
 
-Dodging, Mana Arrow/Shield, Heat, Mana Hands, Absorption, Reinforcement, Alcohol / Pain / Poison / Cold / Heat resists, Recovery, Calligraphy L9, Taming, Sound / Echo.
+Dodging, Mana Arrow/Shield, Heat, Mana Hands, Absorption, Reinforcement, Alcohol / Pain / Poison / Heat resists (Cold = night sleep; ColdNightSleep.md), Recovery, Calligraphy L9, Taming, Sound / Echo.
 
 ---
 
@@ -163,7 +163,7 @@ Dungeon half-year: boar/bash keeps **Blunt** climbing toward **L5**; Sharp only 
 
 ### Grill (Ch 19) role
 
-Thermal grill is for **Heat / Cold / Pain / Recovery** spam. It is a poor Blunt teacher. Ned tip catches = **Sharp + Pain + Poison + Recovery**. Keep kinetic ranks mostly on **real hits** before the train.
+Thermal grill is for **Heat / Pain / Recovery** spam (**no frost Cold**; night sleep separate). It is a poor Blunt teacher. Ned tip catches = **Sharp + Pain + Poison + Recovery**. Keep kinetic ranks mostly on **real hits** before the train.
 
 ---
 

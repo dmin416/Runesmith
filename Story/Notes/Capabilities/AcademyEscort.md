@@ -51,7 +51,7 @@ Source: overall **~L100**, near gold, above Armand as a fighter. Rewrite attrs a
 | Skill | State around Ch 108 |
 |---|---|
 | Heat Resistance | Train **L5** + Blacksmith narrative + **Runesmith Lord** class Heat Resistance grant (Ch 81). Level after grant not printed |
-| Pain / Cold / Poison | At least Ch 19 floors; Pain deepens much later (Ch 197) |
+| Pain / Poison | At least Ch 19 floors; Pain deepens much later (Ch 197); Cold still soft / ambient unless a later beat trains it |
 | Alcohol | ≥ Carwen **L4** |
 | Sleep | High Resistance; Immunity is Ch **123** |
 

@@ -126,7 +126,7 @@ Roland on schematics / class change / parting. Ned mostly scarf + room drills + 
 
 Moving echolocation target under seats / rack / panels. Daily **Roland** blood drip continues and **extra** from pokes / missed needles (paid from Roland’s rising Recovery, not free). Shallow intentional **nibbles / tip-pokes** on Roland’s forearm and hand. **Needle-catch drill:** short launches at Roland; he eyes-shut locates on soft clicks, catches and **feeds the tip back into Ned’s mouth** (spent needle nutrients → new growth). Soft cabin volume; not full charge shots. Almost no Spring Charge room.
 
-**On-page thermal beat:** Ned rests across Roland’s shoulders during the forearm grill; one cold patch near the scarf line makes Ned flinch and Roland shifts it away. **Design lock (shared Trauma / Seal):** Pain / Heat / Cold / Seal exit ranks below stay locked with Roland’s grill week in `Skills.md` Ch 19 (same intensity family as the scarf near-miss + tip wear / harvest nicks). Mana shaping stays Roland’s; Ned levels off launches, **Climbing** (seat backs / wall panels / luggage rack), **Stealth / Camouflage** hides, shared trauma and eating.
+**On-page thermal beat:** Ned rests across Roland’s shoulders during the forearm grill; one **hot** patch near the scarf line makes Ned flinch and Roland shifts it away. **Design lock (shared Trauma / Seal):** Pain / Heat / Seal exit ranks below stay locked with Roland’s grill week in `Skills.md` Ch 19 (same intensity family as the scarf near-miss + tip wear / harvest nicks). **No Cold Resistance** train for Ned (Roland’s Cold = night sleep (ColdNightSleep.md); no Ned Cold; frost effort → Heat / Seal / Recovery). Mana shaping stays Roland’s; Ned levels off launches, **Climbing** (seat backs / wall panels / luggage rack), **Stealth / Camouflage** hides, shared trauma and eating.
 
 **Form:** Greater Needle Worm (T2)  
 **Overall:** **26** (keeps pace with Roland **L26**; blood/eat XP does not invent a separate curve)  
@@ -163,11 +163,11 @@ Luck                   7
 | Stealth / Camouflage | **L7** | **L8** | Always-on camo since tame + all-week hide spam (seat / rack / panels). Full night-pack enter ranks: `§ Night drills since tame`. |
 | Climbing | **L6** | **L7** | Cabin verticals all week (under seats → wall panels → luggage rack). |
 | Spring Charge | **L6** | **L6** | Cabin has no charge lane; holds L6. |
-| Seal / Regeneration | **L5** | **L5** | Shared burn/frost/knit + tip wear / harvest nicks; parallel to Roland **Recovery** stay **L5**. |
+| Seal / Regeneration | **L5** | **L5** | Shared burn/knit + tip wear / harvest nicks; parallel to Roland **Recovery** stay **L5**. |
 | Poison Resistance | **L5** | **L5** | Mostly known family / own toxin (soft repeat); near L6, not over. |
 | **Pain Resistance** | — | **L5** | Shared grill sting + tip wear + poke feedback; parallel to Roland **Pain L1→L5**. |
-| **Heat Resistance** | — | **L5** | Daily hot patches on plates/segments; parallel to Roland **Heat → L5**. |
-| **Cold Resistance** | — | **L5** | Daily frost patches (scarf flinch → controlled dose); parallel to Roland **Cold L1→L5**. |
+| **Heat Resistance** | — | **L5** | Daily hot patches on plates/segments (denser; former frost slots → heat); parallel to Roland **Heat → L5**. |
+| **Cold Resistance** | — | — | **No** train. Former frost effort → Heat / Seal / Pain. |
 
 No skill evolutions. **Rapid Regeneration** (Seal evolve) stays later with Roland’s **Rapid Recovery** window (~**2 years**), not this week.
 
@@ -186,7 +186,8 @@ Every night since D met him (tame Ch 12 → half year with the girls → travel/
 | **Recovery** | **~15** blood-meal / tip-cycle restore | **L6** | **~5.5k** |
 | Poison Resistance | **~8** soft (own toxin) | **L5** | **~3.5k** |
 | Pain Resistance | **~20** variety doses | **L6** | **~6.0k** |
-| Heat / Cold Resistance | **~12** each (camp + grill stack) | **L6** | **~5.5k** each |
+| Heat Resistance | **~24** (camp + denser grill; old Cold slots folded in) | **L6** | **~5.5k** |
+| Cold Resistance | — | — | **No** train through desk enter |
 | Moon Curl | **~15** | **L6** | **~6.0k** |
 | Tail Bash / Horn Pierce | **~12** each | **L6** | **~5.5k** each |
 | Blunt / Sharp Res | **~10** each (from bash/clash) | **L6** | **~5.5k** each |
@@ -197,7 +198,7 @@ Every night since D met him (tame Ch 12 → half year with the girls → travel/
 
 **Ned Recovery** (kept alongside Needle Formation): body restore from D’s blood meals and tip-cycle rebuild — not the same meter as Seal (wound knit). Formation stays tip-bed regrow after harvest.
 
-Train-week denser days sit inside the same total. Printed Ch 19 “L5 Pain/Heat/Cold” mid-path is superseded for **21.5 enter** by this full night pack.
+Train-week denser days sit inside the same total. Printed Ch 19 “L5 Pain/Heat” mid-path is superseded for **21.5 enter** by this full night pack. **No Cold.**
 
 ## Ch 21.5 desk grind (with D)
 

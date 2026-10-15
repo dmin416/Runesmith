@@ -69,10 +69,10 @@ Prefer Ch 19 for resist math (train pads). Ch 23 Vit/End is Source-delta rewrite
 
 ## Skills / resists (year highlights)
 
-- Suffocation **L5** (train; holds + blood); Heat/Cold/Pain **L5**; Sharp **L4**; Poison **L6**; Recovery **L5**; Sleep **L5→L6**; Alcohol **L4**
+- Suffocation **L6** (train; holds + blood); Heat/Pain **L5**; Cold **L3** (cold night sleep; desk → **L4**); Sharp **L4**; Poison **L6**; Recovery **L5**; Sleep **L5→L6**; Alcohol **L4**
 - Sound / Echo **L7**; Multitasking **L5**
 - Hands/Abs/Reinf/Sense/Incantation **L9**
 
 ## One-line
 
-Train-week body: **~3.3×** lift, **~25 min** breath, half pain/heat/cold, **~10×** mind.
+Train-week body: **~3.3×** lift, strong breath holds, half pain/heat (Cold **L3** nights), **~10×** mind.

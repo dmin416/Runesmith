@@ -52,7 +52,7 @@ Charisma              12
 Luck                   7
 ```
 
-Overall XP bar enter **7329** → exit **~16,034,518** (schematics **+27,000** + pour × quality). Exact printed overall L soft until a later full sheet.
+Overall XP bar enter **7029** → exit **~16,034,218** (schematics **+27,000** + pour × quality). Exact printed overall L soft until a later full sheet.
 
 ---
 
@@ -73,13 +73,13 @@ Overall XP bar enter **7329** → exit **~16,034,518** (schematics **+27,000** +
 | Sleep Resistance | **7** | **20k** soft-cap | Printed **+1** this skip |
 | Hunger Resistance | **6** | **~9.6k** | |
 | Pain Resistance | **6** | **~5.2k** | |
-| Heat Resistance | **5** | **~3.3k** | |
-| Cold Resistance | **5** | **~3.0k** | |
+| Heat Resistance | **5** | **~3.3k**+ denser (old freeze folded in) | |
+| Cold Resistance | **4** | ~**220** cold nights | night sleep only; `ColdNightSleep.md` |
 | Sharp Resistance | **4** | **~770** | |
 | Blunt Resistance | **4** | **~513** | |
 | Poison Resistance | **6** | **~5.4k** | |
-| Suffocation Resistance | **5** | **~1.1k** | |
-| Recovery | **5** | **~1.3k** | Roland |
+| Suffocation Resistance | **6** | **~5.1k** | train holds + desk |
+| Recovery | **5** | **~2.5k**+ toward L6 | Roland; denser knits |
 | Mana Absorption | **9** | **~507k** | |
 | Mana Reinforcement | **9** | **~504k** | |
 | Diagnosis | **7** | **~88.3k** | |
@@ -103,7 +103,8 @@ Overall XP bar enter **7329** → exit **~16,034,518** (schematics **+27,000** +
 | Moon Curl | **6** |
 | Tail Bash / Horn Pierce | **6** |
 | Blunt / Sharp Res | **6** |
-| Pain / Heat / Cold Res | **6** |
+| Pain / Heat Res | **6** |
+| Cold Res | — |
 | Poison Res | **5** |
 | Needle Formation / Absorb | **5** |
 | Acid Production / Spray | **5** |

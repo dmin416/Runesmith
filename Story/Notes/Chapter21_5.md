@@ -34,6 +34,7 @@ Rewrite-only timeskip (~**4 months**). Source folds mid/late into Ch 22 open.
 ## Process / temperament
 
 - Desk work **is** skill gain. He levels **everything that can tick** while making scrolls (Rune Scribing, Drawing, Multitasking, Hands uses, understanding, **Technology** on every rune and desk-tech observe, Sleep Resistance on short nights, class XP on pours, etc.). Not a single-skill tunnel.
+- **Later (Ch 23 volume / spare mana):** friction burn-train / self-hit beside Mana Hands — `FrictionGrill.md` (not the hide Fire Orb patch alone).
 - **~10× mind** (`FocusCapacity.md`) plus high Willpower. Will of ten men feel. Not a sensitive wreck under ink and fails. Grind hard without constant bitching (Roland rewrite).
 - Hands ink methods: **pen** (bead draw) and **press** (relief matrix → contact). Both available; press does not skip seating quality. See `References/Progression/ManaHands.md`.
 - **Hands × Multitasking:** concurrent Mana Hands ≈ Multitasking L (floor 2). Hands **uses** scale with how many Hands are active. Shaping / Regulation stay more linear (seat/pulse), not × Hands. Year ledger: `Chapter21_5DaySkillYear.md`.
@@ -41,13 +42,13 @@ Rewrite-only timeskip (~**4 months**). Source folds mid/late into Ch 22 open.
 ### Hunger, mana, and stamina pours
 
 - He **cannot will himself to feel hungry**. Appetite is not a switch he can flip with Willpower.
-- He **can still make himself hungry**: burn body fuel until the need is real (desk hours, burn/freeze patch, blood for ink, **stamina pours** into scrolls).
+- He **can still make himself hungry**: burn body fuel until the need is real (desk hours, burn patch, blood for ink, **stamina pours** into scrolls).
 - **Mana** for desk work is not the same kind of bill. Ambient mana fills him from around him. Draining mana stones to crumbly powder for homemade magic ink is also outside his gut; the stone's stored mana is feedstock, not his dinner.
 - **Runic scrolls can be filled with stamina** as well as mana (`MagicScrollMaking.md`: absorbing runes; non-mages already pay SP). He can preload / pour with SP when he wants.
 - **Prefill when full (skip lock):** sell-line Fireballs stay **empty absorbing** (buyer pays activation). When his **MP** or **SP** bar is full he may dump overflow into a **preloaded** charge on **personal keep** or **gift** scrolls only (`ScrollEconomy.md`: store tax **1.31 ×** activation). Never on the comet sell batch.
 - SP **refills quickly**, but each stamina pour **uses up nutrients**. Fast SP regen does not erase the food debt. One-meal days plus stamina-heavy pour stretches force heavier evening eats or he goes lightheaded.
 - **Burning thousands of kcal with little or no food is starvation.** That unlocks and levels **Hunger Resistance** (`MultiMechanismResistance.md`: **1%** of that day's energy out unmet by food = **1** use; full fast day = **100**). The SP loop is a starve engine, not a dead grind.
-- **Starve also feeds Pain Resistance.** Hollow gut, headache, and body ache from unmet calories are real pain doses. Meter: **15 min** of felt starve-ache under deficit = **1** Pain use. Soft-repeat after the first ~**2 h** of a continuous stretch the same day (same ache family). Burn/freeze patch stays the sharp Pain climb; hunger is the background grind.
+- **Starve also feeds Pain Resistance.** Hollow gut, headache, and body ache from unmet calories are real pain doses. Meter: **15 min** of felt starve-ache under deficit = **1** Pain use. Soft-repeat after the first ~**2 h** of a continuous stretch the same day (same ache family). Burn patch stays the sharp Pain climb; hunger is the background grind. **No freeze / Cold** desk train.
 
 #### SP→starve ceiling (physiology max)
 
@@ -84,7 +85,7 @@ He still cannot flip appetite on. Running near this ceiling **makes** hunger: gl
 
 **Hunger Resistance (skip lock):** Unlocks on the first real starve stretch (SP burn / one-meal / skip lunch with stores pulling). Meter: unmet % of that day's burn. Worked band for this desk: one meal (~**800 kcal**) against ~**2,700–4,700 kcal** out → ~**70–85** uses/day. Over ~**120** days ≈ **~9k–10k** uses → exit **L6** (clears **5,000**; short of **L7** at **20,000**). Zero-food hard-loop days pay **100**/day and accelerate. Vit/End **+1** per level.
 
-**Pain from starve (skip lock):** Enter Pain **L5** (train). Starve-ache ~**8–20** clean Pain uses/day after soft-repeat (first ~**2 h** dense, then thin). Four months ≈ **~1k–2.4k** Hunger-side Pain uses, plus burn/freeze patch cycles. Patch + hunger together clear **L6** (**5,000** cum); **L7** (**20,000**) only if patch grind is hard every day. Exit Pain **at least L6**; **L7** soft if he runs both hard.
+**Pain from starve (skip lock):** Enter Pain **L5** (train). Starve-ache ~**8–20** clean Pain uses/day after soft-repeat (first ~**2 h** dense, then thin). Four months ≈ **~1k–2.4k** Hunger-side Pain uses, plus denser burn-patch cycles (former freeze slots → heat). Patch + hunger together clear **L6** (**5,000** cum); **L7** (**20,000**) only if patch grind is hard every day. Exit Pain **at least L6**; **L7** soft if he runs both hard.
 
 ---
 
@@ -105,15 +106,15 @@ He still cannot flip appetite on. Running near this ceiling **makes** hunger: gl
 
 - Makes an **extremely weak** Fire Orb rune on **magical beast hide** that lasts for a while.
 - Summons the **smallest Fire Orb** he can make, fills it with mana, sticks the patch on his **leg** (coin-sized sustained burn).
-- Full burn / freeze leveling law (with and without potions, numbness stall, Pain / Sleep hooks): `ResistanceGrindBurnFreeze.md`.
+- Full burn leveling law (with and without potions, numbness stall, Pain / Sleep hooks; **freeze off** this rewrite): `ResistanceGrindBurnFreeze.md`.
 
 ### Ned desk grind (own levels + D's leg)
 
-**On D (shared limb with burn/freeze patch):** shallow intentional jabs. Credits for **D:** Blunt Res (landing bash), Sharp Res (pierce), Poison Res (Needle Worm toxin; soft-repeat), Pain Res. Blood can feed Suffocation volume if survived. Soft-repeat once that day's toxin / bruise / pierce family has paid.
+**On D (shared limb with burn patch):** shallow intentional jabs. Credits for **D:** Blunt Res (landing bash), Sharp Res (pierce), Poison Res (Needle Worm toxin; soft-repeat), Pain Res. Blood can feed Suffocation volume if survived. Soft-repeat once that day's toxin / bruise / pierce family has paid.
 
 **Ned's own desk drills** (full ranks in `Chapter21_5DaySkillYear.md` / `NedStatus.md`):
 
-**Every night since tame** (**~200** nights, Ch 12 → desk enter): **every skill Ned can** gets a camp/inn night band, then harder at the Crow desk. Enter already Moon / Tail / Horn / Blunt / Sharp / Silk / Seal / **Recovery** / Pain / Heat / Cold **L6**, Spike / Climb **L7**, Stealth **L8**, Formation / Absorb / Acid Production / Acid Spray **L5**. **Ned Recovery** = blood-meal / tip-cycle restore (alongside Formation tip-bed regrow; Seal stays wound knit).
+**Every night since tame** (**~200** nights, Ch 12 → desk enter): **every skill Ned can** gets a camp/inn night band, then harder at the Crow desk. Enter already Moon / Tail / Horn / Blunt / Sharp / Silk / Seal / **Recovery** / Pain / Heat **L6**, Spike / Climb **L7**, Stealth **L8**, Formation / Absorb / Acid Production / Acid Spray **L5**; **no Ned Cold**. **Ned Recovery** = blood-meal / tip-cycle restore (alongside Formation tip-bed regrow; Seal stays wound knit).
 
 **Camouflage always-on** since tame (scarf blend + hide whenever possible). Desk days keep paying a soft-repeat always-on band (~**72** uses/day).
 
@@ -126,7 +127,7 @@ He still cannot flip appetite on. Running near this ceiling **makes** hunger: gl
 | Silk for D's clothes | Silk Production |
 | **Camouflage always-on** + Climb while D desks | Stealth / Camouflage, Climbing |
 | Light Spring (room-limited) | Spring Charge (low volume) |
-| Near D's burn/freeze patch | Heat Res, Cold Res |
+| Near D's burn patch | Heat Res (no Cold) |
 
 ---
 
@@ -585,7 +586,7 @@ Prefill does **not** change seat counts or hide spend — same scroll, second po
 | Pain Resistance | **L5 → L6** |
 | Blunt / Sharp / Poison | Ned jabs; soft climb |
 | Technology | **L7 → L8** (every rune + desk-tech observe) |
-| Heat / Cold | patch grind past Ch 19 **L5** |
+| Heat / Cold | Heat patch past Ch 19 **L5** (denser); Cold **L3→L4** from autumn–winter Crow night sleep only (`ColdNightSleep.md`); no freeze patch |
 | Rune Mastery / Mana Scribing | Mastery **L1 → L5** (~**2,910**; rejects + lighters); Scribing **L8** (lighters pad Lowest); Mana Scribing flat → Ch 23 **L2** |
 | Class / overall | schematics **+27,000** + pour × quality (Phase C ~**3k MP**/day × quality) |
 
@@ -595,7 +596,7 @@ Prefill does **not** change seat counts or hide spend — same scroll, second po
 |---|---|---|
 | **Sleep** | Most nights cut to **3–5 h**; patch on; Sleep Resistance +1 | Occasional crash sleep after bad MP/pain day; never a clean 8 h routine |
 | **Food** | Skips lunch; one-meal days common; cannot will hunger on | SP / desk burn with thin meals **is** starvation → **Hunger Resistance** (~**L6**) + **Pain** (starve-ache); evening plate when lightheaded |
-| **Hygiene / wounds** | Leaves coin burn/frost sites under crust; desk sweat / ink | Rotate sites when numb; rare potion; basic clean to avoid infection; **hands and face rinse** at the inn wash when he goes down for a meal (`Cleanliness.md`) |
+| **Hygiene / wounds** | Leaves coin burn sites under crust; desk sweat / ink | Rotate sites when numb; rare potion; basic clean to avoid infection; **hands and face rinse** at the inn wash when he goes down for a meal (`Cleanliness.md`) |
 | **Social / adventure** | No dungeon main; servant cover prep late | Ned silk clothes; seller-identity work months 3–4 |
 | **Money anxiety** | Spends into **1 SS** on purpose for the sell shot | Homemade ink + refuse Low is the only brake |
 

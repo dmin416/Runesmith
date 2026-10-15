@@ -492,7 +492,7 @@ Skill ranks (enter → exit; **46** ranks × **100** XP + **8** overflow = **4,6
 | Skill | Change |
 |---|---|
 | Basic Calligraphy | **L4 → L9** |
-| Temperature Resistance | unlock **L1** (rewrite: **Cold Resistance L1**; ambient inn cold) |
+| Temperature Resistance | unlock **L1** (rewrite: **Cold Resistance L1**; first cold night sleep in bare inn — `ColdNightSleep.md`) |
 | Basic Alcohol Resistance | **L1 → L4** |
 | Poison Resistance | **L1 → L6** (daily Ned toxin seasoning; see `Progression/Skills.md`) |
 | Recovery | unlock **L1 → L5** (daily skin poke + 150 mL bleed/knit to Ned) |
@@ -552,9 +552,11 @@ Created **Lesser Fire Orb Rune [High]** from class-trial memory (**over** 1 hour
 
 ### Train-week skill math (locked)
 
-Field-use curve (`SkillRanks.md`): cum clean uses to reach L = **1 / 10 / 50 / 200 / 1,000 / 5,000 / 20,000 / 100,000 / 500,000**. Evolve at **2,000,000**, when the ability surpasses itself. Peak use (regen ceiling, real blister/frost, longest holds he can keep) accelerates the week; mostly narrative on top of the counts. Technique skills ~**40%** clean on raw attempts. Soft mana clicks count near **100%** clean (deliberate pulse). Resistance exposures are dose-gated (repeats of the same burn/frost still count but slow after the first days). Absorption / Reinforcement / Hands / Sight already **L9**.
+Field-use curve (`SkillRanks.md`): cum clean uses to reach L = **1 / 10 / 50 / 200 / 1,000 / 5,000 / 20,000 / 100,000 / 500,000**. Evolve at **2,000,000**, when the ability surpasses itself. Peak use (regen ceiling, real blister, longest holds he can keep) accelerates the week; mostly narrative on top of the counts. Technique skills ~**40%** clean on raw attempts. Soft mana clicks count near **100%** clean (deliberate pulse). Resistance exposures are dose-gated (repeats of the same burn still count but slow after the first days). Absorption / Reinforcement / Hands / Sight already **L9**.
 
-**Mana rule:** practice at the **regen ceiling**. Keep the pool near **~99%** (max ambient pull). Soft cabin clicks barely spend, so the grill soaks the surplus: hotter / colder / denser patches and longer holds until draw matches Regulation refill. Potion when Recovery lags so he does not idle on unused regen. Seated Regulation band ≈ **empty→full in a couple of hours** (faster still / more bare skin); Ch 21.5 desk tip-sip ~**21 MP/min** clothed on the **2148** pool (`Energy.md` / `Chapter21_5.md`).
+**Cold Resistance — cold night sleep only:** `ColdNightSleep.md`. No frost grid / freeze patch / spare-mana cold. Carwen winter–early-spring bare-inn nights → enter train **L3**; Edelgard autumn–winter Crow nights → desk exit **L4**. Former frost-grill time/energy still goes into denser **Heat**, longer **Suffocation** holds, more **Recovery** knits, and (from desk on) Fabrication / Taming (`FrictionGrill.md`).
+
+**Mana rule:** practice at the **regen ceiling**. Keep the pool near **~99%** (max ambient pull). Soft cabin clicks barely spend, so the grill soaks the surplus: hotter / denser heat patches and longer holds until draw matches Regulation refill. Potion when Recovery lags so he does not idle on unused regen. Seated Regulation band ≈ **empty→full in a couple of hours** (faster still / more bare skin); Ch 21.5 desk tip-sip ~**21 MP/min** clothed on the **2148** pool (`Energy.md` / `Chapter21_5.md`).
 
 **Schedule:** **both drills every day** for the full ~**7 days**, overlapped for Multitasking. About **3–4 h** dual drill blocks around eat/rest (~**3.5 h**/day used below).
 
@@ -562,15 +564,15 @@ Field-use curve (`SkillRanks.md`): cum clean uses to reach L = **1 / 10 / 50 / 2
 
 **Suffocation pace (two meters, one skill):** `MultiMechanismResistance.md`. **No Breath Control** on this train.
 
-- **Hypoxia / holds:** **15 s** under load = **1** use. Grill-peak holds between thermal sets. Story lock ~**140 min**/day held → **140 × 60 / 15 = 560** hypoxia uses/day × **7** ≈ **~3,920** uses.
+- **Hypoxia / holds:** **15 s** under load = **1** use. Grill-peak holds between thermal sets. Former frost-half mana → longer holds. Story lock ~**180 min**/day held → **180 × 60 / 15 = 720** hypoxia uses/day × **7** ≈ **~5,040** uses.
 - **Blood volume:** open bleed only. **~50 mL ≈ 1% ≈ 1 use** (adult ~5 L; fractions count). Mana Hands drip + Ned fang nicks + missed needle beads, survived; Recovery refills (refill ≠ use). Hard Recovery grind ~**5%**/day → **~5** blood uses/day × **7** ≈ **~35** uses.
-- **Combined:** ~**3,955** clean uses → clears **L5** (**1,000**); short of **L6** (**5,000**). Exit **L5**. Do **not** double-count the same hemorrhage as volume **and** hypoxic seconds.
+- **Combined:** ~**5,075** clean uses → clears **L6** (**5,000**); short of **L7** (**20,000**). Exit **L6**. Do **not** double-count the same hemorrhage as volume **and** hypoxic seconds.
 
 **Sleep Resistance pace:** enter **L5** (Ch 12). Baseline full night **T0 = 8 h**. Need at L5 = **50%** → **4.0 h**. Sleep ignored / not needed = **T0 − need = 4.0 h/day**. Meter (`MultiMechanismResistance.md`): **15 s** of that cut window spent awake = **1** use (he sleeps his remaining need; true debt past need is extra and not locked here). Uses/day = **4 × 3600 / 15 = 960** × **7** ≈ **~6,720**. Enter cum **1,000** (L5) + **6,720** → **~7,720** → clears **L6** (**5,000**); short of **L7** (**20,000**). Exit **L6** (**40%** need = **3.2 h**). Ch 21.5 four-month desk owns **L6→L7**.
 
-**Thermal pace (regen-capped + Recovery):** enter Rec **L5**. Cycle time pressed toward the mana period with potion assist when flesh lags (roughly **~1–1.5 min/cycle**). ~**1,240** burn/frost/knit cycles over the week (day path roughly **146 → 156 → 165 → 187 → 192 → 199 → 199**). From a fresh L5 bar that is **+1,240** toward L6 (**5,000** cum). Exit Recovery still **L5**. Heat / Cold / Pain resistances from the same pool clear **L5** (**1,000**) and stop short of **L6** (**5,000**).
+**Thermal pace (regen-capped + Recovery):** enter Rec **L5**. **Heat-only** grid (no frost). Cycle time pressed toward the mana period with potion assist when flesh lags (roughly **~1–1.5 min/cycle**). Former frost half → denser heat → ~**2,480** burn/knit cycles over the week (day path roughly **~290–400**/day). Exit Recovery still **L5** with ~**2.5k** toward L6 (**5,000**); Ch 21.5 / Ch 23 knit-on-purpose finishes the climb. Heat / Pain resistances clear **L5** (**1,000**) and stop short of **L6** (**5,000**). **Cold** is night-sleep only (enter/exit **L3**; `ColdNightSleep.md`).
 
-**Ned assist:** shallow intentional nibble / tip-poke on forearm or hand between grill squares (toxin prick). **Needle-catch drill:** Ned short-launches a spent/regrown tip at Roland; Roland eyes shut, locates on the spaced clicks, catches, feeds the needle back into Ned’s mouth (spider-web recycle). Misses sting and count for Pain / Recovery / Poison. Same Needle Worm toxin family (soft repeat credit). Blood is **Roland’s**: usual drip plus **extra** from pokes/misses → **Suffocation** volume uses; Recovery restores the tank (refill is not a use). **Ned shared Trauma lock:** on-page scarf cold near-miss + tip wear; exit Spike **L7**, Stealth / Camouflage **L8** (always-on since tame), Climbing **L7**; by 21.5 desk enter night pack also Silk / Seal / **Recovery** / Pain / Heat / Cold / Moon / Tail / Horn / Blunt / Sharp **L6**, Formation / Absorb / Acid Prod / Acid Spray **L5** (`NedStatus.md`).
+**Ned assist:** shallow intentional nibble / tip-poke on forearm or hand between grill squares (toxin prick). **Needle-catch drill:** Ned short-launches a spent/regrown tip at Roland; Roland eyes shut, locates on the spaced clicks, catches, feeds the needle back into Ned’s mouth (spider-web recycle). Misses sting and count for Pain / Recovery / Poison. Same Needle Worm toxin family (soft repeat credit). Blood is **Roland’s**: usual drip plus **extra** from pokes/misses → **Suffocation** volume uses; Recovery restores the tank (refill is not a use). **Ned shared Trauma lock:** on-page scarf **heat** near-miss + tip wear; exit Spike **L7**, Stealth / Camouflage **L8** (always-on since tame), Climbing **L7**; by 21.5 desk enter night pack also Silk / Seal / **Recovery** / Pain / Heat / Moon / Tail / Horn / Blunt / Sharp **L6**, Formation / Absorb / Acid Prod / Acid Spray **L5**; **no Ned Cold climb** (`NedStatus.md`).
 
 | Skill | Enter | Exit | Why |
 |---|---|---|---|
@@ -585,17 +587,17 @@ Field-use curve (`SkillRanks.md`): cum clean uses to reach L = **1 / 10 / 50 / 2
 | **Mana Reinforcement** | **L9** | **L9** | Cap. |
 | **Basic Incantation** | **L9** | **L9** | Cap. Almost no chanting this week. |
 | **Mana Sight** | **L9** | **L9** | Cap. |
-| **Heat** (heat production) | **L6** | **L6** | ~**1,240** hot patches. L7 needs **20,000**. |
-| **Heat Resistance** | — | **L5** | Real burns daily. Clears **1,000**. Short of **5,000**. |
-| **Cold Resistance** | **L1** | **L5** | Inn L1 + daily frost half. Same pool. |
+| **Heat** (heat production) | **L6** | **L6** | ~**2,480** hot patches (heat-only grid). L7 needs **20,000**. |
+| **Heat Resistance** | — | **L5** | Real burns daily (denser; former frost slots → heat). Clears **1,000**. ~**2.5k** toward L6. |
+| **Cold Resistance** | **L3** | **L3** | Cold night sleep only (`ColdNightSleep.md`). Carwen cold months ~**100** nights → **L3**. No frost grill. |
 | **Pain Resistance** | **L1** | **L5** | Grill sting + Ned tip pricks + missed launches. |
 | **Poison Resistance** | **L6** | **L6** | Daily shallow Ned toxin. Soft repeat. L7 needs **20,000**. Poison is one skill. |
-| **Suffocation Resistance** | — | **L5** | Hypoxia ~**3,920** (**15 s**/use) + blood ~**35** (~**50 mL**/use). Clears **1,000**. Short of **5,000**. No Breath Control. |
+| **Suffocation Resistance** | — | **L6** | Hypoxia ~**5,040** (**15 s**/use; frost time → holds) + blood ~**35**. Clears **5,000**. Short of **20,000**. No Breath Control. |
 | **Sleep Resistance** | **L5** | **L6** | Ignored sleep ~**6,720** (**4.0 h**/day cut of **8 h** T0; **15 s**/use). Clears **5,000**. Short of **20,000**. |
 | **Sharp Resistance** | **L3** | **L4** | Self drip pierces + Ned fang / miss needles. Clears **200**. Short of **1,000**. |
-| **Recovery** | **L5** | **L5** | ~**1,240** knit cycles. L6 needs **5,000** cum. **No evolve.** |
+| **Recovery** | **L5** | **L5** | ~**2,480** knit cycles (heat-only denser). L6 needs **5,000** cum; desk / Ch 23 finish. **No evolve.** |
 
-**Attr pads from this week only** (exit − enter): Sound Prod **+7 Int / +7 Dex**; Echo **+7 Will / +7 Int**; Multitask **+4 Int / +4 Dex**; Throwing none (already Basic L9); Shaping none; Regulation none; Heat none (spell); Heat Resistance **+5 Vit / +5 End**; Cold **+4 Vit / +4 End**; Pain **+4 Will / +4 End**; Poison none; Suffocation **+5 Vit / +5 End**; Sharp **+1 Vit / +1 End**; Sleep **+1 Vit / +1 End**; Recovery none.
+**Attr pads from this week only** (exit − enter): Sound Prod **+7 Int / +7 Dex**; Echo **+7 Will / +7 Int**; Multitask **+4 Int / +4 Dex**; Throwing none (already Basic L9); Shaping none; Regulation none; Heat none (spell); Heat Resistance **+5 Vit / +5 End**; Cold **none this week** (enter/exit **L3** from Carwen nights; desk owns **L4**); Pain **+4 Will / +4 End**; Poison none; Suffocation **+6 Vit / +6 End**; Sharp **+1 Vit / +1 End**; Sleep **+1 Vit / +1 End**; Recovery none.
 
 **Sheet note:** fold these into the Ch 19 rewrite when the live L26 Scribe sheet is retconned; do not invent a second full status screen on the train.
 
@@ -611,7 +613,7 @@ First on-page Mana Scribing: **Mana Bolt** word scroll (few min, list **25** / L
 
 ## Chapter 21.5
 
-**Full process / experiment lock:** `Chapter21_5.md`. Burn/freeze resistance grind: `ResistanceGrindBurnFreeze.md` (weak hide Fire Orb patch on leg).
+**Full process / experiment lock:** `Chapter21_5.md`. Burn resistance grind only (no freeze): `ResistanceGrindBurnFreeze.md` (weak hide Fire Orb patch on leg). Cold = cold night sleep only → exit **L4** (`ColdNightSleep.md`).
 
 Rewrite-only ~**4 month** desk grind (Source folds into Ch 22 open). Enter: Rune Scribing **L1**, Mana Scribing **L1**, Rune Mastery **L1**, Drawing plain **L1**, Mana Hands **L9**, Multitasking **L5**, Technology **L7**.
 
@@ -631,7 +633,7 @@ Skills as **21.5 exit** (printed on lookback): Basic Rune Scribing **L8**, Basic
 
 ## Chapter 23
 
-Basic Mana Scribing L2. Basic Rune Scribing **L8** (desk exit). Basic Rune Mastery **L5+** from desk (Source hunt sheet **L3** behind); combat use via scrap Fireball grimoire climbs further. Basic Mana Shaping L7. Basic Mana Regulation L8 (full regen in a few hours; faster when still / more skin bare). Sleep Resistance already **L7** from 21.5 (printed as +1 over the four-month desk). Technology **L8** from 21.5. Early post-payday desk: when MP dips he trains other skills and **SP-fills** protection scrolls; lower/arrow practice before ball saves huge MP; zero-MP trials do not especially raise skills and leave next-day exhaustion. Keeps pool near full via scroll fills / Mana Hand / Ned. **Identify** on every item he can (adventure curiosity; skill stays weak). **Sound Production + Echolocation** still daily since train. Next **+2 months** = **intense grill grind** (desk + skill grill + sound/echo; story only says time continued to pass) → fifteen Highest comet Fireballs. Sound/Echo soft still **L8** (short of L9). Stealth Basic → regular. Common runes quality-only (seating known; only rank moves). Scrap Low/Lowest Fireball grimoire: page crumbles on cast; no chant.
+Basic Mana Scribing L2. Basic Rune Scribing **L8** (desk exit). Basic Rune Mastery **L5+** from desk (Source hunt sheet **L3** behind); combat use via scrap Fireball grimoire climbs further. Basic Mana Shaping L7. Basic Mana Regulation L8 (full regen in a few hours; faster when still / more skin bare). Sleep Resistance already **L7** from 21.5 (printed as +1 over the four-month desk). Technology **L8** from 21.5. Early post-payday desk: when MP dips he trains other skills and **SP-fills** protection scrolls; lower/arrow practice before ball saves huge MP; zero-MP trials do not especially raise skills and leave next-day exhaustion. Keeps pool near full via scroll fills / Mana Hand / Ned. **Identify** on every item he can (adventure curiosity; skill stays weak). **Sound Production + Echolocation** still daily since train. **Desk side grind** beside Hands (`FrictionGrill.md`): friction → Heat + Heat Res + Pain / Blunt-Sharp; **Suffocation** holds + blood volume; **Recovery** knits; **Fabrication** (ink/tools/press/hide); **Basic Taming** via Ned cooperative desk/night work. **Cold Resistance** climbs only from cold night sleep in cold months (ColdNightSleep.md); no frost grill. Soft **L4** into / through early intense-grill winter nights. Next **+2 months** = **intense grill grind** (desk + skill grill + sound/echo + side grind; story only says time continued to pass) → fifteen Highest comet Fireballs. Sound/Echo soft still **L8** (short of L9). Stealth Basic → regular. Common runes quality-only (seating known; only rank moves). Scrap Low/Lowest Fireball grimoire: page crumbles on cast; no chant.
 
 ## Chapter 24
 

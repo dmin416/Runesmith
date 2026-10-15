@@ -12,7 +12,7 @@ Arrival beats (more detail): parent [Index](../Index.md).
 | 8 | 3 | [Age08.md](Age08.md) | soft | Last soft estate year before the **age-9** printed bravery screen. |
 | 9 | 4 | [Age09.md](Age09.md) | locked | Birthday lock: **~2.4×** adult lift, child frame, **~4×** mind. Eve of 10 sits in Ch 5 pre-class row. |
 | 10 | 5 | [Age10.md](Age10.md) | locked | Mage birth + Carwen: starts **~2.7×** body / **~5×** mind, ends Mage **L20** with **~8.6×** Int. |
-| 11 | 6 | [Age11.md](Age11.md) | locked | Train-week body: **~3.3×** lift, **~25 min** breath, half pain/heat/cold, **~10×** mind. |
+| 11 | 6 | [Age11.md](Age11.md) | locked | Train-week body: **~3.3×** lift, strong breath holds, half pain/heat (Cold **L3** nights), **~10×** mind. |
 | 12 | 7 | [Age12.md](Age12.md) | locked | Scribe ceiling then smith trial: **~12y**, **~170 cm**, overall **~L50**, mind **~10×**. |
 | 13 | 8 | [Age13.md](Age13.md) | soft | Mid-montage smith year. **Soft.** Bounds: overall **L50–L69**. |
 | 14 | 9 | [Age14.md](Age14.md) | soft | Last year before the age-15 winter lock. **Soft** inside the smith skip. |

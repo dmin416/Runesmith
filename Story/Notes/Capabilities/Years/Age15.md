@@ -68,7 +68,7 @@ Arrival detail: [IslandArrive.md](../IslandArrive.md)
 ## Skills / resists (year highlights)
 
 - Suffocation train floor **L5**; no Breath Control locked from train
-- Pain/Heat/Cold ≥ **L5**; Poison ≥ **L6**; Sleep ≥ **L6**
+- Pain/Heat ≥ **L5**; Cold from cold-season night sleep (desk **L4**+; more winters soft); Poison ≥ **L6**; Sleep ≥ **L6**
 - Craft eyes online
 
 ## One-line

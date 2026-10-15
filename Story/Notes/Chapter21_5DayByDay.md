@@ -2,7 +2,7 @@
 
 Manual pass. Each day: what he makes, mana paid, skill / XP / Ned. Soft counts follow seat-time + `SkillRanks.md` / `Attributes.md` / `ManaHands.md`. Ledger check: `Chapter21_5DaySkillYear.csv`.
 
-Enter sheet (dawn of day 1, after Ch 19 train / Ch 21 samples already bought): Str **49** · Agi **64** · Dex **72** · Vit **72** · End **81** · Int **156** · Will **147** · Cha **12** · Luck **7** · HP **963** · SP **1149** · MP **2148**. Overall XP bar **7329 / 13000**. Wallet **21,048 LC**. Singing Crow room night already paid into that figure.
+Enter sheet (dawn of day 1, after Ch 19 train / Ch 21 samples already bought): Str **49** · Agi **64** · Dex **72** · Vit **72** · End **81** · Int **156** · Will **147** · Cha **12** · Luck **7** · HP **963** · SP **1149** · MP **2148**. Overall XP bar **7029 / 13000**. Wallet **21,048 LC**. Singing Crow room night already paid into that figure. Cold **L3** (night sleep).
 
 ---
 
@@ -69,7 +69,8 @@ Uses are clean weighted where quality applies.
 | Sleep Resistance | **~538** (soft-repeat) | **6** | **~5,538** | Short night **~4 h** vs T0 **8 h** |
 | Hunger Resistance | **~72** | **3** | **~72** | **Unlocks** on first starve; one-meal band |
 | Pain Resistance | **~20** | **5** | **~1,020** | Patch + starve-ache |
-| Heat / Cold Res | **~18 / ~16** | **5 / 5** | — | Patch grind |
+| Heat Res | **~34** | **5** | — | Burn patch only |
+| Cold Res | **1** night | **3** | toward **L4** | Cold night sleep if autumn/winter (`ColdNightSleep.md`) |
 | Sharp Res | **~4** | **4** | **~204** | Ned jabs |
 | Blunt Res | **~3.6** | **1** | **~3.6** | **Unlocks** |
 | Poison Res | **~2.8** | **6** | — | Soft toxin |
@@ -86,7 +87,7 @@ Uses are clean weighted where quality applies.
 |---|---|
 | Schematic XP today | **~675** (early perfect-board drip toward skip **+27,000**) |
 | Pour / craft XP today | **~129** (cast **25** × quality on finished seats) |
-| Bar | **7329 → ~8133 / 13000** (still overall **L26**) |
+| Bar | **7029 → ~7833 / 13000** (still overall **L26**) |
 | Scribe class | still **L1** (no soft class pad yet) |
 
 ### Ned — today → end of day
@@ -105,7 +106,8 @@ Enter already full night pack (**every** trainable skill, **~200** nights since 
 | Seal | **~7** | **6** | Wound knit from nicks |
 | Recovery | **~12** | **6** | Blood-meal / tip-cycle restore |
 | Pain Res | **~15** | **6** | Clash + jabs |
-| Heat / Cold Res | **~10 / ~8** | **6 / 6** | Near D’s patch |
+| Heat Res | **~18** | **6** | Near D’s burn patch (old Cold folded in) |
+| Cold Res | **0** | — | **No** train |
 | Poison Res | **~3** | **5** | Own toxin soft-repeat |
 | Needle Formation / Absorb | **~8** each | **5** | Tip regrow / swallow |
 | Acid Production / Spray | **~6 / ~5** | **5** | Gland fill + board spit |
@@ -141,7 +143,7 @@ Paid **~480 MP**. Pool **2148**. RS hits **L2** mid-day → S **0.9 → 0.8** on
 | Hands | **~84** uses (×5), still **L9** |
 | Hunger | **~72** uses, still **L3** (cum **~144**) |
 | Sleep | **~538**, still **L6** (cum **~6.1k**) |
-| Pain / Heat / Cold / Sharp / Blunt | patch + jabs; Blunt **L1** (cum **~7**) |
+| Pain / Heat / Sharp / Blunt | burn patch + jabs; Blunt **L1** (cum **~7**); **no Cold** |
 | XP | schem **~675** + pour **~136** → bar **~8944 / 13000** |
 
 Pools: HP **1002** · SP **1179** · MP **2148**.
@@ -319,7 +321,7 @@ XP bar **~13,139 / 13000** — clears the L26→27 gate on pour/schem drip this 
 | Skill | L | Cum |
 |---|---:|---:|
 | Moon / Tail / Horn / Blunt / Sharp | **6** | night pack |
-| Silk / Seal / Pain / Heat / Cold | **6** | night pack |
+| Silk / Seal / Pain / Heat | **6** | night pack; **no Cold** |
 | Spike / Stealth / Climb | **7 / 8 / 7** | camo always-on |
 
 ### Week-1 close
