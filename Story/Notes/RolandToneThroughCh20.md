@@ -1,6 +1,6 @@
 # Roland swearing / complaining / grumbling through Chapter 20
 
-> Quotes from `Story/Chapters`. Roland / D only. Through end of Ch 20 (`19-30.md` before `# Chapter 21`).
+> Quotes from `Story/Chapters`. Roland / D only. Through end of Ch 20 (`19-26.md` before `# Chapter 21`).
 >
 > Tags: **swear** (curse / insult exclamation), **complain** (voiced or thought gripe), **grumble** (muttered resentment, sigh-gripes, wry annoyance).
 
@@ -28,7 +28,7 @@
 ## Chapter 4
 - [complain] `1-9.md:642` — *Man, this world is harsh... the only thing I'm doing is studying and training.*
 - [complain] `1-9.md:656` — *Well, I knew it wouldn't be easy to get ahead... requirements are steep.*
-- [complain] `1-9.md:670` — siblings love seeing him mistreated; resented after mana sense
+- [complain] `1-9.md:670` — siblings love seeing him mistreated; resented after mana sight
 - [complain] `1-9.md:678` — noble life still worse than Earth; doesn't feel like the 1%
 - [grumble] `1-9.md:706` — sigh, tired and bruised after stick whacks for slow running
 - [complain] `1-9.md:708` — *Uh, will I need to do this for the next five years?*
@@ -129,18 +129,18 @@
 - [grumble] `10-18.md:1807` — headlock and knuckle noogie from Sahildr after prank
 
 ## Chapter 19
-- [grumble] `19-30.md:145` — straw mattress; smirks that he's used to bad sleep
-- [grumble] `19-30.md:185` — "*Tch, too bad about that*" (modular rune paper failed)
-- [complain] `19-30.md:193` — selling scrolls alone will be difficult; needs job first
+- [grumble] `19-26.md:145` — straw mattress; smirks that he's used to bad sleep
+- [grumble] `19-26.md:185` — "*Tch, too bad about that*" (modular rune paper failed)
+- [complain] `19-26.md:193` — selling scrolls alone will be difficult; needs job first
 
 ## Chapter 20
-- [complain] `19-30.md:203` — breakfast gruel still mealy, plain; little seasoning
-- [complain] `19-30.md:259` — dusty old shop scrolls; solo eats full mat price + cuts (still sees tidy profit if demand)
-- [complain] `19-30.md:293` — *It costs about three times as much... who would buy this?*
-- [complain] `19-30.md:361` — "*Y-you want me to sign this?*" six-year magic contract
-- [complain] `19-30.md:367` — fair labor deal but locks adventure/experiment; leaves to shop around
+- [complain] `19-26.md:203` — breakfast gruel still mealy, plain; little seasoning
+- [complain] `19-26.md:259` — dusty old shop scrolls; solo eats full mat price + cuts (still sees tidy profit if demand)
+- [complain] `19-26.md:293` — *It costs about three times as much... who would buy this?*
+- [complain] `19-26.md:361` — "*Y-you want me to sign this?*" six-year magic contract
+- [complain] `19-26.md:367` — fair labor deal but locks adventure/experiment; leaves to shop around
 
 ## Notes
 - Through Ch 20, Roland has almost no hard profanity (`fuck` / `damn` / `shit` in his mouth). Strongest beats: *Psycho!*, *Yeesh*, *Rahhhh!*, *Tch*, "turd" for a failed orb.
-- Heavier curses in `19-30.md` start after Ch 20.
+- Heavier curses in `19-26.md` start after Ch 20.
 - Excluded: other characters' swears; neutral "bastard" status; theological "hell"; trainer / servant dialogue aimed at him unless his own gripe.

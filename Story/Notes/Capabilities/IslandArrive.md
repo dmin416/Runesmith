@@ -66,7 +66,7 @@ Forge years and dungeon heat likely pushed Heat higher; do not invent a level pa
 ## Senses / processing
 
 - Eyes: still no Enhanced Vision lock. Craft eyes later (Runic Blacksmith's Eyes / Lord's Eyes after T2).
-- **Mana Sense** capped long since. Sound / Echo at least **L7** from train.
+- **Mana Sight** capped long since. Sound / Echo at least **L7** from train.
 - **Diagnosis** high; Technology / Fabrication / Runecraft / Smithing deep from Edelgard years.
 - Think **~11.5×**. Multitasking at least **L5**. Parallel Thinking still unleveled on notes.
 

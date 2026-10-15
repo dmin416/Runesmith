@@ -69,7 +69,7 @@ Independent scribe income: roughly **10 High / week ~ 1 SG** gross at the locked
 ### Chapter contract beats (Libra / Exeor)
 
 - First Libra sell line is **Fireball** (red comet / shooting-star brand). Empty ladder above. Percival guide **~7–8 LS** each (fair Highest empty **7.5 LS**). First sale **10 Highest empty**: boxes of five @ open **32 LS**; hammers **42 LS** + **46 LS** → gross **8 SG 8 LS**; **25%** → net **6 SG 6 LS** (fair ten ≈ **7.5 SG**; auction heat; wallet **6 SG 6 LS 1 SS** with the kept **1 SS**). Prefill is personal/gift only, never the sell batch.
-- After brand lands, volume pivots to **Fire Arrow** (~10/week ~ **1 SG** at High fair). Seller #64 / later FA boxes keep the Arrow income beat.
+- After brand lands, volume stays on **Fireball** comet (~10/week; High/Highest lots pay **far better than 1 SG** after house cut). Seller #64 keeps the Ball income beat.
 - Ch 21 Edelgard Scribe shops: price mats so only intermediate scrolls profit for independents; academy students get softer contracts; solo acts face multi-year cursed deals (**-60% mana** on breach until term ends). Libra entry **2 SS**.
 - Ch 25 Exeor offer: exclusive sell-to-store, **15%** commission, **3 years**, workspace + cheaper mats, **-30%** mana breach curse (not instant); facilities can cover later Blacksmith needs. Merchant council of top owners meets every **3 months** (recruit upstarts, then crush holdouts).
 - Ch 26 signed: mana signature (not name); identity secret; **min price** vs auction / no undersell; status-hide **armband**; basement office free rent; basic mats supplied; min **10 common scrolls/week** (+ bonus); Fire Arrow ~1 hour with mana left for a second.

@@ -32,7 +32,7 @@ Reading Proficiency **L9**. Body row only below; displayed Str/Agi/Dex far highe
 
 - Reading **L9**
 - Sleep **L4**
-- Mana Sense mid climb
+- Mana Sight mid climb
 - Physical Basics mid ranks
 
 ## One-line

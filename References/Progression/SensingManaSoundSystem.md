@@ -14,7 +14,7 @@
 |---|---|---|
 | **Diagnosis** | **D-only** transfer skill. Sees faults in systems. Caps L9; **Advanced Diagnosis** is a separate high tier, **not** an automatic evolve. Not earned by fusing Identify lines. | Tier 3 fusion of Appraise + Physician's Insight **named Diagnosis** |
 | **Identify / Analyze** | Separate world skills. Analyze = first in-Terra unlock (formulas / how it works). Identify = names / tags. | Identify → Appraise; new **Examine** line; Analyze mostly absent |
-| **Mana Sense** | Live aptitude; L9 early. Craft eyes / True Runic Sight / Eyes of Mana are separate later tracks | Mana Sense → Mana Sight → Mana Dominion |
+| **Mana Sight** | Live aptitude; L9 early (he can already see mana). Craft eyes / True Runic Sight / Eyes of Mana are separate later tracks | Mana Sight → Mana Sense → Mana Dominion |
 | **Mana Shaping / Regulation** | Mage grants; Basic → evolved forms on class path | Shaping → Weaving; Regulation → Control; fuse to Dominion / Circulation |
 | **Mana Absorption / Reinforcement** | Separate store skills (Ch 9.5). Reinforcement = body store / % max-MP pad while active | Absorption → Draw → Circulation; **Reinforcement missing** |
 | **Echolocation** | Evolve → **Vibration Sense** (then Energy Sense in Sound.md). Not “Sonar” | Echolocation → Sonar → Resonance |
@@ -64,7 +64,7 @@
 |---|---|---|
 | Identify | Appraise | Diagnosis |
 | Examine | Physician's Insight | Diagnosis |
-| Mana Sense | Mana Sight | Mana Dominion |
+| Mana Sight | Mana Sense | Mana Dominion |
 | Mana Shaping | Mana Weaving | Mana Dominion |
 | Mana Absorption | Mana Draw | Mana Circulation |
 | Mana Regulation | Mana Control | Mana Circulation |
@@ -143,7 +143,7 @@ Identify Lv9 reads firearms and clocks. Appraise Lv9 reads vehicles. Diagnosis L
 
 ---
 
-## 3. Mana Sense → Mana Sight
+## 3. Mana Sight → Mana Sense
 
 **What M multiplies:** sensitivity, so range grows by √M.
 
@@ -158,17 +158,17 @@ Identify Lv9 reads firearms and clocks. Appraise Lv9 reads vehicles. Diagnosis L
 | Tier 3 Lv5 | 42 m | 424 m | 4.2 km |
 | Tier 3 Lv9 | 95 m | 949 m | 9.5 km |
 
-**Mana Sense (Tier 1) reveals:** presence, direction, distance, rough strength and whether a spell is active or dormant.
+**Mana Sight (Tier 1, live name):** he can already see mana (mist, color, presence). Direction, distance, rough strength, active vs dormant.
 
-**Mana Sight (Tier 2) adds:**
-- Mana becomes visible as an overlay on normal sight.
+**Mana Sense (Tier 2 evolve) adds:**
+- Finer overlay / read through concealment.
 - Element or affinity of a source.
 - Mana flow inside bodies and objects.
 - Individuals recognized by mana signature.
 - Residual traces of past spells.
 - Illusions of strength ≤ M are seen through.
 
-*(Soft-ok as feel for Sense depth / later Eyes of Mana. Do not require renaming live craft-eye skills.)*
+*(Soft-ok as feel for evolve depth / later Eyes of Mana. Do not require renaming live craft-eye skills.)*
 
 ---
 
@@ -194,7 +194,7 @@ Identify Lv9 reads firearms and clocks. Appraise Lv9 reads vehicles. Diagnosis L
 
 ### Mana Dominion (Tier 3)
 
-**Fusion:** Mana Sight Lv9 + Mana Weaving Lv9
+**Fusion:** Mana Sense Lv9 + Mana Weaving Lv9
 
 - Reads and reshapes external mana, including other casters' active spells.
 - Unravels or seizes a foreign spell in a contest of multipliers. The higher M wins.

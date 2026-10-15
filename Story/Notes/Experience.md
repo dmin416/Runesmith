@@ -206,7 +206,7 @@ Dungeon rat on the entrance test is **full solo** (party test); not in the day-4
 | **End pouch (into Ch 12 tavern)** | **~4,413 LC** |
 | Stones on person | **220** rice + **8** leader (unchanged) |
 
-**Skills:** While waiting on butcher / travel beats he keeps working mana: **Mana Hands** casts, **Mana Absorption**, **Mana Sense**. Shield stays **L3** (~**+14** combat casts; need **~105** for L4). Incantation stays **L6**. Sense and Absorption already **L9** (capped; still used). Mana Hands: idle waiting ~**25**/day × **7** ≈ **175** finished → **L5 → L6** (need **35×5 = 175** from L5). Hands rank popup **~+100 XP** → L20 bar **~8,540 / 10,000**. Combat acting still light vs solo goblins; idle mana practice is the real skill tick.
+**Skills:** While waiting on butcher / travel beats he keeps working mana: **Mana Hands** casts, **Mana Absorption**, **Mana Sight**. Shield stays **L3** (~**+14** combat casts; need **~105** for L4). Incantation stays **L6**. Sight and Absorption already **L9** (capped; still used). Mana Hands: idle waiting ~**25**/day × **7** ≈ **175** finished → **L5 → L6** (need **35×5 = 175** from L5). Hands rank popup **~+100 XP** → L20 bar **~8,540 / 10,000**. Combat acting still light vs solo goblins; idle mana practice is the real skill tick.
 
 ## Ch 12 money / XP (Iron Flagon + Floor-2 pocket)
 
@@ -365,7 +365,7 @@ Inn redraw from class-trial memory. Lesser quality ladder: **100 / 200 / 400 / 6
 
 **2479 + 3800 + 1000 = 7279 / 13000** toward L27. Still overall **L26** / Scribe **L1**. Three Highest lesser schematics (Detonation + Impact + Fire Orb).
 
-## Ch 20–21 (through `19-30.md:444`)
+## Ch 20–21 (through `19-26.md`)
 
 No kill XP. No craft XP yet.
 

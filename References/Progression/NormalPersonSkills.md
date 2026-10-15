@@ -84,7 +84,7 @@ Prefix ladder: `../Ideas.md` / `SkillRanks.md` (Basic/Lesser → plain → Exper
 ## Excluded (not available to normal people)
 
 - **D-only:** Diagnosis, Technology, Fabrication. Not learnable by an ordinary person on the normal ladder.
-- **In the world:** Identify and Analyze exist. Mana Sense is an aptitude some people have (`Skills.md`).
+- **In the world:** Identify and Analyze exist. Mana Sight is an aptitude some people have (`Skills.md`).
 - **Mage-class locked:** Basic Mana Shaping, Basic Mana Regulation, Basic Incantation, Mana Bolt, Mana Arrow, Mana Shield, Mana Absorption, Mana Reinforcement, Heat, Mana Hands.
 - **Scribe / Runesmith / Blacksmith locked:** Basic Mana Scribing, Basic Rune Scribing, Basic Rune Mastery, Basic Forging, Basic Smithing Mastery, Basic Runecraft, Ethereal Pathways, Blacksmith's Heat Sense, Runic Blacksmith's Eyes, Basic Rune Compression.
 

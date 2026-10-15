@@ -24,7 +24,7 @@ alwaysApply: true
 - Solid beat coverage: not sparse, not padded. No flavor comparisons or justifying color.
 - No extraneous "why this matters" unless the plot needs it.
 - Prefer short to medium sentences. Never end a beat with a bare two-word sentence (`He paid.` / `He woke.` banned).
-- When rewriting a beat, keep equal or better coverage. Do not thin the paragraph.
+- When rewriting a beat, keep equal or better coverage. Do not thin their pasted lines. How directed replaces work: `directed-line-edits.mdc` (replace the marked segment, keep the untouched remainder, fix mismatches).
 
 ## POV
 

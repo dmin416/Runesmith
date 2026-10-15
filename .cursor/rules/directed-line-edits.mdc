@@ -1,42 +1,49 @@
 ---
-description: Directed line edits; first word is absolute anchor
+description: Directed story edits; replace the marked segment, keep the rest, fix mismatches
 alwaysApply: true
 ---
 
 # Directed Line Edits
 
-Do only what they named. No other lines, files, or cleanup.
+Do the edit they asked for. Do not wander into other lines, files, or cleanup.
 
 | They say | You do |
 | --- | --- |
-| Change / fix / replace | Change only that part |
-| Insert | Insert at the mark. Delete nothing |
-| Append | Append after the mark. Delete nothing |
+| Change / fix / replace | Replace the clear segment |
+| Insert | Put it at the mark. Delete nothing |
+| Append | Put it after the mark. Delete nothing |
 | Unclear | Ask. Do not guess |
 
-## Absolute anchor
+## Anchor
 
-The **first word** of their proposed change is the mark.
+The **first word** of their proposed text finds the spot (click / locate / `...` first if given).
 
 1. Find that word on the clicked stretch.
-2. Edit from there only.
-3. Change **nothing** before it. Every character before the mark stays exact.
-4. Do not jump to a different paragraph, sentence, or “related” beat.
+2. Work from there.
+3. Leave everything **before** the mark alone.
+4. Do not jump to a different paragraph or “related” beat.
 
-## Order lock
+## Replace, then keep the rest
 
-Keep their sentence and clause order exactly. Do not move “while,” luck lines, or any other clause to where you think it reads better. Do not glue their words onto a later verb. Do not rewrite for grammar taste.
+When they clearly rewrite a stretch of the paragraph:
 
-## Exact words
+1. **Replace** that portion with their words (exact; fix clear typos; capitalize sentence starts). Keep their sentence and clause order.
+2. **Keep** the remainder of the paragraph that was not part of what they replaced (the tail they left alone, or pointed at with a locate like `this fireball...`).
+3. **Fix** small details in that kept remainder so they still match what they changed and the live notes / locks. Do not invent new beats. Do not explain. Just make the leftover agree (names, product line, empty vs filled, brand, and so on).
+4. Do **not** drop their pasted lines. Do **not** throw away the untouched remainder to “clean up.”
 
-- Paste their words exact (fix clear typos; capitalize sentence starts).
-- No synonym swaps. No style rewrites. No slang cleanup on their pasted lines.
-- Do not delete an opening sentence they did not mark.
-- Do not invent names, places, numbers, or fills. Ask, or keep their wording.
-- Do not graft leftover Source clauses onto their beat unless they kept them in the prompt.
+## Append when it does not fit
+
+If what they wrote does not replace anything already in the paragraph (it does not line up with an existing sentence or beat), **append** it at the end of that paragraph. Do not force it into the middle.
 
 ## Locates
 
-`word?`, `...`, and short locate lines are not story text. Use them to find the match. Do not paste them into the story.
+`word?`, `...`, and short locate lines are finders only. Do not paste them into the story.
 
-Where: click first; else first-word anchor / locate / `...`. Same first word as an existing sentence → replace from that sentence. Undo = wrong; ask if still unclear. Do not re-guess.
+Where: click first; else first-word anchor / locate / `...`. Same first word as an existing sentence → that sentence is the replace start. Undo = wrong; ask if still unclear. Do not re-guess.
+
+## Exact words on their paste
+
+- No synonym swaps or style rewrites on what they typed.
+- No slang cleanup on their pasted lines.
+- Do not invent names, places, or numbers. Ask, or keep their wording.

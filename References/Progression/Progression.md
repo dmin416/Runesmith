@@ -27,7 +27,7 @@ Live status / XP / class foundation. Guild ranks: `AdventurerRanks.md`.
 
 ## Narrative
 
-Everyone has a status system with attributes and resources. Skills like Identify, Analyze, and Mana Sense exist. Affinities gate elemental mage paths. Classes and monster evolutions share the same tier caps (T1 25, T2 50, T3 75, T4+ 100 each). Combat and production paths are both valid. Overall level is a sheet number that sets XP needed to advance. No mana pool → no active ambient absorb. Mana-rich places may heal body/spirit without storing mana. Forced absorb before Mage/Acolyte (or any no-pool body) poisons or kills like radiation (`../Runes/Energy.md`). Enchanting and runecrafting are different crafts. Diagnosis is D-only. Death is death; only D is a transmigrator.
+Everyone has a status system with attributes and resources. Skills like Identify, Analyze, and Mana Sight exist. Affinities gate elemental mage paths. Classes and monster evolutions share the same tier caps (T1 25, T2 50, T3 75, T4+ 100 each). Combat and production paths are both valid. Overall level is a sheet number that sets XP needed to advance. No mana pool → no active ambient absorb. Mana-rich places may heal body/spirit without storing mana. Forced absorb before Mage/Acolyte (or any no-pool body) poisons or kills like radiation (`../Runes/Energy.md`). Enchanting and runecrafting are different crafts. Diagnosis is D-only. Death is death; only D is a transmigrator.
 
 ## Detail
 
@@ -39,7 +39,7 @@ Everyone has a status system with attributes and resources. Skills like Identify
 
 **Info skills:** Identify and Analyze exist in the world.
 
-**Mana Sense:** Exists as a skill / aptitude some people have.
+**Mana Sight:** Exists as a skill / aptitude some people have.
 
 **Diagnosis:** D-unique. Not a normal world skill. Sees / understands flaws in a system. Feeds his medical background. Old name was Debugger. See `Skills.md` and `../People/Roland/Character.md` with Technology and Fabrication.
 

@@ -131,7 +131,7 @@ Idea map for what a common **Class / Tier 1 Mage** is expected to learn besides 
 
 | Kind | Name | Role |
 |---|---|---|
-| Skill | Mana Sense | See ambient mana |
+| Skill | Mana Sight | See ambient mana |
 | Skill | Basic Mana Shaping | Form spells |
 | Skill | Basic Mana Regulation | Pool stability + ambient fill |
 | Skill | Basic Incantation | Chant speed / stability |
@@ -165,7 +165,7 @@ Group by job, not by flashy name. Prefer small spells or skill drills that chang
 - **Quiet Ward:** softens sound leaving a small radius (whisper camp). Weak vs real Stealth skills.
 
 **4. Sense and analysis (mage side of Identify)**
-- **Mana Sense** (already) → optional evolve toward finer bands.
+- **Mana Sight** (already) → optional evolve toward finer bands.
 - **Mana Trace / Afterimage:** see where a spell was cast recently.
 - **Attune / Resonance Ping:** tap an object to feel if it holds a charge or stone (Roland already fakes some of this with Sense on corpses).
 - Book/academy: basic **Analyze** synergy for spell formulas (Roland has Analyze from status work; most mages buy or grind a weaker form).

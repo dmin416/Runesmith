@@ -104,7 +104,7 @@ Ninth birthday. Height **4'7"** (chapter; tall for age 9). Bravery-test status s
 - First Kill achievement: **+200**
 - **Total gained: 250 XP** (pre-class bank; applies at ascension with penalty)
 
-Early in the chapter (age ~5 training stretch): Mana Sense reaches L4. Intelligence +4 and Willpower +4 from that skill (bonus = level). Half-year Climbing grind and other Basics before the birthday fight.
+Early in the chapter (age ~5 training stretch): Mana Sight reaches L4. Intelligence +4 and Willpower +4 from that skill (bonus = level). Half-year Climbing grind and other Basics before the birthday fight.
 
 **Live (chapter)** still uses body physicals + transfer Dex pad + partial Int/Will (old seeds). Omits Basic physical skill bonuses. Prose: Willpower helps him stay clear-headed; Dexterity is the only combat-useful pad of his three 20+ stats (archery / light blades).
 
@@ -130,7 +130,7 @@ Luck                   8
 
 **Rewrite target (full stack, age 9):** Body 13/16/16/13/12 Int17 Will23 + Basics + transfer skills/traits → Str **36**, Agi **35**, Dex **49**, Vit **36**, End **36**, Int **65**, Will **51**, Cha **7**, Luck **7**. HP/SP/MP from formulas on those attributes. See `StatusBreakdown.md`.
 
-**Partial rewrite (body + transfer only, no Basics yet):** Str 13, Agi 19, Dex 41, Vit 13, End 12, Int 47, Will 33 (then add Mana Sense / Reading levels as unlocked). Cha/Luck Other ticks optional.
+**Partial rewrite (body + transfer only, no Basics yet):** Str 13, Agi 19, Dex 41, Vit 13, End 12, Int 47, Will 33 (then add Mana Sight / Reading levels as unlocked). Cha/Luck Other ticks optional.
 
 Goblin foe:
 
@@ -169,7 +169,7 @@ Luck                   7
 
 HP = 40×10 + 40×3 = 520. SP = 40×10 + 40×3 + 40×3 = 640. MP = 66×10 + 53×4 = 872.
 
-Skills menu in chapter: transfer set (Marksmanship **L7**) + Mana Sense **L9** (+Int/Will) + Reading **L9** (+Int/Will) + Basics at age-10 targets (Running/Sprint/Climbing/Throwing/Leather **L9**; H2H/Sneak/Sword **L8**; **Acrobatics L3**). Str/Agi/Vit/End even at **40**; Dex **50**; Will **53**; Int **66** highest.
+Skills menu in chapter: transfer set (Marksmanship **L7**) + Mana Sight **L9** (+Int/Will) + Reading **L9** (+Int/Will) + Basics at age-10 targets (Running/Sprint/Climbing/Throwing/Leather **L9**; H2H/Sneak/Sword **L8**; **Acrobatics L3**). Str/Agi/Vit/End even at **40**; Dex **50**; Will **53**; Int **66** highest.
 
 Class gained mid-chapter: **Tier 1 Mage L1**. Unlocks: Basic Mana Shaping L1 (**Int +2 / Will +1**), Basic Mana Regulation L1 (**Int +1 / Will +2**), Mana Bolt Spell L1, Basic Incantation L1 (**Int +1 / Will +1**). Mage package +1 Int / +1 Will (permanent). Mage card: mana recovery (narrative). Blessed by Mana: multiplies mana recovery. All seven **40** attribute perks on sheet. Banked pre-class XP not applied on-page until Chapter 6 (L3). Crystal used for the ritual turns to dust.
 
@@ -353,7 +353,7 @@ No full status screen. Still **Mage L20** band (no level-up line). First Carwen 
 **On-page**
 - Entrance dungeon rat: Mana Arrow one-shot (no XP popup shown).
 - First Spiked Boar (idle): **+6 XP**. Narration: **1%** cut of L8 pool **600**; he could kill it alone if he tried. Party XP = ability + contribution (Source T1-in-T2 zero-XP block dropped).
-- Mana Sense: chest stone ≈ goblin-leader size. Later active fight: Mana Shield hard disk on Sahildr; “another” stone.
+- Mana Sight: chest stone ≈ goblin-leader size. Later active fight: Mana Shield hard disk on Sahildr; “another” stone.
 - Equal money split after sales (no on-page coin total).
 
 **Day lock** (`RaceMult.md` / `Economy.md` / `Experience.md`): Spiked Boar **L8** solo pool **600** (idle **6 = 1%**; full share **150 = 1/4**). Day **4** boars → **456** XP. Day haul **4** boars / **2** stones sold → team **~512 LC** → Roland **+128 LC**. Enter pouch **3,630 LC** → after day 1 **3,758 LC**. Personal stones stay **220** rice + **8** leader. L20 bar after day **~6,256 / 10,000**.
@@ -527,7 +527,9 @@ No full status screen. Present day after 21.5. Lookback prints RS **L8**, Master
 
 ## Chapter 23
 
-Overall L35. Mage L25 secondary. Runic Mana Scribe L10 main. Seller #64 net **6 SG 6 LS** (Fireball first sale; wallet **6 SG 6 LS 1 SS**). Weekly ~**1 SG** from ten Fire Arrow scrolls. Live sheet (mid-hunt MP spent):
+Seller #64 net **6 SG 6 LS** (first Fireball sale; wallet **6 SG 6 LS 1 SS**). Restocks blanks/paper; homemade ink; comet quality maintain. SP-fills when MP low; keeps MP near-full never empty-zero for grind. **+2 months intense grill grind** (story vague): Sound/Echo still daily since train; Percival return stack is **fifteen** comet Fireballs, all **Highest**. Volume / better tools / +3 months more then forest hunt follow.
+
+Overall L35. Mage L25 secondary. Runic Mana Scribe L10 main (printed mid-hunt). Keeps Fireball comet volume (~**10/week**; lots pay **far better than 1 SG** after cut). Live sheet (mid-hunt MP spent):
 
 **Live (chapter)** — Source block still on-page:
 
@@ -587,7 +589,7 @@ Skills shown (Source print): Basic Mana Scribing L2, Basic Rune Scribing L5, Bas
 
 ## Chapter 24
 
-No full status screen. Still L35 / Scribe L10. Fire Arrow grimoire clears five Mountain Goblins; Helci climbs rope with one mana stone. No XP numbers shown. Inn sausage "thanks."
+No full status screen. Still L35 / Scribe L10. Fireball grimoire clears five Mountain Goblins; Helci climbs rope with one mana stone. No XP numbers shown. Inn sausage "thanks."
 
 **Rewrite:** inherits Ch 23 rewrite sheet.
 

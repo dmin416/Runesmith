@@ -4,7 +4,7 @@ Rewrite-only timeskip (~**4 months**). Source folds mid/late into Ch 22 open.
 
 **Canon homes:** this file is the working beat / experiment lock for the skip. Sheet exits also live in `Skills.md` / `Experience.md` / `Items.md` / `Status.md` / `Notes.md` / `Timeline.md`. Shape / rune law mirrors: `References/Runes/RuneCauseEffect.md`, `References/Combat/BasicSpellShapes.md`, `References/Runes/MagicScrollMaking.md`.
 
-**Opening and skip-exit prose** is author-written in `Story/Chapters/19-30.md` (chapter wins). Mid-skip month grind still Notes until more prose lands.
+**Opening and skip-exit prose** is author-written in `Story/Chapters/19-26.md` (chapter wins). Mid-skip month grind still Notes until more prose lands.
 
 ---
 
@@ -24,7 +24,7 @@ Rewrite-only timeskip (~**4 months**). Source folds mid/late into Ch 22 open.
 
 - **Morning after Ch 21:** early buy of three runic scrolls from the **second shop** only (does not chase other shops yet). Puts them away. More supplies to recreate trial conditions. **Regular paper**; ignores expensive ink.
 - **Sample cost:** Orb of Light **1 LS** · Fire Arrow **2 LS** · Aqua Ball **1 LS**. **Total 4 LS = 400 LC**. Wallet **21,448 → 21,048 LC**.
-- **Cheap ink:** thin and dark; smells like rust and dried iron. Mana Sense shows the same dank / vaguely fetid mana color as goblins and sewer rats. He reads magic ink as magical substrate + crushed magic stones → plans to **make his own**.
+- **Cheap ink:** thin and dark; smells like rust and dried iron. Mana Sight shows the same dank / vaguely fetid mana color as goblins and sewer rats. He reads magic ink as magical substrate + crushed magic stones → plans to **make his own**.
 - Brief Ned gel-sack / slug-caterpillar harvest idea; drops it (do not antagonize Ned).
 - **Ned:** silk variety for clothing upgrades (itchy linen / sack-soft boots complaint).
 - **Drill:** thinner paper + hides from the day before; trace proper runic structures by hand/quill, Mana Hand as quill and all-at-once like the class test. Do **not** imbue all at once; imbue properly after the ink has settled.
@@ -96,7 +96,7 @@ He still cannot flip appetite on. Running near this ceiling **makes** hunger: gl
   - **Mana-voided space + vacuum:** much **easier** to powder and keep the grit free (no mana-rich moist air to glue it).
   - **Two break paths he finds:**
     1. **Drain:** suck out all the mana held in the stone → it becomes **crumbly** and can be powdered (still hard-candy work unless void/vacuum helps).
-    2. **Overload:** dump a whole lot of mana into it → also breaks, but **extremely violent, noisy, and hard to collect** the pieces. Drain is the practical path for ink.
+  2. **Overload:** dump a whole lot of mana into it → also breaks, but **extremely violent, noisy, and hard to collect** the pieces. Drain is the practical path for ink.
 - Same pour-cost band as shop/trial work; **clearly higher seating quality** than Ch 16 trial success / Ch 21 red practice (~**75** MP practice was waste; designed Orb cast **25**).
 - **Perfects Fire Orb quickly** to the same working level shown in the class test (functional seating, clean enough to match that trial outcome) even on rough hide + homemade ink. Fast, not a month wall.
 - **Immediately after** that Fire Orb lock he isolates segments **basically instantly**: **water** from the **Aqua Ball** sample, **light** from the **Orb of Light** sample. No long research beat.
@@ -233,6 +233,7 @@ Retuned under **quality-only seating** (post trial / first night) + quality × (
 | Basic Rune Mastery | **L5** (~**2,910** = reject burns + lighter scraps; combat later) |
 | Sleep Resistance | **L6 → L7** printed (+1); raw meter overshoots if unsoftened |
 | Hunger / Pain / Technology / Ned | Hunger **L6**; Pain **L6**; Technology **L7→L8** (every rune/tech observe); Ned night pack |
+| Sound Production / Echolocation | kept daily since train; soft **L7 → L8** (desk clicks + Ned locate under MT) |
 | Class | schematics **+27,000** + pour × quality; soft toward Ch 23 **L35** / Scribe **L10** |
 
 ### How the skill bar builds (read this)
@@ -594,7 +595,7 @@ Prefill does **not** change seat counts or hide spend — same scroll, second po
 |---|---|---|
 | **Sleep** | Most nights cut to **3–5 h**; patch on; Sleep Resistance +1 | Occasional crash sleep after bad MP/pain day; never a clean 8 h routine |
 | **Food** | Skips lunch; one-meal days common; cannot will hunger on | SP / desk burn with thin meals **is** starvation → **Hunger Resistance** (~**L6**) + **Pain** (starve-ache); evening plate when lightheaded |
-| **Hygiene / wounds** | Leaves coin burn/frost sites under crust | Rotate sites when numb; rare potion; basic clean to avoid infection |
+| **Hygiene / wounds** | Leaves coin burn/frost sites under crust; desk sweat / ink | Rotate sites when numb; rare potion; basic clean to avoid infection; **hands and face rinse** at the inn wash when he goes down for a meal (`Cleanliness.md`) |
 | **Social / adventure** | No dungeon main; servant cover prep late | Ned silk clothes; seller-identity work months 3–4 |
 | **Money anxiety** | Spends into **1 SS** on purpose for the sell shot | Homemade ink + refuse Low is the only brake |
 

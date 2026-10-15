@@ -23,11 +23,11 @@ Unlocks: bravery week (stick + rare blade + bruise knit). Not self-torture.
 
 ### Transfer / Ch 2 (wake)
 
-Identify, Mana Sense, **Diagnosis L8**, Technology L7, **Sleep Resistance L4**, Fabrication L8, Cooking L3, Marksmanship L7, Acting L4, Math L7, Map Reading L4, Hastened Reading L2, **Analyze L1**.
+Identify, Mana Sight, **Diagnosis L8**, Technology L7, **Sleep Resistance L4**, Fabrication L8, Cooking L3, Marksmanship L7, Acting L4, Math L7, Map Reading L4, Hastened Reading L2, **Analyze L1**.
 
 ### Ch 4–7 childhood drills (estate)
 
-Morning loop: pushups, squats, pull-ups, running, sword basics; then books + Mana Sense.
+Morning loop: pushups, squats, pull-ups, running, sword basics; then books + Mana Sight.
 
 | Skill | How |
 |---|---|
@@ -39,7 +39,7 @@ Morning loop: pushups, squats, pull-ups, running, sword basics; then books + Man
 | Basic One-handed Swordsmanship | House drills → **L8** by leave |
 | Basic Leather Armor | Bravery kit onward → **L9** by leave |
 | Reading Proficiency | Library → **L9** by ~age 7 |
-| Mana Sense | → **L9** before Mage |
+| Mana Sight | → **L9** before Mage |
 
 **On-page trauma seeds (not resist unlocks yet):**
 - Drill stick whacks when he slows on runs (Ch 4): **blunt**, bruised / tired.

@@ -145,7 +145,7 @@ The shades must be one-way. Real optical isolators use Faraday rotation in a mag
 - **Terahertz:** sees through clothing and thin non-metals.
 - **Gravity:** changes travel at light speed and nothing shields it. A 100 kg person at 1 m pulls about 7 billionths of a meter per second squared, which lab gravimeters can detect with long averaging. A refined magical gravity sense detects mass through walls, darkness, smoke and illusions. The strongest strategic sense available.
 - **Air flow:** fish lateral lines detect displacement waves from moving bodies. Limited to sound speed.
-- **Prediction:** nothing physical beats light. The last frontier is time before the event: muscle tension, breathing, weight shift, gaze direction, mana gathering. Fast-thinking mages read the windup. If mana disturbances propagate instantly, mana sense becomes the only sense faster than light and the decisive military asset. It also breaks causality, which opens the door to true precognition.
+- **Prediction:** nothing physical beats light. The last frontier is time before the event: muscle tension, breathing, weight shift, gaze direction, mana gathering. Fast-thinking mages read the windup. If mana disturbances propagate instantly, mana sight becomes the only sense faster than light and the decisive military asset. It also breaks causality, which opens the door to true precognition.
 
 ## The Endgame
 

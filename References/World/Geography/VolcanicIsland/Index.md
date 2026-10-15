@@ -13,6 +13,7 @@ Hotspot / shield-island pack for Dragnis-class places. Places: [Places.md](../Pl
 - [HawaiianBiomes.md](HawaiianBiomes.md). Earth Hawaii detailed field guide by elevation and habitat. Compact ladder: Ecology.md.
 - [Weather.md](Weather.md). Big-Island weather calendar by side and height. Earth-year dates. Farm wind stays in Farming.md.
 - [HawaiianWindsBeachGlider.md](HawaiianWindsBeachGlider.md). Island wind atlas, channels, ridge lift; 100 kg beach-glider lift tables. PerfectGlider: ../../Science/Vehicle/PerfectGlider/
+- Island transport network (swing, zip, gondola, canoe): [../../Science/Vehicle/HawaiianTransport.md](../../Science/Vehicle/HawaiianTransport.md)
 - [VolcanicGases.md](VolcanicGases.md). Earth volcanic gas catalog and how each gas files onto the four damage families. Hawaiʻi station geography, not Caldris.
 - [HawaiianMinerals.md](HawaiianMinerals.md). Iron routes, element inventory, what Hawaii can/cannot supply. Sands: Sands.md. Ti/Ni metallurgy companions under Science/Metallurgy.
 - [Resources.md](Resources.md). Companion to Ecology.md. Crops, farm sites and waterfowl cross-links. Places: ../Places.md (Dragnis-class islands).

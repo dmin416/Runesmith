@@ -45,9 +45,9 @@ Passive. Identifies names and basic properties of the world. Chapter 9: levels f
 First seen: Chapter 2
 Passive. Analyzes systems, formulas and how things work. First in-Terra unlock when Roland reverse-engineers the status formulas. High Analyze is the upgraded form feared by nobles and spies.
 
-### Mana Sense
+### Mana Sight
 First seen: Chapter 2
-Passive. Sense ambient mana. Attribute bonus: **Intelligence +1 per level** and **Willpower +1 per level** (rewrite; Chapter 4 L4 shows pads). Chapter 9: detects whether a corpse holds a mana stone without butchering.
+Passive. See ambient mana (mist, color, presence). Attribute bonus: **Intelligence +1 per level** and **Willpower +1 per level** (rewrite; Chapter 4 L4 shows pads). Chapter 9: detects whether a corpse holds a mana stone without butchering. Caps **L9**, then evolves to **Mana Sense**.
 
 ### Runic Mana Perception
 First seen: Chapter 548
@@ -139,7 +139,7 @@ Passive. First gained as Basic Alcohol Resistance after forced tavern drinking w
 
 ### Poison Resistance / Basic Poison Resistance (toxin)
 First seen: Chapter 12
-Passive. Covers **poison and toxin** (venom, food toxin, spore, gas) as one track. Unlocks when Roland eats Needle Worm blood and crunches needle spikes for the cumin / red-pepper spice. Popup ignored on-page while he Mana Senses for a core-bearing worm to tame. Hard-caps at **L9**, then evolves. Earth diet→toxin sequestration (frogs, monarch, puffer): `../World/Fauna/ToxinSequestration.md`. Earth toxin ADME / organ heal / venom / CO / metals: `../World/Science/Body/ToxinExposureRecovery.md`.
+Passive. Covers **poison and toxin** (venom, food toxin, spore, gas) as one track. Unlocks when Roland eats Needle Worm blood and crunches needle spikes for the cumin / red-pepper spice. Popup ignored on-page while he uses Mana Sight for a core-bearing worm to tame. Hard-caps at **L9**, then evolves. Earth diet→toxin sequestration (frogs, monarch, puffer): `../World/Fauna/ToxinSequestration.md`. Earth toxin ADME / organ heal / venom / CO / metals: `../World/Science/Body/ToxinExposureRecovery.md`.
 
 **Each level: -10% poison / toxin effect** (damage, duration, status strength) vs an unresisted dose of the same type. Additive off 100%. L1 = 90% effect → L9 = 10% effect. Does not erase the dose; a strong enough hit still lands through the remainder.
 

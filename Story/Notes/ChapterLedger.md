@@ -70,7 +70,7 @@ Ch 19 bare MP: `(156×10)+(147×4)` = **2148**. Printed ledger/target **2578** s
 ### Chapter 1
 - **Time:** Age 5 / year 0. Transfer day.
 - **Sheet:** Transfer live (see spine). No class.
-- **Skills:** Transfer set lands (Identify, Mana Sense L1→climbing, Diagnosis, Technology, Sleep Resistance, Fabrication, Cooking, Marksmanship L7, Acting, Math, Map Reading, Hastened Reading, Analyze).
+- **Skills:** Transfer set lands (Identify, Mana Sight L1→climbing, Diagnosis, Technology, Sleep Resistance, Fabrication, Cooking, Marksmanship L7, Acting, Math, Map Reading, Hastened Reading, Analyze).
 - **Delta:** First sheet appears.
 
 ### Chapter 2
@@ -95,7 +95,7 @@ Ch 19 bare MP: `(156×10)+(147×4)` = **2148**. Printed ledger/target **2578** s
 ### Chapter 5
 - **Time:** **10y0m / 5y**. Ascension day.
 - **Sheet:** Pre-class then Mage L1 (spine).
-- **Skills gain:** Mage grants — Basic Mana Shaping L1, Basic Mana Regulation L1, Mana Bolt L1, Basic Incantation L1. Affinities all **0%**. Mana Sense already **L9**. Basics at age-10 targets.
+- **Skills gain:** Mage grants — Basic Mana Shaping L1, Basic Mana Regulation L1, Mana Bolt L1, Basic Incantation L1. Affinities all **0%**. Mana Sight already **L9**. Basics at age-10 targets.
 - **Delta:** Class exists. Banked XP not applied until Ch 6.
 
 ### Chapter 6
@@ -141,7 +141,7 @@ Ch 19 bare MP: `(156×10)+(147×4)` = **2148**. Printed ledger/target **2578** s
 ### Chapter 11
 - **Time:** **10y6m / 5y6m**. Day 1 + trial **~2 weeks**.
 - **Sheet:** Still Mage L20 attributes (spine). Hands **L5→L6**.
-- **Skills:** Shield / Arrow / Incantation in combat; Inc stays **L6**; Abs/Sense **L9**.
+- **Skills:** Shield / Arrow / Incantation in combat; Inc stays **L6**; Abs/Sight **L9**.
 - **XP:** Day **456**; trial kill **+2184** + Hands **~100** → bar **~8540/10k**.
 - **Coin:** **3630 → 3758 → ~4413**.
 - **Delta:** Party dungeon begins.

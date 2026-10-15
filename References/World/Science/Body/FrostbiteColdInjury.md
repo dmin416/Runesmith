@@ -107,6 +107,8 @@ Common for years or permanently after moderate to severe frostbite:
 
 ## 8. Nonfreezing Cold Injury (Trench Foot / Immersion Foot)
 
+Hygiene cause and historical toll: `Cleanliness.md`. This section wins on the injury stages and the Terra readout.
+
 Occurs from prolonged exposure to cold, wet conditions above freezing (roughly 0-15°C / 32-60°F). The defining cold injury of World War I trench warfare.
 
 **Required exposure:** about 12 hours or more of continuous wet cold; worsened by tight boots, immobility and dehydration.

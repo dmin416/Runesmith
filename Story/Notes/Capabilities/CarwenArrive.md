@@ -1,6 +1,6 @@
 # Carwen arrive
 
-**When:** Ch **8** (guild crystal / Bronze card). Age **10y3m** / world **5y3m**. Just off the train from the estate.
+**When:** Ch **8** (guild crystal / Bronze card). Age **10y3m** / world **5y3m**. Just off the train from the estate. Ch 7 cabin: well wash after unpacking (`../Cleanliness.md`).
 
 **Classes:** Mage **L3** (no secondary). Overall unprinted (still early T1).
 
@@ -66,7 +66,7 @@ hold ≈ 1 min × M ≈ 3.6 min   (body only)
 ## Senses / processing
 
 - Eyes: ordinary healthy young (**~20/16–20/12**). No Enhanced / Mana Vision.
-- **Mana Sense L9** (capped).
+- **Mana Sight L9** (capped).
 - No Sound Production / Echolocation.
 - **Diagnosis L8**, Identify / Analyze low, **Hastened Reading L2**, **Reading L9** (~**640 wpm** band).
 - No Multitasking skill yet. No printed Parallel Thinking level.

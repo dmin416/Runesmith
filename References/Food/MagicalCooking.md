@@ -21,7 +21,7 @@ Kitchen outcomes magic can buy if heat, water, time, sorting or kinetics are und
 
 Not lazy time magic. Practitioner has no time manipulation. Acceleration is stimulation plus full input accounting: `CompressedTimeStimulation.md`. Totals stay fixed; rates × N; cooling, transport, bolstering and pathway balance set the bill.
 
-- **Aging:** Dry-aged beef normally 30 to 60 days. Cheese, wine, whiskey, cured ham and balsamic take months to decades. Price per pathway; heat-only ages taste cooked.
+- **Aging:** Dry-aged beef normally 30 to 60 days. Cheese, wine, whiskey, cured ham and balsamic take months to decades. Earth peak times: `FermentedAging.md`. Earth heat, oak, and barrel levers: `AgingMechanisms.md`. Price per pathway; heat-only ages taste cooked.
 - **Fermentation:** Bread rising, sourdough, kimchi, miso, yogurt, vinegar and soy sauce on demand. Moderate N near the natural ceiling is cheap; high N is industrial (mana stones / runic vats).
 - **Braising:** Tough-cut / collagen problem: eight hours of breakdown in a minute. Same divergent-reaction wall as MagicalMeatCookware; blunt heat alone fails.
 

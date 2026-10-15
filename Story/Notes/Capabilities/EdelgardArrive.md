@@ -1,6 +1,6 @@
 # Edelgard arrive
 
-**When:** Ch **19** train exit / Ch **20** Singing Crow morning. Age **11y0m** / world **6y**. End of Carwen **9 months** + ~**7-day** train grind.
+**When:** Ch **19** train exit / Ch **20** Singing Crow morning. Age **11y0m** / world **6y**. End of Carwen **9 months** + ~**7-day** train grind. Train mornings: damp-cloth wipe (face, neck, underarms). Singing Crow: guest wash after the room is his before schematic work (`../Cleanliness.md`).
 
 **Classes:** Mage **L25** [secondary] / Runic Mana Scribe **L1** [main]. Overall **L26**.
 
@@ -69,7 +69,7 @@ No immunities yet.
 ## Senses / processing
 
 - Eyes: ordinary young acuity. No Enhanced / Mana Vision on sheet.
-- **Mana Sense L9**. **Sound Production + Echolocation L7** (click-map / Ned tip catch).
+- **Mana Sight L9** (next evolve **Mana Sense**; not unlocked). **Sound Production + Echolocation L7** at arrive; keeps training after (desk / grill).
 - **Diagnosis L8**. **Marksmanship L9**. **Hastened Reading L2** on **Reading L9**.
 - **Multitasking L5** (50% side efficacy). Example at 10× capacity, peel 50% one side: main **5.0** men / side **2.5** men.
 - Parallel Thinking: rewrite transfer intent; **no printed level** on Ch 19 exit table.
@@ -80,8 +80,8 @@ Running / Sprint / Climbing / Throwing **Basic L9**. Dodging **Basic L7**. Acrob
 
 ## Magic toolkit
 
-Hands / Absorption / Reinforcement / Sense / Incantation **L9**. Shaping **L7**, Regulation **L8**. Heat spell **L6**. Suffocation Resistance **L5** (hold hypoxia + blood volume). **No** Breath Control. Drawing **L1** (+ Basic Drawing L9 baked). Mage regen card still on.
+Hands / Absorption / Reinforcement / Sight / Incantation **L9**. Shaping **L7**, Regulation **L8**. Heat spell **L6**. Suffocation Resistance **L5** (hold hypoxia + blood volume). **No** Breath Control. Drawing **L1** (+ Basic Drawing L9 baked). Mage regen card still on.
 
 ## One-line
 
-An **11**-year-old with Bolt-class burst, **~3×** adult lift, **~25 min** breath holds, half pain/heat/cold felt, **~10×** think speed, click-sonar and capped mana sense. No super-acuity eyes. Child mass still bottles absolute combat force vs the sheet multiples.
+An **11**-year-old with Bolt-class burst, **~3×** adult lift, **~25 min** breath holds, half pain/heat/cold felt, **~10×** think speed, click-sonar and capped mana sight. No super-acuity eyes. Child mass still bottles absolute combat force vs the sheet multiples.

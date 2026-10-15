@@ -5,7 +5,7 @@ Live skill law stays thin here and in `Progression.md`. Rank / evolve / field-us
 ## Locked live notes
 
 - **Info skills:** Identify, Analyze exist in the world.
-- **Mana Sense:** Exists as a skill / aptitude some people have.
+- **Mana Sight:** Exists as a skill / aptitude some people have.
 - **Diagnosis:** D-only. Sees / understands flaws in a system. Feeds his medical background. Old Source name was Debugger. Do not reinstate Debugger as the live name. Caps at L9; Advanced Diagnosis is a separate high-tier skill, not an automatic L9 evolution.
 - **Technology** and **Fabrication:** D-side craft aptitudes (see `../People/Roland/Character.md`).
 - **Skill hard-cap:** Every skill name hard-caps at **L9**, then evolves to the next prefix form (new name at L1). No L10 on the same name. Class skills follow the same rule. Prefix ladder / use curve: `SkillRanks.md` / Ideas.

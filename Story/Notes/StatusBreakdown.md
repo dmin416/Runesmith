@@ -71,7 +71,7 @@ Blessed by Mana: recovery multiplier (not in MP math). Mage: mana recovery narra
 
 #### Early Basics (Progression age targets, +1 × level)
 
-Redesign: Running → Endurance. Sprint → Vitality (+ Endurance). Hand to Hand → Strength + Vitality. Leather → Vitality + Endurance. Reading / Mana Sense → Intelligence + Willpower. **Basic Acrobatics → Agility.** Goal at age 10: Str/Agi/Vit/End **40**; Dex/Will higher; Int highest.
+Redesign: Running → Endurance. Sprint → Vitality (+ Endurance). Hand to Hand → Strength + Vitality. Leather → Vitality + Endurance. Reading / Mana Sight → Intelligence + Willpower. **Basic Acrobatics → Agility.** Goal at age 10: Str/Agi/Vit/End **40**; Dex/Will higher; Int highest.
 
 | Skill | Favored | Age 9 lv | Age 9 bonus | Age 10 lv | Age 10 bonus |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@ Redesign: Running → Endurance. Sprint → Vitality (+ Endurance). Hand to Hand
 | Basic One-Handed Swordsmanship | STR | 7 | STR +7 | 8 | STR +8 |
 | Basic Leather Armor | VIT, END | 8 | VIT +8, END +8 | 9 | VIT +9, END +9 |
 | Reading Proficiency | INT, WILL | 9 | INT +9, WILL +9 | 9 | INT +9, WILL +9 |
-| Mana Sense | INT, WILL | 9 | INT +9, WILL +9 | 9 | INT +9, WILL +9 |
+| Mana Sight | INT, WILL | 9 | INT +9, WILL +9 | 9 | INT +9, WILL +9 |
 
 Identify: no attribute line. Basic Mana Shaping → Int +2 / Will +1 per level. Basic Mana Regulation → Int +1 / Will +2 per level. Basic Incantation → Int +1 / Will +1 per level. **Mana Absorption** → Int +1 / Will +2 per level (Will-heavy recover grind). **Mana Reinforcement** → Int +1 / Will +1 per level (same as Incantation) plus the % max-MP → base-stats while active. Spells (Bolt / Arrow / Shield / Heat / Hands) → **no** attribute pads.
 
@@ -210,7 +210,7 @@ Combat math: `SkillRanks.md` field-use curve (`SkillRanks.md`); table in `Skills
 | Heat / Mana Hands | self | **L5 / L5** | evenings + light field use |
 | Basic Dodging | — | **L4** | live clears vs clubs/spears/rocks (~**320**) |
 | Marksmanship | L7 | **L7** | aimed casts short of **100,000** |
-| Reading / Mana Sense | L9 | L9 | unchanged |
+| Reading / Mana Sight | L9 | L9 | unchanged |
 
 **Mentals (match live sheet):** Skills/Traits Int = pre-mage **48** + Shaping **12** + Regulation **7** + Incantation **6** + Absorption **9** + Reinforcement **9** = **91**. Skills/Traits Will = pre-mage **28** + **6** + **14** + **6** + **18** + **9** = **81** (+**1** live-sheet lock → **82**).
 
@@ -289,7 +289,7 @@ Partial path without Basics (body mental + transfer skills/traits only):
 | Age | INT | WILL |
 |---|---|---|
 | 5 | 12 + 30 = **42** | 15 + 10 = **25** |
-| 9 | 17 + 30 = **47** (+ Reading/Mana Sense when unlocked) | 23 + 10 = **33** |
+| 9 | 17 + 30 = **47** (+ Reading/Mana Sight when unlocked) | 23 + 10 = **33** |
 | 10 | 18 + 30 = **48** (+ Basics Int) | 25 + 10 = **35** |
 
 ---
@@ -307,4 +307,4 @@ Partial path without Basics (body mental + transfer skills/traits only):
 | Willpower | 45% (25) | 5% (3) | 50% (28) |
 | Charisma | 43% (3) | 0% | 57% (4) |
 
-Physicals sit even at **40**. Skills/traits still dominate Dex, Int, Vit and End. Willpower is split about half body (adult mind) and half Reading/Mana Sense + traits.
+Physicals sit even at **40**. Skills/traits still dominate Dex, Int, Vit and End. Willpower is split about half body (adult mind) and half Reading/Mana Sight + traits.

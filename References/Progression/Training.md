@@ -237,7 +237,7 @@ Avg of all 7 = (STR + VIT + END + AGI + DEX + INT + WILL) / 7 using the physical
 - **Willpower:** starts at the full adult value and gains **2 per year through age 10**. Each real year of life adds experience while roughly **2,200 novels** of vicarious experience and daily fighting and climbing decisions add more. After age 10 the gain drops to **1 per year** since the reading volume stays constant while returns diminish.
 - **Age 21:** INT **26** is **1.73×** the average adult man and WILL **35** is **2.33×**.
 
-Skills and traits still stack on top (Diagnosis, Technology, Reading, Mana Sense, Logical Thinker, etc.). Class packages add Mage Int/Will on top of this body row.
+Skills and traits still stack on top (Diagnosis, Technology, Reading, Mana Sight, Logical Thinker, etc.). Class packages add Mage Int/Will on top of this body row.
 
 **Rewrite note:** older Chapter 2 notes used bare Int 11 and Will 8. Use this table instead (age 5: Int 12, Will 15). Retcon early sheets when touching those chapters.
 

@@ -84,6 +84,8 @@ Overall XP bar enter **7329** → exit **~16,034,518** (schematics **+27,000** +
 | Mana Reinforcement | **9** | **~504k** | |
 | Diagnosis | **7** | **~88.3k** | |
 | Heat (spell) | **6** | **~5.1k** | |
+| Sound Production | **8** soft | kept since train | Desk clicks + Ned; enter train **L7** |
+| Echolocation | **8** soft | kept since train | Same; evolve **Vibration Sense** at **2M** |
 
 ---
 

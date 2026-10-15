@@ -121,7 +121,7 @@ Magical phenomena that are not enchanted or runed are temporary. Earth walls, ic
 
 **Mana-rich places can still help them:** a dense / spiritually thick field may ease the body and spirit (rest, recovery feel, narrative healing). That is **not** stored mana. When they leave, they do **not** carry a fuller tank; they never had one.
 
-**Forced / unnatural absorb is radiation-class danger.** Using Mana Sense (or similar) to see ambient mana and then **moving** that natural mana into a body that cannot hold it is unnatural. It poisons or kills (original Roland's death; D's early scare). Treat like radiation: visible / tangible mist does not make it safe to drink. Safe ambient absorb starts with a real pool (Mage, Acolyte, or equivalent).
+**Forced / unnatural absorb is radiation-class danger.** Using Mana Sight (or similar) to see ambient mana and then **moving** that natural mana into a body that cannot hold it is unnatural. It poisons or kills (original Roland's death; D's early scare). Treat like radiation: visible / tangible mist does not make it safe to drink. Safe ambient absorb starts with a real pool (Mage, Acolyte, or equivalent).
 
 **Mana (with a pool):** Rate depends on mana left and total pool. Old equation family kept:
 

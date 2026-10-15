@@ -40,7 +40,7 @@
 
 - Sleep Resistance **L4** (−40% sleep need)
 - Transfer: Diagnosis **L8**, Technology, Fabrication, Marksmanship **L7**, Cooking, Acting, Math, Map Reading, Hastened Reading **L2**, Identify, Analyze
-- Mana Sense climbing from **L1**
+- Mana Sight climbing from **L1**
 - No Running Basics yet
 - No Pain/Heat/Cold/Poison/Breath/Recovery
 

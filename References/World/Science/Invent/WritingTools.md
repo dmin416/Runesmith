@@ -190,7 +190,7 @@ Earth mass production. Not the first Caldris pencil or pen. The story lock above
 ## Cross-links
 
 - Inks (carbon, iron gall, print paste, blood, density): `Ink.md`
-- Ch 19 quill / pencil want: `../../../../Story/Notes/Notes.md`, chapter prose in `../../../../Story/Chapters/19-30.md`
+- Ch 19 quill / pencil want: `../../../../Story/Notes/Notes.md`, chapter prose in `../../../../Story/Chapters/19-26.md`
 - Ned spikes / toxin: `../../../../Story/Notes/NedStatus.md`, `../../../People/Ned.md`
 - Edelgard mines: `../../Geography/Places.md`
 - Later mass product / ball pen: `../../../Ideas.md` (civilian shortlist; pencil invent is earlier personal craft)
