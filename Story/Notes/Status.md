@@ -104,7 +104,7 @@ Ninth birthday. Height **4'7"** (chapter; tall for age 9). Bravery-test status s
 - First Kill achievement: **+200**
 - **Total gained: 250 XP** (pre-class bank; applies at ascension with penalty)
 
-Early in the chapter (age ~5 training stretch): Mana Sense reaches L4. Intelligence +4 and Willpower +4 from that skill (bonus = level). Half-year Climbing grind and other Basics before the birthday fight.
+Early in the chapter (age ~5 training stretch): Mana Sight reaches L4. Intelligence +4 and Willpower +4 from that skill (bonus = level). Half-year Climbing grind and other Basics before the birthday fight.
 
 **Live (chapter)** still uses body physicals + transfer Dex pad + partial Int/Will (old seeds). Omits Basic physical skill bonuses. Prose: Willpower helps him stay clear-headed; Dexterity is the only combat-useful pad of his three 20+ stats (archery / light blades).
 
@@ -130,7 +130,7 @@ Luck                   8
 
 **Rewrite target (full stack, age 9):** Body 13/16/16/13/12 Int17 Will23 + Basics + transfer skills/traits → Str **36**, Agi **35**, Dex **49**, Vit **36**, End **36**, Int **65**, Will **51**, Cha **7**, Luck **7**. HP/SP/MP from formulas on those attributes. See `StatusBreakdown.md`.
 
-**Partial rewrite (body + transfer only, no Basics yet):** Str 13, Agi 19, Dex 41, Vit 13, End 12, Int 47, Will 33 (then add Mana Sense / Reading levels as unlocked). Cha/Luck Other ticks optional.
+**Partial rewrite (body + transfer only, no Basics yet):** Str 13, Agi 19, Dex 41, Vit 13, End 12, Int 47, Will 33 (then add Mana Sight / Reading levels as unlocked). Cha/Luck Other ticks optional.
 
 Goblin foe:
 
@@ -169,7 +169,7 @@ Luck                   7
 
 HP = 40×10 + 40×3 = 520. SP = 40×10 + 40×3 + 40×3 = 640. MP = 66×10 + 53×4 = 872.
 
-Skills menu in chapter: transfer set (Marksmanship **L7**) + Mana Sense **L9** (+Int/Will) + Reading **L9** (+Int/Will) + Basics at age-10 targets (Running/Sprint/Climbing/Throwing/Leather **L9**; H2H/Sneak/Sword **L8**; **Acrobatics L3**). Str/Agi/Vit/End even at **40**; Dex **50**; Will **53**; Int **66** highest.
+Skills menu in chapter: transfer set (Marksmanship **L7**) + Mana Sight **L9** (+Int/Will) + Reading **L9** (+Int/Will) + Basics at age-10 targets (Running/Sprint/Climbing/Throwing/Leather **L9**; H2H/Sneak/Sword **L8**; **Acrobatics L3**). Str/Agi/Vit/End even at **40**; Dex **50**; Will **53**; Int **66** highest.
 
 Class gained mid-chapter: **Tier 1 Mage L1**. Unlocks: Basic Mana Shaping L1 (**Int +2 / Will +1**), Basic Mana Regulation L1 (**Int +1 / Will +2**), Mana Bolt Spell L1, Basic Incantation L1 (**Int +1 / Will +1**). Mage package +1 Int / +1 Will (permanent). Mage card: mana recovery (narrative). Blessed by Mana: multiplies mana recovery. All seven **40** attribute perks on sheet. Banked pre-class XP not applied on-page until Chapter 6 (L3). Crystal used for the ritual turns to dust.
 
@@ -353,7 +353,7 @@ No full status screen. Still **Mage L20** band (no level-up line). First Carwen 
 **On-page**
 - Entrance dungeon rat: Mana Arrow one-shot (no XP popup shown).
 - First Spiked Boar (idle): **+6 XP**. Narration: **1%** cut of L8 pool **600**; he could kill it alone if he tried. Party XP = ability + contribution (Source T1-in-T2 zero-XP block dropped).
-- Mana Sense: chest stone ≈ goblin-leader size. Later active fight: Mana Shield hard disk on Sahildr; “another” stone.
+- Mana Sight: chest stone ≈ goblin-leader size. Later active fight: Mana Shield hard disk on Sahildr; “another” stone.
 - Equal money split after sales (no on-page coin total).
 
 **Day lock** (`RaceMult.md` / `Economy.md` / `Experience.md`): Spiked Boar **L8** solo pool **600** (idle **6 = 1%**; full share **150 = 1/4**). Day **4** boars → **456** XP. Day haul **4** boars / **2** stones sold → team **~512 LC** → Roland **+128 LC**. Enter pouch **3,630 LC** → after day 1 **3,758 LC**. Personal stones stay **220** rice + **8** leader. L20 bar after day **~6,256 / 10,000**.
@@ -493,11 +493,11 @@ No full status screen. Gains **1000 XP** from Lesser Impact [Highest] schematic.
 
 ## Chapter 19
 
-No full status screen. Age **11** / world **6 years**. Enter wallet **21,641 LC** (personal **11,641** + parting gift **10 SG**). Solaria tip **−1 SS (−10 LC)** → **21,631**. Guild city map list **2 SS** / Steel **5%** → **−19 LC** → **21,612 LC**. Singing Crow room **−14 LC** → **21,598 LC**. Fire Orb memory redraw: **[High] +600 XP** (over 1 hour; uneven) then thin-sheet **[Highest] +400 XP** (total **1000**). Three Highest lesser schematics now. Train week (**both drills every day**, mana at **~99%** regen ceiling; self Mana Hands drip pierces + Ned fang/needle + **needle-catch / feed-back**; **1 click / ~4 s**): Sound Production **L7**, Echolocation **L7**, Suffocation Resistance **L5** (holds + blood volume; **no** Breath Control), Sleep Resistance **L6** (ignored **4 h**/day of **8 h** T0), Sharp Resistance **L4** (pierces), Multitasking **L5**, Throwing **L9** (Basic), Shaping **L7**, Regulation **L8**, Heat **L6**, Heat Resistance **L5**, Cold **L5**, Pain **L5**, Poison **L6**, Recovery **L5**; Hands / Absorption / Reinforcement / Sense stay **L9**; Incantation **L9** (`Skills.md` Ch 19 math). Lodging: The Singing Crow Inn, Edelgard (**14 LC**/night; Steel-band; skipped peasant hostel). Meets Helci.
+No full status screen. Age **11** / world **6 years**. Enter wallet **21,641 LC** (personal **11,641** + parting gift **10 SG**). Solaria tip **−1 SS (−10 LC)** → **21,631**. Guild city map list **2 SS** / Steel **5%** → **−19 LC** → **21,612 LC**. Singing Crow room **−14 LC** → **21,598 LC**. Fire Orb memory redraw: **[High] +600 XP** (over 1 hour; uneven) then thin-sheet **[Highest] +400 XP** (total **1000**). Three Highest lesser schematics now. Train week (**both drills every day**, mana at **~99%** regen ceiling; self Mana Hands drip pierces + Ned fang/needle + **needle-catch / feed-back**; **1 click / ~4 s**; **heat-only** grill; Cold **L3** night sleep): Sound Production **L7**, Echolocation **L7**, Suffocation Resistance **L6** (holds + blood volume; **no** Breath Control), Sleep Resistance **L6** (ignored **4 h**/day of **8 h** T0), Sharp Resistance **L4** (pierces), Multitasking **L5**, Throwing **L9** (Basic), Shaping **L7**, Regulation **L8**, Heat **L6**, Heat Resistance **L5**, Cold **L3** (cold night sleep; `ColdNightSleep.md`), Pain **L5**, Poison **L6**, Recovery **L5**; Hands / Absorption / Reinforcement / Sense stay **L9**; Incantation **L9** (`Skills.md` Ch 19 math). Lodging: The Singing Crow Inn, Edelgard (**14 LC**/night; Steel-band; skipped peasant hostel). Meets Helci.
 
-**Rewrite:** train-week sheet **49/64/72/72/81/156/147/12/7**; HP **963** / MP **2578** / SP **1149** (`ChapterLedger.md`). Wallet **21,641 → 21,598 LC** after tip + map + room (`Items.md`). Personal **11,641 LC** never replaced by the gift alone. Train skill ranks **+3800 XP** (incl. Sleep **L5→L6**) + Fire Orb **High→Highest** **+1000 XP** → bar **7279 / 13000** (`Experience.md`). Suffocation: hypoxia **15 s**/use + blood **~50 mL**/use; **no** Breath Control. Sleep: **T0 = 8 h**; L5 need **4.0 h**; ignored **4.0 h**/day → ~**6,720** uses. Lesser quality ladder: **100 / 200 / 400 / 600 / 1000**. Source one-shot Highest **+1000** discarded.
+**Rewrite:** train-week sheet **49/64/72/72/81/156/147/12/7**; HP **963** / MP **2578** / SP **1149** (`ChapterLedger.md`). Wallet **21,641 → 21,598 LC** after tip + map + room (`Items.md`). Personal **11,641 LC** never replaced by the gift alone. Train skill ranks **+3500 XP** (incl. Sleep **L5→L6**, Suffocation → **L6**; Cold **L3** from Carwen cold nights, no frost grill) + Fire Orb **High→Highest** **+1000 XP** → bar **6979 / 13000** (`Experience.md`). Suffocation: hypoxia **15 s**/use + blood **~50 mL**/use; **no** Breath Control. Sleep: **T0 = 8 h**; L5 need **4.0 h**; ignored **4.0 h**/day → ~**6,720** uses. Lesser quality ladder: **100 / 200 / 400 / 600 / 1000**. Source one-shot Highest **+1000** discarded.
 
-**Ned:** overall **26** / **4x** Greater. Train week + night pack since tame → 21.5 enter: Spike / Climb **L7**, Stealth **L8**, Spring / Seal / **Recovery** **L6**, Silk / Pain / Heat / Cold / Moon / Tail / Horn / Blunt / Sharp **L6**, Poison / Formation / Absorb / Acid Prod / Acid Spray **L5** (`NedStatus.md`).
+**Ned:** overall **26** / **4x** Greater. Train week + night pack since tame → 21.5 enter: Spike / Climb **L7**, Stealth **L8**, Spring / Seal / **Recovery** **L6**, Silk / Pain / Heat / Moon / Tail / Horn / Blunt / Sharp **L6**, Poison / Formation / Absorb / Acid Prod / Acid Spray **L5**; **no Cold** (`NedStatus.md`).
 
 ## Chapter 20
 
@@ -515,7 +515,7 @@ No full status screen. Gains **25 XP** (Mana Bolt word scroll; L1 pay **22.5** M
 
 No on-page full status screen (rewrite-only skip). **Exit sheet:** `Chapter21_5Exit.md` (attrs, HP/SP/MP, skills, Ned, inventory, wallet).
 
-Day 1: buys **Runic Orb of Light**, **Fire Arrow**, **Aqua Ball**. Then ~**4 months** / **day 120** desk. Skip perfect schematics **+27,000** XP; Detonation / Impact / Fire Orb already paid. **Burns all paper schematics**. Soft Scribe **+3** (enter L1 → soft **L4**). Exit (printed in 21.5 close / Ch 22 lookback): Dex **85** / Vit **79** / End **89** / Int **165** / Will **151**; HP **1057** / SP **1229** / MP **2254**; Basic Rune Scribing **L8**; Drawing **L8**; **Technology L8** (enter L7); understanding **L3**; Basic Rune Mastery **L5**; MT **L7**; Sleep **L7**; Hunger / Pain **L6**; Hands **L9**; wallet **1 SS**; ten branded Fireballs (all **Highest**, **empty**).
+Day 1: buys **Runic Orb of Light**, **Fire Arrow**, **Aqua Ball**. Then ~**4 months** / **day 120** desk. Skip perfect schematics **+27,000** XP; Detonation / Impact / Fire Orb already paid. **Burns all paper schematics**. Soft Scribe **+3** (enter L1 → soft **L4**). Exit (printed in 21.5 close / Ch 22 lookback): Dex **85** / Vit **79** / End **89** / Int **165** / Will **151**; HP **1057** / SP **1229** / MP **2254**; Basic Rune Scribing **L8**; Drawing **L8**; **Technology L8** (enter L7); understanding **L3**; Basic Rune Mastery **L5**; MT **L7**; Sleep **L7**; Hunger / Pain **L6**; Heat Res **L5**; Cold **L4** (night sleep); Suffocation **L6**; Recovery **L5**; Heat spell **L6** (~**5.1k**); Fabrication **L8**; Taming **L3** soft; Sound/Echo **L8** soft; Hands **L9**; wallet **1 SS**; ten branded Fireballs (all **Highest**, **empty**). Full table: `Chapter21_5Exit.md`. Avenues: `FrictionGrill.md` / `ColdNightSleep.md`.
 
 **Rewrite:** pads toward later full sheet. See `Notes.md` / `Experience.md` / `Chapter21_5Exit.md`.
 
@@ -527,7 +527,9 @@ No full status screen. Present day after 21.5. Lookback prints RS **L8**, Master
 
 ## Chapter 23
 
-Overall L35. Mage L25 secondary. Runic Mana Scribe L10 main. Seller #64 net **6 SG 6 LS** (Fireball first sale; wallet **6 SG 6 LS 1 SS**). Weekly ~**1 SG** from ten Fire Arrow scrolls. Live sheet (mid-hunt MP spent):
+Seller #64 net **6 SG 6 LS** (first Fireball sale; wallet **6 SG 6 LS 1 SS**). Restocks blanks/paper; homemade ink; comet quality maintain. SP-fills when MP low; keeps MP near-full never empty-zero for grind. Desk side grind continues (`FrictionGrill.md`): friction Heat/Heat Res, Suffocation, Recovery, Fabrication, Taming via Ned; Cold = cold night sleep only (`ColdNightSleep.md`). **+2 months intense grill grind** (story vague): Sound/Echo still daily since train; Percival return stack is **fifteen** comet Fireballs, all **Highest**. Volume / better tools / +3 months more then forest hunt follow.
+
+Overall L35. Mage L25 secondary. Runic Mana Scribe L10 main (printed mid-hunt). Keeps Fireball comet volume (~**15/week**; lots pay **far better than 1 SG** after cut). Live sheet (mid-hunt MP spent):
 
 **Live (chapter)** — Source block still on-page:
 
@@ -587,7 +589,7 @@ Skills shown (Source print): Basic Mana Scribing L2, Basic Rune Scribing L5, Bas
 
 ## Chapter 24
 
-No full status screen. Still L35 / Scribe L10. Fire Arrow grimoire clears five Mountain Goblins; Helci climbs rope with one mana stone. No XP numbers shown. Inn sausage "thanks."
+No full status screen. Still L35 / Scribe L10. Fireball grimoire clears five Mountain Goblins; Helci climbs rope with one mana stone. No XP numbers shown. Inn sausage "thanks."
 
 **Rewrite:** inherits Ch 23 rewrite sheet.
 

@@ -17,13 +17,13 @@ Attribute growth from these skills follows **+1 × skill level** (`SkillRanks.md
 | **Map Reading** (already had) | Maps, GPS habits, reading diagrams and floor plans. Already on his sheet at transfer. Not unlocked at Ch 35. | Ch ~35 |
 | **Reading Proficiency** | Roland transmigrator track: about **L7 at age 5**, **L9 by age 7**, then speed only (`Progression.md`). Intelligence +level. Do not wait until named mid-story. | Named ~Ch 16 |
 
-## Right after Mana Sense works (Ch 2–4)
+## Right after Mana Sight works (Ch 2–4)
 
 | Skill / unlock | Why early | Source delay to avoid |
 |---|---|---|
 | **Basic Mana Regulation** (proto, or heavy training toward it) | He will treat mana like a resource meter and try to pull ambient fog in on purpose. Full class grant can still hit at Mage, but **ambient absorption practice** starts the day he sees fog. | Full skill only at Mage Ch 5; deep regen control much later |
-| **Mana Sense** leveled hard | Same: systematic testing of range, density, people vs air. Intelligence +level; L9 before first ascension. | Slow childhood grind only |
-| **Eyes of Mana** (late childhood / early Mage, low rank) | Once he has Mana Sense, a modern mind asks “can I see the flow, not just fog?” Early weak version; True Runic Sight stays late. | Ch 330 |
+| **Mana Sight** leveled hard | Same: systematic testing of range, density, people vs air. Intelligence +level; L9 before first ascension. | Slow childhood grind only |
+| **Eyes of Mana** (late childhood / early Mage, low rank) | Once he has Mana Sight, a modern mind asks “can I see the flow, not just fog?” Early weak version; True Runic Sight stays late. | Ch 330 |
 | **Stress Resistance** (seed) | Adult who has worked overtime and forced calm under pressure. Low rank early; class can formalize it later. | Ch 196 |
 
 ## First Mage block (Ch 5–8), still “obvious for him”
@@ -53,7 +53,7 @@ Unlock by doing under the daily loop. Technique ranks by age: `Progression.md`. 
 | Basic One-Handed Swordsmanship | Strength | L8 |
 | Basic Leather Armor | Vitality, Endurance | L9 |
 | Reading Proficiency | Intelligence, Willpower | L9 |
-| Mana Sense | Intelligence, Willpower | L9 |
+| Mana Sight | Intelligence, Willpower | L9 |
 
 Sword stays secondary to Marksmanship and thrown/ranged drills.
 
@@ -73,7 +73,7 @@ These should stay behind class, pain, or politics even if he is clever:
 
 1. **Transfer:** Diagnosis, Technology, Fabrication, Sleep Resistance, Marksmanship, Cooking, Acting, Logical Thinker, Fast Learning, Knowledge Retention, Hastened Reading L2, Parallel Thinking, Basic Mathematics, Map Reading, strong Reading Proficiency (L7+).
 2. **First in-Terra unlock:** Analyze L1 from the status analysis. Identify stays boy-tier until Analyze eats the deep work.
-3. **First mana week:** deliberate ambient absorption drills seed the later **Mana Absorption** / Regulation path at Mage; Mana Sense climbs fast (Int +level). Full Absorption + Reinforcement land in Ch 9.5.
+3. **First mana week:** deliberate ambient absorption drills seed the later **Mana Absorption** / Regulation path at Mage; Mana Sight climbs fast (Int +level). Full Absorption + Reinforcement land in Ch 9.5.
 4. **Library:** Hastened Reading + Analyze + Reading Proficiency level off books. Body Int/Will also rise on the adult-mind age track from daily reading.
 5. **Combat basics:** unlock by doing; ranks follow `Progression.md`; attribute bonuses stack in `StatusBreakdown.md`.
 

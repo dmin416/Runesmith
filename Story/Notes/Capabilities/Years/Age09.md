@@ -40,7 +40,7 @@
 
 - Sleep **L4**
 - Basics climbing toward age-10 **L9** / **L8**
-- Mana Sense high; Reading **L9**
+- Mana Sight high; Reading **L9**
 - Marksmanship **L7**
 
 ## One-line

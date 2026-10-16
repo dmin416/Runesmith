@@ -4,7 +4,7 @@
 
 Lazy time magic speeds a process up time machine style by hand waving every requirement so nothing else changes. Time manipulation exists in this world but is not available to the practitioner. Acceleration comes from supplying every input and stimulating every participant until the process runs N times faster. Every flow lands on the ledger.
 
-**Scope:** This file is the cost model under the fermentation and aging speedups in `MagicalCooking.md`. Any "speed up fermentation / aging" effect there is priced here. No free version exists.
+**Scope:** This file is the cost model under the fermentation and aging speedups in `MagicalCooking.md`. Any "speed up fermentation / aging" effect there is priced here. No free version exists. A scene that only needs the finished food, or a magical ingredient, stays in `SkySaturation.md` and does not open this ledger.
 
 **Canon pegs:**
 - `../Runes/Energy.md`: 1 mana = 10 J. Useful = mana × 10 × η × A. Use the skill cast η or the rune η_cond, never both.

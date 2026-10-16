@@ -122,7 +122,7 @@ Arrival detail: [CarwenArrive.md](../CarwenArrive.md)
 ## Skills / resists (year highlights)
 
 - Age-10 Basics: Running/Sprint/Climbing/Throwing/Leather **L9**; H2H/Sneak/Sword **L8**; Acrobatics **L3**
-- Mana Sense / Absorption / Reinforcement → **L9**
+- Mana Sight / Absorption / Reinforcement → **L9**
 - Sleep **L4→L5** (Ch 12); Pain **L1**; Alcohol **L1**; Poison **L1**; Multitasking **L1**; Dance **L1**
 - Dodging → **L4** then **L6**
 - No Breath / Heat resists yet (Cold **L1** at age 11)

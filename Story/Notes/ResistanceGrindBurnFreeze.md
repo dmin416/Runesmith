@@ -1,10 +1,10 @@
-# Resistance Grind: Burn and Freeze Leveling
+# Resistance Grind: Burn Leveling (freeze off)
 
-Design / desk-grind notes. Body science refs: `References/World/Science/Body/BurnsHealing.md`, `FrostbiteColdInjury.md`. Skill law: `References/Progression/ResistanceImmunitySystem.md`, `SkillRanks.md`. Ch 19 train week already takes Heat / Cold / Pain resistances to **L5**; this file is the ongoing method and flesh rules. Ch 21.5 desk use: `Chapter21_5.md`.
+Design / desk-grind notes. Body science refs: `References/World/Science/Body/BurnsHealing.md`, `FrostbiteColdInjury.md`. Skill law: `References/Progression/ResistanceImmunitySystem.md`, `SkillRanks.md`. Ch 19 train week takes **Heat / Pain** to **L5**; **Cold** is cold night sleep only (`ColdNightSleep.md`), not frost grind. This file is the ongoing **burn** method and flesh rules. Ch 21.5 desk use: `Chapter21_5.md`. Freeze sections below are reference-only (not Roland’s Cold path).
 
-## Premise
+## Premise (Roland rewrite)
 
-An extremely tenacious gamified character tries to max out his heat and cold resistance skills. He has the physical robustness of four men. He holds sustained heat on one coin-sized spot (thigh or rotated site) and keeps another coin-sized spot constantly frozen.
+He maxes **Heat Resistance** (and Pain / Recovery on the same sites). Physical robustness of four men. Sustained heat on coin-sized spots (thigh or rotated). **No** constant freeze spot through desk / Ch 23. Former freeze effort → denser burn, Suffocation, Recovery, Fabrication, Taming (`FrictionGrill.md`).
 
 ## Roland method (Ch 21.5 Notes): fire-orb hide patch
 
@@ -12,7 +12,7 @@ An extremely tenacious gamified character tries to max out his heat and cold res
 - The hide host **lasts for a while** (reusable patch, not a one-cast paper scrap).
 - Summons the **smallest Fire Orb** he can make; fills it with mana; **sticks the patch on his leg** (coin-sized burn site).
 - Burn grind uses this sustained tiny orb instead of replacing matches.
-- Freeze counterpart method still open (same coin-sized constant freeze rule; rune or other cold source).
+- **Freeze counterpart is off** for Roland (Cold = night sleep only).
 
 ## Without Healing Potions
 

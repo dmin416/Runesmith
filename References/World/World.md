@@ -106,7 +106,7 @@ Short keep:
 - Screens private unless shared or strong peek
 - Ascension / class crystals exist; churches involved
 - Status-hide gear exists (armbands / items that mask or fake Identify reads)
-- Identify, Analyze, Mana Sense exist
+- Identify, Analyze, Mana Sight exist
 - Affinities matter for elemental mage paths
 - Tier 1 class cap 25; class tiers exist
 - Multiple classes over a lifetime

@@ -50,13 +50,15 @@ MP spend math uses formula pool (**2148** enter). Tip-sip ceiling **~12,650 MP /
 | SleepRes | 7 | 20000.0 | L7→L8 0.0% | 8 | 151712.0 | L8→L9 12.9% |
 | HungerRes | 6 | 9562.0 | L6→L7 30.4% | 7 | 29178.0 | L7→L8 11.5% |
 | PainRes | 6 | 5222.0 | L6→L7 1.5% | 6 | 14042.0 | L6→L7 60.3% |
-| HeatRes | 5 | 3268.9 | L5→L6 56.7% | 6 | 8571.9 | L6→L7 23.8% |
-| ColdRes | 5 | 3028.9 | L5→L6 50.7% | 6 | 7841.9 | L6→L7 18.9% |
+| HeatRes | 5 | ~3.3k–4k | toward L6 (**5k**); matches `Chapter21_5Exit.md` | 5+ | soft | friction + burn; Exit wins over old sim |
+| ColdRes | 4 | ~220 | cold night sleep only | 4 | soft | autumn–winter nights; `ColdNightSleep.md` |
 | SharpRes | 4 | 770.0 | L4→L5 71.2% | 5 | 1995.0 | L5→L6 24.9% |
 | BluntRes | 4 | 513.0 | L4→L5 39.1% | 5 | 1615.5 | L5→L6 15.4% |
 | PoisonRes | 6 | 5399.0 | L6→L7 2.7% | 6 | 6256.5 | L6→L7 8.4% |
-| SuffocationRes | 5 | 1114.0 | L5→L6 2.9% | 5 | 1346.5 | L5→L6 8.7% |
-| Recovery | 5 | 1264.0 | L5→L6 6.6% | 5 | 1803.0 | L5→L6 20.1% |
+| SuffocationRes | 6 | ~5.1k | train L6 + desk holds | 6 | soft | short of L7 **20k** |
+| Recovery | 5 | ~2.5k–4k | denser knits toward L6 | 5+ | soft | knit-on-purpose; Exit stays L5 |
+| Fabrication | 8 | soft | desk craft | 8 | soft | `FrictionGrill.md` |
+| BasicTaming | 3 | soft | Ned cooperative | 3+ | soft | enter L1 |
 | ManaAbsorption | 9 | 507892.6 | L9→evo 0.5% | 9 | 524316.4 | L9→evo 1.6% |
 | ManaReinforcement | 9 | 504178.4 | L9→evo 0.3% | 9 | 512873.4 | L9→evo 0.9% |
 | Diagnosis | 7 | 88434.3 | L7→L8 85.5% | 8 | 338507.9 | L8→L9 59.6% |
@@ -77,7 +79,7 @@ MP spend math uses formula pool (**2148** enter). Tip-sip ceiling **~12,650 MP /
 | Ned_PoisonRes | 5 | 3900.0 | L5→L6 72.5% | 5 | 4716.0 | L5→L6 92.9% |
 | Ned_PainRes | 6 | 7914.4 | L6→L7 19.4% | 6 | 12613.8 | L6→L7 50.8% |
 | Ned_HeatRes | 6 | 6772.6 | L6→L7 11.8% | 6 | 9818.0 | L6→L7 32.1% |
-| Ned_ColdRes | 6 | 6532.6 | L6→L7 10.2% | 6 | 9088.0 | L6→L7 27.3% |
+| Ned_ColdRes | — | 0 | **no train** | — | 0 | folded into Ned Heat |
 | Ned_BluntRes | 6 | 6777.8 | L6→L7 11.9% | 6 | 9940.1 | L6→L7 32.9% |
 | Ned_SharpRes | 6 | 6777.8 | L6→L7 11.9% | 6 | 9940.1 | L6→L7 32.9% |
 | Ned_TailBash | 6 | 6919.8 | L6→L7 12.8% | 6 | 10433.4 | L6→L7 36.2% |
@@ -90,7 +92,7 @@ MP spend math uses formula pool (**2148** enter). Tip-sip ceiling **~12,650 MP /
 
 ## XP
 
-- Enter bar **7329** → d120 **16051590** → d365 **61653254**
+- Enter bar **7029** → d120 **16051590** → d365 **61653254** (sim totals soft; Cold = night sleep; Exit sheet wins on ranks)
 - Pour XP year ≈ **61618925** (+ **27000** schematics)
 - Soft Scribe levels (attr pads only): enter L1 → d120 **L4** (capped +3)
 

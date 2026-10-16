@@ -18,7 +18,7 @@ Trait Int/Will bonuses are flat cards. They sit in the Skills/Traits bucket with
 | Expert Marksmanship | Dexterity, Willpower |
 | Acting | Charisma |
 | Hastened Reading | Intelligence |
-| Mana Sense | Intelligence, Willpower |
+| Mana Sight | Intelligence, Willpower |
 | Reading Proficiency | Intelligence, Willpower |
 | Basic Running | Endurance |
 | Basic Sprint | Vitality, Endurance |
@@ -72,7 +72,7 @@ No skill menu yet. Status name only. No trait menu yet.
 
 ## Chapter 2
 
-Boy's original skills before transfer: Identify, Mana Sense.
+Boy's original skills before transfer: Identify, Mana Sight.
 Brought from previous life: Diagnosis, Technology, Sleep Resistance, Fabrication, Cooking, Marksmanship, Acting, Basic Mathematics, Map Reading, Hastened Reading.
 Also learned: Analyze (from reverse-engineering the status formulas).
 
@@ -123,7 +123,7 @@ Used for identifying names and basic properties of the world.
 Analyze L1           Passive
 Used for analyzing systems, formulas and how things work.
 
-Mana Sense L1        Passive
+Mana Sight L1        Passive
 Allows you to sense mana.
 ════════════════════════
 ```
@@ -157,11 +157,11 @@ Trait total at transfer: Intelligence +13, Willpower +10.
 
 ## Chapter 3
 
-No new skills listed. Mana Sense is the dinner reveal. Library reading begins; Roland Reading track starts around L7 / ~270 wpm (`Progression.md`).
+No new skills listed. Mana Sight is the dinner reveal. Library reading begins; Roland Reading track starts around L7 / ~270 wpm (`Progression.md`).
 
 ## Chapter 4
 
-Mana Sense reaches L4 (Intelligence +4). Continues toward max for mage path (maxed before ascension in Chapter 5). Books say **L10** guarantees Mage; rewrite hard cap is **L9** then evolve (`SkillRanks.md`).
+Mana Sight reaches L4 (Intelligence +4). Continues toward max for mage path (maxed before ascension in Chapter 5). Books say **L10** guarantees Mage; rewrite hard cap is **L9** then evolve (`SkillRanks.md`).
 
 Early physical training unlocks (named in chapter):
 - Basic Running (after running) → Endurance
@@ -190,9 +190,9 @@ No new traits named. Achievement: **First Kill** (+200 XP on top of the goblin k
 
 ## Chapter 5
 
-Mana Sense maxed before the ritual (rewrite: L9). Used in the ascension tutorial to watch the clone form Mana Bolt.
+Mana Sight maxed before the ritual (rewrite: L9). Used in the ascension tutorial to watch the clone form Mana Bolt.
 
-Pre-class skills menu on-page: transfer set (Marksmanship **L7**) + Mana Sense **L9** (+Int/Will) + Reading **L9** (+Int/Will) + age-10 Basics (Running/Sprint/Climbing/Throwing/Leather **L9**; H2H/Sneak/Sword **L8**; **Acrobatics L3**). Status: Str/Agi/Vit/End **40**, Dex **50**, Int **66**, Will **53**. HP 520 / MP 872 / SP 640.
+Pre-class skills menu on-page: transfer set (Marksmanship **L7**) + Mana Sight **L9** (+Int/Will) + Reading **L9** (+Int/Will) + age-10 Basics (Running/Sprint/Climbing/Throwing/Leather **L9**; H2H/Sneak/Sword **L8**; **Acrobatics L3**). Status: Str/Agi/Vit/End **40**, Dex **50**, Int **66**, Will **53**. HP 520 / MP 872 / SP 640.
 
 Class: Tier 1 Mage (chosen Yes/No on the PC sprite). Unlocked mid-tutorial when the immaterial clone touches him:
 
@@ -308,7 +308,7 @@ Basic combat skills on the train screen are **live** now (Source had all L9 comb
 | Basic Sneaking | L8 | Agi +8 |
 | Basic Leather Armor proficiency | L9 | Vit +9, End +9 |
 | Reading Proficiency (Roland) | L9 from age 7; ~640 wpm | Int +9, Will +9 |
-| Mana Sense | L9 | Int +9, Will +9 |
+| Mana Sight | L9 | Int +9, Will +9 |
 
 Sneaking ground at night around the estate. Opponent-gated Basics (H2H, Sword, Sneak) stop at L8 until varied field sparring.
 
@@ -365,7 +365,7 @@ No new traits. Becomes Bronze adventurer (card / rank, not a trait).
 No new named skills. Field use:
 
 - **Mana Bolt** + **Basic Incantation**: full chant required to finish shaping; **near-silent whisper** lowers power; true silent / mental-only **fail** no matter how hard he tries (`SilentCasting.md`). Panting/running collapses the cast. Loud shout supercharges cost (~**>10%** MP pool on one heavy bolt).
-- **Mana Sense**: detects mana stones in corpses without butchering.
+- **Mana Sight**: detects mana stones in corpses without butchering.
 - **Climbing** + **Sneaking**: tree ambush after tribal alarm chase (sooner than Source’s long run).
 - **Identify**: levels from reading / general knowledge (library note).
 - Shortsword + hunting knife (ears). First group **L2 / L3 / L4**. Mage **L3 → L4**.
@@ -403,8 +403,8 @@ Volume anchors (`SkillRanks.md`): Bolt ~**1,550–2,500** finished; Arrow ~**540
 | **Basic Running / Sprint** | L9 | **L9** both | lure pulls and nest moves. No evolve. |
 | **Basic Leather Armor** | L9 | **L9** | worn every hunt. |
 | **Marksmanship** | L7 | **L7** | aimed casts ~**2,100+**. L8 needs **100,000**. |
-| **Mana Sense** | L9 | **L9** | already capped |
-| **Identify / Analyze** | low | **+0–1** | occasional peeks |
+| **Mana Sight** | L9 | **L9** | already capped |
+| **Identify / Analyze** | low | **+0–1** | tags every item he can (curiosity / adventure); not a grind; skill stays weak |
 | **Heat / Mana Hands** | self L1 | Heat **L5** / Hands **L5** | evening drills. Clear **1,000**. Short of **5,000**. |
 
 Month story beats stay: Month 1 ≈ Mage L11–12 + Arrow unlock; Month 2 ≈ L16–17 + Shield + nickname; Month 3 → **L20** + **Goblin Hunter** (lifetime **1000** at skip kill **#912**). Kill / coin / stone ledger: `Experience.md`. Ch 10 on-page spell menu matches this slate.
@@ -466,11 +466,11 @@ No new named skills. Field use:
 - **Mana Arrow**: entrance dungeon-rat one-shot (higher mana / longer cast than Bolt).
 - **Mana Shield**: full chant on Sahildr vs spiked boar; bubble → **hard disk** on her front (rewrite vs Source bubble-only).
 - **Basic Incantation**: levels with spell use.
-- **Mana Sense**: chest-stone locate (~goblin-leader size).
+- **Mana Sight**: chest-stone locate (~goblin-leader size).
 
 Party combat on Emerald Wilderness floor 1. Still Mage L20 band.
 
-**Trial weeks (~2 weeks, 7 more days):** Mana Shield **~+14** casts → stays **L3**. Basic Incantation stays **L6**. While waiting (butcher / travel): **Mana Hands** fiddling, **Mana Absorption**, **Mana Sense**. Sense + Absorption stay **L9** (capped). Mana Hands **L5 → L6** (~**175** waiting casts ≈ step from L5 toward **5,000**). Hands rank **~+100 XP**.
+**Trial weeks (~2 weeks, 7 more days):** Mana Shield **~+14** casts → stays **L3**. Basic Incantation stays **L6**. While waiting (butcher / travel): **Mana Hands** fiddling, **Mana Absorption**, **Mana Sight**. Sight + Absorption stay **L9** (capped). Mana Hands **L5 → L6** (~**175** waiting casts ≈ step from L5 toward **5,000**). Hands rank **~+100 XP**.
 
 ### Traits
 
@@ -479,7 +479,7 @@ No new traits.
 ## Chapter 12
 
 Gained: **Basic Alcohol Resistance** L1 (**Endurance +1**); forced tavern drinking; hangover potions exist; theorises other exposure resistances. On-page: `**You have gained the Basic Alcohol Resistance skill.**` Morning check: **Sleep Resistance** **L4→L5** (**Vitality +1**, **Endurance +1**); **Dance** L1 (**Agility +1**); **Pain Resistance** L1 (**Willpower +1**, **Endurance +1**). Night pad total: **Agi +1**, **Vit +1**, **End +3**, **Will +1**. Floor-2 cook also unlocks **Poison Resistance** L1 (**Vitality +1**, **Endurance +1**; popup ignored).
-Uses Mana Arrow, Mana Bolt and Identify (Needle Worm). Floor-2 cook: Needle Worm blood as cumin seasoning on boar skewers; eight Mana Hands over the coals. **Mana Hands** levels on-page (he does not notice; enters cook at **L6**, at least **L7** after). Gains **Multitasking** L1 (**Intelligence +1**, **Dexterity +1**; he does not notice). Crunches a needle for the spice; ignores **Poison Resistance** unlock popup; Mana Sense hunt for a core-bearing Needle Worm to tame as a pet (party gapes). Clears **12** nearby worms (**L16–L18**, **+1,272 XP** at ~1/4 share) then tames the core worm (offer meat/leaves, Mana Shield stall ~100 hits then stacked shields, Willpower stare-down; worm bows and passes out; he wears it as a green scarf). Gains **Basic Taming** L1 (**Charisma +1**). First clear look at a lesser impact rune on Sahildr's hammer (glowing pathway lines). Still Mage L20 (bar **~9,812 / 10,000** after the pocket; L25 is Ch 13 half-year). Chapter pad total **Agi +1 / Vit +2 / End +4 / Will +1 / Int +1 / Dex +1 / Cha +1**.
+Uses Mana Arrow, Mana Bolt and Identify (Needle Worm). Floor-2 cook: Needle Worm blood as cumin seasoning on boar skewers; eight Mana Hands over the coals. **Mana Hands** levels on-page (he does not notice; enters cook at **L6**, at least **L7** after). Gains **Multitasking** L1 (**Intelligence +1**, **Dexterity +1**; he does not notice). Crunches a needle for the spice; ignores **Poison Resistance** unlock popup; Mana Sight hunt for a core-bearing Needle Worm to tame as a pet (party gapes). Clears **12** nearby worms (**L16–L18**, **+1,272 XP** at ~1/4 share) then tames the core worm (offer meat/leaves, Mana Shield stall ~100 hits then stacked shields, Willpower stare-down; worm bows and passes out; he wears it as a green scarf). Gains **Basic Taming** L1 (**Charisma +1**). First clear look at a lesser impact rune on Sahildr's hammer (glowing pathway lines). Still Mage L20 (bar **~9,812 / 10,000** after the pocket; L25 is Ch 13 half-year). Chapter pad total **Agi +1 / Vit +2 / End +4 / Will +1 / Int +1 / Dex +1 / Cha +1**.
 
 ## Chapter 13
 
@@ -492,7 +492,7 @@ Skill ranks (enter → exit; **46** ranks × **100** XP + **8** overflow = **4,6
 | Skill | Change |
 |---|---|
 | Basic Calligraphy | **L4 → L9** |
-| Temperature Resistance | unlock **L1** (rewrite: **Cold Resistance L1**; ambient inn cold) |
+| Temperature Resistance | unlock **L1** (rewrite: **Cold Resistance L1**; first cold night sleep in bare inn — `ColdNightSleep.md`) |
 | Basic Alcohol Resistance | **L1 → L4** |
 | Poison Resistance | **L1 → L6** (daily Ned toxin seasoning; see `Progression/Skills.md`) |
 | Recovery | unlock **L1 → L5** (daily skin poke + 150 mL bleed/knit to Ned) |
@@ -552,9 +552,11 @@ Created **Lesser Fire Orb Rune [High]** from class-trial memory (**over** 1 hour
 
 ### Train-week skill math (locked)
 
-Field-use curve (`SkillRanks.md`): cum clean uses to reach L = **1 / 10 / 50 / 200 / 1,000 / 5,000 / 20,000 / 100,000 / 500,000**. Evolve at **2,000,000**, when the ability surpasses itself. Peak use (regen ceiling, real blister/frost, longest holds he can keep) accelerates the week; mostly narrative on top of the counts. Technique skills ~**40%** clean on raw attempts. Soft mana clicks count near **100%** clean (deliberate pulse). Resistance exposures are dose-gated (repeats of the same burn/frost still count but slow after the first days). Absorption / Reinforcement / Hands / Sense already **L9**.
+Field-use curve (`SkillRanks.md`): cum clean uses to reach L = **1 / 10 / 50 / 200 / 1,000 / 5,000 / 20,000 / 100,000 / 500,000**. Evolve at **2,000,000**, when the ability surpasses itself. Peak use (regen ceiling, real blister, longest holds he can keep) accelerates the week; mostly narrative on top of the counts. Technique skills ~**40%** clean on raw attempts. Soft mana clicks count near **100%** clean (deliberate pulse). Resistance exposures are dose-gated (repeats of the same burn still count but slow after the first days). Absorption / Reinforcement / Hands / Sight already **L9**.
 
-**Mana rule:** practice at the **regen ceiling**. Keep the pool near **~99%** (max ambient pull). Soft cabin clicks barely spend, so the grill soaks the surplus: hotter / colder / denser patches and longer holds until draw matches Regulation refill. Potion when Recovery lags so he does not idle on unused regen. Seated Regulation band ≈ **empty→full in a couple of hours** (faster still / more bare skin); Ch 21.5 desk tip-sip ~**21 MP/min** clothed on the **2148** pool (`Energy.md` / `Chapter21_5.md`).
+**Cold Resistance — cold night sleep only:** `ColdNightSleep.md`. No frost grid / freeze patch / spare-mana cold. Carwen winter–early-spring bare-inn nights → enter train **L3**; Edelgard autumn–winter Crow nights → desk exit **L4**. Former frost-grill time/energy still goes into denser **Heat**, longer **Suffocation** holds, more **Recovery** knits, and (from desk on) Fabrication / Taming (`FrictionGrill.md`).
+
+**Mana rule:** practice at the **regen ceiling**. Keep the pool near **~99%** (max ambient pull). Soft cabin clicks barely spend, so the grill soaks the surplus: hotter / denser heat patches and longer holds until draw matches Regulation refill. Potion when Recovery lags so he does not idle on unused regen. Seated Regulation band ≈ **empty→full in a couple of hours** (faster still / more bare skin); Ch 21.5 desk tip-sip ~**21 MP/min** clothed on the **2148** pool (`Energy.md` / `Chapter21_5.md`).
 
 **Schedule:** **both drills every day** for the full ~**7 days**, overlapped for Multitasking. About **3–4 h** dual drill blocks around eat/rest (~**3.5 h**/day used below).
 
@@ -562,20 +564,20 @@ Field-use curve (`SkillRanks.md`): cum clean uses to reach L = **1 / 10 / 50 / 2
 
 **Suffocation pace (two meters, one skill):** `MultiMechanismResistance.md`. **No Breath Control** on this train.
 
-- **Hypoxia / holds:** **15 s** under load = **1** use. Grill-peak holds between thermal sets. Story lock ~**140 min**/day held → **140 × 60 / 15 = 560** hypoxia uses/day × **7** ≈ **~3,920** uses.
+- **Hypoxia / holds:** **15 s** under load = **1** use. Grill-peak holds between thermal sets. Former frost-half mana → longer holds. Story lock ~**180 min**/day held → **180 × 60 / 15 = 720** hypoxia uses/day × **7** ≈ **~5,040** uses.
 - **Blood volume:** open bleed only. **~50 mL ≈ 1% ≈ 1 use** (adult ~5 L; fractions count). Mana Hands drip + Ned fang nicks + missed needle beads, survived; Recovery refills (refill ≠ use). Hard Recovery grind ~**5%**/day → **~5** blood uses/day × **7** ≈ **~35** uses.
-- **Combined:** ~**3,955** clean uses → clears **L5** (**1,000**); short of **L6** (**5,000**). Exit **L5**. Do **not** double-count the same hemorrhage as volume **and** hypoxic seconds.
+- **Combined:** ~**5,075** clean uses → clears **L6** (**5,000**); short of **L7** (**20,000**). Exit **L6**. Do **not** double-count the same hemorrhage as volume **and** hypoxic seconds.
 
 **Sleep Resistance pace:** enter **L5** (Ch 12). Baseline full night **T0 = 8 h**. Need at L5 = **50%** → **4.0 h**. Sleep ignored / not needed = **T0 − need = 4.0 h/day**. Meter (`MultiMechanismResistance.md`): **15 s** of that cut window spent awake = **1** use (he sleeps his remaining need; true debt past need is extra and not locked here). Uses/day = **4 × 3600 / 15 = 960** × **7** ≈ **~6,720**. Enter cum **1,000** (L5) + **6,720** → **~7,720** → clears **L6** (**5,000**); short of **L7** (**20,000**). Exit **L6** (**40%** need = **3.2 h**). Ch 21.5 four-month desk owns **L6→L7**.
 
-**Thermal pace (regen-capped + Recovery):** enter Rec **L5**. Cycle time pressed toward the mana period with potion assist when flesh lags (roughly **~1–1.5 min/cycle**). ~**1,240** burn/frost/knit cycles over the week (day path roughly **146 → 156 → 165 → 187 → 192 → 199 → 199**). From a fresh L5 bar that is **+1,240** toward L6 (**5,000** cum). Exit Recovery still **L5**. Heat / Cold / Pain resistances from the same pool clear **L5** (**1,000**) and stop short of **L6** (**5,000**).
+**Thermal pace (regen-capped + Recovery):** enter Rec **L5**. **Heat-only** grid (no frost). Cycle time pressed toward the mana period with potion assist when flesh lags (roughly **~1–1.5 min/cycle**). Former frost half → denser heat → ~**2,480** burn/knit cycles over the week (day path roughly **~290–400**/day). Exit Recovery still **L5** with ~**2.5k** toward L6 (**5,000**); Ch 21.5 / Ch 23 knit-on-purpose pushes toward L6; Exit still **L5** (Chapter21_5Exit.md). Heat / Pain resistances clear **L5** (**1,000**) and stop short of **L6** (**5,000**). **Cold** is night-sleep only (enter/exit **L3**; `ColdNightSleep.md`).
 
-**Ned assist:** shallow intentional nibble / tip-poke on forearm or hand between grill squares (toxin prick). **Needle-catch drill:** Ned short-launches a spent/regrown tip at Roland; Roland eyes shut, locates on the spaced clicks, catches, feeds the needle back into Ned’s mouth (spider-web recycle). Misses sting and count for Pain / Recovery / Poison. Same Needle Worm toxin family (soft repeat credit). Blood is **Roland’s**: usual drip plus **extra** from pokes/misses → **Suffocation** volume uses; Recovery restores the tank (refill is not a use). **Ned shared Trauma lock:** on-page scarf cold near-miss + tip wear; exit Spike **L7**, Stealth / Camouflage **L8** (always-on since tame), Climbing **L7**; by 21.5 desk enter night pack also Silk / Seal / **Recovery** / Pain / Heat / Cold / Moon / Tail / Horn / Blunt / Sharp **L6**, Formation / Absorb / Acid Prod / Acid Spray **L5** (`NedStatus.md`).
+**Ned assist:** shallow intentional nibble / tip-poke on forearm or hand between grill squares (toxin prick). **Needle-catch drill:** Ned short-launches a spent/regrown tip at Roland; Roland eyes shut, locates on the spaced clicks, catches, feeds the needle back into Ned’s mouth (spider-web recycle). Misses sting and count for Pain / Recovery / Poison. Same Needle Worm toxin family (soft repeat credit). Blood is **Roland’s**: usual drip plus **extra** from pokes/misses → **Suffocation** volume uses; Recovery restores the tank (refill is not a use). **Ned shared Trauma lock:** on-page scarf **heat** near-miss + tip wear; exit Spike **L7**, Stealth / Camouflage **L8** (always-on since tame), Climbing **L7**; by 21.5 desk enter night pack also Silk / Seal / **Recovery** / Pain / Heat / Moon / Tail / Horn / Blunt / Sharp **L6**, Formation / Absorb / Acid Prod / Acid Spray **L5**; **no Ned Cold climb** (`NedStatus.md`).
 
 | Skill | Enter | Exit | Why |
 |---|---|---|---|
-| **Sound Production** | — | **L7** | ~**22,000** spaced clicks. Clears **20,000**. |
-| **Echolocation** | — | **L7** | Same clicks + Ned locate + needle-in-flight. No evolve. |
+| **Sound Production** | — | **L7** | ~**22,000** spaced clicks. Clears **20,000**. **Keeps training after the train** (desk / grill / Ned locate). |
+| **Echolocation** | — | **L7** | Same clicks + Ned locate + needle-in-flight. No evolve. **Keeps training after the train** with Sound. Evolve → **Vibration Sense** at **2,000,000**. |
 | **Multitasking** | **L1** | **L5** | Dual-focus minutes across the week (~**1,470**). Clears **1,000**. |
 | **Basic Throwing** | **L9** | **L9** | Catch-and-return on tips. Already Basic-capped. No evolve. |
 | **Basic Mana Shaping** | **L7** | **L7** | Remote clicks + grids (~**22,000**). L8 needs **100,000**. |
@@ -584,18 +586,18 @@ Field-use curve (`SkillRanks.md`): cum clean uses to reach L = **1 / 10 / 50 / 2
 | **Mana Absorption** | **L9** | **L9** | Cap. |
 | **Mana Reinforcement** | **L9** | **L9** | Cap. |
 | **Basic Incantation** | **L9** | **L9** | Cap. Almost no chanting this week. |
-| **Mana Sense** | **L9** | **L9** | Cap. |
-| **Heat** (heat production) | **L6** | **L6** | ~**1,240** hot patches. L7 needs **20,000**. |
-| **Heat Resistance** | — | **L5** | Real burns daily. Clears **1,000**. Short of **5,000**. |
-| **Cold Resistance** | **L1** | **L5** | Inn L1 + daily frost half. Same pool. |
+| **Mana Sight** | **L9** | **L9** | Cap. |
+| **Heat** (heat production) | **L6** | **L6** | ~**2,480** hot patches (heat-only grid). L7 needs **20,000**. |
+| **Heat Resistance** | — | **L5** | Real burns daily (denser; former frost slots → heat). Clears **1,000**. ~**2.5k** toward L6. |
+| **Cold Resistance** | **L3** | **L3** | Cold night sleep only (`ColdNightSleep.md`). Carwen cold months ~**100** nights → **L3**. No frost grill. |
 | **Pain Resistance** | **L1** | **L5** | Grill sting + Ned tip pricks + missed launches. |
 | **Poison Resistance** | **L6** | **L6** | Daily shallow Ned toxin. Soft repeat. L7 needs **20,000**. Poison is one skill. |
-| **Suffocation Resistance** | — | **L5** | Hypoxia ~**3,920** (**15 s**/use) + blood ~**35** (~**50 mL**/use). Clears **1,000**. Short of **5,000**. No Breath Control. |
+| **Suffocation Resistance** | — | **L6** | Hypoxia ~**5,040** (**15 s**/use; frost time → holds) + blood ~**35**. Clears **5,000**. Short of **20,000**. No Breath Control. |
 | **Sleep Resistance** | **L5** | **L6** | Ignored sleep ~**6,720** (**4.0 h**/day cut of **8 h** T0; **15 s**/use). Clears **5,000**. Short of **20,000**. |
 | **Sharp Resistance** | **L3** | **L4** | Self drip pierces + Ned fang / miss needles. Clears **200**. Short of **1,000**. |
-| **Recovery** | **L5** | **L5** | ~**1,240** knit cycles. L6 needs **5,000** cum. **No evolve.** |
+| **Recovery** | **L5** | **L5** | ~**2,480** knit cycles (heat-only denser). L6 needs **5,000** cum; desk / Ch 23 finish. **No evolve.** |
 
-**Attr pads from this week only** (exit − enter): Sound Prod **+7 Int / +7 Dex**; Echo **+7 Will / +7 Int**; Multitask **+4 Int / +4 Dex**; Throwing none (already Basic L9); Shaping none; Regulation none; Heat none (spell); Heat Resistance **+5 Vit / +5 End**; Cold **+4 Vit / +4 End**; Pain **+4 Will / +4 End**; Poison none; Suffocation **+5 Vit / +5 End**; Sharp **+1 Vit / +1 End**; Sleep **+1 Vit / +1 End**; Recovery none.
+**Attr pads from this week only** (exit − enter): Sound Prod **+7 Int / +7 Dex**; Echo **+7 Will / +7 Int**; Multitask **+4 Int / +4 Dex**; Throwing none (already Basic L9); Shaping none; Regulation none; Heat none (spell); Heat Resistance **+5 Vit / +5 End**; Cold **none this week** (enter/exit **L3** from Carwen nights; desk owns **L4**); Pain **+4 Will / +4 End**; Poison none; Suffocation **+6 Vit / +6 End**; Sharp **+1 Vit / +1 End**; Sleep **+1 Vit / +1 End**; Recovery none.
 
 **Sheet note:** fold these into the Ch 19 rewrite when the live L26 Scribe sheet is retconned; do not invent a second full status screen on the train.
 
@@ -611,7 +613,7 @@ First on-page Mana Scribing: **Mana Bolt** word scroll (few min, list **25** / L
 
 ## Chapter 21.5
 
-**Full process / experiment lock:** `Chapter21_5.md`. Burn/freeze resistance grind: `ResistanceGrindBurnFreeze.md` (weak hide Fire Orb patch on leg).
+**Full process / experiment lock:** `Chapter21_5.md`. Burn resistance grind only (no freeze): `ResistanceGrindBurnFreeze.md` (weak hide Fire Orb patch on leg). Cold = cold night sleep only → exit **L4** (`ColdNightSleep.md`).
 
 Rewrite-only ~**4 month** desk grind (Source folds into Ch 22 open). Enter: Rune Scribing **L1**, Mana Scribing **L1**, Rune Mastery **L1**, Drawing plain **L1**, Mana Hands **L9**, Multitasking **L5**, Technology **L7**.
 
@@ -621,21 +623,21 @@ Rewrite-only ~**4 month** desk grind (Source folds into Ch 22 open). Enter: Rune
 
 **Discovered:** water and light after Fire Orb; Ball ≈ bigger Orb; Arrow shared outline / different inners; Orb–Bolt shared shape (Bolt small-mana compression, Ball moderate, Orb soft restraint); system Mana Bolt has no contact-detect (pop = compression undone); ratios matter / shrink cuts power / upsizing compression alone tends to implode; swaps beat ratio tweaks (Aqua Ball → Fireball, water arrow, light ball); lazy wrong ratios still Diagnosis-readable unless paper burns; skill feel = clockwork familiarity; freeze-flip fails (in chapter).
 
-**Exit:** working runic **pure mana** Mana Bolt / Mana Arrow / Mana Orb / Mana Ball (schematic XP **+6,000** inside skip **+27,000**); quality-only seating (trial / first night already taught); sibling forms fast transfer; seat-time desk mix **~76** Mana Arrow / **~8** Fireball / **~2** Light Ball per day; prefill **personal / gift** only (**~20** MA / **~6** Light Ball; sell-line Fireballs never preloaded); Rune Scribing / Drawing **L8**, Technology **L7→L8** (every rune + desk-tech observe), understanding **L3**, Basic Rune Mastery **L1→L5** (~**2,910**; reject burns + lighter scraps), Multitasking **L7**, Sleep Resistance **L6→L7** printed, Hunger **L6**, Pain **L6**, Hands stay **L9** (×MT concurrent; no evolve), Shaping/Regulation **L7/L8**, ten branded Highest Fireballs empty, Mana Arrow keep pile, last **1 SS**, servant cover. Full exit sheet: `Chapter21_5Exit.md`. Buildup: `Chapter21_5.md` / `Chapter21_5DaySkillYear.md`.
+**Exit:** working runic **pure mana** Mana Bolt / Mana Arrow / Mana Orb / Mana Ball (schematic XP **+6,000** inside skip **+27,000**); quality-only seating (trial / first night already taught); sibling forms fast transfer; seat-time desk mix **~76** Mana Arrow / **~8** Fireball / **~2** Light Ball per day; prefill **personal / gift** only (**~20** MA / **~6** Light Ball; sell-line Fireballs never preloaded); Rune Scribing / Drawing **L8**, Technology **L7→L8** (every rune + desk-tech observe), understanding **L3**, Basic Rune Mastery **L1→L5** (~**2,910**; reject burns + lighter scraps), Multitasking **L7**, Sleep Resistance **L6→L7** printed, Hunger **L6**, Pain **L6**, Heat Res **L5** (~**3.3k–4k**→L6), Heat spell **L6** (~**5.1k**), Cold **L4** (night sleep), Suffocation **L6**, Recovery **L5** (~**2.5k–4k**→L6), Fabrication **L8**, Taming **L3** soft, Hands stay **L9** (×MT concurrent; no evolve), Shaping/Regulation **L7/L8**, **Sound Production + Echolocation** kept from train (desk clicks / Ned locate under Multitasking; soft **L7→L8**), ten branded Highest Fireballs empty, Mana Arrow keep pile, last **1 SS**, servant cover. Full exit sheet: `Chapter21_5Exit.md` (wins over DaySkillYear sim). Avenues: `FrictionGrill.md` / `ColdNightSleep.md`. Buildup: `Chapter21_5.md` / `Chapter21_5DaySkillYear.md`.
 
 ## Chapter 22
 
 Skills as **21.5 exit** (printed on lookback): Basic Rune Scribing **L8**, Basic Rune Mastery **L5**, Understanding of runic scroll making **L3**, Technology **L8**; Drawing / Multitasking / resists as exit sheet. Batch: ten Highest Fireball empty (red comet / brand plaque). Cover: robed/masked servant of a runesmith.
 
-**Identify (on-page tests):** weak Identify still tags **Ned** as monster. Body concealment fails unless the whole body is under enough cloth / obstruction. Scrolls cannot be Identified unless the **rune itself is visible**. He wraps until he cannot Identify his own reflection in a **water ball**. No new named skill unlock.
+**Identify habit (rewrite):** he Identifies **every item he can** when he notices it (mats, tools, street goods, food, kit) because it makes the world feel like an adventure. He does **not** treat it as a skill grind; rank stays weak / narrative-low. On-page tests: weak Identify still tags **Ned** as monster. Body concealment fails unless the whole body is under enough cloth / obstruction. Scrolls cannot be Identified unless the **rune itself is visible**. He wraps until he cannot Identify his own reflection in a **water ball**. No new named skill unlock.
 
 ## Chapter 23
 
-Basic Mana Scribing L2. Basic Rune Scribing **L8** (desk exit). Basic Rune Mastery **L5+** from desk (Source hunt sheet **L3** behind); combat use via scrap Fire Arrow grimoire climbs further. Basic Mana Shaping L7. Basic Mana Regulation L8 (full regen in a few hours; faster when still / more skin bare). Sleep Resistance already **L7** from 21.5. Technology **L8** from 21.5. Stealth Basic → regular. Common runes quality-only (seating known; only rank moves). Scrap Low/Lowest Fire Arrow grimoire: page crumbles on cast; no chant.
+Basic Mana Scribing L2. Basic Rune Scribing **L8** (desk exit). Basic Rune Mastery **L5+** from desk (Source hunt sheet **L3** behind); combat use via scrap Fireball grimoire climbs further. Basic Mana Shaping L7. Basic Mana Regulation L8 (full regen in a few hours; faster when still / more skin bare). Sleep Resistance already **L7** from 21.5 (printed as +1 over the four-month desk). Technology **L8** from 21.5. Early post-payday desk: when MP dips he trains other skills and **SP-fills** protection scrolls; lower/arrow practice before ball saves huge MP; zero-MP trials do not especially raise skills and leave next-day exhaustion. Keeps pool near full via scroll fills / Mana Hand / Ned. **Identify** on every item he can (adventure curiosity; skill stays weak). **Sound Production + Echolocation** still daily since train. **Desk side grind** beside Hands (`FrictionGrill.md`): friction → Heat + Heat Res + Pain / Blunt-Sharp; **Suffocation** holds + blood volume; **Recovery** knits; **Fabrication** (ink/tools/press/hide); **Basic Taming** via Ned cooperative desk/night work. **Cold Resistance** climbs only from cold night sleep in cold months (`ColdNightSleep.md`); no frost grill. Soft **L4** into / through early intense-grill winter nights. Next **+2 months** = **intense grill grind** (desk + skill grill + sound/echo + side grind; story only says time continued to pass) → fifteen Highest comet Fireballs. Sound/Echo soft still **L8** (short of L9). Stealth Basic → regular. Common runes quality-only (seating known; only rank moves). Scrap Low/Lowest Fireball grimoire: page crumbles on cast; no chant.
 
 ## Chapter 24
 
-No new Roland skills. Fire Arrow grimoire combat (five headshots). Mana Sense stone locate for Helci. Helci: Scout L1 (ascension); late bloomer ~16.
+No new Roland skills. Fireball grimoire combat (five head bursts). Mana Sight stone locate for Helci. Helci: Scout L1 (ascension); late bloomer ~16.
 
 ## Chapter 25
 
@@ -659,7 +661,7 @@ Uses Heat (friction ignition), Hush (30-min sound dome) and mana sphere light. F
 
 ## Chapter 30
 
-Map Reading used in mine. Mana Sense finds cores. Scroll Mana Bolt / Mana Arrow combat (feigns casting). Mana Shield on Orson vs acid spit. Rune Mastery grinding on Myrmeke kills.
+Map Reading used in mine. Mana Sight finds cores. Scroll Mana Bolt / Mana Arrow combat (feigns casting). Mana Shield on Orson vs acid spit. Rune Mastery grinding on Myrmeke kills.
 
 ## Chapter 31
 
@@ -763,7 +765,7 @@ Fire Arrow steel paddle (~10 charges via Compression; repairable paddle form). M
 
 ## Chapter 53
 
-Diagnosis + Mana Sense on Solaria healing: no runic diagram. Workshop electro trap runes (activate/deactivate); under-bed illusion rune stash. Slot/mana-stone recharge idea for traps noted. No new skill unlock.
+Diagnosis + Mana Sight on Solaria healing: no runic diagram. Workshop electro trap runes (activate/deactivate); under-bed illusion rune stash. Slot/mana-stone recharge idea for traps noted. No new skill unlock.
 
 ## Chapter 54
 
@@ -859,7 +861,7 @@ Runic Blacksmith's Eyes on deep iron mace. Crafts Impact + Hardening dual runes 
 
 ## Chapter 74
 
-Mana Sense on auction music box (ambient absorption pathways). Engine/generator theory (detonation/impact timing; heating steam). No new skill unlock.
+Mana Sight on auction music box (ambient absorption pathways). Engine/generator theory (detonation/impact timing; heating steam). No new skill unlock.
 
 ## Chapter 75
 

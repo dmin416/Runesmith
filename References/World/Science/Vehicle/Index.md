@@ -19,3 +19,4 @@ Suspension, brakes, crew positions, wheels, roads, mobile home, glider, mechanic
 - [MechanicalCarComponents.md](MechanicalCarComponents.md). Earth invent loot: simplest→most capable auto parts (frame through safety), no-computer peak
 - [Wheels.md](Wheels.md). Wheel tech ladder + Caldris readout
 - [FatTireBike.md](FatTireBike.md). 29–36 in fat-tire best fit; superhuman power vs traction / parts ceiling
+- [HawaiianTransport.md](HawaiianTransport.md). Dragnis-class island network. Balloon-tether swinging fails. Ordinary wings, zip lines, gondolas, canoes. PerfectGlider designs stay in PerfectGlider.

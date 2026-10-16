@@ -12,6 +12,8 @@ Up: [References](../Index.md)
 - [EssentialOils.md](EssentialOils.md). Earth peppermint and essential-oil catalog: composition, stills, yields, absolutes, expression. Not the drink still. Seasoning locks stay in Food.md.
 - [SaltSugarOil.md](SaltSugarOil.md). Earth extraction catalog for salt, sugar, fixed oil and glycerin. Does not change the seasoning lock. Volatile oils stay in EssentialOils.md.
 - [FoodPreservation.md](FoodPreservation.md). Earth preservation catalog: cellar, drying, curing, canning, ferment, pantry. Does not change the seasoning lock. Camp trail methods stay in FoodDesign.md.
+- [FermentedAging.md](FermentedAging.md). Earth peak times for finished wines, vinegars, cheeses, and ferments. Methods and home safety stay in FoodPreservation.md. Mana aging cost stays in MagicalCooking.md.
+- [AgingMechanisms.md](AgingMechanisms.md). Earth levers that speed those peaks. Home safety stays in FoodPreservation.md. Mana cost stays in MagicalCooking.md.
 - [EssentialIngredients.md](EssentialIngredients.md). Earth research anchors for adventure cooking. Field methods and cuts. Flavor partners refer to EssentialFlavorings.md. Map flavor to Caldris; crop names
 - [Food.md](Food.md). Food and drink hub. Wealth feel is locked here. Deep cook / camp / ingredient tables live in the files below.
 - [FoodDesign.md](FoodDesign.md). Design loot (Earth table anchors, camp methods, spirits process, dungeon seasoning notes). Wealth / never-eaten locks: Food.md. Cuts:
@@ -20,4 +22,5 @@ Up: [References](../Index.md)
 - [KitchenCraft.md](KitchenCraft.md). Food domain. Cookware production methods (how to make the gear). Material picks / kitchen physics: CookwareAndKnives.md. Gear lists: KitchenKit.md. Pan
 - [KitchenKit.md](KitchenKit.md). Gear lists for camp / home cooking. Wealth locks: Food.md. Material picks / kitchen physics: CookwareAndKnives.md. How to make metalware: KitchenCraft.md
 - [MagicalCooking.md](MagicalCooking.md). Design loot / proposal. Not street law. Wealth and never-eaten locks: Food.md. Potency pans / whole-animal heat: MagicalMeatCookware.md. Kit: KitchenKit.md.
+- [SkySaturation.md](SkySaturation.md). Design loot. Science lane prices a sky-aged batch. Narrative lane allows a finished aged product or a magical ingredient without the ledger. Cost model stays in CompressedTimeStimulation.md.
 - [MagicalMeatCookware.md](MagicalMeatCookware.md). Proposal / rough idea. Not law.

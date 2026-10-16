@@ -800,6 +800,7 @@ Lifting a person 100 m takes about 98 kJ: about 94 food kcal at the muscle (roug
 |---|---|
 | **Flight.md** | Actuator-disk hover; this file is buoyancy and tethers |
 | **Hawaiian trades** | Free hot air usually ruled out; tethered dawn rides or Kona lee windows |
+| **Swing transport** | Balloon-tether swinging fails as transport. Verdict: `../Vehicle/HawaiianTransport.md`. Section 15 still owns the 15 m lean |
 | **H2 vs He** | H2 ~8% more lift, cheap, fire risk; film permeation `PermeationBarriers.md` |
 | **Vacuum shell** | No monocoque floats at sea level; adamantium / magic sandwich invent only |
 | **Hover bike** | Heavier-than-air; aerostat is the other ascent family |

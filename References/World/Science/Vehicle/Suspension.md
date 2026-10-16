@@ -92,7 +92,7 @@ Sharp roads and high speed raise `|v_wheel_rel|` and peak power. Accumulator or 
 
 Do not invent D's vehicle kit here. When a build needs active ride without Earth electronics:
 
-- Sense: Mana Sense / shaped pings for gap and body motion. Preview as forward sense pulse
+- Sense: Mana Sight / shaped pings for gap and body motion. Preview as forward sense pulse
 - Decide: skill, scroll logic or a small runic controller
 - Act: hydraulic rams with mana pump, or force barriers / Mana Hands at the upright (cost follows Energy / ManaCast law)
 - Power: mana stone + pump, not a silent free ride

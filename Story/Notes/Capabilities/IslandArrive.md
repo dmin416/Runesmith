@@ -56,7 +56,7 @@ Hard locks from train still on the sheet unless later grind printed a rise:
 |---|---:|---|
 | Pain Resistance | Ch 19 **L5** | **≥ L5** (50% felt). Deepens much later (Ch 197) |
 | Heat Resistance | Ch 19 **L5** | **≥ L5**. Blacksmith card: narrative fire resist. Runesmith Lord later grants Heat Resistance (Ch 81) |
-| Cold Resistance | Ch 19 **L5** | **≥ L5** |
+| Cold Resistance | night sleep path (**L4** by desk) | soft; more cold seasons if printed |
 | Poison Resistance | Ch 19 **L6** | **≥ L6** |
 | Sleep Resistance | Ch 12 **L5**, Ch 19 train **L6**, Ch 21.5 desk **L7** | **≥ L7** (30% sleep need). Immunity is Ch **123**, not yet |
 | Alcohol Resistance | Carwen **L4** | **≥ L4** |
@@ -66,7 +66,7 @@ Forge years and dungeon heat likely pushed Heat higher; do not invent a level pa
 ## Senses / processing
 
 - Eyes: still no Enhanced Vision lock. Craft eyes later (Runic Blacksmith's Eyes / Lord's Eyes after T2).
-- **Mana Sense** capped long since. Sound / Echo at least **L7** from train.
+- **Mana Sight** capped long since. Sound / Echo at least **L7** from train.
 - **Diagnosis** high; Technology / Fabrication / Runecraft / Smithing deep from Edelgard years.
 - Think **~11.5×**. Multitasking at least **L5**. Parallel Thinking still unleveled on notes.
 

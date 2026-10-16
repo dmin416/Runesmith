@@ -35,7 +35,7 @@ Apply world laws from `../Ideas.md`: skills **L1–L9 then evolve**, effects mus
 ### Analyze L1
 **Change:** Formulas, rates, failure points. First in-Terra unlock. Scaling: more systems at once, less MP/time. L9: full status-style breakdown of a lesser device/rune. Evolve → **High Analyze**: people, noble gear, greater structures (Source High Analyze). Pair with Diagnosis.
 
-### Mana Sense L1
+### Mana Sight L1
 **Change:** Range, resolution, filter (air vs people vs runes). Hard meters: sense radius and “can tell density bands.” L9: map a room’s mana. Evolve → **Mana Perception** / feeds **Eyes of Mana**. Childhood grind is intentional and visible.
 
 ### Parallel Thinking (skill)

@@ -30,6 +30,7 @@ D is a modern crafter who wakes in the child body named Roland Arden. He is **D*
 - Diagnosis finds faults / weak points in systems (including rune pathways later).
 - Old Source names (Debugger / Circuitry / Tinkerer) map to Diagnosis / Technology / Fabrication. Do not reinstate the Old names.
 - Golems stay side projects next to his personal ranged and magic path.
+- **Identify:** he tags **every item he can** when he notices it (curiosity / adventure feel). He does not grind it; keep the skill weak in narrative.
 
 ### Open
 

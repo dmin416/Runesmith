@@ -9,6 +9,7 @@ Skin, limbs, teeth, Gut Check, falling, speed / measurement perception, mind-bod
 ## Physiology
 
 - [Body.md](Body.md). Limbs, skin heat, grill, stealth, teeth; street recoil tolerance
+- [Cleanliness.md](Cleanliness.md). Earth dirt, odor, hygiene risk, and washing history. Trench-foot heal cycle stays in FrostbiteColdInjury.md. Soap chemistry stays in Food/SaltSugarOil.md
 - [BloodNotes.md](BloodNotes.md). Mammal / bird blood and insect hemolymph: color, clot, volume, game trails (Earth reference)
 - [BloodTech.md](BloodTech.md). Earth transfusion craft plus universal filters. Beyond-real rows stay marked. Not the blood-restore lock
 - [FatigueRestSleep.md](FatigueRestSleep.md). Earth sleep pressure / circadian / naps / debt recovery; Terra Sleep Resistance readout

@@ -45,9 +45,9 @@ Passive. Identifies names and basic properties of the world. Chapter 9: levels f
 First seen: Chapter 2
 Passive. Analyzes systems, formulas and how things work. First in-Terra unlock when Roland reverse-engineers the status formulas. High Analyze is the upgraded form feared by nobles and spies.
 
-### Mana Sense
+### Mana Sight
 First seen: Chapter 2
-Passive. Sense ambient mana. Attribute bonus: **Intelligence +1 per level** and **Willpower +1 per level** (rewrite; Chapter 4 L4 shows pads). Chapter 9: detects whether a corpse holds a mana stone without butchering.
+Passive. See ambient mana (mist, color, presence). Attribute bonus: **Intelligence +1 per level** and **Willpower +1 per level** (rewrite; Chapter 4 L4 shows pads). Chapter 9: detects whether a corpse holds a mana stone without butchering. Caps **L9**, then evolves to **Mana Sense**.
 
 ### Runic Mana Perception
 First seen: Chapter 548
@@ -139,7 +139,7 @@ Passive. First gained as Basic Alcohol Resistance after forced tavern drinking w
 
 ### Poison Resistance / Basic Poison Resistance (toxin)
 First seen: Chapter 12
-Passive. Covers **poison and toxin** (venom, food toxin, spore, gas) as one track. Unlocks when Roland eats Needle Worm blood and crunches needle spikes for the cumin / red-pepper spice. Popup ignored on-page while he Mana Senses for a core-bearing worm to tame. Hard-caps at **L9**, then evolves. Earth diet→toxin sequestration (frogs, monarch, puffer): `../World/Fauna/ToxinSequestration.md`. Earth toxin ADME / organ heal / venom / CO / metals: `../World/Science/Body/ToxinExposureRecovery.md`.
+Passive. Covers **poison and toxin** (venom, food toxin, spore, gas) as one track. Unlocks when Roland eats Needle Worm blood and crunches needle spikes for the cumin / red-pepper spice. Popup ignored on-page while he uses Mana Sight for a core-bearing worm to tame. Hard-caps at **L9**, then evolves. Earth diet→toxin sequestration (frogs, monarch, puffer): `../World/Fauna/ToxinSequestration.md`. Earth toxin ADME / organ heal / venom / CO / metals: `../World/Science/Body/ToxinExposureRecovery.md`.
 
 **Each level: -10% poison / toxin effect** (damage, duration, status strength) vs an unresisted dose of the same type. Additive off 100%. L1 = 90% effect → L9 = 10% effect. Does not erase the dose; a strong enough hit still lands through the remainder.
 
@@ -166,7 +166,7 @@ Passive. Reduces felt pain; hard to unlock without sustained suffering. Early un
 
 **Willpower +1 per level**, **Endurance +1 per level.**
 
-**Thermal grill drill (Ch 19):** alternating **real** hot and cold mana patches on the skin in a grid (hot enough to redden/blister, cold enough to frostbite lightly). Earth thermal-grill illusion is the *idea* seed only; training past the harmless band so Heat and Cold Resistance actually rank. Also grinds **Pain Resistance**, **Recovery**, **Heat** (heat dumps) and fine **Mana Shaping / Regulation**. He meters the pool near **~99%** and soaks Regulation regen with grill intensity (soft clicks alone underspend). **Ned** adds shallow intentional nibbles / tip-pokes (Pain + same-family Poison). When Recovery lags he pours a little low-grade potion on the patch and continues so unused regen is not wasted. Keep damage shallow on purpose. Chapter 19 week: **Pain L1 → L8**, Heat Resistance/Cold → **L6**, Poison **L6 → L7**, Recovery **L5 → L9** with **no Rapid Recovery** yet (full table: `../../Story/Notes/Skills.md` Ch 19).
+**Thermal grill drill (Ch 19):** **heat-only** real mana burn patches on the skin in a grid (hot enough to redden/blister). **No** frost half — Cold is night-sleep only (`../../Story/Notes/ColdNightSleep.md`). Also grinds **Pain Resistance**, **Recovery**, **Heat** (heat dumps) and fine **Mana Shaping / Regulation**. He meters the pool near **~99%** and soaks Regulation regen with denser heat + longer holds (soft clicks alone underspend). **Ned** adds shallow intentional nibbles / tip-pokes (Pain + same-family Poison). When Recovery lags he pours a little low-grade potion on the patch and continues so unused regen is not wasted. Keep damage shallow on purpose. Live exit table: `../../Story/Notes/Skills.md` Ch 19.
 
 ### Pain Immunity (evolve)
 Evolves from Pain Resistance at **L9** when timing fits. Same **-10% per level** until floor **1% felt pain**. Will +1 / End +1 per level. Still not a heal; extreme trauma and system / divine backlash can punch through.
@@ -184,13 +184,13 @@ First seen: Chapter 19 (thermal grill unlock); later forge / Blacksmith's Heat S
 From Heat Resistance L9. Same **-10%/level** to floor **1%** heat effect. Extreme magma / spell fire / abyssal heat still threatens the remainder.
 
 ### Cold Resistance
-First seen: Chapter 13 as ambient **Temperature Resistance** (cold bare inn / cloak+Ned); rewrite track name **Cold Resistance**. Grill deepens it Chapter 19.
+First seen: Chapter 13 as ambient **Temperature Resistance** (cold bare inn / cloak+Ned); rewrite track name **Cold Resistance**.
 
 **Each level: -10% cold harm** (frostbite, chill fatigue, cold-status strength) vs the same exposure. L1 = 90% → L9 = 10%.
 
 **Vitality +1 per level**, **Endurance +1 per level.**
 
-**Ch 13:** unlock **L1** (pauper lodging cold). **Ch 19 week:** cold half of the damaging grill (live exit **L5** in `../../Story/Notes/Skills.md`). Old notes that said Temperature Resistance with no attr line: use this Cold track instead (Vit/End pads apply). Earth frostbite / trench foot / hypothermia: `../World/Science/Body/FrostbiteColdInjury.md`.
+**Rewrite lock:** climbs from **cold night sleep** in months that make sense only — not frost grill. Full meter / season table: `../../Story/Notes/ColdNightSleep.md`. **Ch 13:** unlock **L1** (first cold night). Leave Carwen / train **L3**. Desk exit **L4**. No freeze patch / spare-mana cold; former frost-grill energy → Heat / Suffocation / Recovery / Fabrication / Taming. Earth frostbite / trench foot / hypothermia: `../World/Science/Body/FrostbiteColdInjury.md`.
 
 ### Cold Immunity (evolve)
 From Cold Resistance L9. Same **-10%/level** to floor **1%** cold effect. Magical deep-freeze / abyss cold can still land through the remainder.

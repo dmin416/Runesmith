@@ -32,7 +32,7 @@ Approaching age-9 bravery stack. Soft body/mind only.
 
 - Sleep **L4**
 - Basics high; opponent-gated skills lag
-- Mana Sense near max for Mage plan
+- Mana Sight near max for Mage plan
 
 ## One-line
 

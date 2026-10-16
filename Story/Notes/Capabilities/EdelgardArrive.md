@@ -1,6 +1,6 @@
 # Edelgard arrive
 
-**When:** Ch **19** train exit / Ch **20** Singing Crow morning. Age **11y0m** / world **6y**. End of Carwen **9 months** + ~**7-day** train grind.
+**When:** Ch **19** train exit / Ch **20** Singing Crow morning. Age **11y0m** / world **6y**. End of Carwen **9 months** + ~**7-day** train grind. Train mornings: damp-cloth wipe (face, neck, underarms). Singing Crow: guest wash after the room is his before schematic work (`../Cleanliness.md`).
 
 **Classes:** Mage **L25** [secondary] / Runic Mana Scribe **L1** [main]. Overall **L26**.
 
@@ -42,7 +42,7 @@ M = ((72+81)/2)/15 ≈ 5.10
 hold = 1 × M ≈ 5.1 min   // no Breath Control yet
 ```
 
-Comfortable seated hold ≈ **~5.1 min** (body M only). Suffocation Resistance **L5** covers oxygen-starve harm; it is not a Breath Control multiplier.
+Comfortable seated hold ≈ **~5.1 min** (body M only). Suffocation Resistance **L6** covers oxygen-starve harm; it is not a Breath Control multiplier.
 
 **Recovery L5** → **2×** rate on top of M:
 - Plasma ≈ **~1.0–1.5 L/h**
@@ -57,10 +57,10 @@ Comfortable seated hold ≈ **~5.1 min** (body M only). Suffocation Resistance *
 | Blunt Resistance | **L5** | **50%** blunt harm |
 | Sharp Resistance | **L4** | **60%** sharp harm |
 | Heat Resistance | **L5** | **50%** heat harm |
-| Cold Resistance | **L5** | **50%** cold harm |
+| Cold Resistance | **L3** | cold night sleep (Carwen cold months); `ColdNightSleep.md` |
 | Poison Resistance | **L6** | **40%** toxin |
 | Sleep Resistance | **L6** | **40%** sleep need (**3.2 h** of **8 h** T0) |
-| Suffocation Resistance | **L5** | **50%** oxygen-starve harm |
+| Suffocation Resistance | **L6** | **40%** oxygen-starve harm |
 | Alcohol Resistance | **L4** | **60%** drunk/hangover |
 | Recovery | **L5** | **50%** close time |
 
@@ -69,7 +69,7 @@ No immunities yet.
 ## Senses / processing
 
 - Eyes: ordinary young acuity. No Enhanced / Mana Vision on sheet.
-- **Mana Sense L9**. **Sound Production + Echolocation L7** (click-map / Ned tip catch).
+- **Mana Sight L9** (next evolve **Mana Sense**; not unlocked). **Sound Production + Echolocation L7** at arrive; keeps training after (desk / grill).
 - **Diagnosis L8**. **Marksmanship L9**. **Hastened Reading L2** on **Reading L9**.
 - **Multitasking L5** (50% side efficacy). Example at 10× capacity, peel 50% one side: main **5.0** men / side **2.5** men.
 - Parallel Thinking: rewrite transfer intent; **no printed level** on Ch 19 exit table.
@@ -80,8 +80,8 @@ Running / Sprint / Climbing / Throwing **Basic L9**. Dodging **Basic L7**. Acrob
 
 ## Magic toolkit
 
-Hands / Absorption / Reinforcement / Sense / Incantation **L9**. Shaping **L7**, Regulation **L8**. Heat spell **L6**. Suffocation Resistance **L5** (hold hypoxia + blood volume). **No** Breath Control. Drawing **L1** (+ Basic Drawing L9 baked). Mage regen card still on.
+Hands / Absorption / Reinforcement / Sight / Incantation **L9**. Shaping **L7**, Regulation **L8**. Heat spell **L6**. Suffocation Resistance **L6** (hold hypoxia + blood volume). **No** Breath Control. Drawing **L1** (+ Basic Drawing L9 baked). Mage regen card still on.
 
 ## One-line
 
-An **11**-year-old with Bolt-class burst, **~3×** adult lift, **~25 min** breath holds, half pain/heat/cold felt, **~10×** think speed, click-sonar and capped mana sense. No super-acuity eyes. Child mass still bottles absolute combat force vs the sheet multiples.
+An **11**-year-old with Bolt-class burst, **~3×** adult lift, strong breath holds, half pain/heat felt (Cold **L3** from cold nights), **~10×** think speed, click-sonar and capped mana sight. No super-acuity eyes. Child mass still bottles absolute combat force vs the sheet multiples.

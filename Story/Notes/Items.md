@@ -92,14 +92,14 @@ First paid hunt day. Gear carried forward: black leather, shortsword, hunting kn
 
 Turn-in line "**95 LC** richer" = income only (35+60), not after meal/map.
 
-**Still carrying:** leather set, shortsword, hunting knife, small mirror, adventurer card, local map, calligraphy books / blank paper, coin pouch (**875 LC**), buried class-up crystal. Lodging not paid. Lodging vows deferred; ends chapter planning baths / more hunts, not “never cabin again.”
+**Still carrying:** leather set, shortsword, hunting knife, small mirror, adventurer card, local map, calligraphy books / blank paper, coin pouch (**875 LC**), buried class-up crystal. Lodging not paid. After turn-in he pays for a proper wash before sleep. Lodging vows deferred; ends chapter planning more hunts, not “never cabin again.” Hygiene: `Cleanliness.md`.
 
 ## Chapter 9.5
 
 Three-month Carwen grind (rewrite bridge; Source has no separate chapter).
 
 **Lodging / kit**
-- Upstairs room at the Ch 9 inn (cabin commute dropped).
+- Upstairs room at the Ch 9 inn (cabin commute dropped). Guest wash becomes part of coming back from hunts; canteen wipes on long forest days (`Cleanliness.md`).
 - First major purchase: nice-ish thick wool cloak (**300 LC**, mattress/comforter).
 - Spare robe bought when the old one reeks of smoke / goblin blood.
 - Leather and shortsword repairs from turn-in leftovers.
@@ -133,7 +133,7 @@ First dungeon day with Becky / Sahildr / Reyna. Carry-in from Ch 10 unchanged un
 
 **Gained / used (party haul; sold and split)**
 - Spiked Boar mats: tusks, spine spikes, leather (meat skipped). Design lock **4** boars mid mats **~312 LC**.
-- Dungeon chest stones **×2** (leader-sized; Mana Sense finds first; “another” on the shield fight) sold **200 LC**.
+- Dungeon chest stones **×2** (leader-sized; Mana Sight finds first; “another” on the shield fight) sold **200 LC**.
 - Team **~512 LC** → equal 4-way → Roland **+128 LC**.
 
 **Party gear noted (not his)**
@@ -303,10 +303,12 @@ Edelgard arrival / guild / Singing Crow.
 
 Rewrite-only ~**4 month** grind.
 
-**Day 1 (morning after Ch 21; chapter prose):** second-shop runic three — **Orb of Light** (**1 LS**), **Fire Arrow** (**2 LS**), **Aqua Ball** (**1 LS**); **4 LS = 400 LC**; wallet **21,448 → 21,048 LC**. **Regular paper**; skips expensive ink. **Cheap ink** thin/dark, rust and dried-iron smell; Mana Sense dank/fetid like goblin / sewer-rat mana. Plans homebrew ink. Ned on silk for clothes (not gel harvest). Thinner paper + prior hides for quill / Hand-as-quill / all-at-once trace drills; imbue after settle.
+**Day 1 (morning after Ch 21; chapter prose):** second-shop runic three — **Orb of Light** (**1 LS**), **Fire Arrow** (**2 LS**), **Aqua Ball** (**1 LS**); **4 LS = 400 LC**; wallet **21,448 → 21,048 LC**. **Regular paper**; skips expensive ink. **Cheap ink** thin/dark, rust and dried-iron smell; Mana Sight dank/fetid like goblin / sewer-rat mana. Plans homebrew ink. Ned on silk for clothes (not gel harvest). Thinner paper + prior hides for quill / Hand-as-quill / all-at-once trace drills; imbue after settle.
 
 **Notes (early skip):** full lock in `Chapter21_5.md` (seat-time: Arrow wall **~6 min**, Ball **~21–26 min**; Phase C **~76** MA / **~8** Fireball / **~2** Light Ball per day; prefill **personal / gift** only). Homemade ink = **goblin cores** (bank) + **his and Ned's blood**; Fire Orb lock; shape kit; Technology every rune/tech observe; exit Fireball batch of **10 Highest** **empty**; MA keep (**~20** preloaded); Light Ball few (**~6** preloaded); **last 1 SS**. Stone bank drawn down for ink powder. Perfect schematics this skip **+27,000** XP (`Experience.md`; pure mana Bolt+Arrow+Orb+Ball **+6,000** inside). **Burns all paper schematics** (space); knowledge retained.
 
 **Skip exit carry:** Steel card, detonation rapier, **Ned**, map, ten branded **Fireball** scrolls (all **Highest**, **empty**), Mana Arrow keep pile (**~20** preloaded), a few Light Ball keepers (**~6** preloaded), robe/mask disguise kit, wallet **1 SS**, stone bank (reduced by ink cores). **No** schematic sheets. Full exit sheet: `Chapter21_5Exit.md`.
 
 **Ch 22 Libra (first Fireball sale):** ten **Runic Fireball [Common][Highest]** empty (red comet / shooting-star logo); Amplify if fed (rank-capped). Percival almost trashes low-look hide wrap; guide **~7–8 LS** each (fair Highest empty **7.5 LS**). Bundled two×five; open **32 LS**; hammers **42 LS** + **46 LS** → gross **8 SG 8 LS**; **25%** → net **6 SG 6 LS** (wallet **6 SG 6 LS 1 SS** with kept **1 SS**). Identify: scrolls need the **rune visible**; body need full cloth cover (water-ball self-test).
+
+**Ch 23 early (after payday):** spends into more **monster-skin blanks** and **paper**; still **homemade ink** (no shop ink). Sell-line Fireballs stay **empty** / comet brand. Personal/protection scrolls may take **SP** fills when MP is low. Desk side grind (`FrictionGrill.md`) + Cold nights (`ColdNightSleep.md`) continue. **+2 months intense grill grind:** Percival return stack is **fifteen** comet Fireballs, all **Highest** (sell line stays Highest-only).

@@ -56,7 +56,7 @@ Carwen total: **3 months** goblins + **half a year** with Becky / Sahildr / Reyn
 | 15 | Mage L25 | L25 | 49 | 64 | 59 | 57 | 62 | 137 | 135 | 12 | 7 | 756 | 2292 | 959 | Bank **1479** |
 | 16–17 | Mage L25 / Scribe L1 | L26 | 49 | 64 | 60 | 57 | 62 | 138 | 136 | 12 | 7 | 756 | 2309 | 959 | Scribe +1 Dex/Int/Will |
 | 18 | same | L26 | 49 | 64 | 61 | 57 | 62 | 138 | 136 | 12 | 7 | 756 | 2309 | 959 | Drawing **L1** Dex **+1**; bar **2479** |
-| 19 | same | L26 | 49 | 64 | 72 | 72 | 81 | 156 | 147 | 12 | 7 | 963 | 2578 | 1149 | Train-week pads; Sleep **L6**; bar **7279** |
+| 19 | same | L26 | 49 | 64 | 72 | 72 | 81 | 156 | 147 | 12 | 7 | 963 | 2578 | 1149 | Train-week pads; Sleep **L6**; Suff **L6**; Cold **L3** nights; bar **6979** |
 | 20 | same | L26 | 49 | 64 | 72 | 71 | 80 | 156 | 147 | 12 | 7 | 950 | 2578 | 1139 | No sheet change |
 
 Ch 12 physicals = Ch 10 live + binge/cook pads (**Agi+1 Vit+2 End+4 Int+1 Dex+1 Cha+1 Will+1**; Str unchanged on binge). Ch 13 live sheet supersedes the soft Ch 12 row when printed.
@@ -70,7 +70,7 @@ Ch 19 bare MP: `(156×10)+(147×4)` = **2148**. Printed ledger/target **2578** s
 ### Chapter 1
 - **Time:** Age 5 / year 0. Transfer day.
 - **Sheet:** Transfer live (see spine). No class.
-- **Skills:** Transfer set lands (Identify, Mana Sense L1→climbing, Diagnosis, Technology, Sleep Resistance, Fabrication, Cooking, Marksmanship L7, Acting, Math, Map Reading, Hastened Reading, Analyze).
+- **Skills:** Transfer set lands (Identify, Mana Sight L1→climbing, Diagnosis, Technology, Sleep Resistance, Fabrication, Cooking, Marksmanship L7, Acting, Math, Map Reading, Hastened Reading, Analyze).
 - **Delta:** First sheet appears.
 
 ### Chapter 2
@@ -95,7 +95,7 @@ Ch 19 bare MP: `(156×10)+(147×4)` = **2148**. Printed ledger/target **2578** s
 ### Chapter 5
 - **Time:** **10y0m / 5y**. Ascension day.
 - **Sheet:** Pre-class then Mage L1 (spine).
-- **Skills gain:** Mage grants — Basic Mana Shaping L1, Basic Mana Regulation L1, Mana Bolt L1, Basic Incantation L1. Affinities all **0%**. Mana Sense already **L9**. Basics at age-10 targets.
+- **Skills gain:** Mage grants — Basic Mana Shaping L1, Basic Mana Regulation L1, Mana Bolt L1, Basic Incantation L1. Affinities all **0%**. Mana Sight already **L9**. Basics at age-10 targets.
 - **Delta:** Class exists. Banked XP not applied until Ch 6.
 
 ### Chapter 6
@@ -141,7 +141,7 @@ Ch 19 bare MP: `(156×10)+(147×4)` = **2148**. Printed ledger/target **2578** s
 ### Chapter 11
 - **Time:** **10y6m / 5y6m**. Day 1 + trial **~2 weeks**.
 - **Sheet:** Still Mage L20 attributes (spine). Hands **L5→L6**.
-- **Skills:** Shield / Arrow / Incantation in combat; Inc stays **L6**; Abs/Sense **L9**.
+- **Skills:** Shield / Arrow / Incantation in combat; Inc stays **L6**; Abs/Sight **L9**.
 - **XP:** Day **456**; trial kill **+2184** + Hands **~100** → bar **~8540/10k**.
 - **Coin:** **3630 → 3758 → ~4413**.
 - **Delta:** Party dungeon begins.
@@ -202,8 +202,8 @@ Ch 19 bare MP: `(156×10)+(147×4)` = **2148**. Printed ledger/target **2578** s
 ### Chapter 19
 - **Time:** Train **~7 days** + Edelgard evening. Still **11y0m / 6y**.
 - **Sheet:** Train pads applied (spine Ch 19).
-- **Skills:** Sound **L7**, Echo **L7**, Suffocation **L5**, Sleep **L5→L6** (~**6,720** ignored-sleep uses; **4 h**/day of **8 h** T0), Sharp **L4**, Multitask **L5**, Heat/Cold/Pain Res **L5**, Shaping **L7**, Reg **L8**, Inc **L9**, Heat **L6**, Recovery **L5**, Poison **L6**; Fire Orb High→Highest. No Breath Control.
-- **XP:** Bar **7279/13000** (train skill **+3800** + Fire Orb **+1000**).
+- **Skills:** Sound **L7**, Echo **L7**, Suffocation **L6**, Sleep **L5→L6** (~**6,720** ignored-sleep uses; **4 h**/day of **8 h** T0), Sharp **L4**, Multitask **L5**, Heat/Pain Res **L5**, Cold **L3** (cold night sleep; `ColdNightSleep.md`), Shaping **L7**, Reg **L8**, Inc **L9**, Heat **L6**, Recovery **L5**, Poison **L6**; Fire Orb High→Highest. No Breath Control.
+- **XP:** Bar **6979/13000** (train skill **+3500** + Fire Orb **+1000**).
 - **Coin:** **21641 → 21598** (tip/map/Crow).
 - **Delta:** Helci met; Singing Crow.
 

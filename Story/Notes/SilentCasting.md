@@ -81,7 +81,7 @@ Magic (word) scrolls must be **read aloud** to mobilize the reader's mana (`Magi
 ## Soft / do not mix
 
 1. **“Silently” in narration** for body spells before Ch 20 should mean **near-silent whisper**, not true silent.
-2. **Mana Hands / Heat / Sense** without spell words are not Incantation silent unlocks.
+2. **Mana Hands / Heat / Sight** without spell words are not Incantation silent unlocks.
 3. Body-cast “spells can form from the body alone, usually at low level” (`Magic.md`) is a separate narrative channel (accident / reflex), not trained silent Bolt spam.
 
 ---

@@ -24,7 +24,7 @@ The last section is the prose disagreeing with itself.
 
 ### Chapter 4
 
-- The chapter says Mana Sense leveling only widens range and clarity (`Story/Chapters/1-9.md` 687). `References/Progression/RaceMult.md` 340 still adds Intelligence and Willpower.
+- The chapter says Mana Sight leveling only widens range and clarity (`Story/Chapters/1-9.md` 687). `References/Progression/RaceMult.md` 340 still adds Intelligence and Willpower.
 - The chapter says he can gain only combat skills (`Story/Chapters/1-9.md` 776). `References/Progression/RaceMult.md` 325 still opens pre-class basics such as climbing, throwing, and Identify.
 
 ### Chapter 5
@@ -117,7 +117,7 @@ The last section is the prose disagreeing with itself.
 
 ### Chapter 19
 
-- The chapter says Mage Hand (`Story/Chapters/19-30.md` 181). `Story/Notes/Skills.md` 546 still says Mana Hands.
+- The chapter says Mage Hand (`Story/Chapters/19-26.md`). `Story/Notes/Skills.md` still says Mana Hands.
 
 ## Inside the chapter
 

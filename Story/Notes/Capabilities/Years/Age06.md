@@ -32,7 +32,7 @@ Displayed sheet = Training body + climbing Basics + transfer pads. Soft floor us
 
 - Sleep **L4**
 - Basics unlocking / climbing
-- Mana Sense rising
+- Mana Sight rising
 - Reading toward **L9** by age 7
 
 ## One-line

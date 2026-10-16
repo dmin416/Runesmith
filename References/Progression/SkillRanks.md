@@ -23,7 +23,7 @@ Rewrite law (also in `../Ideas.md`):
 - Effects and skill-tied stat bonuses scale with the current skill’s level.
 - Evolving a Basic skill grants the new form’s L1 attribute pad (+1 × level into favored attrs). Ch 13’s “free stat point” wording is that L1 pad, **not** a second bonus on top of it.
 - **Technique only:** level is form / efficiency / timing / decisions, not body power. L5 = dedicated adult amateur, L7 = competitive or professional, L9 = pinnacle of normal human technique on that prefix. Early Basic ranks by age: `Training.md`.
-- Chapter 4 books say max Mana Sense at **L10** for Mage. Treat that as in-world rounding / old wording. Rewrite sheet max is **L9**.
+- Chapter 4 books say max Mana Sight at **L10** for Mage. Treat that as in-world rounding / old wording. Rewrite sheet max is **L9**.
 
 Chapter 7: Roland thinks Basics stop at L9 from **class restrictions**. Rewrite reason is the L9 hard max (then evolve), not Mage locking physical Basics.
 
@@ -105,7 +105,7 @@ Attribute bonus from a skill = +1 × current skill level
 
 per favored attribute listed on that skill. When the skill gains a level, that attribute goes up by 1. Bonus equals the level on the skill card (Diagnosis L8 → Intelligence +8).
 
-Not every skill grants attributes. Identify, Analyze, Map Reading and Basic Mathematics show no attribute line at transfer. Mana Sense gains Intelligence and Willpower (Chapter 4; L4 → **+4 Int, +4 Will**). **Sleep Resistance** grants **Vitality +1** and **Endurance +1** per level. **Basic Alcohol Resistance** grants **Endurance +1** per level. **Dance** grants **Agility +1**. **Pain Resistance** grants **Willpower +1** and **Endurance +1**. **Basic Taming** grants **Charisma +1**. **Multitasking** grants **Intelligence +1** and **Dexterity +1**. **Poison Resistance** grants **Vitality +1** and **Endurance +1** per level. **Recovery** grants **Vitality +1** and **Endurance +1** per level. **Basic Acrobatics** grants **Agility +1**.
+Not every skill grants attributes. Identify, Analyze, Map Reading and Basic Mathematics show no attribute line at transfer. Mana Sight gains Intelligence and Willpower (Chapter 4; L4 → **+4 Int, +4 Will**). **Sleep Resistance** grants **Vitality +1** and **Endurance +1** per level. **Basic Alcohol Resistance** grants **Endurance +1** per level. **Dance** grants **Agility +1**. **Pain Resistance** grants **Willpower +1** and **Endurance +1**. **Basic Taming** grants **Charisma +1**. **Multitasking** grants **Intelligence +1** and **Dexterity +1**. **Poison Resistance** grants **Vitality +1** and **Endurance +1** per level. **Recovery** grants **Vitality +1** and **Endurance +1** per level. **Basic Acrobatics** grants **Agility +1**.
 
 **Transfer examples (bonus = level)**
 
@@ -137,7 +137,7 @@ Favored attributes for skills Roland trains in Chapters 4–7. Same +1 × level 
 | Basic One-Handed Swordsmanship | Strength +1 |
 | Basic Leather Armor | Vitality +1, Endurance +1 |
 | Reading Proficiency | Intelligence +1, Willpower +1 |
-| Mana Sense | Intelligence +1, Willpower +1 |
+| Mana Sight | Intelligence +1, Willpower +1 |
 | Basic Mana Shaping | Intelligence +2, Willpower +1 |
 | Basic Mana Regulation | Intelligence +1, Willpower +2 |
 | Basic Incantation | Intelligence +1, Willpower +1 |
@@ -175,7 +175,7 @@ Sprint, Hand to Hand and Leather stay on Basic forms until they evolve. **Basic 
 
 **Evolve pads are additive, not subtractive.** On evolve, the Basic form’s attribute bonuses stay baked in (permanent). The new skill starts at L1 and adds its own +level line on top. Example: Basic Climbing L9 (Str +9, Agi +9) → Climbing L1 adds Str +1, Agi +1 → Climbing tree contributes Str +10, Agi +10 at evolve.
 
-Chapter 4 prose: leveling physical Basics also makes him “run faster, jump higher and punch harder” via technique, and “bonuses to endurance and strength” when those skills get high enough. Rewrite pads: Running → Endurance; Sprint → Vitality + Endurance; Hand to Hand → Strength + Vitality; Leather → Vitality + Endurance; Reading / Mana Sense → Intelligence + Willpower. Age-10 goal: Str/Agi/Vit/End **40**; Dex/Will higher; Int highest (`StatusBreakdown.md`).
+Chapter 4 prose: leveling physical Basics also makes him “run faster, jump higher and punch harder” via technique, and “bonuses to endurance and strength” when those skills get high enough. Rewrite pads: Running → Endurance; Sprint → Vitality + Endurance; Hand to Hand → Strength + Vitality; Leather → Vitality + Endurance; Reading / Mana Sight → Intelligence + Willpower. Age-10 goal: Str/Agi/Vit/End **40**; Dex/Will higher; Int highest (`StatusBreakdown.md`).
 
 ### Sheet buckets
 
