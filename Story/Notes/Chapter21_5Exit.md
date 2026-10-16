@@ -2,7 +2,9 @@
 
 Story skip close. Ledger day **120**. Age **11 and 4 months** / **6 years 4 months** (`Timeline.md`).
 
-Canon homes: this sheet · `Chapter21_5.md` · `Chapter21_5DayByDay.md` · `Chapter21_5DaySkillYear.csv` · `Skills.md` / `Status.md` / `Items.md` / `Experience.md` / `NedStatus.md`.
+Canon homes: this sheet · `Chapter21_5.md` · `Chapter21_5DayByDay.md` · `Chapter21_5DaySkillYear.md` · `Skills.md` / `Status.md` / `Items.md` / `Experience.md` / `NedStatus.md` · `FrictionGrill.md` · `ColdNightSleep.md`.
+
+**Authority:** this exit sheet wins over DaySkillYear soft sim numbers when they disagree (Heat Res stays **L5** here; Cold = night sleep **L4**; Suffocation **L6**).
 
 ---
 
@@ -73,17 +75,21 @@ Overall XP bar enter **7029** → exit **~16,034,218** (schematics **+27,000** +
 | Sleep Resistance | **7** | **20k** soft-cap | Printed **+1** this skip |
 | Hunger Resistance | **6** | **~9.6k** | |
 | Pain Resistance | **6** | **~5.2k** | |
-| Heat Resistance | **5** | **~3.3k**+ denser (old freeze folded in) | |
+| Heat Resistance | **5** | **~3.3k–4k** toward L6 | denser burn / friction; short of **5,000** |
 | Cold Resistance | **4** | ~**220** cold nights | night sleep only; `ColdNightSleep.md` |
 | Sharp Resistance | **4** | **~770** | |
-| Blunt Resistance | **4** | **~513** | |
+| Blunt Resistance | **4** | **~513** | friction slap soft |
 | Poison Resistance | **6** | **~5.4k** | |
-| Suffocation Resistance | **6** | **~5.1k** | train holds + desk |
-| Recovery | **5** | **~2.5k**+ toward L6 | Roland; denser knits |
+| Suffocation Resistance | **6** | **~5.1k** | train holds + desk; short of L7 **20k** |
+| Recovery | **5** | **~2.5k–4k** toward L6 | knit-on-purpose; short of **5,000** |
+| Fabrication | **8** | soft bar up | ink gear / press / tools / cut-to-need (`FrictionGrill.md`) |
+| Basic Taming | **3** | soft ~**50–200** coop uses | Ned desk/night cooperative; enter **L1** |
 | Mana Absorption | **9** | **~507k** | |
 | Mana Reinforcement | **9** | **~504k** | |
+| Mana Sight | **9** | cap | |
 | Diagnosis | **7** | **~88.3k** | |
-| Heat (spell) | **6** | **~5.1k** | |
+| Identify | weak | narrative-low | habit; not a grind |
+| Heat (spell) | **6** | **~5.1k** | just over L6 gate; **~0.5%** of L6→L7 (**20k**) |
 | Sound Production | **8** soft | kept since train | Desk clicks + Ned; enter train **L7** |
 | Echolocation | **8** soft | kept since train | Same; evolve **Vibration Sense** at **2M** |
 

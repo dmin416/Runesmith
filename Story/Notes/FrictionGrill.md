@@ -51,10 +51,15 @@ Desk pours do not always soak the regen ceiling. Cold was eating parallel therma
 - Friction on **sell-line** Fireballs.
 - Story may stay vague (“time continued to pass”); this file owns the avenues.
 
+## Soft exit ranks (desk / d120)
+
+Match `Chapter21_5Exit.md`: Heat Res **L5** (~**3.3k–4k**→L6); Heat spell **L6** (~**5.1k**); Suffocation **L6**; Recovery **L5** (~**2.5k–4k**→L6); Fabrication **L8**; Taming **L3** soft; Cold **L4** via `ColdNightSleep.md` (not this file’s frost).
+
 ## Homes
 
 - Cold nights: `ColdNightSleep.md`
 - Ch 19 heat-only train: `Skills.md`, `Notes.md`
 - Ch 23 spare-MP / grill: `Notes.md`
 - Desk burn patch (heat side only): `Chapter21_5.md`, `ResistanceGrindBurnFreeze.md`
+- Exit sheet: `Chapter21_5Exit.md`
 - Skills slate: `Skills.md` / `Roland's Skills.md`

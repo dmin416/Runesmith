@@ -17,9 +17,9 @@ Roland should **deliberately level** more body resists than Source tracked. Same
 | Blunt | Estate → leave **L4**; Ch 9.5 **L5** | Vit/End; ≫ Sharp early |
 | Sharp | Estate → leave **L2**; Ch 9.5 **L2–L3**; Ch 13 **L3**; train **L4** (self drip pierces + Ned fang / miss needles) | Vit/End; pierce+slash |
 | Recovery | Estate → leave **L3**; Ch 9.5 **L4**; Ch 13 Ned **L5**; train **L5** | Vit/End; knit cycles |
-| Suffocation | Train unlock **L5** (grill holds **15 s = 1 use** + blood volume drip/nicks; **no** Breath Control) | Vit/End (`MultiMechanismResistance.md`) |
-| Heat | ≥ L5–L6 train; forge / Lord later | Vit/End |
-| Cold | ≥ L5–L6 | Vit/End |
+| Suffocation | Train **L6** (holds **15 s = 1 use** + blood volume; frost-grill time → longer holds; **no** Breath Control); desk keeps L6 | Vit/End (`MultiMechanismResistance.md`) |
+| Heat | Train / desk **L5** Res (~**3.3k–4k** toward L6); forge / Lord later | Vit/End |
+| Cold | Night sleep only (`../../Story/Notes/ColdNightSleep.md`); leave Carwen / train **L3**; desk **L4**; no frost grill | Vit/End |
 | Stress | Engineer Ch **196** | |
 | Resilience | Engineer Ch **196** | Stagger / resolve |
 | Abyssal Corruption | Ch **398** | Late |

@@ -345,7 +345,7 @@ Field curve: cum clean uses to L = **1 / 10 / 50 / 200 / 1,000 / 5,000 / 20,000 
 | Ned toxin tips | soft repeat | Poison stays **L6** | **0** | **0** |
 | Remote clicks + grids | ~**22,000** | Shaping stays **L7** | **0** | **0** |
 | Ceiling draw all week | continuous | Regulation stays **L8** | **0** | **0** |
-| Hot patches as spell | ~**2,480** | Heat stays **L6** | **0** | **0** |
+| Hot patches as spell | ~**2,480** | Heat stays **L6** (~**5.1k** cum into desk; L7 needs **20k**) | **0** | **0** |
 | Catch-and-return tips | — | Throwing stays Basic **L9** | **0** | **0** |
 | **Skill XP total** |  |  | **35** | **3500** |
 

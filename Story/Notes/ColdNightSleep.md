@@ -32,6 +32,8 @@ Field curve: **1 / 10 / 50 / 200 / 1,000 / 5,000…**
 | Desk exit / Ch 22 (into cold season) | **~220** | **L4** (clears **200**; short of **1,000**) |
 | Ch 23 cold months (intense grill still winterish) | **~280** soft | **L4** with bar toward **L5**; **L5** only if more cold-season nights stack later |
 
+Desk / d120 printed exit: **L4** (`Chapter21_5Exit.md`).
+
 Former frost-grill energy stays on Heat / Suffocation / Recovery / Fabrication / Taming (`FrictionGrill.md`, `Skills.md` Ch 19).
 
 ## Attr

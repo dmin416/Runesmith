@@ -12,7 +12,7 @@ Excludes Agni, Millie, Bernir, Lucille, Robert, Arthur skills and traits.
 3. Diagnosis – Ch 2 – previous life – Intelligence +8 at L8
 4. Technology – Ch 2 – previous life (Source: Circuitry) – Dexterity +7, Intelligence +7 at L7; Ch 4 clock: conceptual / understanding
 5. Sleep Resistance – Ch 2 – previous life; **Vitality +level**, **Endurance +level** (L4 at transfer → Vit **+4** / End **+4**; Ch 12 → **L5**; Ch 19 train ignored-sleep uses → **L6**; Ch 21.5 desk → **L7**)
-6. Fabrication – Ch 2 – previous life – Dexterity +8 at L8; Ch 4 clock: physical / mechanical; Ch 23 desk (ink gear / press / tools / cut-to-need) keeps ticking (`FrictionGrill.md`)
+6. Fabrication – Ch 2 – previous life – Dexterity +8 at L8; Ch 4 clock: physical / mechanical; desk / Ch 23 (ink gear / press / tools / cut-to-need) keeps ticking — exit **L8** soft bar up (`FrictionGrill.md` / `Chapter21_5Exit.md`)
 7. Cooking – Ch 2 – previous life – Dexterity +3, Agility +3 at L3
 8. Marksmanship – Ch 2 – previous life – Dexterity +7 at L7 (`Progression.md` firearms track); stays **L7** through Ch 9.5–10 (L8 needs **100,000**; named on-page Ch 10); Ch 13 → **L9**
 9. Acting – Ch 2 – previous life – Charisma +4 at L4
@@ -70,11 +70,11 @@ Age-10 technique targets: see `Progression.md` / Ch 7 note in `Skills.md`. Chapt
 37f. Train mana foundations – Ch 19 (both every day): Shaping **L7**, Regulation **L8**, Heat **L6**; Hands / Absorption / Reinforcement / Sight / Incantation stay **L9**; Recovery **L5** (~**2.5k** toward L6); Poison **L6** (one poison track); Basic Throwing stays **L9**; Suffocation **L6** (no Breath Control); Cold **L3** (night sleep). Full math: `Skills.md` Ch 19.
 38. Sleep Resistance – Ch 12 – climbs **L4 → L5**; Ch 19 train – lives on L5 need (**4.0 h** of **T0 = 8 h**); ignored **4.0 h**/day → ~**6,720** uses → **L6** (**Vitality +1**, **Endurance +1**); Ch 21.5 four-month desk → **L7**
 39. Poison Resistance – Ch 12 – Needle Worm blood / needle crunch; popup ignored; **L1**; daily Ned toxin seasoning through Ch 13–19 (~187 days) → **L6**; Ch 19 train tip-pricks stay **L6**; **Vitality +1**, **Endurance +1** per level
-39a. Recovery – estate unlock (notes); leave **L3**; Ch 9.5 field knits → **L4**; Ch 13 Ned poke + 150 mL → **L5**; Ch 19 grill stays **L5**; Ch 23+ friction/Ned knits (clot on purpose) climb again (`FrictionGrill.md`); small-wound close time **−10%/level**; **Vitality +1**, **Endurance +1** per level; evolve → Rapid Recovery
+39a. Recovery – estate unlock (notes); leave **L3**; Ch 9.5 field knits → **L4**; Ch 13 Ned poke + 150 mL → **L5**; Ch 19 denser grill stays **L5** (~**2.5k** toward L6); desk / Ch 23 knit-on-purpose stays **L5** (~**2.5k–4k** toward L6; `Chapter21_5Exit.md`); small-wound close time **−10%/level**; **Vitality +1**, **Endurance +1** per level; evolve → Rapid Recovery
 39b. Blunt Resistance – estate → leave **L4**; Ch 9.5 clubs/bashes → **L5**; Vit/End +level
 39c. Sharp Resistance – estate → leave **L2**; Ch 9.5 rare cuts → **L2–L3**; Ch 13 → **L3**; train **L4** (self drip pierces + Ned fang / miss needles); Vit/End +level
 40. Multitasking – Ch 12 – eight Mana Hands on cook skewers; unlock unnoticed; **L1**; Ch 19 dual drills → **L5**; **Intelligence +1**, **Dexterity +1** per level
-41. Basic Taming – Ch 12 – core Needle Worm bind (food, shield stall, Will stare); **L1**; **Charisma +1** per level; worm worn as green scarf; Ch 23+ Ned desk/night cooperative work (feed, tip-catch, silk, jabs he allows) counts as Taming uses (`FrictionGrill.md`)
+41. Basic Taming – Ch 12 – core Needle Worm bind (food, shield stall, Will stare); **L1**; **Charisma +1** per level; worm worn as green scarf; Ned desk/night cooperative work counts as Taming uses → desk exit soft **L3** (`FrictionGrill.md` / `Chapter21_5Exit.md`)
 
 Ch 13 combat/technique ranks (**half a year** with the girls after **3 months** goblins; no evolves): Mana Shield **L3→L8**; Mana Arrow **L4→L8**; Mana Bolt **L5→L9**; Basic Incantation **L6→L9**; Basic Dodging **L4→L6**; Basic Sword **L8→L9**; Basic Sneaking **L8→L9**; Marksmanship **L7→L9**; Shaping **L6→L7**; Regulation **L7→L8**; Heat **L5→L6**; Basic Calligraphy **L4→L9**; Alcohol **L1→L4**; Mana Hands **L7→L9**; Temperature Resistance **L1**. Live sheet: Str **49** / Agi **63** / Dex **59** / Vit **57** / End **62** / Int **137** / Will **135** / Cha **12** / Luck **7**; HP **756** / MP **2292** / SP **956**. Ch 14: **Basic Dodging L7**, Agi **64**, SP **959**. Full table: `Skills.md` Ch 13 / `StatusBreakdown.md`.
 

@@ -515,7 +515,7 @@ No full status screen. Gains **25 XP** (Mana Bolt word scroll; L1 pay **22.5** M
 
 No on-page full status screen (rewrite-only skip). **Exit sheet:** `Chapter21_5Exit.md` (attrs, HP/SP/MP, skills, Ned, inventory, wallet).
 
-Day 1: buys **Runic Orb of Light**, **Fire Arrow**, **Aqua Ball**. Then ~**4 months** / **day 120** desk. Skip perfect schematics **+27,000** XP; Detonation / Impact / Fire Orb already paid. **Burns all paper schematics**. Soft Scribe **+3** (enter L1 → soft **L4**). Exit (printed in 21.5 close / Ch 22 lookback): Dex **85** / Vit **79** / End **89** / Int **165** / Will **151**; HP **1057** / SP **1229** / MP **2254**; Basic Rune Scribing **L8**; Drawing **L8**; **Technology L8** (enter L7); understanding **L3**; Basic Rune Mastery **L5**; MT **L7**; Sleep **L7**; Hunger / Pain **L6**; Hands **L9**; wallet **1 SS**; ten branded Fireballs (all **Highest**, **empty**).
+Day 1: buys **Runic Orb of Light**, **Fire Arrow**, **Aqua Ball**. Then ~**4 months** / **day 120** desk. Skip perfect schematics **+27,000** XP; Detonation / Impact / Fire Orb already paid. **Burns all paper schematics**. Soft Scribe **+3** (enter L1 → soft **L4**). Exit (printed in 21.5 close / Ch 22 lookback): Dex **85** / Vit **79** / End **89** / Int **165** / Will **151**; HP **1057** / SP **1229** / MP **2254**; Basic Rune Scribing **L8**; Drawing **L8**; **Technology L8** (enter L7); understanding **L3**; Basic Rune Mastery **L5**; MT **L7**; Sleep **L7**; Hunger / Pain **L6**; Heat Res **L5**; Cold **L4** (night sleep); Suffocation **L6**; Recovery **L5**; Heat spell **L6** (~**5.1k**); Fabrication **L8**; Taming **L3** soft; Sound/Echo **L8** soft; Hands **L9**; wallet **1 SS**; ten branded Fireballs (all **Highest**, **empty**). Full table: `Chapter21_5Exit.md`. Avenues: `FrictionGrill.md` / `ColdNightSleep.md`.
 
 **Rewrite:** pads toward later full sheet. See `Notes.md` / `Experience.md` / `Chapter21_5Exit.md`.
 
@@ -527,7 +527,7 @@ No full status screen. Present day after 21.5. Lookback prints RS **L8**, Master
 
 ## Chapter 23
 
-Seller #64 net **6 SG 6 LS** (first Fireball sale; wallet **6 SG 6 LS 1 SS**). Restocks blanks/paper; homemade ink; comet quality maintain. SP-fills when MP low; keeps MP near-full never empty-zero for grind. **+2 months intense grill grind** (story vague): Sound/Echo still daily since train; Percival return stack is **fifteen** comet Fireballs, all **Highest**. Volume / better tools / +3 months more then forest hunt follow.
+Seller #64 net **6 SG 6 LS** (first Fireball sale; wallet **6 SG 6 LS 1 SS**). Restocks blanks/paper; homemade ink; comet quality maintain. SP-fills when MP low; keeps MP near-full never empty-zero for grind. Desk side grind continues (`FrictionGrill.md`): friction Heat/Heat Res, Suffocation, Recovery, Fabrication, Taming via Ned; Cold = cold night sleep only (`ColdNightSleep.md`). **+2 months intense grill grind** (story vague): Sound/Echo still daily since train; Percival return stack is **fifteen** comet Fireballs, all **Highest**. Volume / better tools / +3 months more then forest hunt follow.
 
 Overall L35. Mage L25 secondary. Runic Mana Scribe L10 main (printed mid-hunt). Keeps Fireball comet volume (~**15/week**; lots pay **far better than 1 SG** after cut). Live sheet (mid-hunt MP spent):
 

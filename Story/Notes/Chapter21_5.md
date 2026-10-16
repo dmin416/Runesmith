@@ -584,9 +584,15 @@ Prefill does **not** change seat counts or hide spend — same scroll, second po
 | Sleep Resistance | **L6 → L7** printed |
 | Hunger Resistance | **— → L6** |
 | Pain Resistance | **L5 → L6** |
-| Blunt / Sharp / Poison | Ned jabs; soft climb |
+| Blunt / Sharp / Poison | Ned jabs; soft climb (Blunt thin vs Sharp) |
 | Technology | **L7 → L8** (every rune + desk-tech observe) |
-| Heat / Cold | Heat patch past Ch 19 **L5** (denser); Cold **L3→L4** from autumn–winter Crow night sleep only (`ColdNightSleep.md`); no freeze patch |
+| Heat Res / Heat spell | Heat Res stays **L5** (~**3.3k–4k** toward L6); Heat spell stays **L6** (~**5.1k**; friction + patch) |
+| Cold | **L3 → L4** autumn–winter Crow night sleep only (`ColdNightSleep.md`); no freeze patch |
+| Suffocation | stays **L6** (desk holds / light volume; short of L7) |
+| Recovery | stays **L5** (~**2.5k–4k** toward L6; knit-on-purpose) |
+| Fabrication | stays **L8** (desk craft ticks toward L9; `FrictionGrill.md`) |
+| Basic Taming | **L1 → L3** soft (Ned cooperative desk/night) |
+| Sound / Echo | **L7 → L8** soft (daily since train) |
 | Rune Mastery / Mana Scribing | Mastery **L1 → L5** (~**2,910**; rejects + lighters); Scribing **L8** (lighters pad Lowest); Mana Scribing flat → Ch 23 **L2** |
 | Class / overall | schematics **+27,000** + pour × quality (Phase C ~**3k MP**/day × quality) |
 
