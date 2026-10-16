@@ -360,8 +360,9 @@ Chapter-ordered list of runes Roland Arden (D) has crafted or created in complet
 - **Sleep Resistance**: L6 → **L7** (20k soft-cap; short sleep + burn patch)
 - **Hunger Resistance**: Unlocks → **L6** (~9.6k cum; stamina-pour starve engine + one-meal days)
 - **Pain Resistance**: L5 → **L6** (~5.2k cum; burn patch + starve-ache + Ned jabs)
-- **Heat/Cold Resistance**: Continues via burn patch + freeze spot (Heat L5 ~3.3k, Cold L5 ~3.0k)
-- **Sharp/Blunt Resistance**: Ned leg jabs (Sharp L4 ~770, Blunt L4 ~513)
+- **Heat Resistance**: Continues via burn patch + friction training (L5 ~3.3k-4k toward L6; denser burn/friction; short of 5,000)
+- **Cold Resistance**: L4 (~220 cold nights; night sleep only in cold months; cold lodging at Crow room; see `Story/Notes/ColdNightSleep.md`)
+- **Sharp/Blunt Resistance**: Ned leg jabs + friction slap (Sharp L4 ~770, Blunt L4 ~513 friction slap soft)
 - **Poison Resistance**: Ned toxin jabs (L6 ~5.4k cum; soft-repeat after daily doses)
 - **Basic Rune Mastery**: L1 → **L5** (~2,910 cum; reject burns + tiny Fire Orb lighter scraps that always fired; combat later)
 - **Basic Mana Scribing**: Still low (L1 ~2 cum; rare word drills; L2 by Ch 23)
@@ -372,6 +373,8 @@ Chapter-ordered list of runes Roland Arden (D) has crafted or created in complet
 - **Full schematics completed**: 19 total this skip (3 pre-skip + 16 during) = Lesser (7): Detonation, Impact, Fire Orb, Mana Bolt/Orb, Fire/Water/Light Bolt, Fire/Water/Light Detonation, Aqua Orb; Common (9): Fire Arrow, Orb of Light, Aqua Ball, Mana Arrow/Ball, Light arrow, Fireball, Water arrow, Light ball
 - **Pure-mana set**: Mana Bolt + Mana Arrow + Mana Orb + Mana Ball (Bolt/Orb/Arrow/Ball shapes all have pure-mana variants)
 - **Tiny Fire Orb lighter scraps**: Coin-corner / scrap-paper Lowest Fire Orbs for utility light/heat and bored keep-alives between main production; always seated and fired (never kept); ~1,615 over skip (Phase A ~20/day, B ~15/day, C ~12/day); contribute to Rune Mastery L5 along with reject burns (~1,295)
+- **Friction training**: Spare-mana friction heat on skin/small patches for Heat spell + Heat Resistance; friction slap/drag/pinch-strike for Blunt/Sharp/Pain; see `Story/Notes/FrictionGrill.md`
+- **Cold Resistance**: L4 from cold night sleep only (~220 cold nights at Crow room); no frost grids or freeze patches this skip; cold lodging in autumn/winter months; see `Story/Notes/ColdNightSleep.md`
 - **Desk rhythm**: Inn desk most days; Fire Orb practice when fails stack; no shop contract; no dungeon main; adventure motive (auction freedom vs six-year desk curse), not greed-first
 - **Lazy Diagnosis grafts**: Component swaps with unmodified ratios; Diagnosis marks faults; occasional paper spontaneous burn
 - **Press matrix technique**: Relief stamp for repeated patterns; remade when wrong; then seconds per pull
