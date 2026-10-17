@@ -1,6 +1,6 @@
 # Blunt Trauma: Complete Healing Cycle (Average Adult Man)
 
-> Earth reference / invent loot. Not locked law. Blunt Resistance / Recovery: `../../../Progression/SkillsDesign.md`, `../../../Progression/Attributes.md`. Blood restore **M**: `Attributes.md`. Estate wound grind: `../../../../Story/Notes/Capabilities/EstateWoundGrind.md`. Fatigue / sleep during repair: `FatigueRestSleep.md`.
+> Earth reference / invent loot. Not locked law. Blunt Resistance / Recovery: `../../../Progression/SkillsDesign.md`, `../../../Progression/Attributes.md`. Blood restore **M**: `Attributes.md`. Estate wound grind: `../../../../Story/Notes/Capabilities/EstateWoundGrind.md`. Fatigue / sleep during repair: `FatigueRestSleep.md`. Blunt surgical planes: `../Medicine/BluntDissection.md`. Martial strike-force ceilings / internal-hit analogs: `../../../Combat/PanzerKunstFishmanKarate.md`.
 
 Terra **Blunt Resistance** cuts harm taken (−10%/level). **Recovery** cuts close time for soft tissue and blood (−10%/level, stacks with Vit/End **M**). This file is the Earth baseline those skills modify. Does not regrow limbs or replace dead neurons.
 

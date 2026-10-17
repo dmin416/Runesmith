@@ -18,7 +18,7 @@ Heat / pressure-friction (stove kindling / train thermal family). Multitasking c
 
 - **Burn-train himself** — friction heat on skin / small patch → **Heat** (spell) + **Heat Resistance** (+ Pain as it bites).
 - **Hit / scrape himself** — friction slap, drag, pinch-strike → **Blunt** / **Sharp** (abrasion) / **Pain**.
-- Utility — warm tools, light a corner; tiny Fire Orb lighter scraps still count when fired.
+- Utility — warm tools, light a corner; tiny Fire Orb lighter scraps still count when fired. Ch 23 productizes these as **Match Runes** (pea scrap, one blood drop, empty, designed **5**, ~**1 min**/make, **1 LC** each / **1 SS** per ten; `Notes.md` / `Spells.md`).
 
 Do not invent a named **Friction** skill unless a chapter unlocks one. Credit Heat / Heat Res / Pain / Blunt / Sharp as the dose fits.
 

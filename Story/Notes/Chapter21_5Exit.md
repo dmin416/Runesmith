@@ -143,3 +143,4 @@ Overall XP bar enter **7029** → exit **~16,034,218** (schematics **+27,000** +
 - Year ledger after exit (d121–365, later use): `Chapter21_5DayByDayAfterExit.md`
 - Full 365 CSV: `Chapter21_5DaySkillYear.csv`
 - Short homes: `Notes.md` · `Skills.md` · `Status.md` · `Items.md` · `Experience.md` · `NedStatus.md` · `Timeline.md`
+- Next money / skills close (Ch 23 quiet room / line 715): `Chapter23QuietRoom.md`

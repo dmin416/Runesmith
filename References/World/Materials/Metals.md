@@ -1,6 +1,6 @@
 # Metals
 
-> Availability tags: `Materials.md`. Ambient altitude `C` / soak `A = √C`: `../Science/Energy/ManaConcentration.md`. Shop craft: `../Science/Metallurgy/CraftMetal.md`. Path η_cond: `../../Runes/Energy.md`.
+> Availability tags: `Materials.md`. Ambient altitude `C` / soak `A = √C`: `../Science/Energy/ManaConcentration.md`. Shop craft: `../Science/Metallurgy/CraftMetal.md`. Path η_cond: `../../Runes/Energy.md`. Structural steel / aluminum EE-EC: `BuildingMaterials.md`. Deep production / strengthening: `BuildingMetals.md`.
 
 ## Narrative
 
@@ -153,7 +153,7 @@ Nonmagnetic austenitic hosts when the channel zone is converted. Cleaner path fe
 
 ### Adamantium (titanium)
 
-Converted titanium. **Molten: cast once.** After set: indestructible to ordinary force. No forge, cut, or reshape. Destroy by casting-key resonance (street) or electron overload melt (rare). Every piece must be cast in final form. Mundane titanium is not street stock.
+Converted titanium. **Molten: cast once.** After set: indestructible to ordinary force. No forge, cut, or reshape. Destroy by casting-key resonance (street) or electron overload melt (rare). Every piece must be cast in final form. Mundane titanium is not street stock. Earth invent feel for rigid / unbreakable shafts and gears (geometry and traction still limit): `../Science/Vehicle/ShaftJointTransmission.md`.
 
 **Enchanting / runes (locked):** adamantium **can** be enchanted and runed. The frozen lattice makes it a **stiff host**: seating takes more work, more setup skill and usually more paid mana than mythril or star steel because the metal will not yield, anneal or take a casual groove after set. Groove geometry is cast in at pour, or cut only by carefully driving the casting key along a line (singing chisel / resonant press). Once seated, the path geometry never warps and the piece never dulls, so finished adamantium runic gear is prestige-permanent. Mythril stays the easier clean everyday host. Cladding a softer path metal under an adamantium shell remains a valid simpler build.
 

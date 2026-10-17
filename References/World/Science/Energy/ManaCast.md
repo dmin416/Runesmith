@@ -438,29 +438,35 @@ Hold rows are **grip / restraint** only. Airborne hover and flight use the power
 
 ## Mana Shield
 
-Barrier hit count from the shared cast law, scaled by shield area and hold time. **Baseline cast = 100 mana** (2× normal Arrow, 4× normal Bolt). Overcharge = mana spent.
+Barrier hit count from the shared cast law, scaled by shield area and hold time. **Baseline cast = 100 mana** (2× normal Arrow, 4× normal Bolt). Street overcharge soft cap **~2×** baseline (scream band). Overcharge = mana spent.
 
-**Fight-scale map** (physical tip KE vs shield pools, worked Ch 14 lock): `../../../Combat/AttackScale.md`.
+**Fight-scale map** (physical tip KE vs shield pools, worked Ch 14 lock): `../../../Combat/AttackScale.md`. Master consolidator (grip, hold drain, extended threat tables): `ManaShield.md`.
 
 ```
-N = floor( 20 × M × η(L) × μ(INT) × S × R × A / J )
+Pool     = 10 × M × η(L) × μ(INT) × S × R × A          // head-on joules
+Hit      = J × sin²(θ)                                  // glancing angle
+G(v)     = 0.2 + 0.8 × v²/(v² + 40²)                    // mundane; skills/spells G = 1
+N        = floor( Pool / (Hit / G) )                    // whole attacks; N = 0 → pierces
 
 M      = shield mana
 J      = threat energy (J)
 η(1)   = 0.3
 η(L)   = 1 + (L - 2) × 2/7              // L2-L9
 μ(INT) = (INT / 15)^0.8
-A      = √C                               // ambient; open ground A = 1
-S      = √(0.2 / area)                    // area = shield face, m²
-R      = 1 - (0.1 × area × t) / M         // t = seconds held
+A      = √C                               // ambient; open ground A = 1; mana paid unchanged
+S      = min(1, √(0.2 / area))            // area = shield face, m²
 ```
 
-The leading **20** is `2 × 10`: paid joules per mana times the focused 45° absorb share (50% of threat). Whole attacks only; round down. Tables at open-ground **A = 1**.
+Default **focused disk settles at 45°** (Hit = J/2). At that angle, N matches the old `20 × M × … / J` counts. Whole attacks only; round down. A stopped hit spends `Hit / G` from the pool; a failed shield collapses and the attack passes whole. Tables at open-ground **A = 1**.
 
-| Shape | area | S | R |
+| Shape | area | S | Notes |
 |---|---|---|---|
-| Focused disk | 0.2 m² | 1 | 1 (no area bleed) |
-| Semicircle | 6.28 m² | 0.178 | 1 - 0.628 t / M |
+| Focused disk | 0.2 m² | 1 | No area bleed. Default face 45°. Give ~0.05 m |
+| Semicircle / body bubble | 6.28 m² | 0.178 | Area bleed 0.1% of starting pool per s per 6.28 m². Give ~0.15 m |
+| Full sphere | 12.57 m² | 0.126 | Airborne / underwater sealed use |
+| Door-sized elemental wall | ~6 m² | ~0.18 | Ch 27 wall faces; same band as a bubble |
+
+**Hold drain:** 0.3 J/s per newton of steady force (resting weight, wind, water, slow blade press). Separate from area bleed. **Momentum** of a stopped hit goes to the caster unless the shield is anchored into the ground. **Selectivity (unsealed):** air, gas, smoke, radiant heat pass; condensed matter and water blocked. Sealing blocks gas and pays full fluid push as hold drain. **Explosive / blast spells** use G = 1 (full pool). Optional multi-shell layering: shell n costs `1.5^(n−1)` of base mana; bonded pools add; spaced shells check separately (`ManaShield.md` Part 11).
 
 ### Threat energies (J)
 
@@ -478,16 +484,18 @@ The leading **20** is `2 × 10`: paid joules per mana times the focused 45° abs
 | Dragon claw | 35,000 |
 | Trebuchet stone | 90,000 |
 
-### Profiles (focused disk, k = 0.8)
+### Profiles (focused disk, head-on)
 
-| Profile | INT | L | Effective pool 50 mana (20 M η μ) | Effective pool 100 mana |
-|---|---|---|---|---|
-| Novice | 15 | 1 | 300 J | 600 J |
-| Apprentice | 40 | 2 | 2,190 J | 4,380 J |
-| Journeyman | 73 | 3 | 4,560 J | 9,120 J |
-| Adept | 100 | 5 | 8,470 J | 16,940 J |
-| Master | 200 | 7 | 19,300 J | 38,600 J |
-| Archmage | 500 | 9 | 49,600 J | 99,200 J |
+| Profile | INT | L | Pool 50 mana head-on | Pool 100 mana head-on | At 45° (vs head-on J) |
+|---|---|---|---|---|---|
+| Novice | 15 | 1 | 150 J | 300 J | 300 J / 600 J |
+| Apprentice | 40 | 2 | 1,095 J | 2,190 J | 2,190 J / 4,380 J |
+| Journeyman | 73 | 3 | 2,280 J | 4,560 J | 4,560 J / 9,120 J |
+| Adept | 100 | 5 | 4,235 J | 8,470 J | 8,470 J / 16,940 J |
+| Master | 200 | 7 | 9,650 J | 19,300 J | 19,300 J / 38,600 J |
+| Archmage | 500 | 9 | 24,800 J | 49,600 J | 49,600 J / 99,200 J |
+
+Whole-attack count tables below assume the default **45° disk** (same N as the old ×20 formula).
 
 ### Whole attacks (focused disk, 50-mana shield)
 
@@ -634,5 +642,7 @@ Core rupture rows are **mana cores / mana stones**, not jewelry gems. Unbreakabl
 | 45° | 50% |
 | 30° | 25% |
 | 15° | 7% |
+
+**Rune shield hosts:** waste heat into the host follows the shared rune waste law (`../../../Runes/Energy.md`: half of `(1 − η_cond)` into the piece). Lowest-quality silver cooks fastest; allow cooldown or use better conductors / higher quality for rapid re-triggers.
 
 See also `../../../Combat/Spells.md` (Heat, Mana Hands, Mana Shield).

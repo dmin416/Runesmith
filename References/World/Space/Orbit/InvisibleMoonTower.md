@@ -1,6 +1,6 @@
 # Invisible Moon-Throwing Tower
 
-> **Planning feel, not locks.** Hub: `../Space.md`. Adamantium law: `../../Materials/Metals.md` (cast-final, ~0 expansion, extreme heat conduction, rings). Orbit energy compare: `OrbitEnergy.md`. Moons: `../Moons.md`.
+> **Planning feel, not locks.** Hub: `../Space.md`. Adamantium law: `../../Materials/Metals.md` (cast-final, ~0 expansion, extreme heat conduction, rings). Orbit energy compare: `OrbitEnergy.md`. Moons: `../Moons.md`. Rigid filament past the Moon (Earth invent): `KilometerHair.md`.
 
 Figures here are planning feel for an invisible co-rotating adamantium tower that throws payloads toward the Moon.
 

@@ -1,6 +1,6 @@
 # Permeation, Breathable Waterproof Materials and Barriers
 
-> Earth invent loot. Not locked law. Street tags: `Materials.md`. Clear glass / foil feel: `TranslucentMaterials.md`. Graphene invent: `ExoticMaterials.md`. Wet gear: `../Science/Invent/ClothingTechnology.md`, `ShoeTechnology.md`. Boar taint (skatole): `../../Food/FoodDesign.md`. Metallic H storage feel: `ExoticMaterials.md`. H2 / He lifting gas and film leak rates: `../Science/Energy/LighterThanAir.md`.
+> Earth invent loot. Not locked law. Street tags: `Materials.md`. Clear glass / foil feel: `TranslucentMaterials.md`. Graphene invent: `ExoticMaterials.md`. Wet gear: `../Science/Invent/ClothingTechnology.md`, `ShoeTechnology.md`. Boar taint (skatole): `../../Food/FoodDesign.md`. Metallic H storage feel: `ExoticMaterials.md`. H2 / He lifting gas and film leak rates: `../Science/Energy/LighterThanAir.md`. Building vapor / breathability: `CleanableSurfaces.md`.
 
 ---
 

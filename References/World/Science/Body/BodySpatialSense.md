@@ -1,6 +1,6 @@
 # Body Spatial Sense: Proprioception, Vestibular and Interception
 
-> Earth reference / invent loot. Not locked law. Combat `t_r ≈ 0.2 s`: `../../../Combat/SpeedVsIntellect.md`. Pursuit / RT tables: `SpeedPerception.md`. Full-sphere vision: `Vision360.md`. Weight / length precision: `MeasurementPerception.md`. Motor skill vs recall: `MindBodySkill.md`. Agility / Acrobatics / Dodging: `../../../Progression/SkillsDesign.md`.
+> Earth reference / invent loot. Not locked law. Combat `t_r ≈ 0.2 s`: `../../../Combat/SpeedVsIntellect.md`. Pursuit / RT tables: `SpeedPerception.md`. Full-sphere vision: `Vision360.md`. Weight / length precision: `MeasurementPerception.md`. Motor skill vs recall: `MindBodySkill.md`. Fascia / body-wide felt sense invent: `EnhancedHumanPerception.md`. Agility / Acrobatics / Dodging: `../../../Progression/SkillsDesign.md`.
 
 Test case: đá cầu (Vietnamese shuttlecock kicking), including back-heel and behind-the-back kicks. Figures below are for healthy, untrained adults unless noted.
 

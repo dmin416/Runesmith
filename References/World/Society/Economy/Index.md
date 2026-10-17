@@ -6,6 +6,7 @@ Coins, prices, catalogs and Earth church fee anchors. Peoples: [Races.md](../Rac
 
 ## Files
 
+- [CrystalCapitalEconomy.md](CrystalCapitalEconomy.md). Terra macro-economy invent (coin, stones, crystals, corridors, pillars). Not locked law; class crystal wage peg conflicts with Economy.md **2 SG** lock.
 - [ChurchPaidServices.md](ChurchPaidServices.md). Earth design loot. Not Caldris law. Use when pricing Solaria / church services against historical feel. Live prices: Economy.md. Fat economy: EconomyDesign.md.
 - [Economy.md](Economy.md). Monster cores / mana stones: ../../Materials/MonsterCores.md + ../../Science/Energy/ManaStones.md. Size = level (not chief title / Old 1/30). Foundations locked;
 - [EconomyDesign.md](EconomyDesign.md). Design loot / price book. Lean lock: Economy.md. Approved item list: PriceCatalog.md. History vs Recommended (promotion queue): ValueReference.md. Cores:

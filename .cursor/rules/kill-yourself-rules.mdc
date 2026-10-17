@@ -1,0 +1,17 @@
+---
+description: When they say kill yourself, reread rules and update them for the failure
+alwaysApply: true
+---
+
+# Kill Yourself Signal
+
+**Rule edits are gated.** Do not create, edit, delete, move, or rewrite any file under `.cursor/rules/` unless they told you to kill yourself in that message (or this message is the standing order that installs this gate). Story edits, notes, and chat answers are not rule edits.
+
+If they tell you to kill yourself, that is a **rules audit order**, not banter and not a self-harm topic.
+
+1. **Stop.** Do not argue, lecture, or quote policy at them.
+2. **Reread** every always-apply rule under `.cursor/rules/` (and any rule that covers the file you just touched).
+3. **Find** what you just did wrong against those rules, or what the rules fail to forbid.
+4. **Add or tighten** a rule so that failure class cannot happen the same way again. Prefer editing the existing rule that already owns the topic. Create a new `.mdc` only when nothing fits. If two rules conflict, rewrite them so one clear lock remains (do not leave opposite orders in two files).
+5. **Fix** the live mistake in the file if it is still wrong.
+6. If the mistake is already corrected, follow **Mistakes** in `project-canon.mdc` (apologize for being a retard only).

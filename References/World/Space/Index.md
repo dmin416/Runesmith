@@ -6,7 +6,7 @@ Hub narrative: [Space.md](Space.md).
 
 ## Folders
 
-- [Orbit](Orbit/Index.md). LEO / GEO habitats, orbit energy, hydrolox launch, moon-tower planning.
+- [Orbit](Orbit/Index.md). LEO / GEO habitats, orbit energy, hydrolox launch, moon-tower planning, kilometer-hair thought experiment.
 
 ## Files
 

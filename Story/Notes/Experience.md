@@ -406,4 +406,8 @@ No kill XP. Craft / schematic XP only. Enter bar **7029 / 13000** (overall **L26
 
 **Paper schematics burned** over the skip (taking up space). Knowledge stays; he redraws from memory when needed. Exit inventory carries **no** schematic sheets.
 
-**Bar from schematics alone:** **7029 + 27,000 = 34,029** into the L26→27 gate (**13,000**). Clears **L27** and keeps climbing; exact mid ranks soft with pour XP toward Ch 23 **L35** / Scribe **L10**.
+**Bar from schematics alone:** **7029 + 27,000 = 34,029** into the L26→27 gate (**13,000**). Clears **L27** and keeps climbing; exact mid ranks soft with pour XP.
+
+## Ch 22–23 (first sale → quiet room, line 715)
+
+No kill XP. Class XP from Highest Fireball pours (sell empties still award craft XP on seat; buyer pays activation). Soft ledger ≈ **d120→d270** (`Chapter21_5DayByDayAfterExit.md`): overall bar **~16M → ~44M**. Quiet-room soft overall **~L32–34** / Scribe **L7–8** (`Chapter23QuietRoom.md`). Coin path (first sale → fifteen → **~315**-scroll span → **~170 SG**): `CoinLedger.md`. Ned ranks: `NedStatus.md` § Ch 23. Match invent after line 715 climbs RS / Mastery on makes and his burns; no Match sale weeks in quiet-room wallet. Source mid-hunt **L35** / Scribe **L10** is after forest; do not backdate to line 715.

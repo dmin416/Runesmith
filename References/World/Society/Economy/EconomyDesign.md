@@ -1,6 +1,6 @@
 # Economy Design
 
-> **Design loot / price book.** Lean lock: `Economy.md`. **Approved item list:** `PriceCatalog.md`. **History vs Recommended (promotion queue):** `ValueReference.md`. Cores: `../../Materials/MonsterCores.md`.
+> **Design loot / price book.** Lean lock: `Economy.md`. **Macro invent (coin / stone / crystal pillars, corridors, stress):** `CrystalCapitalEconomy.md` (not locked; crystal wage peg differs from live **2 SG**). **Approved item list:** `PriceCatalog.md`. **History vs Recommended (promotion queue):** `ValueReference.md`. Cores: `../../Materials/MonsterCores.md`.
 > Domain books: food `../../../Food/FoodPrices.md`; gear `../../../Combat/GearPrices.md`; scrolls `../../../Runes/ScrollEconomy.md`; bags `SpatialBagPrices.md`; story chronology `../../../../Story/Notes/StoryPrices.md`; early ledger `../../../../Story/Notes/CoinLedger.md`.
 
 ## Rewrite price lock

@@ -1,6 +1,6 @@
 # Piloting and Driving Positions
 
-Hub: `Index.md`. Ride under the seat: `Suspension.md`. What the hands and feet operate: `Brakes.md`, `Wheels.md`. Exposed vs shelled pilot drag: `PerfectGlider/DesignB.md`. Weight-shift flying: `PerfectGlider/Joints.md`.
+Hub: `Index.md`. Ride under the seat: `Suspension.md`. What the hands and feet operate: `Brakes.md`, `Wheels.md`. Body G limits by axis and posture: `../Body/GForceTolerance.md`. Exposed vs shelled pilot drag: `PerfectGlider/DesignB.md`. Weight-shift flying: `PerfectGlider/Joints.md`.
 
 The best position is the one that lets the eyes see the path, the hands and feet stay on the controls, and the spine and the harness take the loads. No single seat wins for a wagon, a fighter, and a glider.
 

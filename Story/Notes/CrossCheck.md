@@ -17,12 +17,14 @@ Update these together when a chapter changes his sheet. Keep history by chapter.
 | Change in chapter | Update |
 |---|---|
 | Status / HP MP SP / attributes / class / effects / affinities / rank | `Status.md` |
-| Ch 1–20 time + sheet + skill deltas (spine) | `ChapterLedger.md`, `Attributes.md`, `Timeline.md` |
+| Ch 1–23 time + sheet + skill deltas (spine; quiet room via `Chapter23QuietRoom.md`) | `ChapterLedger.md`, `Attributes.md`, `Timeline.md` |
 | Attribute bucket math (Body / Class / Skills-Traits) | `StatusBreakdown.md` |
 | Skills, traits, titles (Passive, Active, Spell, Class bonuses, trait cards) | `Skills.md` |
 | Gear / carried items / Identify item blocks / pouch snapshot | `Items.md` |
 | Consumable item types (healing potions, etc.) | `References/Items/Items.md` |
 | Kill XP, bars, level-ups, kill totals, grind ledgers (coin tied to kills) | `Experience.md` |
+| Pouch / auction / scroll-sale coin path (early + Edelgard + Match rates) | `CoinLedger.md`, `StoryPrices.md`, `Chapter23QuietRoom.md` (quiet-room mark) |
+| Ch 21.5–23 spine deltas (time / sheet / coin / Ned) | `ChapterLedger.md` |
 | First-clear skill index / Source delay list | `Roland's Skills.md`, `Early Logical Skills.md` |
 | Rewrite intent, plot beats, companion type, formatting rules | `Notes.md` |
 | Ned companion level / form / attributes / skills by chapter | `NedStatus.md` |

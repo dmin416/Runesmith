@@ -2,7 +2,7 @@
 
 Limits, efficiency, power, computational density and programming for a bidirectional eight-state crystal computer.
 
-Hub: `CrystalMinds.md`. Architecture comparison and ignition thresholds: `CrystalComputerMath.md`. Focus capacity: `FocusCapacity.md`. Science root: `../Science.md`. Nav: `Index.md`.
+Hub: `CrystalMinds.md`. Architecture comparison and ignition thresholds: `CrystalComputerMath.md`. Focus capacity: `FocusCapacity.md`. Animal neuron tiers / crystal-copy picks: `AnimalBrains.md`. Science root: `../Science.md`. Nav: `Index.md`.
 
 **Owns:** octonary diamond substrate, heat walls, reversible compute, density, programming stack. Comparison table → `CrystalComputerMath.md`. Story copies / segments → `CrystalMinds.md`.
 
