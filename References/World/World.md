@@ -31,6 +31,7 @@ Hub for Terra. Locked world facts live here in short form. Deep files hold the r
 | `Society/Races.md` | Peoples; fat: `RacesDesign.md` |
 | `Society/Population.md` | Kingdom population formulas |
 | `Society/Economy/Economy.md` | Coins, prices, potion grades; fat: `Society/Economy/EconomyDesign.md` |
+| `Society/Economy/CrystalCapitalEconomy.md` | Terra macro-economy invent (coin, stones, crystals, corridors); not locked law |
 | `Society/Economy/ChurchPaidServices.md` | Earth medieval/early-modern church fee anchors (design loot) |
 | `Fauna/Creatures.md` | Creatures (early ladder locked; deep fill later); fat: `Design/CreaturesDesign.md` |
 | `Fauna/MonsterThreat.md` | Narrative threat dial vs human (baselines + g(L); not XP) |

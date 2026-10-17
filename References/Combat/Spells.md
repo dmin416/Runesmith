@@ -32,9 +32,9 @@ Guided or homing mana arrow variants.
 
 ### Mana Shield
 First seen: Chapter 10
-Mana barrier for caster or allies. One of Mage’s three basic class spells with Bolt and Arrow. Chapter 11 party cast on Sahildr vs a spiked boar: *Source of all magic, heed my call. Let your strength be mine and protect which I deem worthy.* / *Mana Shield!* Blue bubble forms then shrinks to a **hard disk** over the target’s front (Source: bubble aid only). Chapter 14: extra mana poured into the bubble around Reyna vs a T2 fencer thrust; still pierced but bought the parry. Chapter 27: can reshape lesser shield into a tight earth wall (and other elemental variants) via surface rune edits.
+Mana barrier for caster or allies. One of Mage’s three basic class spells with Bolt and Arrow. Chapter 11 party cast on Sahildr vs a spiked boar: *Source of all magic, heed my call. Let your strength be mine and protect which I deem worthy.* / *Mana Shield!* Blue bubble forms then shrinks to a **hard disk** over the target’s front at a default **45°** face (Source: bubble aid only). Chapter 14: extra mana poured into the bubble around Reyna vs a T2 fencer thrust; still pierced but bought the parry. Chapter 27: can reshape lesser shield into a tight earth wall (and other elemental variants) via surface rune edits; door-sized wall faces use shape ~0.18 (bubble band).
 
-**Rewrite physics:** disk area, hit counts, and the shield formula are in `../World/Science/Energy/ManaCast.md`. Cast law: `../Runes/Energy.md`.
+**Rewrite physics:** disk area, hit counts, and the shield formula are in `../World/Science/Energy/ManaCast.md`. Master consolidator (grip, hold drain, threat tables): `../World/Science/Energy/ManaShield.md`. Cast law: `../Runes/Energy.md`. Fight map: `AttackScale.md`.
 
 ### Lesser Shield
 First seen: Chapter 167
@@ -92,6 +92,9 @@ Stronger fire AOE scroll; shop talk **≈3 large silvers**; fair Intermediate **
 ### Fire Orb / Runic Fire Orb
 First seen: Chapter 16 (Runic Mana Scribe trial); schematic Chapter 19
 **Orb** family: a soft fire-filled sphere, bigger than a Bolt, practically useless as a weapon (no kinetic / compression). Designed cast **25**; craft XP **25**; Highest runic activation **25** (`BasicSpellShapes.md`, `../Runes/MagicScrollMaking.md`). Trial four-stage chain; Rank lessers. Do not price as Ball / Fireball **400**.
+
+### Match Rune (micro Fire Orb lighter)
+Ch 23 volume product (desk already burned tiny Fire Orb lighter scraps). Same Fire Orb chain, whole diagram shrunk onto a **pea-sized** paper scrap. Ink: **one drop** of blood drawn with Mana Hand (his / Ned mix as usual homemade). **Highest** only. **Empty** (absorbing): buyer pays designed **5** on use (brief mostly-fire bead to light tinder, candle, stove, pipe; not a weapon). One-shot: scrap burns. Fluent make wall **~1 min** each (known Orb, pea footprint; Hands pen/press; no fill). Each burn counts **1** Basic Rune Mastery activation. Price: `../Runes/ScrollEconomy.md` / `StoryPrices.md`.
 
 ### Runic Fire Arrow
 First seen: Chapter 20 (Grimboodle shelf); Roland's product Chapter 22

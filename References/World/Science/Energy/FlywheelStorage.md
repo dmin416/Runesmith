@@ -1,6 +1,6 @@
 # Indestructible Flywheel Storage (Rim-Weighted)
 
-Hub: `../Science.md`. Pair handling / generator bottleneck: `Generators.md`. Laser / light / load runtimes: `FlywheelApplications.md`. Earth storage ladder (flywheel vs batteries / hydro / H₂): `CleanestUsefulEnergyStorage.md`. Pinch launch: `Projectiles.md`. Recoil: `Kinetic.md`. Indestructible stock: `../../Materials/Metals.md` (adamantium: **no stretch, no bend**). Perfect-conductor / perfect-insulator speed ceiling and mana-per-kg table: `ElectricMotors.md`. Stocks: `../../Materials/MaterialConsiderations.md`.
+Hub: `../Science.md`. Pair handling / generator bottleneck: `Generators.md`. Laser / light / load runtimes: `FlywheelApplications.md`. Earth storage ladder (flywheel vs batteries / hydro / H₂): `CleanestUsefulEnergyStorage.md`. Pinch launch: `Projectiles.md`. Recoil: `Kinetic.md`. Indestructible stock: `../../Materials/Metals.md` (adamantium: **no stretch, no bend**). Perfect-conductor / perfect-insulator speed ceiling and mana-per-kg table: `ElectricMotors.md`. Stocks: `../../Materials/MaterialConsiderations.md`. Flywheel saw / arsenals invent: `../../Materials/IndestructibleArsenal.md`.
 
 Fiction baseline: perfect counter-rotating pair, zero-friction bearings, hard vacuum, superconducting cryogenic motor/generator (silver/gold conductors), magnetic levitation in normal operation.
 

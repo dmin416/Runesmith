@@ -1,6 +1,6 @@
 # Kinetic
 
-Hub: `../Science.md`. Cast law: `ManaCast.md`. Flywheel pairs: `Generators.md`. Pinch launch energies: `Projectiles.md`. Superposition vs capped energy: `KineticImpartation.md`. Human recoil feel: `../Body/Body.md`.
+Hub: `../Science.md`. Cast law: `ManaCast.md`. Flywheel pairs: `Generators.md`. Pinch launch energies: `Projectiles.md`. Superposition vs capped energy: `KineticImpartation.md`. Human recoil feel: `../Body/Body.md`. Rigid hair penetration / slice invent: `../../Materials/UnbreakableHair.md`.
 
 Potential apps under Manipulate Mana / Mana Hands / thrust. Mana from Useful joules:
 

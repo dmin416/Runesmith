@@ -10,6 +10,7 @@ Stones, cast tables, batteries, engines, motors, fans, pumps, compression, fligh
 
 - [ManaStones.md](ManaStones.md). Size / mass / recharge / market tables (dump law in MonsterCores)
 - [ManaCast.md](ManaCast.md). Spell-specific cast tables (shared law in ../../Runes/Energy.md)
+- [ManaShield.md](ManaShield.md). Mana Shield master consolidator (pools, grip, hold drain, threats). Live head-on ×10 pool in AttackScale / ManaCast
 - [ManaConcentration.md](ManaConcentration.md). Ambient mana density vs altitude (C, A = √C); layers/orbits: ../../Space/
 - [RefinedMana.md](RefinedMana.md). Stillwire / Lightthread from stones
 - [Batteries.md](Batteries.md). Chemical cells vs mana stones
@@ -17,7 +18,7 @@ Stones, cast tables, batteries, engines, motors, fans, pumps, compression, fligh
 ## Prime movers
 
 - [Engines.md](Engines.md). Which prime mover: steam, Stirling, or electric motor
-- [SteamEngines.md](SteamEngines.md). Reciprocating and turbine steam; boilers; efficiencies
+- [SteamEngines.md](SteamEngines.md). Reciprocating and turbine steam; boilers; efficiencies. Earth industrial / railway chain: ../Invent/ArtisanalToIndustrial.md
 - [StirlingEngines.md](StirlingEngines.md). Closed-cycle external heat; alpha / beta / gamma; regenerator
 - [ElectricMotors.md](ElectricMotors.md). DC, AC, reluctance, linear, and special motor types. Ceiling: air-core mythril axial flux in an adamantium cage. Design-loot perfect-insulator rotor and mana-per-kg table at the end
 - [Generators.md](Generators.md). Faraday generators; paired flywheels; cryogenic / relativistic drain bottleneck
@@ -50,6 +51,7 @@ Stones, cast tables, batteries, engines, motors, fans, pumps, compression, fligh
 - [Kinetic.md](Kinetic.md). Kinetic pours / throws; recoil / countermass
 - [KineticImpartation.md](KineticImpartation.md). Superposition vs added energy; capped J vs fixed-force N² draw; merged projectiles
 - [Projectiles.md](Projectiles.md). Projectile physics; flywheel pinch launch
+- [ProjectileShapes.md](ProjectileShapes.md). Shapes, flight patterns, stability; atmosphere and vacuum catalog
 - [GuidedProjectiles.md](GuidedProjectiles.md). Guided munitions, mechanical vs computer guidance, turn-radius limits
 - [GunpowderFirearms.md](GunpowderFirearms.md). Medieval / Victorian powder chemistry and raw materials
 

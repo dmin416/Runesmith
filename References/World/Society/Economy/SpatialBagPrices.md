@@ -1,6 +1,6 @@
 # Spatial Bag Prices
 
-> **Design price book.** Bag **laws** (living / dead / nest / freeze): `../../../Runes/Magic.md`. Currency / labor-days method: `EconomyDesign.md`. Capacity ladder below wins over flat “5–50 SG” guesses.
+> **Design price book.** Bag **laws** (living / dead / nest / freeze): `../../../Runes/Magic.md`. Currency / labor-days method: `EconomyDesign.md`. **Macro role (courier vs bulk freight):** `CrystalCapitalEconomy.md`. Capacity ladder below wins over flat “5–50 SG” guesses.
 
 ## Prices
 

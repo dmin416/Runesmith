@@ -2,7 +2,7 @@
 
 A biological fabricator that synthesizes liquid precursors in internal glands, then extrudes, sprays or casts them into solid materials. Every material below has a real biological analog. Entries marked **(magic)** extend real chemistry past what any known animal does.
 
-This is a fabrication catalog. It is not Ned's species sheet. Ned is a Needle Worm (`../../Fauna/Species/NeedleWorm.md`). His silk is cellulose (`BiologicalSilks.md`). Silk numbers, reel and degum stay there. Glue numbers stay in `BiologicalAdhesives.md`. Plant latex, gutta-percha and vulcanization as craft stay in `RubberAndInsect.md`. The **(magic)** rubber rows here are the worm making polyisoprene itself.
+This is a fabrication catalog. It is not Ned's species sheet. Ned is a Needle Worm (`../../Fauna/Species/NeedleWorm.md`). His silk is cellulose (`BiologicalSilks.md`). Silk numbers, reel and degum stay there. Glue numbers stay in `BiologicalAdhesives.md`. Mass-construction invent loot (CR binder, roads, silk family scaling): `CRBinder.md`. Metal printer vehicle / appliance manufacturing (tiers, forge, heat treat): `../Invent/PrinterManufacturing.md`. Plant latex, gutta-percha and vulcanization as craft stay in `RubberAndInsect.md`. The **(magic)** rubber rows here are the worm making polyisoprene itself.
 
 Resilin in the table below is the literature band, about 92 to 97%. The working figure in `RubberAndInsect.md` and `Biomaterials.md` is about 95%.
 

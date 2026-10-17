@@ -1,6 +1,6 @@
 # Tissue Loss: Recovery Limits and Healing Multiplied
 
-> Earth reference / invent loot. Not locked law. Recovery / Rapid Recovery: `../../../Progression/SkillsDesign.md`, `../../../Progression/Attributes.md`. Soft-tissue baselines: `BluntTraumaHealing.md`, `PiercingSlicingWounds.md`, `BurnsHealing.md`, `FrostbiteColdInjury.md`, `ToxinExposureRecovery.md`. Fatigue: `FatigueRestSleep.md`.
+> Earth reference / invent loot. Not locked law. Recovery / Rapid Recovery: `../../../Progression/SkillsDesign.md`, `../../../Progression/Attributes.md`. Soft-tissue baselines: `BluntTraumaHealing.md`, `PiercingSlicingWounds.md`, `BurnsHealing.md`, `FrostbiteColdInjury.md`, `ToxinExposureRecovery.md`. Fatigue: `FatigueRestSleep.md`. Cancer risk of division-based vs template healing: `SuperhumanCancerRisk.md`. Cellular control / regeneration multiples: `CellularControl.md`.
 
 Terra **Recovery** multiplies **speed** of existing repair / regen programs (−10% time per level → ~10× at L9). It does **not** unlock blastema, scarless capacity or neuron replacement. Missing limbs, spinal cord, heart muscle death and critical-size defects still need magic, surgery or capacity-tier skills when those exist.
 

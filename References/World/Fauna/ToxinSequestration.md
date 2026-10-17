@@ -2,7 +2,7 @@
 
 Earth research on **sequestration**: an animal eats a toxic plant, animal or microbe and keeps the toxin in its own body for defense. Different from animals that make their own toxins (most snakes, bees, ladybirds) and from accidental buildup (mercury in tuna).
 
-Story use: monster / companion toxin feel, Poison Resistance training, why diet changes toxicity (captive dart frogs, farmed puffer). Live poison skill: `../../../Progression/SkillsDesign.md`. Ned / Needle Worm toxins: `Species/NeedleWorm.md`, `../../People/Ned.md`. Food spoil / never-eat list: `../../Food/Food.md`. Not a lock on Terra species.
+Story use: monster / companion toxin feel, Poison Resistance training, why diet changes toxicity (captive dart frogs, farmed puffer). Live poison skill: `../../../Progression/SkillsDesign.md`. Ned / Needle Worm toxins: `Species/NeedleWorm.md`, `../../People/Ned.md`. Magical caterpillar / cellular-control venoms and hemolymph: `../Science/Body/CellularControl.md`. Food spoil / never-eat list: `../../Food/Food.md`. Not a lock on Terra species.
 
 ---
 

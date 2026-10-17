@@ -2,7 +2,7 @@
 
 A guide to how wind and rain move around a volcanic island with a central peak and where farms fit best. Built around Hawaiian patterns with Koloa maoli and Nēnē flocks in mind.
 
-Companion: `Crops.md`, `Resources.md`, `Ecology.md`. Month, week and zone numbers: `Weather.md`. Waterfowl: `../../Fauna/Domestic/KoloaAndNene.md`. Magic-world forms: `../../Fauna/Domestic/KoloaAndNeneMagic.md`. Places: `../Places.md` (Dragnis-class islands).
+Companion: `Crops.md`, `Resources.md`, `Ecology.md`. Month, week and zone numbers: `Weather.md`. Waterfowl: `../../Fauna/Domestic/KoloaAndNene.md`. Magic-world forms: `../../Fauna/Domestic/KoloaAndNeneMagic.md`. Places: `../Places.md` (Dragnis-class islands). Farm buildings (purpose / construction): `../../Science/Invent/FarmBuildings.md`.
 
 ---
 

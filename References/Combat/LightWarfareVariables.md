@@ -1,6 +1,6 @@
 # Light Warfare: 20 Additional Variables
 
-> **Design loot / inspiration.** Not locked law. Companion to `LightWarfare.md`. Kit notes: `Lasers.md`. Think vs move: `SpeedVsIntellect.md`. Optics: `../World/Science/Energy/Optics.md`. Each entry covers real-world numbers and what they change about magician and warrior combat. Figures marked "calculated" are derived from standard physics formulas rather than taken from a source.
+> **Design loot / inspiration.** Not locked law. Companion to `LightWarfare.md`. Kit notes: `Lasers.md`. Think vs move: `SpeedVsIntellect.md`. Optics: `../World/Science/Energy/Optics.md`. Rigid microfilament penetration / slice: `../World/Materials/UnbreakableHair.md`. Each entry covers real-world numbers and what they change about magician and warrior combat. Figures marked "calculated" are derived from standard physics formulas rather than taken from a source.
 
 ---
 

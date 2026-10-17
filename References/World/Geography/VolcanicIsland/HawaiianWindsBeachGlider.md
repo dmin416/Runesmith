@@ -2,7 +2,7 @@
 
 > Earth invent loot. Compiled October 2026. Wind figures are typical climatological values from long-term airport, buoy and site records plus local sailing and soaring knowledge. Individual days vary widely. Physics tables computed from first principles. Not locked law.
 >
-> Weather calendar: `Weather.md`. Biomes / trades: `HawaiianBiomes.md`. Beach sand types: `Sands.md`. Perfect glider designs: `../../Science/Vehicle/PerfectGlider/Index.md`, `Hawaii.md`. Flight power: `../../Science/Energy/Flight.md`. Balloons / tethers / buoyancy ascent: `../../Science/Energy/LighterThanAir.md`. Roland glider wishlist: `../../../People/Roland/Goals.md`.
+> Weather calendar: `Weather.md`. Biomes / trades: `HawaiianBiomes.md`. Beach sand types: `Sands.md`. Perfect glider designs: `../../Science/Vehicle/PerfectGlider/Index.md`, `Hawaii.md`. Peak / summit traversal methods: `PeakTraversal.md`. Flight power: `../../Science/Energy/Flight.md`. Balloons / tethers / buoyancy ascent: `../../Science/Energy/LighterThanAir.md`. Roland glider wishlist: `../../../People/Roland/Goals.md`.
 
 ---
 

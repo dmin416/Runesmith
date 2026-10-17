@@ -1,6 +1,6 @@
 # The Biomes of Hawaii: A Detailed Field Guide
 
-Earth Hawaii biome field guide for Dragnis-class island design. Compact zone ladder: `Ecology.md`. Resources: `Resources.md`. Farming wind/rain: `Farming.md`. Minerals: `HawaiianMinerals.md`.
+Earth Hawaii biome field guide for Dragnis-class island design. Compact zone ladder: `Ecology.md`. Island robustness / no-people outlook: `HawaiianEcosystem.md`. Native fauna: `HawaiianNativeAnimals.md`. Introductions: `HawaiianIntroductions.md`. Human-free native tree register, island size, and sector layout: `HawaiianNativeLandscape.md`. Wood seasoning / aging: `../../Science/Biomaterials/AgingWood.md`. Resources: `Resources.md`. Farming wind/rain: `Farming.md`. Minerals: `HawaiianMinerals.md`.
 
 ## Table of Contents
 

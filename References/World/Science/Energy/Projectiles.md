@@ -1,6 +1,6 @@
 # Projectiles
 
-Hub: `../Science.md`. Physical arrowhead forge / cast / aero: `../Metallurgy/Arrowheads.md`. Guided munitions / turn limits: `GuidedProjectiles.md`. Flywheel pairs / storage: `Generators.md`. Recoil / countermass: `Kinetic.md`.
+Hub: `../Science.md`. Physical arrowhead forge / cast / aero: `../Metallurgy/Arrowheads.md`. Shapes / flight patterns / stability catalog: `ProjectileShapes.md`. Guided munitions / turn limits: `GuidedProjectiles.md`. Flywheel pairs / storage: `Generators.md`. Recoil / countermass: `Kinetic.md`. Rigid hair AP / slice invent: `../../Materials/UnbreakableHair.md`.
 
 ## Sphere flight randomness
 

@@ -1,6 +1,6 @@
 # Soft Close Toilets and Toilet Design: Mechanisms, Materials, Design Notes
 
-Earth toilet and soft-close hinge reference for magitech plumbing and civilian invent beats. Pumps / faucet logic: `../Energy/Pumps.md`. Pipe: `../Metallurgy/CopperPipe.md`, `../Metallurgy/Brass.md`. Mobile bath fit: `../Vehicle/MobileHome.md`.
+Earth toilet and soft-close hinge reference for magitech plumbing and civilian invent beats. Pumps / faucet logic: `../Energy/Pumps.md`. Pipe: `../Metallurgy/CopperPipe.md`, `../Metallurgy/Brass.md`. Mobile bath fit: `../Vehicle/MobileHome.md`. Cleanable surfaces / sanitary fixtures / breathable building materials: `../../Materials/CleanableSurfaces.md`.
 
 ## 1. Toilet Fundamentals
 

@@ -1,6 +1,6 @@
 # Focus Capacity
 
-Hub: `../Science.md`. Multitasking skill and Parallel Thinking: `../../../Progression/SkillsDesign.md`. Mental attributes: `../../../Progression/Training.md`. Full-sphere vision load at N-men capacity: `Vision360.md`. Crystal / LLM / mind-copy holding file: `CrystalMinds.md`. Extra-limb attention tax feel: `Body.md`. Nav: `Index.md`.
+Hub: `../Science.md`. Multitasking skill and Parallel Thinking: `../../../Progression/SkillsDesign.md`. Mental attributes: `../../../Progression/Training.md`. Full-sphere vision load at N-men capacity: `Vision360.md`. Crystal / LLM / mind-copy holding file: `CrystalMinds.md`. Animal neuron / intelligence tiers: `AnimalBrains.md`. Extra-limb attention tax feel: `Body.md`. Nav: `Index.md`.
 
 **Owns:** men-worth table, Multitasking %, Parallel Thinking N, deliberate focus spot size vs men-worth. Earth neuron / watt / conscious bits/s anchors: `CrystalMinds.md` Part 1 (cite, do not redefine). Imagery grain / mm anchors: `MeasurementPerception.md`. Adamantium mana-friction melt: `../../Materials/Metals.md`.
 

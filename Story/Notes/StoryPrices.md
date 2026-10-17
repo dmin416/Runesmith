@@ -68,7 +68,12 @@
 | 22–23 | Auction gross → net | **8 SG 8 LS** → **6 SG 6 LS** after **25%** | Seller #64; wallet **6 SG 6 LS 1 SS** |
 | 22 | Auction commission ladder | first **25%**, can fall to **10%** | House rules |
 | 22 | Party gift runway | **10 SG** lasted **~half year** of mats | Not ten months |
-| 23 | Weekly Fire Arrow volume | **~10** scrolls ~ **~1 SG** gross | Ongoing |
+| 23 | Highest empty Fireball (ongoing) | **7.5 LS** | Fair lock; volume weeks |
+| 23 | Match Rune (micro Fire Orb lighter) | **1 LC** each; **1 SS** / ten | Pea scrap; empty; designed **5**; ~**1 min**/make |
+| 23 | Weekly Fireball volume | early **15**; each week **+bundle (5)** → **30**; instead maintain **25**/week | Libra; Ch 23 prose |
+| 23 | First auction profit (10) | sale **8 SG 8 LS** → after 25% **6 SG 6 LS** → after mats ~**6 SG 4 LS** | Seller #64 |
+| 23 | +3 months Fireball profit (~13 weeks) | ~**315** scrolls @ **7.5 LS** → ~**170 SG 9 LS** after 25% + **2 SS**/scroll mats | Soft ledger |
+| 23 | Weekly Fire Arrow volume | **~10** scrolls ~ **~1 SG** gross | Later / Source scrap; rewrite stays Fireball |
 | 25–26 | Grimboodle / Exeor | **15%** cut, **3 years**, **−30%** mana breach | Contract |
 | 26–27 | Quota | **≥10** common scrolls / week | Signed |
 | 27 | Leave | weekends + **25** unpaid days/year | Contract |

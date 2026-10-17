@@ -1,6 +1,6 @@
 # Mechanical Car Components: Simplest to Most Capable
 
-> Earth reference / invent loot. Not locked law. Caldris ride / chassis ceiling: `Suspension.md`, `Wheels.md`, `Brakes.md`, `Roads.md`. Era: `../../Tech/Technology.md`. Air / hydropneumatic deep dive: `AirHydraulicSuspension.md`. Engines / steam: `../Energy/SteamEngines.md`, `../Energy/Engines.md`.
+> Earth reference / invent loot. Not locked law. Caldris ride / chassis ceiling: `Suspension.md`, `Wheels.md`, `Brakes.md`, `Roads.md`. Era: `../../Tech/Technology.md`. Air / hydropneumatic deep dive: `AirHydraulicSuspension.md`. Engines / steam: `../Energy/SteamEngines.md`, `../Energy/Engines.md`. Shaft / U-joint / gear physics (steel vs indestructible): `ShaftJointTransmission.md`. Magical printer part-by-part (forge, heat treat, grind): `../Invent/PrinterManufacturing.md` / `../Invent/PrinterManufacturingVehicles.md`.
 
 Nearly every part below is made by some combination of the core processes. Caldris street stock stays coach / wagon / magitech rail unless an invent beat unlocks auto-grade kit.
 

@@ -1,6 +1,6 @@
 # Steam Engines
 
-Hub: `Engines.md`. Closed-cycle cousin: `StirlingEngines.md`. Shaft to volts: `Generators.md`, `ElectricMotors.md`. Cylinder and seal craft: `../../../Food/KitchenCraft.md`, `Pumps.md`. Labyrinth / gas-film pistons and DLC: `FrictionNotes.md`. Line shaft: `../Invent/MechanicalPrecision.md`. Farm traction: `../../Geography/VolcanicIsland/FarmingSystems.md`. Baseline: `../../Tech/Technology.md`.
+Hub: `Engines.md`. Closed-cycle cousin: `StirlingEngines.md`. Shaft to volts: `Generators.md`, `ElectricMotors.md`. Cylinder and seal craft: `../../../Food/KitchenCraft.md`, `Pumps.md`. Labyrinth / gas-film pistons and DLC: `FrictionNotes.md`. Line shaft: `../Invent/MechanicalPrecision.md`. Farm traction: `../../Geography/VolcanicIsland/FarmingSystems.md`. Baseline: `../../Tech/Technology.md`. Earth industrial / railway history (Savery through locomotives): `../Invent/ArtisanalToIndustrial.md`.
 
 A steam engine boils water, lets the vapor push a piston or a turbine, then exhausts or condenses it. The working fluid is thrown away or recycled. That open Rankine loop is the difference from a Stirling, which keeps one gas sealed inside.
 

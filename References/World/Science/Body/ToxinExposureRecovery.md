@@ -1,6 +1,6 @@
 # Toxin Exposure: Complete Recovery Cycle (Average Adult Man)
 
-> Earth reference / invent loot. Not locked law. Poison Resistance / Recovery: `../../../Progression/SkillsDesign.md`, `../../../Progression/Attributes.md`. Diet→toxin sequestration: `../../Fauna/ToxinSequestration.md`. Acid burns (corrosive, not toxin status): `BurnsHealing.md`. Fatigue: `FatigueRestSleep.md`.
+> Earth reference / invent loot. Not locked law. Poison Resistance / Recovery: `../../../Progression/SkillsDesign.md`, `../../../Progression/Attributes.md`. Diet→toxin sequestration: `../../Fauna/ToxinSequestration.md`. Antivenom manufacture: `../Medicine/Antivenom.md`. Acid burns (corrosive, not toxin status): `BurnsHealing.md`. Fatigue: `FatigueRestSleep.md`.
 
 Terra **Poison Resistance** cuts poison / toxin effect (−10%/level). **Recovery** speeds organ and soft-tissue knit after the dose. Clearance of the toxin and healing of the damage are separate clocks; resistance shrinks the hit, Recovery does not clear bone-stored metals or replace dead neurons.
 

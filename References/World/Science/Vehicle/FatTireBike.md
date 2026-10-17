@@ -1,6 +1,6 @@
 # Fat-Tire Bike: Size and Superhuman Ceiling
 
-> Earth invent loot / design note. Not locked law. Wheels ladder: `Wheels.md`. Roads: `Roads.md`. Brakes: `Brakes.md`. Suspension: `Suspension.md`. Rider position: `Positions.md`. Roland rune-bike wishlist: `../../../People/Roland/Goals.md`. Body interception / reflex window: `../Body/BodySpatialSense.md`, `../Body/SpeedPerception.md`.
+> Earth invent loot / design note. Not locked law. Wheels ladder: `Wheels.md`. Wheel physics / tradeoffs: `WheelScience.md`. Roads: `Roads.md`. Brakes: `Brakes.md`. Suspension: `Suspension.md`. Rider position: `Positions.md`. Roland rune-bike wishlist: `../../../People/Roland/Goals.md`. Body interception / reflex window: `../Body/BodySpatialSense.md`, `../Body/SpeedPerception.md`.
 
 **Best fit: a 29 to 36 inch wheel fat-tire bike with the frame sized to the rider's body.** Raw power stops being the limit almost immediately. The road surface, traction and parts strength set the ceiling.
 

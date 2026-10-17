@@ -11,6 +11,7 @@ Earth-physics and craft anchors. Cast / mana law hub: `../../Runes/Energy.md`. M
 | [Energy](Energy/Index.md) | Stones, cast tables, batteries, engines, motors, fans, compression, flight, waves |
 | [Body](Body/Index.md) | Skin/limbs/teeth, Gut Check (ART), falling, speed / measurement perception, mind-body skill, 360 vision, crystal minds |
 | [Invent](Invent/Index.md) | Century invent ladder, industrialization, paper, writing tools, toilet design, perfected everyday goods |
+| [Medicine](Medicine/Index.md) | Earth drugs plus design-loot medieval surgery pack |
 | [Vehicle](Vehicle/Index.md) | Suspension, brakes, positions, wheels, roads, mobile home / caravan |
 
 ## Detail
@@ -70,6 +71,7 @@ Index and ownership: `Energy/Index.md`.
 |---|---|
 | `Energy/ManaStones.md` | Size / mass / recharge / market tables (dump law in MonsterCores) |
 | `Energy/ManaCast.md` | Spell-specific cast tables (shared law in `../../Runes/Energy.md`) |
+| `Energy/ManaShield.md` | Mana Shield master consolidator; head-on ×10 pool live in AttackScale / ManaCast |
 | `Energy/ManaConcentration.md` | Ambient mana density vs altitude (`C`, `A = √C`); layers/orbits: `../../Space/` |
 | `Energy/RefinedMana.md` | Stillwire / Lightthread from stones |
 | `Energy/Batteries.md` | Chemical cells vs mana stones |
@@ -130,6 +132,22 @@ Index and ownership: [Body/Index.md](Body/Index.md).
 | `Invent/Printing.md` | Gutenberg / civilian-product invent seed |
 | `Invent/ToiletDesign.md` | Flush systems, seats, soft-close dampers |
 | `Invent/WritingTools.md` | Pencil / pen invent path |
+
+### Medicine
+
+Index and ownership: [Medicine/Index.md](Medicine/Index.md). Not Terra street law.
+
+| File | Holds |
+|---|---|
+| `Medicine/Penicillin.md` | Discovery through modern fermentation and 6-APA |
+| `Medicine/Antibiotics.md` | Sulfa, streptomycin, golden-age catalog, other class production |
+| `Medicine/Antivenom.md` | Serum therapy, species specificity, manufacture, next-gen |
+| `Medicine/EssentialMedicines.md` | Aspirin, insulin, vaccines, cortisone, malaria drugs, morphine, and peers |
+| `Medicine/MedievalSurgery.md` | Modern-mind / medieval-base surgery scenario map |
+| `Medicine/BluntDissection.md` | Blunt resection mechanics |
+| `Medicine/LiverSurgery.md` | Liver resection, trauma, hydatid, abscess |
+| `Medicine/MedievalSurgeonKit.md` | Magic, instruments, antisepsis, anesthesia, fluids |
+| `Medicine/SurgeryCatalog.md` | Rated procedure catalog A/B/C |
 
 ### Vehicle
 

@@ -4,7 +4,8 @@ Up: [References](../Index.md)
 
 ## Files
 
-- [AttackScale.md](AttackScale.md). Order-of-magnitude map for physical hits and mana barriers. Cast law: ../Runes/Energy.md. Attributes: ../Progression/Progression.md. Tip hardness / spell
+- [AttackScale.md](AttackScale.md). Order-of-magnitude map for physical hits and mana barriers. Cast law: ../Runes/Energy.md. Attributes: ../Progression/Progression.md. Tip hardness / spell. Mana Shield master: ../World/Science/Energy/ManaShield.md
+- [PanzerKunstFishmanKarate.md](PanzerKunstFishmanKarate.md). Earth invent loot. Fiction martial-art concepts, real-world analogs, lab peak strike force by style
 - [Bows.md](Bows.md). Design loot. Metal law: ../World/Materials/Metals.md. Silk / resilin: ../World/Science/Biomaterials/BiologicalSilks.md,
 - [Combat.md](Combat.md). Fight doctrine for Terra. Numbers: AttackScale.md. Mana: ../Runes/Energy.md. Metals: ../World/Materials/Metals.md. Sahildr impact hammer: ImpactRune.md.
 - [Firearms.md](Firearms.md). Assumes gorilla strength and the durability of three or four men. A .50 caliber is period-appropriate, since the US Army's .50-70 Government cartridge dates
@@ -14,7 +15,8 @@ Up: [References](../Index.md)
 - [Lasers.md](Lasers.md). Design loot. Physics, types, power tables and gas feedstock: ../World/Science/Energy/Optics.md. Aiming vs speed: SpeedVsIntellect.md. Power banks:
 - [LightWarfare.md](LightWarfare.md). Design loot / inspiration. Escalation when warriors outrun mass and mages reach for light. Variables: LightWarfareVariables.md. Kit: Lasers.md.
 - [LightWarfareVariables.md](LightWarfareVariables.md). Design loot / inspiration. Twenty body, air, beam and sensing variables. Hub: LightWarfare.md.
-- [LightArmorLoadout.md](LightArmorLoadout.md). Loadout design when the main threat reliably pierces plate. Heavy plate then loses its job. Weight, heat and stamina drain become pure cost. Prefer a light
+- [LightArmorLoadout.md](LightArmorLoadout.md). Loadout design when the main threat reliably pierces plate. Heavy plate then loses its job. Weight, heat and stamina drain become pure cost. Prefer a light kit.
+- Rigid microfilament / unbreakable-metal invent: [../World/Materials/UnbreakableHair.md](../World/Materials/UnbreakableHair.md), [../World/Materials/IndestructibleArsenal.md](../World/Materials/IndestructibleArsenal.md)
 - [LivingArmor.md](LivingArmor.md). Animated empty plate driven by a soft colony clinging inside the shell. Useful for dungeon living-armor foes and any “muscle in the metal” construct. Human
 - [MageDefense.md](MageDefense.md). Gist for fights where a physical specialist outruns and outmuscles a mage body. Mage wins on Mana Hands (mind-speed telekinesis), perception and prep.
 - [ShieldRuneDefense.md](ShieldRuneDefense.md). Redirecting the strike is the most effective option. Stopping it, hardening the shield and bashing back each solve a different part of the problem and cost

@@ -1,6 +1,6 @@
 # Writing Tools and Graphite
 
-Story canon for writing and drawing implements, plus Earth research used to keep the invent beats honest. Surfaces: `Paper.md`. Inks: `Ink.md`. Folder: `References/World/Science/`.
+Story canon for writing and drawing implements, plus Earth research used to keep the invent beats honest. Surfaces: `Paper.md`. Inks: `Ink.md`. Monopoly economics (Earth, guild-optimistic): `PencilMonopoly.md`, `BallpointMonopoly.md`. Guild / Caldris graphite path: `../../Society/GuildPatents.md`. Folder: `References/World/Science/`.
 
 ## Story lock (rewrite)
 

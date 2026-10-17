@@ -4,7 +4,7 @@
 
 `World/Science/Invent/WritingTools.md` wins on how a pencil and a pen are made. There is no large native graphite deposit to claim. Graphite is synthesized from wood, with a later toxin-free Ned spike as an alternate core. Guild control of the raw material means control of that process, the wood and clay, and the finished pencils. The deposit sentence below does not create a mine. Fountain pens already exist for the wealthy. The steel nib is the mass product that displaces quills, not the first pen in the world.
 
-How paper, ink, print, and steel are made stays in `World/Science/Invent/Paper.md`, `Ink.md`, `Printing.md`, and the metallurgy notes. Coin locks stay in `Economy/Economy.md`. Source lines that say this world has no patents, and that he buys a pencil, stay Source. Year bands below are design stages after the partnership starts. They do not rebuild the 361-day year and they are not chapter numbers.
+How paper, ink, print, and steel are made stays in `World/Science/Invent/Paper.md`, `Ink.md`, `Printing.md`, and the metallurgy notes. Match monopoly scale (Earth): `World/Science/Invent/MatchMonopoly.md`. Pencil monopoly scale (Earth, guild-optimistic): `World/Science/Invent/PencilMonopoly.md`. Ballpoint monopoly scale (Earth, guild-optimistic): `World/Science/Invent/BallpointMonopoly.md`. Coin locks stay in `Economy/Economy.md`. Source lines that say this world has no patents, and that he buys a pencil, stay Source. Year bands below are design stages after the partnership starts. They do not rebuild the 361-day year and they are not chapter numbers.
 
 The contract terms this note uses are the ones in the first section: active protection and a 50/50 split. Earth ceilings for city guilds, churches, and empires are in `PowerTypes.md`. Those ceilings do not cap this partnership.
 
@@ -20,9 +20,10 @@ Guilds petition the crown for letters patent, which in a medieval setting are ro
 
 **The pen and pencil alone change the realm**
 
-- **Pencil:** the guild buys or claims the best graphite deposit, which gives it control of the raw material outright. Encasing the graphite in wood makes it cheap, portable and erasable. Merchants, soldiers, surveyors and students adopt it within a decade.
+- **Pencil:** the guild controls wood-to-graphite synthesis (no large native deposit). Encasing the core in wood makes it cheap, portable and erasable. Merchants, soldiers, surveyors and students adopt it within a decade. Scale: `PencilMonopoly.md`.
 - **Steel-nib pen:** the smiths stamp the nibs while the stationers sell them. This kills the quill trade and makes writing faster and cleaner.
-- **The ripple effect:** cheap writing tools drive up literacy, contracts, bookkeeping and schooling. The guilds that sell the tools also end up selling paper, ink, ledgers and training.
+- **Ballpoint (luxury):** closed precision workshops plus proprietary ink cartridges. Small volume, high margin, refill lock-in. Scale: `BallpointMonopoly.md`.
+- **The ripple effect:** cheap writing tools drive up literacy, contracts, bookkeeping and schooling. The guilds that sell the tools also end up selling paper, ink, ledgers, training and refill stock.
 
 **Other patents and which guild runs each**
 

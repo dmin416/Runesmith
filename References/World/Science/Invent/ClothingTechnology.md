@@ -1,6 +1,6 @@
 # Clothing Technology Throughout History
 
-> Earth reference / invent loot. Not locked law. Footwear: `ShoeTechnology.md`. Era bands: `CraftsmanByCentury.md`. Caldris street clothes follow the medieval→Victorian mix by city proximity and wealth in `../../Tech/Technology.md`. Fabrics / hides: `../../Materials/Materials.md`, `../../Materials/TranslucentMaterials.md`.
+> Earth reference / invent loot. Not locked law. Footwear: `ShoeTechnology.md`. Era bands: `CraftsmanByCentury.md`. Caldris street clothes follow the medieval→Victorian mix by city proximity and wealth in `../../Tech/Technology.md`. Fabrics / hides: `../../Materials/Materials.md`, `../../Materials/TranslucentMaterials.md`. Sheer, one-way, cover and heat: `../../Materials/SheerMaterials.md`.
 
 Covers underwear, pants, shirts, jackets and coats, hats and socks. Each garment includes the greatest technologies since prehistory, a detailed era section on the medieval, Renaissance and Victorian periods and a ranking by total impact.
 

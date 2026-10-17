@@ -1,6 +1,6 @@
 # Volcanic Island Ecology
 
-Hotspot / shield-island ecology for places like Dragnis-class volcanic islands. Geology first, then what can live there. Places: `../Places.md`. Resources: `Resources.md`. Crops: `Crops.md`. Farm sites: `Farming.md`. Earth Hawaii biomes: `HawaiianBiomes.md`. Waterfowl: `../../Fauna/Domestic/KoloaAndNene.md`.
+Hotspot / shield-island ecology for places like Dragnis-class volcanic islands. Geology first, then what can live there. Places: `../Places.md`. Resources: `Resources.md`. Crops: `Crops.md`. Farm sites: `Farming.md`. Earth Hawaii biomes: `HawaiianBiomes.md`. No-people ecosystem / island robustness: `HawaiianEcosystem.md`. Native fauna catalog: `HawaiianNativeAnimals.md`. Introductions: `HawaiianIntroductions.md`. Native trees / human-free layout / island size: `HawaiianNativeLandscape.md`. Wood seasoning: `../../Science/Biomaterials/AgingWood.md`. Waterfowl: `../../Fauna/Domestic/KoloaAndNene.md`. Honey bees: `../../Fauna/Domestic/HoneyBees.md`.
 
 ## Narrative
 

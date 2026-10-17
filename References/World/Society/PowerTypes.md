@@ -2,7 +2,7 @@
 
 > Earth historical catalog. Not Caldris law and not a forecast. Victorian dates, gunpowder ending steppe dominance, and the population peaks below are Earth anchors. The year stays 361 days.
 
-Who rules which land stays in `../Geography/Places.md`: Caldris is a kingdom, Alexandria a holy kingdom, Bolia the moon-elf lands, the Hatfordian Empire a border power, and the Church of Solaria the sun faith in Caldris towns. Population counts stay in `Population.md`. Church fees stay in `Economy/ChurchPaidServices.md` and `Economy/Economy.md`. The partner-guild front, letters patent, and the 50/50 contract stay in `GuildPatents.md`. The craft-guild ceiling in this file is the Earth city-guild pattern. It does not cap those partner guilds.
+Who rules which land stays in `../Geography/Places.md`: Caldris is a kingdom, Alexandria a holy kingdom, Bolia the moon-elf lands, the Hatfordian Empire a border power, and the Church of Solaria the sun faith in Caldris towns. Population counts stay in `Population.md`. Church fees stay in `Economy/ChurchPaidServices.md` and `Economy/Economy.md`. **Personal-level power vs crystal wealth (Terra macro invent):** `Economy/CrystalCapitalEconomy.md`. The partner-guild front, letters patent, and the 50/50 contract stay in `GuildPatents.md`. The craft-guild ceiling in this file is the Earth city-guild pattern. It does not cap those partner guilds.
 
 ## Political Powers
 

@@ -2,7 +2,7 @@
 
 Earth research note for a master with **modern knowledge**, a working forge, hammer and anvil. Timeline from bare forge to screw-cutting lathes and the products that unlock along the way.
 
-**Caldris overlay:** the kingdom already has water mills, steam / mana-stone trains and magitech (`../../Tech/Technology.md`). Roland does **not** start from a stone-age blank. Use **Part 1** when he lacks local files, steel and mill access. Use **Part 2** when infrastructure, files and water power (or mana motors) are already in reach. Civilian product shortlist and shop build order: `../../../Ideas.md`. Century product catalog (500s–1700s): `CraftsmanByCentury.md`. Metallurgy shortcuts: `../Metallurgy/CraftMetal.md`. Product difficulty and forge energy: `../Metallurgy/BlacksmithProducts.md`. Arrowheads: `../Metallurgy/Arrowheads.md`.
+**Caldris overlay:** the kingdom already has water mills, steam / mana-stone trains and magitech (`../../Tech/Technology.md`). Roland does **not** start from a stone-age blank. Use **Part 1** when he lacks local files, steel and mill access. Use **Part 2** when infrastructure, files and water power (or mana motors) are already in reach. Civilian product shortlist and shop build order: `../../../Ideas.md`. Century product catalog (500s–1700s): `CraftsmanByCentury.md`. Metallurgy shortcuts: `../Metallurgy/CraftMetal.md`. Product difficulty and forge energy: `../Metallurgy/BlacksmithProducts.md`. Arrowheads: `../Metallurgy/Arrowheads.md`. Earth history of the industrial → railway → megaproject chain: `ArtisanalToIndustrial.md`. Magical printer shop bootstrap and vehicle/appliance part lists: `PrinterManufacturing.md`.
 
 Timelines assume real soak / seasoning / scrap rates. Magic can buy even heat and geometry. It does **not** delete diffusion time or timber cure unless a beat says otherwise.
 
@@ -148,7 +148,7 @@ Ranked by leverage. Caldris already has some of these (mills, steam / stone trai
 
 Early steps generate surplus food and income. That surplus pays for each later stage.
 
-**Shop-arc note:** `../../../Ideas.md` starts with soap / pins / matches for fast cash before steel plant and press. That is a **retail** order. This file is the **machine-tool** dependency order. Do both: sell easy goods while the lathe chain runs in the background.
+**Shop-arc note:** `../../../Ideas.md` starts with soap / pins / matches for fast cash before steel plant and press. That is a **retail** order. This file is the **machine-tool** dependency order. Do both: sell easy goods while the lathe chain runs in the background. Match monopoly scale and politics: `MatchMonopoly.md`.
 
 ## Kitchen shop tool chain
 

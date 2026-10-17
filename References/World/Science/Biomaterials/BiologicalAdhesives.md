@@ -1,6 +1,6 @@
 # Biological Adhesives
 
-Natural dry, wet and capture adhesives for craft and Ned sticky targets. Related insect/latex stocks: `RubberAndInsect.md`. Silks and byssus fibers: `BiologicalSilks.md`. Harvest pipeline: `Biomaterials.md`. Nav: `Index.md`.
+Natural dry, wet and capture adhesives for craft and Ned sticky targets. Related insect/latex stocks: `RubberAndInsect.md`. Silks and byssus fibers: `BiologicalSilks.md`. Harvest pipeline: `Biomaterials.md`. Mass-construction binder invent: `CRBinder.md` / `CRBinderMaterials.md`. Nav: `Index.md`.
 
 **Owns:** dry / wet / capture / plant / body glue catalog. Ned sticky job picks → `RubberAndInsect.md`. Latex vulcanization → `RubberAndInsect.md`.
 

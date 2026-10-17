@@ -527,9 +527,9 @@ No full status screen. Present day after 21.5. Lookback prints RS **L8**, Master
 
 ## Chapter 23
 
-Seller #64 net **6 SG 6 LS** (first Fireball sale; wallet **6 SG 6 LS 1 SS**). Restocks blanks/paper; homemade ink; comet quality maintain. SP-fills when MP low; keeps MP near-full never empty-zero for grind. Desk side grind continues (`FrictionGrill.md`): friction Heat/Heat Res, Suffocation, Recovery, Fabrication, Taming via Ned; Cold = cold night sleep only (`ColdNightSleep.md`). **+2 months intense grill grind** (story vague): Sound/Echo still daily since train; Percival return stack is **fifteen** comet Fireballs, all **Highest**. Volume / better tools / +3 months more then forest hunt follow.
+Seller #64: sale **8 SG 8 LS** → after 25% **6 SG 6 LS** (wallet **6 SG 6 LS 1 SS**); profit after mats ~**6 SG 4 LS**. Restocks blanks/paper; homemade ink; comet quality maintain. Weaver **Ned silk** clothes. SP-fills when MP low; keeps MP near-full never empty-zero for grind. Desk side grind continues (`FrictionGrill.md`): friction Heat/Heat Res, Suffocation, Recovery, Fabrication, Taming via Ned; Cold = cold night sleep only (`ColdNightSleep.md`). **+2 months intense grill grind** (story vague): Sound/Echo still daily since train; Percival return stack is **fifteen** comet Fireballs, all **Highest**. Then **+3 months**: weekly **+bundle (5)** from **15** to **30**, instead maintain **25**/week at **7.5 LS**; soft profit that span ~**170 SG 9 LS**. Then forest hunt.
 
-Overall L35. Mage L25 secondary. Runic Mana Scribe L10 main (printed mid-hunt). Keeps Fireball comet volume (~**15/week**; lots pay **far better than 1 SG** after cut). Live sheet (mid-hunt MP spent):
+Overall L35. Mage L25 secondary. Runic Mana Scribe L10 main (printed mid-hunt). Maintains **~25** Highest empty Fireball / week at **7.5 LS**. Live sheet (mid-hunt MP spent):
 
 **Live (chapter)** — Source block still on-page:
 

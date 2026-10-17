@@ -1,6 +1,6 @@
 # Biological Effects
 
-Part 5. Fundamentals: `Fundamentals.md`. Simple limits: `ShieldingAndLimits.md`. Robust model: `RobustHeatHuman.md`.
+Part 5. Fundamentals: `Fundamentals.md`. Simple limits: `ShieldingAndLimits.md`. Robust model: `RobustHeatHuman.md`. Superhuman / power cancer risk: `../../Science/Body/SuperhumanCancerRisk.md`.
 
 ## Acute radiation syndrome (whole-body, acute)
 

@@ -1,5 +1,5 @@
 ---
-description: Directed story edits; replace the marked segment, keep the rest, fix mismatches
+description: Directed story edits; replace the marked segment, keep the rest, never erase newlines
 alwaysApply: true
 ---
 
@@ -12,7 +12,7 @@ Do the edit they asked for. Do not wander into other lines, files, or cleanup.
 | Change / fix / replace | Replace the clear segment |
 | Insert | Put it at the mark. Delete nothing |
 | Append | Put it after the mark. Delete nothing |
-| Unclear | Ask. Do not guess |
+| Unclear | Ask once. Do not guess. If they already stated the beat in the prior message, use that. Do not ask again for the same order. |
 
 ## Anchor
 
@@ -27,14 +27,18 @@ The **first word** of their proposed text finds the spot (click / locate / `...`
 
 When they clearly rewrite a stretch of the paragraph:
 
-1. **Replace** that portion with their words (exact; fix clear typos; capitalize sentence starts). Keep their sentence and clause order.
-2. **Keep** the remainder of the paragraph that was not part of what they replaced (the tail they left alone, or pointed at with a locate like `this fireball...`).
-3. **Fix** small details in that kept remainder so they still match what they changed and the live notes / locks. Do not invent new beats. Do not explain. Just make the leftover agree (names, product line, empty vs filled, brand, and so on).
+1. **Replace** that portion with their words (exact; capitalize sentence starts; narrative verbs past tense per `story-formatting.mdc`). Keep their sentence and clause order.
+2. **Keep** the remainder of the paragraph that was not part of what they replaced.
+3. **Fix** small details in that kept remainder so they still match what they changed and the live notes / locks. Do not invent new beats. Do not explain. Just make the leftover agree (names, product line, empty vs filled, brand, and so on). Strip a leftover fact only when their new line already covers that same fact (**no double beats**, `story-plain-prose.mdc`).
 4. Do **not** drop their pasted lines. Do **not** throw away the untouched remainder to “clean up.”
 
 ## Append when it does not fit
 
-If what they wrote does not replace anything already in the paragraph (it does not line up with an existing sentence or beat), **append** it at the end of that paragraph. Do not force it into the middle.
+If what they wrote does not replace anything already in the paragraph, **append** it. Do not force it into the middle.
+
+**New message / new beat append:** put a **blank line before it** (new paragraph). Do **not** glue it onto the end of the previous paragraph on the same block.
+
+**Same-paragraph append only when** they clearly continued that paragraph (blank line absent in a mid-paragraph locate, or they ordered it into that paragraph).
 
 ## Locates
 
@@ -44,6 +48,18 @@ Where: click first; else first-word anchor / locate / `...`. Same first word as 
 
 ## Exact words on their paste
 
-- No synonym swaps or style rewrites on what they typed.
-- No slang cleanup on their pasted lines.
+- Keep their wording. No synonym swaps or style rewrites.
 - Do not invent names, places, or numbers. Ask, or keep their wording.
+- Match narrative verbs to chapter past tense per `story-formatting.mdc`.
+
+## New lines / paragraph breaks
+
+**Hard lock. Never erase a new line.**
+
+1. **Never delete** a blank line that is already in the file. Never merge two paragraphs into one without their **explicit** order to merge or delete.
+2. **Never flatten** their paste. If their paste has a blank line, keep it. If they send a new beat as its own message, that beat gets its **own paragraph** (blank line before).
+3. **Never glue** a new sentence onto the previous paragraph to “keep it tidy.” That is erasing a new line.
+4. **Do not invent** blank lines **inside** a continuous paste that has none. Keep that paste’s internal shape exact.
+5. A “fix,” cleanup, Source match, or outline flow does **not** authorize removing a blank line.
+
+If unclear whether to break, keep the break. Prefer an extra blank line over swallowing one.

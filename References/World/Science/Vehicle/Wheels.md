@@ -1,5 +1,7 @@
 # Vehicle Wheels
 
+Physics, types, tradeoffs and wild builds: `WheelScience.md`. Shaft / U-joint / gear driveline physics (steel vs indestructible): `ShaftJointTransmission.md`.
+
 Earth tech ladder for vehicle wheels. Each entry lists the era and the tools, materials and processes that must exist first. Use for invent beats and for reading Caldris ceiling. Do not paste Earth brand names into prose unless the story invents them.
 
 **Accuracy:** solid popular engineering-history summary. Dates and “firsts” are order-of-magnitude, good enough for prerequisite checks.

@@ -1,6 +1,6 @@
 # ART (Gut Check)
 
-Autonomic Response Testing, lean/sway and dowsing as one readout family. Hub: `../Science.md`. Distinct from Mana Sight and from Basic Perception. Hub: `../Science.md`.
+Autonomic Response Testing, lean/sway and dowsing as one readout family. Hub: `../Science.md`. Distinct from Mana Sight and from Basic Perception. 15× sensitivity / fascia / people-sense invent: `EnhancedHumanPerception.md`.
 
 ## Narrative
 

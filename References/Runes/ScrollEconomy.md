@@ -28,6 +28,7 @@ Labor-days method: handwritten scrolls stay **medieval dear** (`../World/Society
 | Runic Fireball Common **Intermediate** (empty) | **4 LS** | 400 | Empty ladder under High |
 | Runic Fireball Common **High** (empty) | **5 LS** | 500 | Amp-capable fair |
 | Runic Fireball Common **Highest** (empty) | **7.5 LS** | 750 | Scarcity over High |
+| Match Rune (micro Highest Fire Orb lighter) | **1 LC** each; **1 SS** / ten | 1 / 10 | Pea scrap + 1 blood drop; empty; designed **5**; ~**1 min**/make |
 | Early auction High FA (entry) | **8–10 SS** | 80–100 | Tight after 25% fee |
 | Exeor settled High-only list | **10–12 SS** | 100–120 | Comfortable apprentice |
 
@@ -69,7 +70,7 @@ Independent scribe income: roughly **10 High / week ~ 1 SG** gross at the locked
 ### Chapter contract beats (Libra / Exeor)
 
 - First Libra sell line is **Fireball** (red comet / shooting-star brand). Empty ladder above. Percival guide **~7–8 LS** each (fair Highest empty **7.5 LS**). First sale **10 Highest empty**: boxes of five @ open **32 LS**; hammers **42 LS** + **46 LS** → gross **8 SG 8 LS**; **25%** → net **6 SG 6 LS** (fair ten ≈ **7.5 SG**; auction heat; wallet **6 SG 6 LS 1 SS** with the kept **1 SS**). Prefill is personal/gift only, never the sell batch.
-- After brand lands, volume stays on **Fireball** comet (~10/week; High/Highest lots pay **far better than 1 SG** after house cut). Seller #64 keeps the Ball income beat.
+- After brand lands, volume stays on **Fireball** comet. Early return stack **fifteen**. Ongoing price **7.5 LS** Highest empty. Bundle **5**. Next **+3 months** (~**13** weeks): each week **+one bundle** (**15 → 20 → 25 → 30**), then **maintain 25**/week (profit per scroll dropped at thirty). Soft **~315** scrolls that span → ~**170 SG 9 LS** after **25%** and **2 SS**/scroll mats. First auction profit after fee + mats ~**6 SG 4 LS**. Seller #64 keeps the Ball income beat.
 - Ch 21 Edelgard Scribe shops: price mats so only intermediate scrolls profit for independents; academy students get softer contracts; solo acts face multi-year cursed deals (**-60% mana** on breach until term ends). Libra entry **2 SS**.
 - Ch 25 Exeor offer: exclusive sell-to-store, **15%** commission, **3 years**, workspace + cheaper mats, **-30%** mana breach curse (not instant); facilities can cover later Blacksmith needs. Merchant council of top owners meets every **3 months** (recruit upstarts, then crush holdouts).
 - Ch 26 signed: mana signature (not name); identity secret; **min price** vs auction / no undersell; status-hide **armband**; basement office free rent; basic mats supplied; min **10 common scrolls/week** (+ bonus); Fire Arrow ~1 hour with mana left for a second.

@@ -11,7 +11,7 @@ Lock live canon in this folder. Rewrite prose: `../Story/Chapters/`. Treat `Sour
 `{Combat,Food,Items,People,PotentialMagic,Progression,Runes,World,Source,SourceLoot,Handoff.md,Ideas.md}`
 
 - World holds Materials, Fauna, Geography, Society, Tech, Science/ (+ `*Design.md` fat companions where present)
-- Science is under `World/Science/` (Energy, Metallurgy, Biomaterials, Body, Invent, Vehicle)
+- Science is under `World/Science/` (Energy, Metallurgy, Biomaterials, Body, Invent, Medicine, Vehicle)
 - Food holds kitchen craft / kit / meat cook (not Metallurgy)
 - People cast hub: `People/People.md`
 - Narrative threat dial: `World/Fauna/MonsterThreat.md`

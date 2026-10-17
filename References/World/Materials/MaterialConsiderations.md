@@ -2,7 +2,7 @@
 
 > **Design loot.** Not locked law. Locked metals stay in `Metals.md` and `Materials.md`. **Adamantium is the perfectly rigid metal** (frozen lattice, no bend, cast-final; stiff rune host; destroy = casting key or electron-overload melt). Prefer locked text on conflict. Promote a row only when a beat needs it.
 >
-> Earth insulation ladder (aerogel, vacuum, shuttle tiles, effusivity): `InsulationMaterials.md`. Exotic carbon / high-pressure / theoretical stocks: `ExoticMaterials.md`. Friction, DLC, air bearings, labyrinth piston on adamantium / no-bend stock: `../Science/Energy/FrictionNotes.md`. Motor and flywheel use: `../Science/Energy/ElectricMotors.md`, `../Science/Energy/FlywheelStorage.md`. Quiet dryer on rigid shell: `../Science/Energy/QuietBlowDryer.md`. Cast law: `../../Runes/Energy.md` (1 mana = 10 J).
+> Earth insulation ladder (aerogel, vacuum, shuttle tiles, effusivity): `InsulationMaterials.md`. Exotic carbon / high-pressure / theoretical stocks: `ExoticMaterials.md`. Friction, DLC, air bearings, labyrinth piston on adamantium / no-bend stock: `../Science/Energy/FrictionNotes.md`. Motor and flywheel use: `../Science/Energy/ElectricMotors.md`, `../Science/Energy/FlywheelStorage.md`. Quiet dryer on rigid shell: `../Science/Energy/QuietBlowDryer.md`. Rigid hair filament penetration / slice physics: `UnbreakableHair.md`. Weapons and armor from unbreakable metal: `IndestructibleArsenal.md`. Cast law: `../../Runes/Energy.md` (1 mana = 10 J).
 
 ---
 

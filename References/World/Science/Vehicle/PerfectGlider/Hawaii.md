@@ -1,6 +1,6 @@
 # Perfect Glider: Hawaiian Islands
 
-Hub: [PerfectGlider.md](PerfectGlider.md). Full island wind atlas and 100 kg beach-wing lift tables: `../../../Geography/VolcanicIsland/HawaiianWindsBeachGlider.md`.
+Hub: [PerfectGlider.md](PerfectGlider.md). Full island wind atlas and 100 kg beach-wing lift tables: `../../../Geography/VolcanicIsland/HawaiianWindsBeachGlider.md`. Summit-to-coast and ridge crossing context: `../../../Geography/VolcanicIsland/PeakTraversal.md`.
 
 Trade winds blow from the east-northeast at roughly 25 to 36 km/h below a ~2,000 m inversion. Above it, winds are light or westerly. All values use the **Real** case. Ordinary sport wings, zip lines, and the island network are in `../HawaiianTransport.md`. Those glide numbers are not Designs A, B, or C.
 
