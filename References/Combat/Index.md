@@ -9,6 +9,7 @@ Up: [References](../Index.md)
 - [Bows.md](Bows.md). Design loot. Metal law: ../World/Materials/Metals.md. Silk / resilin: ../World/Science/Biomaterials/BiologicalSilks.md,
 - [Combat.md](Combat.md). Fight doctrine for Terra. Numbers: AttackScale.md. Mana: ../Runes/Energy.md. Metals: ../World/Materials/Metals.md. Sahildr impact hammer: ImpactRune.md.
 - [Firearms.md](Firearms.md). Assumes gorilla strength and the durability of three or four men. A .50 caliber is period-appropriate, since the US Army's .50-70 Government cartridge dates
+- [SpaceProjectiles.md](SpaceProjectiles.md). Space combat projectiles, debris, orbital shotgun. Shapes: ../World/Science/Energy/ProjectileShapes.md
 - [GearPrices.md](GearPrices.md). Design price book for weapons, armor, and repairs. Blade / loadout design: Weapons.md. Light kit: LightArmorLoadout.md. Currency:
 - [DetonationTipBlast.md](DetonationTipBlast.md). Heavy-rapier tip vs air blast / frag / contact HE. Catalog: ../Runes/Runes.md. Kit: ../Items/ScrollRuneAbilities.md.
 - [ImpactRune.md](ImpactRune.md). Earth-physics model for Sahildr's Lesser Impact warhammer rune. Catalog: ../Runes/Runes.md. Compression cousin: ../World/Science/Energy/Compression.md (Fire

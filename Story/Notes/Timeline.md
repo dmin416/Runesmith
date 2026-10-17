@@ -115,7 +115,7 @@ He arrives Edelgard at 11. Nine months of early grind (4 desk + 2 intense grill 
 | 21 | Same day, fifth shop by sunset. **Just 11.** This line is the arrival age | 11 and 0 months | 6 years |
 | 21.5 | Rewrite skip. Next morning: buys **Runic Orb of Light**, **Fire Arrow**, **Aqua Ball**. Then ~4 months desk (Fireball sell / Mana Arrow keep). Party gold lasts 4 months of mats, not 10 months | 11 and 0 → 11 and 4 months | 6 years → 6 years 4 months |
 | 22 | Auction present day after 21.5. Age still about 11 | 11 and 4 months | 6 years 4 months |
-| 23 | **+2 months intense grill grind** (Percival fifteen Highest; story vague), then **+3 months** more to forest. Total about 9 months of Edelgard grind since arrival. Age still about 11. Then the forest and Helci | 11 and 9 months | 6 years 9 months |
+| 23 | **+2 months intense grill grind** (Percival fifteen Highest; story vague), then **+3 months** Fireball volume to **quiet room** (line 715; wallet **~170 SG**; `Chapter23QuietRoom.md`). Match Rune invent after that, then forest and Helci. Total about 9 months of Edelgard grind since arrival. Age still about 11 | 11 and 9 months | 6 years 9 months |
 | 24 | Helci is past 16. Church until 14, then 2 years of work, then the stone. Calendar: 24-hour days, 12 months of 30 days, plus New Year's Day | — | 6 years 9 months |
 | 25 | Half a year or more since the first Emporium visit. This is the chapter 22–23 stretch, not a new half year. Contract offered at 3 years (the rejected one was 6) | 11 and 9 months | 6 years 9 months |
 | 26 | Signs. Still 11. First combo in about a week | 11 and 9 months | 6 years 9 months |

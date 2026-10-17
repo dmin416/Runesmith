@@ -4,7 +4,7 @@
 
 ## Roland's full-rune knowledge
 
-Complete schematics he can redraw from knowledge (rewrite through Ch 21.5 exit). Segments and unfinished boards are not listed here.
+Complete schematics he can redraw from knowledge (rewrite through Ch 21.5 exit; Match Rune product after Ch 23 quiet room). Segments and unfinished boards are not listed here.
 
 | Rune | Tier | Quality | How he got it |
 |---|---|---|---|
@@ -122,6 +122,7 @@ Actual working runes he can make from the current kit. Not parts. Not recipes. W
 - Fire Orb
 - Fire Arrow
 - Fireball
+- **Match Rune** (after Ch 23 line 715): pea-sized Highest Fire Orb lighter; one blood drop; empty designed **5**; ~**1 min**/make; sell hold **~2,500**/week → net **~1.9 SG**/week after Libra **25%**. Price / market: `../Runes/ScrollEconomy.md`, `../../Story/Notes/StoryPrices.md`, `../../Story/Notes/CoinLedger.md`.
 
 ### Water
 - Water Bolt

@@ -1,6 +1,6 @@
 # Road Paving Precision, Asphalt Science and the Roads of Hawaii
 
-> Earth invent loot. Paving precision limits, asphalt binder and mix science, bump prevention, Hawaii road history, and every major island damage mechanism with speed and severity. Not Caldris law. Road layers / era ladder: `../../Science/Vehicle/Roads.md`. Unpaved trail science (drainage, erosion, soil): `../../Science/Vehicle/TrailBuilding.md`. Island transport verdict: `../../Science/Vehicle/HawaiianTransport.md`. Weather / rain: `Weather.md`. Biomes / lava: `HawaiianBiomes.md`, `HawaiianNativeLandscape.md`. Aggregates / basalt: `HawaiianMinerals.md`, `Sands.md`. Places (Dragnis-class): `../Places.md`. Nav: `Index.md`.
+> Earth invent loot. Paving precision limits, asphalt binder and mix science, bump prevention, Hawaii road history, and every major island damage mechanism with speed and severity. Not Caldris law. Road layers / era ladder: `../../Science/Vehicle/Roads.md`. Unpaved trail science (drainage, erosion, soil): `../../Science/Invent/TrailBuilding.md`. Island transport verdict: `../../Science/Vehicle/HawaiianTransport.md`. Weather / rain: `Weather.md`. Biomes / lava: `HawaiianBiomes.md`, `HawaiianNativeLandscape.md`. Aggregates / basalt: `HawaiianMinerals.md`, `Sands.md`. Places (Dragnis-class): `../Places.md`. Nav: `Index.md`.
 
 Units: both SI and US customary are given where practical. Figures marked "typical" are industry norms rather than Hawaii-specific measurements. Hawaii-specific figures are sourced at the end.
 

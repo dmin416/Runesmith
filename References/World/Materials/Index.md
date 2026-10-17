@@ -9,13 +9,14 @@ Up: [World](../Index.md)
 - [Materials.md](Materials.md). Terra = Earth elements. Tags: COMMON · MAGIC · SPECIALTY · NO.
 - [MaterialsProcessing.md](MaterialsProcessing.md). Processing and science encyclopedia (Au Ag Cu Sn Fe steel Zn brass bronze Ti V W C S P Na sea minerals)
 - [Metals.md](Metals.md). Availability tags: Materials.md. Ambient altitude C / soak A = √C: ../Science/Energy/ManaConcentration.md. Shop craft: ../Science/Metallurgy/CraftMetal.md.
+- [BuildingMetals.md](BuildingMetals.md). Steel, aluminum, stainless, Cu, Zn, Ti production and strengthening for buildings. EE stubs: BuildingMaterials.md.
 - [TranslucentMaterials.md](TranslucentMaterials.md). Glass, quartz, diamond, silicone, chitin films, preindustrial clear panes. Deep glass science pack: GlassScience.md.
 - [GlassScience.md](GlassScience.md). Glass pack hub: structure, families, viscosity, fracture, thermal shock. Tempering: GlassTempering.md. Making: GlassMaking.md. Kin materials: GlassRelated.md.
 - [GlassTempering.md](GlassTempering.md). Thermal tempering, chemical strengthen, laminated, stress measurement, standards. Hub: GlassScience.md.
 - [GlassMaking.md](GlassMaking.md). Industrial melting, float, annealing; workshop batch and temper. Hub: GlassScience.md.
 - [GlassRelated.md](GlassRelated.md). Glass-ceramics, kin materials, natural/bio glass, history, facts, calcs, glossary. Hub: GlassScience.md.
-- [SheerMaterials.md](SheerMaterials.md). Sheer fabrics, one-way viewing, concealing garments, thermal comfort under cover.
-- [BuildingMaterials.md](BuildingMaterials.md). Strength mechanisms, EE/EC, renewability and production effort for structural and enclosure materials; concrete deepest.
+- [SheerMaterials.md](SheerMaterials.md). Sheer fabrics, one-way cloth/screens. Mirrors: ../Science/Energy/Optics.md. Concealing history / thermal: ../Science/Invent/ConcealingGarments.md, ClothingThermal.md.
+- [BuildingMaterials.md](BuildingMaterials.md). Strength mechanisms, EE/EC, renewability and production effort; concrete deepest. Metals deep: BuildingMetals.md. Timber/bamboo: ../Science/Biomaterials/.
 - [CleanableSurfaces.md](CleanableSurfaces.md). Non-stick / non-porous materials, toilets, urinals, walls, floors, breathability, grounding, biocompatibility, adhesives, cleaning chemistry, master sanitary spec.
 - [ConcreteCuringRecycling.md](ConcreteCuringRecycling.md). Curing (dry / fresh / salt / Roman marine), self-healing, recycling as aggregate, crack diagnosis and repair.
 - [WeatheringWear.md](WeatheringWear.md). Wear pack hub: mechanisms, climate multipliers, reading patterns, timelines, cases. Stone: WeatheringRockStone.md. Concrete: WeatheringCementConcrete.md. Glass/wood: WeatheringGlassWood.md.

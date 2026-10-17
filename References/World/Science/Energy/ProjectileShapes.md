@@ -1,6 +1,6 @@
 # Projectile Shapes, Flight Patterns and Stability
 
-> Earth reference / invent loot. Not locked law. Launch physics / sphere scatter / flywheel: `Projectiles.md`. Guided munitions: `GuidedProjectiles.md`. Arrowheads: `../Metallurgy/Arrowheads.md`. Kinetic impartation: `KineticImpartation.md`. Recoil: `Kinetic.md`.
+> Earth reference / invent loot. Not locked law. Launch physics / sphere scatter / flywheel: `Projectiles.md`. Guided munitions: `GuidedProjectiles.md`. Arrowheads: `../Metallurgy/Arrowheads.md`. Kinetic impartation: `KineticImpartation.md`. Recoil: `Kinetic.md`. Terminal / wounding tables: `../../../Combat/Firearms.md`. Space combat / debris: `../../../Combat/SpaceProjectiles.md`. Propellant: `GunpowderFirearms.md`.
 
 Nav: `Index.md`. Hub: `../Science.md`.
 
@@ -16,13 +16,15 @@ Complete reference for atmosphere and vacuum.
 4. Flight in Vacuum
 5. Projectile Catalog
 6. The Hypersonic Needle
-7. Penetration and Terminal Effects
+7. Penetration and Terminal Effects (pointer: Combat/Firearms.md)
 8. Comparison Tables
 9. Key Takeaways
 
 ---
 
 ## 1. Core Physics
+
+Sphere scatter, transonic Cd and random Magnus on uncontrolled spin: `Projectiles.md` (Sphere flight randomness). This file owns shapes, CM/CP, stabilization and vacuum orientation.
 
 ### 1.1 Forces Acting on a Projectile
 
@@ -309,14 +311,7 @@ Above a few hundred kilometers the flat-ground assumption breaks down. Planetary
 
 ### 4.7 Space Combat Considerations
 
-- **Range is unlimited in principle.** Practical range is set by accuracy and target movement.
-- **Angular error scales linearly with distance.** One microradian of aiming error equals 1 m of miss at 1,000 km.
-- **Time of flight is the real enemy.** A projectile at 10 km/s needs 100 s to cross 1,000 km. Any maneuvering target can move well out of the way.
-- **Closing velocities in orbit can exceed 10 to 15 km/s.** At 10 km/s each kilogram carries 50 MJ of kinetic energy, roughly 12 times the energy of a kilogram of TNT.
-- **Recoil is fully conserved.** Every shot pushes the firing vessel. Large guns require counter-thrust or careful mass management.
-- **Misses never stop.** A shot fired in orbit follows its own orbit and may return around the planet. A shot above escape velocity leaves forever. Debris remains a long-term hazard.
-- **Projectiles stay cold in flight.** Heat problems shift to the launcher, which cannot shed heat by convection.
-- **Shotgun effect:** a cloud of small pellets at orbital closing speeds is devastating against thin structures. A single pea-sized particle at 10 km/s can punch through spacecraft walls.
+Space combat, debris and orbital shotgun detail: `../../../Combat/SpaceProjectiles.md`.
 
 ### 4.8 Airless Planetary Surfaces
 
@@ -744,51 +739,14 @@ Gravity gradient adds a tiny torque that tends to align a long object vertically
 
 ## 7. Penetration and Terminal Effects
 
-### 7.1 Energy, Momentum and Pressure
+Shape-driven penetration physics (sectional density, nose shape, yaw) sits with the shape catalog above. Wound channels, stopping power and small-arms / artillery terminal tables: `../../../Combat/Firearms.md` (Terminal Effects from ProjectileShapes). Propellant and barrel pressure: `GunpowderFirearms.md`.
 
-- **Kinetic energy (½mv²):** rises with the square of velocity. Governs total damage potential.
-- **Momentum (mv):** governs pushing power and resistance to deflection.
-- **Pressure at contact:** depends on velocity and contact area. Small sharp tips concentrate force.
+Short rules of thumb for invent:
 
-### 7.2 Low to Moderate Velocity Impacts (Below About 1.5 km/s)
-
-- Projectile strength and hardness matter.
-- Nose shape matters. Pointed noses penetrate soft materials well. Blunt or capped noses resist shattering on hard armor.
-- Sloped armor increases effective thickness and promotes ricochet.
-- **Shatter gap:** some hardened projectiles shatter within a specific velocity window and fail to penetrate even though slower ones succeed.
-
-### 7.3 Hydrodynamic Regime (Above About 2 to 3 km/s)
-
-- Projectile and target flow like fluids at the contact point.
-- Penetration depth approaches **rod length × √(projectile density / target density)**.
-- Tungsten or depleted uranium (density around 17 to 19 g/cm³) against steel (around 7.85 g/cm³) gives a ratio near 1.5. A rod penetrates roughly 1.5 times its own length.
-- Material strength and nose shape stop mattering much. Length and density dominate.
-- This is why modern penetrators are long rods.
-
-### 7.4 Hypervelocity Regime (Above About 5 to 7 km/s)
-
-- Impact energy partly vaporizes both projectile and target.
-- Compact projectiles create wide craters rather than deep holes.
-- Impact flash and plasma form.
-- Common in orbital combat scenarios and micrometeoroid impacts.
-
-### 7.5 Yaw at Impact
-
-A long rod hitting with yaw strikes partly with its side. Penetration falls sharply once yaw exceeds a few degrees. This is the core reason orientation control matters for long rods in vacuum. Spheres and compact slugs are immune to this penalty.
-
-### 7.6 Chemical Energy Effects
-
-- **HEAT:** shaped charge jet penetration depends on charge diameter and liner quality, not impact velocity. Effective from slow launchers. Degraded by spin. Defeated by spaced, slat and reactive armor.
-- **HESH:** spreads explosive on the armor surface. Creates internal spall. Works with spin. Defeated by spaced armor.
-- **HE fragmentation:** effect depends on fragment number, size and velocity. Fragment velocity drops quickly in air but not in vacuum.
-
-### 7.7 Soft Target Effects (General)
-
-- **Permanent cavity:** tissue directly crushed or cut.
-- **Temporary cavity:** tissue stretched by the passing projectile. Significant at high velocity.
-- **Yaw and tumbling:** a projectile turning sideways creates a larger wound path. Spitzer bullets and flechettes often yaw in tissue.
-- **Expansion and fragmentation:** increase frontal area and damage.
-- **Velocity alone is not decisive:** a fast narrow projectile that stays stable can pass through with limited effect.
+- Longer, denser rods (high L/D, high density) penetrate armor better at equal velocity.
+- Blunt noses dump energy early; sharp noses and long rods keep going.
+- Yaw and tumbling multiply wound volume for soft targets after the projectile turns sideways.
+- In vacuum there is no aerodynamic yaw; orientation is set by spin, tip-off or thrusters.
 
 ---
 

@@ -76,3 +76,57 @@ What skin feels on touch depends on **effusivity**: how readily a material gives
 - Skin touching skin splits the difference evenly. A Heat Immunity holder at 300°C burns anyone who touches them instantly.
 - Low-effusivity layers like wool, aerogel fabric or silica fiber between them sharply cut the heat transferred.
 - Insulation falls under separate gear or skills, not the Thermal family.
+
+---
+
+## Building Foam Insulation (from BuildingMaterials)
+
+> Structural polymer strength and EE also summarized in `BuildingMaterials.md` §14 stub. Permeation / vapor: `PermeationBarriers.md`.
+
+## 14.1 How polymers achieve strength
+
+Polymer chains have strong covalent backbones (C-C bonds ~350 kJ/mol), but bulk strength depends on interactions between chains:
+- **Thermoplastics** (PVC, PE, PP, PC, PMMA): chains held by van der Waals forces, hydrogen bonds and entanglement. Crystalline regions (lamellae ~10 nm thick) in semicrystalline polymers add stiffness. They soften on heating and can be remelted.
+- **Thermosets** (epoxy, polyester, phenolic, polyurethane rigid foam): covalently crosslinked 3D networks; do not melt; usually stiffer and more heat-resistant but not remeltable.
+
+Above the glass transition temperature (Tg), amorphous regions become rubbery. Polymers creep significantly at room temperature.
+
+| Polymer | Tensile (MPa) | E (GPa) | Tg / Tm | Use |
+|---|---|---|---|---|
+| PVC (rigid) | 40-55 | 2.5-3.5 | Tg ~80°C | Pipes, window frames, membranes, cladding |
+| HDPE | 20-35 | 0.8-1.2 | Tm ~130°C | Pipes, geomembranes |
+| Polypropylene | 30-40 | 1.2-1.7 | Tm ~165°C | Fibers in concrete, pipes |
+| Polycarbonate | 55-75 | 2.2-2.5 | Tg ~147°C | Impact-resistant glazing |
+| PMMA (acrylic) | 50-75 | 2.4-3.3 | Tg ~105°C | Glazing, skylights |
+| Epoxy | 50-90 | 2.5-4 | Tg 60-180°C | Adhesives, coatings, FRP matrix |
+
+## 14.2 Insulation foams
+- **EPS (expanded polystyrene)**: beads expanded with pentane, fused in molds; λ ≈ 0.031 to 0.038 W/m·K
+- **XPS (extruded polystyrene)**: closed-cell; historically blown with HFCs (high global warming potential), now shifting to CO₂ and HFOs; λ ≈ 0.029 to 0.035
+- **PIR/PUR (polyisocyanurate/polyurethane)**: thermoset closed-cell foam; λ ≈ 0.022 to 0.028
+- **Phenolic foam**: λ ≈ 0.018 to 0.023
+- **Mineral wool (stone/glass)**: not polymer; fibers spun from molten rock at ~1500°C or glass; binder; λ ≈ 0.032 to 0.040; non-combustible
+
+## 14.3 Production and renewability
+Feedstocks come from crude oil or natural gas by steam cracking (ethylene, propylene) at ~850°C, followed by polymerization. PVC adds chlorine from salt electrolysis (chlor-alkali process): ~57% of PVC mass is chlorine.
+
+| Material | EE (MJ/kg) | EC (kg CO₂e/kg) |
+|---|---|---|
+| PVC | 60-80 | 2-3.2 |
+| HDPE | 75-85 | 1.9-2.0 |
+| EPS | 85-90 | 3.3-3.5 |
+| XPS (HFO/CO₂ blown) | 85-95 | 3-4 (much higher with HFC blowing) |
+| PIR | 90-100 | 3.5-4.5 |
+| Mineral wool | 15-20 | 1.1-1.3 |
+| Polycarbonate | 100-115 | 6-8 |
+
+Note: roughly half the embodied energy of polymers is "feedstock energy" locked in the material (recoverable by incineration).
+
+- **Renewability**: Class F (fossil). Bio-based polyethylene (from sugarcane ethanol) and other bio-polymers exist at small scale.
+- **Recycling**: technically possible for thermoplastics; actual building plastic recycling rates are low due to contamination, additives and mixed materials. VinylPlus in Europe recycles hundreds of thousands of tonnes of PVC annually.
+- **Durability concerns**: UV degradation (chain scission), plasticizer migration, flammability and toxic smoke.
+
+**Effort rating**: High energy; chemically complex process chains.
+
+---
+

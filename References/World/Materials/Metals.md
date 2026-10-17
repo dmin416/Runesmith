@@ -1,6 +1,6 @@
 # Metals
 
-> Availability tags: `Materials.md`. Ambient altitude `C` / soak `A = √C`: `../Science/Energy/ManaConcentration.md`. Shop craft: `../Science/Metallurgy/CraftMetal.md`. Path η_cond: `../../Runes/Energy.md`. Structural steel / aluminum EE-EC: `BuildingMaterials.md`.
+> Availability tags: `Materials.md`. Ambient altitude `C` / soak `A = √C`: `../Science/Energy/ManaConcentration.md`. Shop craft: `../Science/Metallurgy/CraftMetal.md`. Path η_cond: `../../Runes/Energy.md`. Structural steel / aluminum EE-EC: `BuildingMaterials.md`. Deep production / strengthening: `BuildingMetals.md`.
 
 ## Narrative
 

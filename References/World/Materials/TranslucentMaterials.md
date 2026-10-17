@@ -1,6 +1,6 @@
 # Translucent Materials: Uses, Sources and Processing
 
-Hub: `Materials.md`. Sheer fabrics / one-way / cover and heat: `SheerMaterials.md`. Structural / enclosure glass in EE-EC ladder: `BuildingMaterials.md`. Sanitary glass / easy-clean coatings: `CleanableSurfaces.md`. Silica purity ladder / energy: `MaterialPurification.md`. Atomization floors (diamond, chitin, silicone, quartz, glass): `AtomizationEnergy.md`. Deep glass science (temper, fracture, making): `GlassScience.md`. Optics craft: `../Science/Energy/Optics.md`. Thermometers / glass tubes: `../Science/Metallurgy/Thermometers.md`. Insect / rubber stocks: `../Science/Biomaterials/RubberAndInsect.md`. Gem seats: `../Science/Metallurgy/GemInlay.md`. Tech era filter: `../Tech/Technology.md`.
+Hub: `Materials.md`. Sheer fabrics / one-way / cover and heat: `SheerMaterials.md`. Structural / enclosure glass in EE-EC ladder: `BuildingMaterials.md`. Sanitary glass / easy-clean coatings: `CleanableSurfaces.md`. Silica purity ladder / energy: `MaterialPurification.md`. Atomization floors (diamond, chitin, silicone, quartz, glass): `AtomizationEnergy.md`. Deep glass science (temper, fracture, making): `GlassScience.md`. Optics craft: `../Science/Energy/Optics.md`. Thermometers / glass tubes: `../Science/Metallurgy/Thermometers.md`. Insect / rubber stocks: `../Science/Biomaterials/RubberAndInsect.md`. Gem seats: `../Science/Metallurgy/GemInlay.md`. Tech era filter: `../Tech/Technology.md`. One-way mirrors: `../Science/Energy/Optics.md`.
 
 ---
 

@@ -1,6 +1,6 @@
 # Building Materials: Strength Mechanisms, Science, Renewability and Production Effort
 
-> Earth reference / invent loot. Not locked law. Metals tags: Metals.md. Glass / clear panes: TranslucentMaterials.md. Glass fracture / temper / making: GlassScience.md. Insulation ladder: InsulationMaterials.md. Sheer / cover / heat under cloth: SheerMaterials.md. Purification / kiln energy: MaterialPurification.md, AtomizationEnergy.md. Timber biomaterials: ../Science/Biomaterials/. Farm construction (barns, sheds, silos, farmstead sequence): ../Science/Invent/FarmBuildings.md. Floating / pontoon bridges (buoyancy, pontoon materials, construction): ../Science/Invent/FloatingBridges.md. Caldris build tech filter: ../Tech/Technology.md. Exterior wear and climate spoil: WeatheringWear.md pack. Curing, recycling and crack repair: ConcreteCuringRecycling.md. Cleanable / sanitary surfaces and fixtures: CleanableSurfaces.md.
+> Earth reference / invent loot. Not locked law. Metals tags: Metals.md. Deep steel/aluminum/other: BuildingMetals.md. Glass / clear panes: TranslucentMaterials.md. Glass fracture / temper / making: GlassScience.md. Insulation ladder: InsulationMaterials.md. Sheer / cover / heat under cloth: SheerMaterials.md. Purification / kiln energy: MaterialPurification.md, AtomizationEnergy.md. Timber: ../Science/Biomaterials/StructuralTimber.md. Bamboo: ../Science/Biomaterials/Bamboo.md. Seasoning: ../Science/Biomaterials/AgingWood.md. Farm construction (barns, sheds, silos, farmstead sequence): ../Science/Invent/FarmBuildings.md. Floating / pontoon bridges (buoyancy, pontoon materials, construction): ../Science/Invent/FloatingBridges.md. Caldris build tech filter: ../Tech/Technology.md. Exterior wear and climate spoil: WeatheringWear.md pack. Curing, recycling and crack repair: ConcreteCuringRecycling.md. Cleanable / sanitary surfaces and fixtures: CleanableSurfaces.md.
 
 Nav: Index.md.
 
@@ -15,17 +15,17 @@ All figures are typical ranges. Embodied energy (EE) and embodied carbon (EC) va
 1. Foundations: how any material resists load
 2. Concrete (full treatment)
 3. Lime, ancient binders and cement alternatives
-4. Steel and iron
-5. Aluminum
-6. Other metals: stainless steel, copper, zinc, titanium
-7. Timber and engineered wood
-8. Bamboo
+4. Steel and iron (EE stub; deep: BuildingMetals.md)
+5. Aluminum (EE stub; deep: BuildingMetals.md)
+6. Other metals (EE stub; deep: BuildingMetals.md)
+7. Timber and engineered wood (pointer: Biomaterials/StructuralTimber.md)
+8. Bamboo (pointer: Biomaterials/Bamboo.md)
 9. Natural stone
 10. Fired clay brick and ceramics
 11. Earth construction: adobe, rammed earth, cob, CEB
 12. Gypsum
-13. Glass
-14. Polymers and foam insulation
+13. Glass (pointer: GlassScience pack)
+14. Polymers and foam insulation (pointer: InsulationMaterials.md)
 15. Fiber-reinforced polymers and basalt fiber
 16. Bio-based and rapidly renewable materials
 17. Emerging and experimental materials
@@ -559,393 +559,69 @@ Aluminosilicate powders (fly ash, slag, metakaolin) dissolved in concentrated al
 
 # 4. Steel and Iron
 
-## 4.1 Atomic basis
+Deep iron-carbon system, strengthening mechanisms, production routes: `BuildingMetals.md`. Availability tags: `Metals.md`. Shop craft: `../Science/Metallurgy/CraftMetal.md`.
 
-Iron is a transition metal with metallic bonding: a lattice of positive ion cores in a sea of delocalized electrons. Bonding is non-directional, so atoms can slide past each other without breaking the material apart. This produces ductility.
+Typical structural steel (building): yield 250 to 460 MPa, E ≈ 200 GPa, density 7850 kg/m³.
 
-Iron has two key crystal structures:
-- **Ferrite (α-Fe)**: body-centered cubic (BCC), stable below 912°C; dissolves at most 0.022% carbon
-- **Austenite (γ-Fe)**: face-centered cubic (FCC), stable from 912 to 1394°C; dissolves up to 2.14% carbon
-
-The difference in carbon solubility between these phases is the basis of all steel heat treatment.
-
-## 4.2 The iron-carbon system
-
-- **Cementite (Fe₃C)**: hard, brittle iron carbide (6.67% C)
-- **Eutectoid** at 0.76% C and 727°C: austenite transforms to **pearlite**, alternating lamellae of ferrite and cementite, a natural nanocomposite
-- **Structural steels**: 0.05 to 0.25% C; microstructure of ferrite grains plus some pearlite
-- **Cast iron**: 2 to 4% C; carbon present as graphite flakes (gray iron, brittle in tension) or spheres (ductile iron)
-- **Martensite**: austenite quenched rapidly enough to suppress diffusion transforms by shear into body-centered tetragonal (BCT) iron supersaturated with carbon. Extremely hard, brittle. Tempering (reheating to 200 to 650°C) lets carbon precipitate as fine carbides, restoring toughness.
-
-## 4.3 Strengthening mechanisms
-
-Every method obstructs dislocation motion.
-
-1. **Solid-solution strengthening**: Interstitial atoms (C, N) and substitutional atoms (Mn, Si, Cr, Ni) distort the lattice. Strain fields pin dislocations. Carbon in solution is extremely potent but limited by solubility in ferrite.
-
-2. **Grain refinement (Hall-Petch)**: Grain boundaries block dislocation slip.
- σ_y = σ₀ + k_y·d^(-1/2)
- For low-carbon steel σ₀ ≈ 50 to 70 MPa and k_y ≈ 0.6 to 0.75 MPa·m^½. Reducing grain size from 50 µm to 5 µm raises yield by roughly 200 MPa. Grain refinement is unique because it raises strength and toughness simultaneously.
-
-3. **Precipitation / dispersion strengthening**: Fine carbides and nitrides (NbC, VC, TiN) force dislocations to bow between them (Orowan mechanism):
- Δτ ≈ Gb / L (L = particle spacing). Microalloying additions of only 0.01 to 0.1% niobium, vanadium or titanium create high-strength low-alloy (HSLA) steels.
-
-4. **Work hardening**: Plastic deformation multiplies dislocations; they tangle and obstruct each other.
- τ = αGb√ρ (Taylor relation, ρ = dislocation density, from ~10¹⁰ m⁻² annealed to ~10¹⁵ m⁻² heavily worked)
- Cold-drawn wire for prestressing strand reaches 1700 to 2000 MPa partly by this route.
-
-5. **Phase transformation strengthening**: Pearlite, bainite and martensite microstructures.
-
-### Processing routes for structural products
-- **Thermomechanically controlled processing (TMCP)**: rolling at controlled temperatures so austenite recrystallizes into fine grains, then accelerated cooling. Produces fine-grained, weldable, tough plate without high carbon.
-- **Tempcore / QST rebar**: hot-rolled bar is water-quenched so the surface transforms to martensite; heat from the still-hot core then tempers the surface. Result: hard tempered-martensite rim with a ductile ferrite-pearlite core, yield 500+ MPa without expensive alloys.
-
-## 4.4 Properties
-
-| Grade | Yield (MPa) | Ultimate (MPa) | Elongation |
-|---|---|---|---|
-| Mild steel S235 / A36 | 235-250 | 360-510 | 20-26% |
-| Structural S355 / A992 | 345-355 | 450-630 | 18-22% |
-| HSLA S460 | 460 | 540-720 | 17% |
-| Rebar B500 / Grade 60 | 420-500 | 540-620 | 8-14% |
-| Prestressing strand | 1600-1700 (0.1% proof) | 1770-1960 | 3.5% |
-| High-strength bolts (Grade 10.9) | 900 | 1000 | 9% |
-
-Common to all: E ≈ 200 to 210 GPa, density 7850 kg/m³, Poisson's ratio 0.3, thermal expansion ~12 × 10⁻⁶/K, fracture toughness 50 to 200 MPa·√m.
-
-**Fatigue**: Steel has an endurance limit (around 40 to 50% of tensile strength for smooth specimens) below which it can sustain infinite cycles. Welds and notches lower this greatly.
-
-**Brittle fracture**: BCC steels have a ductile-to-brittle transition temperature. Below it, cleavage fracture occurs with little energy absorption (Liberty ship failures 1940s). Modern specifications require Charpy impact energy at specified low temperatures.
-
-**Fire**: Eurocode reduction factors for yield: about 0.78 at 500°C, 0.47 at 600°C, 0.23 at 700°C. Fire protection (intumescent paint, board, spray) keeps steel below about 550°C for the required period.
-
-**Corrosion**: Iron spontaneously oxidizes in moist air. Protection: paint systems; hot-dip galvanizing (zinc corrodes sacrificially, 50 to 100 years in rural air); weathering steel (Cu, Cr, Ni, P additions form a dense adherent patina); stainless steel (see section 6).
-
-## 4.5 Production routes and work to attain
-
-### Route A: Blast furnace / basic oxygen furnace (BF-BOF), ~70% of world output
-
-1. **Mining**: iron ore (hematite Fe₂O₃, magnetite Fe₃O₄) at 30 to 65% Fe. Roughly 1.5 to 1.7 t ore per t iron.
-2. **Beneficiation**: crushing, grinding, magnetic separation, flotation to concentrate
-3. **Agglomeration**: sintering (fusing fines with limestone on a moving grate at ~1300°C) or pelletizing (firing balls at ~1300°C)
-4. **Cokemaking**: metallurgical coal heated to 1000 to 1100°C without air for 18 to 24 hours, driving off volatiles to leave strong porous carbon. Roughly 0.35 to 0.45 t coke per t hot metal.
-5. **Blast furnace**: a counter-current reactor 30+ m tall. Hot air blast (1000 to 1250°C) burns coke at the tuyeres (raceway temperature 2000 to 2300°C), producing CO:
- C + O₂ → CO₂; CO₂ + C → 2CO (Boudouard reaction)
- Ore is reduced stepwise as it descends:
- 3Fe₂O₃ + CO → 2Fe₃O₄ + CO₂
- Fe₃O₄ + CO → 3FeO + CO₂
- FeO + CO → Fe + CO₂
- Limestone flux forms slag with silica and alumina gangue. Product: hot metal (pig iron) at ~1500°C with 4 to 4.5% C.
-6. **Basic oxygen furnace**: pure oxygen blown at supersonic speed onto molten iron plus 15 to 25% scrap. Carbon oxidizes to CO, removing it to under 0.1% in about 20 minutes. Reaction is exothermic enough that no external fuel is needed.
-7. **Secondary (ladle) metallurgy**: deoxidation (Al, Si), desulfurization, alloying, vacuum degassing.
-8. **Continuous casting** into slabs, blooms or billets.
-9. **Hot rolling** into plate, sections (I-beams), bar; optional cold forming, galvanizing.
-
-| BF-BOF metric | Value |
-|---|---|
-| Energy intensity | ~18-22 GJ/t crude steel |
-| Thermodynamic minimum for Fe₂O₃ reduction | ~7 GJ/t Fe |
-| CO₂ | ~2.0-2.3 t/t crude steel |
-
-### Route B: Electric arc furnace (EAF), ~30% of world output
-Graphite electrodes strike arcs (temperatures in the arc exceed 3000°C) to melt scrap and/or direct reduced iron. Energy ~350 to 500 kWh/t of electricity for scrap.
-
-| EAF (scrap) metric | Value |
-|---|---|
-| Energy | ~6-10 GJ/t |
-| CO₂ | ~0.3-0.7 t/t (dominated by grid electricity) |
-
-### Route C: Direct reduction (DRI)
-Iron ore pellets reduced as solids at 800 to 1050°C by natural gas reformed to CO and H₂, or by pure hydrogen:
-Fe₂O₃ + 3H₂ → 2Fe + 3H₂O (endothermic, ΔH ≈ +96 kJ/mol)
-Hydrogen-DRI-EAF with renewable electricity could cut emissions by 90%+. Requires roughly 50 to 55 kg of hydrogen per tonne of steel, or about 2.5 to 3.5 MWh of electricity per tonne including electrolysis. Several plants are under construction in Europe.
-
-### Embodied values
 | Product | EE (MJ/kg) | EC (kg CO₂e/kg) |
 |---|---|---|
-| Steel world average (~30-40% recycled content) | 20-25 | 1.8-2.0 |
-| Primary (BF-BOF) sections | 25-35 | 2.2-2.8 |
-| EAF scrap-based sections/rebar | 9-13 | 0.5-1.0 |
-| Galvanized sheet | 25-40 | 2.5-3.0 |
+| Primary BF-BOF steel | 20-35 | 1.5-2.5 |
+| EAF (high scrap) | 8-15 | 0.3-0.8 |
+| Rebar (typical mix) | 15-25 | 1.0-1.8 |
 
-Global crude steel output: about 1.9 billion tonnes per year. Steel accounts for roughly 7% of global CO₂ emissions.
-
-## 4.6 Renewability: steel
-- **Raw material**: Iron is about 5% of Earth's crust, fourth most abundant element. Economic reserves of ore last well over a century at current rates; resources far longer. Class A1.
-- **Circularity**: Class C. Steel can be remelted indefinitely without loss of fundamental properties. Structural steel recovery rates from demolition exceed 85 to 95%; rebar recovery is lower (~70%) because it must be separated from concrete. One challenge: copper contamination from mixed scrap accumulates (copper cannot be removed by oxidation) and causes hot shortness above ~0.2 to 0.3% Cu.
-- **Reuse**: Bolted steel sections can be reclaimed and reused directly after testing.
-- **Limit on recycling**: Total demand exceeds available scrap because of growth and long building lifetimes (50 to 100 years), so primary steel will remain necessary for decades.
-
-**Effort rating**: High. Multiple high-temperature stages, heavy mining. Scrap route is roughly one third the energy.
+Renewability: Class C (highly recyclable). Effort: high for primary; moderate for scrap EAF.
 
 ---
 
 # 5. Aluminum
 
-## 5.1 Atomic basis
+Deep Bayer / Hall-Héroult, precipitation hardening, alloy table: `BuildingMetals.md`. Tags: `Metals.md`.
 
-FCC metallic crystal, density 2700 kg/m³ (about one third of steel). Pure aluminum is weak (yield ~30 MPa). Building alloys reach 150 to 500 MPa through precipitation hardening.
-
-Aluminum oxidizes instantly in air to form a 2 to 5 nm amorphous Al₂O₃ film that is adherent, self-healing and impermeable. This passive film, not inherent nobility, gives aluminum its corrosion resistance. Anodizing thickens it electrochemically to 5 to 25 µm.
-
-## 5.2 Precipitation hardening (age hardening)
-
-Discovered by Alfred Wilm in 1906. Process:
-1. **Solution treatment**: heat to ~530°C (6xxx series) to dissolve alloying elements into a single solid solution
-2. **Quench**: rapid cooling traps them in a supersaturated solid solution (SSSS)
-3. **Aging**: holding at 160 to 180°C (artificial aging, "T6") or room temperature ("T4") allows atoms to cluster into nanoscale precipitates
-
-Sequence in 6xxx (Al-Mg-Si) alloys:
-SSSS → solute clusters → GP zones → β'' (needle-shaped, coherent, ~4 × 4 × 50 nm, the main strengthener) → β' → β (Mg₂Si, equilibrium, coarse)
-
-Peak strength occurs when β'' precipitates are dense and coherent, forcing dislocations to cut through them. Over-aging coarsens precipitates; dislocations then bypass them (Orowan looping) and strength drops.
-
-| Alloy | Main elements | Yield (MPa) | UTS (MPa) | Use |
-|---|---|---|---|---|
-| 6063-T6 | Mg, Si | 215 | 240 | Window frames, curtain wall mullions |
-| 6061-T6 | Mg, Si, Cu | 275 | 310 | Structural extrusions |
-| 6082-T6 | Mg, Si, Mn | 260 | 310 | European structural |
-| 5083-H116 | Mg (solid solution + work hardening) | 215 | 305 | Marine, welded |
-| 7075-T6 | Zn, Mg, Cu | 500 | 570 | Aerospace; rarely in buildings (corrosion, weldability) |
-
-E ≈ 69 to 72 GPa (one third of steel, so deflection often governs design). Thermal expansion ~23 × 10⁻⁶/K (twice steel). No fatigue endurance limit (eventually fails at any cyclic stress). Loses about half its strength by ~250 to 300°C, so fire performance is poor. Melts at ~600 to 660°C.
-
-## 5.3 Production and work to attain
-
-1. **Bauxite mining**: open-pit, mainly gibbsite Al(OH)₃ and boehmite AlO(OH). Roughly 4 to 5 t bauxite per t aluminum. Major producers: Australia, Guinea, China, Brazil.
-2. **Bayer process**: bauxite digested in hot sodium hydroxide (140 to 240°C, pressurized):
- Al(OH)₃ + NaOH → NaAl(OH)₄
- Impurities (iron oxides, silica, titania) settle as **red mud**, roughly 1 to 1.5 t per t alumina, highly alkaline (pH 10 to 13) and stored in large tailings ponds (failures have caused disasters, e.g. Ajka, Hungary, 2010).
- Cooling and seeding precipitate Al(OH)₃, calcined at ~1000°C to alumina (Al₂O₃). About 2 t alumina per t aluminum.
-3. **Hall-Héroult electrolysis**: alumina dissolved in molten cryolite (Na₃AlF₆) at 950 to 980°C. Carbon anodes, ~4 to 4.5 V per cell, 300 to 600 kA currents:
- 2Al₂O₃ + 3C → 4Al + 3CO₂
- Electricity: 13 to 15 kWh per kg aluminum (best plants ~12.5). Thermodynamic minimum with consumable carbon anodes ~6.3 kWh/kg. Carbon anodes consumed ~0.4 to 0.45 t/t Al.
- Anode effects release perfluorocarbons (CF₄, C₂F₆) with global warming potentials of 6,500 to 12,000.
- Inert anode technology under development would release O₂ instead of CO₂.
-4. **Casting, extrusion, rolling, heat treatment, anodizing or powder coating**
+Density 2700 kg/m³. Building alloys yield ~150 to 500 MPa. E ≈ 69 to 72 GPa.
 
 | Product | EE (MJ/kg) | EC (kg CO₂e/kg) |
 |---|---|---|
-| Primary, hydropower smelting | 130-160 | 4-6 |
-| Primary, global average | 155-200 | 12-17 |
-| Primary, coal-powered smelting | 180-220 | 16-20 |
+| Primary (global avg) | 155-200 | 12-17 |
+| Primary (hydro) | 130-160 | 4-6 |
 | Recycled (secondary) | 8-30 | 0.5-1.5 |
-| Typical extruded product (mixed content) | 50-150 | 4-10 |
 
-Recycling uses about 5% of the energy of primary production. World primary production ~70 million t/yr; aluminum accounts for roughly 2% of global emissions.
-
-## 5.4 Renewability
-- Aluminum is the most abundant metal in Earth's crust (~8%), but economically extractable bauxite is Class A2 (reserves ~30 billion t, roughly a century at current rates; resources larger).
-- Circularity Class C: recyclable indefinitely, though alloy mixing (different series in mixed scrap) leads to downcycling into casting alloys unless sorted.
-
-**Effort rating**: Very high for primary metal (the most electricity-intensive common building material by mass). Low for recycled.
+Recycling ~5% of primary energy. Effort: very high for primary; low for recycled.
 
 ---
 
 # 6. Other Metals
 
-## 6.1 Stainless steel
-Iron with at least 10.5% chromium. Chromium forms a 1 to 3 nm self-repairing Cr₂O₃ passive layer. Austenitic grades (304: 18% Cr, 8% Ni; 316: adds 2 to 3% Mo for chloride resistance) are FCC, non-magnetic, very ductile and tough at cryogenic temperatures. Duplex grades (22% Cr, 5% Ni, ferrite + austenite) have about twice the yield strength (~450 MPa).
-- EE: 50 to 80 MJ/kg; EC: 4 to 7 kg CO₂e/kg (nickel and chromium mining and smelting are energy-intensive)
-- Highly recyclable; scrap content typically 60 to 85%
+Stainless, copper, zinc, titanium production and EE detail: `BuildingMetals.md`. Tags: `Metals.md`.
 
-## 6.2 Copper
-FCC, very ductile, high electrical and thermal conductivity. Used for wiring, plumbing, roofing and cladding. Strengthened by cold working. Develops verdigris patina (basic copper carbonates and sulfates) that protects roofs for 100+ years.
-- Ore grades now often 0.5 to 1% Cu, so mining moves huge rock volumes (roughly 100 to 200 t ore per t Cu)
-- Smelting: concentrating, flash smelting to matte, converting, electrorefining
-- EE: 40 to 60 MJ/kg primary; EC: 2.5 to 4 kg CO₂e/kg
-- Class A2 (declining grades) and C (highly recyclable)
-
-## 6.3 Zinc
-Used as roofing, cladding and galvanizing coatings. Hexagonal close-packed; creeps under sustained load at room temperature. Protective patina of zinc hydroxycarbonate.
-- EE: ~50 to 70 MJ/kg; EC: ~3 to 4 kg CO₂e/kg
-
-## 6.4 Titanium
-Hexagonal (α) and BCC (β) phases. Exceptional corrosion resistance (TiO₂ film), yield 250 to 1100 MPa depending on grade, density 4500 kg/m³. Used for prestige cladding (Guggenheim Bilbao). Kroll process (TiCl₄ reduced by magnesium in batch reactors) is extremely energy-intensive.
-- EE: 360 to 750 MJ/kg; EC: 30 to 40+ kg CO₂e/kg
+| Metal | EE (MJ/kg) | EC (kg CO₂e/kg) | Notes |
+|---|---|---|---|
+| Stainless | 50-80 | 4-7 | Cr passive film; high scrap content |
+| Copper | 40-60 | 2.5-4 | Wiring, roofing, cladding |
+| Zinc | 50-70 | 3-4 | Galvanizing, roofing |
+| Titanium | 360-750 | 30-40+ | Prestige cladding; Kroll process |
 
 ---
 
 # 7. Timber and Engineered Wood
 
-## 7.1 Wood as a natural fiber composite
+Cellular composite science, MFA, engineered products, fire, decay, carbon storage and production effort: `../Science/Biomaterials/StructuralTimber.md`. Seasoning / aging: `../Science/Biomaterials/AgingWood.md`. Weathering: `WeatheringGlassWood.md`.
 
-Wood is a cellular solid built from hollow tube-shaped cells whose walls are a layered fiber-reinforced polymer composite.
+Typical clear softwood (12% MC): parallel tension ~70 to 140 MPa; E_L ~8 to 14 GPa. Density scales strength.
 
-### Chemical composition (dry mass, softwood)
-| Polymer | % | Structure | Role |
-|---|---|---|---|
-| Cellulose | 40-45 | Linear chains of β-1,4-linked glucose (degree of polymerization 5,000-10,000); chains hydrogen-bonded into crystalline microfibrils 3-4 nm wide | Tensile reinforcement |
-| Hemicellulose | 25-30 | Branched, amorphous polysaccharides (glucomannan in softwoods, xylan in hardwoods) | Coupling agent between cellulose and lignin; most hygroscopic component |
-| Lignin | 25-30 | 3D crosslinked phenolic polymer from coniferyl, sinapyl and p-coumaryl alcohols | Stiff matrix; resists compression and buckling of microfibrils; hydrophobic; resists decay |
-| Extractives | 2-10 | Resins, tannins, terpenes | Color, odor, natural decay resistance |
+| Product | EE (MJ/kg) | EC (kg CO₂e/kg) |
+|---|---|---|
+| Sawn softwood | 2-10 | -1.5 to 0.5 (biogenic credit varies) |
+| Glulam / CLT | 8-18 | -1 to 1 |
 
-Crystalline cellulose is remarkable: axial modulus about 130 to 150 GPa and theoretical tensile strength several GPa, comparable to steel per unit weight and far better per unit density. Each glucose unit forms intra- and interchain hydrogen bonds (O3-H···O5 and O6-H···O3) that lock chains into sheets; van der Waals forces stack the sheets.
-
-### Cell wall architecture
-- **Middle lamella**: lignin-rich layer cementing adjacent cells
-- **Primary wall**: thin, random microfibril orientation
-- **Secondary wall**:
- - S1: thin, microfibrils at 50 to 70° to the cell axis
- - **S2: about 75 to 85% of wall thickness; microfibrils at 5 to 30° to the axis (the microfibril angle, MFA)**
- - S3: thin, nearly transverse microfibrils
-
-The S2 layer with low MFA dominates longitudinal strength and stiffness. Low MFA means stiff, strong wood. Juvenile wood near the pith has high MFA (30 to 40°) and is weaker. Compression wood (on the lower side of leaning conifers) also has high MFA and more lignin.
-
-### Cellular structure
-- **Softwoods** (conifers): 90 to 95% tracheids, cells 2 to 5 mm long and 20 to 50 µm wide, serving both water conduction and support
-- **Hardwoods** (angiosperms): fibers for support, vessels for conduction (visible as pores), rays and parenchyma
-
-Cell wall material density is about 1500 kg/m³ regardless of species. Wood density (100 kg/m³ for balsa to 1300 kg/m³ for lignum vitae) depends on how much of the volume is wall vs empty lumen. Most mechanical properties scale nearly linearly with density (strength ∝ ρ^1 to ρ^1.5 for cellular solids per Gibson and Ashby).
-
-### Anisotropy
-Three principal directions: longitudinal (L, along the grain), radial (R, across growth rings) and tangential (T, tangent to rings).
-
-E_L : E_R : E_T ≈ 20 : 1.6 : 1 (typical softwood)
-
-Tension along the grain is 20 to 40 times greater than tension across the grain. Engineered products exist largely to overcome this.
-
-## 7.2 Moisture
-
-- Green wood can contain 30 to 200% water by dry mass
-- **Fiber saturation point (FSP)**: about 25 to 30% moisture content (MC), where cell walls are saturated but lumens are empty
-- Below FSP, water leaves the cell walls: wood shrinks (tangential ~6 to 10%, radial ~3 to 5%, longitudinal ~0.1 to 0.2% from green to oven dry) and strength rises sharply because hydrogen bonds between polymer chains replace hydrogen bonds to water
-- Compressive strength parallel to grain roughly doubles from green to 12% MC
-- Equilibrium MC indoors: 6 to 12%; outdoors under cover: 12 to 18%
-
-## 7.3 Strength (clear wood, 12% MC, USDA Wood Handbook ranges)
-
-| Species | Density (kg/m³) | Bending MOR (MPa) | E (GPa) | Compression ∥ (MPa) | Tension ⊥ (MPa) | Shear (MPa) |
-|---|---|---|---|---|---|---|
-| Douglas-fir (coast) | 480 | 85 | 13.4 | 50 | 2.3 | 7.8 |
-| Southern yellow pine (loblolly) | 510 | 88 | 12.3 | 49 | 3.2 | 9.6 |
-| Spruce (Sitka) | 400 | 70 | 10.8 | 38 | 2.6 | 7.9 |
-| White oak | 680 | 105 | 12.3 | 51 | 5.5 | 13.8 |
-| Hard maple | 700 | 109 | 12.6 | 54 | n/a | 16.1 |
-| Balsa | 160 | 20 | 3.8 | 12 | n/a | n/a |
-
-Tension parallel to grain for clear wood: roughly 80 to 150 MPa. Specific tensile strength along the grain rivals mild steel.
-
-**Real lumber is far weaker**: knots (where branches disrupt fiber alignment), slope of grain, checks and splits reduce design values to 25 to 50% of clear wood. Strength grading (visual or machine stress-graded by measuring stiffness) assigns classes such as C24 (EN 338: characteristic bending 24 MPa, tension ~14.5 MPa, compression ~21 MPa, mean E ~11 GPa).
-
-**Duration of load**: wood is viscoelastic; it carries about 60% of its short-term strength under permanent load (Madison curve). Design codes apply load-duration factors.
-
-## 7.4 Engineered wood: how strength is achieved
-
-Engineered products spread defects randomly through the cross-section (statistical averaging) and cross-laminate to control anisotropy.
-
-| Product | Construction | Strength mechanism | Typical use |
-|---|---|---|---|
-| Plywood | Thin veneers, alternating 90° | Cross-lamination: dimensional stability, two-way strength | Sheathing, subfloors |
-| OSB | Wood strands in oriented layers, resin-bonded | Small strands disperse defects; uses small fast-grown trees | Sheathing, I-joist webs |
-| Glulam | Graded laminations (19-45 mm) glued parallel | Best grades placed in outer zones where bending stress is highest; defects dispersed | Beams to 100+ m spans |
-| LVL | Veneers (3 mm) glued parallel | Extremely uniform; defects distributed | Headers, beams |
-| PSL (Parallam) | Long veneer strands glued parallel | High uniform strength | Columns, beams |
-| CLT (cross-laminated timber) | 3, 5, 7+ layers of lumber at 90° | Two-way slab action; dimensional stability; panels up to 3 × 18 m | Floors, walls of mass timber towers |
-| I-joists | LVL or lumber flanges, OSB web | Material placed where bending stress is | Floor joists |
-
-Adhesives: phenol-resorcinol-formaldehyde (PRF), melamine-urea-formaldehyde (MUF), polyurethane (PUR), emulsion polymer isocyanate (EPI). Glue lines are stronger than the wood itself; failure tests require wood failure, not glue failure.
-
-**Mass timber towers**: Mjøstårnet (Norway, 85 m, 2019) and Ascent (Milwaukee, ~87 m, 2022) demonstrate CLT and glulam at high-rise scale.
-
-## 7.5 Fire behavior
-
-Wood burns, yet large sections perform well in fire because charcoal forms on the surface. Char has very low conductivity (~0.1 W/m·K) and insulates the core. Below a ~40 mm heat-affected zone, inner wood stays near ambient temperature and full strength.
-
-- Pyrolysis begins ~200 to 280°C
-- Char front at about 300°C
-- Design charring rate (softwood, Eurocode 5): ~0.65 mm/min one-dimensional; ~0.7 to 0.8 mm/min notional
-- A 60-minute fire consumes about 40 to 45 mm of each exposed face
-
-## 7.6 Biological degradation
-
-- **Brown rot fungi**: attack cellulose and hemicellulose via Fenton chemistry (hydroxyl radicals), leaving cubical cracked brown lignin residue; can lose 70% of strength at 10% mass loss
-- **White rot fungi**: degrade lignin and cellulose, leaving bleached fibrous wood
-- **Soft rot**: in very wet conditions
-- **Insects**: termites (digest cellulose via gut symbionts), carpenter ants, powderpost beetles
-- **Requirements for decay**: MC above ~20%, oxygen, temperature 5 to 40°C, food. Keeping wood below 20% MC prevents decay. Fully submerged wood without oxygen can last millennia (Venice foundation piles).
-- **Preservation**: copper-based (ACQ, copper azole), borates (diffusible, for indoor use), creosote (historic), thermal modification (180 to 230°C), acetylation (reacting hydroxyl groups with acetic anhydride so cell walls no longer absorb water)
-
-## 7.7 Carbon storage
-
-Photosynthesis: 6CO₂ + 6H₂O + light → C₆H₁₂O₆ + 6O₂
-
-Dry wood is about 50% carbon by mass. Each kg of dry wood stores 0.5 × (44/12) ≈ **1.83 kg CO₂**. A cubic meter of softwood (~450 kg dry) stores about 800 kg CO₂, more than the ~300 kg emitted making a cubic meter of ordinary concrete.
-
-This storage persists only as long as the wood does not burn or rot. Accounting standards treat it carefully (EN 16449, EN 15804).
-
-## 7.8 Production and work to attain
-
-1. **Forest establishment and growth**: 25 to 40 years for plantation pine (southern US, New Zealand); 50 to 80 years for Douglas-fir and spruce; 80 to 150+ years for oak and old-growth species
-2. **Harvesting**: felling (feller-bunchers or chainsaws), delimbing, bucking to length, skidding/forwarding to landing; harvester-forwarder systems process a tree in under a minute
-3. **Transport** to mill
-4. **Sawmilling**: debarking, primary breakdown (band or circular saws), edging, trimming. Lumber recovery typically 40 to 60% of log volume; the rest becomes chips (pulp, OSB, particleboard), sawdust and bark (biomass fuel)
-5. **Drying**: kiln drying at 60 to 120°C for days to weeks. **Drying is typically the largest energy input** in lumber production, often 60 to 80% of process energy. Most mills burn their own bark and sawdust, so much of this energy is biogenic.
-6. **Planing and grading**
-7. **For engineered products**: finger-jointing, adhesive application, pressing, CNC fabrication
-
-| Product | EE (MJ/kg) | Fossil EC (kg CO₂e/kg) | Biogenic stored (kg CO₂/kg) |
-|---|---|---|---|
-| Sawn softwood, kiln dried | 7-10 (much biomass) | 0.2-0.3 | -1.6 to -1.7 |
-| Sawn hardwood | 8-11 | 0.25-0.35 | -1.6 to -1.7 |
-| Glulam | 10-12 | 0.4-0.5 | -1.6 |
-| CLT | 8-12 | 0.3-0.45 | -1.6 |
-| Plywood | 12-15 | 0.4-0.7 | -1.5 |
-| OSB | 12-15 | 0.4-0.6 | -1.5 |
-
-## 7.9 Renewability: timber
-- **Class R2**. Genuinely renewable if harvest does not exceed growth and forest ecosystems are maintained. Certification schemes (FSC, PEFC) audit this.
-- Global industrial roundwood harvest ~2 billion m³/yr (total roundwood including fuel ~4 billion m³).
-- **End of life**: direct reuse of beams; cascading into particleboard; energy recovery (releases stored carbon but displaces fossil fuel); landfill (anaerobic decay can release methane).
-- **Risks**: deforestation, monoculture, forest carbon debt (harvest reduces forest carbon stock temporarily), wildfire and pest outbreaks under climate change.
-
-**Effort rating**: Low to moderate. Sunlight does the chemistry. Human work is mechanical (cutting, transport) plus drying.
+Renewability Class R2 when harvest ≤ growth. Effort: low to moderate.
 
 ---
 
 # 8. Bamboo
 
-## 8.1 Structure and strength
+Structure, strength, weaknesses, renewability: `../Science/Biomaterials/Bamboo.md`. Timber composite cousin: `../Science/Biomaterials/StructuralTimber.md`.
 
-Bamboo is a giant grass (family Poaceae, subfamily Bambusoideae), not a tree. It has no secondary thickening: the culm (stem) reaches full diameter at emergence and full height within one growing season (2 to 4 months), then hardens over 3 to 5 years through lignification.
-
-**Functionally graded composite**: Vascular bundles (cellulose fiber sheaths surrounding vessels) are embedded in parenchyma (thin-walled storage cells). Fiber density increases from about 15 to 20% at the inner wall to 50 to 60% at the outer wall. Tensile strength and stiffness rise correspondingly from inside to outside. Nature places the strongest material where bending stresses are greatest.
-
-**Fiber cell walls**: multilayered (up to 8 to 10 alternating thick and thin lamellae with alternating microfibril angles), very low MFA in thick layers. This polylamellate structure gives high strength and toughness.
-
-**Nodes and diaphragms**: internal walls at intervals prevent the hollow tube from buckling and ovalizing; fibers interweave at nodes.
-
-**Outer skin**: silica-rich epidermis protects the culm.
-
-| Property | Typical range |
-|---|---|
-| Density | 600-900 kg/m³ |
-| Tensile (parallel) | 100-400 MPa (outer strips at top end) |
-| Compressive (parallel) | 40-90 MPa |
-| Bending MOR | 80-200 MPa |
-| E | 10-25 GPa |
-| Shear | 7-20 MPa |
-
-Specific tensile strength of high-grade bamboo strips exceeds structural steel.
-
-## 8.2 Weaknesses
-- Low splitting resistance (fibers all parallel; tension perpendicular is very low)
-- Starch in parenchyma attracts powderpost beetles (Dinoderus) and fungi; untreated bamboo may last only 2 to 5 years outdoors
-- Hollow round geometry and variable diameter complicate connections
-- Poor fire performance in thin walls
-
-**Treatment**: harvesting in dry season when starch is low; leaching in water; boron (borax + boric acid) diffusion or pressure treatment; heat treatment.
-
-**Engineered bamboo**: laminated bamboo lumber (strips glued) and bamboo scrimber (crushed fiber bundles impregnated with resin and hot-pressed to density ~1100 to 1200 kg/m³). These convert irregular culms into dimensional products at the cost of more energy and resin.
-
-## 8.3 Renewability and work
-- **Class R1**. Moso bamboo (Phyllostachys edulis) is harvestable at 4 to 6 years; the plant regenerates from its rhizome without replanting. Some species grow up to roughly 1 m per day at peak.
-- Annual yields per hectare can exceed most timber plantations.
-- **Work**: cutting by hand or saw; curing; treatment; splitting for engineered products.
-- **EE**: raw culms ~1 to 3 MJ/kg (plus transport, which dominates when shipped internationally); engineered bamboo 5 to 25 MJ/kg depending on resin.
-- **Biogenic carbon**: about the same as wood per kg (~1.6 to 1.8 kg CO₂ stored per kg).
-
-**Effort rating**: Very low for raw culms. Moderate for engineered bamboo.
+Culm tensile along fiber often 100 to 400 MPa; very fast growth (Class R1). Joints and durability dominate real buildings.
 
 ---
 
@@ -1157,124 +833,34 @@ A gypsum core (with foam for lower density, starch for paper bonding, glass fibe
 
 # 13. Glass
 
-## 13.1 Atomic structure
+Deep glass structure, fracture, temper, float making and kin materials live in the glass pack: `GlassScience.md`, `GlassTempering.md`, `GlassMaking.md`, `GlassRelated.md`. Clear panes / sources: `TranslucentMaterials.md`. Weathering: `WeatheringGlassWood.md`.
 
-Glass is an amorphous solid: a liquid structure frozen in place by cooling faster than crystallization can occur. Its backbone is a network of SiO₄ tetrahedra joined at corners through bridging oxygens (strong covalent Si-O bonds, ~450 kJ/mol).
+Building-enclosure EE/EC (typical cradle-to-gate):
 
-Pure silica glass needs over 2000°C to melt. **Network modifiers** break the network and lower melting temperature:
-- Na₂O (soda): creates non-bridging oxygens (Si-O⁻ Na⁺), reduces viscosity; too much makes glass water-soluble
-- CaO (lime): stabilizes against water attack
-- MgO, Al₂O₃: improve chemical durability and control viscosity
+| Product | EE (MJ/kg) | EC (kg CO₂e/kg) |
+|---|---|---|
+| Float glass | 12-16 | 0.9-1.5 |
+| Toughened | 20-25 | ~1.2-1.8 |
 
-**Soda-lime-silica float glass**: SiO₂ 71 to 74%, Na₂O 12 to 15%, CaO 8 to 10%, MgO 3 to 5%, Al₂O₃ 0.5 to 1.5%.
-
-## 13.2 Why glass is strong in theory and weak in practice
-
-- Theoretical strength: ~10 to 20 GPa
-- Pristine fibers drawn in vacuum: ~5 to 10 GPa
-- Window glass: 30 to 100 MPa
-
-The reduction is entirely due to surface flaws (Griffith cracks) from handling, abrasion and contact. Glass has no dislocations and no plasticity, so stress at a flaw tip cannot be relieved by yielding.
-
-**Static fatigue (stress corrosion)**: Water reacts with strained Si-O-Si bonds at crack tips:
-Si-O-Si + H₂O → Si-OH + HO-Si
-Cracks grow slowly under sustained load in humid air. Long-duration design strength is therefore much lower than short-term test strength (load duration factors).
-
-## 13.3 Strengthening glass
-
-| Process | Mechanism | Surface compression | Strength vs annealed | Break pattern |
-|---|---|---|---|---|
-| Annealed | Slow controlled cooling removes residual stress | ~0 | 1x (~45 MPa characteristic) | Large sharp shards |
-| Heat-strengthened | Heated to ~620-650°C, moderately quenched with air jets | 24-52 MPa | ~2x (~70 MPa) | Large pieces stay in frame |
-| Fully tempered (toughened) | Heated to ~620-650°C, rapidly quenched | ≥69 MPa (typically 90-150) | ~4-5x (~120 MPa) | Small cubic fragments ("safety glass") |
-| Chemically strengthened | Ion exchange in molten KNO₃ at ~400°C; larger K⁺ ions replace Na⁺ in surface | 300-900 MPa (thin layer) | 5-8x | Variable |
-| Laminated | Two or more plies bonded with PVB, SGP (ionoplast) or EVA interlayer | n/a | Post-breakage integrity | Fragments adhere to interlayer |
-
-**Tempering physics**: During quenching, the surface solidifies first while the interior is still soft. As the interior later cools and contracts, it pulls the rigid surface into compression and itself goes into tension (parabolic stress profile, surface compression about twice the central tension). Any crack must first overcome the built-in compression before it can open.
-
-**Nickel sulfide inclusions**: tiny NiS stones trapped during melting can undergo a slow phase change (α to β) with ~2 to 4% volume expansion, causing spontaneous breakage of tempered glass years after installation. Heat-soak testing (holding at ~290°C) breaks susceptible panes before shipment.
-
-## 13.4 Properties
-- Density 2500 kg/m³
-- E ≈ 70 GPa
-- Fracture toughness ~0.75 MPa·√m
-- Thermal expansion ~9 × 10⁻⁶/K
-- Thermal conductivity ~1.0 W/m·K
-- Softening point ~720°C
-
-## 13.5 Production and work to attain
-1. **Raw materials**: silica sand (high purity, low iron), soda ash (Na₂CO₃, from the Solvay process or natural trona), limestone, dolomite, plus 10 to 30% cullet (recycled glass)
-2. **Melting**: regenerative furnaces at 1500 to 1600°C; a float furnace holds 1500 to 2500 t of molten glass and runs continuously for 15 to 20 years
- Carbonate raw materials release process CO₂: Na₂CO₃ → Na₂O + CO₂; CaCO₃ → CaO + CO₂
-3. **Float process** (Pilkington, 1950s): molten glass poured onto a bath of molten tin at ~1100°C under nitrogen/hydrogen atmosphere; gravity and surface tension produce a flat, fire-polished ribbon (equilibrium thickness ~6 mm; top rollers stretch or compress for other thicknesses)
-4. **Annealing lehr**: controlled cooling from ~600°C
-5. **Cutting, coating** (low-emissivity silver or tin oxide coatings, sputtered or pyrolytic), tempering, laminating, assembling into insulated glazing units
-
-| Metric | Value |
-|---|---|
-| Melting energy (practical) | ~5-8 GJ/t |
-| Theoretical minimum | ~2.5-2.7 GJ/t |
-| EE float glass | 12-16 MJ/kg |
-| EE toughened | 20-25 MJ/kg |
-| EC | 0.9-1.5 kg CO₂e/kg |
-
-Each 10% cullet reduces furnace energy by about 2.5 to 3% and avoids carbonate process emissions.
-
-## 13.6 Renewability
-- Silica sand: Class A1/A2 (high-purity glass sand is less common than construction sand).
-- Soda ash: Class A1.
-- **Recycling**: container glass is widely recycled; flat glass closed-loop recycling is limited because composition and contamination (coatings, interlayers, sealants) must be tightly controlled. Most demolition glass is downcycled or landfilled.
-
-**Effort rating**: High temperature, continuous energy-intensive process.
+Cullet cuts furnace energy (~2.5 to 3% per 10% cullet). Effort rating: high temperature, continuous process.
 
 ---
 
 # 14. Polymers and Foam Insulation
 
-## 14.1 How polymers achieve strength
+Polymer chain strength, common building plastics (PVC, PE, PP, PC, PMMA, epoxy) and foam insulation conductivity / EE detail: `InsulationMaterials.md` (building foam section). Breathable waterproof / vapor barriers: `PermeationBarriers.md`.
 
-Polymer chains have strong covalent backbones (C-C bonds ~350 kJ/mol), but bulk strength depends on interactions between chains:
-- **Thermoplastics** (PVC, PE, PP, PC, PMMA): chains held by van der Waals forces, hydrogen bonds and entanglement. Crystalline regions (lamellae ~10 nm thick) in semicrystalline polymers add stiffness. They soften on heating and can be remelted.
-- **Thermosets** (epoxy, polyester, phenolic, polyurethane rigid foam): covalently crosslinked 3D networks; do not melt; usually stiffer and more heat-resistant but not remeltable.
-
-Above the glass transition temperature (Tg), amorphous regions become rubbery. Polymers creep significantly at room temperature.
-
-| Polymer | Tensile (MPa) | E (GPa) | Tg / Tm | Use |
-|---|---|---|---|---|
-| PVC (rigid) | 40-55 | 2.5-3.5 | Tg ~80°C | Pipes, window frames, membranes, cladding |
-| HDPE | 20-35 | 0.8-1.2 | Tm ~130°C | Pipes, geomembranes |
-| Polypropylene | 30-40 | 1.2-1.7 | Tm ~165°C | Fibers in concrete, pipes |
-| Polycarbonate | 55-75 | 2.2-2.5 | Tg ~147°C | Impact-resistant glazing |
-| PMMA (acrylic) | 50-75 | 2.4-3.3 | Tg ~105°C | Glazing, skylights |
-| Epoxy | 50-90 | 2.5-4 | Tg 60-180°C | Adhesives, coatings, FRP matrix |
-
-## 14.2 Insulation foams
-- **EPS (expanded polystyrene)**: beads expanded with pentane, fused in molds; λ ≈ 0.031 to 0.038 W/m·K
-- **XPS (extruded polystyrene)**: closed-cell; historically blown with HFCs (high global warming potential), now shifting to CO₂ and HFOs; λ ≈ 0.029 to 0.035
-- **PIR/PUR (polyisocyanurate/polyurethane)**: thermoset closed-cell foam; λ ≈ 0.022 to 0.028
-- **Phenolic foam**: λ ≈ 0.018 to 0.023
-- **Mineral wool (stone/glass)**: not polymer; fibers spun from molten rock at ~1500°C or glass; binder; λ ≈ 0.032 to 0.040; non-combustible
-
-## 14.3 Production and renewability
-Feedstocks come from crude oil or natural gas by steam cracking (ethylene, propylene) at ~850°C, followed by polymerization. PVC adds chlorine from salt electrolysis (chlor-alkali process): ~57% of PVC mass is chlorine.
+Typical EE/EC (cradle-to-gate):
 
 | Material | EE (MJ/kg) | EC (kg CO₂e/kg) |
 |---|---|---|
 | PVC | 60-80 | 2-3.2 |
 | HDPE | 75-85 | 1.9-2.0 |
 | EPS | 85-90 | 3.3-3.5 |
-| XPS (HFO/CO₂ blown) | 85-95 | 3-4 (much higher with HFC blowing) |
 | PIR | 90-100 | 3.5-4.5 |
 | Mineral wool | 15-20 | 1.1-1.3 |
-| Polycarbonate | 100-115 | 6-8 |
 
-Note: roughly half the embodied energy of polymers is "feedstock energy" locked in the material (recoverable by incineration).
-
-- **Renewability**: Class F (fossil). Bio-based polyethylene (from sugarcane ethanol) and other bio-polymers exist at small scale.
-- **Recycling**: technically possible for thermoplastics; actual building plastic recycling rates are low due to contamination, additives and mixed materials. VinylPlus in Europe recycles hundreds of thousands of tonnes of PVC annually.
-- **Durability concerns**: UV degradation (chain scission), plasticizer migration, flammability and toxic smoke.
-
-**Effort rating**: High energy; chemically complex process chains.
+Effort rating: high energy; chemically complex. Renewability Class F (fossil) except small-scale bio-polymers.
 
 ---
 

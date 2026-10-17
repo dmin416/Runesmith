@@ -527,11 +527,11 @@ No full status screen. Present day after 21.5. Lookback prints RS **L8**, Master
 
 ## Chapter 23
 
-Seller #64: sale **8 SG 8 LS** → after 25% **6 SG 6 LS** (wallet **6 SG 6 LS 1 SS**); profit after mats ~**6 SG 4 LS**. Restocks blanks/paper; homemade ink; comet quality maintain. Weaver **Ned silk** clothes. SP-fills when MP low; keeps MP near-full never empty-zero for grind. Desk side grind continues (`FrictionGrill.md`): friction Heat/Heat Res, Suffocation, Recovery, Fabrication, Taming via Ned; Cold = cold night sleep only (`ColdNightSleep.md`). **+2 months intense grill grind** (story vague): Sound/Echo still daily since train; Percival return stack is **fifteen** comet Fireballs, all **Highest**. Then **+3 months**: weekly **+bundle (5)** from **15** to **30**, instead maintain **25**/week at **7.5 LS**; soft profit that span ~**170 SG 9 LS**. Then forest hunt.
+Seller #64: sale **8 SG 8 LS** → after 25% **6 SG 6 LS** (wallet **6 SG 6 LS 1 SS**); profit after mats ~**6 SG 4 LS**. Restocks; homemade ink; comet maintain. **+2 months** intense grill → Percival **fifteen** Highest. Weaver **Ned silk** clothes. **+3 months** weekly Fireball volume (**15→30**, hold **25**/week at **7.5 LS**). Quiet-room wallet / attrs / skills: `Chapter23QuietRoom.md` (**~170 SG**; Vit **83** / End **93** / Int **166** / Dex **~88**; RS **L8**; Mastery **L6**; Sleep **L8**; Hunger **L7**; Heat Res / Recovery **L6**). Coin steps: `CoinLedger.md`. Ned quiet-room ranks: `NedStatus.md`. Match Rune invent is **after** line 715 (rate **~1.9 SG**/week at hold **~2,500**; not in quiet-room wallet yet).
 
-Overall L35. Mage L25 secondary. Runic Mana Scribe L10 main (printed mid-hunt). Maintains **~25** Highest empty Fireball / week at **7.5 LS**. Live sheet (mid-hunt MP spent):
+**Quiet room rewrite (line 715; authority):** soft overall **~L32–34** / Mage L25 secondary / Scribe **L7–8** soft. Full table: `Chapter23QuietRoom.md`.
 
-**Live (chapter)** — Source block still on-page:
+**Live (chapter, mid-hunt after forest)** — Source block still on-page (behind rewrite; do not use for quiet room):
 
 ```
 ════════ STATUS ════════
@@ -558,34 +558,7 @@ Luck                   8
 ════════════════════════
 ```
 
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps mana recovery narrative; Blessed multiplies recovery; class levels permanently raised Int/Will already; Luck seed **7**):
-
-```
-════════ STATUS ════════
-Name:       Roland Arden
-Level:      35
-
-Classes:
-T1 Mage L25               [Secondary]
-T1 Runic Mana Scribe L10  [Main]
-
-HP               675/675
-MP              2460/2460
-SP               895/895
-
-Strength              50
-Agility               65
-Dexterity             71
-Vitality              51
-Endurance             55
-Intelligence         147
-Willpower            145
-Charisma              13
-Luck                   7
-════════════════════════
-```
-
-Skills shown (Source print): Basic Mana Scribing L2, Basic Rune Scribing L5, Basic Rune Mastery L3. **Rewrite floor from desk:** RS **L8**, Mastery **L5+**; also Mana Shaping L6, Mana Regulation L7. Helci cliff rescue unfinished.
+Source skills print (mid-hunt): Mana Scribing L2, Rune Scribing L5, Rune Mastery L3. **Rewrite floor at quiet room:** RS **L8**, Mastery **L6**, Shaping **L7**, Regulation **L8**. Helci cliff is after line 715.
 
 ## Chapter 24
 

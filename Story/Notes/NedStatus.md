@@ -204,5 +204,33 @@ Train-week denser days sit inside the same total. Printed Ch 19 “L5 Pain/Heat�
 
 Enter = full night pack above (every trainable skill). Desk continues the same set harder while D scribes.
 
-Day-by-day uses and exit ranks: `Chapter21_5DaySkillYear.md` / `.csv` (Ned_* columns). Beat lock: `Chapter21_5.md` § Ned desk grind.
+Day-by-day uses and exit ranks: `Chapter21_5DaySkillYear.md` / `.csv` (Ned_* columns). Beat lock: `Chapter21_5.md` § Ned desk grind. Desk-exit ranks: `Chapter21_5Exit.md`.
+
+## Ch 23 quiet room (line 715)
+
+After desk exit: +2 months intense grill with D + +3 months Fireball volume. Silk harvest for weaver clothes (his threads + Ned cape). Desk/night continues. Soft pads toward year ledger. Authority table also in `Chapter23QuietRoom.md`.
+
+**Form:** Greater Needle Worm (T2)  
+**Overall:** **26** / **4x** (keeps pace; no second body evo)  
+**Look:** small silk **cape** (weaver, once)
+
+| Skill | L |
+|---|---:|
+| Spike Throwing | **7** |
+| Climbing | **7** |
+| Stealth / Camouflage | **8** |
+| Silk | **6** (still short of L7 at year-end pace) |
+| Spring Charge | **6** |
+| Seal | **6** |
+| Recovery | **6** |
+| Moon Curl | **6** |
+| Tail Bash / Horn Pierce | **6** |
+| Blunt / Sharp Res | **6** |
+| Pain / Heat Res | **6** |
+| Cold Res | — |
+| Poison Res | **5** |
+| Needle Formation / Absorb | **6** soft |
+| Acid Production / Spray | **5** |
+
+**After line 715:** Match invent / forest do not change this quiet-room lock until a later beat prints new Ned ranks.
 

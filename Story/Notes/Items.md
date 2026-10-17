@@ -309,10 +309,12 @@ Rewrite-only ~**4 month** grind.
 
 **Skip exit carry:** Steel card, detonation rapier, **Ned**, map, ten branded **Fireball** scrolls (all **Highest**, **empty**), Mana Arrow keep pile (**~20** preloaded), a few Light Ball keepers (**~6** preloaded), robe/mask disguise kit, wallet **1 SS**, stone bank (reduced by ink cores). **No** schematic sheets. Full exit sheet: `Chapter21_5Exit.md`.
 
-**Ch 23 Ned silk clothes:** weaver makes **threads** for Roland and a **small cape for Ned** (once on commission line). Cloth feel as chapter. Full catalog stays in notes / `BiologicalSilks.md`. Not Earth luxury silk pricing (`EconomyDesign.md`: Needle Worm silk common).
-
-**Ch 23 Match Rune:** pea-sized paper; one blood drop (Mana Hand); micro Highest Fire Orb lighter; designed **5**; empty (buyer pays **5**); one-shot burn; fluent make **~1 min**. Fair **1 LC** / **1 SS** per ten. Mastery **1**/burn. See `Spells.md` / `ScrollEconomy.md` / `Notes.md` Ch 23.
-
 **Ch 22 Libra (first Fireball sale):** ten **Runic Fireball [Common][Highest]** empty (red comet / shooting-star logo); Amplify if fed (rank-capped). Percival almost trashes low-look hide wrap; guide **~7–8 LS** each (fair Highest empty **7.5 LS**). Bundled two×five; open **32 LS**; hammers **42 LS** + **46 LS** → gross **8 SG 8 LS**; **25%** → net **6 SG 6 LS** (wallet **6 SG 6 LS 1 SS** with kept **1 SS**). Identify: scrolls need the **rune visible**; body need full cloth cover (water-ball self-test).
 
-**Ch 23 early (after payday):** spends into more **monster-skin blanks** and **paper**; still **homemade ink** (no shop ink). Sell-line Fireballs stay **empty** / comet brand. Personal/protection scrolls may take **SP** fills when MP is low. Desk side grind (`FrictionGrill.md`) + Cold nights (`ColdNightSleep.md`) continue. **+2 months intense grill grind:** Percival return stack is **fifteen** comet Fireballs, all **Highest** (sell line stays Highest-only).
+**Ch 23 early (after payday):** spends into more **monster-skin blanks** and **paper**; still **homemade ink** (no shop ink). Sell-line Fireballs stay **empty** / comet brand. Personal/protection scrolls may take **SP** fills when MP is low. Desk side grind (`FrictionGrill.md`) + Cold nights (`ColdNightSleep.md`) continue. **+2 months intense grill grind:** Percival return stack is **fifteen** comet Fireballs, all **Highest**.
+
+**Ch 23 Ned silk clothes:** weaver makes **threads** for Roland and a **small cape for Ned** (once; fiber his; labor soft **~0.5 SG**). Cloth feel as chapter. Full catalog stays in notes / `BiologicalSilks.md`. Not Earth luxury silk pricing (`EconomyDesign.md`: Needle Worm silk common).
+
+**Ch 23 quiet room (line 715):** wallet **~170 SG** after first sale + fifteen + **~315**-scroll volume span (− lodging/food/weaver/better-mats). Carry: comet sell stock, MA/Light Ball keepers, reject stacks, robe/mask, Ned-silk threads + Ned cape, homemade ink, stone bank, **no** schematic sheets. Full sheet: `Chapter23QuietRoom.md`.
+
+**Ch 23 Match Rune (after line 715):** pea-sized paper; one blood drop (Mana Hand); micro Highest Fire Orb lighter; designed **5**; empty (buyer pays **5**); one-shot burn; fluent make **~1 min**. Fair **1 LC** / **1 SS** per ten. Mastery **1**/burn. Market hold **~2,500 / week** (absorb **~2–3k**; drop above **~5k**); net **~1.9 SG / week** after Libra **25%**. Not in quiet-room wallet until invent + sales land in prose. See `Spells.md` / `ScrollEconomy.md` / `CoinLedger.md` / `Notes.md` Ch 23.

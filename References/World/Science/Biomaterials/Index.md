@@ -31,6 +31,8 @@ Animal and Ned material process, rubber, insect stocks, adhesives, wood.
 
 - [WoodProcessing.md](WoodProcessing.md). Short seasoning chain + vacuum kiln
 - [AgingWood.md](AgingWood.md). Drying physics, aging chemistry, firewood, Hawaiʻi EMC zones. Native trees / biomes: ../../Geography/VolcanicIsland/HawaiianNativeLandscape.md
+- [StructuralTimber.md](StructuralTimber.md). Cellular composite, engineered wood, fire, decay, carbon, production effort. Building EE ladder: ../../Materials/BuildingMaterials.md
+- [Bamboo.md](Bamboo.md). Culm structure, strength, weaknesses, renewability. Building EE: ../../Materials/BuildingMaterials.md
 
 ## See also
 

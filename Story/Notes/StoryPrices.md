@@ -3,7 +3,7 @@
 > **When prices appear in the story.** Chronological ledger of hard coin beats and soft economy moments.
 >
 > Item-only approved prices (no chronology): `../../References/World/Society/Economy/PriceCatalog.md`.
-> Prefer that catalog / `EconomyDesign.md` rewrite lock when a scene needs a number. Domain books: Food, Gear, ScrollEconomy, SpatialBagPrices. Early pouch math: `CoinLedger.md`. Source reprice audit: `../../References/SourceLoot/PriceInventory.md`.
+> Prefer that catalog / `EconomyDesign.md` rewrite lock when a scene needs a number. Domain books: Food, Gear, ScrollEconomy, SpatialBagPrices. Pouch math (early + Edelgard Fireball → quiet room + Match rate): `CoinLedger.md`. Source reprice audit: `../../References/SourceLoot/PriceInventory.md`.
 
 ---
 
@@ -69,10 +69,12 @@
 | 22 | Auction commission ladder | first **25%**, can fall to **10%** | House rules |
 | 22 | Party gift runway | **10 SG** lasted **~half year** of mats | Not ten months |
 | 23 | Highest empty Fireball (ongoing) | **7.5 LS** | Fair lock; volume weeks |
-| 23 | Match Rune (micro Fire Orb lighter) | **1 LC** each; **1 SS** / ten | Pea scrap; empty; designed **5**; ~**1 min**/make |
+| 23 | Match Rune (micro Fire Orb lighter) | **1 LC** each; **1 SS** / ten | Pea scrap; empty; designed **5**; ~**1 min**/make; market hold **~2,500**/week |
+| 23 | Match Rune weekly net (after invent) | **~1.9 SG / week** after Libra **25%** (mats ≈ 0) | Hold **~2,500**/week; flood above **~5k**; invent after line 715; `CoinLedger.md` |
 | 23 | Weekly Fireball volume | early **15**; each week **+bundle (5)** → **30**; instead maintain **25**/week | Libra; Ch 23 prose |
 | 23 | First auction profit (10) | sale **8 SG 8 LS** → after 25% **6 SG 6 LS** → after mats ~**6 SG 4 LS** | Seller #64 |
-| 23 | +3 months Fireball profit (~13 weeks) | ~**315** scrolls @ **7.5 LS** → ~**170 SG 9 LS** after 25% + **2 SS**/scroll mats | Soft ledger |
+| 23 | +3 months Fireball profit (~13 weeks) | ~**315** scrolls @ **7.5 LS** → ~**170 SG 9 LS** after 25% + **2 SS**/scroll mats | Soft ledger → quiet room **~170 SG** |
+| 23 | Quiet room wallet (line 715) | **~170 SG** | First sale + fifteen + volume − lodging/food/weaver/mats; `Chapter23QuietRoom.md` / `CoinLedger.md` |
 | 23 | Weekly Fire Arrow volume | **~10** scrolls ~ **~1 SG** gross | Later / Source scrap; rewrite stays Fireball |
 | 25–26 | Grimboodle / Exeor | **15%** cut, **3 years**, **−30%** mana breach | Contract |
 | 26–27 | Quota | **≥10** common scrolls / week | Signed |

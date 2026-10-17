@@ -51,7 +51,7 @@ Stones, cast tables, batteries, engines, motors, fans, pumps, compression, fligh
 - [Kinetic.md](Kinetic.md). Kinetic pours / throws; recoil / countermass
 - [KineticImpartation.md](KineticImpartation.md). Superposition vs added energy; capped J vs fixed-force N² draw; merged projectiles
 - [Projectiles.md](Projectiles.md). Projectile physics; flywheel pinch launch
-- [ProjectileShapes.md](ProjectileShapes.md). Shapes, flight patterns, stability; atmosphere and vacuum catalog
+- [ProjectileShapes.md](ProjectileShapes.md). Shapes, flight patterns, stability; atmosphere and vacuum catalog. Terminal: ../../../Combat/Firearms.md. Space: ../../../Combat/SpaceProjectiles.md
 - [GuidedProjectiles.md](GuidedProjectiles.md). Guided munitions, mechanical vs computer guidance, turn-radius limits
 - [GunpowderFirearms.md](GunpowderFirearms.md). Medieval / Victorian powder chemistry and raw materials
 

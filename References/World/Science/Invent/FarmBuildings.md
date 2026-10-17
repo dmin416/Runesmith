@@ -1,6 +1,6 @@
 # Farm Buildings: Purpose and Construction
 
-> Earth reference / invent loot. Not locked law. Structural materials / EE: `../../Materials/BuildingMaterials.md`. Trails / drainage around farmsteads: `../Vehicle/TrailBuilding.md`. Island farm siting / wind: `../../Geography/VolcanicIsland/Farming.md`. Crops: `../../Geography/VolcanicIsland/Crops.md`. Bees / honey house: `../../Fauna/Domestic/HoneyBees.md`. Waterfowl: `../../Fauna/Domestic/KoloaAndNene.md`. Era filter: `../../Tech/Technology.md`.
+> Earth reference / invent loot. Not locked law. Structural materials / EE: `../../Materials/BuildingMaterials.md`. Trails / drainage around farmsteads: `TrailBuilding.md`. Island farm siting / wind: `../../Geography/VolcanicIsland/Farming.md`. Crops: `../../Geography/VolcanicIsland/Crops.md`. Bees / honey house: `../../Fauna/Domestic/HoneyBees.md`. Magical bees: `../../Fauna/Domestic/HoneyBeesMagic.md`. Island bees: `../../Geography/VolcanicIsland/HawaiianHoneyBees.md`. Waterfowl: `../../Fauna/Domestic/KoloaAndNene.md`. Era filter: `../../Tech/Technology.md`.
 
 Nav: `Index.md`.
 

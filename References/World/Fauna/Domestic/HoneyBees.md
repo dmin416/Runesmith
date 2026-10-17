@@ -1,6 +1,6 @@
-# Honey Bees: Life, Biology, Capability and Magical Potential on a Hawaiian Island
+# Honey Bees: Life and Biology
 
-> Earth reference / invent loot. Not locked law. Island ecology: `../../Geography/VolcanicIsland/Ecology.md`. Biomes / forage plants: `../../Geography/VolcanicIsland/HawaiianBiomes.md`, `HawaiianNativeLandscape.md`. Crops / farm sites: `../../Geography/VolcanicIsland/Crops.md`, `Farming.md`. Domestic waterfowl: `KoloaAndNene.md`. Building materials (wax / timber): `../../Materials/BuildingMaterials.md`. Neuron count / intelligence tier: `../../Science/Body/AnimalBrains.md`.
+> Earth reference / invent loot. Not locked law. Island ecology / forage / Hawaiian bees: `../../Geography/VolcanicIsland/HawaiianHoneyBees.md`. Magical potential: `HoneyBeesMagic.md`. Biomes: `../../Geography/VolcanicIsland/HawaiianBiomes.md`. Crops / farms: `../../Geography/VolcanicIsland/Crops.md`, `Farming.md`. Domestic waterfowl: `KoloaAndNene.md`. Building materials (wax / timber): `../../Materials/BuildingMaterials.md`. Neuron count / intelligence tier: `../../Science/Body/AnimalBrains.md`. Farm apiary construction: `../../Science/Invent/FarmBuildings.md`.
 
 Nav: `Index.md`. Up: [Fauna](../Index.md).
 
@@ -387,245 +387,13 @@ The colony behaves like a single organism made of cells (bees).
 
 ---
 
-## Part 11: Honey Bees in Hawaii
+## Island ecology and forage
 
-### Native versus introduced
-- Hawaii has no native honey bees. Native bees are the **yellow-faced bees (*Hylaeus*)**, about 63 endemic species that evolved from a single colonizing ancestor. They are solitary, nest in stems and wood and pollinate native plants such as naupaka, ohia and akoko. In 2016 seven Hawaiian *Hylaeus* species became the first bees listed as endangered in the United States.
-- Western honey bees were introduced in the mid-1800s, with the first successful establishment around 1857. They spread across all major islands and now include large feral populations.
-- Hawaii has long restricted importing live bees to keep out pests and Africanized genetics.
+Hawaii introduction, island pests, forage plants, island honeys, *Hylaeus*, and island beekeeping live in `../../Geography/VolcanicIsland/HawaiianHoneyBees.md`.
 
-### Climate effects on bee life
-- **No winter:** Colonies brood year-round. There is no long broodless period, which also means mites breed year-round.
-- **Rain and wind drive nectar flows:** Windward slopes are wet and lush. Leeward slopes are dry. Heavy rain grounds foragers and dilutes nectar. Trade winds force bees to fly low and limit range on exposed sites.
-- **Elevation zones:** From coastal dry forest to wet montane forest to high subalpine shrubland on Mauna Kea, Mauna Loa and Haleakala. Different flowers bloom at different heights, so flows move uphill and downhill through the year.
-- **Humidity:** Ripening honey to 17 to 18% water takes more fanning in wet regions. Humidity favors small hive beetles and fungal diseases.
-- **Vog:** Volcanic sulfur dioxide haze from Kilauea can stress plants and bees downwind.
+## Magical bees
 
-### Major Hawaiian forage plants and honeys
-| Plant | Status | Honey |
-|---|---|---|
-| Kiawe (*Prosopis pallida*) | Introduced, leeward coasts | Famous white, creamy, buttery honey that crystallizes quickly. Big Island and Molokai especially |
-| Ohia lehua (*Metrosideros polymorpha*) | Native, the most common native tree | Light honey that crystallizes into fine white cream. Threatened by Rapid Ohia Death fungal disease |
-| Macadamia | Introduced crop | Mild, nutty honey. Bees also pollinate the orchards |
-| Coffee | Introduced crop | Distinct floral honey. Bees improve coffee fruit set in Kona and Kau |
-| Christmas berry / wilelaiki (*Schinus terebinthifolius*) | Invasive | Dark, spicy honey in fall. Major flow |
-| Eucalyptus | Introduced | Strong-flavored honey |
-| Avocado | Introduced crop | Dark, molasses-like honey |
-| Lychee, longan | Introduced crops | Fruity honey |
-| Citrus | Introduced | Light, fragrant honey |
-| Koa (*Acacia koa*) | Native | Pollen source |
-| Mamane (*Sophora chrysophylla*) | Native, high elevation | Nectar and pollen |
-| Haole koa (*Leucaena*) | Invasive | Pollen and nectar |
-| Java plum, mango, coconut, albizia | Introduced | Seasonal nectar and pollen |
-
-Hawaii honey is often sold by single source because flows are distinct and island climates separate them.
-
-### Pests and diseases in Hawaii
-- **Varroa mite:** Detected on Oahu in 2007 and on Hawaii Island in 2008. Before that the islands were a rare mite-free population. Kauai, Maui, Molokai and Lanai remained Varroa-free in later surveys, protected by interisland movement restrictions.
-- **Varroa and viruses:** The arrival of Varroa in Hawaii became a landmark study. Researchers watched deformed wing virus go from a minor presence to dominating colonies as mites spread. The virus population narrowed to a few virulent strains.
-- **Small hive beetle:** Detected on Hawaii Island in 2010 and later on Oahu. The warm, humid climate suits it.
-- **Nosema ceranae:** Present.
-- **Western yellowjacket (*Vespula pensylvanica*):** Invasive on Maui and Hawaii Island. Preys on bees and native insects and robs hives.
-- **Invasive ants:** Little fire ant and big-headed ant attack hives.
-- **Cane toads:** Sit at hive entrances at night and eat bees.
-- **Wax moths:** Active year-round.
-- **No hornets (*Vespa*), no Africanized bees, no Tropilaelaps:** Island isolation and import controls keep these out.
-
-### The Hawaiian queen industry
-Hawaii Island (especially the Kona side) is one of the world's major sources of commercially reared queens. Mild year-round weather allows queens to mate in months when mainland drones don't fly. Hawaiian queens are shipped to the US mainland and Canada for early-season colony building.
-
-### Ecological tension
-- Honey bees compete with native *Hylaeus* for nectar and pollen.
-- Bees pollinate some invasive weeds, helping them spread.
-- They also pollinate crops and some native plants. Their net effect on native ecosystems is debated.
-
----
-
-## Part 12: Honey Bees in a Magical World
-
-Every magical trait below is built on a real biological trait. Real bees already do most of the "magical" things fantasy imagines: they navigate by invisible light, read electric fields, vote, keep a precise fever and turn flower water into a food that never spoils. Magic makes these existing systems stronger, broader or able to handle mana.
-
-### 12.1 Core principle: bees as mana refiners
-Bees already concentrate nectar about four to five times into honey. In a magical world the same process can concentrate ambient or floral mana.
-- **Nectar mana:** Flowers absorb mana from soil, sunlight, water or ley lines and release it into nectar.
-- **Refinement:** Enzymes split and stabilize mana just as invertase splits sucrose. Fanning removes "impurity" alongside water.
-- **Capping:** Wax caps seal the mana in. Capped mana honey stays potent indefinitely, matching honey's real shelf life.
-- **Grades by purity:** Real honey is judged by water content. Magical honey can be graded by mana purity and moisture together.
-
-| Grade | Mana content | Notes |
-|---|---|---|
-| Common | Trace | Food and minor healing |
-| Charged | Low | Potion base, minor buffs |
-| Refined | Moderate | Alchemy reagent, mana recovery |
-| Concentrated | High | Rare, from dedicated mana hives |
-| Royal | Extreme | Only near queen cells or sacred groves |
-
-### 12.2 Individual bee upgrades
-| Real trait | Magical extension |
-|---|---|
-| Positive electrostatic charge from flight | Bees carry and discharge small static or lightning bolts. Swarms become thunderclouds |
-| Electric field reading | Bees detect mana fields, enchanted objects, wards and hidden magic |
-| UV vision and polarized light | Bees see mana as color, see invisible creatures, see through illusions |
-| Magnetoreception | Bees sense ley lines and use them as highways |
-| 170 odor receptors | Bees smell curses, poison, lies (stress chemicals), undead or demonic taint |
-| Flight muscle shivering to 46 °C | Fire bees heat to hundreds of degrees. Balls of bees become incendiary |
-| Barbed sting | Enchanted stings deliver paralytic, elemental or curse venoms. Elite guards keep stings that don't tear free |
-| Melittin membrane-shredding | Venom that dissolves magical barriers or enchantment "membranes" |
-| Phospholipase allergen | Venom that triggers mana overload in mages |
-| Wax glands | Bees secrete runic wax that holds inscribed spells |
-| Propolis antimicrobials | Propolis that purifies disease, rot and necrotic magic |
-| Royal jelly diet changes caste | Magical diet can create new castes on demand |
-| Learning and counting | Hive intelligence rises. Bees understand simple language and trade with humans |
-
-### 12.3 New castes created through royal jelly variants
-Real caste depends on diet. Different magical jellies can produce new forms.
-- **Warrior caste:** Larger, armored with chitin hardened by mineral mana. Retains barbed sting without dying.
-- **Scout-seer caste:** Enlarged eyes and mushroom bodies. Long range, sees mana, maps territory.
-- **Alchemist caste:** Enlarged hypopharyngeal glands. Produces specific potions or jellies on demand.
-- **Architect caste:** Overgrown wax glands. Builds fortified comb, bridges and walls.
-- **Healer caste:** Specializes in propolis and honey compresses. Treats injured nestmates and allies.
-- **Diplomat or speaker caste:** Uses dance and pheromones to communicate with other species or humans.
-- **Storm caste:** Accumulates static charge and fires it.
-
-### 12.4 Hive-level abilities
-| Real colony trait | Magical extension |
-|---|---|
-| Waggle dance encodes distance and direction | Dances project mana-maps that beekeepers or mages can read. Hives become living scouting networks |
-| Swarm quorum decision-making | A swarm can cast group rituals. Thousands of bees form a casting circle |
-| Thermoregulation within 1 °C | Hives act as perfect incubators for eggs of magical creatures or fermenting potions |
-| Social immunity and hygienic behavior | Hives detect and purge curses and parasites, including magical infection |
-| Trophallaxis spreading information | Shared hive mind. What one bee learns spreads to the whole colony in hours |
-| Superorganism | The colony has a single awakened spirit with personality and memory |
-| Queen pheromone controls colony | A bonded beekeeper can use the queen's scent signature to command the hive |
-| Drone congregation areas reused for years | Drone areas form at mana nexus points and mark ley line crossings |
-| Swarming reproduction | Magical colonies bud into satellite hives that remain telepathically linked |
-
-### 12.5 Magical hive products
-| Product | Magical use |
-|---|---|
-| Mana honey | Mana recovery, potion base, food for magical beasts |
-| Healing honey | Wound salve that closes cuts and fights infection (real honey already does this) |
-| Runic beeswax | Spell tablets, enchanted candles, seals on magical containers, lost-wax casting of enchanted metal |
-| Ward propolis | Painted on doors and walls to block curses and spirits |
-| Royal jelly | Life extension (queens live up to 50 times longer than summer workers with identical genes), caste transformation, regeneration potions |
-| Venom | Combat poisons, anti-magic toxins, desensitization treatments for mages |
-| Bee bread | Fermented pollen as a probiotic or brewing culture for magical mead |
-| Mead | Alcohol from honey. Magical mead grants inspiration, courage, prophecy |
-| Drone brood | High-protein food for familiars |
-
-### 12.6 Balancing and limits
-- **Energy budget:** Real colonies spend most of their honey just staying alive. Magical colonies burn mana honey to power abilities. A hive that fights constantly starves.
-- **Population limits:** One queen lays at most about 2,000 eggs a day. Magical colonies stay limited by her output unless multiple queens or enhanced queens exist.
-- **Short worker lives:** Most enhanced bees still live weeks. Lifetime abilities matter less than colony continuity.
-- **Toxic honey:** Real "mad honey" proves bees can make honey poisonous to humans while unharmed. Hives near cursed or volatile mana flowers produce dangerous honey.
-- **Disease and parasites:** Magical mites, spirit infestations or rot can spread like Varroa and its viruses.
-- **Nectar source limits:** Mana quality depends on the plants. Destroying a grove of mana flowers starves the hive.
-
----
-
-## Part 13: Magical Bees on a Hawaiian Island
-
-The island's real features map naturally onto magical niches: active volcanoes, isolation, extreme elevation zones, trade winds, rain shadows, coral reefs and dense endemic forest.
-
-### 13.1 Mana sources of the island
-| Real feature | Mana type |
-|---|---|
-| Active volcanoes, lava flows, vents | Fire and earth mana |
-| Ocean, reef, salt spray | Water mana |
-| Trade winds | Wind mana |
-| Windward rain forests | Life and water mana |
-| Leeward dry coasts | Sun and fire mana |
-| High summits above the clouds | Sky, star and cold mana |
-| Native forests of ohia and koa | Ancient life and spirit mana |
-| Lava tubes | Earth and shadow mana |
-| Night-blooming flowers | Moon mana |
-
-### 13.2 Island bee variants
-- **Lehua Ember Bee**
-  - Lives in ohia forests near volcanic vents.
-  - Red-tinged chitin. Heat-balling raised to true fire, igniting attackers.
-  - Honey: **Ember Lehua Honey.** Crystallizes into glowing white-red cream. Restores fire mana and warms the body.
-  - Builds comb laced with obsidian dust for heat resistance.
-  - Guardian of ohia trees. Fights Rapid Ohia Death analogs (a blight spirit or fungal curse).
-
-- **Kiawe Sun Bee**
-  - Leeward dry coast specialist.
-  - Absorbs sunlight. Pale gold, heat- and drought-tolerant.
-  - Honey: **Sunwhite Honey.** Kiawe honey already crystallizes into white cream. Magical version glows faintly, gives stamina and sun resistance, preserves food.
-  - Swarms can focus sunlight through wing lenses.
-
-- **Mist Bee**
-  - High windward cloud forests.
-  - Small, silent, gray-green. Can partially turn to mist and pass through gaps.
-  - Honey: **Cloud Honey.** Thin, almost liquid. Grants clarity, calm and water breathing for short periods.
-  - Navigates in fog by electric fields and polarized light.
-
-- **Trade Wind Bee**
-  - Exposed ridges and coasts.
-  - Real Hawaiian bees struggle in constant wind. These bees ride it instead, using wind mana to fly far.
-  - Long-range messengers between islands.
-  - Honey: **Windborne Honey.** Grants speed and agility.
-
-- **Lava Tube Bee**
-  - Nests in caves and tubes.
-  - Dark chitin, enlarged ocelli for low light, heavy propolis use.
-  - Comb reinforced with basalt mineral wax, nearly as hard as stone.
-  - Honey: **Deep Honey.** Earth mana, toughness, stone skin.
-  - Forages at night on moonflowers and night-blooming cereus.
-
-- **Moonflower Bee**
-  - Night-flying variant.
-  - Silver chitin. Large drone-like eyes.
-  - Honey: **Moon Honey.** Visions, dream travel, illusions.
-
-- **Reef Bee (Salt Bee)**
-  - Coastal variant with salt tolerance.
-  - Forages on naupaka and beach morning glory. Collects water from sea mist and desalinates it magically.
-  - Honey: **Salt-Sweet Honey.** Water mana, healing for marine creatures, seasickness cure.
-
-- **Summit Star Bee**
-  - Mauna Kea and Haleakala subalpine zones.
-  - Cold-resistant, dense hair, slow but long-lived.
-  - Forages on mamane and silversword-type plants.
-  - Honey: **Starlight Honey.** Extremely rare. Used in divination and astral magic.
-
-- **Awakened Hylaeus (Spirit Bee)**
-  - The native yellow-faced bees, solitary and ancient.
-  - In a magical world they are spirit guardians of native plants rather than honey makers.
-  - They do not store honey but produce tiny amounts of pure life mana in nest cells.
-  - Possible conflict: introduced honey bees outcompete them, mirroring real ecology. Magical honey bee colonies might endanger native spirit bees unless managed.
-
-### 13.3 Island-specific hive life
-- **Year-round activity:** No winter means constant brood and constant mana refining. Hawaiian hives produce more but burn out faster.
-- **Rainy-season stores:** Heavy rains shut down foraging. Colonies stockpile mana honey before rainy periods.
-- **Volcanic migration:** Lava flows destroy forage. Colonies abscond and relocate, following mana currents.
-- **Interisland separation:** Each island develops its own bee lineages and honey styles, just as real islands differ in Varroa status.
-- **Queen trade:** As with the real Kona queen industry, island queens become valuable exports. A magical queen from Hawaii could fetch huge prices elsewhere.
-- **Vog and sulfur:** Some colonies adapt to volcanic gas and gain poison resistance or sulfur-based venom.
-
-### 13.4 Island threats in a magical setting
-| Real threat | Magical counterpart |
-|---|---|
-| Varroa mite | Mana-feeding parasites that drain bees' magical reserves and spread curse viruses |
-| Deformed wing virus | Corruption plague that warps bees into twisted forms |
-| Small hive beetle | Rot beetles that turn honey into toxic slime |
-| Western yellowjacket | Raiding wasps with fire or venom of their own |
-| Invasive ants | Ant swarms with hive minds rivaling bees |
-| Cane toads | Toads that eat bees and absorb their magic |
-| Rapid Ohia Death | Blight spirit killing sacred trees and starving lehua bees |
-| Lava flows | Natural disasters that move fire mana and destroy forage |
-| Hurricanes | Storm spirits scattering colonies |
-
-### 13.5 Uses for people on the island
-- **Beekeeping as a magical profession:** Beekeepers bond with hives, earn trust and gain powers through the colony.
-- **Honey economy:** Different honeys serve as currency or trade goods.
-- **Defense:** Hives guard villages, fields and sacred groves.
-- **Medicine:** Healers rely on honey, propolis and venom.
-- **Agriculture:** Bees pollinate magical crops such as coffee, macadamia, taro and mana fruit, raising yields.
-- **Scouting:** Waggle dance mana-maps reveal resources and danger.
-- **Ritual:** Bees play roles in island ceremonies tied to volcano, sea and forest spirits.
-
----
+Mana honey, island magical variants, magical taming and intelligence tiers live in `HoneyBeesMagic.md`.
 
 ## Part 14: Flowers and Forage
 
@@ -672,91 +440,8 @@ The island's real features map naturally onto magical niches: active volcanoes, 
 | Coconut palm | Tropics | Light, mild |
 | Mesquite and kiawe (*Prosopis*) | Americas, Hawaii | White, creamy, fast crystallizing |
 
-### 14.5 Common forage plants of the island
-In 1952 the University of Hawaii ranked kiawe first, Java plum second, then ohia lehua and eucalyptus as the main sources of surplus honey. Many more plants keep colonies alive between flows.
 
-| Plant | Zone | Bee value | Honey or notes |
-|---|---|---|---|
-| Kiawe (*Prosopis pallida*) | Leeward coast, sea level to low slopes | Top nectar and pollen source | White to water-white. Granulates within 3 to 4 weeks in the comb. Descends from one tree planted in Honolulu in 1828 |
-| Java plum (*Syzygium cumini*) | Wet lowlands, Kauai and Oahu especially | Major nectar | Light amber, slow to granulate, rated lower in flavor |
-| Ohia lehua (*Metrosideros polymorpha*) | Sea level to treeline | Major nectar | Light amber liquid that crystallizes into fine white cream |
-| Eucalyptus | Upper slopes | Fall and winter flows | Light amber |
-| Christmas berry / wilelaiki (*Schinus terebinthifolius*) | Low to mid elevations, invasive | Strong fall flow | Spicy, fruity, earthy. Chewy when crystallized |
-| Macadamia | Orchards, Hawaii Island | Winter and spring nectar | Rich, nutty, darker |
-| Coffee | Kona and Kau slopes | Spring nectar ("Kona snow" bloom) | Light, delicately floral |
-| Avocado | Gardens, orchards | Nectar | Dark, molasses-like |
-| Mango, lychee, longan | Lowland orchards | Winter and spring nectar | Fruity |
-| Citrus | Gardens | Nectar | Fragrant |
-| Haole koa (*Leucaena*) | Dry lowlands, invasive | Year-round pollen | Supports brood between flows |
-| Spanish needle (*Bidens alba*) | Disturbed ground everywhere | Near year-round nectar and pollen | Keeps colonies fed |
-| Lantana | Dry pasture | Nectar and pollen | Filler source between flows |
-| Guava and strawberry guava | Wet forest, invasive | Pollen, some nectar | Light honey |
-| Monkeypod | Lowlands | Nectar | Heavily worked |
-| Coconut palm | Coast | Nectar and pollen | Mild |
-| Banana | Gardens, valleys | Abundant nectar | Bees work the flower clusters at dawn |
-| Clovers and vetch | Upcountry pasture | Nectar | Light |
-| Koa | Mid elevation forest | Pollen | Pale yellow puffball flowers |
-| Mountain apple, yellow ginger, palms, black wattle, goldenrod, dandelion, blackberry, hau, ilima | Various | Supporting sources | Listed among useful bee plants in 1952 |
-
-### 14.6 Specialty and endemic flowers of the island
-| Flower | Status | Description | Bee use |
-|---|---|---|---|
-| Ohia lehua | Endemic | Red powderpuff stamens, also yellow, orange and pink forms. First tree to colonize fresh lava. In legend Pele turned the warrior Ohia into the tree and his love Lehua into its flower. Picking lehua is said to bring rain | The most visited native plant in Mauna Loa pollinator studies. Threatened by Rapid Ohia Death fungi (*Ceratocystis lukuohia* and *C. huliohia*) |
-| Mamane (*Sophora chrysophylla*) | Endemic | Bright yellow pea flowers in high dry forest | Nectar and pollen for native and honey bees |
-| Ahinahina (silversword) | Endemic to Haleakala and Mauna Kea | Silver rosette that lives for decades, sends up one tall stalk with hundreds of purple flower heads, then dies | Native yellow-faced bees depend on it in an otherwise sparse alpine zone |
-| Naupaka (*Scaevola*) | Native | White "half flowers," beach and mountain forms. Legend says two separated lovers each became half a flower | A key native bee flower |
-| Ilima (*Sida fallax*) | Native | Small yellow-orange flowers, Oahu's island flower, strung into royal lei | Visited by bees for nectar and pollen |
-| Mao hau hele (*Hibiscus brackenridgei*) | Endemic, endangered | Yellow native hibiscus, the state flower | Pollen and nectar |
-| Kokio keokeo | Endemic | White, fragrant native hibiscus | Pollen and nectar |
-| Ohelo (*Vaccinium*) | Endemic | Pink-red bells near volcanic craters, sacred to Pele. Traditionally an offering of ohelo berries goes to Pele before eating any | Native bees work the flowers |
-| Na'u (Hawaiian gardenia) | Endemic, endangered | White, intensely fragrant | Rare forage |
-| Wiliwili | Endemic | Orange to red flowers in dry forest before leaves appear | Bird flower that bees also visit |
-| Akoko, naio, alahee, pukiawe, akia | Native | Small white or green flowers | Native bee forage |
-| Kou, milo, hau | Coastal, Polynesian or indigenous | Hau flowers open yellow and fade to red by evening | Coastal nectar |
-| Kukui | Polynesian introduction | White clusters, Molokai's island flower | Nectar |
-| Noni, ti, breadfruit, coconut | Polynesian canoe plants | Village and garden trees | Coconut and noni are bee-worked |
-| Night-blooming cereus | Introduced | Enormous white flowers opening for one night. The famous hedge at Punahou School dates to 1836 | Bees catch the last open blooms at dawn |
-| Dragon fruit | Introduced | Night bloomer related to cereus | Bees pollinate in early morning before the flowers close |
-| Protea, lavender, jacaranda | Upcountry Maui (Kula) | Protea farms, lavender fields, purple jacaranda in spring | Rich nectar for upland apiaries |
-| Plumeria, pikake, puakenikeni, tuberose, gardenia | Introduced lei flowers | Heavy fragrance | Mostly moth flowers. Plumeria has no nectar |
-| Heliconia, bird of paradise, torch ginger | Introduced | Bold red and orange | Bird-shaped flowers, little bee value |
-
-### 14.7 Island flowers
-| Island | Official flower |
-|---|---|
-| Hawaii | Red lehua |
-| Maui | Lokelani (pink damask rose) |
-| Oahu | Ilima |
-| Kauai | Mokihana (fragrant native berry) |
-| Molokai | White kukui blossom |
-| Lanai | Kaunaoa (orange native dodder vine) |
-| Niihau | White pupu shell (a shell, not a flower) |
-| Kahoolawe | Hinahina (beach heliotrope) |
-
-### 14.8 Typical bloom calendar
-| Season | Main flows |
-|---|---|
-| Winter | Macadamia, eucalyptus, lychee, mango, avocado, mamane |
-| Spring | Kiawe begins, coffee, ohia peak, Java plum, citrus, jacaranda |
-| Summer | Kiawe main flow, monkeypod, coconut, banana |
-| Fall | Christmas berry, eucalyptus, lingering kiawe |
-| Year-round | Ohia (somewhere on some island), Spanish needle, haole koa, lantana |
-
-Old practice was to move hives from kiawe on the coast up to eucalyptus groves in fall, following blooms by elevation.
-
-### 14.9 Native Hawaiian yellow-faced bees in depth
-- **Name:** *Nalo meli maoli* ("native honey bee" in Hawaiian, though they make no stored honey).
-- **Species:** About 63 to 64 endemic *Hylaeus* species, descended from one ancestor. Roughly 10% of the world's yellow-faced bees.
-- **Body:** Small, sparsely haired, often black with yellow face markings in males. No pollen baskets. They swallow pollen and carry it internally.
-- **Nectar handling:** Concentrate nectar by holding a droplet between the mandibles to evaporate it.
-- **Nests:** Hollow stems, beetle borings, rock crevices, sometimes soil.
-- **Cuckoo bees:** Five Hawaiian species lay eggs in other *Hylaeus* nests. They are the only cuckoo bees in their entire family worldwide.
-- **Specialists:** Some live only on alpine silversword flowers. Some rob nectar from native geranium (nohoanu) with long tongues.
-- **Pollination role:** Dominated flower visits (64 to 91%) to native plant communities on Mauna Loa. In degraded coastal areas such as Kaena Point, non-native insects now make most visits.
-- **Threats:** Honey bee competition, invasive ants, western yellowjackets, alien bees (including the invasive *Hylaeus strenuus*), habitat loss, fire and drought.
-- **Status:** Seven species listed as endangered in 2016, the first bees protected in the United States.
-
----
+Island forage tables, endemic flowers and *Hylaeus*: `../../Geography/VolcanicIsland/HawaiianHoneyBees.md`.
 
 ## Part 15: The Tastiest Honeys
 
@@ -787,33 +472,8 @@ Old practice was to move hives from kiawe on the coast up to eucalyptus groves i
 | Buckwheat | North America, Europe | Dark, malty | Loved or hated, very high antioxidants |
 | Chestnut | Italy, France | Bitter, tannic | Savory pairings with cheese |
 
-### 15.3 Best honeys of the island
-| Rank | Honey | Flavor and texture | Source notes |
-|---|---|---|---|
-| 1 | Kiawe white honey | Creamy, buttery, light, faintly floral and menthol-cool. Sets into a spreadable white cream | Leeward coasts of Hawaii Island and Molokai. Considered the island's signature honey since the 1900s |
-| 2 | Ohia lehua | Mild, delicate, smooth fine cream. Crystallizes within 4 to 6 months | Found nowhere else on Earth. Prized by Hawaiian honey connoisseurs |
-| 3 | Macadamia nut blossom | Rich, nutty, darker amber | Hawaii Island orchards |
-| 4 | Wilelaiki (Christmas berry) | Spicy, fruity, earthy, chewy when crystallized | Rarely produced outside Hawaii and South America |
-| 5 | Coffee blossom | Light, delicate, floral | Kona coffee belt |
-| 6 | Tropical mango | Fruit-forward sweetness | Lowland orchards |
-| 7 | Lychee | Fruity, perfumed | Lowland orchards |
-| 8 | Avocado | Dark, molasses, buttery | Orchards and gardens |
-| 9 | Eucalyptus | Light amber, more pleasing than Java plum but below kiawe in 1950s rankings | Upper slopes |
-| 10 | Mountain wildflower blends | Shifting by season | Mixed upland forage |
-| 11 | Java plum | Light amber, slow to granulate, rated less desirable | Kauai and Oahu wet lowlands |
 
-### 15.4 History of Hawaiian honey
-- First bee colony arrived in **1857** from California after several failed attempts to ship hives around Cape Horn from New England. They were German black bees.
-- First commercial honey shipments left Hawaii in **1894**.
-- Ranchers spread bees to boost pollination of kiawe trees because kiawe beans were cattle feed.
-- The **Sandwich Island Honey Company** once ran 10,000 colonies.
-- Before 1920 bees collected huge amounts of honeydew from sugarcane leafhoppers. Biological control of the leafhopper ended that source.
-- In **1918** honey exports jumped to over 2.4 million pounds as World War I raised prices.
-- In **1930** the Molokai Ranch apiaries produced nearly 500,000 pounds and were reputed to be the largest honey producer in the world that year.
-- In **1950** Niihau, the small private island, held 2,200 colonies and outproduced every other island.
-- Italian bees gradually replaced the original black bees. In the 1950s black bees still dominated some Hawaii Island locations.
-
----
+Island honeys and Hawaiian honey history: `../../Geography/VolcanicIsland/HawaiianHoneyBees.md`.
 
 ## Part 16: Poison and Strange Honeys
 
@@ -847,33 +507,8 @@ Old practice was to move hives from kiawe on the coast up to eucalyptus groves i
 - **Death camas, some *Astragalus* and yellow jessamine:** Poison foragers.
 - **Caffeine and nicotine:** At natural nectar doses they improve bee memory rather than harm it.
 
-### 16.5 Poison honey risks on the island
-| Plant | Toxin type | Where | Risk |
-|---|---|---|---|
-| Fireweed (*Senecio madagascariensis*) | Pyrrolizidine alkaloids | Invasive on Hawaii Island and Maui pastures | Poisons livestock. Possible honey contamination where it dominates |
-| Rattlepods (*Crotalaria*) | Pyrrolizidine alkaloids | Lowland waste ground | Same concern |
-| Tree heliotrope (tahinu) | Heliotrope genus, a known pyrrolizidine group | Beaches | One of few alien plants native bees use |
-| Angel's trumpet and datura | Tropane alkaloids | Upcountry gardens, roadsides | Hallucinogenic honey if bees work them heavily |
-| Oleander and yellow oleander (be-still tree) | Cardiac glycosides | Common ornamentals | Low risk in mixed forage |
-| Azaleas | Grayanotoxins | Small plantings in cool upcountry gardens | Too few plants to make mad honey |
-| Little fire ants, pesticides | Not plant toxins | Farms and lowlands | Hive contamination and colony loss |
 
-Because Hawaiian bees forage a huge mix of flowers year-round, toxic plants get diluted. Commercial Hawaiian honey has no history as a mad honey source.
-
-### 16.6 Magical poison honeys
-Real chemistry suggests a full alchemy of dangerous honeys.
-
-| Magical honey | Source | Effect | Antidote (real-world analog) |
-|---|---|---|---|
-| Pele's Wrath honey | Ohia and ohelo growing on active vents | Burning fever, visions of fire, heart racing. Fire mages use small doses to boost power | Cooling salt water mana, atropine-like antidotes |
-| Dreaming honey | Angel's trumpet and night-blooming cereus | Prophetic delirium, sleepwalking, spirit sight | Physostigmine (the real antidote to tropane poisoning) |
-| Black Sea honey (mad honey analog) | Upcountry azalea groves fed by fear or rage mana | Paralysis, collapse, heart block. Used as an army-killing weapon left in raided villages, as Mithridates' allies did | Atropine, rest, fluids |
-| Liver-rot honey | Fireweed and rattlepod on cursed pasture | Slow wasting curse that builds over months | Purging rites, propolis purification |
-| Tutu honey | Honeydew from insects on poisonous shrubs | Seizures, madness | Sedatives, calming magic |
-| Bee-bane nectar | Flowers that kill bees (buckeye analog) | Destroys a rival hive's brood | Diverse forage, warding flowers |
-| Stillheart honey | Be-still tree (yellow oleander) | Stops the heart. Assassin's poison | Heart-mending healer magic |
-
----
+Island poison risks: `../../Geography/VolcanicIsland/HawaiianHoneyBees.md`. Magical poison honeys: `HoneyBeesMagic.md`.
 
 ## Part 17: Taming and Working with Bees
 
@@ -946,45 +581,8 @@ Real chemistry suggests a full alchemy of dangerous honeys.
 - **Bee venom therapy:** Folk and experimental use of stings.
 - **"Telling the bees":** European folk custom of informing hives of births, deaths and marriages so the bees would not leave.
 
-### 17.8 Beekeeping on the island
-- Raise hives on stands with legs banded or soaked against ants.
-- Lift hives high enough that cane toads can't sit at the entrance and eat bees.
-- Turn entrances away from trade winds, roads and paths.
-- Give partial afternoon shade and a clean water source.
-- Move hives by elevation to follow flows.
-- Leave honey until capped because humidity keeps it wet.
-- Harvest early in the morning before fresh nectar comes in.
-- Extract kiawe honey every 3 to 4 weeks before it sets solid in the comb.
-- Follow interisland movement rules to protect Varroa-free islands.
 
-### 17.9 Magical taming system
-Real beekeeping already has every element of a bond system: scent, routine, queen control and earned trust. Magic formalizes it.
-
-| Bond tier | Requirement | Hive response | Beekeeper ability |
-|---|---|---|---|
-| Stranger | None | Guards challenge on approach | None |
-| Tolerated | Calm visits with smoke rites over several weeks | Bees ignore the keeper | Open the hive safely |
-| Accepted | Keeper's scent marked on the comb through wax offerings | Guards let the keeper pass without smoke | Harvest surplus honey without stings |
-| Hive-friend | Survives a full generation of workers (6+ weeks) without harming the colony | Bees escort the keeper and warn of danger | Read basic dances, borrow guard bees |
-| Hive-kin | Rears the colony's queen by hand from a grafted larva | Colony treats the keeper as part of its scent | Command a swarm cloud, share senses with scouts |
-| Queen-bound | Swears a blood or honey oath to the queen | Queen pheromone extends to the keeper | Bee bearding at will, entire colony defends the keeper |
-| Swarm-lord | Bonded to many related colonies across an island | Linked hives act as one network | Island-wide scouting, mass swarm attacks, honey economy control |
-
-**Taming methods**
-- **Smoke rites:** Incense smoke mixed with native woods (sandalwood, kiawe) masks the keeper as fire masks alarm pheromone.
-- **Pheromone sigils:** Synthetic queen pheromone lures already exist and are sold to attract bees. Magical versions carved in wax act as command seals.
-- **Honey offerings:** Returning part of a harvest as honey water builds trust.
-- **Queen midwifery:** Grafting the larva that becomes a queen ties the keeper to every bee she produces.
-- **Island custom:** Offering ohelo berries to Pele before taking lehua honey from volcanic forests.
-
-**What breaks a bond**
-- Crushing bees, especially the queen
-- Taking more honey than surplus
-- Bringing disease or mites into the hive
-- Abandoning the hive during a raid
-- Sweating fear or rage near the comb
-
----
+Island beekeeping practice: `../../Geography/VolcanicIsland/HawaiianHoneyBees.md`. Magical taming system: `HoneyBeesMagic.md`.
 
 ## Part 18: Bee Intelligence in Depth
 
@@ -1063,22 +661,8 @@ Asian honey bees collect animal dung and smear spots of it around their hive ent
 - Strongly driven by scent and reward.
 - Individual bees don't understand the purpose of what they learn in experiments.
 
-### 18.13 Magical intelligence scale
-| Tier | Description | Abilities |
-|---|---|---|
-| 1. Instinct | Ordinary bees | Dances, scent memory, face learning with training |
-| 2. Clever | Mana-fed bees with enlarged mushroom bodies | Learn human gestures, recognize individuals instantly, count to dozens |
-| 3. Aware | Colony-level awareness | Understand simple speech, trade honey for protection, hold grudges and alliances |
-| 4. Sapient hive | Colony mind with personality | Negotiates, plans raids and defenses, teaches dances to other species |
-| 5. Ascended hive | Island-spanning network of linked colonies | Remembers across generations through scent-encoded "memory comb," predicts volcanic eruptions and storms, acts as a spirit of the land |
 
-**Island-specific minds**
-- **Lehua hives** carry long memories of lava flows and forest regrowth.
-- **Kiawe hives** are practical traders tied to coastal villages.
-- **Spirit Hylaeus** are ancient, solitary and wise, speaking for native plants rather than any colony.
-- **Feral black bee lines** descended from the 1857 German bees are proud, defensive and old-blooded.
-
----
+Magical intelligence scale: `HoneyBeesMagic.md`.
 
 ## Quick Reference: Key Numbers
 

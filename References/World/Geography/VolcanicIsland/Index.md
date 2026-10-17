@@ -11,6 +11,7 @@ Hotspot / shield-island pack for Dragnis-class places. Places: [Places.md](../Pl
 - [Farming.md](Farming.md). Wind, rain, terrain and farm location options (Koloa / Nēnē placement). Crops: Crops.md. Farm buildings: ../../Science/Invent/FarmBuildings.md.
 - [FarmingSystems.md](FarmingSystems.md). Status: brainstorm and inspiration. Not island crop canon.
 - [HawaiianBiomes.md](HawaiianBiomes.md). Earth Hawaii detailed field guide by elevation and habitat. Compact ladder: Ecology.md.
+- [HawaiianHoneyBees.md](HawaiianHoneyBees.md). Introduced honey bees, island forage and honeys, *Hylaeus*, pests, queen industry. Biology: ../../Fauna/Domestic/HoneyBees.md. Magic: ../../Fauna/Domestic/HoneyBeesMagic.md.
 - [HawaiianEcosystem.md](HawaiianEcosystem.md). Hawaii without people: island size/robustness, no-people outlook, biome matrix. Pack hub for native animals and introductions.
 - [HawaiianNativeAnimals.md](HawaiianNativeAnimals.md). Native mammals, birds, reptiles, freshwater, marine, land invertebrates. Hub: HawaiianEcosystem.md.
 - [HawaiianIntroductions.md](HawaiianIntroductions.md). Polynesian canoe kit and Western livestock / pests / plants / diseases. Hub: HawaiianEcosystem.md.

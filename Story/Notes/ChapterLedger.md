@@ -214,6 +214,35 @@ Ch 19 bare MP: `(156×10)+(147×4)` = **2148**. Printed ledger/target **2578** s
 - **Coin:** Enter **21598** → blanks **−50** (10×5 LC) + ink **−100** (~10 SS) → **21448**.
 - **Delta:** General store prices lock; Grimboodle job ask; refuses 6-year magic contract (adventure/experiment).
 
+### Chapter 21
+- **Time:** Still **11y0m / 6y**. Auction plan; word Bolt + Fire Orb practice.
+- **Sheet:** Same spine as Ch 19–20 exit.
+- **Skills / XP:** Mana Bolt word **+25**; Fire Orb runic **+25**. Diagnosis on runic only.
+- **Coin:** Enter **21448**.
+- **Delta:** Refuses cursed shop contracts. Runway optimism → desk burn in **21.5**.
+
+### Chapter 21.5
+- **Time:** ~**4 months** desk / **day 120**. Still age **11** / **6y**.
+- **Sheet:** `Chapter21_5Exit.md` (wins). Dex **85** / Vit **79** / End **89** / Int **165** / Will **151**; HP **1057** / SP **1229** / MP **2254**; soft Scribe **L4**.
+- **Skills:** RS / Drawing **L8**; Technology **L8**; Mastery **L5**; MT **L7**; Sleep **L7**; Hunger / Pain **L6**; Heat Res **L5**; Cold **L4**; Suffocation **L6**; Recovery **L5**; Fabrication **L8**; Taming **L3** soft; Hands **L9**; Sound/Echo soft **L8**. Ned desk/night: `NedStatus.md`.
+- **XP:** Skip perfect schematics **+27,000** (`Experience.md`).
+- **Coin:** Day-1 samples **−400** → desk burn → exit **1 SS**. Ledger: `CoinLedger.md`.
+- **Delta:** Ten branded Highest Fireballs empty; burns all paper schematics.
+
+### Chapter 22
+- **Time:** Present day after 21.5. **11y0m / 6y**.
+- **Sheet:** Desk-exit lookback (RS **L8**, Mastery **L5**, Understanding **L3**, Technology **L8**).
+- **Coin:** Last **1 SS** into auction. Gross **8 SG 8 LS** (hammers **42+46 LS**). Net after **25%** lands Ch 23.
+- **Delta:** Comet brand; Percival / Cynthia; seller path; Identify habit (stays weak).
+
+### Chapter 23 (through quiet room, line 715)
+- **Time:** Payday → **+2 months** intense grill → weaver Ned-silk → **+3 months** Fireball volume. Age **11 and 9 months** / **6y 9m** (`Timeline.md`).
+- **Sheet:** `Chapter23QuietRoom.md` (wins). Soft overall **~L32–34** / Scribe **L7–8**; Vit **83** / End **93** / Int **166** / Dex **~88**; RS **L8**; Mastery **L6**; Sleep **L8**; Hunger **L7**; Heat Res / Recovery **L6**.
+- **Skills:** Full quiet-room tables in `Chapter23QuietRoom.md` / `Skills.md`. Ned: `NedStatus.md` § Ch 23.
+- **XP:** No kill XP; pour XP soft overall bar **~44M** (`Experience.md`).
+- **Coin:** First sale → fifteen → **~315**-scroll span → quiet-room wallet **~170 SG** after spend. Full ledger: `CoinLedger.md` / `Chapter23QuietRoom.md`.
+- **Delta:** Match Rune invent is **after** line 715 (rate lock in `CoinLedger.md` / `ScrollEconomy.md`; not in quiet-room wallet). Forest / Helci follow.
+
 ---
 
 ## Cross links
@@ -225,5 +254,8 @@ Ch 19 bare MP: `(156×10)+(147×4)` = **2148**. Printed ledger/target **2578** s
 | Compact attribute table | `Attributes.md` |
 | Skill unlock/rank prose | `Skills.md` |
 | Kill XP / pouch ledgers | `Experience.md` |
+| Coin path (early + Edelgard + Match rate) | `CoinLedger.md` |
+| Quiet-room authority | `Chapter23QuietRoom.md` |
+| Ned companion sheet | `NedStatus.md` |
 | Age / year narrative | `Timeline.md` |
 | Continuity checklist | `CrossCheck.md` |
