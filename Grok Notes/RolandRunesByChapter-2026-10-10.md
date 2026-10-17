@@ -384,6 +384,22 @@ Chapter-ordered list of runes Roland Arden (D) has crafted or created in complet
 
 ---
 
+### Chapter 23: Match Rune (After Quiet Room, +3 Months Post-Auction)
+- **Item**: Match Rune (pea-sized Highest Fire Orb lighter)
+- **Rank/Quality**: Lesser, Highest (micro Fire Orb)
+- **Method**: Pea-sized scrap paper + one blood drop; runic inscription at miniature scale; empty (not preloaded)
+- **MP Cost**: Designed cast 5 MP (micro scale)
+- **Make Time**: ~1 minute per Match Rune (fluent; Hands×MT can seat thousands/day)
+- **Market**: Convenience fire at 1 LC each (≈ one night candle cost; torch 2-3 LC); packs of ten @ 1 SS
+- **Market Absorption**: ~2,500/week hold without price drop (inns, workshops, travelers/adventurers, early-adopters); above ~5,000/week unit profit drops
+- **Revenue**: Libra 25% commission → net ~0.75 LC each → ~1.9 SG/week at 2,500/week hold
+- **Materials Cost**: ~0 LC (scrap + one blood drop)
+- **Skills**: Climbs Rune Scribing (Highest quality); his burns climb Mastery (1/burn)
+- **Context**: Invented after Ch 23 quiet room beat (line 715); after +3 months of Fireball volume ramp (15→20→25→30→hold 25/week); quiet room wallet ~170 SG before Match invent
+- **Cite**: `References/Items/ScrollRuneAbilities.md` Match Rune entry; `References/Runes/ScrollEconomy.md` Match Rune market section; `Story/Notes/Chapter23QuietRoom.md`
+
+---
+
 ### Chapter 35: Ladle of Lesser Fire Resistance [Lesser: Lowest, High]
 - **Item**: Blacksmith's ladle (iron)
 - **Rank/Quality**: `[Lesser: Lowest, High]` — item craft Lowest (barely passable plain iron ladle), rune quality High
