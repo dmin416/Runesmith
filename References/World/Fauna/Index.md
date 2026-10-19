@@ -6,6 +6,7 @@ Up: [World](../Index.md)
 
 - [Design](Design/Index.md). Fat bestiary and mount loot (chapter-tagged). Lean locks stay at folder root.
 - [Domestic](Domestic/Index.md). Farm and island animals (not the monster ladder). Honey bees: [Domestic/HoneyBees.md](Domestic/HoneyBees.md).
+- [HawaiianWaterfowl](HawaiianWaterfowl/Index.md). Koloa / Nēnē real-world data, scenarios, farm flocks, domestication, magic forms. Island geography stays in [../Geography/VolcanicIsland/](../Geography/VolcanicIsland/Index.md).
 - [Species](Species/Index.md). Biomechanics and craft-depth species files.
 
 ## Files

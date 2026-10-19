@@ -22,7 +22,7 @@ Update these together when a chapter changes his sheet. Keep history by chapter.
 | Skills, traits, titles (Passive, Active, Spell, Class bonuses, trait cards) | `Skills.md` |
 | Gear / carried items / Identify item blocks / pouch snapshot | `Items.md` |
 | Consumable item types (healing potions, etc.) | `References/Items/Items.md` |
-| Kill XP, bars, level-ups, kill totals, grind ledgers (coin tied to kills) | `Experience.md` |
+| Kill XP, craft / schematic XP, skill-rank overall XP (~100/rank), bars, level-ups, kill totals, grind ledgers (coin tied to kills) | `Experience.md` (record **everything**; soft until locked) |
 | Pouch / auction / scroll-sale coin path (early + Edelgard + Match rates) | `CoinLedger.md`, `StoryPrices.md`, `Chapter23QuietRoom.md` (quiet-room mark) |
 | Ch 21.5–23 spine deltas (time / sheet / coin / Ned) | `ChapterLedger.md` |
 | First-clear skill index / Source delay list | `Roland's Skills.md`, `Early Logical Skills.md` |

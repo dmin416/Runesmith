@@ -1,6 +1,6 @@
 # Legged Vehicles and Wheel-Legs
 
-> Earth reference / invent loot. Not locked law. Wheel physics: `WheelScience.md`. Vehicle families: `VehicleTypes.md`. Suspension: `Suspension.md`. Mounts design: `../../Fauna/Design/MountsDesign.md`.
+> Earth reference / invent loot. Not locked law. Wheel physics: `WheelScience.md`. Vehicle families: `VehicleTypes.md`. Suspension: `Suspension.md`. Walking house / force rail / shield glide: `WalkingHouse.md`. Ride smoothness / limb count / IK: `WalkerRideSmoothness.md`. Four-arm harness modes: `TentacleMotionModes.md`. Rigid-link arm design: `RigidLinkTentacleArm.md`. Mounts design: `../../Fauna/Design/MountsDesign.md`.
 
 Nav: `Index.md`.
 

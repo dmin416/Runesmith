@@ -2,7 +2,7 @@
 
 Up: [Science](../Index.md)
 
-Suspension, brakes, crew positions, wheels, roads, mobile home, glider, mechanical car invent ladder, shaft / joint / gear transmission invent. Earth speed records and mode limits: `../Body/HumanSpeed.md`. D's rune bike, hover and glider wishlist: `../../../People/Roland/Goals.md`.
+Suspension, brakes, crew positions, wheels, roads, mobile home, walking house invent, glider, mechanical car invent ladder, shaft / joint / gear transmission invent. Earth speed records and mode limits: `../Body/HumanSpeed.md`. D's rune bike, hover and glider wishlist: `../../../People/Roland/Goals.md`.
 
 ## Folders
 
@@ -12,6 +12,7 @@ Suspension, brakes, crew positions, wheels, roads, mobile home, glider, mechanic
 
 - [Brakes.md](Brakes.md). Best brake by job: shoe, drum, disc, regen, fail-safe park
 - [MobileHome.md](MobileHome.md). Caravan amenity bands + heat density
+- [WalkingHouse.md](WalkingHouse.md). Earth invent loot. Legged apartment, force rail, repulsion-shield glide, 100 m² shield cost, rune-leg control
 - [Positions.md](Positions.md). Best driving and piloting positions: view, g, harness, controls
 - [Roads.md](Roads.md). Road layers; medieval-Victorian era ladder; travel speeds
 - Natural-surface trails: [../Invent/TrailBuilding.md](../Invent/TrailBuilding.md)
@@ -23,5 +24,8 @@ Suspension, brakes, crew positions, wheels, roads, mobile home, glider, mechanic
 - [WheelScience.md](WheelScience.md). Wheel physics, types, tradeoffs, skateboard/golf-cart swaps
 - [VehicleTypes.md](VehicleTypes.md). Vehicle families from bikes to cars, off-road and specialists
 - [LeggedVehicles.md](LeggedVehicles.md). Walking machines, spiders, wheel-legs
+- [WalkerRideSmoothness.md](WalkerRideSmoothness.md). Contact points, limb count, mode transitions, IK effort by terrain
+- [TentacleMotionModes.md](TentacleMotionModes.md). Four-arm harness serpentine modes (walk, climb, rubble, strike)
+- [RigidLinkTentacleArm.md](RigidLinkTentacleArm.md). Indestructible-link arm design: wrap pitch, taper, force, magic swap
 - [FatTireBike.md](FatTireBike.md). 29–36 in fat-tire best fit; superhuman power vs traction / parts ceiling
 - [HawaiianTransport.md](HawaiianTransport.md). Dragnis-class island network. Balloon-tether swinging fails. Ordinary wings, zip lines, gondolas, canoes. PerfectGlider designs stay in PerfectGlider.

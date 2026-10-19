@@ -2,7 +2,7 @@
 
 **Status:** brainstorm and inspiration. Not island crop canon.
 
-Island crops: `Crops.md`. Farm wind/rain sites: `Farming.md`. Soils and resources: `Resources.md`. Waterfowl: `../../Fauna/Domestic/KoloaAndNene.md`. Places: `../Places.md`.
+Island crops: `Crops.md`. Farm wind/rain sites: `Farming.md`. Soils and resources: `Resources.md`. Waterfowl: `../../Fauna/HawaiianWaterfowl/Index.md`. Places: `../Places.md`.
 
 Do not treat Stardew machine names or the draft Farming skill ladder as locked Runesmith rules until they are checked into `References/Progression/`.
 

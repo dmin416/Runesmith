@@ -1,6 +1,6 @@
 # Hawaiian Honey Bees, Forage and Island Beekeeping
 
-> Earth reference / invent loot. Not locked law. Honey bee biology: `../../Fauna/Domestic/HoneyBees.md`. Magical bees: `../../Fauna/Domestic/HoneyBeesMagic.md`. Biomes: `HawaiianBiomes.md`. Native landscape: `HawaiianNativeLandscape.md`. Crops / farms: `Crops.md`, `Farming.md`. Ecology: `Ecology.md`.
+> Earth reference / invent loot. Not locked law. Honey bee biology: `../../Fauna/Domestic/HoneyBees.md`. Magical bees: `../../Fauna/Domestic/HoneyBeesMagic.md`. Biomes: `HawaiianBiomes.md`. Native landscape: `HawaiianNativeLandscape.md`. Crops / farms: `Crops.md`, `Farming.md`. Ecology: `Ecology.md`. Mainland → island starter checklist: `../../../People/Roland/BeesMainlandToIsland.md`.
 
 Nav: `Index.md`. Up: [Volcanic Island](Index.md).
 

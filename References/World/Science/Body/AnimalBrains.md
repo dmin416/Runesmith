@@ -1,6 +1,6 @@
 # Animal Brains: Neuron Counts and Rough Intelligence
 
-> Earth invent loot. Neuron / forebrain counts, intelligence tiers 1 to 10, AI parameter comparison, crow deep dive, crystal-copy best brains, baby capacity, caterpillar fusion math, communication capacity, human-minded caterpillar vs bees. Not Caldris law. Crystal mind hub: `CrystalMinds.md`. Octonary substrate: `OctonaryCrystalBrain.md`. Architecture math: `CrystalComputerMath.md`. Focus / men-worth: `FocusCapacity.md`. Cellular control / magical caterpillar body: `CellularControl.md`. Honey bees: `../../Fauna/Domestic/HoneyBees.md`. Nav: `Index.md`.
+> Earth invent loot. Neuron / forebrain counts, intelligence tiers 1 to 10, AI parameter comparison, crow deep dive, crystal-copy best brains, baby capacity, caterpillar fusion math, communication capacity, human-minded caterpillar vs bees. Not Caldris law. Crystal mind hub: `CrystalMinds.md`. Octonary substrate: `OctonaryCrystalBrain.md`. Architecture math: `CrystalComputerMath.md`. Focus / men-worth: `FocusCapacity.md`. Cellular control / magical caterpillar body: `CellularControl.md`. Crystal-bug joy / artificial feeling: `ArtificialFeeling.md`. Honey bees: `../../Fauna/Domestic/HoneyBees.md`. Nav: `Index.md`.
 
 ---
 

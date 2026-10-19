@@ -523,15 +523,15 @@ Day 1: buys **Runic Orb of Light**, **Fire Arrow**, **Aqua Ball**. Then ~**4 mon
 
 No full status screen. Present day after 21.5. Lookback prints RS **L8**, Mastery **L5**, Understanding **L3**, Technology **L8**. Last cash **1 SS** into auction. Percival: ten Highest empty Fireballs; amplify-capable; guide **~7–8 LS** each. Open **32 LS**; hammers **42 LS** + **46 LS** → gross **8 SG 8 LS**. Net after **25%** lands in Ch 23 (**6 SG 6 LS**; wallet **6 SG 6 LS 1 SS**). Comet / red shooting-star brand on stage.
 
-**Rewrite:** climbing toward Ch 23 full sheet (Scribe toward **L10** / overall **L35**). Desk exit attrs from `Chapter21_5Exit.md` (not the soft Ch 23 Source block).
+**Rewrite:** climbing toward Ch 23 full sheet (quiet room Scribe **L8** / overall **L33**; mid-hunt Scribe **L10** / overall **L35**). Desk exit attrs from `Chapter21_5Exit.md`.
 
 ## Chapter 23
 
-Seller #64: sale **8 SG 8 LS** → after 25% **6 SG 6 LS** (wallet **6 SG 6 LS 1 SS**); profit after mats ~**6 SG 4 LS**. Restocks; homemade ink; comet maintain. **+2 months** intense grill → Percival **fifteen** Highest. Weaver **Ned silk** clothes. **+3 months** weekly Fireball volume (**15→30**, hold **25**/week at **7.5 LS**). Quiet-room wallet / attrs / skills: `Chapter23QuietRoom.md` (**~170 SG**; Vit **83** / End **93** / Int **166** / Dex **~88**; RS **L8**; Mastery **L6**; Sleep **L8**; Hunger **L7**; Heat Res / Recovery **L6**). Coin steps: `CoinLedger.md`. Ned quiet-room ranks: `NedStatus.md`. Match Rune invent is **after** line 715 (rate **~1.9 SG**/week at hold **~2,500**; not in quiet-room wallet yet).
+Seller #64: sale **8 SG 8 LS** → after 25% **6 SG 6 LS** (wallet **6 SG 6 LS 1 SS**); profit after mats ~**6 SG 4 LS**. Restocks; homemade ink; comet maintain. **+2 months** intense grill → Percival **fifteen** Highest. Weaver **Ned silk** clothes. **+3 months** weekly Fireball volume (**15→30**, hold **25**/week at **7.5 LS**). Quiet-room wallet / attrs / skills: `Chapter23QuietRoom.md` (**~170 SG**; Vit **86** / End **96** / Int **175** / Dex **89**; overall **L33** / Scribe **L8**; RS **L8**; Mastery **L6**; Shaping/Reg **L9**; Sleep **L8**; Hunger **L7**; Heat Res / Recovery **L6**). Coin steps: `CoinLedger.md`. Ned quiet-room ranks: `NedStatus.md`. Match Rune invent is **after** line 715 (rate **~1.9 SG**/week at hold **~2,500**; not in quiet-room wallet yet).
 
-**Quiet room rewrite (line 715; authority):** soft overall **~L32–34** / Mage L25 secondary / Scribe **L7–8** soft. Full table: `Chapter23QuietRoom.md`.
+**Quiet room rewrite (line 715; authority):** overall **L33** / Mage L25 secondary / Scribe **L8**. Full table: `Chapter23QuietRoom.md`.
 
-**Live (chapter, mid-hunt after forest)** — Source block still on-page (behind rewrite; do not use for quiet room):
+**Live (chapter, mid-hunt status screen)** — rewrite formula sheet (desk exit with Shaping/Reg **L9** + Scribe **L4→L10** packages + quiet-room resist/Diagnosis pads + Sneaking evolve **Agi +1**). Old Source **26/30/52…** discarded. Blood quality = max MP (**2414**).
 
 ```
 ════════ STATUS ════════
@@ -542,29 +542,29 @@ Classes:
 T1 Mage L25               [Secondary]
 T1 Runic Mana Scribe L10  [Main]
 
-HP               374/374
-MP              1701/1751
-SP               448/448
+HP              1148/1148
+MP              2414/2414
+SP              1302/1302
 
-Strength              26
-Agility               30
-Dexterity             52
-Vitality              29
-Endurance             28
-Intelligence          92
-Willpower             67
-Charisma              13
-Luck                   8
+Strength              49
+Agility               65
+Dexterity             91
+Vitality              86
+Endurance             96
+Intelligence         177
+Willpower            161
+Charisma              12
+Luck                   7
 ════════════════════════
 ```
 
-Source skills print (mid-hunt): Mana Scribing L2, Rune Scribing L5, Rune Mastery L3. **Rewrite floor at quiet room:** RS **L8**, Mastery **L6**, Shaping **L7**, Regulation **L8**. Helci cliff is after line 715.
+Check: HP `86×10+96×3` = **1148**; SP `96×10+49×3+65×3` = **1302**; MP `177×10+161×4` = **2414**. Skills print (mid-hunt): Mana Scribing **L2**, Rune Scribing **L8**, Rune Mastery **L6**; Shaping **L9**, Regulation **L9**. Helci cliff is after line 715.
 
 ## Chapter 24
 
 No full status screen. Still L35 / Scribe L10. Fireball grimoire clears five Mountain Goblins; Helci climbs rope with one mana stone. No XP numbers shown. Inn sausage "thanks."
 
-**Rewrite:** inherits Ch 23 rewrite sheet.
+**Rewrite:** inherits Ch 23 rewrite sheet. Kill / craft / skill XP tape: `Experience.md` § Ch 23 after line 715 / Ch 24 (Helci **5 × 625** soft = **3,125**; Mastery combat ticks).
 
 ## Chapter 25
 

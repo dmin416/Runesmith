@@ -27,7 +27,9 @@ Enter physicals held: Str **49** · Agi **64** · Cha **12** · Luck **7**.
 | | Str | Agi | Dex | Vit | End | Int | Will | Cha | Luck | HP | SP | MP |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | Enter (Ch 19 → 21.5) | 49 | 64 | 72 | 72 | 81 | 156 | 147 | 12 | 7 | 963 | 1149 | 2148 |
-| **Exit d120** | **49** | **64** | **85** | **79** | **89** | **165** | **151** | **12** | **7** | **1057** | **1229** | **2254** |
+| **Exit d120** | **49** | **64** | **85** | **79** | **89** | **170** | **155** | **12** | **7** | **1057** | **1229** | **2320** |
+
+Int/Will include Shaping / Regulation at **L9** (sum-of-spells lock; +**5** Int / +**4** Will vs old L7/L8 exit). MP `170×10+155×4` = **2320**.
 
 ```
 ════════ STATUS ════════
@@ -41,15 +43,15 @@ T1 Runic Mana Scribe L4 soft   [Main]  (+3 this skip cap; soft)
 
 HP              1057/1057
 SP              1229/1229
-MP              2254/2254
+MP              2320/2320
 
 Strength              49
 Agility               64
 Dexterity             85
 Vitality              79
 Endurance             89
-Intelligence         165
-Willpower            151
+Intelligence         170
+Willpower            155
 Charisma              12
 Luck                   7
 ```
@@ -68,8 +70,8 @@ Overall XP bar enter **7029** → exit **~16,034,218** (schematics **+27,000** +
 | Understanding (runic scrolls) | **3** | **~134** | |
 | Multitasking | **7** | **~23.9k** | Concurrent Hands **7** |
 | Mana Hands | **9** | **~0.80M** | No evolve |
-| Basic Mana Shaping | **7** | **~28.5k** | |
-| Basic Mana Regulation | **8** | **~108.5k** | |
+| Basic Mana Shaping | **9** | **≥500k** (sum of spells; Bolt/Hands L9) | Cap; evolve **2M** |
+| Basic Mana Regulation | **9** | **≥500k** (same sum lock) | Cap; evolve **2M** |
 | Basic Mana Scribing | **1** | **~2** | Soft; **L2** later |
 | Basic Rune Mastery | **5** | **~2,910** | Reject burns + tiny Fire Orb lighter scraps (always fired); combat later |
 | Sleep Resistance | **7** | **20k** soft-cap | Printed **+1** this skip |

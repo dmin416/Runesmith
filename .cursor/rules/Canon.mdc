@@ -1,9 +1,9 @@
 ---
-description: Story file safety, Roland core, Helci lock, mistakes, naming
+description: Story file safety, Roland, Helci, mistakes, naming, canon order
 alwaysApply: true
 ---
 
-# Project Canon
+# Canon
 
 ## Story files
 
@@ -39,3 +39,22 @@ alwaysApply: true
 
 - New folders and files use PascalCase. No lowercase, snake_case, or kebab-case unless matching a numbered Source range (`1-10.md`).
 - Keep extensions lowercase (`.md`). Match existing project casing.
+
+## Canon order
+
+When two homes disagree, the higher one wins.
+
+1. Outline (`Story/Outline.md`). Not written yet. When it has a plan, it wins. `Story/VolumeSynopsis.md` is the volume synopsis, not the outline, and does not override the chapter.
+2. Story prose in `Story/Chapters/`.
+3. Notes and status, equal to each other. That is `Story/Notes/`, including Timeline, Experience, Status, Skills, and the other note sheets.
+
+If the chapter and a note disagree, the chapter is the story fact until they order a change. Say what disagrees and where. Do not rewrite the chapter or the note on that finding alone.
+
+If two notes disagree, that is a notes problem. Say so. The story still wins over both until they order a note change.
+
+Reference hubs do not override the story. If a reference is scientifically or narratively wrong against the chapter or the notes, say so. Do not treat the reference as the story fact.
+
+```
+# Chapter prints MP 1164. Status.md says 1028.
+# The chapter number stands. Status.md is behind.
+```

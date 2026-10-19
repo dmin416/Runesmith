@@ -1,6 +1,6 @@
 # Hawaii Without People: Ecosystem Reference
 
-Earth invent loot. Human-free baseline for Dragnis-class island design. Compact ecology ladder: `Ecology.md`. Biome field guide: `HawaiianBiomes.md`. Native trees / wood / sector layout: `HawaiianNativeLandscape.md`. Waterfowl: `../../Fauna/Domestic/KoloaAndNene.md`. Places: `../Places.md`.
+Earth invent loot. Human-free baseline for Dragnis-class island design. Compact ecology ladder: `Ecology.md`. Biome field guide: `HawaiianBiomes.md`. Native trees / wood / sector layout: `HawaiianNativeLandscape.md`. Waterfowl scenarios (no-people / reptiles / magic / farm): `../../Fauna/HawaiianWaterfowl/Index.md`. Domestication craft: `../../Fauna/HawaiianWaterfowl/Domestication.md`. Places: `../Places.md`.
 
 **Owns:** island size and robustness ranking, no-people outlook, biome robustness matrix, pack index. Full native fauna catalog → `HawaiianNativeAnimals.md`. Polynesian canoe kit and Western introductions → `HawaiianIntroductions.md`. Do not merge tree registers into this hub.
 

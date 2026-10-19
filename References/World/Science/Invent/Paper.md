@@ -73,7 +73,7 @@ Within a stock. Global shop order follows the LC table.
 
 ## What goes on which stock
 
-**Scroll / rune seating (lock):** blank need **not** be magical. Mundane paper is easier to imbue and burns after **one** cast. Magic paper / hide takes more focus (latent mana) but lasts **2–5** uses until its mana threshold is passed. Paper tiers match spell tiers. Full craft law: `../../../Runes/MagicScrollMaking.md`.
+**Scroll / rune seating (lock):** blank need **not** be magical. Mundane paper is easier to imbue and burns after **one** cast. Magic paper / hide takes more focus (latent mana) but lasts **2–5** uses until its mana threshold is passed. Paper tiers match spell tiers. **Host hold is narrative only** (no full hide law): most sheets run a seat at least once; cheap Trox/boar ~**200** mana hold (Bolt can overcharge ~**8×**; Fireball **400** runs once with no amp). Full craft law: `../../../Runes/MagicScrollMaking.md`.
 
 | Job | Usual stock |
 |---|---|

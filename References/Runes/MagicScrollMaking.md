@@ -105,19 +105,131 @@ Ink can also simply be powerful blood. Ink rules are more narrative than rigid. 
 
 **Seat time (Ch 21.5 Notes lock):** `wall ≈ draw + paid / tip_sip`. Tip-sip **~21.1 MP/min**; known Arrow draw **~5 min**; Ball draw **~15 min**; `paid = (cast / η) × S`. Highest Arrow wall **~6 min**; Highest Fireball wall **~21–26 min** (RS L4–L7). Phase C mix **~70%** Mana Arrow keep / **~25%** Fireball sell / **~5%** Light Ball → **~85** clean seats/day at RS **L8**, **~1.7–3k MP**/day (draw-limited, under **~12.6k** tip-sip ceiling). Skip exit **~4 months / d120**. **Prefill:** when MP or SP is full, overflow may preload **personal keep** or **gift** scrolls only (**1.31 ×** activation); sell-line Fireballs stay empty. Seat counts unchanged. Full table: `../../Story/Notes/Chapter21_5.md`.
 
-The main purpose of better magic ink is to allow more mana. Ink quality determines the amount of mana that can flow into the spell. Better ink carries more mana which raises the upper threshold for the highest level of spell that can be made.
+Ink does not change spell **complexity**. Complexity depends only on the scribe's knowledge, the writing and the accuracy of the runes.
 
-Better ink can also reduce the mana cost of making the scroll.
+### Scroll power from materials (lock)
 
-Ink does not affect spell complexity. Complexity depends only on the scribe's knowledge, the writing and the accuracy of the runes.
+**Rule:** **blood (ink / mana feedstock) and hide (host)** together set the **upper limit** of how hard the scroll can hit. The person who **activates** it still scales inside that ceiling the same way a normal cast does: **Intelligence** on a **mana** push, **physical skills** on a **stamina** push. A farmer with no mage INT and no fight skills gets the rune's material ceiling and **no caster boost**.
 
-### Spell Power
+Shape bills (Bolt **25**, Orb **25**, Arrow **50**, Shield **100**, Ball **400**) stay the activation / craft ladders below. They are the mana or stamina **paid** for that machine size. **Effect strength** = materials ceiling × caster boost (capped by the ceiling).
 
-Magic scrolls are as powerful as the mage who made them designs them to be. More mana means a stronger spell but a higher cost to cast it.
+#### Host hold (narrative; no full hide law)
 
-Example: A normal Mana Bolt scroll costs **25 MP** to cast. A supercharged Mana Bolt scroll written by an archmage is twice as powerful and costs **50 MP** to cast.
+Do **not** build a deep hide encyclopedia. Soft story rule only:
 
-Shop device grades Lowest → Highest rate designed attacking value / cast cost. They are **not** rune `η_cond` and **not** a seating-inefficiency dial.
+- **Most hosts can run a seated rune at least once.** If the designed bill is far above what the sheet wants to carry, the hide **melts / burns / fails before or as it fires**, especially on a bad overcharge.
+- **Overload amp** (pushing extra mana past the designed bill) is mainly for **low-cost spells on cheap hide**. Heavy seats on cheap stock fire once and refuse more.
+- **Cheap Trox / street boar / similar rough hide peg:** about **200 mana** of hold.
+  - Mana Bolt designed **25** → can overcharge about **8×** toward that **200** before the host is done.
+  - Fireball designed **400** → can still **run once** on that hide, but you **cannot** push extra mana in; more pour and it blows, burns, or refuses.
+- Finer / higher-tier magical hide raises that soft hold when the story needs it. Exact tables stay unwritten.
+
+#### Materials ceiling (blood + hide)
+
+**Mostly narrative. Roughly gated.** Soft pegs below are feel, not a law book. The scroll cannot outperform what **ink and host** can carry together. Weak hide with rich blood, or rich hide with street ink, both choke the ceiling. Host hold caps how much **extra** mana you can shove in. Blood sets how hard a designed spell the ink will even seat.
+
+#### Blood (quality + amount)
+
+Blood is not just color. **Quality** and **how much you put in** both gate the ink. Thin a strong blood into a big diagram and it underperforms; pour a lot of weak blood and it is still weak. The whole dial stays story-feel: enough of the right blood for that seat, or it chokes / fails / burns.
+
+| Blood | Ceiling feel |
+|---|---|
+| **Peasant / no-mana human** | Shittiest tier. A Fireball in that ink **likely fails** to seat or fires as trash, however much you pour. |
+| **Street beast (Trox / butcher)** + low cores | About an **average person's** cast. Working channel, weak punch. |
+| **Roland's (D's) blood** | **Quality = his current max MP.** Soft peg **now** (Ch 23 mid-hunt **2414**): with a real pour, designed seats up to about **2414 MP**. Below that he can aim for clean Highest; past that, or if the pour is too thin for the bill, the ink chokes, fails, or burns the host. Rises when his pool does. |
+| **Ned's blood / hemolymph** | **Narrative** monster band. Roughly “as strong as Ned is when the ink is made,” scaled by how much goes in. No hard MP table. |
+| **Other monsters** | **Narrative.** Stronger beasts / cores feel richer; amount still matters; no spreadsheet. |
+
+Shop Trox / butcher beast blood stays the street-cheap carrier (`../World/Science/Body/BloodNotes.md` § Trox). Powdered goblin cores alone do not raise the ceiling past street; they seat a working channel.
+
+| Materials together | Ceiling feel |
+|---|---|
+| Cheap hide + peasant / no-mana blood | Fail or trash Fireball |
+| **Trox hide** + **goblin-stone** / street cheap | Average-person cast; hold ~**200** for amp |
+| Ned blood on a host that can hold it | Ned-at-make (narrative; enough blood for the seat) |
+| **Roland blood** on a host that can hold it | His chosen cast, up to his **max MP** (~**2414** now) if the pour matches the bill, and host hold for amp |
+
+#### Caster boost (inside the ceiling)
+
+| Who pays | Boost |
+|---|---|
+| **Mana** activation (mage) | Same Intelligence multiplier as a normal cast: `μ(INT) = (INT / 15)^0.8` (`Energy.md`). Skill η(L) does **not** stack on top of rune η_cond; INT still applies on scroll mana pushes. |
+| **Stamina** activation (non-mage / SP path) | Boosted by **physical skills** the same way INT boosts mana (fight / body technique ranks as the multiplier). Exact μ table soft until pinned; street farmer ≈ **1×** (no boost). |
+| **Farmer / no boost** | Hits about as hard as the **materials ceiling** alone. Clean Highest seating does not invent a mage's punch for him. |
+
+Rune quality (`η_cond`) and **Basic Rune Mastery** still cut what is **paid** to activate. They do not raise the materials ceiling.
+
+#### Roland-blood path (order)
+
+When the ink carries a real share of **his** blood:
+
+1. **Materials ceiling** = his chosen cast strength, limited by **blood quality + amount** (quality = his **max MP**, ~**2414** now when the pour matches) **and** hide hold together. Mostly narrative.
+2. **Payment** = η_cond and Mastery cut the bill.
+3. **Fill / amp** = more mana into empty or headroom raises effect toward the ceiling; past host hold the hide fails, burns, or refuses.
+
+Empty sell scrolls stay user-paid activation. Prefill (personal / gift) spends the crafter's pool now and can sit closer to the host hold (`1.31 ×` activation pour when stores are full, personal/gift only).
+
+#### Mixes
+
+- **Living blood + host** set the ceiling (quality, amount, hide; rough / narrative). Goblin-stone powder is seating feedstock, not a strength upgrade by itself.
+- **Ned blood only** → Ned-at-that-moment (if the hide can hold it and there is enough blood for the seat).
+- **Roland blood present in a real share** (enough for the bill) → Roland-blood path, even if Ned blood or goblin powder is also in the bottle.
+- His Ch 21.5 homemade brew (his blood + Ned's blood + powdered goblin cores) uses the **Roland-blood path**. Ned blood still colors the channel; it does not cap him at Ned if his blood is carrying the design.
+
+#### What shop grades still mean
+
+Shop tags Lowest → Highest rate **designed attacking value / cast-cost band** for that seat. They are **not** rune `η_cond`. A Highest empty Fireball on Trox + goblin stone is a clean machine with a **street ceiling**; a farmer lighting it gets that ceiling and no INT boost. The same machine on his blood + a hide that can hold it can hit like his cast when he (or another strong activator) pays.
+
+#### Do not
+
+- Do not set scroll effect strength from crafter `μ(INT)` alone (materials ceiling first).
+- Do not let hide **or** blood alone ignore the other; both bound the ceiling. Do not treat blood as quality-only; amount gates too. Do not spreadsheet the materials dial past soft pegs.
+- Do not let Mastery or η invent free power above the materials ceiling.
+- Do not give a no-boost activator (farmer) a mage's punch from seating quality alone.
+
+#### Rough formula (normal designed mana, mana push)
+
+Assume the activator pays a **normal designed** charge for that shape (Orb/Bolt **25**, Arrow **50**, Shield **100**, Ball **400**, Match **5**). That designed **M** is what feeds the converter. **Mastery only changes what he pays**, not **M** in the output line (`Energy.md`).
+
+```
+μ(INT) = (INT / 15)^0.8
+A      = √C                         // open ground A = 1
+Useful_J = min( Ceiling_J , M × 10 × η_cond × μ(INT) × A )
+```
+
+- **M** = designed mana for that seat (normal cost amount).
+- **η_cond** = rune quality (Highest **1.0** … Lowest **0.2**).
+- **Ceiling_J** = blood + hide upper limit, in the same joule units.
+- Skill η(L) does **not** enter (rune path, not body spell).
+
+**His blood + a hide that can hold it:** treat Ceiling ≥ this Useful at his INT, so the min does not bind when he burns his own seats at normal **M**.
+
+**Quiet-room worked (Highest, A = 1, Int 166 → μ ≈ 6.84):**
+
+| Seat | M (designed) | Useful (rough) | He pays at Mastery L6 |
+|---|---:|---:|---|
+| Match (Lesser Orb) | **5** | **~0.34 kJ** | **2** (−60%) |
+| Orb / Bolt | **25** | **~1.7 kJ** | **10** (−60%) |
+| Arrow | **50** | **~3.4 kJ** | **50** (Common; Basic Mastery no cut) |
+| Fireball (Ball) | **400** | **~27 kJ** | **400** (Common; Basic Mastery no cut) |
+
+Street Trox + goblin stone ceiling ≈ same line at **μ = 1** (Int 15): Match **50 J**, Orb **250 J**, Fireball **4 kJ**. A farmer on that seat stays near that band.
+
+#### Roland must test (protocol)
+
+He does **not** treat the materials / ceiling / boost lock as known until he burns a test matrix. Default probe seat: **Mana Bolt** (cheap, fast, Lesser Mastery applies). Same host size / seating quality band across a run so the dials stay readable.
+
+| # | Materials | Fill / pay | What he is checking |
+|---|---|---|---|
+| **1** | Weak / cheap (Trox or street hide + goblin-stone ink) | Cheap mana (normal designed Bolt **25**, or list after η) | Street ceiling + his INT boost on a weak seat |
+| **2** | Same cheap materials | **As much mana as the scroll can hold** (~**200** on Trox/boar; Bolt **~8×**) | Hide hold / overload on weak ink |
+| **3** | **Ned blood** (or hemolymph) on a host that can hold it | Normal designed mana | Ned-at-make ceiling vs street |
+| **4** | Known seat (repeat a prior board) | **Prefilled with stamina**, activator with **no physical-skill bonus** (himself dumping SP without fight boost, or a stand-in farmer feel) | Stamina path at ~1× boost |
+| **5** | Same seat as **1** | **Prefilled with mana** to the **same Useful result as test 1** | Prefill vs empty absorbing; same punch when the fill matches |
+| **6** | **His blood** | Normal burn / light activation | Does the scroll **work clean** or **burn / fail** the host (blood + hide match) |
+| **7** | **His blood** | **Full mana** (amp to host hold) | His ceiling + full hold; Mastery only changes pay |
+
+That set covers street vs Ned vs his blood, empty vs prefill, mana vs stamina, normal vs max hold. Match / Orb / Ball later reuse the same matrix when the shape bill changes. Story beat: he has to run these before he trusts sell stock or Match volume (`../../Story/Notes/Notes.md` Ch 23).
 
 ## Runic Scrolls
 
@@ -259,7 +371,7 @@ Workday **10 hours** seated. Spendable craft mana / workday **= MP**.
 ## Forbidden
 
 - Do not treat magic-scroll craft as `spell × I` seating waste.
-- Do not set magic-scroll **power** from crafter `μ(INT)` alone. Power is **designed**; cast cost scales with it; word craft list is **full** cast, then Mana Scribing S.
+- Do not set scroll **effect strength** from crafter `μ(INT)` alone. Effect strength follows **materials** (ink / mana feedstock); cast / craft bills stay on the shape ladders; word craft list is **full** cast, then Mana Scribing S. See § Scroll power from materials.
 - Do not use dead `craft = 0.5 × cast`.
 - Do not require magical paper for creation. Magic stock changes focus and use-count, not craft MP.
 - Do not treat scroll device grade as rune `η_cond`.

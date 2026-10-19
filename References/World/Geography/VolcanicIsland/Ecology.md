@@ -1,6 +1,6 @@
 # Volcanic Island Ecology
 
-Hotspot / shield-island ecology for places like Dragnis-class volcanic islands. Geology first, then what can live there. Places: `../Places.md`. Resources: `Resources.md`. Crops: `Crops.md`. Farm sites: `Farming.md`. Earth Hawaii biomes: `HawaiianBiomes.md`. No-people ecosystem / island robustness: `HawaiianEcosystem.md`. Native fauna catalog: `HawaiianNativeAnimals.md`. Introductions: `HawaiianIntroductions.md`. Native trees / human-free layout / island size: `HawaiianNativeLandscape.md`. Wood seasoning: `../../Science/Biomaterials/AgingWood.md`. Waterfowl: `../../Fauna/Domestic/KoloaAndNene.md`. Honey bees: `../../Fauna/Domestic/HoneyBees.md`.
+Hotspot / shield-island ecology for places like Dragnis-class volcanic islands. Geology first, then what can live there. Places: `../Places.md`. Resources: `Resources.md`. Crops: `Crops.md`. Dragnis plant bands: `DragnisFlora.md`. Farm sites: `Farming.md`. Earth Hawaii biomes: `HawaiianBiomes.md`. No-people ecosystem / island robustness: `HawaiianEcosystem.md`. Native fauna catalog: `HawaiianNativeAnimals.md`. Introductions: `HawaiianIntroductions.md`. Native trees / human-free layout / island size: `HawaiianNativeLandscape.md`. Wood seasoning: `../../Science/Biomaterials/AgingWood.md`. Waterfowl: `../../Fauna/HawaiianWaterfowl/Index.md`. Honey bees: `../../Fauna/Domestic/HoneyBees.md`.
 
 ## Narrative
 
@@ -37,15 +37,17 @@ Far from continents. Colonists arrive by bird gut/feathers, wind (spores, tiny s
 
 ### Zone ladder (elevation feel)
 
+Dragnis plant lists by band: `DragnisFlora.md`. Earth detail: `HawaiianBiomes.md`.
+
 | Zone | Elev (approx.) | Character |
 |---|---|---|
-| Coastal strand | 0 | Salt, sand, rock creepers |
-| Lowland dry | 0–1000 m leeward | Seasonal, fire-prone woodland |
-| Lowland wet | 0–1000 m windward | Dense, fern-rich |
-| Montane wet / cloud | 1000–2000 m | Fog drip, epiphytes, bogs |
-| Montane dry / mesic | 1000–2000 m leeward | Open woodland |
-| Subalpine shrub | 2000–3000 m | Dry frost shrubs |
-| Alpine desert | >3000 m | Cinder, UV, specialists |
+| Reef coast and strand | 0–20 m | Salt, sand, rock creepers |
+| Lowland dry (leeward) | 20–900 m, reaching ~1,000 m | Seasonal, fire-prone woodland |
+| Lowland wet (windward) | 20–900 m, reaching ~1,000 m | Dense, fern-rich |
+| Montane wet / cloud | ~900–2,000 m (core 1,000–2,000 m) | Fog drip, epiphytes, bogs |
+| Montane dry (leeward) | ~900–2,000 m | Open koa–ʻōhiʻa / māmane–naio woodland |
+| Subalpine shrub | 2,000–3,000 m | Dry frost shrubs |
+| Alpine desert | 3,000–4,000 m | Cinder, UV, specialists |
 
 ### Coast and people patterns
 

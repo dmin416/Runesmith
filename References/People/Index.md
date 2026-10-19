@@ -16,6 +16,7 @@ Up: [References](../Index.md)
 - [Helci.md](Helci.md). Helci is a half-gnome orphan who starts as a Scout because that is what she can get, not what she wants. At awakening she did not have the strength to take
 - [ManstosParty.md](ManstosParty.md). Manstos Grotto Party 4 is a temporary expedition group. Roland and Helci are thrown in with a dwarf tank, a sun-elf tracker, and a human two-hand warrior.
 - [Ned.md](Ned.md). Ned is D's first tamed companion, a Floor-2 Needle Worm worn as a green scarf. D steers him away from the wild moth line into a stronger worm path built for
+- [NedSilkMana.md](NedSilkMana.md). Ned silk / threads are mana conductive; worn cloth and scarf contact raise ambient absorption vs ordinary fabric.
 - [NedDesign.md](NedDesign.md). Design loot for Roland+Ned training beats and diet grind color. Character lock: Ned.md.
 - [People.md](People.md). Cast hub.
 - [Rebecca.md](Rebecca.md). Rebecca, called Becky, is the redhead archer who recruits Roland into his first adventurer party in Carwen. She holds the backline with him, keeps the group

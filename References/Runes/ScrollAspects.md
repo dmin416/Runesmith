@@ -22,7 +22,7 @@
 
 **Craft:** `paid = cast_cost × S_mana_scribing` (`MagicScrollMaking.md`). Stronger designed scrolls cost more to cast and the same list to make before skill.
 
-**Power:** as the mage designs. More mana in the design → stronger spell and higher cast cost. Not crafter `μ(INT)` as the power dial. Chapter prose that says more mana into writing → stronger stays on-page until rewritten; rewrite craft law is this file's parent lock.
+**Power:** materials lock in `MagicScrollMaking.md` § Scroll power from materials. **Mostly narrative.** Blood **quality + amount** gate how large a designed spell the ink will seat (peasant/no-mana → trash/fail; Roland quality = his **max MP**, now **2414**; monsters narrative). **Hide hold** caps amp (cheap Trox/boar ~**200**). Activator scales inside the ceiling: `μ(INT)` on mana, physical skills on stamina. Mastery / η cut **payment**. No full hide / blood law book.
 
 ## Maker sheets
 
