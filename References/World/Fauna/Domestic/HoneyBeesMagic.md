@@ -1,6 +1,6 @@
 # Honey Bees in a Magical World
 
-> Invent loot / design note. Not locked law. Baseline biology: `HoneyBees.md`. Island ecology and forage: `../../Geography/VolcanicIsland/HawaiianHoneyBees.md`. Ambient soak: `../../Science/Energy/ManaConcentration.md`. Waterfowl magic pattern: `KoloaAndNeneMagic.md`.
+> Invent loot / design note. Not locked law. Baseline biology: `HoneyBees.md`. Island ecology and forage: `../../Geography/VolcanicIsland/HawaiianHoneyBees.md`. Ambient soak: `../../Science/Energy/ManaConcentration.md`. Waterfowl magic pattern: `../HawaiianWaterfowl/MagicForms.md`. Ned hemolymph feedstock: §12.7 below; `../../../People/Ned.md`; `../../Food/Hemolymph.md`. Mainland checklist: `../../../People/Roland/BeesMainlandToIsland.md`.
 
 Nav: `Index.md`. Up: [Fauna](../Index.md).
 
@@ -87,6 +87,33 @@ Real caste depends on diet. Different magical jellies can produce new forms.
 - **Toxic honey:** Real "mad honey" proves bees can make honey poisonous to humans while unharmed. Hives near cursed or volatile mana flowers produce dangerous honey.
 - **Disease and parasites:** Magical mites, spirit infestations or rot can spread like Varroa and its viruses.
 - **Nectar source limits:** Mana quality depends on the plants. Destroying a grove of mana flowers starves the hive.
+
+### 12.7 Ned as hemolymph middleman (design)
+
+Not human blood and not vampire bees. Ned is the tank and feedstock. The hive is the refinery and sting cloud.
+
+**Real hooks**
+- Bees already take water and sugar water. Insect hemolymph carries **trehalose** (circulating sugar) and dense free amino acids (`../../Food/Hemolymph.md`, `../../Science/Body/BloodNotes.md`).
+- Magical bees already refine fluids into mana honey (§12.1). Special diets already make castes and toxic honey (§12.3, §12.6).
+- Ned’s body turns food into pure magic and rebuilds what he needs (`../../../People/Ned.md`). Roland already harvests hemolymph for seasoning. Tank **~1.5–2.5 L**; refill in hours (`../Species/NeedleWorm.md`).
+
+**Feed path**
+1. Small voluntary draw from Ned (or a drip he allows).
+2. Dilute with water or honey water so it drinks like syrup, not a clot.
+3. Offer on the same schedule as early trust feedings (`../../../People/Roland/BeesMainlandToIsland.md`).
+4. Hive enzymes and fanning refine sugars, amino load, mild toxins, and mana density into stores or into warrior jelly / venom budget.
+
+**What it buys**
+- Richer early offerings → faster **Tolerated** / **Accepted**.
+- Mana-dense stores for magical work without depending only on island flowers.
+- Mild poison and mana from parsleaves / spike diet support **warrior** bees and stronger hive defense against predators (skunks, toads, rats, yellowjackets, similar raiders).
+- Swarm danger is still a cloud of stings and heat-balls, not one bee drinking a foe dry.
+
+**Rules**
+- Bees do not hunt or bleed Ned. He is not prey.
+- Keep draws small versus his tank so Seal and refill stay easy.
+- A hive that fights constantly still starves (§12.6). Hemolymph is fuel, not infinite war.
+- Flower forage stays the bulk diet when the island blooms. Ned feed is the mana / trust / warrior boost, not a total replacement unless designed that way later.
 
 ---
 
@@ -225,9 +252,10 @@ Real beekeeping already has every element of a bond system: scent, routine, quee
 | Swarm-lord | Bonded to many related colonies across an island | Linked hives act as one network | Island-wide scouting, mass swarm attacks, honey economy control |
 
 **Taming methods**
+- **Early care (road / first weeks):** Sugar syrup or honey water on a schedule, cluster kept warm and dry (insulate cold nights; shade from baking sun), quiet handling with no crushed bees. Starts **Tolerated** before a permanent hive exists. Mainland → island checklist: `../../../People/Roland/BeesMainlandToIsland.md`.
 - **Smoke rites:** Incense smoke mixed with native woods (sandalwood, kiawe) masks the keeper as fire masks alarm pheromone.
 - **Pheromone sigils:** Synthetic queen pheromone lures already exist and are sold to attract bees. Magical versions carved in wax act as command seals.
-- **Honey offerings:** Returning part of a harvest as honey water builds trust.
+- **Honey offerings:** Feeding early, then returning part of a harvest as honey water, builds trust.
 - **Queen midwifery:** Grafting the larva that becomes a queen ties the keeper to every bee she produces.
 - **Island custom:** Offering ohelo berries to Pele before taking lehua honey from volcanic forests.
 

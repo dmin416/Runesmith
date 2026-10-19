@@ -1,11 +1,8 @@
-# Domesticating Koloa Maoli and Nēnē
+# Hawaiian Waterfowl: Domestication
 
-Hawaii's two native waterfowl as domesticated birds in a fantasy setting: Koloa maoli for bug and snail control, eggs and meat; Nēnē for grazing, weeding, guarding and prized eggs.
-
-Farm placement and wind/rain zones: `../../Geography/VolcanicIsland/Farming.md`. Crops: `../../Geography/VolcanicIsland/Crops.md`. Magic-world evolutionary paths: `KoloaAndNeneMagic.md`. Places: `../../Geography/Places.md` (Dragnis-class islands).
+> Earth invent loot. Domesticating Koloa maoli and Nēnē for island farms: bugs, eggs, meat, grazing, guarding. Not Caldris law. Pack: `Index.md`. Magic forms: `MagicForms.md`. Farm flocks: `FarmFlocks.md`. Real-world data: `RealWorld.md`. Farm placement: `../../Geography/VolcanicIsland/Farming.md`. Crops: `../../Geography/VolcanicIsland/Crops.md`. Places: `../../Geography/Places.md`.
 
 ---
-
 ## Koloa Maoli (Hawaiian Duck)
 
 ### Name and Origin

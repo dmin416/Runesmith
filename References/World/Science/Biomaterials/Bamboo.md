@@ -1,6 +1,6 @@
 # Bamboo as a Building Material
 
-> Earth reference / invent loot. Not locked law. Timber composite science: `StructuralTimber.md`. Building EE-EC ladder: `../../Materials/BuildingMaterials.md`. Island flora: `../../Geography/VolcanicIsland/HawaiianNativeLandscape.md`.
+> Earth reference / invent loot. Not locked law. Timber composite science: `StructuralTimber.md`. Building EE-EC ladder: `../../Materials/BuildingMaterials.md`. Island flora: `../../Geography/VolcanicIsland/HawaiianNativeLandscape.md`. Chopsticks / Hawaiʻi bamboo history and counterfactual: `../../Geography/VolcanicIsland/ChopsticksBambooHawaii.md`.
 
 Nav: `Index.md`.
 

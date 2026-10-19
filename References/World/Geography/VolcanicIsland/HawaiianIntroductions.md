@@ -1,6 +1,6 @@
 # Hawaiian Introductions: Polynesian and Western
 
-Earth invent loot. What people brought and what followed. Pack hub: `HawaiianEcosystem.md`. Native fauna: `HawaiianNativeAnimals.md`. Native trees / plants absent without people: `HawaiianNativeLandscape.md`. Crops: `Crops.md`. Farming: `Farming.md`.
+Earth invent loot. What people brought and what followed. Pack hub: `HawaiianEcosystem.md`. Native fauna: `HawaiianNativeAnimals.md`. Native trees / plants absent without people: `HawaiianNativeLandscape.md`. Crops: `Crops.md`. Farming: `Farming.md`. Bamboo / chopsticks / counterfactual waves: `ChopsticksBambooHawaii.md`.
 
 ## 7. Polynesian Voyaging Canoes (about 1000 to 1200 AD)
 

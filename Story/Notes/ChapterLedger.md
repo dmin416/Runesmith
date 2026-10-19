@@ -237,11 +237,11 @@ Ch 19 bare MP: `(156×10)+(147×4)` = **2148**. Printed ledger/target **2578** s
 
 ### Chapter 23 (through quiet room, line 715)
 - **Time:** Payday → **+2 months** intense grill → weaver Ned-silk → **+3 months** Fireball volume. Age **11 and 9 months** / **6y 9m** (`Timeline.md`).
-- **Sheet:** `Chapter23QuietRoom.md` (wins). Soft overall **~L32–34** / Scribe **L7–8**; Vit **83** / End **93** / Int **166** / Dex **~88**; RS **L8**; Mastery **L6**; Sleep **L8**; Hunger **L7**; Heat Res / Recovery **L6**.
+- **Sheet:** `Chapter23QuietRoom.md` (wins). Overall **L33** / Scribe **L8**; **49/64/89/86/96/175/159/12/7**; HP **1148** / SP **1299** / MP **2386**; RS **L8**; Mastery **L6**; Shaping/Reg **L9**; Sleep **L8**; Hunger **L7**; Heat Res / Recovery **L6**.
 - **Skills:** Full quiet-room tables in `Chapter23QuietRoom.md` / `Skills.md`. Ned: `NedStatus.md` § Ch 23.
-- **XP:** No kill XP; pour XP soft overall bar **~44M** (`Experience.md`).
+- **XP:** No kill XP; pour XP climbs Scribe toward mid-hunt **L10** (`Experience.md` / `Status.md`).
 - **Coin:** First sale → fifteen → **~315**-scroll span → quiet-room wallet **~170 SG** after spend. Full ledger: `CoinLedger.md` / `Chapter23QuietRoom.md`.
-- **Delta:** Match Rune invent is **after** line 715 (rate lock in `CoinLedger.md` / `ScrollEconomy.md`; not in quiet-room wallet). Forest / Helci follow.
+- **Delta:** Match Rune invent is **after** line 715 (rate lock in `CoinLedger.md` / `ScrollEconomy.md`; not in quiet-room wallet). Mid-hunt status print **L35** / Scribe **L10** (**49/65/91/86/96/177/161/12/7**; MP **2414**). Forest / Helci follow.
 
 ---
 

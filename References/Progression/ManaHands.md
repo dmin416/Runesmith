@@ -128,6 +128,8 @@ Light ~**300**/day · scribe ~**2,000**/day · heavy ~**20,000**/day. 30-day mon
 
 **Roland (Ch 13+):** **Mana Hands L9** (≥500k). Next wall: Hand bar to **2M** → **Mana Mind** (up to ~1.5M left ≈ ~2.1 years scribe / ~2.5 months heavy). Drawing / Multitasking / Scribing still improve ink on top of the Hand-decade floor.
 
+**Ch 23 passive always-on (tip-sip hold):** ~**290 kg** clothed total across concurrent Hands; still/skin ~**370–390 kg**; Multitasking **L7** → **7** Hands. Full note: `../../Story/Notes/Capabilities/ManaHandsPassive.md`.
+
 ## Ink craft: two methods (soft lock)
 
 Both assume Roland ~**10×** mind (`../World/Science/Body/FocusCapacity.md`), Hands **L9**, Calligraphy / Drawing already past street mm work. Several-millimeter lines are not a Mind-evolve gate. Quill baseline: `../World/Science/Invent/WritingTools.md`.

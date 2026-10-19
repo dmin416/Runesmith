@@ -1,6 +1,6 @@
 # Honey Bees: Life and Biology
 
-> Earth reference / invent loot. Not locked law. Island ecology / forage / Hawaiian bees: `../../Geography/VolcanicIsland/HawaiianHoneyBees.md`. Magical potential: `HoneyBeesMagic.md`. Biomes: `../../Geography/VolcanicIsland/HawaiianBiomes.md`. Crops / farms: `../../Geography/VolcanicIsland/Crops.md`, `Farming.md`. Domestic waterfowl: `KoloaAndNene.md`. Building materials (wax / timber): `../../Materials/BuildingMaterials.md`. Neuron count / intelligence tier: `../../Science/Body/AnimalBrains.md`. Farm apiary construction: `../../Science/Invent/FarmBuildings.md`.
+> Earth reference / invent loot. Not locked law. Island ecology / forage / Hawaiian bees: `../../Geography/VolcanicIsland/HawaiianHoneyBees.md`. Magical potential: `HoneyBeesMagic.md`. Biomes: `../../Geography/VolcanicIsland/HawaiianBiomes.md`. Crops / farms: `../../Geography/VolcanicIsland/Crops.md`, `Farming.md`. Domestic waterfowl: `../HawaiianWaterfowl/Domestication.md`. Building materials (wax / timber): `../../Materials/BuildingMaterials.md`. Neuron count / intelligence tier: `../../Science/Body/AnimalBrains.md`. Farm apiary construction: `../../Science/Invent/FarmBuildings.md`.
 
 Nav: `Index.md`. Up: [Fauna](../Index.md).
 
@@ -582,7 +582,7 @@ Island poison risks: `../../Geography/VolcanicIsland/HawaiianHoneyBees.md`. Magi
 - **"Telling the bees":** European folk custom of informing hives of births, deaths and marriages so the bees would not leave.
 
 
-Island beekeeping practice: `../../Geography/VolcanicIsland/HawaiianHoneyBees.md`. Magical taming system: `HoneyBeesMagic.md`.
+Island beekeeping practice: `../../Geography/VolcanicIsland/HawaiianHoneyBees.md`. Magical taming system: `HoneyBeesMagic.md`. Mainland → Dragnis starter checklist: `../../../People/Roland/BeesMainlandToIsland.md`.
 
 ## Part 18: Bee Intelligence in Depth
 

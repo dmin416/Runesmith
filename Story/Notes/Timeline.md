@@ -10,14 +10,15 @@ A day is 24 hours. A year is 12 months of 30 days, plus New Year's Day (361 days
 
 ## Named skips
 
-Three **3-month** skips plus the Edelgard desk **4-month** rewrite skip. They are easy to lose when the year column is only whole years and halves.
+Two early **3-month** skips, the Edelgard desk **4-month** rewrite skip, then Ch 23 **+2 months** grill and **+3 months** Fireball volume. They are easy to lose when the year column is only whole years and halves.
 
 | Skip | Where | What moves |
 |---|---|---|
 | **3 months** | After the ascension, before he leaves. Chapter 7 opens on it. `Notes.md`, `Status.md`, and `Experience.md` lock the same stretch: weekly pairs of Goblin L1s, still Mage L3, bar 1250 / 1500 | Age 10 and 0 months → age 10 and 3 months. Still 10. World time 5 years → 5 years 3 months |
 | **3 months** | Carwen, between chapter 9 and chapter 10. The rewrite gives this stretch its own chapter between those two. Chapters 10–18 say he has been in Carwen for three months | Age 10 and 3 months → age 10 and 6 months. Still 10. Mage L20 |
-| **3 months** | Edelgard, chapter 23. The chapter opens with another three months gone, then the forest and Helci. Summary: "+3 months" on top of the Fireball ~4 months. Total about 7 months in Edelgard | Age 11 and 4 months → age 11 and 7 months. Still 11 |
 | **4 months** | Edelgard desk, chapter 21.5. Auction present day is chapter 22. Seat-time Fireball sell / Mana Arrow keep. Party gold lasts **4 months** of mats, not 10 | Age 11 and 0 months → age 11 and 4 months. Still 11 |
+| **2 months** | Edelgard, chapter 23. Intense grill after first payday; Percival return stack of fifteen Highest | Age 11 and 4 months → age 11 and 6 months. Still 11 |
+| **3 months** | Edelgard, chapter 23. Weekly Fireball volume to **quiet room** (line 715), then Match invent / forest / Helci. Early Edelgard total **9 months** (4 desk + 2 grill + 3 volume) | Age 11 and 6 months → age 11 and 9 months. Still 11. World **6 years 9 months** |
 
 Island years = world years − 10. He lands at age 15, world year 10.
 
@@ -35,7 +36,7 @@ Rows marked **off** are the summary's words. The Age and Year columns are the co
 | **3-month skip** since the ascension. Lucienne's 3rd birthday is in a couple of weeks. He leaves | 7 | 10 and 3 months | 5 years 3 months |
 | **3-month skip** in Carwen. Still 10. Mage L20 | 10 | 10 and 6 months | 5 years 6 months |
 | Carwen close: **3 months** goblins + **half a year** with the girls = **9 months** total. Just turned 11 | 14, 17, 21 | 11 and 0 months | 6 years |
-| **4-month** desk skip (Fireball auction batch). Then **3-month** skip. Helci | 21.5 → 23 | 11 and 4 → 11 and 7 months | 6 years 4 → 6 years 7 months |
+| **4-month** desk skip, then Ch 23 **+2** grill + **+3** volume to quiet room / forest. Helci | 21.5 → 23 | 11 and 4 → 11 and 9 months | 6 years 4 → 6 years 9 months |
 | Just over 12. Moves into the warehouse. Summer | 36 | 12 and 6 months | 7 years 6 months |
 | About 10 years in this world. Winter night | 48 | 15 | 10 |
 | Lands on Dragnis | 67 | 15 | 10 |
@@ -115,7 +116,7 @@ He arrives Edelgard at 11. Nine months of early grind (4 desk + 2 intense grill 
 | 21 | Same day, fifth shop by sunset. **Just 11.** This line is the arrival age | 11 and 0 months | 6 years |
 | 21.5 | Rewrite skip. Next morning: buys **Runic Orb of Light**, **Fire Arrow**, **Aqua Ball**. Then ~4 months desk (Fireball sell / Mana Arrow keep). Party gold lasts 4 months of mats, not 10 months | 11 and 0 → 11 and 4 months | 6 years → 6 years 4 months |
 | 22 | Auction present day after 21.5. Age still about 11 | 11 and 4 months | 6 years 4 months |
-| 23 | **+2 months intense grill grind** (Percival fifteen Highest; story vague), then **+3 months** Fireball volume to **quiet room** (line 715; wallet **~170 SG**; `Chapter23QuietRoom.md`). Match Rune invent after that, then forest and Helci. Total about 9 months of Edelgard grind since arrival. Age still about 11 | 11 and 9 months | 6 years 9 months |
+| 23 | **+2 months intense grill grind** (Percival fifteen Highest; story vague), then **+3 months** Fireball volume to **quiet room** (line 715; wallet **~170 SG**; overall **L33** / Scribe **L8**; sheet `Chapter23QuietRoom.md`). Match Rune invent after that, then forest status print (**L35** / Scribe **L10**; MP **2414**; `Status.md`) and Helci. Total about 9 months of Edelgard grind since arrival. Age still about 11 | 11 and 9 months | 6 years 9 months |
 | 24 | Helci is past 16. Church until 14, then 2 years of work, then the stone. Calendar: 24-hour days, 12 months of 30 days, plus New Year's Day | — | 6 years 9 months |
 | 25 | Half a year or more since the first Emporium visit. This is the chapter 22–23 stretch, not a new half year. Contract offered at 3 years (the rejected one was 6) | 11 and 9 months | 6 years 9 months |
 | 26 | Signs. Still 11. First combo in about a week | 11 and 9 months | 6 years 9 months |

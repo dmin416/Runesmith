@@ -1,6 +1,6 @@
 # Volcanic Island Resources: Old Eroded Island with Recent Renewed Volcanism
 
-Companion to `Ecology.md`. Crops: `Crops.md`. Farm wind/rain sites: `Farming.md`. Waterfowl: `../../Fauna/Domestic/KoloaAndNene.md`. Purification / Hawaii extract energy: `../../Materials/MaterialPurification.md`. Sands / silica-Ti geology: `Sands.md`. Iron and full element inventory: `HawaiianMinerals.md`. Places: `../Places.md` (Dragnis-class islands).
+Companion to `Ecology.md`. Crops: `Crops.md`. Farm wind/rain sites: `Farming.md`. Waterfowl: `../../Fauna/HawaiianWaterfowl/Index.md`. Bamboo / ʻohe: `ChopsticksBambooHawaii.md`. Purification / Hawaii extract energy: `../../Materials/MaterialPurification.md`. Sands / silica-Ti geology: `Sands.md`. Iron and full element inventory: `HawaiianMinerals.md`. Places: `../Places.md` (Dragnis-class islands).
 
 ## The Geological Baseline
 

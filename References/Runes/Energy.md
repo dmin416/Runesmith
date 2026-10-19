@@ -150,8 +150,9 @@ Magical phenomena that are not enchanted or runed are temporary. Earth walls, ic
 |---|---|---|
 | Direct skill cast | Skill η(L), Intelligence μ(INT), ambient `A` | `Useful = mana × 10 × η(L) × μ(INT) × A` |
 | Rune / item path | Rune quality level → η_cond, host feel, ambient `A` | `Useful = mana × 10 × η_cond × A` |
+| Absorbing **scroll** activation | Materials ceiling (blood + hide) × caster boost; η_cond on the path; ambient `A` | Mana push: × `μ(INT)`. Stamina push: × physical-skill boost (farmer ≈ 1×). Cap at materials ceiling. Full lock: `MagicScrollMaking.md` § Scroll power from materials |
 
-These two rows are **alternatives, not a chain.** Never multiply η(L)/μ(INT) with η_cond on the same cast. Both may take the same ambient `A = √C`. Spell-worked tables: `../World/Science/Energy/ManaCast.md`.
+Direct skill cast and plain rune / item path are **alternatives, not a chain.** Never multiply skill η(L) with η_cond on the same cast. **Scroll activation** is the third row: materials set the ceiling; caster INT (mana) or physical skills (stamina) scale inside it; η_cond still governs path waste / pay. Both may take the same ambient `A = √C`. Spell-worked tables: `../World/Science/Energy/ManaCast.md`.
 
 **Stat-grant skills are never a multiplier.** Mana Shaping, Mana Regulation, Mana Absorption, Mana Reinforcement and kin only hand out flat INT/WIL (or similar). They raise output only by feeding `μ(INT)`. No second "shaping efficiency" term.
 

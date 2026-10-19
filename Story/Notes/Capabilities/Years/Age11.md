@@ -72,6 +72,7 @@ Prefer Ch 19 for resist math (train pads). Ch 23 Vit/End is Source-delta rewrite
 - Suffocation **L6** (train; holds + blood); Heat/Pain **L5**; Cold **L3** (cold night sleep; desk → **L4**); Sharp **L4**; Poison **L6**; Recovery **L5**; Sleep **L5→L6**; Alcohol **L4**
 - Sound / Echo **L7**; Multitasking **L5**
 - Hands/Abs/Reinf/Sense/Incantation **L9**
+- Ch **23** Hands passive always-on: [ManaHandsPassive.md](../ManaHandsPassive.md) (~**290 kg** clothed tip-sip; **7** Hands)
 
 ## One-line
 

@@ -468,10 +468,12 @@ Listed on the skills menu with Mage grants. **Class card (locked, narrative):** 
 ### Basic Mana Shaping
 First seen: Chapter 5
 Shape mana into spells; scales with skill. **Intelligence +2 per level**, **Willpower +1 per level** (Int-heavy). Granted with Mage via clone tutorial dump.
+**Use lock:** every finished **spell** cast (Bolt, Arrow, Shield, Heat, and other body spells) awards a clean use to **both** Shaping and Regulation. Desk / craft work that shapes mana into a spell form or runic diagram also ticks Shaping. **Cum = sum of all those spell casts** (not a slower parallel bar). Bolt or Hands at **L9** already forces Shaping **L9**. Name stays **Basic** until evolve at **2,000,000**.
 
 ### Basic Mana Regulation
 First seen: Chapter 5
 Helps regulate body mana; ambient absorption and regen. **Intelligence +1 per level**, **Willpower +2 per level** (Will-heavy). Granted with Mage. Chapter 23: full regen in a couple of hours; faster when still and with more skin uncovered.
+**Use lock:** same as Shaping (sum of all spell casts; both **L9** once any spell tree has **500k**). Spend → refill pulses still also feed Absorption / Reinforcement (`SkillRanks.md`).
 
 ### Basic Incantation
 First seen: Chapter 5
@@ -481,6 +483,7 @@ Faster, better chanting. **Intelligence +1 per level**, **Willpower +1 per level
 First seen: Chapter 16
 Scribe basic spells onto scrolls. Temporary in the Runic Mana Scribe trial, then permanent at L1. Chapter 21: write the spell's incantation in the correct language while pushing mana through quill and ink (no runic pathways). First **Mana Bolt** word scroll: list **25**, L1 pay **22.5**, **+25 XP**.
 **Cost bonus (locked):** **-10% mana to scribe** a word/magic scroll **per skill level, capped at -90% (L9)** → `paid = cast_cost × (1 − 0.1×L)`. Twin of **Basic Rune Scribing** on runic scrolls. Class learning-ease does not stack on this cost. Craft XP = designed cast (ignore S). Identify on his own scroll returns name only until scribing levels.
+**Status card:** Allows scribing of basic spells onto scrolls. Higher levels use less mana while writing them.
 
 ### Mana Reinforcement
 First seen: Chapter 9.5 (rewrite self-teach); Source Chapter 56 (skill book)
@@ -515,6 +518,7 @@ Elemental destruction knowledge. Advanced forms unlock stronger spells.
 First seen: Chapter 16
 Comprehend runes. **Activation cost (locked):** **-10% MP to activate** runes / runic scrolls **per skill level**, **capped at -90%** (L9). L1 = -10%. Basic form covers **Lesser** only. Not a craft discount (scroll setup is **Basic Rune Scribing** -10%/level; item setup is later **Runecraft**; Runic Mana Scribe class eases learning only, no mana-cost term). Not a substitute for **Runecraft**. Chapter 17 rapier test: L1 cut shows on tip blast under Mana Shield (muffled hole; MP **2096/2309** with Shield). Chapter 23: levels by **using** runic scrolls or runed weapons in combat (scrap Fire Arrow grimoire). Chapter 27: Roland at **L4**; out-of-combat casts (self/animals) do not level it; aims **L9** before Blacksmith for a possible special class.
 Rewrite: skills max at L9 then evolve. Evolved Mastery forms cover Common → Greater → Grand → Legendary (same -10%/level, -90% cap on that rank). Source ~1%/level discarded.
+**Status card:** Increases comprehension of runes and lowers the mana needed to activate them.
 
 ### Basic Runecraft / Runecraft
 First seen: Chapter 35
@@ -524,6 +528,7 @@ Inscribe magical runes on items. Runic Blacksmith grant (temporary in trial, the
 First seen: Chapter 16
 Scribe runes to scrolls. Temporary in the Runic Mana Scribe trial, then permanent at L1. Runes have a max working size; the trial forces a compressed fire-orb schematic onto scroll parchment. Chapter 22: Common Fire Arrow grind to **L5**; understanding of runic scroll making noted at **L2** (separate progress line in prose). Chapter 27: can compact commons onto **envelope**-size scrolls (aim: playing-card); power holds but overload headroom drops; Fire Arrow throughput **5-6**/day.
 **Cost bonus (locked):** **-10% mana cost to scribe** a rune onto a scroll **per skill level, capped at -90% (L9)** → `paid = (cast / η_cond) × S` with that S. Twin of **Basic Mana Scribing** on word scrolls and of Runecraft's item setup discount (`../Runes/RuneSetup.md`). Class learning-ease does not stack on this cost. Stays on the sheet through later class changes.
+**Status card:** Allows scribing of runes onto scrolls. Higher levels use less mana while crafting them.
 
 ### Basic Rune Mending / Rune Mending
 First seen: Chapter 81

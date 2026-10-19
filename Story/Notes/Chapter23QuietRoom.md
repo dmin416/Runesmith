@@ -6,7 +6,7 @@ Canon homes: this sheet · `Notes.md` Ch 22–23 · `Skills.md` / `Status.md` / 
 
 **Authority:** this sheet wins over DaySkillYear soft sim when they disagree for the quiet-room mark. Day ledger anchor ≈ **d270** (`Chapter21_5DayByDayAfterExit.md`). Age **11 and 9 months** / **6 years 9 months** (`Timeline.md`).
 
-**Not yet at this mark:** Match Rune product (lighter market note only); forest / Helci; Source mid-hunt status print.
+**Not yet at this mark:** Match Rune product (lighter market note only); forest / Helci; mid-hunt status print (**L35** / Scribe **L10** in `Status.md`).
 
 ---
 
@@ -41,35 +41,37 @@ Enter physicals held from desk exit: Str **49** · Agi **64** · Cha **12** · L
 
 | | Str | Agi | Dex | Vit | End | Int | Will | Cha | Luck | HP | SP | MP |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Desk exit (d120) | 49 | 64 | 85 | 79 | 89 | 165 | 151 | 12 | 7 | 1057 | 1229 | 2254 |
-| **Quiet room** | **49** | **64** | **~88** | **83** | **93** | **166** | **151** | **12** | **7** | **1109** | **1269** | **~2280** |
+| Desk exit (d120) | 49 | 64 | 85 | 79 | 89 | 170 | 155 | 12 | 7 | 1057 | 1229 | 2320 |
+| **Quiet room** | **49** | **64** | **89** | **86** | **96** | **175** | **159** | **12** | **7** | **1148** | **1299** | **2386** |
+
+**Build (locked):** desk exit (Shaping/Reg **L9** pads in) + Scribe packages **L4→L8** (Dex/Int/Will **+4** each) + skill pads desk→quiet (Sleep/Hunger/Heat Res/Recovery/Cold/Sharp/Blunt **+1** each → Vit/End **+7**; Diagnosis **+1** → Int **+1**). Formulas: HP `Vit×10+End×3`, SP `End×10+Str×3+Agi×3`, MP `Int×10+Will×4`. No Mage/Blessed max-MP %.
 
 ```
 ════════ STATUS ════════
 Name:       Roland Arden
 Age:        11 and 9 months
-Level:      soft (~L32–34; pads toward Source L35 mid-hunt)
+Level:      33
 
 Classes:
 T1 Mage L25                    [Secondary]
-T1 Runic Mana Scribe L7–8 soft [Main]  (toward Source L10 mid-hunt)
+T1 Runic Mana Scribe L8        [Main]
 
-HP              1109/1109
-SP              1269/1269
-MP              ~2280/~2280
+HP              1148/1148
+SP              1299/1299
+MP              2386/2386
 
 Strength              49
 Agility               64
-Dexterity             ~88
-Vitality              83
-Endurance             93
-Intelligence         166
-Willpower            151
+Dexterity             89
+Vitality              86
+Endurance             96
+Intelligence         175
+Willpower            159
 Charisma              12
 Luck                   7
 ```
 
-Overall XP bar soft **~44M** (d270 ledger). Exact printed overall L soft until mid-hunt sheet.
+Overall **L33** = Mage **25** + Scribe **L8**. Mid-hunt print (**L35** / Scribe **L10**) is after Match + forest (`Status.md` Ch 23).
 
 ---
 
@@ -84,9 +86,9 @@ Floor = `Chapter21_5Exit.md`. Climbs from +2 months intense grill + +3 months vo
 | Technology | **8** | **~310k** soft | Every rune + desk-tech observe |
 | Understanding (runic scrolls) | **3** | **~150** | Short of L4 **200** |
 | Multitasking | **7** | **~55k** soft | Concurrent Hands **7** |
-| Mana Hands | **9** | **~1.2M** soft | No evolve |
-| Basic Mana Shaping | **7** | **~42k** soft | |
-| Basic Mana Regulation | **8** | **~118k** soft | |
+| Mana Hands | **9** | **~1.2M** soft | No evolve; passive always-on hold → `Capabilities/ManaHandsPassive.md` |
+| Basic Mana Shaping | **9** | **≥500k** (sum of spells) | Cap; evolve **2M** |
+| Basic Mana Regulation | **9** | **≥500k** (same) | Cap; evolve **2M** |
 | Basic Mana Scribing | **2** | soft | SP-fills / protection scrolls; Source hunt print |
 | Basic Rune Mastery | **6** | **~5.1k** | Reject burns clear L6; combat later |
 | Sleep Resistance | **8** | soft past **100k** | Desk short nights; printed +1 was desk→L7; this span → L8 |
@@ -149,7 +151,7 @@ Desk/night continues. Silk harvest for weaver clothes (still short of L7 at year
 | Light Ball keepers | Few; some preloaded |
 | Scrap / reject stacks | Low/Lowest Fireballs for later grimoire |
 | Robe + mask | Servant-of-runesmith cover |
-| Ned-silk **threads** (his) | Cream / soft off-white; undyed |
+| Ned-silk **threads** (his) | Cream / soft off-white; undyed; **mana conductive** → more ambient absorb (`../../References/People/NedSilkMana.md`) |
 | Homemade ink kit | Ongoing |
 | Stone bank | Drawn down for ink |
 | Wallet | **~170 SG** |

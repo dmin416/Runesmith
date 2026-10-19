@@ -1,6 +1,6 @@
 # Biological Silks
 
-Earth research anchors for Ned's silk (binding, lines, Bindweave). Map to Caldris; do not paste Earth species names into prose as if they are local. Companion: `../../../People/Ned.md`. Process pipeline: `Biomaterials.md`. Latex / insect toolkit / Ned job picks: `RubberAndInsect.md`. Glue catalog: `BiologicalAdhesives.md`. Mass-construction silk/binder invent: `CRBinder.md` / `CRBinderScience.md`. Magical caterpillar / cellular-control silk switch: `../Body/CellularControl.md`. Nav: `Index.md`.
+Earth research anchors for Ned's silk (binding, lines, Bindweave). Map to Caldris; do not paste Earth species names into prose as if they are local. Companion: `../../../People/Ned.md`. **Mana conductive wear / absorb:** `../../../People/NedSilkMana.md`. Process pipeline: `Biomaterials.md`. Latex / insect toolkit / Ned job picks: `RubberAndInsect.md`. Glue catalog: `BiologicalAdhesives.md`. Mass-construction silk/binder invent: `CRBinder.md` / `CRBinderScience.md`. Magical caterpillar / cellular-control silk switch: `../Body/CellularControl.md`. Nav: `Index.md`.
 
 **Owns:** silk type numbers and reel / degum craft gist. Harvest schedule → `Biomaterials.md`. Ned sticky / strength targets → `RubberAndInsect.md`.
 

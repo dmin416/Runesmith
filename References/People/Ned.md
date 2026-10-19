@@ -30,7 +30,9 @@ Same tier caps as people / monsters (`../Progression/Progression.md`): T1 **25**
 
 **Combat identity:** Single explosive attacks (spring charge / spike). Durability and fast seal. Dumps Dexterity and Intelligence. Not a clever duelist.
 
-**Tools for D:** Needles, hemolymph, parsleaves. Later silk, gel nodules, toxin-free write spikes.
+**Tools for D:** Needles, hemolymph, parsleaves. Later silk, gel nodules, toxin-free write spikes. Hemolymph as optional magic-bee feedstock (dilute offerings; hive refinery, not vampire bees): `../World/Fauna/Domestic/HoneyBeesMagic.md` §12.7; `Roland/BeesMainlandToIsland.md`.
+
+**Silk mana:** Threads are **mana conductive**; worn cloth / scarf contact **raises ambient absorption** vs ordinary fabric. Lock: `NedSilkMana.md`.
 
 **Powder feedstock (invent):** `../World/Science/Energy/GunpowderFirearms.md`. Cellulose silk, glycerin from hemolymph, dry acid from his spikes. Output is capped by whichever of the three he makes least of.
 

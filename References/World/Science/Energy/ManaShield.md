@@ -1,6 +1,6 @@
 # Mana Shield Master Reference
 
-> Terra Mana Shield consolidator. Canon cast law: `../../../Runes/Energy.md`. Live spell tables: `ManaCast.md` (Mana Shield section). Fight-scale map (head-on ×10 pool): `../../../Combat/AttackScale.md`. Spell blurbs: `../../../Combat/Spells.md`. Hands timing: `../../../Combat/MageDefense.md`. Ambient: `ManaConcentration.md`. **Part 15 Fix List applied to AttackScale / ManaCast / Spells (hold drain kept at 0.3 J/s per N).** Nav: `Index.md`.
+> Terra Mana Shield consolidator. Canon cast law: `../../../Runes/Energy.md`. Live spell tables: `ManaCast.md` (Mana Shield section). Fight-scale map (head-on ×10 pool): `../../../Combat/AttackScale.md`. Spell blurbs: `../../../Combat/Spells.md`. Hands timing: `../../../Combat/MageDefense.md`. Ambient: `ManaConcentration.md`. Walking-house 100 m² glide-shield cost invent: `../Vehicle/WalkingHouse.md`. **Part 15 Fix List applied to AttackScale / ManaCast / Spells (hold drain kept at 0.3 J/s per N).** Nav: `Index.md`.
 
 ---
 

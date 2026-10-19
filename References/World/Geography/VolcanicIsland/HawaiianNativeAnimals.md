@@ -1,6 +1,6 @@
 # Hawaiian Native Animals
 
-Earth invent loot. Native biota that arrived without humans. Pack hub: `HawaiianEcosystem.md`. Introductions: `HawaiianIntroductions.md`. Biomes: `HawaiianBiomes.md`. Waterfowl craft: `../../Fauna/Domestic/KoloaAndNene.md`. Honey bees (introduced craft stock): `../../Fauna/Domestic/HoneyBees.md`.
+Earth invent loot. Native biota that arrived without humans. Pack hub: `HawaiianEcosystem.md`. Introductions: `HawaiianIntroductions.md`. Biomes: `HawaiianBiomes.md`. Waterfowl scenarios / extinct species / farm flocks: `../../Fauna/HawaiianWaterfowl/Index.md`. Domestication craft: `../../Fauna/HawaiianWaterfowl/Domestication.md`. Honey bees (introduced craft stock): `../../Fauna/Domestic/HoneyBees.md`.
 
 ## 6. Native Animals (Arrived Without Humans)
 

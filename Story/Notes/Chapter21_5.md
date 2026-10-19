@@ -37,7 +37,7 @@ Rewrite-only timeskip (~**4 months**). Source folds mid/late into Ch 22 open.
 - **Later (Ch 23 volume / spare mana):** friction burn-train / self-hit beside Mana Hands — `FrictionGrill.md` (not the hide Fire Orb patch alone).
 - **~10× mind** (`FocusCapacity.md`) plus high Willpower. Will of ten men feel. Not a sensitive wreck under ink and fails. Grind hard without constant bitching (Roland rewrite).
 - Hands ink methods: **pen** (bead draw) and **press** (relief matrix → contact). Both available; press does not skip seating quality. See `References/Progression/ManaHands.md`.
-- **Hands × Multitasking:** concurrent Mana Hands ≈ Multitasking L (floor 2). Hands **uses** scale with how many Hands are active. Shaping / Regulation stay more linear (seat/pulse), not × Hands. Year ledger: `Chapter21_5DaySkillYear.md`.
+- **Hands × Multitasking:** concurrent Mana Hands ≈ Multitasking L (floor 2). Hands **uses** scale with how many Hands are active. **Shaping + Regulation:** every finished spell cast ticks **both** (`SkillRanks.md` / `SkillsDesign.md`); diagram pours that shape mana also tick Shaping. Not × Hands count. Year ledger: `Chapter21_5DaySkillYear.md`.
 
 ### Hunger, mana, and stamina pours
 
@@ -219,7 +219,7 @@ Retuned under **quality-only seating** (post trial / first night) + quality × (
 | This skip (all patterns) | **Every try finishes** a scroll | **Only quality**: Lowest ×**1** → Low ×**2** → Int ×**4** → High ×**8** → Highest ×**16** |
 | Sibling forms / new swaps | Fast linear (circle→square) | Rare 2nd Diagnosis remake at most; then quality only |
 
-**Quality ×** = Rune Scribing / Drawing / Diagnosis / craft XP on the finished seat. **Not** on Mana Hands mass×time (Hands scale with Multitasking concurrent count only). Shaping / Regulation stay linear.
+**Quality ×** = Rune Scribing / Drawing / Diagnosis / craft XP on the finished seat. **Not** on Mana Hands mass×time (Hands scale with Multitasking concurrent count only). Shaping / Regulation tick on every finished spell / shaping pour (both together on spells).
 
 | Track | Exit (~120 days / 4 months) |
 |---|---|
@@ -228,8 +228,8 @@ Retuned under **quality-only seating** (post trial / first night) + quality × (
 | Understanding of runic scroll making | **L3** |
 | Multitasking | **L7** |
 | Mana Hands | **L9** (cum ~**0.8M**; no evolve; ledger) |
-| Basic Mana Shaping | **L7** (linear; short of L8) |
-| Basic Mana Regulation | **L8** |
+| Basic Mana Shaping | **L9** (sum of spells; cap) |
+| Basic Mana Regulation | **L9** (sum of spells; cap) |
 | Basic Mana Scribing | **L1** soft (**L2** Ch 23) |
 | Basic Rune Mastery | **L5** (~**2,910** = reject burns + lighter scraps; combat later) |
 | Sleep Resistance | **L6 → L7** printed (+1); raw meter overshoots if unsoftened |
@@ -580,7 +580,7 @@ Prefill does **not** change seat counts or hide spend — same scroll, second po
 | Drawing | **L1 → L8** |
 | Multitasking | **L5 → L7** |
 | Mana Hands | stays **L9** (×MT concurrent; cum ~**0.8M**; no evolve) |
-| Mana Shaping / Regulation | stay **L7** / **L8** |
+| Mana Shaping / Regulation | **L9** / **L9** (sum of spells) |
 | Sleep Resistance | **L6 → L7** printed |
 | Hunger Resistance | **— → L6** |
 | Pain Resistance | **L5 → L6** |

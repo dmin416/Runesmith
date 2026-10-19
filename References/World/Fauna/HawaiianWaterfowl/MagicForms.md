@@ -1,11 +1,8 @@
-# Koloa Maoli and Nēnē in a Magic-Saturated World
+# Hawaiian Waterfowl: Magic Forms
 
-How Hawaii's two native waterfowl might change over generations in a world soaked in magical energy. Covers their natural strengths, the forces that would push them to change and multiple evolutionary paths toward a peak form, including fighting and food-gathering adaptations.
-
-Baseline biology and domestication: `KoloaAndNene.md`. Farm placement: `../../Geography/VolcanicIsland/Farming.md`. Places: `../../Geography/Places.md` (Dragnis-class islands). Ambient soak: `../../Science/Energy/ManaConcentration.md`.
+> Earth invent loot. Magic-saturated evolutionary paths for Koloa and Nēnē, peak farm and guard forms, island divergence. Not Caldris law. Pack: `Index.md`. Domestication: `Domestication.md`. Magic realm scenario: `MagicRealm.md`. Farm placement: `../../Geography/VolcanicIsland/Farming.md`. Ambient soak: `../../Science/Energy/ManaConcentration.md`.
 
 ---
-
 ## Part 1: Natural Strengths and Abilities
 
 ### Koloa Maoli

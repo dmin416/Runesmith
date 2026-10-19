@@ -1,6 +1,6 @@
 # Crops: Old Volcanic Island with Renewed Volcanism
 
-Companion to `Resources.md` and `Ecology.md`. Wind, rain and farm sites: `Farming.md`. Waterfowl: `../../Fauna/Domestic/KoloaAndNene.md`. Places: `../Places.md` (Dragnis-class islands). Runesmith / game farming brainstorm (separate): `FarmingSystems.md`.
+Companion to `Resources.md` and `Ecology.md`. Wind, rain and farm sites: `Farming.md`. Waterfowl: `../../Fauna/HawaiianWaterfowl/Index.md`. Places: `../Places.md` (Dragnis-class islands). Bamboo / ʻohe history and counterfactual: `ChopsticksBambooHawaii.md`. Runesmith / game farming brainstorm (separate): `FarmingSystems.md`.
 
 ## Notes and Assumptions
 - **Setting:** an old, eroded hotspot island with recent eruptions, modeled on Hawaiʻi.
@@ -24,7 +24,7 @@ Pick one stack and stick to it for a given period on the island:
 | **Post-contact** | N + T + H | Adds rice, coffee, sugar, pineapple, cattle ranching, upcountry truck crops |
 | **Full catalog** | N + T + H + P | Modern possibles for worldbuilding; not default canon |
 
-Dragnis and similar islands default to **Pre-contact** unless a chapter establishes outside trade or plantation tech. Do not mix plantation sugar with canoe-only culture unless the timeline says so.
+Dragnis and similar islands default to **Pre-contact** unless a chapter establishes outside trade or plantation tech. Do not mix plantation sugar with canoe-only culture unless the timeline says so. Wild vegetation bands, post-contact exclusions and invent ore-scrub tags: `DragnisFlora.md`.
 
 ---
 

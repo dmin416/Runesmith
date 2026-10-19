@@ -2,7 +2,7 @@
 
 > **Design loot.** Not carried kit and not skill law. Doctrine: `Kit.md`. Locked facts: `Character.md`. Promote a line only when a chapter puts it on him.
 >
-> Sound: `../../World/Science/Energy/Sound.md`. Metals: `../../World/Materials/Metals.md` (mythril, star steel, orihalcum, aurium, adamantium). Silk and resilin: `../../World/Science/Biomaterials/BiologicalSilks.md`, `RubberAndInsect.md`. Vehicles and glider science: `../../World/Science/Vehicle/Index.md`, `PerfectGlider/`. Flight and flywheels: `../../World/Science/Energy/Flight.md`, `FlywheelStorage.md`. Nēnē glide: `../../World/Fauna/Domestic/KoloaAndNeneMagic.md`. Ned: `../Ned.md`. Agni: `../Agni.md`.
+> Sound: `../../World/Science/Energy/Sound.md`. Metals: `../../World/Materials/Metals.md` (mythril, star steel, orihalcum, aurium, adamantium). Silk and resilin: `../../World/Science/Biomaterials/BiologicalSilks.md`, `RubberAndInsect.md`. Vehicles and glider science: `../../World/Science/Vehicle/Index.md`, `PerfectGlider/`. Flight and flywheels: `../../World/Science/Energy/Flight.md`, `FlywheelStorage.md`. Nēnē glide: `../../World/Fauna/HawaiianWaterfowl/MagicForms.md`. Mainland bees to island: `BeesMainlandToIsland.md`. Ned: `../Ned.md`. Agni: `../Agni.md`.
 
 Goals for covering D's weak points. His heat and cold invulnerability, fast thinking, recovery and existing resistances form the base. These goals cover what's left.
 

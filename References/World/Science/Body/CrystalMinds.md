@@ -1,6 +1,6 @@
 # Human Brains, Language Models and Crystal Minds
 
-Hub: `../Science.md`. Mental capacity (N men): `FocusCapacity.md`. Vision processing cost tables: `Vision360.md`. Self-improvement ignition, multi-state digits and architecture throughput: `CrystalComputerMath.md`. Octonary diamond substrate, heat walls and programming: `OctonaryCrystalBrain.md`. Animal neuron / intelligence tiers and crystal-copy picks: `AnimalBrains.md`. Motor recall vs practice: `MindBodySkill.md`. Nav: `Index.md`.
+Hub: `../Science.md`. Mental capacity (N men): `FocusCapacity.md`. Vision processing cost tables: `Vision360.md`. Self-improvement ignition, multi-state digits and architecture throughput: `CrystalComputerMath.md`. Octonary diamond substrate, heat walls and programming: `OctonaryCrystalBrain.md`. Animal neuron / intelligence tiers and crystal-copy picks: `AnimalBrains.md`. Crystal-bug joy / sensation / artificial feeling: `ArtificialFeeling.md`. Motor recall vs practice: `MindBodySkill.md`. Nav: `Index.md`.
 
 **Status:** holding file. **Owns** Earth brain / LLM anchors (Part 1) and story crystal rules (copies, segments, calculator/assistant paths). FocusCapacity and Vision360 cite Part 1; they do not redefine neuron / watt / bits/s here. Architecture comparison → `CrystalComputerMath.md`. Substrate deep dive → `OctonaryCrystalBrain.md`.
 

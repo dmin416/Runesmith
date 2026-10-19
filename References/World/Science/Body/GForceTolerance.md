@@ -1,6 +1,6 @@
 # G-Force Tolerance by Body Position and Ride Type
 
-Earth research: aerospace centrifuge, sliding-sport, and amusement-ride G limits by axis and posture. Vehicle seats: `../Vehicle/Positions.md`. Fall spikes: `Falling.md`. Hub: `../Science.md`.
+Earth research: aerospace centrifuge, sliding-sport, and amusement-ride G limits by axis and posture. Vehicle seats: `../Vehicle/Positions.md`. Fall spikes: `Falling.md`. Specific force / IMU / vestibular illusions: `AccelerometersGyroscopesVestibular.md`. Traction / grip ceilings: `GripBiteBracing.md`. Hub: `../Science.md`.
 
 All values are approximate composites for healthy adults. Individual tolerance varies by roughly ±1 G.
 

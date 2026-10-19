@@ -333,7 +333,7 @@ Independent without shop: cartel blanks + no shelf → auction fees **25%→10%*
 
 1. Spell scroll = prepaid finished one-shot; no user amp. **Mana-only** to read. Fair Intermediate shelf: Mana Arrow **3 SS**, Fire Arrow **6 SS**, Fireball **3 LS 2 SS**; T3 **2 LS 5 SS 3 LC** (under Fireball until T3+ re-peg), T4 **1 SG 2 LS 4 SS 7 LC**, T5 **7 SG**.
 2. Craft mana = **half** designed cast. Fireball Ball rung **400** → craft **200**; shelf from Fire Arrow labor × craft ratio. T1 Mage+Scribe → MP **910**; T2 + elemental Mage → MP **1,610**.
-3. Scroll device grade ≠ rune quality; power designed (`MagicScrollMaking.md`, `ScrollAspects.md`).
+3. Scroll device grade ≠ rune quality; effect strength from materials (`MagicScrollMaking.md` § Scroll power from materials); device grade is designed bill / shop tag (`ScrollAspects.md`).
 4. Runic: Fair High Common Fire Arrow **10 SS**; dusty vanity **~2 LS**. User-powered; amp to rank ceiling.
 5. Buyer split: **word → mages with a pool**; **runic → anyone with energy**.
 6. Roland path = Diagnosis runic brand.

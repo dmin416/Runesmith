@@ -4,6 +4,12 @@ Physical / mental capability snapshots. Derived from `ChapterLedger.md`, `Status
 
 Street adult baseline is **15** across the board.
 
+## Topic locks
+
+| File | What |
+|---|---|
+| [ManaHandsPassive.md](ManaHandsPassive.md) | Ch **23** always-on Hands hold (~**290 kg** clothed tip-sip; **7** concurrent) |
+
 ## Arrivals
 
 | File | When | Age | Anchor |
@@ -11,6 +17,7 @@ Street adult baseline is **15** across the board.
 | [CarwenArrive.md](CarwenArrive.md) | Guild register / first Carwen lodging | **10y3m** | Ch **8** |
 | [EstateWoundGrind.md](EstateWoundGrind.md) | Pre-leave skills + blunt/sharp/pain/Recovery use budget | **5–10** | Ch **2–7** |
 | [EdelgardArrive.md](EdelgardArrive.md) | Train exit / Singing Crow | **11y0m** | Ch **19–20** |
+| [EdelgardToDragnis.md](EdelgardToDragnis.md) | Leave mining city → road / sail to Dragnis | **15** | Ch **52–66** |
 | [IslandArrive.md](IslandArrive.md) | Lands Dragnis → Albrook guild orb | **15** | Ch **67–68** |
 | [AcademyEscort.md](AcademyEscort.md) | Academy youths / dungeon escort arc | **16** | Ch **108** |
 | [SisterInstitute.md](SisterInstitute.md) | Helps Lucienne at the Institute | **22** | Ch **419–444** |

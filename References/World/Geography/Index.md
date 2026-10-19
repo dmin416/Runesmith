@@ -8,6 +8,7 @@ Up: [World](../Index.md)
 
 ## Files
 
+- [EdelgardFlora.md](EdelgardFlora.md). Design loot. Alpine / Central European plant bands and mine-ground flora for the Edelgard range. Place: Places.md.
 - [DungeonDesign.md](DungeonDesign.md). Design loot. Core / density law: Dungeons.md. Named floor maps pull in when a beat needs them.
 - [Dungeons.md](Dungeons.md). Dungeons are magical places run by dungeon cores. Dead monsters and humans can be absorbed as nourishment so the dungeon can spawn more foes. Damaging or
 - [Places.md](Places.md). Fat place notes: PlacesDesign.md. Population / monster estimates: PlacesPopulation.md. Source inventory: ../../SourceLoot/Places.md.

@@ -1,6 +1,6 @@
 # Human Speed: History and Physics of Human Motion, From Footrace to Light
 
-> Earth invent loot. Status as of 16 October 2026. Human and vehicle speed records, physics limits (drag cube law, terminal velocity, heat, g-load, relativity), mode-by-mode history. Not locked Terra law. Felt speed / RT: `SpeedPerception.md`. Combat t_r: `../../../Combat/SpeedVsIntellect.md`. Falling: `Falling.md`. Flight power: `../Energy/Flight.md`. Gliders: `../Vehicle/PerfectGlider/Index.md`. Spacefall / re-entry heat: `../../Space/Radiation/` and orbit notes as relevant. Nav: `Index.md`.
+> Earth invent loot. Status as of 16 October 2026. Human and vehicle speed records, physics limits (drag cube law, terminal velocity, heat, g-load, relativity), mode-by-mode history. Not locked Terra law. Felt speed / RT: `SpeedPerception.md`. Combat t_r: `../../../Combat/SpeedVsIntellect.md`. Falling: `Falling.md`. Grip / traction / surface shear: `GripBiteBracing.md`. Blade spring physics / animal runners / friction ceilings: `RunningBladesSpeedLimits.md`. City vs forest environment ceilings: `TopSpeedCityVsForest.md`. Flight power: `../Energy/Flight.md`. Gliders: `../Vehicle/PerfectGlider/Index.md`. Spacefall / re-entry heat: `../../Space/Radiation/` and orbit notes as relevant. Nav: `Index.md`.
 
 ---
 
@@ -604,6 +604,9 @@ Disputed marks: manufacturer-only car tops, wind-assisted foot races beyond lega
 - `SpeedPerception.md` (felt speed, reaction time, optic flow)
 - `Falling.md` (terminal velocity, Shepherd's Leap)
 - `GForceTolerance.md` (sustained and impact g)
+- `GripBiteBracing.md` (traction / surface shear)
+- `RunningBladesSpeedLimits.md` (blade springs, animal runners, drag / friction ceilings)
+- `TopSpeedCityVsForest.md` (city grid vs forest push-point ceilings)
 - `../../../Combat/SpeedVsIntellect.md` (combat timing)
 - `../Energy/Flight.md` (hover and lift power)
 - `../Vehicle/PerfectGlider/Index.md` (glider design)
