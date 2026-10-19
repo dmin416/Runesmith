@@ -564,7 +564,7 @@ Check: HP `86×10+96×3` = **1148**; SP `96×10+49×3+65×3` = **1302**; MP `177
 
 No full status screen. Still L35 / Scribe L10. Fireball grimoire clears five Mountain Goblins; Helci climbs rope with one mana stone. No XP numbers shown. Inn sausage "thanks."
 
-**Rewrite:** inherits Ch 23 rewrite sheet. Kill / craft / skill XP tape: `Experience.md` § Ch 23 after line 715 / Ch 24 (Helci **5 × 625** soft = **3,125**; Mastery combat ticks).
+**Rewrite:** inherits Ch 23 rewrite sheet. Kill / craft / skill XP tape: `Experience.md` § Ch 23 after line 715 / Ch 24 (Helci **5 × 750** soft = **3,750**; Mastery combat ticks).
 
 ## Chapter 25
 

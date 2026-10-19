@@ -18,7 +18,7 @@ Dungeons are magical places run by dungeon cores. Dead monsters and humans can b
 
 **Appearance:** New dungeons can form when mana density is right.
 
-**Wild contrast:** Outside monsters are not the same as dungeon-spawned ones.
+**Wild contrast:** Outside monsters are not the same as dungeon-spawned ones. Outside, monsters breed and loose mana in thick places can spontaneously generate them from natural material (goblins from mud / nature) with no core directing it. Inside, the core shapes and nourishes its spawns.
 
 **Absorption:** Dead living beings can be slowly absorbed. That nourishes spawn. Early talk is known lore; later story treats cores as real objects.
 

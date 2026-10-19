@@ -16,7 +16,7 @@ Food and drink hub. Wealth feel is locked here. Deep cook / camp / ingredient ta
 | `KitchenCraft.md` | Cookware production methods (Food domain; metal law stays in Materials/Metals) |
 | `MagicalMeatCookware.md` | Potency-preserving pans / vacuum meat cookware; uniform-heat whole-animal cook (proposal) |
 | `MagicalCooking.md` | Kitchen magic outcomes (chill, dry, time, sort, selective heat; design loot) |
-| `SkySaturation.md` | Sky-aged food. Science lane prices the batch. Narrative lane is a finished aged product or a magical ingredient |
+| `SkySaturation.md` | Sky-aged food. Fresh peaks with a slight mana benefit. Preserves upgrade in extreme saturation. Narrative lane is the finished food |
 
 ## Narrative
 

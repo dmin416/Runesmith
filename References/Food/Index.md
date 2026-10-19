@@ -22,5 +22,5 @@ Up: [References](../Index.md)
 - [KitchenCraft.md](KitchenCraft.md). Food domain. Cookware production methods (how to make the gear). Material picks / kitchen physics: CookwareAndKnives.md. Gear lists: KitchenKit.md. Pan
 - [KitchenKit.md](KitchenKit.md). Gear lists for camp / home cooking. Wealth locks: Food.md. Material picks / kitchen physics: CookwareAndKnives.md. How to make metalware: KitchenCraft.md
 - [MagicalCooking.md](MagicalCooking.md). Design loot / proposal. Not street law. Wealth and never-eaten locks: Food.md. Potency pans / whole-animal heat: MagicalMeatCookware.md. Kit: KitchenKit.md.
-- [SkySaturation.md](SkySaturation.md). Design loot. Science lane prices a sky-aged batch. Narrative lane allows a finished aged product or a magical ingredient without the ledger. Cost model stays in CompressedTimeStimulation.md.
+- [SkySaturation.md](SkySaturation.md). Design loot. Fresh food peaks with a slight mana benefit. Preserves fundamentally upgrade in extreme saturation. Science lane prices a worked batch. Narrative lane allows the finished food without the ledger. Cost model stays in CompressedTimeStimulation.md.
 - [MagicalMeatCookware.md](MagicalMeatCookware.md). Proposal / rough idea. Not law.

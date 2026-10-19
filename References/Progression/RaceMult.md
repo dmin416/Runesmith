@@ -51,7 +51,7 @@ Round to nearest whole XP after RaceMult. No class modifier on the pool. Party c
 
 **Common goblin** (RaceMult **1.0**): Chapter 4 L1 → **50**. L4 → **200**.
 
-**Mountain / gray goblin** (RaceMult **1.25**): Edelgard Ch 23–24 soft trash **L10** → **625**. Locked kills so far: first clearing **1** + Helci **5**. Ledger: `../../Story/Notes/Experience.md`.
+**Mountain / gray goblin** (RaceMult **1.5**): tougher highland stock than common green goblins (**1.0**). Edelgard Ch 23–24 soft trash **L10** → **750**. Locked kills so far: first clearing **1** + Helci **5**. Ledger: `../../Story/Notes/Experience.md`.
 
 **Carwen early anchors (draft dungeon L, RaceMult):** dungeon rat **L5 / 0.2** → solo **50**; Needle Worm **L16 / 0.5** → **400**; Needle Moth **L18 / 2.0** → **1,800**; Spiked Boar **L8 / 1.5** → **600** (idle **~1%** / active **~1/4**); Wereboar **L26 / 2.0** → **2,600** (evolved Spiked Boar; min **L26**).
 
@@ -75,7 +75,7 @@ Use the creature’s **family**, not every cosmetic variant name. Evolved or nam
 | **Dungeon rat** (vermin) | **0.2** | Entrance corridor rats | **40** |
 | **Needle Worm** (floor-2 ambusher) | **0.5** | Spiky caterpillar; stone **½ rice** | **100** |
 | **Goblin** (common) | **1.0** | Green lowland goblin, estate training stock | **200** |
-| Mountain / gray goblin | 1.25 | Edelgard mountain goblin, gray forest goblin | 250 (Edelgard trash soft **L10** → **625**; `../../Story/Notes/Experience.md` Ch 23–24) |
+| Mountain / gray goblin | **1.5** | Edelgard mountain goblin, gray forest goblin (stronger than common green) | **300** (Edelgard trash soft **L10** → **750**; `../../Story/Notes/Experience.md` Ch 23–24) |
 | Goblin leader / elite goblin | 1.5 | Goblin Leader (not full king) | 300 |
 | Skeleton / basic undead | 1.25 | Early blazing / fiery skeletons | 250 |
 | **Needle Moth** (floor-3 adult/elite) | **2.0** | Winged Needle Worm line; stone **rice** | **400** |
