@@ -83,7 +83,7 @@ Ch **23** lock: empty→full in a **couple of hours**; still / rest faster; more
 
 Mage card + Blessed by Mana stay **narrative** recovery; no extra numeric mult locked on this math. **Ned silk** clothes / scarf are mana conductive and raise ambient absorb vs ordinary cloth (`../../References/People/NedSilkMana.md`); soft tip headroom when he is wearing them.
 
-Other continuous drains (Heat grill, Shield hold, scroll tip-sip pours) **compete** for the same regen. Passive Hands at ceiling means those other drains must wait or the pool falls.
+Other continuous drains (Heat grill, Shield hold, scroll tip-sip pours, Ch 23 forest **omnidirectional Reinforcement pressure** + jump lifts) **compete** for the same regen. Passive Hands at ceiling means those other drains must wait or the pool falls.
 
 ---
 

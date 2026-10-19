@@ -241,7 +241,7 @@ Ch 19 bare MP: `(156×10)+(147×4)` = **2148**. Printed ledger/target **2578** s
 - **Skills:** Full quiet-room tables in `Chapter23QuietRoom.md` / `Skills.md`. Ned: `NedStatus.md` § Ch 23.
 - **XP:** No kill XP; pour XP climbs Scribe toward mid-hunt **L10** (`Experience.md` / `Status.md`).
 - **Coin:** First sale → fifteen → **~315**-scroll span → quiet-room wallet **~170 SG** after spend. Full ledger: `CoinLedger.md` / `Chapter23QuietRoom.md`.
-- **Delta:** Match Rune invent is **after** line 715 (rate lock in `CoinLedger.md` / `ScrollEconomy.md`; not in quiet-room wallet). Mid-hunt status print **L35** / Scribe **L10** (**49/65/91/86/96/177/161/12/7**; MP **2414**). Forest / Helci follow.
+- **Delta:** Match Rune invent is **after** line 715 (rate lock in `CoinLedger.md` / `ScrollEconomy.md`; not in quiet-room wallet). Mid-hunt status print **L35** / Scribe **L10** (**49/65/91/86/96/177/161/12/7**; MP **2414**). Forest late-morning tip-sip body pressure + Hands jump assists; chanted spells + trash scrolls; Helci cliff uses Fireball grimoire (`Notes.md` Ch 23).
 
 ---
 

@@ -80,7 +80,7 @@ Multi-mind processing Roland relies on for complex runework.
 ### Mana Hands / Mana Mind / Mana Heart / Mana Soul
 First seen: Chapter 10 (Hands). Self-discovered spell: move objects with mana (lift, fetch, hold, shove, ink). Visible hands optional. Evolves **Mana Hands → Mana Mind → Mana Heart → Mana Soul**. Each level upgrades efficiency (\(R\)), accuracy, precision, stability, and mass/range/grips together. Prior form L9 is a power floor on evolve. Not Mana Control (Regulation track).
 **Canon lock:** `ManaHands.md` (\(R\), mana↔joules, action uses, level/evolve times). Worked joule table: `../World/Science/Energy/ManaCast.md`. Catalog: `../Combat/Spells.md`.
-Roland: Hands **L9** by Ch 13.
+Roland: Hands **L9** by Ch 13. **Ch 23 forest:** lifts himself higher on jumps for movement while tip-sip omnidirectional Reinforcement pressure runs (`Mana Reinforcement` field lock; `../../Story/Notes/Notes.md` Ch 23).
 
 ### Multitasking
 First seen: Chapter 12
@@ -489,6 +489,7 @@ Scribe basic spells onto scrolls. Temporary in the Runic Mana Scribe trial, then
 First seen: Chapter 9.5 (rewrite self-teach); Source Chapter 56 (skill book)
 Reinforce body / stretch mana store by bathing vessels in ambient mana. Source: shop skill book (lotus drill) adds a % of mana to base stats (1% per level, 9% Basic max).
 Rewrite: unlocked early in Carwen by the same air-absorb path as recovery work, without the gnome-sold book. Levels whenever mana is spent and restored (combat and rest). Effect: **+10% of max MP per level** as bonus base stats while reinforced, **capped at 90%**. Bonus fails when MP is empty. Source 1% line discarded.
+**Ch 23 forest field lock:** tip-sip mana as **omnidirectional pressure** through the body (not dead weight alone) for even load, strengthening, resistance training and to maximize skill gain while moving. Jump height assist when needed is **Mana Hands** lifting him, not the Reinforcement %. Live prose: `../../Story/Chapters/19-26.md`. Notes: `../../Story/Notes/Notes.md` Ch 23.
 **Attribute bonus:** **Intelligence +1 per level**, **Willpower +1 per level** (same shape as **Basic Incantation**). Hard-caps at **L9**, then evolves.
 
 ### Mana Absorption
