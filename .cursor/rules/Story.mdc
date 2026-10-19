@@ -17,6 +17,8 @@ Other chats, including Notes: normal replies.
 
 If the user writes an order in any form such as `explain better`, `name of thing`, `name`, or similar fill / look-up / rewrite marks, follow that order exactly. Do not ignore it. Do not leave the mark in the story. Look up or rewrite as ordered and paste the real result.
 
+**`end` mark:** when their paste ends with the word `end`, that is an order, not story text. Paste up to it, then **trim the remaining part of that paragraph** after the pasted text. Do not keep the leftover tail. Do not leave `end` in the story.
+
 ## Directed Line Edits
 
 Do the edit they asked for. Do not wander into other lines, files, or cleanup.
