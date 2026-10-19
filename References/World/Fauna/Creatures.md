@@ -34,7 +34,7 @@ Floor-3 elite. **Evolution of Spiked Boar.** Minimum overall **L26**. Gorilla bo
 
 ### Mountain Goblin
 
-Pale tougher highland variant near Edelgard. Pack alarms. Evolved variants hard-stop early T1s.
+Pale tougher highland variant near Edelgard. Pack alarms. Evolved variants hard-stop early T1s. RaceMult **1.25**. Soft trash overall **L10** (solo **625**) until a chapter names L; Ch 23–24 kill tape: `../../../Story/Notes/Experience.md`.
 
 ### Myrmeke (ants)
 
