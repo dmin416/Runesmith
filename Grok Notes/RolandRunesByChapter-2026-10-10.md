@@ -388,15 +388,25 @@ Chapter-ordered list of runes Roland Arden (D) has crafted or created in complet
 - **Item**: Match Rune (pea-sized Highest Fire Orb lighter)
 - **Rank/Quality**: Lesser, Highest (micro Fire Orb)
 - **Method**: Pea-sized scrap paper + one blood drop; runic inscription at miniature scale; empty (not preloaded)
-- **MP Cost**: Designed cast 5 MP (micro scale)
+- **MP Cost**: Designed cast 5 MP (micro scale; Lesser Orb shape bill)
+- **Schematic XP**: +1000 XP (Lesser schematic)
 - **Make Time**: ~1 minute per Match Rune (fluent; Hands×MT can seat thousands/day)
 - **Market**: Convenience fire at 1 LC each (≈ one night candle cost; torch 2-3 LC); packs of ten @ 1 SS
 - **Market Absorption**: ~2,500/week hold without price drop (inns, workshops, travelers/adventurers, early-adopters); above ~5,000/week unit profit drops
 - **Revenue**: Libra 25% commission → net ~0.75 LC each → ~1.9 SG/week at 2,500/week hold
 - **Materials Cost**: ~0 LC (scrap + one blood drop)
 - **Skills**: Climbs Rune Scribing (Highest quality); his burns climb Mastery (1/burn)
-- **Context**: Invented after Ch 23 quiet room beat (line 715); after +3 months of Fireball volume ramp (15→20→25→30→hold 25/week); quiet room wallet ~170 SG before Match invent
-- **Cite**: `References/Items/ScrollRuneAbilities.md` Match Rune entry; `References/Runes/ScrollEconomy.md` Match Rune market section; `Story/Notes/Chapter23QuietRoom.md`
+- **Context**: Invented after Ch 23 quiet room beat (line 715); after +3 months of Fireball volume ramp (15→20→25→30→hold 25/week); quiet room wallet ~170 SG before Match invent; Match XP + forest → mid-hunt L35 / Scribe L10
+- **Shape Bills**: Match 5, Bolt/Orb 25, Arrow 50, Shield 100, Ball 400 (designed cast for each shape; see scroll power rules below)
+- **Cite**: `References/Items/ScrollRuneAbilities.md` Match Rune entry; `References/Runes/ScrollEconomy.md` Match market; `References/Runes/MagicScrollMaking.md` scroll power ceiling; `Story/Notes/Chapter23QuietRoom.md`; `Story/Notes/ChapterLedger.md`
+
+### Chapter 23: Ch 23 Forest Notes (Scroll Materials Discovery)
+- **Discovery**: Mana Bolt scrolls made with original hide/ink (from Ch 21 purchase) were severely limited in power and crumbling when overcharged
+- **Materials Ceiling Rule**: Blood (ink/mana feedstock) and hide (host) together set upper limit of scroll power; crafter's INT boosts within that ceiling; Roland's blood quality = his max MP (~2414 at mid-hunt); cheap Trox hide + goblin-stone ink gives average-person cast ceiling; his blood on proper hide can hit like his full cast
+- **Shape Bills** (designed cast for activation/craft): Match 5, Bolt/Orb 25, Arrow 50, Shield 100, Ball 400
+- **Host Hold**: Cheap Trox/street hide ~200 MP hold; Bolt designed 25 can overcharge ~8× before host fails; Fireball designed 400 can run once but cannot overcharge on cheap hide
+- **Skills at Mid-Hunt** (after Match + forest): Basic Rune Scribing L8, Basic Rune Mastery L6; Overall L35 / Scribe L10
+- **Cite**: `Story/Chapters/19-26.md` Ch 23 forest lines 727-747; `References/Runes/MagicScrollMaking.md` § Scroll power from materials
 
 ---
 
