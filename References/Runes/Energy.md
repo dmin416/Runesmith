@@ -24,6 +24,8 @@ Mana is an energy that saturates the world. It is both a particle and a spiritua
 
 **Movement:** Any form of mana movement is technically unnatural. It may not harm anything. The unnatural part is still true.
 
+**Behavior (soft internal note, not a hard lock):** Mana is arbitrary and narrative. It can clash or pass through, be friendly or competitive. Sending mana fast needs something to take care of that conflict, the way fast air projectiles need to deal with drag and compression. At some point narratively, ambient mana may not like a spell crashing through it. Do not spreadsheet this; pull it only when a beat wants the feel (egg Bolt vs tiny hyper-fast slug, dense fields, etc.).
+
 **Material interaction:** Mana passing through or alongside materials may spontaneously impart more energy than it is exerting.
 
 **Insulation:** Mana can insulate, but needs an insulation rune that spends energy to hold the barrier.

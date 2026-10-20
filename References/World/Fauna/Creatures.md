@@ -6,11 +6,13 @@ Early and common foes. Mounts / tames: `Mounts.md`. Stones: `../Materials/Monste
 
 Wild monsters and dungeon-spawned monsters are different. Monster goods (hides, tusks, stones) are a normal market class. Monster meat tastes good but **spoils fast**. **Never eaten:** goblins (and goblin-kin), ghouls, zombies, liches and other undead.
 
+Monsters also come from more than birth. Places where loose mana gathers thick can spontaneously generate monsters from natural material. Goblins can be generated from mud and forest nature, then live and breed as tribal animals. Full ecology: `MonsterPopulation.md`.
+
 ## Detail
 
 ### Goblin
 
-Common early foe. About **120 cm**, green, crude weapons. Live in groups with chiefs. Bounty proof: left ear (**5 LC**). XP: `../../Progression/Levels.md`. Stones: **size = level** (`../Materials/MonsterCores.md`); wild drop ~**1/5**; evolved always. Low-L chiefs still rice-band; leader-band needs ~**L27+**. **Never eaten** (same ban as undead). Ears, blood, parts and stones only.
+Common early foe. About **120 cm**, green, crude weapons. Live in tribal groups with chiefs. They breed, and loose-mana places can also spontaneously generate them from mud or nature; generated goblins join tribes like born ones. Bounty proof: left ear (**5 LC**). XP: `../../Progression/Levels.md`. Stones: **size = level** (`../Materials/MonsterCores.md`); wild drop ~**1/5**; evolved always. Low-L chiefs still rice-band; leader-band needs ~**L27+**. **Never eaten** (same ban as undead). Ears, blood, parts and stones only.
 
 ### Dungeon Rat
 
@@ -34,7 +36,7 @@ Floor-3 elite. **Evolution of Spiked Boar.** Minimum overall **L26**. Gorilla bo
 
 ### Mountain Goblin
 
-Pale tougher highland variant near Edelgard. Pack alarms. Evolved variants hard-stop early T1s. RaceMult **1.25**. Soft trash overall **L10** (solo **625**) until a chapter names L; Ch 23–24 kill tape: `../../../Story/Notes/Experience.md`.
+Pale tougher highland variant near Edelgard. Tribal groups, pack alarms. Same goblin origins: born to the tribe or generated from mountain mud / nature where loose mana gathers. Evolved variants hard-stop early T1s. RaceMult **1.5** (above common goblin **1.0**). Soft trash overall **L10** (solo **750**) until a chapter names L; Ch 23–24 kill tape: `../../../Story/Notes/Experience.md`.
 
 ### Myrmeke (ants)
 

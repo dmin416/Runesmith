@@ -7,15 +7,17 @@ alwaysApply: true
 
 ## Silent Period
 
-Applies only in chats named for story editing (name contains `Story`).
+Applies only in chats named for story editing (name contains `Story`). Does **not** apply if the chat name also contains `Notes`, or if they have said the chat is Notes (`Agent.mdc` § Notes chats).
 
-In those chats: reply with only `.` unless the user explicitly allows speech. Edits still run. A sourced mismatch under Assertions in `Agent.mdc` is spoken. Do not hide it behind `.`
+In Story-only chats: reply with only `.` unless the user explicitly allows speech. Edits still run. A sourced mismatch under Assertions in `Agent.mdc` is spoken. Do not hide it behind `.`
 
-Other chats: normal replies.
+Other chats, including Notes: normal replies.
 
 ### Prompt orders
 
 If the user writes an order in any form such as `explain better`, `name of thing`, `name`, or similar fill / look-up / rewrite marks, follow that order exactly. Do not ignore it. Do not leave the mark in the story. Look up or rewrite as ordered and paste the real result.
+
+**`end` mark:** when their paste ends with the word `end`, that is an order, not story text. Paste up to it, then **trim the remaining part of that paragraph** after the pasted text. Do not keep the leftover tail. Do not leave `end` in the story.
 
 ## Directed Line Edits
 
@@ -24,7 +26,8 @@ Do the edit they asked for. Do not wander into other lines, files, or cleanup.
 | They say | You do |
 | --- | --- |
 | Change / replace | Replace the clear segment |
-| Fix | Full fix pass on the marked paragraph (and only that stretch unless they widen it). Work **sentence by sentence in order**. Each sentence is its **own separate change** (one replace per sentence; do not rewrite the whole paragraph in one go). Align every fact with live notes and the story as it stands after prior edits. Rewrite tone and style to match Style, Plain Prose, and Formatting in this file (subject-first, true facts only, plain verbs, past tense, no hedge talk, no teaching, no wrong subjects). Do not leave Source greed tone or ornamental wording. **Never truncate.** Strip bad wording only. Keep equal or better beat coverage. Keep **as many action beats as they say** (and as many as the sentence already has when fixing). Do not fold, drop, or invent beats. **Do not touch** lines they already directed in this chat unless the fix mark is on those lines. |
+| Fix | Full fix pass on the marked paragraph (and only that stretch unless they widen it). Work **sentence by sentence in order**. Each sentence is its **own separate change** (one replace per sentence; do not rewrite the whole paragraph in one go). **Never replace the whole paragraph with only the first sentence** while “working through” the rest. Align every fact with live notes and the story as it stands after prior edits (open those note homes; do not fix from chat memory). Rewrite tone and style to match Style, Plain Prose, and Formatting in this file (subject-first, true facts only, plain verbs, past tense, no hedge talk, no teaching, no wrong subjects). Do not leave Source greed tone or ornamental wording. **Never truncate.** Strip bad wording only. Keep equal or better beat coverage. Keep **as many action beats as they say** (and as many as the sentence already has when fixing). Do not fold, drop, or invent beats. **Do not touch** lines they already directed in this chat unless the fix mark is on those lines. |
+| Fix + named fact | When they name one wrong fact (`paintballs`, spell strength, a clock, a name), change **only that fact**. Strip leftover clauses that existed only to support the wrong fact (wait-for-skills, efficiency offsets weakness, soft-hit frames). Do **not** invent replacement theory beats unless a live note locks them on that stretch. |
 | Insert | Put it at the mark. Delete nothing |
 | Append | Put it after the mark. Delete nothing |
 | Unclear | Ask once. Do not guess. If they already stated the beat in the prior message, use that. Do not ask again for the same order. |
@@ -208,6 +211,8 @@ Ordinary words in `Story/Chapters/` and in chat. Straight and logical. The story
 ## No Forward Chapters
 
 Never name, cite, preview, or allude to any chapter beyond the ones currently in scope for this chat or task.
+
+**Same stop inside one file:** later lines, beats, characters, and outcomes past the clicked / marked line are out of scope even when they sit in the same chapter file. Do not name, allude to, or use them in replies, estimates, note entries, or ledger rows for the marked stretch. Scoped work stops at the mark.
 
 - Do not write "Ch 22", "into chapter N", "opens in…", or any later chapter number or title.
 - Do not hint at later-chapter events, reveals, inventory payoffs, lookbacks, or prose homes.

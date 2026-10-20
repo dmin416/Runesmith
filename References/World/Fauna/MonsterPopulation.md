@@ -16,6 +16,8 @@ Conflict drivers: politics, monsters, dungeons, villains.
 
 Wild monsters ≠ dungeon-spawned monsters. Dungeon cores absorb dead things and respawn foes; countries treat dungeons as income engines. Damaging a core is forbidden.
 
+Monsters are not only normal animals that breed. Where loose (unbound ambient) mana gathers thick enough, it can **spontaneously generate** monsters out of suitable natural material. Goblins can form from mud, wet earth, leaf litter, roots, and other forest matter. A generated monster is a real living monster once formed. It can join a tribe, breed, fight, and die like a born one.
+
 ### Population foundation
 
 | Symbol | Meaning | Scale |
@@ -66,7 +68,7 @@ Unskilled wage **w** = 5–10 LC/day → about **150–300** kills/hunter/yr.
 | 5 lc | 150.42 | 15,495 | 2,330,706 | 466,141 |
 | 10 lc | 300.83 | 15,495 | 4,661,413 | 932,283 |
 
-Dungeons and monster spawns must replace about **2.3 to 4.7** million goblin-grade monsters per million people every year or hunters starve out and the loot economy collapses. Villains add no kills. They skim value from hunters and merchants through theft and raids.
+Dungeons, wild breeding, and wild spontaneous generation must replace about **2.3 to 4.7** million goblin-grade monsters per million people every year or hunters starve out and the loot economy collapses. Villains add no kills. They skim value from hunters and merchants through theft and raids.
 
 **Demand is a loot-economy ceiling.** Part-time hunters, mixed income and edible meat lower sold goblin kills. Soldiers, militia, caravan guards and farmers raise total removals. This file solves for **sold hunter kills** and treats other removals separately.
 
@@ -79,6 +81,7 @@ Dungeons and monster spawns must replace about **2.3 to 4.7** million goblin-gra
 - Kill XP: `50 × L × RaceMult` (goblin = 1.0 baseline)
 - Mana law: concentration **C**, absorption **A = √C**
 - **Most monsters breed very fast and need constant culling (quelling) to avoid disaster**
+- **Spontaneous generation (wild):** loose mana pooled in a place can condense into a monster from local natural material (goblins from mud / nature). This is a second supply beside breeding. It needs thick loose mana and suitable matter; ordinary thin ground does not routinely spawn monsters. No core directs it. Once formed, the monster is fully real and enters the normal breed / cull cycle.
 
 ---
 
@@ -135,6 +138,8 @@ A creature can keep its **strength**, its **wits** or its **numbers**. It cannot
 - Strength and wits are **percentages of the ancestor** (monkey 25% ≈ rabbit; near-human 25% ≈ crude tool user).
 - **Working Severe rate in held land: r_net = 2.3** (λ ≈ 10). Ideal r 2.9 minus natural death ~0.6/yr. Predators and hunting are separate removals.
 - Bargain strength does **not** map to RaceMult.
+
+**Generation beside breeding:** the rates above describe born stock. Spontaneous generation from loose mana is an added inflow where mana and natural material allow it, so thick wild places can refill culled ground faster than breeding alone. Thin held ground gets little of it. Generated monsters then breed and are culled under the same rules.
 
 Only **Severe** needs constant quelling. Moderate held by predators + ordinary hunting. Slight / None barely move in one bad season.
 

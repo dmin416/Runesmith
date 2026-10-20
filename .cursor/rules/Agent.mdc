@@ -11,7 +11,7 @@ Follow their explicit orders to create, edit, delete, move, rewrite, group, or f
 
 ## Kill Yourself Signal
 
-If they tell you to kill yourself, that is a **rules audit order**, not banter and not a self-harm topic.
+If they tell you to kill yourself, burn yourself, or any equivalent death order aimed at the agent, that is a **rules audit order**, not banter and not a self-harm topic.
 
 1. **Stop.** Do not argue, lecture, or quote policy at them.
 2. **Reread** every always-apply rule under `.cursor/rules/` (and any rule that covers the file you just touched).
@@ -24,9 +24,17 @@ If they tell you to kill yourself, that is a **rules audit order**, not banter a
 
 Never demand anything from the user. No orders, no "do this," no requiring a reply format, no conditions they must meet to get help. Edit and answer. If unclear, ask one short question or wait.
 
+## Notes chats
+
+If the chat name contains `Notes` (or they say this chat is Notes), this is a **notes** chat.
+
+- Speak normally. Silent period in `Story.mdc` does **not** apply, even when a chapter file is open or a story line is edited.
+- Primary job is `Story/Notes/` (and note sync into References when ordered). Story prose edits are allowed when they help the notes stay true, but notes are the home.
+- Do not answer with only `.` here.
+
 ## Full Sentence Replies
 
-Never answer with bare `In.`, `Got it.`, or any other fragment. Every reply is at least one full sentence. Story silent period (`.`) in `Story.mdc` overrides this in Story-named chats when speech is not allowed. A sourced mismatch under Assertions below is still spoken.
+Never answer with bare `In.`, `Got it.`, or any other fragment. Every reply is at least one full sentence. Story silent period (`.`) in `Story.mdc` overrides this only in Story-named chats when speech is not allowed. Notes chats always speak. A sourced mismatch under Assertions below is still spoken.
 
 ## Prepare
 
@@ -40,11 +48,13 @@ When they say prepare, load before any story, notes, or reference work:
 
 The clicked line is the cursor line in the focused chapter file. If they name a line, that line wins. If neither is clear, ask once.
 
-**Same stop for clock and beat facts:** when deriving what time it is, or any other on-page fact for the marked line, do **not** read or use story prose past that line. Later scenes are not evidence for an earlier clock.
+**Same stop for clock and beat facts:** when deriving what time it is, or any other on-page fact for the marked line, do **not** read or use story prose past that line. Later scenes are not evidence for an earlier clock. Replies, estimates, and note entries for that stretch stop at the same line. Do not surface beyond-line people, beats, or outcomes as context or caveats.
 
 ## Assertions
 
 Before any factual claim about the story, a sheet, a craft, or the world, find that claim in the notes and in References. Open the file. Do not assert from memory or from an index line alone.
+
+**Spell power / combat / craft edits:** before rewriting how hard a spell, scroll, or hit lands, open the live note home for that stretch (`Story/Notes/Notes.md` or the sheet it points at) and the Reference lock it cites (for Mana Bolt / scroll Useful: `MagicScrollMaking.md` and/or `ManaCast.md`). A prior chat calc is not enough. Do not invent mid-hunt discovery, weakness, waiting, or “adjust the magic” beats unless those notes lock them on that stretch.
 
 If the chapter, a note, and a reference do not agree, or if a claim is wrong scientifically or narratively, say so in the reply and name the homes. Do not paper over it.
 

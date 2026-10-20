@@ -7,7 +7,7 @@ Running XP log. RaceMult table: `../../References/Progression/RaceMult.md`. Stat
 
 **Record everything (hard):** every kill, every craft / schematic award, every skill-rank overall XP (~**100**/rank, Ch 13 lock), and every bar roll goes in this file. Soft until locked. Do not leave forest / invent / sale stretches as “no kill XP” once prose has kills. Skills ranks also land in `Skills.md`; sheet in `Status.md`; coin in `CoinLedger.md`.
 
-**Live RaceMult (early):** goblin **1.0**; mountain / gray goblin **1.25**; dungeon rat **0.2**; Needle Worm **0.5**; Needle Moth **2.0**; Spiked Boar **1.5**; Wereboar **2.0**; people **1.0**. Formula `50 × L × RaceMult`. Draft dungeon L: rat **5**, Spiked Boar **8**, Needle Worm **16–18**, Needle Moth **18**, Wereboar **≥26**. Edelgard mountain trash soft **L10** → **625**/kill until a chapter names L.
+**Live RaceMult (early):** goblin **1.0**; mountain / gray goblin **1.5**; dungeon rat **0.2**; Needle Worm **0.5**; Needle Moth **2.0**; Spiked Boar **1.5**; Wereboar **2.0**; people **1.0**. Formula `50 × L × RaceMult`. Draft dungeon L: rat **5**, Spiked Boar **8**, Needle Worm **16–18**, Needle Moth **18**, Wereboar **≥26**. Edelgard mountain trash soft **L10** → **750**/kill until a chapter names L.
 
 **Pre-class bank:** XP before first ascension banks and applies later with a **½ penalty**. One-time only (first class). Does not refill for later class changes. No half-cut on later class change.
 
@@ -22,12 +22,12 @@ Running XP log. RaceMult table: `../../References/Progression/RaceMult.md`. Stat
 | Ch 9.5 Carwen grind | **1,000** | **1,088** |
 | Ch 10 nest opener | **7** | **1,095** |
 | Ch 23 forest (common green) | **0** | **1,095** |
-| Ch 23–24 mountain (locked on-page) | **6** | **1,101** |
-| Ch 23 deep hunt (pre-Helci, soft plural) | soft | soft (add when count locks) |
+| Ch 23 mountain first clearing | **1** | **1,096** |
+| Ch 23 deep hunt (1 hour to distant shriek) | **36** (2–3 tribal groups; 12–15 killed per group before scatter) | **1,132** |
 
 Ch 9.5 = **1,000** goblins over ~**90** days (~**11**/day). Trash + nest leaders + **8** T2 ambush leaders so kill XP alone lands **Mage L20**. Lifetime crosses **1000** mid-skip (Goblin Hunter). Spell/skill ranks during the skip pad the **L20** bar after the level lands; they do **not** replace kills.
 
-**Mountain / gray** kills use RaceMult **1.25** (not common **1.0**). Locked on-page Ch 23–24: first clearing **1** + Helci cliff **5** = **6**. Deep-hunt plural between status print and Helci screech stays soft until count locks.
+**Mountain / gray** kills use RaceMult **1.5** (not common **1.0**). At the distant shriek: first clearing **1** + deep hunt **36** = **37** mountain kills this outing. Lifetime goblin kills at that line: **1,132**.
 
 ## Where it sits in the chapters
 
@@ -53,8 +53,8 @@ Ch 9.5 = **1,000** goblins over ~**90** days (~**11**/day). Trash + nest leaders
 | **20** | Job hunt / supply buy | **0** XP | Bar still **6979 / 13000** |
 | **21** | Job hunt, Libra, inn: Mana Bolt word **+25** + Fire Orb runic **+25** | **+50** | Bar **6979 → 7029 / 13000**. Word L1 pay **22.5** MP (`25 × 0.9`); XP = cast **25** |
 | **22–23** | First sale → quiet room (line 715) | No kills. Fireball pour XP → overall **L33** / Scribe **L8** |
-| **23** | Match invent → mid-hunt status | Match schematic **+1000** + pours → **L35** / Scribe **L10**; forest first mountain **+625** soft |
-| **23–24** | Deep hunt + Helci cliff | Deep soft plural × **625**; Helci **5 × 625 = 3,125**; still **L35** on-page |
+| **23** | Match invent → mid-hunt status | Match schematic **+1000** + pours → **L35** / Scribe **L10**; forest first mountain **+750** soft |
+| **23** | Deep hunt to distant shriek | **36** tribal kills × **750** = **27,000** XP; outing mountain XP at that line **27,750** (first clearing **750** + deep **27,000**) |
 
 Ch 6: weekly one-on-ones after the 9th birthday. Locked count **55** estate L1s after bravery (year of weeks plus a few extras) so the half-bank lands L3 empty under `500 × L`. After Mage, weekly continues and turns to **two** L1s at a time for ~**3 months** (**25** kills including the Ch 7 finale) so the first Carwen hunt can finish L3→L4.
 
@@ -451,7 +451,7 @@ Stealth already Basic→regular before the first clearing (prose past tense). Fi
 
 | Beat | Kills | L | RaceMult | XP each | Subtotal | Lock |
 |---|---:|---:|---:|---:|---:|---|
-| First clearing (scrolls underpowered; chanted Bolt finish) | **1** | **10** soft | **1.25** | **625** | **625** | kill locked; L soft |
+| First clearing (Mana Bolt scroll kill) | **1** | **10** soft | **1.5** | **750** | **750** | kill locked; L soft |
 
 | Skill tick | Ranks | Skill XP | Notes |
 |---|---:|---:|---|
@@ -461,34 +461,36 @@ Stealth already Basic→regular before the first clearing (prose past tense). Fi
 
 **Mid-hunt status print:** overall **L35** / Scribe **L10**; MP **2414**; Shaping/Reg **L9**; Mastery **L6**; RS **L8**; Mana Scribing **L2**.
 
-### Deep hunt (after status → Helci screech)
+### Deep hunt (after status → distant shriek)
 
-Chanted spells + trash runic scrolls; tip-sip omnidirectional Reinforcement + Hands jump lifts. Ends each encounter with a clean head burst. Prose: not much overall XP (craft class); Mastery climb is the point.
+Chanted spells + trash runic scrolls; tip-sip omnidirectional Reinforcement + Hands jump lifts. Kill pattern = body zones / weak spots; finish what still moves (neck etc.). Title **Goblin Hunter** already held.
+
+**Tribal encounter shape:** goblins live in tribal groups, not as scattered singles. In **1 hour** of avid let-loose hunting, Roland reaches **2–3 groups** and kills **12–15 per group** before the rest scatter. Locked count: **36**. Ned’s side hunts are not on Roland’s tape.
 
 | Beat | Kills | L | RaceMult | XP each | Subtotal | Lock |
 |---|---:|---:|---:|---:|---:|---|
-| Deep-hunt mountain goblins | soft plural | **10** soft | **1.25** | **625** | soft | count soft; log each when prose locks |
+| Deep-hunt mountain goblins | **36** (**1 hour**, 2–3 tribal groups) | **10** | **1.5** | **750** | **27,000** | locked |
 
 | Skill tick | Notes |
 |---|---|
-| Rune Mastery (trash scroll activations) | Cum toward **L7**; still **L6** at mid-hunt print; Helci Fireballs continue |
+| Rune Mastery (trash scroll activations) | Cum toward **L7**; still **L6** at mid-hunt print |
 | Mana Reinforcement (omnidirectional body pressure) | Cap **L9**; resist / load grind while moving |
 | Mana Hands (jump lifts) | Cap **L9**; tip-budget share (`Capabilities/ManaHandsPassive.md`) |
 | Stealth / Climbing (spiky woods) | Soft uses; Stealth already regular |
 
 ## Ch 24 (Helci cliff → inn)
 
-Five Fireball grimoire head-melts. Solo full credit. Same soft mountain **L10** / RaceMult **1.25** until named.
+Five Fireball grimoire head-melts. Solo full credit. Same soft mountain **L10** / RaceMult **1.5** until named.
 
 | Beat | Kills | L | RaceMult | XP each | Subtotal | Lock |
 |---|---:|---:|---:|---:|---:|---|
-| Helci cliff (Fireball grimoire) | **5** | **10** soft | **1.25** | **625** | **3,125** | kills locked; L soft |
+| Helci cliff (Fireball grimoire) | **5** | **10** soft | **1.5** | **750** | **3,750** | kills locked; L soft |
 
 | Skill tick | Ranks | Skill XP | Notes |
 |---|---:|---:|---|
 | Rune Mastery (5 Highest scrap Fireballs in combat) | soft toward **L7** | soft **0** until rank pops | Combat Mastery climb; out-of-combat casts do not level Mastery later law (Ch 27 talk) |
 | Mana Sight (stone tip for Helci) | stays **L9** | **0** | Cap |
 
-**Mountain kill XP locked so far (L soft):** first **1** + Helci **5** = **6 × 625 = 3,750**. Deep-hunt soft adds **625** each. No evolved variant fight (they leave). Helci Scout **L1** ascension is hers; no share of Roland’s kills.
+**Mountain kill XP locked so far (L soft):** first **1** + Helci **5** = **6 × 750 = 4,500**. Deep-hunt soft (**~1 hour**) adds **~36** tribal bodies (band **~30–45**); XP depends on the adult/younger level mix inside those groups and stays soft. No evolved variant fight (they leave). Helci Scout **L1** ascension is hers; no share of Roland’s kills.
 
-**Bar after Helci:** still overall **L35** / Scribe **L10** on-page (no level popup). Soft fill from **3,750** + deep soft + Mastery ticks. Next schematic spikes: Ch 26 Frost Arrow + Gale Arrow **+2000** each.
+**Bar after Helci (open check):** `Status.md` still holds overall **L35** / Scribe **L10** with no level popup. If every deep-hunt body were an L10 adult, deep XP alone would be **~27,000** (center) and would cross the L35 bar (**17,500**). So either the tribal level mix sits well below all-L10, or the L35 hold needs retuning. Do not claim both all-L10 XP and still-L35 until that is pinned. Next schematic spikes: Ch 26 Frost Arrow + Gale Arrow **+2000** each.

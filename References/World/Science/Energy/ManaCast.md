@@ -645,4 +645,4 @@ Core rupture rows are **mana cores / mana stones**, not jewelry gems. Unbreakabl
 
 **Rune shield hosts:** waste heat into the host follows the shared rune waste law (`../../../Runes/Energy.md`: half of `(1 − η_cond)` into the piece). Lowest-quality silver cooks fastest; allow cooldown or use better conductors / higher quality for rapid re-triggers.
 
-See also `../../../Combat/Spells.md` (Heat, Mana Hands, Mana Shield).
+Physics companion: `ManaHandPhysics.md`. See also `../../../Combat/Spells.md` (Heat, Mana Hands, Mana Shield).

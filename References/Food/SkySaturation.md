@@ -14,6 +14,14 @@ Use this when the scene only needs the food.
 
 If a later beat shows someone making that same food as a worked process, switch to the science lane for that beat only.
 
+## Mana at the peak
+
+Fresh food reaches its peak with a slight amount of mana benefit. That benefit belongs to the peak. Past it, the food overripens or spoils by the science lane.
+
+Preserved foods fundamentally upgrade in extremely mana-saturated environments. Jams, honey, alcohol, and the other salted, dried, sugared, fermented, or cultured keeps are this class. A cellar stay or a mild sky stay ages them along the ordinary paths in `FermentedAging.md`. Extreme saturation is what changes the food in kind.
+
+A lasting mana-fruit, charged grain, or elixir used as a found ingredient stays in the narrative lane. The upgrade above is what extreme saturation does to a preserve that is already stable.
+
 ## Science lane
 
 Acceleration speeds whichever process is already winning.
@@ -43,4 +51,4 @@ Optional assumptions for a science-lane batch that should come out right. They a
 
 Under those assumptions the batch can finish as the peak version of the ordinary food. Cheese, wine, soy, dry-aged meat, cured roots, and fruit on a living vine can be brought to that peak and held. Barrel chemistry (esters, oxidation, wood extraction) is the small energy bill. A spirit in glass can be aged if wood extraction is driven without a barrel. A living ferment squeezed hard still releases the same heat and gas per gram of food, and the sky has to carry that load. Fish, organs, and bruised fruit still break down by their own enzymes until those pathways are suppressed too.
 
-The finished food is still made of real matter. Sugar, salt, water, oxygen, and wood compounds come from the world. A lasting mana charge inside the food is the narrative lane, not a result this idealized batch produces.
+The finished food is still made of real matter. Sugar, salt, water, oxygen, and wood compounds come from the world. On a sound fresh peak the mana result is the slight benefit above. A fundamental upgrade belongs to preserved food in extreme saturation.
