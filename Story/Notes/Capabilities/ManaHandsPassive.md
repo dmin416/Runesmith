@@ -34,6 +34,8 @@ Mid-hunt clothed figure: Hands **L9**, Int **177**, open ground `A = 1`, hold ta
 
 **Shared budget.** That mass is the **sum** across all Hands, not ×7. Seven Hands holding **~40 kg** each ≈ one Hand holding **~290 kg**.
 
+**Hardness (lock):** a Mana Hand has no fixed material hardness. It is **as hard as the user can focus**. Effective hardness is a **Willpower / focus** matter, on top of Intelligence joules and Hand-rank control (`R`, stability). Focused hard, it can act as a rigid brace or push surface. It fails by focus slipping, stability fading, or the work going unpaid, not by the Hand material snapping at a locked MPa.
+
 **Hold ≠ flight.** Grip / restraint only (`ManaCast.md` hold rows; `Flight.md` for airborne hover).
 
 ---
@@ -50,6 +52,8 @@ mana/s = (J/s) / (10 × μ(INT) × A) × R
 - Higher Int → more joules per mana → more mass on the same tip-sip.
 
 One-shot **lifts** (raise mass by height) pay `m × g × h` once from the pool. They are **not** this passive line. Passive = continuous **hold**.
+
+**Jump assist (recalc, mid-hunt):** scale from a normal man first. Normal standing vertical **~35 cm** at **~75 kg**. Roland’s printed stats are **Strength 49** (**3.27×** street 15) and **Agility 65** (**4.33×**) on a child frame of about **45 kg**, so strength-to-weight is about **3.27 × 75/45 ≈ 5.45×** normal. Unaided standing vertical: **~1.6–2.2 m** centre-of-mass rise (centre **~1.9 m**). With Hands focused hard as push surfaces through takeoff (about **0.5–0.7 m** of push, **~290 kg**-force shared Hands), the Hands add about **3.2–4.5 m** more, for **~4.9–6.7 m** centre-of-mass rise. Feet can clear roughly **4.5–6 m** with a tuck; hands can reach a grab at **~6.5–8.5 m**. This counts the push to ballistic takeoff only. Keeping the Hands lifting after takeoff is lift assist, not a jump.
 
 ---
 

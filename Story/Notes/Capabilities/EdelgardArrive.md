@@ -33,7 +33,7 @@ Age-9 height was ~**140 cm**; age-11 height not locked. Perks already from Str/D
 | Think **I** | **156/15 ≈ 10.4×** → simple RT ≈ **0.019 s** |
 | Limb move | √(64/15) ≈ **2.07×** on AGI |
 | Focus capacity | soft **~10×** men-worth |
-| Jump (soft) | standing vertical **~60–90 cm** (no locked formula) |
+| Jump (soft) | standing vertical **~1.6–2.2 m** (Strength **49** = 3.27× street on a ~45 kg child frame; no locked formula) |
 
 ## Breath / heal
 
