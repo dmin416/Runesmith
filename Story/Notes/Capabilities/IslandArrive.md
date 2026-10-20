@@ -33,7 +33,7 @@ Height over **6'1"** (~**185 cm**) noted Ch 71. Adult mass now; equal-mass AGI c
 | Think **I** | **172/15 ≈ 11.5×** → simple RT ≈ **0.017 s** |
 | Limb move | √(73/15) ≈ **2.2×** on AGI |
 | Focus capacity | soft **~10–15×** men-worth |
-| Jump (soft) | adult-frame √P; standing vertical soft **~80–120 cm** (still no locked formula) |
+| Jump (soft) | standing vertical **~1.4–1.9 m** (Strength **79** on an ~85 kg adult frame; see [PhysicalCapabilitiesDragnis.md](PhysicalCapabilitiesDragnis.md)) |
 
 ## Breath / heal
 

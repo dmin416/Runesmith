@@ -10,6 +10,13 @@ Street adult baseline is **15** across the board.
 |---|---|
 | [ManaHandsPassive.md](ManaHandsPassive.md) | Ch **23** always-on Hands hold (~**290 kg** clothed tip-sip; **7** concurrent) |
 
+## Physical reference (brief)
+
+| File | When |
+|---|---|
+| [PhysicalCapabilitiesCh23.md](PhysicalCapabilitiesCh23.md) | Right now: Ch **23** hunt, printed **L35** sheet |
+| [PhysicalCapabilitiesDragnis.md](PhysicalCapabilitiesDragnis.md) | Dragnis arrival (rewrite target, overall **L71**) |
+
 ## Arrivals
 
 | File | When | Age | Anchor |
