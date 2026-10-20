@@ -1,6 +1,6 @@
 # Gunpowder and Firearms
 
-Hub: `../Science.md`. Earth encyclopedia for invent beats. No manufacturing recipes. Caldris street baseline stays personal-firearms-niche (`../../Tech/Technology.md`). Non-powder mechanical launch: `Projectiles.md`. Recoil: `Kinetic.md`.
+Hub: `../Science.md`. Earth encyclopedia for invent beats. No manufacturing recipes. Caldris street baseline stays personal-firearms-niche (`../../Tech/Technology.md`). Non-powder mechanical launch: `Projectiles.md`. Recoil: `Kinetic.md`. History / feasibility ladder: `ExplosivesHistory.md`. Indestructible .357 HE model: `Indestructible357Magnum.md`.
 
 ## Powder Options by Era
 

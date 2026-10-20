@@ -2,7 +2,7 @@
 
 **Canon lock** for the Mana Hands spell track. Sheet / prose name stays **Mana Hands** (also Mana Hand / mage hand). Not Mana Control (that is Regulation’s evolve: `SensingManaSoundSystem.md`).
 
-Joule work table: `../World/Science/Energy/ManaCast.md` § Mana Hands. Thin catalog: `../Combat/Spells.md`. Rank curve base: `SkillRanks.md`.
+Joule work table: `../World/Science/Energy/ManaCast.md` § Mana Hands. Physics companion: `../World/Science/Energy/ManaHandPhysics.md`. Thin catalog: `../Combat/Spells.md`. Rank curve base: `SkillRanks.md`.
 
 ## Forms
 

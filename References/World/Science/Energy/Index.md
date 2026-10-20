@@ -10,6 +10,7 @@ Stones, cast tables, batteries, engines, motors, fans, pumps, compression, fligh
 
 - [ManaStones.md](ManaStones.md). Size / mass / recharge / market tables (dump law in MonsterCores)
 - [ManaCast.md](ManaCast.md). Spell-specific cast tables (shared law in ../../Runes/Energy.md)
+- [ManaHandPhysics.md](ManaHandPhysics.md). Physics companion for Mana Hands: conversion, deflection, glide optimum, scaling. Canon: ManaCast.md § Mana Hands
 - [ManaShield.md](ManaShield.md). Mana Shield master consolidator (pools, grip, hold drain, threats). Live head-on ×10 pool in AttackScale / ManaCast
 - [ManaConcentration.md](ManaConcentration.md). Ambient mana density vs altitude (C, A = √C); layers/orbits: ../../Space/
 - [RefinedMana.md](RefinedMana.md). Stillwire / Lightthread from stones
@@ -54,6 +55,8 @@ Stones, cast tables, batteries, engines, motors, fans, pumps, compression, fligh
 - [ProjectileShapes.md](ProjectileShapes.md). Shapes, flight patterns, stability; atmosphere and vacuum catalog. Terminal: ../../../Combat/Firearms.md. Space: ../../../Combat/SpaceProjectiles.md
 - [GuidedProjectiles.md](GuidedProjectiles.md). Guided munitions, mechanical vs computer guidance, turn-radius limits
 - [GunpowderFirearms.md](GunpowderFirearms.md). Medieval / Victorian powder chemistry and raw materials
+- [ExplosivesHistory.md](ExplosivesHistory.md). Earth invent loot. Explosives timeline, deflagration vs detonation, Renaissance / caveman-gun feasibility ladder
+- [Indestructible357Magnum.md](Indestructible357Magnum.md). Earth invent loot. NG / HE Gurney model for indestructible .357 snubnose, stability tables, subsonic ranking
 
 ## Design loot
 
