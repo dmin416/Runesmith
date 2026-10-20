@@ -400,13 +400,17 @@ Chapter-ordered list of runes Roland Arden (D) has crafted or created in complet
 - **Shape Bills**: Match 5, Bolt/Orb 25, Arrow 50, Shield 100, Ball 400 (designed cast for each shape; see scroll power rules below)
 - **Cite**: `References/Items/ScrollRuneAbilities.md` Match Rune entry; `References/Runes/ScrollEconomy.md` Match market; `References/Runes/MagicScrollMaking.md` scroll power ceiling; `Story/Notes/Chapter23QuietRoom.md`; `Story/Notes/ChapterLedger.md`
 
-### Chapter 23: Ch 23 Forest Notes (Scroll Materials Discovery)
-- **Discovery**: Mana Bolt scrolls made with original hide/ink (from Ch 21 purchase) were severely limited in power and crumbling when overcharged
-- **Materials Ceiling Rule**: Blood (ink/mana feedstock) and hide (host) together set upper limit of scroll power; crafter's INT boosts within that ceiling; Roland's blood quality = his max MP (~2414 at mid-hunt); cheap Trox hide + goblin-stone ink gives average-person cast ceiling; his blood on proper hide can hit like his full cast
-- **Shape Bills** (designed cast for activation/craft): Match 5, Bolt/Orb 25, Arrow 50, Shield 100, Ball 400
-- **Host Hold**: Cheap Trox/street hide ~200 MP hold; Bolt designed 25 can overcharge ~8× before host fails; Fireball designed 400 can run once but cannot overcharge on cheap hide
+### Chapter 23: Forest Hunt Notes (First Clearing, Mid-Hunt Status, Rune Ideas)
+- **First Mountain Goblin Kill** (first clearing): Mana Bolt scroll blew straight through goblin's head; scroll crumbled to dust after activation; runic scrolls "keeping up" with chanted magic performance
+- **Mountain Goblin Stats**: Variant (pale/gray vs typical green); Level ~L10 soft; RaceMult 1.5 → 750 XP/kill (first clearing 1 kill + deep hunt 36 kills = 37 total mountain kills this outing)
 - **Skills at Mid-Hunt** (after Match + forest): Basic Rune Scribing L8, Basic Rune Mastery L6; Overall L35 / Scribe L10
-- **Cite**: `Story/Chapters/19-26.md` Ch 23 forest lines 727-747; `References/Runes/MagicScrollMaking.md` § Scroll power from materials
+- **Rune Ideas** (brainstorming only; not yet made): Runic bullets, armor-piercing runes, explosive runes, heavier/faster variants, tattoos, armor runes, vehicles, fortresses; wondering if runes can be improved beyond current designs; bullet as example of compartmentalized/iterable attacks; currently cannot pull from single store of runic energy (all pushed into activation each time)
+- **General Scroll Power Rules** (reference; see `MagicScrollMaking.md`):
+  - **Materials Ceiling**: Blood (ink/mana feedstock) + hide (host) together set upper limit of scroll power; activator's INT (mana push) or physical skills (stamina push) scale within that ceiling; farmer with no boost hits materials ceiling with no multiplier
+  - **Shape Bills** (designed cast for activation/craft): Match 5, Bolt/Orb 25, Arrow 50, Shield 100, Ball 400
+  - **Host Hold**: Cheap Trox/street hide ~200 MP hold; Bolt designed 25 can overcharge ~8× before host fails; Fireball designed 400 can run once but cannot overcharge on cheap hide
+  - **Roland's Blood Path**: His blood quality = his max MP (~2414 at mid-hunt); blood + hide matching that can hit like his full cast when he (or another strong activator) pays
+- **Cite**: `Story/Chapters/19-26.md` Ch 23 first clearing lines 733-735 (clean kill), lines 819-825 (rune ideas); `Story/Notes/Experience.md` mountain goblin RaceMult 1.5; `References/Runes/MagicScrollMaking.md` § Scroll power from materials; `Story/Notes/ArchiveWeakManaBoltGoblin.md` (prior soft beat replaced)
 
 ---
 
