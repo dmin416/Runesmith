@@ -317,4 +317,6 @@ Rewrite-only ~**4 month** grind.
 
 **Ch 23 quiet room (line 715):** wallet **~170 SG** after first sale + fifteen + **~315**-scroll volume span (− lodging/food/weaver/better-mats). Carry: comet sell stock, MA/Light Ball keepers, reject stacks, robe/mask, Ned-silk threads + Ned cape, homemade ink, stone bank, **no** schematic sheets. Full sheet: `Chapter23QuietRoom.md`.
 
+**Ch 23 forest spellbook (outing):** a thick book held together with glue generously provided by Ned, one side coated in that glue. He calls the carried pile his stack of spells and keeps his hand on the makeshift spellbook when he takes aim. The used page crumbles to dust after the first clearing Mana Bolt kill.
+
 **Ch 23 Match Rune (after line 715):** pea-sized paper; one blood drop (Mana Hand); micro Highest Fire Orb lighter; designed **5**; empty (buyer pays **5**); one-shot burn; fluent make **~1 min**. Fair **1 LC** / **1 SS** per ten. Mastery **1**/burn. Market hold **~2,500 / week** (absorb **~2–3k**; drop above **~5k**); net **~1.9 SG / week** after Libra **25%**. Not in quiet-room wallet until invent + sales land in prose. See `Spells.md` / `ScrollEconomy.md` / `CoinLedger.md` / `Notes.md` Ch 23.

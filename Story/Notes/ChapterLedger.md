@@ -239,7 +239,7 @@ Ch 19 bare MP: `(156×10)+(147×4)` = **2148**. Printed ledger/target **2578** s
 - **Time:** Payday → **+2 months** intense grill → weaver Ned-silk → **+3 months** Fireball volume. Age **11 and 9 months** / **6y 9m** (`Timeline.md`).
 - **Sheet:** `Chapter23QuietRoom.md` (wins). Overall **L33** / Scribe **L8**; **49/64/89/86/96/175/159/12/7**; HP **1148** / SP **1299** / MP **2386**; RS **L8**; Mastery **L6**; Shaping/Reg **L9**; Sleep **L8**; Hunger **L7**; Heat Res / Recovery **L6**.
 - **Skills:** Full quiet-room tables in `Chapter23QuietRoom.md` / `Skills.md`. Ned: `NedStatus.md` § Ch 23.
-- **XP:** Quiet room: no kills; Fireball pour XP → **L33** / Scribe **L8**. After line 715: Match schematic **+1000** + pours → mid-hunt **L35** / Scribe **L10**; mountain kills RaceMult **1.25** (soft **L10** → **625**); locked **1** first clearing + Helci **5**; deep-hunt count soft (`Experience.md`).
+- **XP:** Quiet room: no kills; Fireball pour XP → **L33** / Scribe **L8**. After line 715: Match schematic **+1000** + pours → mid-hunt **L35** / Scribe **L10**; mountain kills RaceMult **1.5** (soft **L10** → **750**); locked **1** first clearing + deep hunt **36** to the distant shriek (`Experience.md`).
 - **Coin:** First sale → fifteen → **~315**-scroll span → quiet-room wallet **~170 SG** after spend. Full ledger: `CoinLedger.md` / `Chapter23QuietRoom.md`.
 - **Delta:** Match Rune invent is **after** line 715 (rate lock in `CoinLedger.md` / `ScrollEconomy.md`; not in quiet-room wallet). Mid-hunt status print **L35** / Scribe **L10** (**49/65/91/86/96/177/161/12/7**; MP **2414**). Forest late-morning tip-sip body pressure + Hands jump assists; chanted spells + trash scrolls; Helci cliff uses Fireball grimoire (`Notes.md` Ch 23).
 
