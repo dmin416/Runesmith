@@ -16,6 +16,8 @@
 | Pistol | Hell 'N' Back | Hellsing Casull and Jackal (fictional) | 330 (Casull), 380 (Jackal) |
 | Pistol | Cavalier | Beretta 93R | 156 |
 | Pistol | Klein Bauer | Walther PP slide (three-barrel rotary body) | 98 |
+| Revolver | Palehorse Topclipper | Chosen: 6 inch revolver | 152 |
+| Revolver | Death's Toll | Chosen: 4 inch revolver | 102 |
 | Revolver | Snut .38 | Colt police snub-nose (Detective Special) | 51 |
 | Revolver | .357 Balthazar | Chiappa Rhino | 102 |
 | Revolver | Blackwater | Magnum Research BFR | 191 |
@@ -45,8 +47,6 @@ No analogue on the wiki, or an analogue with an unknown barrel length. Stats are
 
 | Type | Weapon | Damage | Ammo | Mode | Look | Note |
 |---|---|---|---|---|---|---|
-| Revolver | Palehorse Topclipper | 128 | 5.56mm | Single Action | Western revolver with no cylinder, 7-round skeleton magazine through the frame | Guess: Colt SAA, about 191 mm |
-| Revolver | Death's Toll | 192 | 7.62mm | Double Action | White body, four-round vertical rotating magazine, bell | Analogue is the 1851 Porter turret rifle, barrel about 600 mm (unsure) |
 | SMG | Drifter 9 | 60 | 9mm | Auto | Driftwood receiver, pipe barrel, side-loaded horizontal magazine | Wiki compares it to the fictional Metro 2033 Bastard Gun |
 | SMG | Vrede | 60 | 9mm | Auto | Boxy tactical SMG, thumbhole grip, forward magazine well | None named |
 | SMG | Ploika Compact | 60 | 9mm | Auto | Compact boxy, telescoping stock that is the cocking handle | None named |
