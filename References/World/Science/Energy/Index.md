@@ -34,6 +34,10 @@ Stones, cast tables, batteries, engines, motors, fans, pumps, compression, fligh
 - [FanAirflow.md](FanAirflow.md). Fan φ/ψ power
 - [Pumps.md](Pumps.md). Lift, head, taps
 - [ShowerBathHeat.md](ShowerBathHeat.md). Earth heat to raise shower and bath water. Mixing valve and head stay in Pumps.md
+- [EnergyPumping.md](EnergyPumping.md). Pump instead of produce. Heat pump COP vs Carnot (grade 0.5), water lift, squeeze vs evaporate, separation floors (desalination, oxygen), charge pumping. Damping pays full energy
+- [Shear.md](Shear.md). Shear strength ladder, cutting by shear (bolts, chain, sheet), viscosity and emulsions, shear thinning / thickening fluids, soil and snow failure, peel vs shear
+- [Gradients.md](Gradients.md). Pressure (void 101 J/L, suction grip, boiling point vs pressure, Bernoulli, pipes, implosion, chimney draft), temperature, diffusion and osmosis, voltage, density
+- [Spin.md](Spin.md). Rotational energy, centrifuges and spin drying, projectile spin cost, Magnus curve, gyroscopes, spinning bodies, vortices, rotary tools
 - [Flight.md](Flight.md). Hover / lift power
 - [LighterThanAir.md](LighterThanAir.md). Hot air / He / H2 / vacuum shells; tethers; buoyancy-assisted ascent; 100 kg volumes
 
