@@ -11,6 +11,9 @@
 - Shear: `World/Science/Energy/Shear.md`
 - Gradients (pressure, temperature, concentration, voltage, density): `World/Science/Energy/Gradients.md`
 - Spin: `World/Science/Energy/Spin.md`
+- Ultrasonics: `World/Science/Energy/Ultrasonics.md`
+- Infrasound: `World/Science/Energy/Infrasound.md`
+- Acoustic levitation: `World/Science/Energy/AcousticLevitation.md`
 
 ## Top picks for Roland
 
@@ -27,9 +30,9 @@ Electrostatics. Mechanochemistry. Fracture mechanics. Ice houses with radiative 
 7. **Plasma.** Arcs, cutting torches, neon-style glow.
 8. **Superconductivity.** What mythril or aurium might do at room temperature.
 9. **Radiation pressure.** Light sails, how strong light's push really is.
-10. **Ultrasonics.** Cleaning, welding, cutting and medical imaging.
-11. **Infrasound.** Dread, nausea, long-range elephant-style signaling.
-12. **Acoustic levitation.** Holding droplets and small parts without contact.
+10. **Ultrasonics.** Cleaning, welding, cutting and medical imaging. Done.
+11. **Infrasound.** Dread, nausea, long-range elephant-style signaling. Done.
+12. **Acoustic levitation.** Holding droplets and small parts without contact. Done.
 13. **Phased arrays.** Steering sound or force by timing many emitters.
 14. **Impedance matching.** Getting energy to cross from air into the body or into stone.
 15. **Resonant energy transfer.** Wireless power between tuned coils or crystals.

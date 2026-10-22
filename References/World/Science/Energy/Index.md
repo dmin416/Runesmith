@@ -48,6 +48,9 @@ Stones, cast tables, batteries, engines, motors, fans, pumps, compression, fligh
 - [Lighting.md](Lighting.md). Incandescent, limelight, discharge, LED structure / failure; J/h for 800 lm; lm/W ceiling; Caldris filter
 - [Waves.md](Waves.md). Wave / ozone bands
 - [Sound.md](Sound.md). Sound Production / echolocation
+- [Ultrasonics.md](Ultrasonics.md). Above 20 kHz: wavelength / detail, air absorption range, who hears it, flaw detection, body imaging, therapy, cleaning, degassing, mist, welding, gem drilling, signals
+- [Infrasound.md](Infrasound.md). Below 20 Hz: thresholds, effects and myths, volume-swing cost, reactive tax vs resonators, natural sources, long call / ground line / early warning
+- [AcousticLevitation.md](AcousticLevitation.md). Standing-wave traps, tweezers, near-field float bearings; size limit, dB by density, field cost vs Mana Hands hold
 - [SevenFirecrackers.md](SevenFirecrackers.md). Seven coincident blast waves in pure linear superposition. Pressure 7x, intensity 49x, +16.9 dB
 - [TriggeredLightning.md](TriggeredLightning.md). Rocket-wire / tower / laser trigger; ground-end MJ yield; storm rates; volcanic sites
 
