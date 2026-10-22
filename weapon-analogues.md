@@ -40,22 +40,15 @@
 | Sniper | Rokua .308 | Remington 700 | 610 |
 | Sniper | Dolphin 99 | Cobray Terminator | about 457 |
 | Sniper | Longboy | Accuracy International Arctic Warfare stock, Barrett M82 action | 660 (AW), 737 (M82) |
-
-## To determine
-
-No analogue on the wiki, or an analogue with an unknown barrel length. Stats are the wiki base values (damage, ammo, mode).
-
-| Type | Weapon | Damage | Ammo | Mode | Look | Note |
-|---|---|---|---|---|---|---|
-| SMG | Drifter 9 | 60 | 9mm | Auto | Driftwood receiver, pipe barrel, side-loaded horizontal magazine | Wiki compares it to the fictional Metro 2033 Bastard Gun |
-| SMG | Vrede | 60 | 9mm | Auto | Boxy tactical SMG, thumbhole grip, forward magazine well | None named |
-| SMG | Ploika Compact | 60 | 9mm | Auto | Compact boxy, telescoping stock that is the cocking handle | None named |
-| SMG | Valet | 72 | 9mm | Auto | Foldable, side-folding stock, thumbhole grip | Analogue is the Gepard PDW, barrel unknown |
-| Assault Rifle | Socom ACR | 72 | 9mm | Burst (2) | Bullpup conversion of the Socom 9 | None named |
-| Rifle | Knop .22 | 120 | 9mm | Breech | Single-shot hunting rifle, pistol-style grip | None named |
-| Rifle | Tailor Marksman MKII | 160 | 5.56mm | Single Action | Revolving rifle, 8-round cylinder | None named |
-| Rifle | Farsight | 176 | 5.56mm | Semi-Auto | Foldable marksman rifle, retracting telescoping barrel | None named |
-| Sniper | Impala Gravita | 400 | 7.62mm | Manual "Bowstring Action" | Bow-and-plunger rifle | Crossbow-like |
+| SMG | Drifter 9 | Chosen: 4 inch | 102 |
+| SMG | Vrede | Chosen: 6 inch | 152 |
+| SMG | Ploika Compact | Chosen: 1 inch | 25 |
+| SMG | Valet | Chosen: 6 inch | 152 |
+| Assault Rifle | Socom ACR | Chosen: 6 inch | 152 |
+| Rifle | Knop .22 | Chosen: 16 inch | 406 |
+| Rifle | Tailor Marksman MKII | Chosen: 10 inch (8 inch is 203) | 254 |
+| Rifle | Farsight | Chosen: 20 inch | 508 |
+| Sniper | Impala Gravita | Chosen: 8 inch | 203 |
 
 ## Excluded (energy weapons)
 
