@@ -25,4 +25,5 @@ Up: [References](../Index.md)
 - [Spells.md](Spells.md). Design loot / named catalog. Magic foundation: ../Runes/Magic.md. Cast physics: ../World/Science/Energy/ManaCast.md. Path law: ../Runes/Energy.md. Hands
 - [KineticSpellList.md](KineticSpellList.md). **Ideas.** Physics-priced kinetic / compression spells; explosive `(MP÷25)²`; Bolt 25 / Arrow 50 / Ball 400.
 - [BasicSpellShapes.md](BasicSpellShapes.md). Ideas. Bolt = egg, Arrow = arrow, Spear = spear, Shield = shield, Ball/Fireball ≈ softball (volleyball = fat/overcharge).
+- [SonicAirDisplacement.md](SonicAirDisplacement.md). **Ideas.** Air pushed at or near Mach 1. Jet 2.4 kW per cm², slug 70.6 J per liter, shock overpressure table, jet and blast loudness, fire blow-out ladder (candle to well fire) and potential uses. Sound law: ../World/Science/Energy/Sound.md.
 - [Weapons.md](Weapons.md). Design loot. Hardness / pierce gates: ../World/Science/Energy/ManaCast.md. Attack map: AttackScale.md. Bows / crossbows / limb materials: Bows.md. Light
