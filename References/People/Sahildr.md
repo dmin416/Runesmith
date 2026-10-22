@@ -10,6 +10,8 @@ Sahildr is the Goliath frontliner of Roland's first Carwen party. Loud, teasing,
 
 **Race:** Goliath
 
+**Strength:** Strength of 5 men. Hammer baseline: `../Combat/ImpactRune.md`.
+
 **Role:** Warrior / frontline
 
 **Height:** About 2 m

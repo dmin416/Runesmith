@@ -1,6 +1,6 @@
 # Hemolymph as Food
 
-> Design: making Ned / insect hemolymph a complete human-scale food. Character use: `../People/Ned.md`. Seasoning locks: `Food.md` / `FoodDesign.md`.
+> Design: making Ned / insect hemolymph a complete human-scale food. Character use: `../People/Ned.md`. Seasoning locks: `Food.md` / `FoodDesign.md`. Magic-bee dilute feedstock (Ned middleman): `../World/Fauna/Domestic/HoneyBeesMagic.md` §12.7.
 
 ## Human-scale complete
 

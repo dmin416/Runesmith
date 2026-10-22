@@ -1,0 +1,66 @@
+# Sustenance Leveling Meters
+
+> **Ideas / design loot.** Family trees, damage map, multi-mechanism math, and worked examples live in `ResistanceImmunitySystem.md` (Thermal / Kinetic / Bodily / **Sustenance**). This file only keeps **leveling meters** for Suffocation (and fused Sustenance) so breath and blood do not share one false clock.
+>
+> Live hubs win: `SkillsDesign.md`, `SkillRanks.md`, Sleep Resistance. Ch 19 train locks **Suffocation Resistance** (holds + blood); **no** Breath Control there. Earth blood / trail feel: `../World/Science/Body/BloodNotes.md`.
+
+Retired names from older drafts: **Undying Body**, **Survival** family, **Starvation** (split into **Thirst** + **Hunger**), **Pure Blood**, **Iron Will**. Use **Sustenance Immunity** and **Bodily Immunity**.
+
+---
+
+## Sustenance tree (pointer)
+
+```
+Sleep Resistance       → Sleep Immunity (L9) ──────┐
+Thirst Resistance      → Thirst Immunity (L9) ─────┤
+Hunger Resistance      → Hunger Immunity (L9) ─────┼─→ Sustenance Immunity
+Suffocation Resistance → Suffocation Immunity (L9) ┘
+```
+
+Fuse when **all four** Immunities are at Lv9 (`ResistanceImmunitySystem.md`).
+
+---
+
+## Clean-use units (flat `SkillRanks.md`)
+
+| Deprivation | Unit | Notes |
+|---|---|---|
+| **Breath / hypoxia** (airway, ambient O₂, circulatory stop without bleed) | **15 s** under load = 1 use | 1 min held = **4** uses on **Suffocation**. Breath Control (if unlocked later) stays a separate hold-length skill (`SkillsDesign.md`). |
+| **Blood loss** (volume leaves the body) | **1% of full blood volume** lost and survived = 1 use | Fractions count. Adult ~5 L → **~50 mL ≈ 1% ≈ 1 use**. |
+| **Sleep** | **15 s** = 1 use | **(1) Skill-cut wake:** each **15 s** of the hours a full night still owes that the skill removed from need, spent awake while living on reduced need. **(2) True debt:** **15 s** awake past **remaining** need. Same second never counts twice. Banks Sleep until fused; then Sustenance. Baseline full night **T0 = 8 h**. Need = **T0 × (1 − 0.10×L)**. Ignored = **T0 − need**. |
+| **Hunger** | **1% of that day's energy expenditure unmet by food**, survived = 1 use | Fractions count. Full fast day (eat **0**, body still burns) = **100** uses. SP→scroll nutrient burn with no meal covering it **is** starvation. Banks Hunger Resistance. Thirst still open. |
+| **Thirst** | Still open (day / hour under deficit) | Lock when a chapter needs it. |
+
+**Do not double-count** the same hemorrhage as both volume % and hypoxic seconds. Blood choke with no external loss = **time**. Open bleeding = **volume**.
+
+Stay under **survivable blood loss** for the current M, or the session kills instead of ranking. Recovery / potions refill the tank; refill is not a use.
+
+---
+
+## Pace (projected)
+
+**Breath / hypoxia (15 s = 1 use)**
+
+| Pace | Time / day | Uses / day | → Res L5 | → Res L9 | → Imm L9 (~2.5M) |
+|---|---:|---:|---|---|---|
+| Ch 19 grill holds (Suffocation hypoxia; story lock) | ~140 min | ~560 | ~2 days | ~2.4 yr | ~12 yr |
+| Hard daily drill | 60 min | 240 | ~4 days | ~5.7 yr | ~28 yr |
+| Field / mixed life | 15 min | 60 | ~17 days | ~23 yr | ~114 yr |
+
+**Blood volume only (1% = 1 use)**
+
+| Pace | Volume / day | Uses / day | → Res L5 | → Res L9 |
+|---|---:|---:|---|---|
+| Soft drains | ~1% | ~1 | ~3 yr | career+ |
+| Hard Recovery grind | ~5% | ~5 | ~200 days | ~274 yr |
+
+Breath is the practical Suffocation climb. Blood is Recovery-gated and slower.
+
+---
+
+## Cross-links
+
+- Full system: `ResistanceImmunitySystem.md`
+- Damage taxonomy: `DamageTypeResistances.md`
+- Sleep / optional later Breath Control: `SkillsDesign.md`
+- Ch 19 train Suffocation math: `../../../../Story/Notes/Skills.md`

@@ -51,7 +51,7 @@ Capacity ≈ **V** mana at **1 mana/mm³**. Width is whatever shape the stone ha
 
 **Evolved monsters:** One or more evolutions → always have a core. More evolutions → larger / denser tendency (still read through the level curve + mods).
 
-**Mana Sense:** Can detect a stone in a corpse without cutting.
+**Mana Sight:** Can detect a stone in a corpse without cutting.
 
 **Quality:** Stones rate on a quality / rank ladder (same language family as runes). Size owns the tank. Grade speeds recharge (with surface area). Dump is not surface-capped. Body-size modifiers above can trade size for quality.
 

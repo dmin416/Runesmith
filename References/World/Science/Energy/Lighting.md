@@ -1,6 +1,6 @@
 # Lighting
 
-Hub: `../Science.md`. Spectrum bands: `Waves.md`. Lasers / laser diodes: `Optics.md`, `../../../Combat/Lasers.md`. Mana-stone lamps (market gap): `../../Tech/Technology.md`. Generators / drivers: `Generators.md`. Perfect light-crystal + flywheel runtimes: `FlywheelApplications.md`.
+Hub: `../Science.md`. Spectrum bands: `Waves.md`. Lasers / laser diodes / cavities / radiance: `Optics.md`, `../../../Combat/Lasers.md`. Mana-stone lamps (market gap): `../../Tech/Technology.md`. Generators / drivers: `Generators.md`. Perfect light-crystal + flywheel runtimes: `FlywheelApplications.md`. Silver reflectors / tarnish: `../Metallurgy/Silver.md`.
 
 Every artificial light works by one of three methods: **heating something until it glows**, **exciting a gas**, or **exciting a solid**.
 
@@ -24,6 +24,12 @@ Every artificial light works by one of three methods: **heating something until 
 A tungsten filament heated to 2,500–3,000 °C glows across a broad spectrum. Most output is infrared. Only **2–5%** becomes visible light (**10–17 lm/W**). Halogen gas redeposits evaporated tungsten onto the filament, allowing a hotter, longer-lasting filament with a small efficiency gain. Color rendering is excellent.
 
 Steampunk fit: glass bulb, vacuum or inert fill, dynamo or mana-stone power. Heat and short life are the walls.
+
+## Limelight (oxyhydrogen on quicklime)
+
+A block of calcium oxide heated by an oxyhydrogen flame to ~2,500°C. Lime melts near 2,600°C, so it glows hard instead of melting. Gurney found the effect; Drummond put it to survey and theater use in the 1820s ("in the limelight"). With reflectors, surveyors sighted over 100 km.
+
+Caldris fit: flame + lime + mirror is period-plausible spotlight / signal gear once gas handling exists. Cavity and collimator math (why a mirrored tube does not make a laser): `Optics.md`.
 
 ## Gas discharge
 
@@ -85,11 +91,41 @@ Silicon cannot make efficient LEDs (indirect band gap → heat). Bright **blue**
 - Beam carries almost no IR; ~half the power still becomes heat at a tiny chip → heat sink required.
 - Fade, not pop: **L70 ~50,000 h** (to 70% output). Cheap bulbs die from heat or driver failure first.
 
+### Structure of a standard 5 mm LED
+
+- Two legs into the plastic dome. One ends in a reflector **cup** (usually cathode); the other in a post.
+- Chip (die) ~0.25 mm sits in the cup on conductive silver epoxy.
+- Gold bond wire ~25 µm from top pad to the post.
+- Clear epoxy or silicone forms the lens.
+
+Current path: anode leg → post → bond wire → top of chip → p-layer → junction → n-layer → silver epoxy / cup → cathode leg. The crystal is the bridge; the wire only touches the top.
+
+**Chip variants:** red/amber on conductive substrates (one wire, current straight down). Blue/white on sapphire (insulating): two top contacts, sideways current, hot-spot risk. High-power often **flip-chip** (solder bumps, no bond wire; better heat).
+
+Wavelength (nm) ≈ 1240 / band gap (eV). Reflector cup redirects side light up. White = blue chip + yellow phosphor (YAG:Ce typical).
+
 ### Drivers and packages
 
-Current rises exponentially with voltage → need controlled current (resistor for indicators; AC→regulated DC driver for lamps). Cheap drivers → 100/120 Hz flicker. Dim via lower current or PWM.
+Current rises exponentially with voltage (diode law). Roughly ×10 current per ~90–120 mV until series resistance bites. Example: 20 mA at 2.0 V may exceed 50 mA at 2.2 V.
+
+**Thermal runaway:** forward voltage falls ~2 mV/°C. Fixed voltage → more current → more heat. Drive by **current**, not voltage.
+
+- Series resistor: R = (V_supply − V_f) / I. Example: (5 − 2) / 0.020 = 150 Ω.
+- Constant-current driver for high-power.
+
+T_junction = T_ambient + (θ_JA × power). Most junctions rated ~125–150°C max. Cheap drivers → 100/120 Hz flicker. Dim via lower current or PWM.
 
 Packages: through-hole indicators; SMD strips/panels; **COB** (many chips, one phosphor); filament-style strips.
+
+### Overload and death
+
+1. **Droop:** high current density → more Auger (non-radiative) recombination; more heat per lumen.
+2. **Slow death:** dislocations grow; phosphor shifts white toward blue; encapsulant yellows; electromigration of contacts. Arrhenius rule of thumb: +10°C halves life. Life often **L70** (hours to 70% output).
+3. **Sudden death:** bond wire melts open; junction shorts; die cracks; encapsulant expands and tears the wire.
+
+**Pulsed:** peak current can far exceed continuous if duty is low and the chip cools between pulses (PWM, IR remotes). Datasheet example class: 20 mA continuous, 100 mA peak at 10% duty / 0.1 ms pulses.
+
+**Other failures:** reverse voltage (~5 V typical limit); ESD (blue/white/UV fragile); **silver sulfidation** of plated cups/frames (sulfur through silicone → black reflector, dim even with healthy chip; rubber, industrial air, hot springs); silver dendrite shorts in humidity under bias (`Silver.md`).
 
 ### Uses beyond room light
 
@@ -114,12 +150,63 @@ Types (Earth): edge-emitting, VCSEL, superluminescent. Wavelengths: telecom 1310
 |---|---|---|
 | Candle / oil | ~0.1–1 | Baseline |
 | Incandescent | 10–17 | Invent / magitech |
+| Limelight | hotspot radiance, not lm/W street | Survey / theater invent |
 | Halogen | slightly above incandescent | Invent |
 | Fluorescent | 60–100 | Late invent |
 | HPS | 100–150 | Late invent |
 | LPS | up to 200 | Late invent (bad CRI) |
 | White LED | 150–200+ | Prestige invent |
 | Mana-stone lamp | narrative; stone economics | Present gap product |
+
+## Energy to keep a light on
+
+Light output is measured in **watts**, and 1 watt equals 1 joule per second. A light running for one hour uses its wattage × 3,600 joules.
+
+For about 800 lumens (the brightness of an old 60 W bulb):
+
+| Source | Power | Joules per hour | Share that becomes visible light |
+|---|---|---|---|
+| Incandescent | 60 W | 216,000 J | ~2 to 3% |
+| Halogen | 43 W | 155,000 J | ~3 to 4% |
+| CFL | 13 to 15 W | ~50,000 J | ~10 to 15% |
+| Typical LED | 8 to 10 W | ~32,000 J | ~30 to 40% |
+| Best lab LEDs | ~3 to 4 W | ~13,000 J | ~50 to 60% |
+
+A candle gives only about 12 lumens yet releases around 80 W of combustion energy. Less than 0.1% of that comes out as visible light.
+
+### Visible light only, no waste heat
+
+The physical ceiling is set by how the human eye responds to light:
+
+- **Pure green light at 555 nm:** 683 lumens per watt. This is the absolute maximum.
+- **White light:** about 250 to 350 lumens per watt, depending on the exact spectrum.
+
+A perfect 800-lumen source with zero waste heat would need:
+
+- **~1.2 W** if pure green (about 4,200 J per hour)
+- **~2.3 to 3.2 W** if white (about 8,000 to 11,500 J per hour)
+
+Modern LEDs are already within a factor of 3 to 4 of this limit.
+
+### Energy per photon
+
+Each photon carries energy E = hc/λ:
+
+- **Red (700 nm):** 2.8 × 10⁻¹⁹ J (1.8 eV)
+- **Green (555 nm):** 3.6 × 10⁻¹⁹ J (2.2 eV)
+- **Violet (400 nm):** 5.0 × 10⁻¹⁹ J (3.1 eV)
+
+One watt of green light is about 2.8 quintillion photons per second. The smallest possible light is a single photon. A light that uses zero energy is impossible because the light itself is the energy.
+
+### The heat catch
+
+Even a perfect source with no waste heat still warms the room. Every joule of light that hits a wall, floor or object is absorbed and turns into heat. The difference is that an ideal source heats nothing at the bulb itself. All of its energy travels outward as light first.
+
+### Distance range
+
+In a vacuum light has no maximum range. Brightness drops with the square of the distance, so twice as far means one quarter as bright. In air, dust and moisture scatter and absorb it further.
+
+Mana / stone lamps still pay joules (or mana) for every lumen-hour. Perfect white at 800 lm is still ~8–11.5 kJ/h of light energy that ends up as room heat.
 
 ## Open
 

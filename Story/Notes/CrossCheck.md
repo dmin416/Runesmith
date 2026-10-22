@@ -17,11 +17,14 @@ Update these together when a chapter changes his sheet. Keep history by chapter.
 | Change in chapter | Update |
 |---|---|
 | Status / HP MP SP / attributes / class / effects / affinities / rank | `Status.md` |
+| Ch 1–23 time + sheet + skill deltas (spine; quiet room via `Chapter23QuietRoom.md`) | `ChapterLedger.md`, `Attributes.md`, `Timeline.md` |
 | Attribute bucket math (Body / Class / Skills-Traits) | `StatusBreakdown.md` |
 | Skills, traits, titles (Passive, Active, Spell, Class bonuses, trait cards) | `Skills.md` |
 | Gear / carried items / Identify item blocks / pouch snapshot | `Items.md` |
 | Consumable item types (healing potions, etc.) | `References/Items/Items.md` |
-| Kill XP, bars, level-ups, kill totals, grind ledgers (coin tied to kills) | `Experience.md` |
+| Kill XP, craft / schematic XP, skill-rank overall XP (~100/rank), bars, level-ups, kill totals, grind ledgers (coin tied to kills) | `Experience.md` (record **everything**; soft until locked) |
+| Pouch / auction / scroll-sale coin path (early + Edelgard + Match rates) | `CoinLedger.md`, `StoryPrices.md`, `Chapter23QuietRoom.md` (quiet-room mark) |
+| Ch 21.5–23 spine deltas (time / sheet / coin / Ned) | `ChapterLedger.md` |
 | First-clear skill index / Source delay list | `Roland's Skills.md`, `Early Logical Skills.md` |
 | Rewrite intent, plot beats, companion type, formatting rules | `Notes.md` |
 | Ned companion level / form / attributes / skills by chapter | `NedStatus.md` |
@@ -42,19 +45,19 @@ Also update the matching reference when a named thing is new, renamed or its des
 | Spells | `References/Combat/Spells.md` |
 | Classes (all named) | `References/Progression/Classes.md` |
 | Roland’s classes | `References/Progression/RolandClasses.md` |
-| Class / skill levels, XP, packages, skill attribute bonuses | `References/Progression/Levels.md` |
-| Coin peg, wages, prices, ledgers | `References/World/Economy.md` |
+| Class / skill levels, XP, packages, skill attribute bonuses | `RaceMult.md`, `ExperienceCurve.md`, `SkillRanks.md`, `ClassPackages.md` (hub `Progression.md`) |
+| Coin peg, wages, prices, ledgers | `References/World/Society/Economy/Economy.md` |
 | Food / meal flavor anchors | `References/Food/` (`Food.md`, `EssentialIngredients.md`, `EssentialFlavorings.md`) |
-| Places (inns, towns, shops) | `References/World/Places.md` |
-| Dungeon layouts / floor patterns | `References/World/DungeonDesign.md` |
+| Places (inns, towns, shops) | `References/World/Geography/Places.md` |
+| Dungeon layouts / floor patterns | `References/World/Geography/DungeonDesign.md` |
 | Adventurer ranks | `References/Progression/AdventurerRanks.md` |
 | Family / house people | `References/People/Family.md` |
 | Runes / schematics | `References/Runes/Runes.md` |
-| Science / Earth tech anchors | `References/Science/Science.md` |
+| Science / Earth tech anchors | `References/World/Science/Science.md` |
 | Attack / shield joule scale (physical STR·AGI tips, Mana Shield pools, Ch 14 lock) | `References/Combat/AttackScale.md` |
 | Weapons / blade loadout design | `References/Combat/Weapons.md` |
 | Races, creatures, mounts, encounters | `References/World/` (`Races.md`, `Creatures.md`, `Mounts.md`, `Encounters.md`) |
-| Technology / era baseline | `References/World/Technology.md` |
+| Technology / era baseline | `References/World/Tech/Technology.md` |
 | People (family, Ned design) | `References/People/` |
 | Potential magic rungs | `References/PotentialMagic/PotentialMagic.md` |
 | Ideas scratch | `References/Ideas.md` |
@@ -74,12 +77,12 @@ Displayed = Body + Class levels + Skills/Traits (+ Other if needed)
 
 ## XP / coin quick rules
 
-- Kill XP: `50 × killed_L × RaceMult` (`Progression.md` / `Levels.md`). Goblin **1.0**; rat **0.2**; worm **0.5**; moth **2.0**; spiked boar **1.5**; wereboar **2.0**; people **1.0**. Ch 14 L55 pool **2750** / Roland **479**.
+- Kill XP: `50 × killed_L × RaceMult` (`Progression.md` / `RaceMult.md`). Goblin **1.0**; rat **0.2**; worm **0.5**; moth **2.0**; spiked boar **1.5**; wereboar **2.0**; people **1.0**. Ch 14 L55 pool **2750** / Roland **479**.
 - Class bar: `XP_to_next(L) = 500 × L`.
-- People danger ≠ sheet alone: stats × skills × gear × tactics (`Levels.md`). Companions take kill XP without eating the corpse.
+- People danger ≠ sheet alone: stats × skills × gear × tactics (`RaceMult.md`). Companions take kill XP without eating the corpse.
 - Pre-class bank: half penalty, **one-time** on first ascension only (`Experience.md`).
 - Skill / spell rank XP can fill a bar but must not silently cut a locked kill count.
-- Pouch math: update `Experience.md` (grind ledgers), `Items.md` (kit / stones), `Status.md` (chapter coin lines), `Economy.md` / `Places.md` when a quoted price changes.
+- Pouch math: update `Experience.md` (grind ledgers), `Items.md` (kit / stones), `Status.md` (chapter coin lines), `Society/Economy/Economy.md` / `Geography/Places.md` when a quoted price changes.
 
 ## Common traps
 
@@ -106,9 +109,9 @@ Displayed = Body + Class levels + Skills/Traits (+ Other if needed)
 
 ## Open checks (Ch 1–19 rewrite pass)
 
-Synced for the live Ch 1–19 rewrite: estate doubles → Ch 9 L3→L4, Ch 9.5 kill/coin/stone ledger (**1,000** / end **3,595 LC** / **218** rice + **8** leader), Ch 10 nest (**+7** / **220** rice + **8** leader / pouch **3,630 LC**), rewrite L20 inn sheet, Ch 11 first dungeon day + trial weeks (Spiked Boar **L8** RaceMult **1.5**; day **456** XP; bar **~8,540/10k** / pouch **~4,413 LC**), Ch 12 Iron Flagon (**−45** → **~4,368 LC**; **12** worms **+1,272** → bar **~9,812/10k**; **Basic Taming** pet scarf), Ch 13 half-year Floor-3 (**342** kills / kill **40,776** + skill **4,608** → Mage L25 / pouch **~5,977 LC**; rewrite sheet Str **49** / Agi **63** / Int **137** / MP **2292** / SP **866**; **Basic Dodging → Dodging L6**), Ch 14 watcher (**+479** / Dodging **L7** / Ned **25→26**), Ch 15 cremation + Detonation [Highest] (**+1000 XP** / **Runic Scholar**; bank **1479**; Enchanter path affinity-gated), Ch 16 **Runic Mana Scribe** (five-region Fire Orb trial; mana-hand blunder; Ned silk; **full bank 1479 / 13000**), Ch 17 **L26** / Scribe **L1** (Ned wake; shield-muffled rapier; shows **Edelgard**; letters to father/Martha), Ch 18 Impact [Highest] + Drawing L1 (**+1000**; bar **2479 / 13000**); Bronze→Steel; parting bag; hugs farewell / train to Edelgard, Ch 19 train week (Sound/Echo **L9**; grill slate; Fire Orb High→Highest **+1000** → bar **3479 / 13000**; Solaria **1 SS**; end wallet **15,934 LC**), Absorption/Reinforcement self-taught, Scribe spelling, Ch 9.5 destination = research only, Ch 10 picks **Edelgard**. Narrative threat: `MonsterThreat.md`.
+Synced for the live Ch 1–19 rewrite: estate doubles → Ch 9 L3→L4, Ch 9.5 kill/coin/stone ledger (**1,000** / end **3,595 LC** / **218** rice + **8** leader), Ch 10 nest (**+7** / **220** rice + **8** leader / pouch **3,630 LC**), rewrite L20 inn sheet (spells Bolt **L5** / Arrow **L4** / Shield **L3** / Heat **L5** / Hands **L5**; **no skill evolves**; Abs/Reinf **L9**), Ch 11 first dungeon day + trial weeks (Spiked Boar **L8** RaceMult **1.5**; day **456** XP; bar **~8,540/10k** / pouch **~4,413 LC**), Ch 12 Iron Flagon (**−45** → **~4,368 LC**; **12** worms **+1,272** → bar **~9,812/10k**; **Basic Taming** pet scarf), Ch 13 **half year with girls** after **3 mo** goblins (**342** kills / kill **40,776** + skill **4,608** → Mage L25 / pouch **~5,977 LC**; leave age **11** / **6y**; live sheet Str **49** / Agi **63** / Int **137** / MP **2292** / SP **956**; **Basic Dodging L6**), Ch 14 watcher (**+479** / **Basic Dodging L7** / Ned **25→26**), Ch 15 cremation + Detonation [Highest] (**+1000 XP** / **Runic Scholar**; bank **1479**; Enchanter path affinity-gated), Ch 16 **Runic Mana Scribe** (four-region Fire Orb trial; mana-hand blunder; Ned silk; **full bank 1479 / 13000**), Ch 17 **L26** / Scribe **L1** (Ned wake; shield-muffled rapier; shows **Edelgard**; letters to father/Martha; wallet **5,977 → +5 SG → ~10,977 → ~11,641** personal), Ch 18 Impact [Highest] + Drawing L1 (**+1000**; bar **2479 / 13000**); Bronze→Steel; parting **+10 SG** → enter Ch 19 **21,641 LC**; hugs farewell / train to Edelgard, Ch 19 train week (Sound/Echo **L7**; Suffocation **L5** hypoxia+blood; **no** Breath Control; Sleep **L5→L6** ignored **4 h**/day of **8 h**; Sharp **L4**; grill slate; skill **+3800** + Fire Orb High→Highest **+1000** → bar **7279 / 13000**; Solaria **1 SS**; end wallet **21,598 LC**), Absorption/Reinforcement self-taught, Scribe spelling, Ch 9.5 destination = research only, Ch 10 picks **Edelgard**. Narrative threat: `MonsterThreat.md`.
 
-**Post–Ch 13 status:** every chapter through **80** now has a rewrite line or full Live+Rewrite sheet in `Status.md`. Full-sheet rewrite checkpoints: Ch **17 / 23 / 27 / 34 / 47 / 62 / 68 / 77** (`StatusBreakdown.md` delta table). Method: Ch 13 rewrite baseline + Source growth deltas; Luck seed **7**; Mage secondary mana bonuses kept. Ch 17–18 rewrite sheets stay **L27** / Scribe **L1** (Drawing Dex **+10** into Ch 18); later checkpoints still need re-audit when those chapters rewrite.
+**Post–Ch 13 status:** every chapter through **80** now has a rewrite line or full Live+Rewrite sheet in `Status.md`. Full-sheet rewrite checkpoints: Ch **17 / 23 / 27 / 34 / 47 / 62 / 68 / 77** (`StatusBreakdown.md` delta table). Method: Ch 13 rewrite baseline + Source growth deltas; Luck seed **7**; Mage secondary mana recovery kept; Blacksmith / Runic Blacksmith card = fire resistance + stamina recovery. Ch 17–18 rewrite sheets stay **L27** / Scribe **L1** (Drawing Dex **+10** into Ch 18); later checkpoints still need re-audit when those chapters rewrite.
 
 Still needs attention when touching these beats:
 
@@ -118,19 +121,24 @@ Still needs attention when touching these beats:
 | Ch 19+ party / dungeon notes | Notes 20–80 | Written to Source plot. Re-audit when those chapters are rewritten. |
 | Ch 11 day haul lock | `Experience.md`, `Economy.md`, `Items.md`, `Notes.md` | Prose says “more” boars; lock stays **4** / **2** stones / **+128 LC** unless chapter names a count. |
 | Ch 12 drink / worm ledger | `Experience.md`, `Items.md`, `Notes.md`, `Skills.md` | First round **45 LC**; pocket **12** worms **+1,272 XP**; bar **~9,812/10k**; pet worm kept; Hands ≥**L7**. |
-| Ch 13 half-year Floor-3 | `Experience.md`, `Items.md`, `Skills.md`, `Status.md`, `StatusBreakdown.md`, `Economy.md` | **342** kills; kill **40,776** + skill **4,608** → L25; haul **+5,857**; pouch **~5,977 LC**; Wereboar mats **156**. Rewrite sheet Str **49** / Agi **63** / Int **137** / MP **2292** / SP **866**; **Basic Dodging → Dodging L6**. |
-| Ch 14 watcher / Ned evo | `Notes.md`, `NedStatus.md`, `Ned.md`, `Levels.md`, `Encounters.md` | Fencer **L55** / girls **~45**; people XP **`50 × L`**; pool **2750** / Roland **479**; Ned **25→26** **Greater Needle Worm** **4x**. |
-| Ch 19 train / Ned / Edelgard | `Skills.md`, `NedStatus.md`, `Ned.md`, `Notes.md`, `Status.md`, `Items.md`, `Places.md` | Sound/Echo **L9**; Multitask **L8**; grill Heat/Cold **L6**; Pain **L8**; Recovery **L9**; Poison **L7**. Ned Spike/Stealth/Climb **L7**; Seal **L9**; Pain **L8**; Heat/Cold **L6** (shared Trauma lock; on-page scarf near-miss). Solaria tip **1 SS**; map **19 LC**; Crow **14 LC**; end wallet **15,934 LC**. |
-| Ch 19 Fire Orb schematic | `Notes.md`, `Items.md`, `Experience.md`, `Skills.md`, `Status.md`, `Levels.md` | Memory: **[High] +600** (uneven) then thin-sheet **[Highest] +400** (total **1000**); lesser quality ladder **100/200/400/600/1000**; bar **3479 / 13000**; Source one-shot Highest discarded. |
-| Writing tools / pencil invent | `WritingTools.md`, `Places.md`, `Ideas.md`, `Ned.md`, `Notes.md` Ch 19–20 | Terra: soft metal, chalk, quills, rare fountain pens. **No** common pencil; **no** Edelgard lump graphite. Roland synthesizes graphite; Ned toxin-free spike; invents pencil then pen after metalwork. Source Ch 20 “buys pencil” dropped (prose still has Source buys at Ch 20/22/26 until rewritten). |
-| Paper / hide surfaces | `Paper.md`, `Economy.md` §17, `WritingTools.md`, `Technology.md` | Craftsman economy. Lock vs early pegs / **Ch 19 only**. Lowest magical hide **2–6 LC** (~**4–5** typ) undercuts paper **5–12**. Magical paper **20–60**. Mundane parchment **25–80** / finest **60–250**. Source Ch 20 blank≈scroll prices discarded; retune when writing Ch 20+. |
-| Ch 14 ambush | `Skills.md`, `Status.md`, `Notes.md` | **Dodging L6→L7** mid-chase; Agi **64** / SP **869**. |
+| Ch 13 half-year Floor-3 | `Experience.md`, `Items.md`, `Skills.md`, `Status.md`, `StatusBreakdown.md`, `Timeline.md`, `Economy.md` | Carwen lock: **3 mo** goblins + **half year** with girls = **9 mo** total; leave age **11** / world **6y**. **342** kills; kill **40,776** + skill **4,608** → L25; haul **+5,857**; pouch **~5,977 LC**; Wereboar mats **156**. Live sheet Str **49** / Agi **63** / Int **137** / MP **2292** / SP **956**; **Basic Dodging L6**. No skill-name evolves. |
+| Ch 11–12 pouch / trial XP | `Items.md`, `Notes.md`, `Status.md`, `Experience.md` | Pouch **3,630 → 3,758 → ~4,413 → ~4,368**. Trial kill **+2,184** + Hands **~100** → bar **~8,540/10k**. Incantation stays **L6**. |
+| Ch 14 watcher / Ned evo | `Notes.md`, `NedStatus.md`, `Ned.md`, `RaceMult.md`, `Encounters.md` | Fencer **L55** / girls **~45**; people XP **`50 × L`**; pool **2750** / Roland **479**; Ned **25→26** **Greater Needle Worm** **4x**. |
+| Ch 19 train / Ned / Edelgard | `Skills.md`, `NedStatus.md`, `Ned.md`, `Notes.md`, `Status.md`, `Items.md`, `Places.md`, `Experience.md` | Sound/Echo **L7**; Multitask **L5**; Suffocation **L6** (hypoxia **15 s** + blood **~50 mL**; **no** Breath Control); Sleep **L5→L6** (ignored **4 h**/day of **8 h** T0 → ~**6,720** uses); Sharp **L4**; heat-only grill Heat/Pain **L5**; Cold **L3** (cold night sleep only; `ColdNightSleep.md`); Recovery **L5**; Poison **L6**. Skill XP **+3500** + Fire Orb **+1000** → bar **6979 / 13000**. Ned Spike/Stealth/Climb **L7**; Seal/Pain/Heat **L5**; **no Ned Cold**. Solaria tip **1 SS**; map **19 LC**; Crow **14 LC**; enter wallet **21,641 LC**; end **21,598 LC**. |
+| Estate wound tracks (notes) | `EstateWoundGrind.md`, `CarwenArrive.md`, `Skills.md`, `Roland's Skills.md` | Leave: Pain **L3** / Blunt **L4** / Sharp **L2** / Recovery **L3** (blunt ≫ sharp). Ch 9.5 → Blunt **L5**, Pain/Recovery **L4**, Sharp **L2–L3**. Ch 13 → Recovery **L5**, Sharp **L3**. Chapters may still print later first-gains until retouched. |
+| Ch 19 Fire Orb schematic | `Notes.md`, `Items.md`, `Experience.md`, `Skills.md`, `Status.md`, `ExperienceCurve.md` | Memory: **[High] +600** (uneven) then thin-sheet **[Highest] +400** (total **1000**); lesser quality ladder **100/200/400/600/1000**; train skill **+3500** + schematic **+1000** → bar **6979 / 13000**; Source one-shot Highest discarded. |
+| Writing tools / pencil invent | `References/World/Science/Invent/WritingTools.md`, `Geography/Places.md`, `Ideas.md`, `Ned.md`, `Notes.md` Ch 19–20 | Terra: soft metal, chalk, quills, rare fountain pens. **No** common pencil; **no** Edelgard lump graphite. Ch 20 rewrite: looks for pencil, finds quills/paper; ignores expensive fountain pens. Invents pencil later (synthetic graphite + Ned toxin-free spike), then pen after metalwork. |
+| Paper / hide surfaces | `Paper.md`, `Society/Economy/Economy.md` §17, `Invent/WritingTools.md`, `Tech/Technology.md` | Craftsman economy. Ch 20 blanks **5 LC** each (×10 = **5 SS**); ~**A4**; magic paper scarce in region. Magical paper **20–60**. Mundane parchment dearer. Source blank≈scroll trap discarded. |
+| Ch 14 ambush | `Skills.md`, `Status.md`, `Notes.md` | **Basic Dodging L6→L7** mid-chase; Agi **64** / SP **959**. |
+| Wallet path Ch 13→19 | `Experience.md`, `Items.md`, `Status.md`, `Notes.md` | **5,977** → **+5 SG** → **10,977** → **+~664** → **11,641** → **+10 SG** → enter **21,641** → tip/map/Crow → **21,598**. |
 | Ch 15 cremation / schematic | `Notes.md`, `Items.md`, `Experience.md`, `Skills.md`, `Weapons.md` | Body burn **1000 MP**; tip **125 MP**; hold-lock insert; Detonation [Highest] **+1000**; bank **1479**; Enchanter affinity dead-end. |
-| Ch 16 Fire Orb trial | `Notes.md`, `Skills.md`, `Items.md`, `RuneCraftScrapes.md`, `Runes.md`, `RuneSystem.md` | Five-region linear chain; temp skills after book; mana-hand cascade ~**1/4 MP**; success fist orb; Ned silk; no binary / max-size hard rule on-page. |
+| Ch 16 Fire Orb trial | `Notes.md`, `Skills.md`, `Items.md`, `RuneCraftScrapes.md`, `Runes.md`, `RuneSystem.md` | Four-region linear chain (no velocity); temp skills after book; mana-hand cascade ~**1/4 MP**; success fist orb; Ned silk; no binary / max-size hard rule on-page. |
 | Ch 17 leave / L26 sheet | `Notes.md`, `Items.md`, `Status.md`, `Family.md`, `Encounters.md` | Ned wake; shield-muffled rapier (**2096/2309**); shows **Edelgard**; letters to father/Martha; loot **>20 SG** / girls **+5**; hammer ask. |
 | Ch 18 Impact / farewell | `Notes.md`, `Items.md`, `Experience.md`, `Skills.md`, `AdventurerRanks.md` | Impact [Highest] + Drawing L1; bar **2479 / 13000**; Bronze→Steel; parting bag; hugs; component fantasies. |
-| Mana Bolt joule / Int curve | `References/Science/ManaCast.md`, chapter fight beats | Keep formula and on-page damage language aligned when editing fights. |
-| Meal / lodging quotes | `References/World/Society/Economy.md`, PlacesDesign, Ch 9 Notes | Meal **5 LC**; lodging **1 SS**/night + **5 LC** breakfast; monthly ~**10%** on **30** nights → **270 LC**. Year = **12×30 + New Year's Day** (**361**). |
+| Ch 21.5 desk exit / Ch 22 Libra / Ch 23 early | `Notes.md`, `Skills.md`, `Status.md`, `Items.md`, `Chapter21_5Exit.md`, `FrictionGrill.md`, `ColdNightSleep.md`, `ScrollEconomy.md`, `StoryPrices.md`, `PlacesDesign.md`, `Outline.md` | Exit RS / Tech **L8**, Mastery **L5** (~**2,910** rejects + lighters), Understanding **L3**, MT **L7**, Sleep **L7**, Hunger/Pain **L6**, Heat Res **L5** (~**3.3k–4k**→L6), Heat spell **L6** (~**5.1k**), Cold **L4** (night sleep), Suffocation **L6**, Recovery **L5** (~**2.5k–4k**→L6), Fabrication **L8**, Taming **L3** soft, Sound/Echo **L8** soft, wallet **1 SS**. Exit sheet wins over DaySkillYear sim. Ch 22: Percival **~7–8 LS**; Identify Ned / rune-visible scrolls / water-ball wrap; open **32 LS**; hammers **42** + **46** → gross **8 SG 8 LS**; Ch 23 net **6 SG 6 LS** (wallet **6 SG 6 LS 1 SS**); morning bells; blanks/paper restock + homemade ink; SP-fill when MP low; keep MP near-full; desk side grind + **+2 months intense grill** → Percival return stack **fifteen** all **Highest** (sell line Highest-only). |
+| Desk side / Cold nights package | `FrictionGrill.md`, `ColdNightSleep.md`, `Skills.md` Ch 19–23, `Roland's Skills.md`, `Outline.md` | No frost grill. Cold = cold night sleep (Carwen winter/early spring → train **L3**; Edelgard autumn–winter → desk **L4**). Spare mana: friction Heat/Heat Res/Pain/Blunt-Sharp, Suffocation, Recovery knits, Fabrication, Taming via Ned. Heat-only train denser + longer holds → Suffocation **L6**. |
+| Mana Bolt joule / Int curve | `References/World/Science/Energy/ManaCast.md`, chapter fight beats | Keep formula and on-page damage language aligned when editing fights. |
+| Meal / lodging quotes | `References/World/Society/Economy/Economy.md`, PlacesDesign, Ch 9 Notes | Meal **5 LC**; lodging **1 SS**/night + **5 LC** breakfast; monthly ~**10%** on **30** nights → **270 LC**. Year = **12×30 + New Year's Day** (**361**). |
 | Goblin Hunter title | `Skills.md` / `Status.md` Ch 9.5–10 | Past **1000** kills into the skip; card text matches chapter. |
 | Ch 10 nest ledger | `Experience.md`, `Items.md`, `Status.md`, `Notes.md` | **+7** kills → **1,095**; pouch **3,630 LC**; stones **220** rice + **8** leader. |
 | Source delay skills | `Roland's Skills.md`, `Early Logical Skills.md` | Absorption/Reinforcement already owned in rewrite; Heat/Hands self-taught Ch 9.5; later book chapters = rank practice only. |

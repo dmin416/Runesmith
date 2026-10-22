@@ -1,6 +1,6 @@
 # Spells
 
-> **Design loot / named catalog.** Magic foundation: `../Runes/Magic.md`. Cast physics: `../World/Science/Energy/ManaCast.md`. Path law: `../Runes/Energy.md`. Hands timing vs physicalists: `MageDefense.md`.
+> **Design loot / named catalog.** Magic foundation: `../Runes/Magic.md`. Cast physics: `../World/Science/Energy/ManaCast.md`. Path law: `../Runes/Energy.md`. Physics-priced kinetic catalog (ideas): `KineticSpellList.md`. Hands timing vs physicalists: `MageDefense.md`.
 
 Named magic and commonly referenced spell effects. Runic scroll versions are noted when the text treats them as spells.
 
@@ -10,7 +10,9 @@ Named magic and commonly referenced spell effects. Runic scroll versions are not
 First seen: Chapter 5
 Focused mana projectile; early core mage spell. Tutorial clone demonstrates chant + palm form before the skill dump. Damage scales with Intelligence. Chapter 7–9 field use: egg-sized bolt after a full chant (*Source of all magic, heed my call!* / *Gather before me and strike down my enemies, Mana Bolt!* or shortened closing *Mana Bolt!*). Fine vs eyes and other weak spots; not rapid-fire. **Must chant while shaping**; shaping alone evaporates. Whisper chant works but lowers power. Panting or running collapses the cast. Aim can track with Dexterity / prior FPS habit. Chapter 27: lesser elemental grafts (same research track as Mana Arrow). Chapter 37: inscribed on bronze paddle wands (~75 MP per cast through the item).
 
-**Cast law (rewrite physics):** `Useful = mana × 10 × η(L) × μ(INT) × A` with `η(1)=0.3`, `η(L)=1+(L-2)×2/7` for L2–L9 (L2=1.0 … L9=3.0), `μ=(INT/15)^0.8`, and ambient `A = √C` (open ground **A = 1**). Voice sets mana: Mental **10**, Whisper **15**, Quiet **20**, Normal **25**, Loud **40**, Very loud **50**. **Overcharging a spell is equal to the mana used.** **1 mana ≈ 10 J** paid. Goblin skull/eye clear on L1 normal from mid INT; hardness and aim still gate armor. Full tables: `../World/Science/Energy/ManaCast.md`.
+**Runic read (Ch 21.5 Notes):** same shaping as Orb; kinetic difference is **small-mana compression** (Orb = soft restraint). Even the system-identified spell has **no detect-contact rune**; the pop is the compression constraint coming undone on anything denser than air (straw ball undone by a hard hit). Component ratios dominate processing; forced ratio tweaks barely work; whole-diagram shrink lowers in/out; upsizing compression alone tends to implode. `BasicSpellShapes.md`, `../Runes/RuneCauseEffect.md`.
+
+**Cast law:** `../Runes/Energy.md`. Voice mana steps and the bolt tables are in `../World/Science/Energy/ManaCast.md`. Explosive-compression pricing idea: `KineticSpellList.md`. Goblin skull/eye clear on L1 normal from mid INT; hardness and aim still gate armor.
 
 ### Mana Arrow
 First seen: Chapter 10
@@ -18,7 +20,7 @@ Faster, more penetrating mana projectile than Mana Bolt. Costs more mana and nee
 
 **Locked chant:** *Source of all magic, heed my call. Gather before me and form an arrow to pierce through my enemies. Mana Arrow.* Short fight close: *Mana Arrow!*
 
-**Rewrite physics:** pure kinetic (no pop), 4 mm × 400 mm, 40 g. Same cast law as Mana Bolt at **2× voice mana** (Mental **20**, Whisper **30**, Quiet **40**, Normal **50**, Loud **80**, Very loud **100**). Overcharge = mana used. Punch `1.5 × R × A × t` (A = 0.1257 cm²). Hardness gate `H ≥ 1.5 R` before joules count: INT 40 clears mail, not brigandine/iron/steel. Hidden razor vanes slice on through-shots only. Full tables: `../World/Science/Energy/ManaCast.md` (Mana Arrow).
+**Rewrite physics:** pure kinetic. Size, mass, voice mana steps, and the hardness gate are in `../World/Science/Energy/ManaCast.md`. Cast law: `../Runes/Energy.md`.
 
 ### Magic Bolt
 First seen: Chapter 9
@@ -30,9 +32,9 @@ Guided or homing mana arrow variants.
 
 ### Mana Shield
 First seen: Chapter 10
-Mana barrier for caster or allies. One of Mage’s three basic class spells with Bolt and Arrow. Chapter 11 party cast on Sahildr vs a spiked boar: *Source of all magic, heed my call. Let your strength be mine and protect which I deem worthy.* / *Mana Shield!* Blue bubble forms then shrinks to a **hard disk** over the target’s front (Source: bubble aid only). Chapter 14: extra mana poured into the bubble around Reyna vs a T2 fencer thrust; still pierced but bought the parry. Chapter 27: can reshape lesser shield into a tight earth wall (and other elemental variants) via surface rune edits.
+Mana barrier for caster or allies. One of Mage’s three basic class spells with Bolt and Arrow. Chapter 11 party cast on Sahildr vs a spiked boar: *Source of all magic, heed my call. Let your strength be mine and protect which I deem worthy.* / *Mana Shield!* Blue bubble forms then shrinks to a **hard disk** over the target’s front at a default **45°** face (Source: bubble aid only). Chapter 14: extra mana poured into the bubble around Reyna vs a T2 fencer thrust; still pierced but bought the parry. Chapter 27: can reshape lesser shield into a tight earth wall (and other elemental variants) via surface rune edits; door-sized wall faces use shape ~0.18 (bubble band).
 
-**Rewrite physics:** `N = floor(20 × M × η × μ × S × R × A / J)` with shared η/μ and ambient `A = √C` (open ground **A = 1**). **Baseline M = 100.** Focused disk area = 0.2 m² (S = 1, R = 1); semicircle area = 6.28 m² (S ≈ 0.178, R = 1 - 0.628 t / M). Threat J table and hit counts: `../World/Science/Energy/ManaCast.md` (Mana Shield).
+**Rewrite physics:** disk area, hit counts, and the shield formula are in `../World/Science/Energy/ManaCast.md`. Master consolidator (grip, hold drain, threat tables): `../World/Science/Energy/ManaShield.md`. Cast law: `../Runes/Energy.md`. Fight map: `AttackScale.md`.
 
 ### Lesser Shield
 First seen: Chapter 167
@@ -40,7 +42,10 @@ Lower-tier shield spell.
 
 ### Mana Hands / Mana Hand / Mage Hand
 First seen: Chapter 10
-Move objects with mana (lift, fetch, hold, shove). Visible hands are optional; the name stuck. Weight and range scale with Intelligence. Self-discovered early (not a free class grant). Mage Hand is the common cast name later. Lift / throw / hold energy tables: `../World/Science/Energy/ManaCast.md` (Mana Hands). Mind-speed blade redirects vs a faster stronger attacker: `MageDefense.md`. Chapter 12 dungeon cook: eight concurrent Hands over skewers; ranks up on-page (unnoticed) and unlocks **Multitasking**.
+Move objects with mana (lift, fetch, hold, shove). Visible hands are optional; the name stuck. Self-discovered early (not a free class grant). Mage Hand is the common cast name later. Chapter 12 dungeon cook: eight concurrent Hands over skewers; ranks up on-page (unnoticed) and unlocks **Multitasking**. Mind-speed blade redirects: `MageDefense.md`.
+
+**Canon lock (forms, \(R\), uses, times, evolve):** `../Progression/ManaHands.md`.  
+**Joule work table:** `../World/Science/Energy/ManaCast.md` § Mana Hands.
 
 ### Lesser Mana Burst
 First seen: Chapter 437
@@ -78,19 +83,26 @@ Chanted large fire storm.
 
 ### Fire Arrow / Firebolt Arrow
 First seen: Chapter 20 (shop scrolls)
-Tier 2 fire projectile. Regular shop scroll Intermediate **6 small silver** (not much stronger than Mana Arrow; power depends on maker and materials). Runic Fire Arrow dusty shelf at Grimboodle costs **2 large silver** (~3× vanity list; fair High **10 SS**) because a Runesmith must produce it.
+Tier 2 fire projectile. Shop and runic prices, including Grimboodle's dusty shelf and fair High: `../Runes/ScrollEconomy.md` and `../World/Society/Economy/PriceCatalog.md`. Word craft: full cast × Mana Scribing S; power designed; T2 elemental Mage (`../Runes/MagicScrollMaking.md`). A Runesmith has to produce the runic form.
 
 ### Fireball
 First seen: Chapter 20 (shop talk)
-Stronger fire AOE scroll; shop talk **≈1 large silver**.
+Stronger fire AOE scroll; shop talk **≈3 large silvers**; fair Intermediate **3 LS 2 SS**. Word craft: cast **400** (Ball rung) → L0 pay **400** / L9 **40**; power designed; shape Ball (`BasicSpellShapes.md`, `KineticSpellList.md`). `../Runes/MagicScrollMaking.md`. Not the same as Fire Orb.
+
+### Fire Orb / Runic Fire Orb
+First seen: Chapter 16 (Runic Mana Scribe trial); schematic Chapter 19
+**Orb** family: a soft fire-filled sphere, bigger than a Bolt, practically useless as a weapon (no kinetic / compression). Designed cast **25**; craft XP **25**; Highest runic activation **25** (`BasicSpellShapes.md`, `../Runes/MagicScrollMaking.md`). Trial four-stage chain; Rank lessers. Do not price as Ball / Fireball **400**.
+
+### Match Rune (micro Fire Orb lighter)
+Ch 23 volume product after quiet room (desk already burned tiny Fire Orb lighter scraps). Same Fire Orb chain, whole diagram shrunk onto a **pea-sized** paper scrap. Ink: **one drop** of blood drawn with Mana Hand (his / Ned mix as usual homemade). **Highest** only. **Empty** (absorbing): buyer pays designed **5** on use (brief mostly-fire bead to light tinder, candle, stove, pipe; not a weapon). One-shot: scrap burns. Fluent make wall **~1 min** each (known Orb, pea footprint; Hands pen/press; no fill). Each burn counts **1** Basic Rune Mastery activation. Sell to market ceiling: Edelgard hold **~2,500 / week** (`../Runes/ScrollEconomy.md`). Price: `../Runes/ScrollEconomy.md` / `StoryPrices.md`.
 
 ### Runic Fire Arrow
 First seen: Chapter 20 (Grimboodle shelf); Roland's product Chapter 22
-Runic scroll form of a fire arrow. User can feed extra mana to amplify output (rank-capped). Chapter 22 Libra: Common grade; High ≈ up to **10 SS**; Highest about **12–15 SS** (near a grade jump / half-step toward Greater). Roland's first auction: ten scrolls (8 High + 2 Highest), comet logo, two boxes of five → 4L+5S and 4L+7S. Perfect schematic from a shop sample pays **2×** lesser schematic XP. Common scribing is much harder than lesser and drains mana hard (zero MP → headache/pass out + next-day regen debuff). Chapter 23: Low/Lowest rejects bound as a scrap grimoire; pages crumble on cast; no chant; used to grind Rune Mastery on mountain goblins.
+Runic scroll form of a fire arrow. User can feed extra mana to amplify output (rank-capped). Prices and the first Libra auction totals: `../Runes/ScrollEconomy.md`. A perfect schematic from a shop sample pays **2×** lesser schematic XP (`../Progression/Progression.md`). Common scribing is much harder than lesser and drains mana hard (zero MP → headache/pass out + next-day regen debuff). Chapter 23: Low/Lowest rejects bound as a scrap grimoire; pages crumble on cast; no chant; used to grind Rune Mastery on mountain goblins.
 
 ### Runic Orb of Light
 First seen: Chapter 20
-Cheap end of Grimboodle's dusty runic shelf (≥1 large silver). Utility light. Chapter 25: Roland tries to buy a sample for schematic research.
+Cheap end of Grimboodle's dusty runic shelf (≥1 large silver). Utility light on the **Orb** rung (same soft-sphere job as Fire Orb; light converter). Designed cast **25**. Chapter 25: Roland tries to buy a sample for schematic research.
 
 ### Runic Aqua Ball
 First seen: Chapter 20
@@ -188,7 +200,7 @@ Help retain or recover memories (trial or support context).
 
 ### Gale Step
 First seen: Chapter 14
-Wind-assisted movement skill (Arden watcher / T2 fencer). Feet glow green; body blurs; hard to read and much faster. Costs **stamina only** (physical class skill activation). Spamming burns a fresh physical T2 out. Nearly kills Reyna until Roland's Mana Shield intervenes. Detonation tip on the rapier is a separate weapon enchantment.
+Stamina movement skill. Card: `../Progression/SkillsDesign.md`. The Arden watcher's Gale Step nearly kills Reyna until Roland's Mana Shield intervenes.
 
 ### Levitation / Flotation / Floatation
 First seen: Chapter 262

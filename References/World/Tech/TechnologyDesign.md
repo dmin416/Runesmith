@@ -1,6 +1,6 @@
 # Technology Design
 
-> **Design loot.** Lean lock: `Technology.md`. Coin math: `../Society/Economy.md`. Rail / airships: `../Geography/Places.md`. Draft beasts: `../Fauna/Mounts.md`. Skills: `../../Progression/`.
+> **Design loot.** Lean lock: `Technology.md`. Coin math: `../Society/Economy/Economy.md`. Rail / airships: `../Geography/Places.md`. Draft beasts: `../Fauna/Mounts.md`. Skills: `../../Progression/`.
 
 ## Baseline read
 
@@ -35,20 +35,20 @@ Already on-page or locked in references:
 | Item | Where |
 |---|---|
 | Mana-stone / steam-like **trains** (passenger + freight; multi-day; noisy) | `../Geography/Places.md`; Ch 7 departure; Ch 19 ride |
-| **Steam** / boilers / condensers (still tech, later runic steam engines) | `../Society/Economy.md`; Notes Ch 48-50 steam→electric theory |
-| **Magic stones** as fuel, light, craft and rail power | `../Society/Economy.md` / `../Materials/MonsterCores.md`; trains in Places |
+| **Steam** / boilers / condensers (still tech, later runic steam engines). Earth ladder: `../Science/Energy/SteamEngines.md`. Stirling: `../Science/Energy/StirlingEngines.md`. Motors: `../Science/Energy/ElectricMotors.md` | `../Society/Economy/Economy.md`; Notes Ch 48-50 steam→electric theory |
+| **Magic stones** as fuel, light, craft and rail power | `../Society/Economy/Economy.md` / `../Materials/MonsterCores.md`; trains in Places |
 | **Airships** rare / royal / far above Baron spend | `../Geography/Places.md`; Ch 7 coach→train |
 | Gnomes invent magic trains; intricate machinery | `../Society/Races.md` |
-| Mixed Victorian-ish civilian clothes + full-plate knights | `../Geography/Places.md` Carwen |
+| Medieval→Victorian street mix by **city proximity + wealth** (Carwen: both at once) | `Technology.md` era mix; `../Geography/Places.md` Carwen |
 | Tamed monsters for **farm / draft** (Trox plow, caravan bulls, oversized draft equines) | `../Fauna/Mounts.md`; Arden fields in Places |
-| Three-metal coin ladder (copper / silver / gold + Royal gold) | `../Society/Economy.md` |
-| Monetary economy: wages, bounties, inns, merchants, taxation anchors | `../Society/EconomyDesign.md` |
+| Three-metal coin ladder (copper / silver / gold + Royal gold) | `../Society/Economy/Economy.md` |
+| Monetary economy: wages, bounties, inns, merchants, taxation anchors | `../Society/Economy/EconomyDesign.md` |
 
 ### Revised historical approximation
 
-Social structure stays medieval (kingdoms, nobles, knights, Royals) while technology reaches toward the early Industrial Revolution (roughly 1760 to 1850). The result is a hybrid closest to fantasy steampunk / magitech. Magic stones fill the role that coal, oil and electricity fill in real history. Airships have no real historical parallel and serve as a prestige item similar to a royal yacht or private railcar.
+Social structure stays medieval (kingdoms, nobles, knights, Royals) while technology reaches toward the early Industrial Revolution (roughly 1760 to 1850). The result is a hybrid closest to fantasy steampunk / magitech. Magic stones fill the role that coal, oil and electricity fill in real history. Airships have no real historical parallel and serve as a prestige item similar to a royal yacht or private railcar. Street-level goods and clothes are not one era everywhere: they slide medieval→Victorian by distance from large cities and by wealth (`Technology.md` era mix).
 
-**Wheels / suspension:** Earth ladders and Caldris ceiling in `../Science/Vehicle/Wheels.md` and `../Science/Vehicle/Suspension.md`. Road baseline ≈ iron-tired wooden wheels + leaf / thoroughbrace coach springing; rail can use early industrial flanged metal wheels. Pneumatics, mass stamped discs and electronic suspension are invent-or-prestige only.
+**Wheels / suspension:** Earth ladders and Caldris ceiling in `../Science/Vehicle/Wheels.md` and `../Science/Vehicle/Suspension.md`. Brakes: `../Science/Vehicle/Brakes.md`. Driving and piloting positions: `../Science/Vehicle/Positions.md`. Road baseline ≈ iron-tired wooden wheels + leaf / thoroughbrace coach springing; rail can use early industrial flanged metal wheels. Pneumatics, mass stamped discs and electronic suspension are invent-or-prestige only.
 
 **Mechanical precision:** lathes, cams, line shafts, governors, gauge blocks, and later mechanical fire-control / bombsights in `../Science/Invent/MechanicalPrecision.md`. Shop automation and screw-cutting are near-reach invents; naval rangekeepers and AA predictors are not baseline (magic fills most firearms / long-gun roles).
 
@@ -56,11 +56,11 @@ Social structure stays medieval (kingdoms, nobles, knights, Royals) while techno
 
 **Batteries:** Earth cell ladder and mana-stone Wh/kg compare in `../Science/Energy/Batteries.md`. Voltaic / Daniell / zinc-carbon are near-reach invents; lithium chemistries are not baseline. Mana stones already cover portable energy for most gear.
 
-**Refined mana craft:** Stillwire (stone-refined superconducting wire) and Lightthread (optical fiber) in `../Science/Energy/RefinedMana.md`. Prestige invent; not baseline. Mined mythril stays the reusable SC path metal; Lightthread is light-only (not mana fiber). Temporary mass/weight stays on `../../PotentialMagic/MassBoost.md` / Impact, not summoned matter.
+**Refined mana craft:** Stillwire (stone-refined superconducting wire) and Lightthread (optical fiber) in `../Science/Energy/RefinedMana.md`. Prestige invent; not baseline. Converted mythril (silver) stays the reusable SC path metal; Lightthread is light-only (not mana fiber). Temporary mass/weight stays on `../../PotentialMagic/MassBoost.md` / Impact, not summoned matter.
 
 ### Economy and agriculture effects
 
-- A three-tier coin system matches the real medieval and early modern pattern of copper for commoners, silver for merchants and gold for nobles and large trade (project ladder is finer: SC/LC/SS/LS/SG/LG/RG in `../Society/Economy.md`)
+- A three-tier coin system matches the real medieval and early modern pattern of copper for commoners, silver for merchants and gold for nobles and large trade (project ladder is finer: SC/LC/SS/LS/SG/LG/RG in `../Society/Economy/Economy.md`)
 - Widespread coinage supports merchants, banks and taxation beyond barter and feudal obligation
 - Tamed farming monsters replace or supplement draft animals such as oxen and horses, which raises farm output and supports larger towns
 - Monster taming implies professions (tamer / breeder / beastmaster) and links to skills: Roland's **Basic Taming** (Ch 12) / Ned path in `../../People/Ned.md`, `../Fauna/Mounts.md`
@@ -81,7 +81,7 @@ Do not treat the skill system as undefined. Rewrite law already lives here:
 | Physical / mental attribute scale | `../../Progression/Attributes.md` |
 | Class packages and tiers | `../../Progression/Classes.md`, `../../Progression/RolandClasses.md` |
 | Status / kit scratch | `../../../Story/Notes/` (Status, Items, Skills, Experience) |
-| Magic stones vs craft / fuel | `../Society/Economy.md`, `../../Items/Items.md` |
+| Magic stones vs craft / fuel | `../Society/Economy/Economy.md`, `../../Items/Items.md` |
 
 Skills improve crafts, manufacturing and combat. Manufacturing output and quality can rise through skills without full industrial mass production. Status interfaces are visible to holders (and sometimes via high Identify); see skill / Identify notes in `../../Progression/Skills.md`.
 

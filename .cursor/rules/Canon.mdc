@@ -1,0 +1,60 @@
+---
+description: Story file safety, Roland, Helci, mistakes, naming, canon order
+alwaysApply: true
+---
+
+# Canon
+
+## Story files
+
+- Filled prose belongs in `Story/Chapters/` only.
+- `Story/Undone/` is empty chapter-heading skeletons only. Never leave story text there. Do not create new skeletons.
+- Filing chapter text into Notes or References is a **copy**, never a move. Leave the chapter text in place.
+- Do not blank, reverse, or overwrite a whole `Story/Chapters/` file. Targeted replacements only.
+
+## Roland (rewrite)
+
+- Not the Source foul-mouthed, money-grubbing, ungrateful brat. Do not write him that way.
+- Adventure and the little things matter. Money, levels, and independence are tools, not every beat's punchline.
+- Curious, logical, kind for the most part. Capable and grounded. Not whiny, not constant contempt, not crude for shock.
+- Motive rewrites keep full beat coverage. Strip greed-first framing; put adventure / little things in its place. Do not shrink the paragraph thin.
+- Habit detail lives in `References/People/Roland/` when needed.
+
+## Roland and Helci first passion
+
+- Both must be **18**. Do not write, imply, or stage this beat while either is under 18.
+- They lose virginity together; neither has prior sexual experience.
+- Mutual and willing on-page when the story reaches that beat. Keep Helci as the romance core; do not substitute another character.
+
+## Rule voice
+
+- Rules bind the agent only. Never phrase a rule as a charge, fault, or accusation against the user.
+
+## Mistakes
+
+- Never say "fixed" (or "Fixed.") in any reply.
+- When a mistake has been corrected, apologize for being a retard only. No status summary, no "done", no restating what changed unless the user asks.
+
+## Naming
+
+- New folders and files use PascalCase. No lowercase, snake_case, or kebab-case unless matching a numbered Source range (`1-10.md`).
+- Keep extensions lowercase (`.md`). Match existing project casing.
+
+## Canon order
+
+When two homes disagree, the higher one wins.
+
+1. Outline (`Story/Outline.md`). Not written yet. When it has a plan, it wins. `Story/VolumeSynopsis.md` is the volume synopsis, not the outline, and does not override the chapter.
+2. Story prose in `Story/Chapters/`.
+3. Notes and status, equal to each other. That is `Story/Notes/`, including Timeline, Experience, Status, Skills, and the other note sheets.
+
+If the chapter and a note disagree, the chapter is the story fact until they order a change. Say what disagrees and where. Do not rewrite the chapter or the note on that finding alone.
+
+If two notes disagree, that is a notes problem. Say so. The story still wins over both until they order a note change.
+
+Reference hubs do not override the story. If a reference is scientifically or narratively wrong against the chapter or the notes, say so. Do not treat the reference as the story fact.
+
+```
+# Chapter prints MP 1164. Status.md says 1028.
+# The chapter number stands. Status.md is behind.
+```

@@ -1,6 +1,6 @@
 # Craft Metal
 
-Modern metallurgy aims with Caldris forge + magic. Named metal locks: `../../Materials/Metals.md`. Plastic work: `../Energy/Compression.md`. Products: `BlacksmithProducts.md`. Arrowheads: `Arrowheads.md`. Animal materials: `../Biomaterials/Biomaterials.md`. Earth alloys / carbon: `EarthAlloys.md`. Ores: `MetalOres.md`. Gem seats: `GemInlay.md`. Vacuum: `Vacuum.md`.
+Modern metallurgy aims with Caldris forge + magic. Named metal locks: `../../Materials/Metals.md`. Plastic work: `../Energy/Compression.md`. Products: `BlacksmithProducts.md`. Traditional coal shop: `TraditionalBlacksmithing.md`. Carbon grades / HT recipes: `CommonAlloys.md`. Arrowheads: `Arrowheads.md`. Animal materials: `../Biomaterials/Biomaterials.md`. Earth alloys / carbon physics: `EarthAlloys.md`. Ores: `MetalOres.md`. Gem seats: `GemInlay.md`. Vacuum: `Vacuum.md`. Structural vacuum-seam: `StructuralForge.md`.
 
 ## Narrative
 
@@ -65,9 +65,11 @@ Matches `Metals.md`: iron and steel conversion bands (dark → star). Prefer con
 Matches `Metals.md`: permanently converted **titanium**. **Once cast: indestructible.** Not a quench-and-temper forgeable supersteel. Hot Ti parent needs vacuum / inert / barrier (O/N brittle case).
 
 - Shape is **final once cast and cooled**. No later cut, forge, quench-alter or repair  
-- Form **mail links** (and other final shapes) **while setting**  
-- After set: indestructible to ordinary force; destroy only by resonance / mana vibration  
-- **No stretch. No bend.** Mail flexes at ring links only. Dead: Adamweave / cloth / `R_min`
+- Form **mail links** (and other final shapes) **while setting**; record each casting **key**  
+- After set: frozen lattice; indestructible to ordinary force; primary destroy = resonance at the key; rare electron-overload melt in `../../Materials/Metals.md` (~470k–980k mana/kg uniform)  
+- **Rune / enchant OK** as stiff host (cast-in or resonance grooves; more seating work than mythril)  
+- **No stretch. No bend.** Mail flexes at ring links only. Dead: Adamweave / cloth / `R_min`  
+- Shop heat feel: extreme spreader, low storage (conduit plate; sinks need a real thermal mass behind them)
 
 ### Blade / tool HT order
 

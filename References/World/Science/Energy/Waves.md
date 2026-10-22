@@ -6,7 +6,7 @@ Hub: `../Science.md`.
 
 Existing sound notes in this file are **loudness** (near-Mach arrow dB), not wavelength. Below is the spectrum cheat sheet for spells that push sound or light.
 
-λ = v / f. Air sound speed ~**343 m/s** at 20 °C. Light in vacuum: c = **3.00×10⁸ m/s**; λ in nm for optical bands.
+λ = v / f. Air sound speed ~**343 m/s** at 20 °C. Water, soil, rock, wood and bone speeds: `Sound.md`. Light in vacuum: c = **3.00×10⁸ m/s**; λ in nm for optical bands.
 
 ### Sound (air)
 

@@ -1,6 +1,6 @@
 # Magic
 
-> Mana / path law: `Energy.md`. Named catalog: `Runes.md`. Metals / hosts: `../World/Materials/Metals.md`. Cast tables: `../World/Science/Energy/ManaCast.md`. Spell blurbs: `../Combat/Spells.md`.
+> Mana / path law: `Energy.md`. Named catalog: `Runes.md`. Metals / hosts: `../World/Materials/Metals.md`. Cast tables: `../World/Science/Energy/ManaCast.md`. Spell blurbs: `../Combat/Spells.md`. Scroll craft lock: `MagicScrollMaking.md`. Spell→scroll vs rune gate: `SpellToCraftGate.md`. Unread scroll imbue idea (density / ink / channels): `ScrollImbue.md`.
 
 ## Narrative
 
@@ -15,6 +15,8 @@ Magic follows laws and intention. Spells can form from the body alone, usually a
 ### Spells
 
 **Body cast:** Spells can happen from the body alone. Usually low level. Can also be done intentionally.
+
+**Tier 1 cast loop:** Imagine the spell circle (the formula), shape the mana, then chant, in that order. Fail any step and the spell sizzles. Intelligence helps visualize and recall circles. Higher tiers use larger circles and longer chants. Skills reduce the mental strain. Must chant while shaping. Shaping alone evaporates. The chant must leave the mouth (spoken, loud, or near-silent whisper). **True silent** cast of a normal magic spell never works, no matter how hard the caster tries; words only in the head fail the same way. Occurrence scrape: `../../Story/Notes/SilentCasting.md`.
 
 **Ambient draw:** Thick air / dungeons can let a caster push more mana into a body cast (mana-in). Useful output on that paid mana still runs `Useful = mana × 10 × η(L) × μ(INT) × A` with `A = √C`. Same ambient `A` multiplies rune / item paths after η_cond. Retired linear G is not used.
 
@@ -32,7 +34,7 @@ Magic follows laws and intention. Spells can form from the body alone, usually a
 - Bags cannot nest (repel).
 - Borders on time magic: stored things are frozen.
 - Dungeon mats (tusks, spikes, leather, herbs) are worth bagging out; most monster meat is not (tough, bad taste) except boar-type and deer-type game.
-- **Prices / V² capacity scale:** `../World/Society/SpatialBagPrices.md` (not law).
+- **Prices / V² capacity scale:** `../World/Society/Economy/SpatialBagPrices.md` (not law).
 
 **Teleportation:** None practical, or so far away it is basically unreachable. Travel uses trains and airships instead of teleport circles.
 
@@ -58,9 +60,9 @@ Magic follows laws and intention. Spells can form from the body alone, usually a
 | Intention | Gives the pattern its purpose and output form |
 | Pathways | Physical or magical routes mana flows through |
 
-Surface symbols are not the whole working pattern. Working routes sit deeper and show under magical vision / Diagnosis. Worldview scrape: `Nature.md`.
+Surface symbols are not the whole working pattern. Working routes sit deeper and show under magical vision / Diagnosis. On **scrolls**, after imbue the fine lines fade into the host and leave a readable surface rune image unless obscured (`MagicScrollMaking.md`). Worldview scrape: `Nature.md`.
 
-**Rank language (trade / craft):** Lesser → Common → Greater → Grand → Legendary. Quality language: Lowest → Highest.
+**Rank language (trade / craft):** Lesser → Common → Greater → Grand → Legendary. Quality language: Lowest → Highest. Ladder feel (geometry / job home / examples): `Nature.md`, `Runes.md`, `RuneSystem.md` (Story feel).
 
 **How made:** Pattern alone is enough. Understanding is not required to make one.
 
@@ -76,29 +78,32 @@ Surface symbols are not the whole working pattern. Working routes sit deeper and
 
 ### Magic scrolls (word / Mana Scribing)
 
-**Nature:** Different from enchantments and from runes. Chants and pathways are written down.
+**Nature:** More like an enchantment: the chant words are written on the scroll. Reading mobilizes the reader's mana. Full craft lock: `MagicScrollMaking.md`.
 
-**Who can use:** Needs **mana**. Not for people with no mana. Read aloud.
+**Who can use:** Mages / anyone who can push mana. Non-mages cannot use magic scrolls.
 
-**How used:** Read aloud. The writer's pathway forces the user's magic to follow it and cast the spell. The imprint covers gaps such as elemental affinity.
+**How used:** Read the written words. The reader's mana casts the spell. Maker affinity is imbued into the paper.
 
-**Point:** Cast a spell the user could not otherwise cast (wrong affinity, missing spell). Mage cross-affinity patch. Fuel is **mana only** (no stamina substitute).
+**Point:** Cast a spell the user could not otherwise cast (wrong affinity, missing spell), or fire a known form from paper. Fuel is **mana only**. User pays the designed cast cost.
 
-**Limit:** Efficiency and power are capped by the one who wrote it.
+**Limit:** No separate user amplify dial beyond paying a higher designed cast. Craft = **full** cast × Mana Scribing S. Power = designed. Mundane paper: single use on cast. Magic paper: **2–5** uses until mana-threshold burn. T1: Mage + Mana Scribe. T2+: T2+ mage with the spell. `MagicScrollMaking.md` / `ScrollEconomy.md`.
+
+**Roland gate:** Spells he can cast himself, he can put on **magic scrolls**. That does **not** unlock a **rune** for the same spell, and a magic scroll is **not** a runic scroll. Intention extras on a body cast (follow a person, lock to a chosen target) stay on the cast / magic-scroll side until a real **rune** sample teaches them. Full lock: `SpellToCraftGate.md`.
 
 ### Runic scrolls
 
-**Nature:** Rules-based scrolls. **Only this scroll family can be used by anyone.**
+**Nature:** Runes as artificial magical pathways on a scroll host. **Only this scroll family can be used by anyone.** Completely separate from magic scrolls. Full lock: `MagicScrollMaking.md`.
 
-**Limit:** Can be open-ended. Not capped to a writer's personal efficiency and power the way magic scrolls are.
+**After imbue:** Some working lines **fade into** the paper or host. A surface **rune image** remains so an unobscured viewer can tell **roughly** what the scroll does. Full pathways stay sunk (Diagnosis / magical vision). Obscuration can hide the surface image. Word scrolls have no pathway layer.
 
-**Type 1: Energy cast**
+**Limit:** Efficiency `η_cond` (20% blocks) sets activation cost for the same power. Rank is the tier dial (`RuneSystem.md`). Device attacking tags stay separate from rune efficiency (`ScrollAspects.md`). Scroll-host runes are almost always destroyed in one use.
 
-- User supplies **energy** to cast: **mana or stamina** (`Energy.md`: same cost from either pool).
-- Literally anyone can cast it (warriors, civilians, non-mages included), if they can pay the energy.
+**Type 1: Absorbing (common)**
 
-**Type 2: Prefilled (optional research variant, not canon default)**
+- User activates; runes draw power from the user. Mages push mana. Non-mages pay **stamina**.
+- Activation cost for same power = base MP ÷ η (`MagicScrollMaking.md` table).
 
-- Canon default is Type 1 (empty, user pays activation; `RuneSetup.md` P1, `ScrollEconomy.md`). Prefilled is the P9 prepaid option and is not equal in standing.
-- Already charged. Waiting to be activated.
-- Literally anyone can activate it.
+**Type 2: Preloaded (special)**
+
+- Spell stored in the runes at craft (or charged before use). Activation releases it (narrative or physical: squeeze, tear, hold out, small symbolic energy).
+- Anyone can activate. Not the default for every shelf runic.

@@ -1,6 +1,8 @@
 # Wood Processing
 
-Natural seasoning and vacuum / heat magic shortcuts. Structural steel contrast: `../Metallurgy/StructuralForge.md`. Vacuum craft: Old `../Metallurgy/Vacuum.md` until pulled.
+Natural seasoning and vacuum / heat magic shortcuts. Deep Earth seasoning / aging catalog: `AgingWood.md`. Native Hawaiʻi timber and drying zones: `../../Geography/VolcanicIsland/HawaiianNativeLandscape.md`. Structural steel contrast: `../Metallurgy/StructuralForge.md`. Vacuum craft law: `../Metallurgy/Vacuum.md`. Nav: `Index.md`.
+
+**Owns:** short seasoning chain and vacuum / heat kiln tricks. Full drying physics, defects, firewood, and centuries-scale aging: `AgingWood.md`. Vacuum pump-down law stays in `Vacuum.md`.
 
 ## Narrative
 

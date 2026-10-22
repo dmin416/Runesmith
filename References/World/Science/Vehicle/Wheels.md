@@ -1,12 +1,14 @@
 # Vehicle Wheels
 
+Physics, types, tradeoffs and wild builds: `WheelScience.md`. Shaft / U-joint / gear driveline physics (steel vs indestructible): `ShaftJointTransmission.md`.
+
 Earth tech ladder for vehicle wheels. Each entry lists the era and the tools, materials and processes that must exist first. Use for invent beats and for reading Caldris ceiling. Do not paste Earth brand names into prose unless the story invents them.
 
 **Accuracy:** solid popular engineering-history summary. Dates and “firsts” are order-of-magnitude, good enough for prerequisite checks.
 
 **Caldris readout** (`../../Tech/Technology.md`): craftsman economy with early-industrial magitech (mana-stone trains, smith guilds, no mass manufacturing). Typical carts and coaches: **iron-tired wooden wheels**, wheelwright craft, hub liners if the shop is good. Rail: flanged metal wheels within early industrial reach (cast / wrought / early steel via forge + magic heat). **Not** baseline: vulcanized pneumatic tires, pressed mass-production discs, carbon fiber, electronics, mecanum / omni / spherical drives. Those wait on Roland invent arcs or rare prestige builds.
 
-Companion: `Suspension.md`.
+Companion: `Suspension.md`. Auto wheels / tires invent ladder: `MechanicalCarComponents.md` §18–19. Superhuman fat-tire bike sizing: `FatTireBike.md`.
 
 ## Precursors and Antiquity
 

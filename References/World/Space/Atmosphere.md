@@ -2,7 +2,7 @@
 
 Hub: `Space.md`. Ambient mana vs altitude: `../Science/Energy/ManaConcentration.md`. Flight / air density: `../Science/Energy/Flight.md`. World size lock: `../World.md` (Earth-sized planet).
 
-Terra uses Earth-like layer heights and weather physics. Open-air mana follows **pressure** (`C = P₀ / P(h)`) to the thermopause / exobase, then **haze number density** through the exosphere / geocorona to the solar-wind floor. Layer names below are the air-structure map. Digits: `../Science/Energy/ManaConcentration.md`.
+Terra uses Earth-like layer heights and weather physics. Equatorial surface sunlight: `EquatorialSunlight.md`. Open-air mana follows **pressure** (`C = P₀ / P(h)`) to the thermopause / exobase, then **haze number density** through the exosphere / geocorona to the solar-wind floor. Layer names below are the air-structure map. Digits: `../Science/Energy/ManaConcentration.md`.
 
 ## Troposphere
 
@@ -43,7 +43,7 @@ Terra uses Earth-like layer heights and weather physics. Open-air mana follows *
 - Temperatures reach 2,000 to 3,600°F or more, yet it would feel freezing because the gas is so thin
 - Auroras glow here, mostly between 60 and 200 miles
 - The Kármán line at 62 miles, the conventional start of space, sits near its bottom
-- Orbital stations sit within it around 250 miles when the story uses that band. One-person LEO budget: `LowEarthOrbitHabitat.md`
+- Orbital stations sit within it around 250 miles when the story uses that band. One-person LEO budget: `Orbit/LowEarthOrbitHabitat.md`
 - Upper boundary: the thermopause
 - Open-air mana: `P₀/P` law. Kármán about `C ~ 3×10^6`. Exobase about `C ~ 10^12`. Thermosphere scale height is large, so vacuum hardens slowly
 
@@ -108,7 +108,7 @@ Terra uses Earth-like layer heights and weather physics. Open-air mana follows *
 
 Dead satellites cannot be deorbited easily from that height. Instead they are pushed about 190 miles higher into a "graveyard orbit" to keep the geostationary belt clear.
 
-Living requirements and one-person mass budget: `GeosynchronousHabitat.md`.
+Living requirements and one-person mass budget: `Orbit/GeosynchronousHabitat.md`.
 
 ## Layer vs open-air mana (quick)
 
@@ -180,7 +180,7 @@ Law formulas: `../Science/Energy/ManaConcentration.md`. Dungeon additive `D/N/k`
 | Stratosphere | ~7.5 to 31 mi | `C` hundreds to ~10^3 |
 | Mesosphere | 31 to 53 mi | `C` into 10^5 |
 | Kármán | 62 mi | Space under `P₀/P` |
-| Thermosphere | 62 to ~370 mi | Slow `C` climb to exobase |
+| Thermosphere | 53 to ~370 mi | Slow `C` climb to exobase |
 | Exosphere / geocorona | 370 mi to ~lunar distance | Density haze; very slow at first, then up to solar-wind floor |
 | Interplanetary floor | past ~lunar / geocorona | Flat at `C_max` |
 | Ionosphere (overlap) | ~30 to 600 mi | Charged air / radio; does not replace this law |

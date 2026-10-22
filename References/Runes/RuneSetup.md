@@ -1,6 +1,6 @@
 # Rune Establishing Cost (Ideas)
 
-> **Design loot.** Live locks: Energy.md (eta_cond feel order, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md (Ag mythril, Au orihalcum, Cu aurium, Fe/steel dark→star, Ti adamantium). Non-canon here: path-% dials; adamantium as forgeable post-set supersteel.
+> **Design loot.** Live locks: Energy.md (rune-quality η_cond, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md (Ag mythril, Au orihalcum, Cu aurium, Fe/steel dark→star, Ti adamantium). Non-canon here: path-% dials; adamantium as forgeable post-set supersteel.
 
 Basis for setup mana going forward (not frozen; dials stay open). Companion to the rune redesign in `RuneSystem.md` (ranks, qualities, harmonics) and the energy baseline in `Energy.md` (activation cost, efficiency, heat). Activation, efficiency and heat rules stay in those files.
 
@@ -39,13 +39,13 @@ Basis for setup mana going forward (not frozen; dials stay open). Companion to t
 
 Mana pools grow slowly in the story so setup climbs slowly too. Ceilings grow x100 per rank while base setup grows about x2.
 
-| Rank | Base | Top complexity (C at k 1) | Stone terms | Adult pools | Solo pour at 20 mana per minute |
+| Rank | Base | Top complexity (C at k 1) | Stone terms | Street pools (MP 210) | Solo pour at 20 mana per minute |
 |---|---|---|---|---|---|
-| Lesser | 1,000 | 2,000 (x2) | 1 cube (1000) | 0.5 | 50 min |
-| Common | 2,000 | 3,000 (x1.5) | 0.93 marble (2145) | 1 | 1.7 h |
-| Greater | 3,000 | 5,000 (x1.67) | 1.4 marbles | 1.5 | 2.5 h |
-| Grand | 5,000 | 10,000 (x2) | 0.35 walnut (14,140) | 2.5 | 4.2 h |
-| Legendary | 10,000 | 20,000 (x2, assumed) | 0.7 walnut | 5 | 8.3 h |
+| Lesser | 1,000 | 2,000 (x2) | 1 cube (1000) | 4.8 | 50 min |
+| Common | 2,000 | 3,000 (x1.5) | 0.93 marble (2145) | 9.5 | 1.7 h |
+| Greater | 3,000 | 5,000 (x1.67) | 1.4 marbles | 14.3 | 2.5 h |
+| Grand | 5,000 | 10,000 (x2) | 0.35 walnut (14,140) | 23.8 | 4.2 h |
+| Legendary | 10,000 | 20,000 (x2, assumed) | 0.7 walnut | 47.6 | 8.3 h |
 
 Figures show an unskilled crafter (S 1) with C 1 and copper.
 
@@ -109,7 +109,7 @@ M = sqrt(strain capacity / 140). Capital against running cost. Cleaner path host
 | Star steel | 2.00 | 2,000 | strong durable channel stock |
 | Mythril | 2.83 | 2,830 | cleanest common host |
 
-Orihalcum and adamantium are not setup hosts. Orihalcum swallows seating. Adamantium will not take alteration and may only cover a real inlay underneath.
+Orihalcum is not a setup host (swallows seating). Adamantium **is** a setup host but a stiff one: cast-in grooves or resonance-cut lines, more seating work than mythril; shell-over-softer-path remains valid.
 
 Mythril costs about 4 times iron to set and lasts far longer under the same cast load.
 
@@ -175,19 +175,19 @@ Totals use unrounded factors (shown here to enough decimals to reproduce by hand
 ## Considerations
 
 - Early tension. A Lesser rune costs 900 at L1. Street all-15 bare MP is **210** (`../Progression/Attributes.md`), so early setup is several street pools or needs stone banks (canon: running out of mana while crafting basic runes is a main early tension). At 20 mana per minute that is 45 min which matches the canon Fire Orb runic scroll at about 45 min if that scroll sits at C 1.
-- Scroll day. A Common Fire Arrow costs 2,000 at L0. Canon 5 to 6 a day costs 5,500 at L5 against street MP 210 that is many pool-fills; stones and ambient absorb carry the grind. That matches the canon L5 drain (Ch 22). The crafter finishes at zero and takes the canon headache and next-day regen debuff. At L9 the same day costs 1,100 (~5.2 street pools).
+- Scroll day (**runic** setup, not word half-cast craft). A Common Fire Arrow costs 2,000 at L0. Canon 5 to 6 a day costs 5,500 at L5 against bare street MP **210** (all-15 example) that is many pool-fills; stones and ambient absorb carry the grind. That matches the canon L5 drain (Ch 22). Word Mana Scribe engine uses classed pools (`MagicScrollMaking.md` MP **910** / **1,610**). The crafter finishes at zero and takes the canon headache and next-day regen debuff. At L9 the same day costs 1,100 (~5.2 street pools).
 - Quality is free at build. Every crafter builds the best quality reachable. Skill and comprehension gate the reach and mana does not.
 - Skill drives price. An L9 crafter sets the same rune for one ninth of an L1 crafter's mana (100 against 900 at Lesser) so masters undercut novices by nine times before wages. Scroll price can track setup mana. Dusty shelf runic Fire Arrow can list ~6–7× a cheap regular (**vanity**); fair High Common is **10 SS** vs word Fire Arrow **6 SS** (`ScrollEconomy.md`).
 - Setup is small next to a run. An airship setup at L0 is tens of street-all-15 pools (far fewer at L9) against a 95 GJ run. Stone banks and ambient intake carry activation (rune file, Power source) and setup stays a crafter's job. Team pour (O4) only buys speed.
 - Setup adds no heat and no strain. Wear stays as in the baseline.
 - Mastery discounts activation only (canon), for both items and scrolls. It never touches setup cost.
-- Setup cost has exactly one discount channel per medium, never two stacked together. Items: **Runecraft**'s skill-level S factor only. Scrolls: **Basic Rune Scribing**'s skill-level S factor only (−10%/level, capped −90% at L9 — same shape as Runecraft, `Progression/Skills.md`). Both are skill bonuses, so both persist through any later class change.
-- The **Runic Mana Scribe** class card does not discount setup cost at all — it grants a narrative learning-ease bonus instead (faster, cleaner schematics) that is lost when Roland leaves the T1 class, unlike the skill discount above (`Progression/Classes.md`).
+- Setup cost has exactly one discount channel per medium, never two stacked together. Items: **Runecraft**'s skill-level S factor only. Scrolls: **Basic Rune Scribing**'s skill-level S factor only (−10%/level, capped −90% at L9 — same shape as Runecraft, `../Progression/Skills.md`). Both are skill bonuses, so both persist through any later class change.
+- The **Runic Mana Scribe** class card does not discount setup cost at all — it grants a narrative learning-ease bonus instead (faster, cleaner schematics) that is lost when Roland leaves the T1 class, unlike the skill discount above (`../Progression/Classes.md`).
 
 ## Open Dials
 
 - Base progression of 1,000 and 2,000 and 3,000 and 5,000 and 10,000. Legendary top complexity assumes x2.
-- Street bare all-15 MP is **210** (`Attributes.md`). Large setup / scroll-day shares are stone-banked; do not invent a 2000 adult pool.
+- Street bare all-15 MP is **210** (`../Progression/Attributes.md`). Large setup / scroll-day shares are stone-banked; do not invent a 2000 adult pool.
 - Complexity driver sizes. Skill ladder of 10 percent per level.
 - Pour rate of 20 mana per minute (fits the canon Fire Orb time at L1).
 - Charging efficiency (0.85 intake) and leak rate (2 percent per day) and stone slot socket cost (10 percent).
@@ -196,3 +196,4 @@ Totals use unrounded factors (shown here to enough decimals to reproduce by hand
 - Metal Reservoir capacity. Canon gives stone only (1 mana per mm³) so metals use it as a placeholder.
 - Scroll media factor. Paper and parchment have no M yet so scrolls use M 1.
 - Whether prepaid scrolls (P9 and P10) belong in canon or stay a premium variant.
+- Flow cap (not canon): mana spent building the pattern might cap later flow, with intake only 1/5 to 1/10 of that build. Proposed under Inscription scale in `RuneSystem.md`. Default stays: setup becomes structure and activation is paid separately.

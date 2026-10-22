@@ -1,10 +1,10 @@
 # Impact Rune (Sahildr hammer)
 
-Earth-physics model for Sahildr's **Lesser Impact** warhammer rune. Catalog: Old `Runes/Runes.md` until absorbed. Compression cousin: `../World/Science/Energy/Compression.md` (Fire Piston). Path law: `../Runes/Energy.md`. Unit: **1 mana ≈ 10 J** paid. Path metal: **steel** (mid conductivity feel).
+Earth-physics model for Sahildr's **Lesser Impact** warhammer rune. Catalog: `../Runes/Runes.md`. Compression cousin: `../World/Science/Energy/Compression.md` (Fire Piston). Path law: `../Runes/Energy.md`. Stacked strokes vs Useful J: `../World/Science/Energy/KineticImpartation.md`. Unit: **1 mana ≈ 10 J** paid. Path metal: **steel** (mid conductivity feel).
 
 ## Rules that drive the math
 
-From `Energy.md` conversion layers:
+From `../Runes/Energy.md` conversion layers:
 
 ```
 Paid cost is fixed.
@@ -12,7 +12,7 @@ Useful (J) = mana × 10 × η_cond × A
 A = √C   // ambient osmosis; Energy.md / ManaConcentration.md
 ```
 
-This is a **rune** stroke. Use mana conductivity and ambient `A` only. Do **not** also multiply η(L) or μ(INT).
+This is a **rune** stroke. Use **rune-quality** η_cond and ambient `A` only. Do **not** also multiply η(L) or μ(INT).
 
 | Lock | Value |
 |---|---|
@@ -20,9 +20,11 @@ This is a **rune** stroke. Use mana conductivity and ambient `A` only. Do **not*
 | Input at peg | **1,000 J** |
 | Worked example | η_cond = 1, A = 1 (open ground) → **1,000 J** Useful |
 
-Steel in story is a **mid** conductor (worse than mythril, better than iron). When a chapter needs steel η_cond or site `A`, set η_cond from conductivity feel and `C` from altitude + dungeon/spiritual thickness, then `A = √C`.
+Steel in story is a **mid** host feel (worse than mythril, better than iron). Host feel is narrative only. **η_cond** follows **rune quality** (how perfect the rune is) in `../Runes/Energy.md` (Lowest **0.20** → Highest **1.00**). Not scroll quality. Site `A = √C` from altitude + dungeon/spiritual thickness.
 
 That Useful **is** the energy the stroke adds to the head (ΔKE).
+
+Sahildr has the strength of 5 men. The **640 J** baseline below is her swing. A street warhammer at AGI ~15 is **200–400 J** (`../Progression/Attributes.md`, `AttackScale.md`). That band is a different body.
 
 ## Model (locked)
 
@@ -76,4 +78,4 @@ Partial feed: Useful scales with mana paid.
 
 ## Open
 
-- Steel η_cond and site `A` (`√C`) when a fight beat needs exact joules
+- Rune quality (η_cond from `Energy.md`) and site `A` (`√C`) when a fight beat needs exact joules

@@ -7,9 +7,9 @@ Hub for Terra. Locked world facts live here in short form. Deep files hold the r
 | Folder | Holds |
 |---|---|
 | `Geography/` | Places, dungeons, island ecology |
-| `Space/` | Atmosphere, orbits, moons (hub: `Space/Space.md`) |
-| `Society/` | Races, population math, economy |
-| `Fauna/` | Creatures, mounts |
+| `Space/` | Atmosphere, moons, stellar notes; orbit pack under `Space/Orbit/` (hub: `Space/Space.md`) |
+| `Society/` | Races, population math; economy pack under `Society/Economy/` |
+| `Fauna/` | Creatures, mounts, ecology dials; Design / Species / Domestic |
 | `Materials/` | What is common vs specialty; metals; monster cores |
 | `Tech/` | Era / tech baseline |
 | `Science/` | Earth-physics / craft anchors (hub: `Science/Science.md`) |
@@ -22,22 +22,28 @@ Hub for Terra. Locked world facts live here in short form. Deep files hold the r
 | `Geography/Dungeons.md` | Dungeon cores and dungeon law; named floors: `DungeonDesign.md` |
 | `Space/Space.md` | Space folder index |
 | `Space/Atmosphere.md` | Atmosphere layers, geosynchronous geometry |
-| `Space/LowEarthOrbitHabitat.md` | Living at ~250 mi; one-person mass budget |
-| `Space/GeosynchronousHabitat.md` | Living at 22,236 mi; one-person mass budget |
-| `Space/OrbitEnergy.md` | Mechanical energy to put station mass on LEO / GEO |
-| `Space/Hydrolox.md` | LH2/LOX rocket propellant and station launch power budget |
+| `Space/Orbit/LowEarthOrbitHabitat.md` | Living at ~250 mi; one-person mass budget |
+| `Space/Orbit/GeosynchronousHabitat.md` | Living at 22,236 mi; one-person mass budget |
+| `Space/Orbit/OrbitEnergy.md` | Mechanical energy to put station mass on LEO / GEO |
+| `Space/Orbit/Hydrolox.md` | LH2/LOX rocket propellant and station launch power budget |
 | `Space/Moons.md` | Red / blue moons; space-soaked deposits and craft split |
-| `Geography/VolcanicIslandEcology.md` | Hotspot island ecology |
+| `Geography/VolcanicIsland/Ecology.md` | Hotspot island ecology |
 | `Society/Races.md` | Peoples; fat: `RacesDesign.md` |
 | `Society/Population.md` | Kingdom population formulas |
-| `Society/Economy.md` | Coins, prices, potion grades; fat: `EconomyDesign.md` |
-| `Society/ChurchPaidServices.md` | Earth medieval/early-modern church fee anchors (design loot) |
-| `Fauna/Creatures.md` | Creatures (early ladder locked; deep fill later); fat: `CreaturesDesign.md` |
+| `Society/Economy/Economy.md` | Coins, prices, potion grades; fat: `Society/Economy/EconomyDesign.md` |
+| `Society/Economy/CrystalCapitalEconomy.md` | Terra macro-economy invent (coin, stones, crystals, corridors); not locked law |
+| `Society/Economy/ChurchPaidServices.md` | Earth medieval/early-modern church fee anchors (design loot) |
+| `Fauna/Creatures.md` | Creatures (early ladder locked; deep fill later); fat: `Design/CreaturesDesign.md` |
 | `Fauna/MonsterThreat.md` | Narrative threat dial vs human (baselines + g(L); not XP) |
 | `Fauna/MonsterPopulation.md` | Monster ecology, bargain, kill demand; given-area formulas |
-| `Fauna/Mounts.md` | Mounts (foundation locked; deep fill later); fat: `MountsDesign.md` |
+| `Fauna/Mounts.md` | Mounts (foundation locked; deep fill later); fat: `Design/MountsDesign.md` |
+| `Fauna/Species/` | Biomechanics / craft-depth species (NeedleWorm, Slimes) |
+| `Fauna/Domestic/` | Farm and island animals (Koloa / Nēnē) |
 | `Materials/Materials.md` | Common vs specialty stock (metals, build, beast mats, magic lines) |
 | `Materials/Metals.md` | Metal saturation ladders and rune hosts |
+| `Materials/TranslucentMaterials.md` | Glass, quartz, diamond, silicone, chitin films, preindustrial clear panes |
+| `Materials/MaterialPurification.md` | Purity grades, extract methods and energy (silica, clay, Fe, Ti, Au, Ag; volcanic / Hawaii) |
+| `Materials/AtomizationEnergy.md` | Bond-breaking floor to free atoms (MJ/kg): general, Ti, Fe |
 | `Materials/MonsterCores.md` | Mana stones / cores |
 | `Tech/Technology.md` | Era / tech baseline; fat: `TechnologyDesign.md` |
 | `Science/Science.md` | Science folder index (Metallurgy, Energy, Invent, Vehicle, …) |
@@ -48,7 +54,7 @@ Hub for Terra. Locked world facts live here in short form. Deep files hold the r
 | `../Food/Food.md` | Food and drink by wealth |
 | `../Progression/Progression.md` | Status, classes, XP, skills |
 | `../Runes/Magic.md` | Magic, scrolls, space bags, ranks |
-| `../Runes/Energy.md` | Mana (foundations locked; numeric η_cond / G later) |
+| `../Runes/Energy.md` | Mana. Rune-quality η_cond: Lowest **0.20** → Highest **1.00** (20% blocks) |
 | `../People/Roland/Character.md` | Main character |
 | `../People/Family.md` | House Arden |
 | `../../Premise.md` | Story premise |
@@ -101,7 +107,7 @@ Short keep:
 - Screens private unless shared or strong peek
 - Ascension / class crystals exist; churches involved
 - Status-hide gear exists (armbands / items that mask or fake Identify reads)
-- Identify, Analyze, Mana Sense exist
+- Identify, Analyze, Mana Sight exist
 - Affinities matter for elemental mage paths
 - Tier 1 class cap 25; class tiers exist
 - Multiple classes over a lifetime
@@ -141,7 +147,7 @@ Era lock: `Tech/Technology.md`. Mounts: `Fauna/Mounts.md`. Vehicle craft: `Scien
 
 ### Money and trade
 
-Coin ladder, prices, taxes, guild cuts: `Society/Economy.md`. Auction houses, banks, patents exist.
+Coin ladder, prices, taxes, guild cuts: `Society/Economy/Economy.md`. Auction houses, banks, patents exist.
 
 ### Adventurer institutions
 
@@ -177,7 +183,7 @@ Coin ladder, prices, taxes, guild cuts: `Society/Economy.md`. Auction houses, ba
 - Theater / entertainment mostly for the better-off
 - Education outside nobles / churches / guilds is spotty
 - Alchemy goods are somewhat common; poison may be gated
-- Potions sold graded Lowest→Highest; healing closes flesh for real; Lowest seals but leaves soreness. Prices in `Society/Economy.md`
+- Potions sold graded Lowest→Highest; healing closes flesh for real; Lowest seals but leaves soreness. Prices in `Society/Economy/Economy.md`
 - Paper, ink, and writing supplies sold
 - Farmland and small holdings can be bought near dungeon towns
 - City watches / guards exist; not modern police

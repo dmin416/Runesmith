@@ -49,7 +49,7 @@ Ages at Chapter 3 dinner when Roland is about 5:
 | Name | Place | Mother | Notes |
 |---|---|---|---|
 | Reyner | 1st son | Tabitha | Heir track. Later knight academy. |
-| Edwin | 2nd son | Tabitha | Competitive after Mana Sense. |
+| Edwin | 2nd son | Tabitha | Competitive after Mana Sight. |
 | Sophia | 1st daughter | Tabitha | Older sister. |
 | Robert | 3rd son | Francine | About 8 at the dinner. Hostile to Roland. |
 | Dianna | Younger daughter | Francine | Younger than Sophia. |

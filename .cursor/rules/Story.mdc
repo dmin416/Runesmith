@@ -1,0 +1,222 @@
+---
+description: Silent period, directed edits, style, plain prose, formatting, no forward chapters
+alwaysApply: true
+---
+
+# Story
+
+## Silent Period
+
+Applies only in chats named for story editing (name contains `Story`). Does **not** apply if the chat name also contains `Notes`, or if they have said the chat is Notes (`Agent.mdc` § Notes chats).
+
+In Story-only chats: reply with only `.` unless the user explicitly allows speech. Edits still run. A sourced mismatch under Assertions in `Agent.mdc` is spoken. Do not hide it behind `.`
+
+Other chats, including Notes: normal replies.
+
+### Prompt orders
+
+If the user writes an order in any form such as `explain better`, `name of thing`, `name`, or similar fill / look-up / rewrite marks, follow that order exactly. Do not ignore it. Do not leave the mark in the story. Look up or rewrite as ordered and paste the real result.
+
+**`end` mark:** when their paste ends with the word `end`, that is an order, not story text. Paste up to it, then **trim the remaining part of that paragraph** after the pasted text. Do not keep the leftover tail. Do not leave `end` in the story.
+
+## Directed Line Edits
+
+Do the edit they asked for. Do not wander into other lines, files, or cleanup.
+
+| They say | You do |
+| --- | --- |
+| Change / replace | Replace the clear segment |
+| Fix | Full fix pass on the marked paragraph (and only that stretch unless they widen it). Work **sentence by sentence in order**. Each sentence is its **own separate change** (one replace per sentence; do not rewrite the whole paragraph in one go). **Never replace the whole paragraph with only the first sentence** while “working through” the rest. Align every fact with live notes and the story as it stands after prior edits (open those note homes; do not fix from chat memory). Rewrite tone and style to match Style, Plain Prose, and Formatting in this file (subject-first, true facts only, plain verbs, past tense, no hedge talk, no teaching, no wrong subjects). Do not leave Source greed tone or ornamental wording. **Never truncate.** Strip bad wording only. Keep equal or better beat coverage. Keep **as many action beats as they say** (and as many as the sentence already has when fixing). Do not fold, drop, or invent beats. **Do not touch** lines they already directed in this chat unless the fix mark is on those lines. |
+| Fix + named fact | When they name one wrong fact (`paintballs`, spell strength, a clock, a name), change **only that fact**. Strip leftover clauses that existed only to support the wrong fact (wait-for-skills, efficiency offsets weakness, soft-hit frames). Do **not** invent replacement theory beats unless a live note locks them on that stretch. |
+| Insert | Put it at the mark. Delete nothing |
+| Append | Put it after the mark. Delete nothing |
+| Unclear | Ask once. Do not guess. If they already stated the beat in the prior message, use that. Do not ask again for the same order. |
+
+### Anchor
+
+The **first word** of their proposed text finds the spot (click / locate / `...` first if given).
+
+1. Find that word on the clicked stretch.
+2. Work from there.
+3. Leave everything **before** the mark alone.
+4. Do not jump to a different paragraph or “related” beat.
+
+### Replace, then keep the rest
+
+When they clearly rewrite a stretch of the paragraph:
+
+1. **Replace** that portion with their words (exact; capitalize sentence starts; narrative verbs past tense per Formatting below). Keep their sentence and clause order.
+2. **Keep** the remainder of the paragraph that was not part of what they replaced.
+3. **Fix** small details in that kept remainder so they still match what they changed and the live notes / locks. Do not invent new beats. Do not explain. Just make the leftover agree (names, product line, empty vs filled, brand, and so on). Strip a leftover fact only when their new line already covers that same fact (**no double beats**, Plain Prose below).
+4. Do **not** drop their pasted lines. Do **not** throw away the untouched remainder to “clean up.”
+
+### Append when it does not fit
+
+If what they wrote does not replace anything already in the paragraph, **append** it. Do not force it into the middle.
+
+**New message / new beat append:** put a **blank line before it** (new paragraph). Do **not** glue it onto the end of the previous paragraph on the same block.
+
+**Same-paragraph append only when** they clearly continued that paragraph (blank line absent in a mid-paragraph locate, or they ordered it into that paragraph).
+
+### Locates
+
+`word?`, `...`, and short locate lines are finders only. Do not paste them into the story.
+
+Where: click first; else first-word anchor / locate / `...`. Same first word as an existing sentence → that sentence is the replace start. Undo = wrong; ask if still unclear. Do not re-guess.
+
+### Exact words on their paste
+
+- Keep their wording. No synonym swaps or style rewrites.
+- Do not invent names, places, or numbers. Ask, or keep their wording.
+- Match narrative verbs to chapter past tense per Formatting below.
+- **Never overwrite** wording they already pasted or directed in this chat when fixing a different mark, fact, or nearby sentence. A fix order is only the marked stretch. Do not "align" their prior directed line back to Source, notes, or an older draft.
+- **Clock / "fix time":** If the mark is about what time of day it is (`fix time`, `what time`, a wrong clock on the line), change **only that clock**. That is **not** a full Fix pass on the paragraph. Do not restyle nearby sentences. Do not touch duration wording they already directed (`plenty of time`) on another line. If the original line was `It was the middle of the day so he had plenty of time to let loose`, a clock correction looks like `It was late morning so he had plenty of time to let loose` (swap the clock, keep the rest).
+- **Their clock wins:** If they **state** the time (morning, noon, five, etc.), put **that** on the line. Do not recalculate against them.
+- **Same-outing continuity:** If the chapter leave lock is still in force (e.g. early morning) and **no on-page clock advance** sits between that leave and the mark, the mark is still that part of day. Reminiscence, status screens, and skill lookbacks do **not** move the wall clock.
+- **Do not read past the mark** to invent a clock. Later walks, Helci's return, or "close to seven" must not be pulled backward onto an earlier line. Derive only from prose **through the clicked / marked line** (same stop as Prepare in `Agent.mdc`).
+- Do **not** guess `middle of the day`. Do **not** answer a time-of-day order with duration-only wording (`plenty of time`, `a couple of hours` left) unless they asked for duration.
+
+### New lines / paragraph breaks
+
+**Hard lock. Never erase a new line.**
+
+1. **Never delete** a blank line that is already in the file. Never merge two paragraphs into one without their **explicit** order to merge or delete.
+2. **Never flatten** their paste. If their paste has a blank line, keep it. If they send a new beat as its own message, that beat gets its **own paragraph** (blank line before).
+3. **Never glue** a new sentence onto the previous paragraph to “keep it tidy.” That is erasing a new line.
+4. **Do not invent** blank lines **inside** a continuous paste that has none. Keep that paste’s internal shape exact.
+5. A “fix,” cleanup, Source match, or outline flow does **not** authorize removing a blank line.
+
+If unclear whether to break, keep the break. Prefer an extra blank line over swallowing one.
+
+## Style
+
+Author voice for `Story/Chapters/`. Agent follows this when writing or rewriting prose.
+
+### True facts only (hard lock)
+
+**Do not say that something did something it did not.** Every verb must be literally true of its subject. Logical. Straight. Correct. If the prior beat says he is using chanted spells and runic scrolls, do not write fireballs raining unless the chapter has him on Fireballs in that stretch.
+
+- Cut trees did not come back or return. Farther trees that were never cut can stand or still be there.
+- Slopes did not get cut for timber. Trees did.
+- Pronouns must point at the noun that actually did or received the action.
+- No false change words when nothing changed for that subject (`came back`, `returned`, `turned out`, `proved`) unless the plot is that change. Prefer what **is**.
+
+If a line would make a reader picture the wrong thing doing the wrong act, rewrite it before saving.
+
+```
+# BAD
+Basically all of the trees near the city had been cut but past that they came back.
+
+# GOOD
+Basically all of the trees near the city had been cut for timber and charcoal but past that they were still there.
+```
+
+### Voice
+
+- Plain verbs. Short to medium sentences. Roland acts with real verbs (`moved`, `stopped`, `pulled`). Never `placed himself`, `got behind`, `positioned himself`, or other soft staging talk.
+- Paste their words exact (typos fixed; sentence starts capitalized; narrative past tense).
+- No synonym swaps, no prettier words, no flowery mood, no sensory-first openings.
+- No flavor comparisons or ornamental color. No hand-holding or unasked teaching (Plain Prose below).
+- No hedge time talk (`soon enough`, `in due time`, `before long`) when a plain word works (`quickly`, `soon`). Say the real pace.
+- Keep beat coverage. Do not thin their paste. Do not truncate a sentence to “clean” it. Keep as many action beats as they say. Do not fold, drop, or invent beats.
+- Speech / thoughts / SFX and punctuation locks stay in Formatting below.
+
+### Subject opens the sentence (hard lock)
+
+Unless they explicitly order a different opening, the **grammatical subject is the first words of the sentence**. Do not lead with place, time, manner, or other staging.
+
+```
+# BAD
+Near the city the trees had been cut for timber.
+
+# GOOD
+The trees near the city had been cut for timber.
+```
+
+### Right subject (hard lock)
+
+Put the action or quality on the thing that actually has it. Never hang a verb on a nearby noun that is not doing or receiving that thing.
+
+```
+# BAD
+The slopes near the city had been cut for timber.
+
+# GOOD
+The trees near the city had been cut for timber.
+```
+
+If unsure which noun takes the verb, use their wording or ask.
+
+## Plain Prose
+
+Ordinary words in `Story/Chapters/` and in chat. Straight and logical. The story is the author's.
+
+### Story
+
+- Never paste reference shorthand, note labels, slang, or wiki jargon into the story.
+- Keep coin math and craft facts in words Roland would think. Leave sheet terms in Notes / References.
+- If a fact must land in prose, say it in ordinary language. Do not import the sheet name for it.
+- State what a thing **is**, not that it "came back," "turned out," or "proved" to be that way, unless the plot is the change. The cloth **was** light and cool. Not "came back light and cool."
+- **True facts only.** Never say a subject did an action it did not do. Hard lock and examples in Style above.
+- **No double beats.** Do not put the same fact or beat in twice (commission and "after getting," summary and detail, and so on). Say it once. When their new line covers a fact, strip that fact from the leftover rather than leaving both.
+
+### Seating
+
+- Never say seat, seats, seating, seat-time, knows seating, or any Notes quality-only ability talk in story or chat.
+- Say he can draw reliably, make them reliably, or reliably make.
+- Leave seating wording in Notes and References only.
+
+### Chat
+
+- No auctioneer, trader, gamer, or wiki voice. Banned examples include hammers, flood, take-home, crossover, soft lock, volume stretch, side grind, and similar shop talk unless they typed that exact word into a file order.
+- Name the real thing (sale price, coin after the house cut, materials cost, profit per scroll, scrolls per week).
+- No sheet tags in answers (`L5+`, activations, cum) when ordinary words work. Say the skill name, the level, and whether the number was calculated or not.
+- Answer the question. Do not teach extra system rules they did not ask for. Do not end with an offer to do more work.
+
+### Teaching ban
+
+- Never explain, justify, teach, or clarify in story unless they explicitly ordered that beat. No "so that," recipe recaps, or why-he-does-not-buy-X talk.
+- Do not add "why this matters" or background the beat does not need. The author and reader already know.
+
+## Formatting
+
+### Marks
+
+- Speech: `"*Like this.*"`
+- Thoughts: `*Like this.*`
+- Sound effects: `**SPLAT!**`
+
+### Punctuation
+
+- Never use em dashes (`—`). Use commas, periods, or ASCII hyphens (`-`).
+- Never use colons (`:`) in story prose.
+- Do not put a comma before coordinating `and` or `but`.
+
+### Prose
+
+- Clear, subject-first. Plain verbs. No flowery or ornamental mood writing.
+- Subject opens the sentence unless they order otherwise. Hard lock and examples in Style above.
+- No sensory-first / stylish inverted openings. Do not swap plain words for prettier ones.
+- Solid beat coverage: not sparse, not padded. No flavor comparisons or justifying color.
+- Prefer short to medium sentences. Never end a beat with a bare two-word sentence (`He paid.` / `He woke.` banned). Never leave a bare clock stub as its own sentence (`It was morning.` / `It was about five.` banned). A clock line that already carries another beat (`so he had plenty of time to let loose`) stays that full sentence. Change only the wrong clock words. Do **not** fold the clock into the prior sentence if that drops the other beat.
+- When rewriting a beat, keep equal or better coverage. Do not thin their pasted lines. Directed replaces and jargon / teaching bans are in this file.
+
+### POV
+
+- Third person.
+- **Past tense** for narrative. Not present. Speech and thoughts keep the tense the character would use.
+- In D's POV, stay with what he knows, notices, wants, and decides.
+- Do not enter other characters' private thoughts in his scenes. Report only what he can observe or reasonably infer.
+
+## No Forward Chapters
+
+Never name, cite, preview, or allude to any chapter beyond the ones currently in scope for this chat or task.
+
+**Same stop inside one file:** later lines, beats, characters, and outcomes past the clicked / marked line are out of scope even when they sit in the same chapter file. Do not name, allude to, or use them in replies, estimates, note entries, or ledger rows for the marked stretch. Scoped work stops at the mark.
+
+- Do not write "Ch 22", "into chapter N", "opens in…", or any later chapter number or title.
+- Do not hint at later-chapter events, reveals, inventory payoffs, lookbacks, or prose homes.
+- Do not say a beat "leads into" or "exits toward" a later chapter.
+- Notes and ledgers may mark a skip close, exit inventory, or day cut without naming a future chapter.
+
+If an exit or handoff must be labeled, use only the material in scope (e.g. skip exit, day 180, month close). Leave later chapters unnamed until the user is working on them.

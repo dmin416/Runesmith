@@ -1,11 +1,11 @@
 # Attributes
 
-> **Design loot.** Live locks: Progression.md (XP / tiers / reclass; `50 × L × RaceMult`), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. Levels.md holds live RaceMult table; Ch 4-19 XP ledger locked in Story/Notes/Experience.md. Diagnosis is the live skill name (Old Debugger).
+> **Design loot.** Live locks: Progression.md (XP / tiers / reclass; `50 × L × RaceMult`), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. RaceMult: `RaceMult.md`; XP curve: `ExperienceCurve.md`; skill ranks: `SkillRanks.md`; packages: `ClassPackages.md`; Ch 4-19 ledger: `../../Story/Notes/Experience.md`. Diagnosis is the live skill name (Old Debugger).
 
 
 Attribute explanations from the status screen. First seen: Chapter 2.
 
-For physical and mental scale: untrained adult man average **15**, trained age tables (body + adult-mind Int/Will), and linear real-output conversion (Output = k × S), see `Progression.md`.
+For physical and mental scale: untrained adult man average **15**, trained age tables (body + adult-mind Int/Will), and linear real-output conversion (Output = k × S), see `Training.md`.
 
 ## Strength
 Indicates the physical power of an individual, increases attack damage and stamina slightly.
@@ -33,33 +33,7 @@ SP: +10 per point of Endurance.
 
 ### Blood restore (human / Roland)
 
-Earth baseline for a **5 L** adult, then speed by Vit/End, then by **Recovery** skill.
-
-```
-M = ((Vitality + Endurance) / 2) / 15
-Recovery_time = 1 − 0.1 × Recovery_level    (L0 = 1.0; L5 = 0.5; L9 = 0.1)
-Recovery_rate = 1 / Recovery_time            (L5 = 2×; L9 = 10×)
-```
-
-Adult Vit/End **15/15** → **M = 1.0**. Base rates × M. Then × **Recovery_rate** for how fast he actually restores blood / closes the same class of wound.
-
-When Vit or End rises, **recompute M**. When Recovery levels, **recompute Recovery_rate**. Both stack.
-
-- **Plasma (~2.75 L):** base **100–150 mL/h** at M = 1; effective = base × M × Recovery_rate.
-- **Red cells (~2.25 L of that 5 L):** base **15–25 mL/day** at M = 1; effective = base × M × Recovery_rate.
-- Full-volume / 1 L RBC clock: base times ÷ M ÷ Recovery_rate.
-
-**Recovery covers blood loss, cuts, wounds and soft-tissue damage.** It does **not** regrow missing limbs (`Skills.md`).
-
-| Snapshot | Vit | End | M | Rec | Plasma effective | RBC effective |
-|---|---|---|---|---|---|---|
-| Adult baseline | 15 | 15 | **1.00** | L0 **1×** | 100–150 mL/h | 15–25 mL/day |
-| Roland Ch 13 (Rec L5) | 47 | 53 | **3.33** | **2×** | **~666–1000 mL/h** | **~100–166 mL/day** |
-| Roland post Ch 19 (Rec L9) | higher | higher | recompute | **10×** | M × 10 × base | M × 10 × base |
-
-**Daily Ned feed:** whole blood, not packed cells. Red-cell slice ≈ **40–45%** of the drip. Comfortable daily whole-blood feed ≈ **(effective RBC rate) / 0.45**. Ch 13 story lock **150 mL/day** whole blood sits inside the Ch 13 Rec L5 band (~100–166 mL RBC/day → ~220–370 mL whole-blood ceiling; he feeds under the ceiling). Raise the drip when M or Recovery climbs if he is still feeding “as much as he recovers.”
-
-Ned hemolymph (mass-scaled caterpillar): `../People/Ned.md`.
+Live lock, including the Ch 13 and post-Ch 19 rows: `Attributes.md`. Ned feed: `../People/Ned.md`.
 
 ## Intelligence
 Increases an individual's mana points, magic attack and learning speed. Helps visualize and recall spell circles (Chapter 10).
@@ -79,15 +53,7 @@ Increases the chance of critical attacks and other various skills related to cha
 
 ## Resource Formulas
 
-First worked out by Roland in Chapter 2. Checked against later status sheets.
-
-- HP = (Vitality x 10) + (Endurance x 3)
-- SP = (Endurance x 10) + (Strength x 3) + (Agility x 3)
-- MP = (Intelligence x 10) + (Willpower x 4)
-
-**Cast law:** `Useful (J) = mana × 10 × η(L) × μ(INT) × A` with `η(1)=0.3`, `η(L)=1+(L-2)×2/7` (L2=1 … L9=3), `μ=(INT/15)^0.8`, ambient `A = √C` (open ground **A = 1**). See `../World/Science/Energy/ManaCast.md` / `../Runes/Energy.md`.
-
-Skill, trait and class bonuses can raise displayed MP above the bare attribute total. Chapter 23: low mana → dizzy/sleepy; **zero MP** → splitting headache and possible pass-out, plus a next-day mana-regen debuff.
+Live locks: `Attributes.md`. Skill-cast row, including μ: `../Runes/Energy.md`. Worked spell tables: `../World/Science/Energy/ManaCast.md`.
 
 ## Elemental affinities
 
@@ -100,20 +66,17 @@ Chapter 6 book: an **elemental affinity skill** needs at least **~1%** affinity.
 ## Class resource bonuses (examples)
 
 ### Mage (Tier 1)
-First seen: Chapter 5–6 skill card
-- **+2% max mana** per Mage class level
-- **+1% mana regeneration** per Mage class level
-`MP = ((Int×10)+(Will×4)) × (1 + 0.02 × Mage level)`. Regen rating **+1% × Mage level**. Source fixed **+20% / +15%** discarded. **Blessed by Mana** is narrative regen feel only (no flat MP). Kept as secondary. See `Skills.md`.
+First seen: Chapter 5–6 skill card. **Class card (narrative):** mana recovery. Kept as primary/secondary; lost when Mage is dropped. **Class levels** only add permanent Int/Will. Source fixed **+20% / +15%** discarded. **Blessed by Mana:** multiplies mana recovery (narrative; no flat MP). See `Attributes.md` / `Skills.md`.
 
 ## Attribute perks
 
-Rewrite map of one perk per core attribute at **40**. Full list and notes: `Skills.md` (Attribute perks under Traits).
+Rewrite map of one perk per core attribute at **40**. Full list and notes: `SkillsDesign.md` (Attribute perks under Traits).
 
 | Stat | Perk name | Perk theme | Threshold |
 |---|---|---|---|
 | Strength | Titan's Back | Carry capacity | 40 |
 | Dexterity | Exacting Motion | Accuracy of body movement | 40 |
-| Intelligence | Blessed by Mana | Mana regeneration (narrative) | 40 + Mage |
+| Intelligence | Blessed by Mana | Multiplies mana recovery (narrative) | 40 + Mage |
 | Willpower | Unbroken Focus | Focus | 40 |
 | Agility | Sure Footing | Balance | 40 |
 | Vitality | Defiance of Years | Reduced aging | 40 |

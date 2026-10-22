@@ -1,6 +1,6 @@
 # Ned Visual Prompts
 
-> Image-gen prompts only. Not story canon. Species look: `../../References/World/Fauna/NeedleWorm.md`.
+> Image-gen prompts only. Not story canon. Species look: `../../References/World/Fauna/Species/NeedleWorm.md`.
 
 ## Prompts
 

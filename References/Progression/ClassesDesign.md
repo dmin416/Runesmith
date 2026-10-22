@@ -1,6 +1,6 @@
 # Classes
 
-> **Design loot.** Live locks: Progression.md (XP / tiers / reclass; `50 × L × RaceMult`), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. Levels.md holds live RaceMult table; Ch 4-19 XP ledger locked in Story/Notes/Experience.md. Diagnosis is the live skill name (Old Debugger).
+> **Design loot.** Live locks: Progression.md (XP / tiers / reclass; `50 × L × RaceMult`), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. RaceMult: `RaceMult.md`; XP curve: `ExperienceCurve.md`; skill ranks: `SkillRanks.md`; packages: `ClassPackages.md`; Ch 4-19 ledger: ../../Story/Notes/Experience.md. Diagnosis is the live skill name (Old Debugger).
 
 
 Named game-system classes in the story. Deduped from Source status screens, books and theory talk. Spelling variants noted. See `RolandClasses.md` for Roland’s path only.
@@ -12,7 +12,7 @@ Classes go from **Tier 1 through Tier 5**.
 | Tier | Role in the story |
 |---|---|
 | 1 | First ascension. Level cap 25 before moving on. |
-| 2 | Common next step. Normal growth about ×1.5; prestige Lords ×2. Forward-only on new levels; see `Levels.md`. |
+| 2 | Common next step. Normal growth about ×1.5; prestige Lords ×2. Forward-only on new levels; see `ClassPackages.md`. |
 | 3 | Major power jump. Most late cast. Normal about ×3; High-Lord ×4; Overlord ×4.5. Forward-only on new levels. |
 | 4 | Living elite (dukes, headmistress-tier). Roland has not reached this. |
 | 5 | Legendary / historical peak (e.g. Arch Magus Eldoria said to have reached Tier Five). |
@@ -25,7 +25,7 @@ No Tier 6 class tier is established for people.
 
 The basic Tier 1 set most people receive on first ascension. First named together: Chapter 4.
 
-Each level in that class grants **+1** to each listed attribute at Tier 1 (growth rate ×1). Higher tiers scale the package; see `Levels.md`.
+Each level in that class grants **+1** to each listed attribute at Tier 1 (growth rate ×1). Higher tiers scale the package; see `ClassPackages.md`.
 
 | Class | Broad band | Stats per level (T1) |
 |---|---|---|
@@ -38,7 +38,7 @@ Each level in that class grants **+1** to each listed attribute at Tier 1 (growt
 
 Chapter 4 prose also notes Mage leans on Intelligence (attack / mana) and Willpower (concentration / mana regen), which matches the package. Ascension stones can be bought after the first freebie; later uses need a trial. Tier 2 unlocks need at least one maxed Tier 1 (among other requirements). Books claim the first class is auto-assigned from stats/skills; Roland’s Chapter 5 space still lets him confirm Mage. Used first-ascension crystal turns to dust.
 
-More Tier 1 classes exist. World talk groups them as **combat**, **production** and **support**, then into specialized lines. Other T1 packages (e.g. Mana Scribe) are in `Levels.md`.
+More Tier 1 classes exist. World talk groups them as **combat**, **production** and **support**, then into specialized lines. Other T1 packages (e.g. Mana Scribe) are in `ClassPackages.md`.
 
 ### Combat basics
 - **Warrior** – First seen: Chapter 4–5. Common T1; feeds many knight paths.
@@ -53,7 +53,7 @@ More Tier 1 classes exist. World talk groups them as **combat**, **production** 
 - **Mana Warrior** – First seen: Chapter 45 (explained). Tier 1 hybrid; Scorching / Mana Slash / Mana Thrust kit. Also status ~Chapter 200+. War Magus / Magic Swordsman lines.
 
 ### Magic and faith
-- **Mage** – First seen: Chapter 4–5 (named in Chapter 4 common list; attained Chapter 5). Roland’s first class; common caster T1. **Class card (locked):** **+2% max mana** and **+1% mana regeneration** per Mage class level (replaces Source fixed +20% / +15%). Package: Int +1 / Will +1 per level. Grants Basic Mana Shaping, Regulation, Incantation, Mana Bolt.
+- **Mage** – First seen: Chapter 4–5 (named in Chapter 4 common list; attained Chapter 5). Roland’s first class; common caster T1. **Class card (locked, narrative):** mana recovery. Kept while Mage is primary or secondary; lost when Mage is dropped from the secondary slot (switch secondary **once per day**). Source fixed +20% / +15% discarded. **Class levels** only add the permanent package: Int +1 / Will +1 per level. Grants Basic Mana Shaping, Regulation, Incantation, Mana Bolt.
 - **Acolyte** – First seen: Chapter 4–5 (book); Chapter 19 Solaria priests. Church path toward Cleric / Paladin. Churches produce class-change stones.
 - **Cleric** – First seen: ~Chapter 191. Church line with Acolyte.
 - **Dark Acolyte / Fallen Acolyte / Blade Acolyte** – First seen: ~Chapter 211 / 391.
@@ -65,10 +65,10 @@ More Tier 1 classes exist. World talk groups them as **combat**, **production** 
 - **Clairvoyant** – First seen: ~Chapter 451. Lucienne; Oracle goal.
 
 ### Craft and support
-- **Blacksmith** – First seen: Chapter 4–5. Common craft; Bamur/Dunan/Bernir paths.
-- **Mana Scribe** – First seen: Chapter 6. Scroll craft. Requires **Calligraphy** plus **Mage**. Makes one-use magic scrolls. Weak class package / leveling; treated as a side job that sells to adventurers. Gate for Runesmith and Enchantsmith. Common second T1 for mages before an elemental mage at T2. Trial (book): inscribe a basic spell to paper with temporary scribing skill; fail and the skill knowledge is forgotten. Chapter 21 Edelgard: academy kids get soft shop contracts; solo Scribes get harsh multi-year cursed deals.
-- **Runic Mana Scribe** – First seen: Chapter 16. Roland prestige Scribe (Runic Scholar title unlock; not in the Arden books). **Class card (locked):** increases mana regeneration; **eases learning while scribing** — narrative only, no mana-cost or output term. Each class level makes rune patterns faster to pick up and diagrams faster to complete correctly the first time (fewer failed pours, faster path to a clean schematic), the class-side counterpart to the persistent per-level bonus on **Basic Rune Scribing** below. **Temporary by design:** this is a class perk, not a skill, so it is lost once Roland leaves this T1 class for a later class (Runic Blacksmith, Runesmith, etc.) — unlike the skill bonus, which stays on the sheet forever. **Chapter prose:** Ch 16 class card and Ch 33–34 Scribe bonus talk use learning-ease wording (`Story/Chapters/10-18.md`, `31-40.md`). Separate from **Basic Rune Mastery** (activation) and from **Runecraft** (item engraving; its own skill-level setup discount, no class bonus reaches items). Trial: timed lesser fire orb **rune** scroll (harder than plain Scribe word-scroll). Grants Basic Mana Scribing, Basic Rune Scribing and Basic Rune Mastery. Chapter 25: treated as a rare unique class; Grimboodle manager invests after Identifying L10. Chapter 27: **L20** main (overall L45; Mage L25 secondary); ~half year estimated to Blacksmith threshold.
-- **Runic Blacksmith** – First seen: Chapter 34–35. Roland prestige smith.
+- **Blacksmith** – First seen: Chapter 4–5. Common craft; Bamur/Dunan/Bernir paths. **Class card (locked, narrative):** increased **fire resistance** and increased **stamina recovery**. Kept while Blacksmith is primary or secondary; lost when dropped from the secondary slot. **Class levels** only add the permanent package: Str +1 / End +1 / Dex +1 per level.
+- **Mana Scribe** – First seen: Chapter 6. Scroll craft. Requires **Calligraphy** plus **Mage**. Makes magic scrolls (mundane stock single-use on cast; magic stock multi-use). Weak class package / leveling; treated as a side job that sells to adventurers. Gate for Runesmith and Enchantsmith. Common second T1 for mages before an elemental mage at T2. Word-scroll engine baseline: Mage+Scribe on body 15 (`../../Runes/MagicScrollMaking.md`). Trial (book): inscribe a basic spell to paper with temporary scribing skill; fail and the skill knowledge is forgotten. Chapter 21 Edelgard: academy kids get soft shop contracts; solo Scribes get harsh multi-year cursed deals.
+- **Runic Mana Scribe** – First seen: Chapter 16. Roland prestige Scribe (Runic Scholar title unlock; not in the Arden books). **Class card (locked):** increases mana regeneration; **eases learning while scribing** — narrative only, no mana-cost or output term. Each class level makes rune patterns faster to pick up and diagrams faster to complete correctly the first time (fewer failed pours, faster path to a clean schematic), the class-side counterpart to the persistent per-level bonus on **Basic Rune Scribing** below. **Temporary by design:** this is a class perk, not a skill, so it is lost once Roland leaves this T1 class for a later class (Runic Blacksmith, Runesmith, etc.) — unlike the skill bonus, which stays on the sheet forever. **Chapter prose:** Ch 16 class card and Ch 33–34 Scribe bonus talk use learning-ease wording (`../../Story/Chapters/10-18.md`, `../../Story/Chapters/27-34.md`). Separate from **Basic Rune Mastery** (activation) and from **Runecraft** (item engraving; its own skill-level setup discount, no class bonus reaches items). Trial: timed lesser fire orb **rune** scroll (harder than plain Scribe word-scroll). Grants Basic Mana Scribing, Basic Rune Scribing and Basic Rune Mastery. Chapter 25: treated as a rare unique class; Grimboodle manager invests after Identifying L9. Chapter 27: **L20** main (overall L45; Mage L25 secondary); ~half year estimated to Blacksmith threshold.
+- **Runic Blacksmith** – First seen: Chapter 34–35. Roland prestige smith. **Class card (locked, narrative):** same as Blacksmith — increased **fire resistance** and increased **stamina recovery**. Kept while primary or secondary; lost when dropped. Source pool % / inscription-cost class lines discarded (cost cuts stay on skills). **Class levels** permanently raise the smith package (Str/End/Dex; runic path also pads Int/Will in later sheets as the chapter shows).
 - **Runic Archer / Runic Warrior** – First seen: Chapter 34. Offered to Roland; not taken.
 - **Herbalist / Brewer** – First seen: ~Chapter 361. Alchemy path.
 - **Carpenter** – First seen: ~Chapter 151.
@@ -81,7 +81,7 @@ More Tier 1 classes exist. World talk groups them as **combat**, **production** 
 ## Tier 2
 
 ### Runes and enchanting
-- **Runesmith** – First seen: Chapter 6. Core craft goal; Hasim/Brylvia path. Places runes (symbol language) on weapons and armor. Harder than Enchantsmith; better results. Needs Blacksmith path plus Mana Scribe plus **Runecraft** (inscribe a rune on an item; skill books exist; Chapter 17: Rune Mastery from Runic Mana Scribe is not a substitute). Chapter 27: Roland notes Runecraft only becomes learnable in later Blacksmith stages; paper Impact tests are nearly useless. Craft quality leans on Intelligence and Dexterity; mana helps make and use runes.
+- **Runesmith** – First seen: Chapter 6. Core craft goal; Hasim/Brylvia path. Places runes (symbol language) on weapons and armor. Harder than Enchantsmith; better results. Needs Blacksmith path plus Mana Scribe plus **Runecraft** (inscribe a rune on an item; skill books exist; Chapter 17: Rune Mastery from Runic Mana Scribe is not a substitute). Chapter 27: Roland notes Runecraft only becomes learnable in later Blacksmith stages; paper Impact tests are nearly useless. Craft quality leans on Intelligence and Dexterity; mana helps make and use runes. **Rune quality** = perfection → `η_cond`. Magic scroll craft: `../../Runes/MagicScrollMaking.md`.
 - **Enchantsmith** – First seen: Chapter 6 / status ~Chapter 151. Bamur; common alternate to Runesmith. Word-language enchantments (easier than runes). Same Scribe gate.
 - **Runesmith Lord** – First seen: Chapter 77–81. Roland prestige. Chapter 77: appears above other T2 options as armored runesmith sprite (hammer + sword). Chapter 78–80: hybrid craft+combat trial (coliseum arena, forge rise, hourglass, craft gear then fight gates); no temporary class skills; no instruction books. Waves: Pale Imps → Spiked Devils → Hell Hounds → Chain Devil L65. Arena lightning web; post-clear heal + library skill/knowledge dump (*Secrets of Rune Smithing*).
 - **Runic Engineer** – First seen: Chapter 191–196. Roland second T2.

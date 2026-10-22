@@ -1,6 +1,6 @@
 # Moons
 
-Hub: `Space.md`. World: `../World.md`. Ambient soak: `../Science/Energy/ManaConcentration.md`. Metal conversion: `../Materials/Metals.md`. Stone path: `../Materials/MonsterCores.md`. Availability tags: `../Materials/Materials.md`.
+Hub: `Space.md`. World: `../World.md`. Ambient soak: `../Science/Energy/ManaConcentration.md`. Metal conversion: `../Materials/Metals.md`. Stone path: `../Materials/MonsterCores.md`. Availability tags: `../Materials/Materials.md`. Rigid filament strike thought experiment: `Orbit/KilometerHair.md`.
 
 ## Narrative
 

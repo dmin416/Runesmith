@@ -2,7 +2,7 @@
 
 Spell-specific worked tables: `../World/Science/Energy/ManaCast.md`. Altitude density: `../World/Science/Energy/ManaConcentration.md`. Stone size / mass tables: `../World/Science/Energy/ManaStones.md`. Stone law: `../World/Materials/MonsterCores.md`. Metals / hosts: `../World/Materials/Metals.md`.
 
-Design companions: `EnergyDesign.md` (electrical analogy, wear stages, body-path proposals), `RuneSystem.md`, `RuneSetup.md`, `ManaMaterials.md`, `Nature.md`. Live lock: Ag→mythril; Au→orihalcum (MR=% / antimagic); Cu→aurium; Fe/steel→dark→star; Ti→adamantium cast-final (`../World/Materials/Metals.md`); η_cond = quality ladder in **20%** blocks (Lowest **0.2** → Highest **1.0**); host feel is narrative only. Future spell idea math: `../PotentialMagic/PotentialMagic.md` (design loot; same cast law).
+Design companions: `EnergyDesign.md` (electrical analogy, wear stages, body-path proposals), `RuneSystem.md`, `RuneSetup.md`, `ManaMaterials.md`, `Nature.md`. Live lock: Ag→mythril; Au→orihalcum (MR=% / antimagic); Cu→aurium; Fe/steel→dark→star; Ti→adamantium cast-final (`../World/Materials/Metals.md`); η_cond = **rune quality** ladder in **20%** blocks (Lowest **0.2** → Highest **1.0**); host feel is narrative only. Not scroll quality. Future spell idea math: `../PotentialMagic/PotentialMagic.md` (design loot; same cast law).
 
 ## Narrative
 
@@ -23,6 +23,8 @@ Mana is an energy that saturates the world. It is both a particle and a spiritua
 **Compression:** With intention, compressed mana can gain mass. It wants equilibrium, same as ordinary compression.
 
 **Movement:** Any form of mana movement is technically unnatural. It may not harm anything. The unnatural part is still true.
+
+**Behavior (soft internal note, not a hard lock):** Mana is arbitrary and narrative. It can clash or pass through, be friendly or competitive. Sending mana fast needs something to take care of that conflict, the way fast air projectiles need to deal with drag and compression. At some point narratively, ambient mana may not like a spell crashing through it. Do not spreadsheet this; pull it only when a beat wants the feel (egg Bolt vs tiny hyper-fast slug, dense fields, etc.).
 
 **Material interaction:** Mana passing through or alongside materials may spontaneously impart more energy than it is exerting.
 
@@ -45,13 +47,15 @@ Useful (J) = mana × 10 × η(L) × μ(INT) × A
 A      = √C                     // ambient; open ground A = 1
 ```
 
+**Mana Hands exception:** telekinetic work uses joules from physics, then `mana_paid = (J / (10 × μ(INT) × A)) × R` with Hands-track waste \(R\) (not Bolt \(\eta(L)\)). Canon: `../Progression/ManaHands.md`. Worked table: `../World/Science/Energy/ManaCast.md` § Mana Hands.
+
 | L | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 |---|---|---|---|---|---|---|---|---|---|
 | η | 0.30 | 1.00 | 1.29 | 1.57 | 1.86 | 2.14 | 2.43 | 2.71 | 3.00 |
 
 η is a level power factor, not a 0–1 cap. Combined INT × level feel lands about **1× to 10×** in normal bands.
 
-**Voice / mana-in (Bolt baseline):** Mental 10, Whisper 15, Quiet 20, Normal 25, Loud 40, Very loud 50. Voice only sets mana spent. Overcharge = mana used. Spell-specific voice tables (Arrow 2× Bolt, etc.): `../World/Science/Energy/ManaCast.md`.
+**Voice / mana-in (Bolt baseline):** Whisper 15, Quiet 20, Normal 25, Loud 40, Very loud 50. Quiet floor is whisper (near-silent). Mental / true silent never lands a normal magic spell (`../../Story/Notes/SilentCasting.md`). Voice only sets mana spent. Overcharge = mana used. Spell-specific voice tables (Arrow 2× Bolt, etc.): `../World/Science/Energy/ManaCast.md`.
 
 **Mana-in channels (what sets mana spent):** Voice/volume, emotional intensity / focus / skill, and overcharge all only change **how much mana** goes into the cast. They do not change η(L) or μ(INT). A whisper from a furious focused caster and a shout from a calm one can land on the same mana total and the same joules.
 
@@ -65,7 +69,7 @@ A      = √C                     // ambient; open ground A = 1
 
 **Runes:** Runic energy is mana. Same substance, rules-based use.
 
-**Ink:** Blood or mana ink carries a usable path. Ordinary ink is like writing with water: almost no usable channel. Monster blood can work as path material; quality depends on the blood.
+**Ink:** Blood or mana ink carries a usable path. Ordinary ink is like writing with water: almost no usable channel. Monster blood can work as path material; quality depends on the blood. Earth ordinary / print / blood-pigment catalog: `../World/Science/Invent/Ink.md`.
 
 ### Pools
 
@@ -109,7 +113,7 @@ Both pathways multiply by `A` after their own efficiency term. Fully sealed rune
 
 ### Temporary magic
 
-Magical phenomena that are not enchanted or runed are temporary. Earth walls, ice, fire, and similar hit hard while they exist, then fade fast. A fireball can cost the same as a shield and feel grenade-scale while active, but when the spell ends the ground is not baked and bodies are not lava. Mana pays the spell effect, not lasting leftover real-world energy. Fire and similar break hard joule ladders; treat scale as narrative feel, not thermal inventory after the spell is gone.
+Magical phenomena that are not enchanted or runed are temporary. Earth walls, ice, fire, and similar hit hard while they exist, then fade fast. A fireball (Ball rung **~400 MP**) hits far harder than a basic shield (**~100 MP**) and can feel grenade-scale while active, but when the spell ends the ground is not baked and bodies are not lava. Mana pays the spell effect, not lasting leftover real-world energy. Fire and similar break hard joule ladders; treat scale as narrative feel, not thermal inventory after the spell is gone.
 
 **Fire's chemical energy is not the spell's energy.** A fire spell is an ignition source. With fuel present the fuel's own energy follows and is not part of the spell budget. With no fuel the fire is capped by the spell's Useful output. Do not scale mana cost by how energetic fire is in general.
 
@@ -119,7 +123,7 @@ Magical phenomena that are not enchanted or runed are temporary. Earth walls, ic
 
 **Mana-rich places can still help them:** a dense / spiritually thick field may ease the body and spirit (rest, recovery feel, narrative healing). That is **not** stored mana. When they leave, they do **not** carry a fuller tank; they never had one.
 
-**Forced / unnatural absorb is radiation-class danger.** Using Mana Sense (or similar) to see ambient mana and then **moving** that natural mana into a body that cannot hold it is unnatural. It poisons or kills (original Roland's death; D's early scare). Treat like radiation: visible / tangible mist does not make it safe to drink. Safe ambient absorb starts with a real pool (Mage, Acolyte, or equivalent).
+**Forced / unnatural absorb is radiation-class danger.** Using Mana Sight (or similar) to see ambient mana and then **moving** that natural mana into a body that cannot hold it is unnatural. It poisons or kills (original Roland's death; D's early scare). Treat like radiation: visible / tangible mist does not make it safe to drink. Safe ambient absorb starts with a real pool (Mage, Acolyte, or equivalent).
 
 **Mana (with a pool):** Rate depends on mana left and total pool. Old equation family kept:
 
@@ -148,8 +152,9 @@ Magical phenomena that are not enchanted or runed are temporary. Earth walls, ic
 |---|---|---|
 | Direct skill cast | Skill η(L), Intelligence μ(INT), ambient `A` | `Useful = mana × 10 × η(L) × μ(INT) × A` |
 | Rune / item path | Rune quality level → η_cond, host feel, ambient `A` | `Useful = mana × 10 × η_cond × A` |
+| Absorbing **scroll** activation | Materials ceiling (blood + hide) × caster boost; η_cond on the path; ambient `A` | Mana push: × `μ(INT)`. Stamina push: × physical-skill boost (farmer ≈ 1×). Cap at materials ceiling. Full lock: `MagicScrollMaking.md` § Scroll power from materials |
 
-These two rows are **alternatives, not a chain.** Never multiply η(L)/μ(INT) with η_cond on the same cast. Both may take the same ambient `A = √C`. Spell-worked tables: `../World/Science/Energy/ManaCast.md`.
+Direct skill cast and plain rune / item path are **alternatives, not a chain.** Never multiply skill η(L) with η_cond on the same cast. **Scroll activation** is the third row: materials set the ceiling; caster INT (mana) or physical skills (stamina) scale inside it; η_cond still governs path waste / pay. Both may take the same ambient `A = √C`. Spell-worked tables: `../World/Science/Energy/ManaCast.md`.
 
 **Stat-grant skills are never a multiplier.** Mana Shaping, Mana Regulation, Mana Absorption, Mana Reinforcement and kin only hand out flat INT/WIL (or similar). They raise output only by feeding `μ(INT)`. No second "shaping efficiency" term.
 
@@ -161,7 +166,7 @@ Electricity is the physical model for how mana **moves through material** (flow,
 
 **Primary dial: rune quality level** (Lowest → Low → Intermediate → High → Highest; see `RuneSystem.md`). Locked as straight **20%** blocks of useful mana (`η_cond`). Waste = the rest (`1 − η_cond`) as heat / stray discharge.
 
-| Quality | η_cond | Useful share | Waste share |
+| Rune quality | η_cond | Useful share | Waste share |
 |---|---:|---:|---:|
 | Lowest | **0.20** | 20% | 80% |
 | Low | **0.40** | 40% | 60% |
@@ -189,7 +194,7 @@ Host material is a second **narrative** feel axis (dirty iron vs clean mythril),
 - **Body / blood ink:** living path. Excellent handling; still breaks like flesh.
 - **Mythril:** cleanest common host for reusable runic gear.
 - **Orihalcum:** antimagic. Prime proof that mana conductivity ignores electricity: gold conducts current well; orihalcum swallows mana. Enchanting it is like projecting a movie onto black velvet: the image is swallowed and nothing seats. Not a rune host.
-- **Adamantium:** carries little to no mana. Enchanting it is like projecting a movie onto clear glass: the image passes through and will not stick and its indestructible cast-final body will not take alteration. Not a rune host. It makes a great indestructible cover over a proper rune inlay (mythril or other real path metal underneath).
+- **Adamantium:** stiff rune host. Can be enchanted and runed; seating takes more work and skill because the frozen lattice will not yield (cast-in grooves or resonance-cut lines). Once seated, path geometry is permanent. Mythril stays easier for everyday gear. Detail / electron-melt costs: `../World/Materials/Metals.md`.
 
 Direct casts never use η_cond. A mythril wand does not buff Mana Bolt; it only helps the **rune path** seated on it.
 

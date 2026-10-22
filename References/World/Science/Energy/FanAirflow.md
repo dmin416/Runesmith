@@ -1,6 +1,6 @@
 # Fan Airflow
 
-Order-of-magnitude fan sizing for bellows, hoods, cloak blowers and magitech air movers. Air density at room temp: **ρ ≈ 1.2 kg/m³**. Mana paying shaft work: `../../../Runes/Energy.md`, `ManaCast.md`.
+Order-of-magnitude fan sizing for bellows, hoods, cloak blowers and magitech air movers. Quiet dryer (heat vs fan mana, slow blower): `QuietBlowDryer.md`. Air density at room temp: **ρ ≈ 1.2 kg/m³**. Mana paying shaft work: `../../../Runes/Energy.md`, `ManaCast.md`.
 
 ## Narrative
 
@@ -100,5 +100,5 @@ Hand bellows and forge blowers are axial / radial craft. Magitech can hit centri
 
 ## Open
 
-- Pull CloakAirCooling into this folder or Science when personal cooling returns
+- Personal compress-expand cooling: `Compression.md` (cloak air cooling)
 - Pump counterpart: MostRecentNotes `pump-technology.md`

@@ -16,7 +16,7 @@ Directly behind the office. He walks around the block instead of jumping the fen
 
 ### Ascension space (first class)
 First seen: Chapter 5
-Personal trial realm shaped from the user’s memories. Roland’s is his old Earth apartment building plus a VR-headset tutorial field (grassy plain, training dummy, mage clone). Real body stays in place; long subjective time can equal seconds outside. First crystal use grants class; crystal becomes dust after.
+Personal trial realm shaped from the user’s memories. Roland’s is his old Earth apartment building plus a VR-headset tutorial field (grassy plain, training dummy, mage clone). Real body stays in place. Long subjective time can equal seconds outside (`../../../Progression/Progression.md`). First crystal use grants class; crystal becomes dust after.
 
 ## Terra
 
@@ -28,7 +28,7 @@ Human-majority kingdom. Roland wakes here as a son of House Arden. Fairly large 
 
 ### Arden estate / mansion
 First seen: Chapter 2
-Baron Arden's home. Roland's room starts on the top floor in a side wing. After Mana Sense standing rises (Chapter 4), he moves into better quarters in the family inner circle. Servants bow; brothers resent him. Fields outside use Trox for plowing. Mansion **dungeon** holds training goblins for the age-9 bravery test, weekly **1v1** clears into the pre-class bank, then weekly **2×** clears for ~3 months after Mage. Hedge gap near the ladies’ flower garden is Roland’s sandwich hideout (Chapter 7; Lucienne finds it).
+Baron Arden's home. Roland's room starts on the top floor in a side wing. After Mana Sight standing rises (Chapter 4), he moves into better quarters in the family inner circle. Servants bow; brothers resent him. Fields outside use Trox for plowing. Mansion **dungeon** holds training goblins for the age-9 bravery test, weekly **1v1** clears into the pre-class bank, then weekly **2×** clears for ~3 months after Mage. Hedge gap near the ladies’ flower garden is Roland’s sandwich hideout (Chapter 7; Lucienne finds it).
 
 ### Arden library
 First seen: Chapter 3
@@ -40,7 +40,7 @@ Family meals with the Baron, wives and children. Roland sits furthest back by ra
 
 ### Carwen
 First seen: Chapter 7
-Mid-kingdom walled adventurer town with a dungeon nearby. Mixed Victorian-ish civilian clothes and full-plate knights. Roland arrives by mana train after Lustile is denied. Goblin forest and farms sit nearby.
+Mid-kingdom walled adventurer town with a dungeon nearby. Mixed Victorian-ish civilian clothes and full-plate knights (era mix: city access + wealth; see `../Tech/Technology.md`). Roland arrives by mana train after Lustile is denied. Goblin forest and farms sit nearby.
 
 ### Lustile
 First seen: Chapter 6 (named; not visited)
@@ -67,7 +67,7 @@ Chapter 8–9: small walled town (monster defense). Gate fee 5 large copper; adv
 
 ### Carwen inn
 First seen: Chapter 9
-Cheap inn where Roland eats his first town meal and later rents a room upstairs during the Ch 9.5 goblin grind (present day in Chapter 10). Large waitress in festival-style wench dress; muscular one-eyed scarred bartender. Bard with lute. First meal: porridge + grilled meat for **5 large copper** (bland; porridge alone would be **2 LC**). Lodging quote **1 small silver**/night; +**5 large copper** breakfast; monthly ~**10%** off in Ch 9 (**30** × 1 SS = **300** → **270 LC**); same **10%** / **270 LC** through Ch 13 (Source **5%** discarded; see `../Society/Economy.md` + `EconomyDesign.md`). Keepers named Hilde (bar lady) and Boris (bartender husband).
+Cheap inn where Roland eats his first town meal and later rents a room upstairs during the Ch 9.5 goblin grind (present day in Chapter 10). Large waitress in festival-style wench dress; muscular one-eyed scarred bartender. Bard with lute. First meal: porridge + grilled meat for **5 large copper** (bland; porridge alone would be **2 LC**). Lodging quote **1 small silver**/night; +**5 large copper** breakfast; monthly ~**10%** off in Ch 9 (**30** × 1 SS = **300** → **270 LC**); same **10%** / **270 LC** through Ch 13 (Source **5%** discarded; see `../Society/Economy/Economy.md` + `../Society/Economy/EconomyDesign.md`). Keepers named Hilde (bar lady) and Boris (bartender husband).
 
 ### Carwen dungeon
 First seen: Chapter 10 (entry planned; first delve Chapter 11)
@@ -119,7 +119,7 @@ Edelgard weapon shop (sword and ax sign). Owner is a Runesmith on the Weaponsmit
 
 ### Libra Auction House
 First seen: Chapter 21
-Edelgard auction house marked by a scale sign. Curvy elf barker rings a bell and advertises night auctions. Entrance fee **2 small silver** (weeds window shoppers; waived for sellers with plaque). Takes stock by day and auctions at night. Multiple ranked stages (common/grand vs higher; no grand sword before lesser potion). Rejects items below a price floor. Appraiser **Percival** (analytic class with appraisal/ID; no mana tool needed) and assistant **Cynthia**. Auctioneer beauty in a red dress; paddle bidding; count of three. First-timer seller fee **25%**, can fall to **10%**. Sellers get a numbered plaque and may watch from the back; payout only after the night auction ends (buyers who refuse are reported to city guards). Chapter 22: Roland's comet-logo Common Fire Arrow set (8 High + 2 Highest) sold as two boxes of five for 4L+5S and 4L+7S (~1 SG gross). Chapter 23: seller **#64** nets **6L+9S**; later weekly ~10 Fire Arrow scrolls ≈ 1 SG.
+Edelgard auction house marked by a scale sign. Curvy elf barker rings a bell and advertises night auctions. Entrance fee **2 small silver** (weeds window shoppers; waived for sellers with plaque). Takes stock by day and auctions at night. Multiple ranked stages (common/grand vs higher; no grand sword before lesser potion). Rejects items below a price floor. Appraiser **Percival** (analytic class with appraisal/ID; no mana tool needed) and assistant **Cynthia**. Auctioneer beauty in a red dress; paddle bidding; count of three. First-timer seller fee **25%**, can fall to **10%**. Sellers get a numbered plaque and may watch from the back (Ch 22: third hall hosts common **and** grand); payout only after the night auction ends (buyers who refuse are reported to city guards). Chapter 22: Percival guide **~7–8 LS** per Highest empty Fireball; Roland's comet-logo Common Fireball set (10 Highest, empty) sold as two boxes of five, open **32 LS**, hammers **42 LS** + **46 LS** (**8 SG 8 LS** gross). Chapter 23: seller **#64** nets **6 SG 6 LS** (wallet **6 SG 6 LS 1 SS**); later weekly ~10 Fire Arrow scrolls ≈ 1 SG.
 
 ### Manstos Grotto
 First seen: Chapter 27
@@ -139,7 +139,7 @@ Large southern Caldris island under an aristocrat Duke. Central volcano + S-rank
 
 ### Albrook
 First seen: Chapter 55 (named; destination); Chapter 68 (arrived)
-Small town in a Dragnis Island valley by a new volcanic dungeon (smoke from a mountain that burst through recently; ~6 months old by Chapter 71). Early boom: wall under construction; south gate fee; poor quarter → traders' street → market square. Red-brick buildings; glass windows rarer toward the edges. Absentee noble; commoner mayor/manager. Adventurer guild renovating a large house (sign going up). Roland registers as Wayland (Chapter 68: claims Steel; Chapter 70: issued Bronze for lack of prior-card info; dungeon free entry). Chapter 69–70: buys abandoned red-brick farmhouse + log shack ~40 min outside town (**~30 SG** rewrite lock; large cellar; skips triple-price extra farmland; ~half acre). Boom-town plot pricing: `../Society/EconomyDesign.md` §15 (not quiet-frontier dirt rates). Plans cellar runic workshop + dummy shed smithy; renovation firm booked ≥3 weeks out. Chapter 77 (~1 year later): log+barbed wall; thieves hit dummy shed; Solaria church; dungeon entrance card checks after a farmer dies; potion cart → fixed store; Roland known as crimson-armored craftsman / "disciple."
+Small town in a Dragnis Island valley by a new volcanic dungeon (smoke from a mountain that burst through recently; ~6 months old by Chapter 71). Early boom: wall under construction; south gate fee; poor quarter → traders' street → market square. Red-brick buildings; glass windows rarer toward the edges. Absentee noble; commoner mayor/manager. Adventurer guild renovating a large house (sign going up). Roland registers as Wayland (Chapter 68: claims Steel; Chapter 70: issued Bronze for lack of prior-card info; dungeon free entry). Chapter 69–70: buys abandoned red-brick farmhouse + log shack ~40 min outside town (**~30 SG** rewrite lock; large cellar; skips triple-price extra farmland; ~half acre). Boom-town plot pricing: `../Society/Economy/EconomyDesign.md` §15 (not quiet-frontier dirt rates). Plans cellar runic workshop + dummy shed smithy; renovation firm booked ≥3 weeks out. Chapter 77 (~1 year later): log+barbed wall; thieves hit dummy shed; Solaria church; dungeon entrance card checks after a farmer dies; potion cart → fixed store; Roland known as crimson-armored craftsman / "disciple."
 
 ### Albrook Dungeon
 First seen: Chapter 71 (entered)
@@ -151,7 +151,7 @@ Albrook poultry restaurant. Commoner kitchens lean on **salt** (and cheap local 
 
 ### Albrook auction house
 First seen: Chapter 73 (under renovation)
-Not open yet in Ch 73; adventurers still forced to sell through the guild. Opens Chapter 74 (paddle fee and music-box starting bid land there; see `../Society/EconomyDesign.md`).
+Not open yet in Ch 73; adventurers still forced to sell through the guild. Opens Chapter 74 (paddle fee and music-box starting bid land there; see `../Society/Economy/EconomyDesign.md`).
 
 ### Luden
 First seen: Chapter 56 (named; destination)

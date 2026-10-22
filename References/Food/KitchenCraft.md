@@ -1,32 +1,32 @@
 # Kitchen Craft
 
-> **Food domain.** Cookware **production methods** (how to make the gear). Gear lists: `KitchenKit.md`. Pan culture / vacuum pans: `MagicalMeatCookware.md`. Story hooks: `../../Story/Notes/KitchenCraftHooks.md`.
+> **Food domain.** Cookware **production methods** (how to make the gear). Material picks / kitchen physics: `CookwareAndKnives.md`. Gear lists: `KitchenKit.md`. Pan culture / vacuum pans: `MagicalMeatCookware.md`. Story hooks: `../../Story/Notes/KitchenCraftHooks.md`.
 >
 > Metal **law** stays in `../World/Materials/Metals.md`. Shop forge how-to: `../World/Science/Metallurgy/CraftMetal.md`. Shop tool tiers: `../World/Science/Invent/MedievalIndustrialization.md`. Vacuum weld: `../World/Science/Metallurgy/Vacuum.md`. Do not park cookware law inside metallurgy hubs.
 
-Setting assumptions: adventuring world with no electricity. Maker is a blacksmith, enchanter, and mage. Power comes from muscle, water, wind, gravity, or enchantment. Anything mechanical must be built before it can build other things.
+Setting assumptions: adventuring world with no electricity. No aluminum, no petroleum, no synthetic nonstick. Maker is a blacksmith, enchanter, and mage. Power comes from muscle, water, wind, gravity, or enchantment. Anything mechanical must be built before it can build other things.
 
 ## Kitchen knife metal picks
 
-Metal names follow `../World/Materials/Metals.md`. This table is cookware / kitchen kit only.
+Metal names follow `../World/Materials/Metals.md`. Full by-type ladder: `CookwareAndKnives.md`. This table is production shorthand only.
 
 | Use | Metal |
 |---|---|
 | Peasant or starter knife | Iron |
-| Everyday chef's knife | Steel (tier-1 default) |
-| Runesmith's working knife | Darksteel (tier-2 default) |
-| Enchanted knife cast often | Star steel or mythril |
-| Luxury reusable runic knife | Mythril (thin plate over a core) |
-| Noble or prestige set | Orihalcum (no enchant path) |
-| Legendary heirloom | Adamantium |
-| Handle fittings and ferrules | Copper or bronze |
+| Everyday chef's knife | Hardened high-carbon steel (1095-class) |
+| Runesmith's working knife | Darksteel |
+| Best sharpenable kitchen steel | Pure star steel (or san-mai star steel core / darksteel clad) |
+| Hide / scale work | Durasteel core, darksteel cladding |
+| Fruit / table (nonreactive) | Silver or mythril |
+| Legendary heirloom | Adamantium (weakness-honed; no flex for fillet/boning) |
+| Bolsters and fittings | Aurium, orihalcum, copper or bronze (not blade metals) |
 | Decorative inlay | Silver or gold |
 
 ### Substitutions for cookware sections below
 
-- **Stainless:** use steel for plain cookware. For hex lattice / tri-ply faces use mythril.
-- **Magic steel:** darksteel for durable runes, or star steel for a high-conductivity host.
-- **Rune disc (pan):** copper is cheap mid conductivity. Mythril or star steel for luxury.
+- **No aluminum / stainless.** Plain cookware is iron, carbon steel, copper (lined) or cast iron. Corrosion-resistant faces: tin lining, silver lining, glass enamel or mythril fruit-contact.
+- **Magic steel:** darksteel for durable runes, or star steel for tough high-% Fe-line stock. Star iron for crack-proof skillets / Dutch ovens.
+- **Rune disc (pan):** copper or aurium mid conductivity. Mythril heating rune under adamantium for even point-source heat (bolt-on plate; do not cast mythril into the pour).
 - **Iron skillet:** worst common host. Rune-core pans want steel or better.
 
 ## Production methods by item
@@ -34,7 +34,7 @@ Metal names follow `../World/Materials/Metals.md`. This table is cookware / kitc
 ### Core and Full Minimal Kit
 
 #### 1. 12 inch skillet
-- **Material:** Cast iron or carbon steel. Stainless is not available without chromium alloy knowledge or magic. Use steel for plain cookware; for corrosion-resistant faces see knife-section substitutions (mythril).
+- **Material:** Cast iron or carbon steel. No aluminum. No synthetic nonstick; season with oil and heat. For enamel / magic upgrades see `CookwareAndKnives.md`.
 - **Cast iron method:** Carve a wooden pattern (two halves for a lip). Pack green sand around the pattern in a two-part flask. Remove the pattern and cut a gate and vent. Melt iron in a furnace with a bellows or a heat rune. Pour. Let cool. Break out the sand. Clean the casting with files and a grindstone. Machine the cooking surface smooth on a lathe if available. Season with oil and heat.
 - **Forged carbon steel method:** Heat a sheet or billet. Hammer over a stake or into a swage die to raise the sides. Planish (smooth hammering) the interior. Rivet or forge-weld a handle on. Season.
 - **Fast version:** A press with a die stamps a flat disc into a pan shape in one stroke.
@@ -55,7 +55,7 @@ Metal names follow `../World/Materials/Metals.md`. This table is cookware / kitc
 - **Magic assist:** Heat distribution rune. Weight-reduction enchantment for transport.
 
 #### 4. Sheet pan
-- **Material:** Iron sheet, steel sheet, or aluminum (unlikely without magic).
+- **Material:** Iron sheet or steel sheet. No aluminum.
 - **Method (no mill):** Forge a billet flat with a sledge and hand hammers. Repeat heating and hammering until thin. This is slow and uneven.
 - **Method (rolling mill):** Pass heated bar through rollers repeatedly. Cut to size with shears. Fold or wire the edges for stiffness. Hammer the corners.
 - **Method (press):** Stamp a flat sheet with a rimmed die.
@@ -172,3 +172,125 @@ Metal names follow `../World/Materials/Metals.md`. This table is cookware / kitc
 
 ---
 
+## Kitchen shop tool chain
+
+> Shop tool tiers for kitchen work. Kitchen gear lists: `KitchenKit.md`. Cookware production methods are the sections above.
+
+### Build order (tiers)
+
+Everything below depends on the tier before it. A smith cannot skip tiers without magic or purchase.
+
+### Tier 0: Bare hands and found materials
+- Stone anvil or stump anvil
+- Charcoal fire pit
+- Hand hammer (stone or bought iron)
+- Water bucket for quenching
+
+### Tier 1: Basic forge shop
+- Forge hearth with clay or brick lining
+- Bellows (leather and wood) or a bellows rune
+- Anvil (forged wrought iron body with steel face, or bought)
+- Hammers (cross peen, straight peen, rounding)
+- Tongs (forge-welded or riveted)
+- Hot chisels and punches
+- Swage blocks and fullers
+- Vise (leg vise, forged)
+- Files (forged then cut by hand with a chisel and hardened)
+- Charcoal supply (a charcoal burner is its own project)
+
+### Tier 2: Precision hand tooling
+- Drawplate (hardened steel plate with tapered holes) for making wire
+- Grindstone (sandstone wheel on a hand crank or treadle)
+- Pole lathe or treadle lathe for wood
+- Spoon knife, drawknife, plane, saw, auger
+- Sand molds and flasks for casting
+- Crucible (clay and graphite or clay and sand)
+- Raising hammers and stakes for hollow forms
+- Scales (balance beam with stone or brass weights) for calibration
+
+### Tier 3: Water or wind power
+- Water wheel (undershot, overshot, or breast wheel) or windmill
+- Line shaft with belts (leather) or gears (wood or iron)
+- Cam shaft driving a tilt hammer
+- Powered grindstone
+- Powered bellows
+- Powered drawbench for wire
+
+### Tier 4: Machine tools
+- Metal lathe (cast iron bed, hand-filed ways, lead screw cut by a hand-made tap and die set)
+- Boring bar for cylinders
+- Rolling mill (two iron rollers, geared, water driven) for sheet and bar
+- Screw press (forged and cut screw, wooden or iron frame)
+- Hydraulic press (see Part 4)
+- Shaper or planer for flat surfaces
+
+### Magic shortcuts at any tier
+- Rotation rune replaces a water wheel or crank (limited by mana cost and runtime)
+- Heat rune replaces bellows and fuel for a forge
+- Hardening or tempering rune holds an exact temperature
+- Shaping spell moves metal without hammering (high mana cost and skill)
+- Precision spell for measurement or alignment (replaces a lathe for small jobs)
+
+---
+
+
+### Machines to build first
+
+### Lathe
+- **Wood (pole lathe):** A frame with two centers, a springy pole overhead, a cord wrapped around the work, and a foot treadle. The cord spins the work back and forth. Hand-held tools cut on the forward stroke.
+- **Wood (treadle with flywheel):** Add a crank and a heavy flywheel for continuous rotation.
+- **Metal:**
+  1. Cast or forge a rigid bed. Cast iron is best.
+  2. Make a headstock with a hardened spindle and bearings (bronze bushings).
+  3. Make a tailstock with a sliding center.
+  4. Make a tool rest or a sliding carriage (slide rest).
+  5. Cut a lead screw by hand with a file and a guide, then use that screw to cut better screws.
+  6. Power from a water wheel through belts or an enchanted rotation rune.
+- **Bootstrapping note:** The first lead screw is cut by hand and is inaccurate. Each lathe generation makes a better screw for the next. This is a good story beat (precision compounds).
+
+### Motor (non-electric)
+- **Water wheel:** Wooden frame and buckets or paddles. Needs a stream or a millrace. Drives a shaft with gears or belts. Output is steady but site-bound.
+- **Windmill:** Sails on a rotating cap. Needs wind. Less steady.
+- **Treadle or hand crank:** Portable, low power. Use a flywheel to smooth output.
+- **Steam engine:** Boiler, piston, cylinder, valves. Needs bored cylinders (lathe and boring bar), pressure-safe boiler plate (rolling mill and riveting), and good seals. A major leap and a good late-story milestone.
+- **Magic motor:** Rotation rune or an elemental (wind or water) bound to a shaft. Mana source decides runtime. A mana crystal battery can store energy.
+
+### Press
+- **Screw press:** Cut a large screw and a nut (wood or iron). A lever turns the screw to drive a platen down. Used for stamping, pressing sheet, and gluing.
+- **Hydraulic press:**
+  1. Bore a thick-walled cylinder (cast iron or forged bronze) on a lathe.
+  2. Make a piston with leather cup seals (a soaked and shaped leather ring that seals better as pressure rises).
+  3. Make a small pump cylinder and piston with a lever handle.
+  4. Connect the two with a pressure pipe. Add check valves (ball and seat).
+  5. Fill with water or oil.
+  6. Build a heavy frame to contain the force.
+  - A small pump piston area against a large ram area multiplies force. Output force equals pressure times ram area.
+  - **Hard parts:** Sealing, strong castings, and a frame that does not fail.
+- **Magic version:** A force enchantment on a platen or a bound earth elemental pressing down.
+
+### Rolling mill
+- Two hardened iron rolls, geared together, with adjustable spacing by screws. Power from a water wheel. Pass heated bar through repeatedly, tightening the gap each time.
+
+### Tilt hammer
+- A heavy hammer head on a pivoting arm. A cam on a water wheel shaft lifts the tail and lets it fall. Replaces a striker.
+
+---
+
+
+### Suggested story pacing
+
+1. Basic forge and hand tools (Tier 1)
+2. Knife and spoon-class goods (cutting and hand tools)
+3. Drawplate and wire (whisk, mesh, rivets)
+4. Sand-cast skillet and pot
+5. Grindstone and pole lathe
+6. Balance scale and measures
+7. Water wheel and line shaft
+8. Tilt hammer and rolling mill (sheet pan, saucepan, colander)
+9. Metal lathe (precision parts, thermometer, blender)
+10. Screw press and then hydraulic press
+11. Optional: steam engine
+
+Each step unlocks better output on the previous steps. Magic can compress or skip steps at the cost of mana and skill.
+
+---

@@ -1,10 +1,11 @@
 # Combat
 
-Fight doctrine for Terra. Numbers: `AttackScale.md`. Mana: `../Runes/Energy.md`. Metals: `../World/Materials/Metals.md`. Sahildr impact hammer: `ImpactRune.md`. Blade design notes: `Weapons.md`.
+Fight doctrine for Terra. Numbers: `AttackScale.md`. Mana: `../Runes/Energy.md`. Metals: `../World/Materials/Metals.md`. Sahildr impact hammer: `ImpactRune.md`. Blade design notes: `Weapons.md`. Earth martial strike-force invent: `PanzerKunstFishmanKarate.md`.
 
 | File | Role |
 |---|---|
 | `AttackScale.md` | Tip KE / shield pool ladder and Ch 14 worked lock |
+| `PanzerKunstFishmanKarate.md` | Lab peak strike force, fiction martial analogs |
 | `MageDefense.md` | Mana Hands redirects vs 2× physicalists; 3× tissue |
 | `Spells.md` | Named spell / scroll catalog (design loot) |
 | `Weapons.md` | Blade / loadout design |
@@ -16,6 +17,8 @@ Fight doctrine for Terra. Numbers: `AttackScale.md`. Mana: `../Runes/Energy.md`.
 | `SpeedVsIntellect.md` | Speed vs intellect combat notes |
 | `Firearms.md` | .50 / caliber performance; adamantium needle penetrators |
 | `Lasers.md` | Directed-light doctrine; blinder vs burner; counters (physics in Optics) |
+| `LightWarfare.md` | Inspiration: light escalation, defense, sensing (not locked) |
+| `LightWarfareVariables.md` | Inspiration: 20 body / air / beam / sensing variables (not locked) |
 
 ## Narrative
 

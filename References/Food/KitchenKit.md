@@ -1,6 +1,6 @@
 # Kitchen Kit
 
-> Gear lists for camp / home cooking. Wealth locks: `Food.md`. How to make metalware: `KitchenCraft.md` (Food domain). Shop tool ladder: `../World/Science/Invent/MedievalIndustrialization.md`. Metal law: `../World/Materials/Metals.md` (do not park cookware inside metallurgy hubs).
+> Gear lists for camp / home cooking. Wealth locks: `Food.md`. Material picks / kitchen physics: `CookwareAndKnives.md`. How to make metalware: `KitchenCraft.md` (Food domain). Shop tool ladder: `../World/Science/Invent/MedievalIndustrialization.md`. Metal law: `../World/Materials/Metals.md` (do not park cookware inside metallurgy hubs).
 
 ## Gear lists
 

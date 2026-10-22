@@ -1,11 +1,13 @@
 # Experience
 
-> Live kill law: `References/Progression/Progression.md` (`50 × killed_L × RaceMult`; table in `Levels.md`). Pre-class **½** only; no class-change half-cut.
+> Live kill law: `References/Progression/Progression.md` (`50 × killed_L × RaceMult`; table in `RaceMult.md`). Pre-class **½** only; no class-change half-cut.
 > **Ch 4–19 XP path locked below** (1000-kill Ch 9.5 → Mage L20; dungeon RaceMult + real L through Mage L25; full reclass bank).
 
-Running XP log. RaceMult table: `../../References/Progression/Levels.md`. Status screens: `Status.md`. Coin / stones: `Items.md`, `../../References/World/Society/Economy.md`. Narrative threat: `../../References/World/Fauna/MonsterThreat.md`.
+Running XP log. RaceMult table: `../../References/Progression/RaceMult.md`. Status screens: `Status.md`. Coin / stones: `Items.md`, `../../References/World/Society/Economy/Economy.md`. Narrative threat: `../../References/World/Fauna/MonsterThreat.md`. Cross-check: `CrossCheck.md`.
 
-**Live RaceMult (early):** goblin **1.0**; dungeon rat **0.2**; Needle Worm **0.5**; Needle Moth **2.0**; Spiked Boar **1.5**; Wereboar **2.0**; people **1.0**. Formula `50 × L × RaceMult`. Draft dungeon L: rat **5**, Spiked Boar **8**, Needle Worm **16–18**, Needle Moth **18**, Wereboar **≥26**.
+**Record everything (hard):** every kill, every craft / schematic award, every skill-rank overall XP (~**100**/rank, Ch 13 lock), and every bar roll goes in this file. Soft until locked. Do not leave forest / invent / sale stretches as “no kill XP” once prose has kills. Skills ranks also land in `Skills.md`; sheet in `Status.md`; coin in `CoinLedger.md`.
+
+**Live RaceMult (early):** goblin **1.0**; mountain / gray goblin **1.5**; dungeon rat **0.2**; Needle Worm **0.5**; Needle Moth **2.0**; Spiked Boar **1.5**; Wereboar **2.0**; people **1.0**. Formula `50 × L × RaceMult`. Draft dungeon L: rat **5**, Spiked Boar **8**, Needle Worm **16–18**, Needle Moth **18**, Wereboar **≥26**. Edelgard mountain trash soft **L10** → **750**/kill until a chapter names L.
 
 **Pre-class bank:** XP before first ascension banks and applies later with a **½ penalty**. One-time only (first class). Does not refill for later class changes. No half-cut on later class change.
 
@@ -19,8 +21,13 @@ Running XP log. RaceMult table: `../../References/Progression/Levels.md`. Status
 | Ch 9 forest day | **7** | **88** |
 | Ch 9.5 Carwen grind | **1,000** | **1,088** |
 | Ch 10 nest opener | **7** | **1,095** |
+| Ch 23 forest (common green) | **0** | **1,095** |
+| Ch 23 mountain first clearing | **1** | **1,096** |
+| Ch 23 deep hunt (1 hour to distant shriek) | **36** (2–3 tribal groups; 12–15 killed per group before scatter) | **1,132** |
 
 Ch 9.5 = **1,000** goblins over ~**90** days (~**11**/day). Trash + nest leaders + **8** T2 ambush leaders so kill XP alone lands **Mage L20**. Lifetime crosses **1000** mid-skip (Goblin Hunter). Spell/skill ranks during the skip pad the **L20** bar after the level lands; they do **not** replace kills.
+
+**Mountain / gray** kills use RaceMult **1.5** (not common **1.0**). At the distant shriek: first clearing **1** + deep hunt **36** = **37** mountain kills this outing. Lifetime goblin kills at that line: **1,132**.
 
 ## Where it sits in the chapters
 
@@ -38,11 +45,16 @@ Ch 9.5 = **1,000** goblins over ~**90** days (~**11**/day). Trash + nest leaders
 | **10** | Nest opener + present day → **Mage L20** | **+7** kills (**1× L20** + **6× L16**); **+2** rice; ears **+35 LC** → pouch **3,630**; stones **220** rice + **8** leader |
 | **11** | First dungeon day + trial weeks | Day **4× L8** boars → **456** XP; share **+128** → pouch **3,758**. Trial **7** days (**28** boars) → bar **~8,540 / 10,000**; pouch **~4,413**; stones **220** rice + **8** leader |
 | **12** | Floor-2 Needle Worm pocket clear before tame | **12** worms L16–18 → **+1,272** XP; bar **~9,812 / 10,000**; pouch **~4,368** after Flagon; still L20. Core worm kept alive for tame |
-| **13** | Half-year Floor-3 → **Mage L25** | **342** kills → kill **40,776** + skill **4,608**; haul share **+5,857**; living+kit **−4,248** → pouch **~5,977**; stones **220** rice + **8** leader |
+| **13** | Half year with girls (Floor-3) → **Mage L25** | **342** kills → kill **40,776** + skill **4,608**; haul share **+5,857**; living+kit **−4,248** → pouch **~5,977**; stones **220** rice + **8** leader |
 | **14** | Watcher kill (people XP) | Pool **2750** (L55 × 50); Roland **+479** (banks at Mage L25 cap); Dodging **L6→L7**; Ned **25→26** |
 | **15** | Lesser Detonation Rune [Highest] schematic | **+1000 XP** (banks at L25); title **Runic Scholar**; class stone deferred |
 | **18** | Lesser Impact Rune [Highest] schematic | **+1000 XP** into L26 bar (**2479 / 13000**); Drawing **L1**; tree Dex **+10** |
-| **19** | Lesser Fire Orb [High] then [Highest] from memory | **+600** + **+400** = **1000 XP** → bar **3479 / 13000**; three Highest lesser schematics |
+| **19** | Train skill ranks + Fire Orb High→Highest | skill **+3500** + schematic **+1000** = **+4500** → bar **6979 / 13000** |
+| **20** | Job hunt / supply buy | **0** XP | Bar still **6979 / 13000** |
+| **21** | Job hunt, Libra, inn: Mana Bolt word **+25** + Fire Orb runic **+25** | **+50** | Bar **6979 → 7029 / 13000**. Word L1 pay **22.5** MP (`25 × 0.9`); XP = cast **25** |
+| **22–23** | First sale → quiet room (line 715) | No kills. Fireball pour XP → overall **L33** / Scribe **L8** |
+| **23** | Match invent → mid-hunt status | Match schematic **+1000** + pours → **L35** / Scribe **L10**; forest first mountain **+750** soft |
+| **23** | Deep hunt to distant shriek | **36** tribal kills × **750** = **27,000** XP; outing mountain XP at that line **27,750** (first clearing **750** + deep **27,000**) |
 
 Ch 6: weekly one-on-ones after the 9th birthday. Locked count **55** estate L1s after bravery (year of weeks plus a few extras) so the half-bank lands L3 empty under `500 × L`. After Mage, weekly continues and turns to **two** L1s at a time for ~**3 months** (**25** kills including the Ch 7 finale) so the first Carwen hunt can finish L3→L4.
 
@@ -50,7 +62,7 @@ Ch 6: weekly one-on-ones after the 9th birthday. Locked count **55** estate L1s 
 
 | Ch | Source | XP | Bank after | Notes |
 |---|---|---|---|---|
-| 4 | Goblin L1 kill (49+1) | **50** | 50 | On-page; kill #1 |
+| 4 | Goblin L1 kill (RaceMult 1.0) | **50** | 50 | On-page; kill #1 |
 | 4 | First Kill achievement | **+200** | **250** | On-page |
 | 4–5 | Estate Goblin L1 × **55** | **2750** | **3000** | After bravery; total L1 kills **56** |
 | 5–6 | Ascension + **½** → Mage L3 | **1500** applied | **0** | Empty bar at L3 |
@@ -69,7 +81,7 @@ XP_to_next(L) = 500 × L
 | L2→L3 | **1000** |
 | **Sum** | **1500** |
 
-Curve tables: `Levels.md`.
+Curve tables: `ExperienceCurve.md`.
 
 ## Post-ascension
 
@@ -82,12 +94,12 @@ Curve tables: `Levels.md`.
 | 10 | Nest opener then inn sheet | at **L20** | **1× L20 (1000)** + **6× L16 (800)** = **5,800** into L20 bar. **+2** rice (**218→220**); leader stones stay **8**; ears **+35 LC** → pouch **3,630 LC**; boar leg (underseasoned, gamey). Plans last five to Mage cap then Mana Scribe |
 | 11 | Dungeon rat + Spiked Boars (Emerald Wilderness) | at **L20** | Rat party-test full solo. Day **4× L8** boars: **1** idle (**6**) + **3** active (**150**) → **456** XP; share **+128 LC** → **3,758 LC**. Trial **7** days (**28** boars; **2** active + **2** idle → **312**/day): kill **+2,184** + Hands **L5→L6** (**~+100**) → bar **~8,540 / 10,000**; share **+921** − living **266** → pouch **~4,413 LC**. Still L20 |
 | 12 | Needle Worm pocket clear (before tame) | at **L20** | **12×** Floor-2 worms **L16–L18** (~1/4): **4×100 + 4×106 + 4×112 = 1,272** → bar **~9,812 / 10,000**. One core-bearing worm left alive; taming begins |
-| 13 | Half-year Floor-3 | **L20 → L25** | **342** kills (WB **38** / SB **120** / moth **24** / worm **80** / rat **80**); kill **40,776** + skill **4,608** = **45,384**; haul **+5,857**; living+kit **−4,248** → pouch **~5,977 LC**. Skill ranks: `Skills.md` Ch 13 |
+| 13 | Half year with girls (Floor-3; after 3 mo goblins) | **L20 → L25** | **342** kills (WB **38** / SB **120** / moth **24** / worm **80** / rat **80**); kill **40,776** + skill **4,608** = **45,384**; haul **+5,857**; living+kit **−4,248** → pouch **~5,977 LC**. Skill ranks: `Skills.md` Ch 13 |
 | 14 | Watcher (people) | at **L25** cap | Pool **2750**; Roland **+479** banks toward class change; Dodging **L7**; Ned **25→26** |
 | 15 | Detonation schematic | at **L25** cap | **+1000 XP** banks; title **Runic Scholar**; bank total **1479** into Ch 16 |
 | 16 | Class change (Runic Mana Scribe) | bank applies | Full bank **1479** into L26 bar (**1479 / 13000**); stays **L26** / Scribe **L1** (no kills). No half-cut |
 | 18 | Impact schematic | at **L26** | **+1000 XP** → bar **2479 / 13000**; Drawing **L1**; tree Dex **+10** (Basic **+9** + L1 **+1**) |
-| 19 | Fire Orb schematic | at **L26** | Memory: **[High] +600** then **[Highest] +400** (total **1000**) → bar **3479 / 13000**; Detonation + Impact + Fire Orb all [Highest] |
+| 19 | Train ranks + Fire Orb | at **L26** | Skill **+3500** (35 ranks; heat-only grill; Suffocation **L6**; Cold **L3** night sleep; Sleep **L5→L6** from **4 h**/day ignored of **8 h** T0) + Fire Orb **[High]+600 / [Highest]+400** → bar **6979 / 13000**; three Highest lesser schematics |
 
 `XP_to_next(3) = 1500`. Entering Ch 9 with **1250 / 1500**: after L3 kill (+150) bar is **1400**; L4 kill (+200) levels to Mage **L4** with overflow **100 / 2000**. Day total kill XP **1,250** → end **1000 / 2000**.
 
@@ -204,7 +216,7 @@ Dungeon rat on the entrance test is **full solo** (party test); not in the day-4
 | **End pouch (into Ch 12 tavern)** | **~4,413 LC** |
 | Stones on person | **220** rice + **8** leader (unchanged) |
 
-**Skills:** While waiting on butcher / travel beats he keeps working mana: **Mana Hands** casts, **Mana Absorption**, **Mana Sense**. Shield stays **L3** (~**+14** combat casts; need **~105** for L4). Incantation stays **L6**. Sense and Absorption already **L9** (capped; still used). Mana Hands: idle waiting ~**25**/day × **7** ≈ **175** finished → **L5 → L6** (need **35×5 = 175** from L5). Hands rank popup **~+100 XP** → L20 bar **~8,540 / 10,000**. Combat acting still light vs solo goblins; idle mana practice is the real skill tick.
+**Skills:** While waiting on butcher / travel beats he keeps working mana: **Mana Hands** casts, **Mana Absorption**, **Mana Sight**. Shield stays **L3** (~**+14** combat casts; need **~105** for L4). Incantation stays **L6**. Sight and Absorption already **L9** (capped; still used). Mana Hands: idle waiting ~**25**/day × **7** ≈ **175** finished → **L5 → L6** (need **35×5 = 175** from L5). Hands rank popup **~+100 XP** → L20 bar **~8,540 / 10,000**. Combat acting still light vs solo goblins; idle mana practice is the real skill tick.
 
 ## Ch 12 money / XP (Iron Flagon + Floor-2 pocket)
 
@@ -266,6 +278,22 @@ Dungeon rat on the entrance test is **full solo** (party test); not in the day-4
 
 Personal stone bank unchanged: **220** rice + **8** leader.
 
+## Wallet path (Ch 13 → Ch 19)
+
+| Step | LC | Notes |
+|---|---:|---|
+| `"*Not bad.*"` (end Ch 13) | **5,977** | End of half year with the girls |
+| Watcher haul equal share (Ch 17) | **+5,000** | **+5 SG** on top of own savings |
+| After watcher share | **10,977** | |
+| Kit / consumable sales and leftover share trims (Ch 14–17) | **+~664** | Brings personal to enter-gift figure |
+| Personal before parting | **11,641** | Own pouch into Ch 18 farewell |
+| Parting gift (Ch 18) | **+10,000** | **+10 SG** in party spatial bag |
+| **Enter Ch 19** | **21,641** | Personal **11,641** + gift **10 SG** |
+| Solaria tip | **−10** | **1 SS** |
+| Guild city map (Steel **5%** of **2 SS**) | **−19** | |
+| Singing Crow room | **−14** | |
+| **After Crow night** | **21,598** | |
+
 ## Ch 14 watcher kill (people XP)
 
 **People formula:** `50 × overall level`. Fencer locked **L55** → pool **2750**.
@@ -275,11 +303,11 @@ Personal stone bank unchanged: **220** rice + **8** leader.
 | Roland (active mage share) | **479** |
 | Party / Ned / remainder | rest of **2750** |
 
-Roland still **Mage L25** (cap; **+479** banks toward class change). **Ned** takes enough of the people pool to tip overall **25→26** → **Greater Needle Worm** (**4x**). Sheet: `NedStatus.md`. Skill: **Dodging L6→L7** mid-chase (**Agi +1**; SP **866→869**).
+Roland still **Mage L25** (cap; **+479** banks toward class change). **Ned** takes enough of the people pool to tip overall **25→26** → **Greater Needle Worm** (**4x**). Sheet: `NedStatus.md`. Skill: **Basic Dodging L6→L7** mid-chase (**Agi +1**; SP **956→959**).
 
 ## Ch 15 Detonation schematic
 
-Inn study of the watcher's detonation rapier (Debugger / Technology pathways → Calligraphy redraw).
+Inn study of the watcher's detonation rapier (Diagnosis / Technology pathways → Calligraphy redraw).
 
 | Source | XP | Notes |
 |---|---:|---|
@@ -295,7 +323,7 @@ No kill XP. Crystal used → **Runic Mana Scribe**. Banked **1479** applies in f
 
 ## Ch 18 Impact schematic
 
-Sahildr's hammer copy (Debugger overlay on paper; not scribing). Drawing breakthrough on the same beat.
+Sahildr's hammer copy (Diagnosis overlay on paper; not scribing). Drawing breakthrough on the same beat.
 
 | Source | XP | Notes |
 |---|---:|---|
@@ -303,16 +331,166 @@ Sahildr's hammer copy (Debugger overlay on paper; not scribing). Drawing breakth
 
 **Bar:** **1479 + 1000 = 2479 / 13000** toward L27. Still overall **L26** / Scribe **L1**. Skill: **Drawing L1**; Drawing tree Dex **+10** (Basic L9 **+9** baked + Drawing L1 **+1**). Hammer copy only; no kill XP. Fire Orb schematic still pending into Ch 19.
 
-## Ch 19 Fire Orb schematic
+## Ch 19 train action XP + Fire Orb
 
-Inn redraw from class-trial memory (not Debugger on a weapon). First pass **over** 1 hour (uneven; first real-world Fire Orb draw). Source one-shot **[Highest] +1000** discarded.
+Enter bar **2479 / 13000** (after Ch 18 Impact). Overall **L26** / Scribe **L1**.
 
-**Lesser quality XP ladder** (`Levels.md`): Lowest **100** / Low **200** / Intermediate **400** / High **600** / Highest **1000**. Raising quality pays the **difference** only.
+### Train-week action uses (skill XP)
+
+Field curve: cum clean uses to L = **1 / 10 / 50 / 200 / 1,000 / 5,000 / 20,000 / 100,000 / 500,000**. Overall XP ≈ **100** per skill rank gained (Ch 13 lock). Full pace: `Skills.md` Ch 19.
+
+| Action | Meter / count | Exit rank | Ranks | Skill XP |
+|---|---|---|---:|---:|
+| Sound clicks | **1 / ~4 s** dual blocks → ~**22,000** | Sound **L7** | **7** | **700** |
+| Same + Ned locate / needle flight | same clicks | Echo **L7** | **7** | **700** |
+| Dual-focus minutes | ~**1,470** | Multitask **L1→L5** | **4** | **400** |
+| Hot grill patches | ~**2,480** burn cycles (heat-only; old frost half folded in) | Heat Res **L5** | **5** | **500** |
+| Cold night sleep | Carwen cold months already paid (~**100** nights → **L3** enter); train adds ~**0** | Cold stays **L3** | **0** | **0** |
+| Grill sting + Ned tips / misses | same heat pool | Pain **L1→L5** | **4** | **400** |
+| **Breath holds** | **15 s = 1 use**; ~**180 min**/day × **7** → ~**5,040** hypoxia uses | Suffocation (with blood) |  |  |
+| **Blood drops** | **~50 mL ≈ 1% ≈ 1 use**; ~**5%**/day × **7** → ~**35** volume uses | Suffocation **L6** (~**5,075** total) | **6** | **600** |
+| **Sleep ignored / not needed** | L5 need **4.0 h** of **T0 = 8 h**; ignored **4.0 h**/day × **7**; **15 s**/use → ~**6,720** | Sleep **L5→L6** (clears **5,000**; short of **20,000**) | **1** | **100** |
+| Self drip pierces + Ned fang / miss needles | sharp exposures | Sharp **L3→L4** | **1** | **100** |
+| Knit cycles | ~**2,480** | Recovery stays **L5** (~**2.5k** toward L6) | **0** | **0** |
+| Ned toxin tips | soft repeat | Poison stays **L6** | **0** | **0** |
+| Remote clicks + grids | ~**22,000** | Shaping stays **L7** | **0** | **0** |
+| Ceiling draw all week | continuous | Regulation stays **L8** | **0** | **0** |
+| Hot patches as spell | ~**2,480** | Heat stays **L6** (~**5.1k** cum into desk; L7 needs **20k**) | **0** | **0** |
+| Catch-and-return tips | — | Throwing stays Basic **L9** | **0** | **0** |
+| **Skill XP total** |  |  | **35** | **3500** |
+
+No Breath Control. Hypoxia seconds and blood volume are **Suffocation Resistance** only.
+
+### Fire Orb schematic
+
+Inn redraw from class-trial memory. Lesser quality ladder: **100 / 200 / 400 / 600 / 1000** (raise pays difference). **Over** 1 hour on the High pass = first memory assembly / learning, **not** because the lowest lesser diagram is hard.
 
 | Source | XP | Notes |
 |---|---:|---|
-| **Lesser Fire Orb Rune [High]** | **600** | Memory redraw; below Highest |
-| **Lesser Fire Orb Rune [Highest]** | **400** | Thin-sheet trace of correct lines (diff High→Highest) |
-| **Total** | **1000** | Same as going straight to Highest |
+| **Lesser Fire Orb Rune [High]** | **600** | Memory redraw; uneven; **over** 1 hour (first put-together) |
+| **Lesser Fire Orb Rune [Highest]** | **400** | Thin-sheet trace (diff High→Highest) |
+| **Schematic total** | **1000** | Same as straight Highest |
 
-**Bar:** **2479 + 1000 = 3479 / 13000** toward L27. Still overall **L26** / Scribe **L1**. Three Highest lesser schematics (Detonation + Impact + Fire Orb). Cut-paper Debugger overlays fail (needs one whole sheet).
+### Ch 19 bar
+
+**2479 + 3500 + 1000 = 6979 / 13000** toward L27. Still overall **L26** / Scribe **L1**. Three Highest lesser schematics (Detonation + Impact + Fire Orb).
+
+## Ch 20–21 (through `19-26.md`)
+
+No kill XP. No craft XP yet.
+
+| Ch | Source | XP | Notes |
+|---|---|---:|---|
+| 20 | Supply buy / Grimboodle contract refuse | **0** | — |
+| 21 | Five shops, Libra mark, inn setup | **0** | — |
+| 21 | Mana Bolt word scroll | **+25** | List **25**, L1 pay **22.5**; XP = designed cast **25** |
+| 21 | Fire Orb runic practice (Diagnosis red) | **+25** | XP = Orb cast **25**; pour ~**75** MP (about three Bolts; Low/Lowest) |
+
+**Bar after both scrolls:** **7029 / 13000** (overall **L26** / Scribe **L1**).
+
+## Ch 21.5 (~4 months desk grind)
+
+No kill XP. Craft / schematic XP only. Enter bar **7029 / 13000** (overall **L26**). Detonation / Impact / Fire Orb Highest already paid in Ch 15 / 18 / 19 (**do not** re-award).
+
+| Beat | XP | Notes |
+|---|---:|---|
+| Day-1 buy: Orb of Light + Fire Arrow + Aqua Ball samples | **0** | Grimboodle's; coin only |
+| Common Fire Arrow schematic → Highest | **+2000** | **2×** lesser; early in skip |
+| Orb of Light schematic → Highest | **+2000** | Common; **2×** lesser |
+| Aqua Ball schematic → Highest | **+2000** | Common; **2×** lesser |
+| Mana Bolt (runic) schematic → Highest | **+1000** | Lesser; **pure mana** |
+| Mana Arrow (runic) schematic → Highest | **+2000** | Common (Arrow seat); **pure mana** |
+| Mana Orb (runic) schematic → Highest | **+1000** | Lesser (Orb seat); **pure mana** |
+| Mana Ball (runic) schematic → Highest | **+2000** | Common (Ball seat); **pure mana** |
+| Fire Bolt / Water Bolt / Light Bolt → Highest | **+1000** each | Lesser; **+3000** |
+| Aqua Orb → Highest | **+1000** | Lesser (Orb seat) |
+| Light arrow → Highest | **+2000** | Common (Arrow seat) |
+| Fireball schematic → Highest | **+2000** | Common (Ball seat) |
+| Water arrow schematic → Highest | **+2000** | Common (Arrow seat) |
+| Light ball schematic → Highest | **+2000** | Common (Ball seat) |
+| Lesser Fire / Water / Light Detonation → Highest | **+1000** each | Lesser grafts; **+3000** |
+| **Pure mana set** (Bolt + Arrow + Orb + Ball) | **+6,000** | Included in subtotal |
+| **Schematic subtotal (skip)** | **+27,000** | All first perfect boards this skip (old **22,000** + Mana Arrow / Orb / Ball **+5,000**) |
+| Scroll pours (Phase A–C mix) | cast × **quality mult** | Seat-time: MA **50** / Fireball·Light Ball **400** / Orb·Bolt **25**; XP ignores S. Quality weight: Lowest **1** · Low **2** · Intermediate **4** · High **8** · Highest **16** (`SkillRanks.md`). Quality-only seating (no fail wall). Volume from draw+fill (`Chapter21_5.md` § Seat time) |
+| Prefill pours (personal / gift only) | **0** schematic XP | Extra store charge **1.31 ×** activation when MP/SP full (`ScrollEconomy.md`); never sell-line Fireballs. Soft **~20** MA / **~6** Light Ball across Phase C |
+
+**Paper schematics burned** over the skip (taking up space). Knowledge stays; he redraws from memory when needed. Exit inventory carries **no** schematic sheets.
+
+**Bar from schematics alone:** **7029 + 27,000 = 34,029** into the L26→27 gate (**13,000**). Clears **L27** and keeps climbing; exact mid ranks soft with pour XP.
+
+## Ch 22–23 (first sale → quiet room, line 715)
+
+No kill XP. Class XP from Highest Fireball pours (sell empties still award craft XP on seat; buyer pays activation). Soft ledger ≈ **d120→d270** (`Chapter21_5DayByDayAfterExit.md`). Quiet-room lock: overall **L33** / Scribe **L8** (`Chapter23QuietRoom.md`). Coin path (first sale → fifteen → **~315**-scroll span → **~170 SG**): `CoinLedger.md`. Ned ranks: `NedStatus.md` § Ch 23. Do not backdate mid-hunt **L35** to line 715.
+
+| Source | XP | Notes |
+|---|---:|---|
+| Highest Fireball empties (first sale + fifteen + ~315 span) | cast **400** × quality mult | Seat awards craft XP; buyer pays activation. Soft pour total covers desk exit → quiet **L33** / Scribe **L8** with grill skill ranks |
+| Grill / resist / Diagnosis ranks (quiet-room exit) | ~**100**/rank | Ranks in `Skills.md` / `Chapter23QuietRoom.md`; Sleep **L8**, Hunger **L7**, Heat Res / Recovery **L6**, Diagnosis **L8**, Mastery **L5→L6**, Shaping/Reg **L9**, Mana Scribing **L2** |
+
+**Quiet-room bar:** overall **L33** / Scribe **L8**. Exact fill soft (no on-page bar). Gate **L33→L34** = **16,500**; **L34→L35** = **17,000** (`ExperienceCurve.md`).
+
+## Ch 23 after line 715 (Match → forest morning → mid-hunt status)
+
+No Match sale weeks in the quiet-room wallet. Invent + power tests + Match volume sit **between** line 715 and the mid-hunt status print (overall **L35** / Scribe **L10**). Skills / sheet: `Skills.md`, `Status.md`. Coin rate: `CoinLedger.md` § Match.
+
+### Craft / invent
+
+| Beat | XP | Notes |
+|---|---:|---|
+| **Match Rune** schematic → Highest (micro Fire Orb lighter) | **+1000** | First lesser Highest; designed empty **5**; pea scrap + 1 blood drop (`ScrollEconomy.md`) |
+| Match makes (Highest empties) | **5** × quality mult each | RS climbs on makes; soft hold sales **~2,500**/week after invent lands in prose |
+| His Match burns | Mastery **1**/burn | Combat Mastery still separate; mid-hunt Mastery print stays **L6** |
+| Mana Bolt power-test matrix (7 probes) | **25** × quality mult each | Soft; table in `MagicScrollMaking.md` § Roland must test. Then forest |
+| Ongoing Fireball **25**/week (if any after quiet room before forest day) | **400** × quality | Soft; do not invent weeks without prose |
+
+**Bar to mid-hunt:** quiet **L33** + Match schematic **+1000** + Match/Fireball pours + skill ranks → overall **L35** / Scribe **L10** (two package rolls). Mid-hunt attrs: `Status.md`. Soft which pours cleared which gate; kills below are small next to craft.
+
+### Forest morning (through mid-hunt status, before deep hunt)
+
+Stealth already Basic→regular before the first clearing (prose past tense). First Mountain Goblin on-page.
+
+| Beat | Kills | L | RaceMult | XP each | Subtotal | Lock |
+|---|---:|---:|---:|---:|---:|---|
+| First clearing (Mana Bolt scroll kill) | **1** | **10** soft | **1.5** | **750** | **750** | kill locked; L soft |
+
+| Skill tick | Ranks | Skill XP | Notes |
+|---|---:|---:|---|
+| Basic Sneaking → Stealth (regular) | evolve | soft **~100** | Needs rogue for Advanced; mid-hunt Agi **+1** from evolve (`Status.md`) |
+| Rune Mastery combat (2 trash Mana Bolt scrolls) | **0** (stays **L6**) | **0** | Mid-hunt print Mastery **L6** |
+| Mana Bolt cast (chanted finish) | Shaping/Reg already **L9** | **0** | Sum-of-casts already at cap |
+
+**Mid-hunt status print:** overall **L35** / Scribe **L10**; MP **2414**; Shaping/Reg **L9**; Mastery **L6**; RS **L8**; Mana Scribing **L2**.
+
+### Deep hunt (after status → distant shriek)
+
+Chanted spells + trash runic scrolls; tip-sip omnidirectional Reinforcement + Hands jump lifts. Kill pattern = body zones / weak spots; finish what still moves (neck etc.). Title **Goblin Hunter** already held.
+
+**Tribal encounter shape:** goblins live in tribal groups, not as scattered singles. In **1 hour** of avid let-loose hunting, Roland reaches **2–3 groups** and kills **12–15 per group** before the rest scatter. Locked count: **36**. Ned’s side hunts are not on Roland’s tape.
+
+| Beat | Kills | L | RaceMult | XP each | Subtotal | Lock |
+|---|---:|---:|---:|---:|---:|---|
+| Deep-hunt mountain goblins | **36** (**1 hour**, 2–3 tribal groups) | **10** | **1.5** | **750** | **27,000** | locked |
+
+| Skill tick | Notes |
+|---|---|
+| Rune Mastery (trash scroll activations) | Cum toward **L7**; still **L6** at mid-hunt print |
+| Mana Reinforcement (omnidirectional body pressure) | Cap **L9**; resist / load grind while moving |
+| Mana Hands (jump lifts) | Cap **L9**; tip-budget share (`Capabilities/ManaHandsPassive.md`) |
+| Stealth / Climbing (spiky woods) | Soft uses; Stealth already regular |
+
+## Ch 24 (Helci cliff → inn)
+
+Five Fireball grimoire head-melts. Solo full credit. Same soft mountain **L10** / RaceMult **1.5** until named.
+
+| Beat | Kills | L | RaceMult | XP each | Subtotal | Lock |
+|---|---:|---:|---:|---:|---:|---|
+| Helci cliff (Fireball grimoire) | **5** | **10** soft | **1.5** | **750** | **3,750** | kills locked; L soft |
+
+| Skill tick | Ranks | Skill XP | Notes |
+|---|---:|---:|---|
+| Rune Mastery (5 Highest scrap Fireballs in combat) | soft toward **L7** | soft **0** until rank pops | Combat Mastery climb; out-of-combat casts do not level Mastery later law (Ch 27 talk) |
+| Mana Sight (stone tip for Helci) | stays **L9** | **0** | Cap |
+
+**Mountain kill XP locked so far (L soft):** first **1** + Helci **5** = **6 × 750 = 4,500**. Deep-hunt soft (**~1 hour**) adds **~36** tribal bodies (band **~30–45**); XP depends on the adult/younger level mix inside those groups and stays soft. No evolved variant fight (they leave). Helci Scout **L1** ascension is hers; no share of Roland’s kills.
+
+**Bar after Helci (open check):** `Status.md` still holds overall **L35** / Scribe **L10** with no level popup. If every deep-hunt body were an L10 adult, deep XP alone would be **~27,000** (center) and would cross the L35 bar (**17,500**). So either the tribal level mix sits well below all-L10, or the L35 hold needs retuning. Do not claim both all-L10 XP and still-L35 until that is pinned. Next schematic spikes: Ch 26 Frost Arrow + Gale Arrow **+2000** each.

@@ -1,13 +1,13 @@
 # Skills Redesign
 
-> **Design loot.** Live skill law: Progression.md / Skills.md. Fat catalog: SkillsDesign.md. Apply or merge when a beat needs it; not a second lock file.
+> **WIP design park.** Not a second lock. Live skill law: `Progression.md` / `Skills.md` / `SkillRanks.md`. Fat catalog: `SkillsDesign.md`. Apply accepted rows into those files, then delete the applied section here. Do not treat this file as canon over SkillsDesign.
 
 Apply world laws from `../Ideas.md`: skills **L1–L9 then evolve**, effects must be felt, ranged focus, no Source padding. Copy accepted rows into `Skills.md` / `SkillsDesign.md` and wipe them here.
 
 **Global rules for every skill below**
 
 - Cap at L9. No L10 on the same name. Evolution starts the next prefix form at L1 (unless noted as higher-order, special, or tier-gated).
-- **Prefix ladder:** Basic/Lesser → *(none)* → Expert/High → Overlord/Master → Legendary/Grandmaster (`../Ideas.md` / `Levels.md`).
+- **Prefix ladder:** Basic/Lesser → *(none)* → Expert/High → Overlord/Master → Legendary/Grandmaster (`../Ideas.md` / `SkillRanks.md`).
 - **Special skills** (Technology and similar) are outside that ladder.
 - For **build skills** (combat, runes, perception, core craft): numbers big enough that L1 matters and L9 changes plans. Soft “slightly faster / small bonus” text is banned.
 - **Flavor / behind-the-scenes skills** (Sleep Resistance, Cooking, Technology, Acting, Basic Mathematics, Map Reading, and similar): keep light. They help in the background and justify scenes; do not redesign into combat math or heavy % tables.
@@ -35,7 +35,7 @@ Apply world laws from `../Ideas.md`: skills **L1–L9 then evolve**, effects mus
 ### Analyze L1
 **Change:** Formulas, rates, failure points. First in-Terra unlock. Scaling: more systems at once, less MP/time. L9: full status-style breakdown of a lesser device/rune. Evolve → **High Analyze**: people, noble gear, greater structures (Source High Analyze). Pair with Diagnosis.
 
-### Mana Sense L1
+### Mana Sight L1
 **Change:** Range, resolution, filter (air vs people vs runes). Hard meters: sense radius and “can tell density bands.” L9: map a room’s mana. Evolve → **Mana Perception** / feeds **Eyes of Mana**. Childhood grind is intentional and visible.
 
 ### Parallel Thinking (skill)
@@ -83,7 +83,7 @@ World law: **Basic X** maxes at L9 → evolves to non-Basic form. Chapter 7 alre
 **Change:** Ambient absorption rate and pool stability. Hard regen % or MP/min per level. L9: fight without sitting. Evolve → **Mana Regulation**: combat regen / overflow control. **Only with a mana pool.** Pre-class / no-pool forced absorb is radiation-class poison (not practice).
 
 ### Basic Incantation
-**Change:** Cast time cut, not flavor. e.g. −10% chant time per level (cap), or skip one word tier at high level. Evolve → silent/short cast for lesser spells. Matters for bolt spam.
+**Change:** Cast time cut, not flavor. e.g. −10% chant time per level (cap), or skip one word tier at high level. Evolve → shorter / quieter (still audible) cast for lesser spells. **Not** true silent; normal magic spells cannot fire silent (`SilentCasting.md` / `Magic.md`). Matters for bolt spam.
 
 ### Mana Bolt (Spell)
 **Change:** Spells also L1–L9 then evolve (Mana Bolt → Mana Arrow is already that pattern; keep). Damage and cast cost scale clearly. Prefer evolving along ranged tree: Bolt → Arrow → Pierce / Volley forms.
@@ -210,7 +210,7 @@ World law: **Basic X** maxes at L9 → evolves to non-Basic form. Chapter 7 alre
 
 Priority level-ups: Marksmanship, Mana Bolt→Arrow tree, Rune Mastery, Runecraft, Compression, Restructuring, Mana Regulation, Sneaking, Fabrication, Analyze/Diagnosis.
 
-Deprioritize: sword, heavy armor, bash, speech-lord skills. Flavor only (no redesign pass): Cooking, Technology, Acting, Basic Mathematics, Map Reading. Sleep Resistance: locked −10%/level → Sleep Immunity floor 1% in `Skills.md`.
+Deprioritize: sword, heavy armor, bash, speech-lord skills. Flavor only (no redesign pass): Cooking, Technology, Acting, Basic Mathematics, Map Reading. Sleep Resistance: locked −10%/level → Sleep Immunity floor 1% in `Skills.md`. Broader unread resist ladder: `ResistanceImmunitySystem.md`.
 
 ---
 

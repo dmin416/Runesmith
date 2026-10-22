@@ -1,15 +1,15 @@
 # Normal Person Skills
 
-> **Design loot.** Live locks: Progression.md (XP / tiers / reclass; `50 × L × RaceMult`), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. Levels.md holds live RaceMult table; Ch 4-19 XP ledger locked in Story/Notes/Experience.md. Diagnosis is the live skill name (Old Debugger).
+> **Design loot.** Live locks: Progression.md (XP / tiers / reclass; `50 × L × RaceMult`), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. RaceMult: `RaceMult.md`; XP curve: `ExperienceCurve.md`; skill ranks: `SkillRanks.md`; packages: `ClassPackages.md`; Ch 4-19 ledger: `../../Story/Notes/Experience.md`. Diagnosis is the live skill name (Old Debugger).
 
 
 Skills any ordinary person in the setting can plausibly gain. Not locked behind a class, the Gamer / Source special set, or a profession track (Mage, Scribe, Blacksmith, Runesmith). Built for an adventurer who lives on combat and exploration.
 
 **Scope:** ordinary people, **no system acceleration**. Roland and similar system users can beat these clocks (live danger, achievement thresholds, class pads).
 
-**Read the times as L9 caps (pinnacle of that prefix), not “first useful.”** Useful field work is usually mid-band (**L5–L7**). See technique scale in `Levels.md` / `../Ideas.md`.
+**Read the times as L9 caps (pinnacle of that prefix), not “first useful.”** Useful field work is usually mid-band (**L5–L7**). See technique scale in `SkillRanks.md` / `../Ideas.md`.
 
-Prefix ladder: `../Ideas.md` / `Levels.md` (Basic/Lesser → plain → Expert/High → …). This file only times through **Level 3 (Expert / High)**.
+Prefix ladder: `../Ideas.md` / `SkillRanks.md` (Basic/Lesser → plain → Expert/High → …). This file only times through **Level 3 (Expert / High)**.
 
 ---
 
@@ -83,7 +83,8 @@ Prefix ladder: `../Ideas.md` / `Levels.md` (Basic/Lesser → plain → Expert/Hi
 
 ## Excluded (not available to normal people)
 
-- **System / Special:** Identify, Analyze, Diagnosis, Mana Sense, Technology, Fabrication. Tied to the Gamer / Source set or status-system tools. Not learnable by an ordinary person on the normal ladder.
+- **D-only:** Diagnosis, Technology, Fabrication. Not learnable by an ordinary person on the normal ladder.
+- **In the world:** Identify and Analyze exist. Mana Sight is an aptitude some people have (`Skills.md`).
 - **Mage-class locked:** Basic Mana Shaping, Basic Mana Regulation, Basic Incantation, Mana Bolt, Mana Arrow, Mana Shield, Mana Absorption, Mana Reinforcement, Heat, Mana Hands.
 - **Scribe / Runesmith / Blacksmith locked:** Basic Mana Scribing, Basic Rune Scribing, Basic Rune Mastery, Basic Forging, Basic Smithing Mastery, Basic Runecraft, Ethereal Pathways, Blacksmith's Heat Sense, Runic Blacksmith's Eyes, Basic Rune Compression.
 
@@ -199,7 +200,7 @@ Rough real-time for an ordinary person to push **that prefix to L9** with **dail
 
 Sword Expert L9 ≈ lifelong specialist. Matches “pinnacle of Expert,” not “can hold a board job.”
 
-### Check vs `Progression.md`
+### Check vs `Training.md`
 
 - Functional battlefield sword endurance is **6–12 months** of consistent work. That lines up with **mid Basic / early plain**, not Basic L9 or Expert L9.
 - War-bow years (**1–3+**) sit near Archery / Marksmanship single-track caps.

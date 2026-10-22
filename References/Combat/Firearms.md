@@ -124,7 +124,7 @@ Russia developed exploding rifle bullets in the 1860s. The St. Petersburg Declar
 
 ## Copper Bullet Tiers: 10,000 to 50,000 ft-lbs
 
-Assumptions: monolithic copper bullets, close range, flat armor plate. The adamantium needle is tungsten-dense, about one third of the caliber in diameter, four calibers long and about a quarter of the bullet's weight. If adamantium is only as dense as steel, cut the needle penetration figures by about 60 percent.
+Assumptions: monolithic copper bullets, close range, flat armor plate. The adamantium needle is tungsten-dense, about one third of the caliber in diameter, four calibers long and about a quarter of the bullet's weight. The hole is narrow, about 4–8 mm. Behind armor it kills what it hits and throws some spall, with less wide damage than a copper bullet that gets through. Against flesh the copper still wounds. The needle separates and overpenetrates. Dig it out of a wreck and seat it in a fresh copper bullet. If adamantium is only as dense as steel, cut the needle penetration figures by about 60 percent.
 
 ### The Bullets
 
@@ -198,6 +198,58 @@ Brass and steel cores are full-size cores like real armor-piercing bullets, abou
 - Against flesh, the copper still does the wounding. The needle separates and overpenetrates through anything behind the target.
 - It ricochets much less than copper on angled plate, but steep angles can still deflect it.
 - Since the needle is indestructible, it can be dug out of a wreck and reloaded into a fresh copper bullet.
+
+---
+
+> Shape catalog / CM-CP / vacuum flight: `../World/Science/Energy/ProjectileShapes.md`. Gunpowder / smokeless: `../World/Science/Energy/GunpowderFirearms.md`.
+
+## Terminal Effects from ProjectileShapes
+
+### 7.1 Energy, Momentum and Pressure
+
+- **Kinetic energy (½mv²):** rises with the square of velocity. Governs total damage potential.
+- **Momentum (mv):** governs pushing power and resistance to deflection.
+- **Pressure at contact:** depends on velocity and contact area. Small sharp tips concentrate force.
+
+### 7.2 Low to Moderate Velocity Impacts (Below About 1.5 km/s)
+
+- Projectile strength and hardness matter.
+- Nose shape matters. Pointed noses penetrate soft materials well. Blunt or capped noses resist shattering on hard armor.
+- Sloped armor increases effective thickness and promotes ricochet.
+- **Shatter gap:** some hardened projectiles shatter within a specific velocity window and fail to penetrate even though slower ones succeed.
+
+### 7.3 Hydrodynamic Regime (Above About 2 to 3 km/s)
+
+- Projectile and target flow like fluids at the contact point.
+- Penetration depth approaches **rod length × √(projectile density / target density)**.
+- Tungsten or depleted uranium (density around 17 to 19 g/cm³) against steel (around 7.85 g/cm³) gives a ratio near 1.5. A rod penetrates roughly 1.5 times its own length.
+- Material strength and nose shape stop mattering much. Length and density dominate.
+- This is why modern penetrators are long rods.
+
+### 7.4 Hypervelocity Regime (Above About 5 to 7 km/s)
+
+- Impact energy partly vaporizes both projectile and target.
+- Compact projectiles create wide craters rather than deep holes.
+- Impact flash and plasma form.
+- Common in orbital combat scenarios and micrometeoroid impacts.
+
+### 7.5 Yaw at Impact
+
+A long rod hitting with yaw strikes partly with its side. Penetration falls sharply once yaw exceeds a few degrees. This is the core reason orientation control matters for long rods in vacuum. Spheres and compact slugs are immune to this penalty.
+
+### 7.6 Chemical Energy Effects
+
+- **HEAT:** shaped charge jet penetration depends on charge diameter and liner quality, not impact velocity. Effective from slow launchers. Degraded by spin. Defeated by spaced, slat and reactive armor.
+- **HESH:** spreads explosive on the armor surface. Creates internal spall. Works with spin. Defeated by spaced armor.
+- **HE fragmentation:** effect depends on fragment number, size and velocity. Fragment velocity drops quickly in air but not in vacuum.
+
+### 7.7 Soft Target Effects (General)
+
+- **Permanent cavity:** tissue directly crushed or cut.
+- **Temporary cavity:** tissue stretched by the passing projectile. Significant at high velocity.
+- **Yaw and tumbling:** a projectile turning sideways creates a larger wound path. Spitzer bullets and flechettes often yaw in tissue.
+- **Expansion and fragmentation:** increase frontal area and damage.
+- **Velocity alone is not decisive:** a fast narrow projectile that stays stable can pass through with limited effect.
 
 ---
 

@@ -1,6 +1,6 @@
 # Gunpowder and Firearms
 
-Hub: `../Science.md`. Earth encyclopedia for invent beats. No manufacturing recipes. Caldris street baseline stays personal-firearms-niche (`../../Tech/Technology.md`). Non-powder mechanical launch: `Projectiles.md`. Recoil: `Kinetic.md`.
+Hub: `../Science.md`. Earth encyclopedia for invent beats. No manufacturing recipes. Caldris street baseline stays personal-firearms-niche (`../../Tech/Technology.md`). Non-powder mechanical launch: `Projectiles.md`. Recoil: `Kinetic.md`. History / feasibility ladder: `ExplosivesHistory.md`. Indestructible .357 HE model: `Indestructible357Magnum.md`.
 
 ## Powder Options by Era
 
@@ -92,9 +92,9 @@ Doubling the charge in a .50 gives roughly 25 to 35 percent more velocity, not d
 
 ## Ned acid (powder feedstock invent)
 
-Companion biology invent. Character peg: `../../../People/Ned.md`. Species body: `../../Fauna/NeedleWorm.md`.
+Companion biology invent. Character peg: `../../../People/Ned.md`. Species body: `../../Fauna/Species/NeedleWorm.md`.
 
-Ned produces cellulose silk, glycerin from his hemolymph and acid made by eating his own extremely hard spikes.
+Feedstocks and Earth animal precedents: `../../Fauna/Species/NeedleWorm.md`.
 
 ### Strength vs Concentration
 
@@ -120,22 +120,13 @@ Below pH 0 chemists use the Hammett scale. Each step of 1 means 10 times stronge
 - **Strong and dry:** Full nitration into guncotton, the propellant grade.
 - **Superacid:** Stronger is not better. A superacid chars, dissolves or breaks down cellulose and glycerin instead of nitrating them. Ned's acid only helps if its extra power goes into nitrating rather than eating the raw material.
 
-### Real Animal Precedents
+### Real animal precedents
 
-- Ants spray formic acid.
-- Vinegaroons (whip scorpions) spray acetic acid at about 85 percent strength.
-- Tun snails secrete saliva containing sulfuric acid to break down the shells of their prey.
-- Bombardier beetles keep chemicals in separate sacs and mix them in an armored reaction chamber to fire a boiling spray. This is a model for a gland that keeps reagents apart until use.
-- The stomach makes hydrochloric acid with proton pumps and protects itself with a mucus lining.
-- Tunicates (sea squirts) are the only animals known to make cellulose.
-- Many cold-climate insects load their hemolymph with glycerol as antifreeze.
+Earth animal precedents for the gland: `../../Fauna/Species/NeedleWorm.md`.
 
 ### How Ned Could Work
 
-- **Spikes as feedstock:** Sulfuric acid needs sulfur. Nitric acid needs nitrogen. Ned's spikes can be mineralized stores of sulfur and nitrogen compounds that he grinds down and digests to rebuild as acid. Eating his own spikes recycles the elements instead of creating them from nothing. Spike hardness affects chewing and armor. Acid strength comes from the chemistry inside the gland.
-- **Two glands or one:** Two glands, one nitric and one sulfuric, mirror the real mixed-acid setup. One magical gland producing a single acid that both nitrates and absorbs water replaces both.
-- **Self-protection:** Acid sacs lined with chitin and mucus like a stomach, with a separate output duct like a bombardier beetle.
-- **Water control:** A worm is mostly water. A gland that pumps out acid with almost no water in it is the most magical part of Ned and the part that decides whether his acid makes guncotton or collodion.
+Gland layout (two sacs or one, chitin lining, dry output, spikes as mineral stores): `../../Fauna/Species/NeedleWorm.md`. Nitration chemistry stays here.
 
 ### Ned Acid Formula
 

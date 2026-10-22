@@ -1,7 +1,7 @@
 # Materials (agent ref)
 
 Terra = Earth elements. Tags: COMMON · MAGIC · SPECIALTY · NO.
-Deep: `Metals.md` · `MonsterCores.md` · `../Science/Biomaterials/Biomaterials.md` · `../Science/Energy/RefinedMana.md` · `../Science/Metallurgy/CraftMetal.md` · Zn/brass process: `../Science/Metallurgy/Brass.md`
+Deep: `Metals.md` · `MonsterCores.md` · `TranslucentMaterials.md` · `MaterialPurification.md` · `AtomizationEnergy.md` · abundance / use lists: `CommonElements.md` · processing encyclopedia: `MaterialsProcessing.md` · design ideas: `MaterialConsiderations.md` · exotic C / high-P / theory: `ExoticMaterials.md` · permeation / breathable waterproof: `PermeationBarriers.md` · `../Science/Biomaterials/Biomaterials.md` · `../Science/Energy/RefinedMana.md` · `../Science/Metallurgy/CraftMetal.md` · Zn/brass process: `../Science/Metallurgy/Brass.md`
 Conversion law (altitude / %): `Metals.md`. Ambient `C` / `A`: `../Science/Energy/ManaConcentration.md`.
 
 COMMON metal: Cu · Fe/steel · Ag · Au · Sn · bronze · brass · calamine (Zn ore for brass)
@@ -15,12 +15,13 @@ COMMON craft/organic: leather · linen · wool · hemp/rope · pitch/tar · char
 
 COMMON beast (magical): hide · bone · scale · tendon · silk · similar → Biomaterials.md (N× / monster grades; mundane bone/leather still COMMON above)
 
-MAGIC Ag: mythril (converted silver; grades by %; best common rune host below aetherium)
+MAGIC Ag: mythril (converted silver; grades by %; ~10% lighter than steel, sword-grade strength, extreme conductivity; best common rune host below aetherium)
 MAGIC Au: orihalcum (converted gold; magic resistance = % conversion)
 MAGIC Cu: aurium (converted copper; damps flowing mana; industrial insulator)
 MAGIC Fe: darkiron (<80%) → star iron (≥80%)
 MAGIC steel: darksteel (<80%) → star steel (≥80%); often forged from star iron + carbon
-MAGIC Ti: adamantium (converted titanium; cast-final indestructible; mundane Ti not street)
+MAGIC Ti: adamantium (converted titanium; cast-final frozen lattice; stiff rune/enchant host; electron heat spreader; destroy = casting-key resonance or electron-overload melt; mundane Ti not street). Detail: `Metals.md`
+MAGIC V-line: durium (vanadium anchor; dark blue ore; crude brittle / refined strong) · durium carbide ≈ VC hard particle · durasteel = darksteel + 20–35% vol carbide (steel-weight cermet) · aether durasteel (fire-gear refine) · etherium mix → rune life toward mythril. Specs: `Metals.md`
 MAGIC stone: arcanium (less refined) · aetherium (better / refined) · artificial space-cook stones (MonsterCores) · Stillwire/Lightthread invent · cores MonsterCores.md
 MAGIC moon ore: red/blue moon deposits (`../Space/Moons.md`); ages of space-ambient soak; prestige when reachable; not a new Earth element
 

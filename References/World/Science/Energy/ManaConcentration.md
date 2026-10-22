@@ -73,6 +73,8 @@ Shop vacuum craft: `../Metallurgy/Vacuum.md`.
 
 **Spiritual sites (locked feel):** narrative saturation between ordinary ambient and dungeon thickness, maybe a little higher than ambient. No fixed `D` digit table.
 
+**Loose-mana generation (ecology pointer):** where ambient mana sits loose and thick in a place, it can spontaneously generate monsters from natural material (goblins from mud / nature). Rates and culling live in `../../Fauna/MonsterPopulation.md`. This file gives no spawn digit table.
+
 ## Recovery / absorb / activation use
 
 Pool regen, no-pool bodies, radiation-class forced absorb, and “useful not cost” cast rules: `../../../Runes/Energy.md` only. Do not restate here.

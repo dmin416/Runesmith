@@ -1,6 +1,8 @@
 # Optics
 
-Hub: `../Science.md`. Light bands: `Waves.md`. Room / street light tech: `Lighting.md`. Fight use: `../../../Combat/Lasers.md`. Pulsed power: `Generators.md`. Flywheel + light-crystal beams / air ceilings: `FlywheelApplications.md`.
+Hub: `../Science.md`. Light bands: `Waves.md`. Room / street light tech: `Lighting.md`. Glass / quartz / clear stocks: `../../Materials/TranslucentMaterials.md`. Telecom fiber / fused-silica properties: `FiberOptics.md`. Fight use: `../../../Combat/Lasers.md`. Escalation inspiration (not locked): `../../../Combat/LightWarfare.md`, `../../../Combat/LightWarfareVariables.md`. Pulsed power: `Generators.md`. Flywheel + light-crystal beams / air ceilings: `FlywheelApplications.md`. Mirror metal: `../Metallurgy/Silver.md`. Sheer fabrics / one-way cloth: `../../Materials/SheerMaterials.md`.
+
+Earth-physics anchors below (atmosphere glints, cavities, radiance). Not Terra spell law.
 
 ## Water-lens telescope (potential)
 
@@ -130,3 +132,174 @@ Collecting the working gases for CO2 and copper-vapor lasers with period chemist
 
 - Pipe the gas in a loop: laser, cooler, back to laser.
 - Carbon dioxide slowly breaks down, so top off with fresh gas over time.
+
+## Atmosphere glint (sun in a window from ten miles)
+
+### What the bright spot is
+
+A dusk hillside spark seen while facing away from the sunset is usually the setting sun reflecting off a distant window, not the sun itself. The pink band opposite the sun with blue above is the **Belt of Venus** (backscattered sunset light). A darker blue-gray band under it is often Earth's shadow on the atmosphere.
+
+### Sun to the window
+
+- Distance ~150 million km; light travel ~8.3 minutes.
+- At the horizon, air mass ~38 times overhead. **Rayleigh** scatter ∝ 1/λ⁴: blue (450 nm) scatters ~4.4× more than red (650 nm), so the long path goes orange-red.
+- **Refraction** bends light down ~0.57° at the horizon (sun width ~0.53°). When the disk appears to touch the horizon, it is already geometrically below it.
+
+### Reflection
+
+- Angle of incidence = angle of reflection. Only a pane at the right tilt sends the beam to the viewer.
+- Ordinary glass (n ~1.5) reflects ~4% per surface head-on; double-pane has four surfaces; low-e coatings and grazing angles raise reflectance.
+- A flat mirror preserves **radiance**. The glint has sun-surface brightness × glass reflectance.
+- Sun spans 0.53°. At 16 km a full solar image would be ~148 m across. A 1–2 m window is smaller, so the whole pane is edge-to-edge sun-bright: like a small hole into the sun's face.
+
+### Crossing ten miles (~16.1 km)
+
+- Travel time ~54 µs.
+- Earth curvature drop ≈ d²/(2R) ≈ 20 m at 16.1 km (R = 6,371 km). Refraction cuts hidden height to ~17 m. The window needs hillside elevation.
+- Haze (Mie) softens contrast and milks the far shore pink.
+
+### Vertical streak on water
+
+Ripples are tiny mirrors. Facets with the right tilt flash toward the viewer (**glitter path**). At low angle, tilt moves the flash point far along the line of sight but little sideways, so the path stretches vertical (same geometry as sun/moon paths). Calm water keeps it thin. Water (n = 1.33) reflects ~2% head-on and >50% at grazing angles.
+
+### Camera through glass
+
+Interior reflections, smudges, and flare can mark the near pane. The glint core often clips white on the sensor while the water streak keeps the true orange-red.
+
+## Integrating sphere (flashbang in a mirrored ball)
+
+### Short answer
+
+No laser exits a pinhole in a perfectly reflective sphere. The hole glows as a small, uniform point spraying a wide cone.
+
+### What a laser needs
+
+1. **Gain medium** with population inversion.
+2. **Stimulated emission** (same wavelength, direction, polarization, phase).
+3. **Resonator** that selects one axis (usually two facing mirrors).
+4. **Output coupler** (one leaky mirror).
+
+A flashbang is broadband, all-directions, random phase (hot metal powder as a thermal source). A sphere has no preferred axis and no gain. Mirrors only redirect.
+
+### What happens
+
+A reflective cavity with a small port is an **integrating sphere**. After a few bounces, light fills every direction. Rays leave the hole at every exterior angle.
+
+For perfect walls:
+
+- Average bounces before escape ≈ surface area / hole area.
+- Mean chord = 4V/S = 4r/3.
+- Decay time constant τ = 4V / (c × A_hole).
+
+Example: r = 1 m, hole diameter 1 mm → ~16 million bounces, ~21,000 km path, τ ≈ 71 ms. The flash is milliseconds; the pinhole glows dimmer longer. With perfect walls and no absorbers, all light eventually exits the hole.
+
+### Radiance / étendue limit
+
+Passive optics (mirrors, lenses, holes, tubes) cannot raise radiance above the source. That is conservation of étendue and follows the second law: passive concentration of thermal light hotter than the source would be a free heat pump. A directional beam from random light needs a pumped gain medium.
+
+A small hole in a closed cavity is the textbook **blackbody**. If hot smoke and particles absorb and re-emit many times, the hole spectrum approaches an ideal glow at that temperature (Planck, 1900).
+
+Practical: best dielectric mirrors ~99.999% R still lose a little each bounce. A real flashbang also dumps pressure and hot gas.
+
+## Limelight, tunnels, and searchlights
+
+Limelight as a lamp: `Lighting.md`. Optics here is what cavities and tubes do to its radiance.
+
+### Continuous limelight in a sphere
+
+Light builds until leak power equals input. Interior approaches blackbody at the lime temperature (~2,800 K) and cannot exceed it: the lime absorbs returning light as readily as it emits. Flame needs gas feed and a steam vent.
+
+### Mirrored tunnel on the hole
+
+A ray keeps its angle to the tube axis on every bounce. Light that enters at 60° exits at 60°. Same wide spray as a bare hole.
+
+### Black tunnel (collimator)
+
+Only near-axial rays exit. Angled light hits walls and dies.
+
+- Beam spread ≈ hole diameter / tunnel length (radians).
+
+### Numbers: 1 cm hole, 1 m black tunnel, 2,800 K
+
+- Blackbody exitance σT⁴ ≈ 3.49 MW/m²; radiance ≈ 1.11 MW/m²·sr⁻¹.
+- Hole area 7.85×10⁻⁵ m² → power into tunnel ~274 W.
+- Étendue ≈ (area)² / (length)² ≈ 6.2×10⁻⁹ m²·sr → beam power ~7 mW (~0.5 mW visible; ~8% of 2,800 K is 380–750 nm).
+- Spread ~0.01 rad (~0.6°); ~10 m wide at 1 km.
+- The other ~274 W heats the tunnel. Mostly a heater with a faint beam.
+
+A ~5 mW laser pointer at ~1 mrad is ~1 m spot at 1 km, all visible: roughly ~1,000× brighter on target per unit area than this tunnel limelight.
+
+### How searchlights win
+
+Radiance is fixed by the source. Sending more power at a given spread needs a **larger emitting aperture**. A limelight at the focus of a large curved mirror makes the whole mirror face glow at source radiance. Still incoherent mixed light. Only gain makes laser light.
+
+---
+
+## One-Way Mirrors
+
+### What they are
+
+A "one-way mirror" (also two-way mirror, half-silvered mirror, observation glass) is a pane with a partially reflective coating. Common coatings:
+
+- **Thin metal films**: aluminum, silver, chromium, titanium or nickel alloys, a few to tens of nanometers thick. Some light reflects, some passes and some is absorbed by the metal.
+- **Dielectric stacks**: alternating layers of high-index and low-index materials (such as TiO₂ and SiO₂). Very little absorption. Reflection is tuned by interference.
+
+Typical observation glass reflects a large share of light and transmits a smaller share. Exact splits vary by product.
+
+### The secret: it is not actually one-way
+
+Passive optical materials obey **reciprocity**: transmittance from side A to side B equals transmittance from B to A. A one-way mirror lets exactly as much light through in each direction.
+
+Reflectance can differ slightly between the two faces when the coating absorbs light (metal on glass looks a bit different from each side), yet transmission never differs.
+
+There is also a thermodynamic reason. If a passive pane let light through only one way, placing it between two rooms at equal temperature would let radiant energy pile up on one side, making one room hotter than the other with no energy input. That violates the second law of thermodynamics.
+
+### How the illusion works: lighting ratio
+
+The effect depends entirely on one side being far brighter than the other. Each viewer sees two things superimposed:
+
+- Light from their own side, reflected by the coating.
+- Light from the other side, transmitted through the coating.
+
+**Worked example.** Reflectance R = 0.60, transmittance T = 0.12. The bright room has luminance 100. The dark observation room has luminance 10.
+
+| Viewer | Reflected light seen | Transmitted light seen | Ratio | Result |
+|---|---|---|---|---|
+| In bright room | 0.60 × 100 = 60 | 0.12 × 10 = 1.2 | 50 : 1 | Sees a mirror |
+| In dark room | 0.60 × 10 = 6 | 0.12 × 100 = 12 | 1 : 2 | Sees through |
+
+Installers usually recommend that the observed side be lit at least 8 to 10 times brighter than the observation side. Observation rooms use dim lighting, dark walls and dark clothing, with no screens or lamps visible behind observers.
+
+### Reversal
+
+Switch the lighting and the effect reverses. Buildings with mirrored windows look opaque in the day yet become fully visible from the street at night when interior lights are on. Reflective window film behaves exactly the same way.
+
+### Detecting observation glass
+
+- **The fingernail test is unreliable.** Touching a nail to an ordinary back-silvered mirror shows a gap from the glass thickness, while touching a one-way mirror shows no gap. Front-surface mirrors (used in some decor and optics) also show no gap, so the test produces false alarms.
+- **Darken your side.** Cupping hands around the eyes and pressing against the glass removes reflected light, so any lit space behind becomes visible.
+- **Light from your side.** A flashlight pressed to the glass can illuminate a space behind it.
+- **Mounting.** A mirror recessed into the wall with a space behind it differs from one hung on a solid wall.
+- **Knocking.** A hollow cavity behind sounds different from a solid wall, though this is not definitive.
+
+### Uses
+
+- Police interrogation and observation rooms
+- **Gesell dome**: an observation dome developed by Arnold Gesell at Yale for watching children's development without disturbing them
+- **Teleprompters**: a beam splitter at 45° reflects text toward the presenter while the camera looks through it
+- Retail security and casino surveillance
+- Smart mirrors with displays behind the glass
+- Infinity mirrors (two partial mirrors facing each other)
+- Mirrored sunglasses: the wearer's eyes sit in shade, so outsiders see reflection while the wearer sees out
+
+### True one-way optics
+
+Real nonreciprocal devices exist, though none suit windows:
+
+- **Faraday isolators** use magneto-optic materials in a magnetic field plus polarizers. Used in lasers and fiber optics to block back-reflections.
+- **Time-modulated or nonlinear devices** break reciprocity under special conditions in research settings.
+
+These handle narrow beams under controlled conditions, not room-sized scenes.
+
+---
+

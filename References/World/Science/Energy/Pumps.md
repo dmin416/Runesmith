@@ -61,6 +61,8 @@ Flap (leather), ball check, poppet (+ spring), piston cup seals. Faucet bodies: 
 | Timed, no electric | Metering piston bleed or pilot diaphragm |
 | Tank fill | Float valve |
 | Stable shower temp | Pressure-balance / thermostatic |
+
+Heat to raise the water: `ShowerBathHeat.md`. This table is the mixing valve, not the heater load.
 | Huge flow, light touch | Pilot-operated diaphragm |
 
 **Pressure bands:** tank 5 m → ~0.5 bar; 20 m → ~2 bar; tower 30–50 m → 3–5 bar. Homes often ~2.8–5.5 bar. Snap-close springs → water hammer unless air chamber or slow-close.

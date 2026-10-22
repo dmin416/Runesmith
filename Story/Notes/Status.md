@@ -2,7 +2,9 @@
 
 Roland's status by chapter. Copy from chapter screens. Follow `CrossCheck.md`.
 
-**Rewrite math:** `StatusBreakdown.md` (Body + Class + Skills/Traits). Age tracks: `References/Progression/Progression.md`. Early chapters below keep **Live** blocks from current prose and add **Rewrite target** numbers until those chapters are retconned.
+**Ch 1–20 ledger (time + sheet + skill deltas):** `ChapterLedger.md`. Use that first when you need the exact clock, attributes, or what changed this chapter.
+
+**Rewrite math:** `StatusBreakdown.md` (Body + Class + Skills/Traits). Compact table: `Attributes.md`. Age tracks: `Timeline.md` / `References/Progression/Progression.md`. Early chapters below keep **Live** blocks from current prose and add **Rewrite target** numbers until those chapters are retconned.
 
 ## Chapter 1
 
@@ -81,8 +83,8 @@ Resource formulas: HP = (Vitality x 10) + (Endurance x 3), SP = (Endurance x 10)
 
 **Rewrite target resources:** HP 52/52, SP 76/76, MP 520/520 (Int 42 × 10 + Will 25 × 4).
 
-Int skill and trait bonuses at transfer: Debugger +8, Technology +7, Hastened Reading +2, Logical Thinker +5, Fast Learning +5, Knowledge Retention +3 (total +30).
-Dex skill bonuses at transfer: Technology +7, Tinkerer +8, Cooking +3, Marksmanship +7 (total +25 → 29 from bare 4).
+Int skill and trait bonuses at transfer: Diagnosis +8, Technology +7, Hastened Reading +2, Logical Thinker +5, Fast Learning +5, Knowledge Retention +3 (total +30).
+Dex skill bonuses at transfer: Technology +7, Fabrication +8, Cooking +3, Marksmanship +7 (total +25 → 29 from bare 4).
 Agility skill bonuses at transfer: Cooking +3 (total +3 → 8 from bare 5).
 Charisma skill bonuses at transfer: Acting +4 (total +4 → 7 from bare 3).
 Willpower trait bonuses at transfer: Logical Thinker +5, Knowledge Retention +5 (total +10 → 25 from bare 15).
@@ -98,11 +100,11 @@ Mana Sickness cleared. Full recovery. No new full status screen. Height still ab
 Ninth birthday. Height **4'7"** (chapter; tall for age 9). Bravery-test status screen. Wears leather armor.
 
 **XP this chapter** (see `Experience.md`):
-- Goblin L1 kill: **50** (49+1)
+- Goblin L1 kill: **50** (RaceMult 1.0)
 - First Kill achievement: **+200**
 - **Total gained: 250 XP** (pre-class bank; applies at ascension with penalty)
 
-Early in the chapter (age ~5 training stretch): Mana Sense reaches L4. Intelligence +4 and Willpower +4 from that skill (bonus = level). Half-year Climbing grind and other Basics before the birthday fight.
+Early in the chapter (age ~5 training stretch): Mana Sight reaches L4. Intelligence +4 and Willpower +4 from that skill (bonus = level). Half-year Climbing grind and other Basics before the birthday fight.
 
 **Live (chapter)** still uses body physicals + transfer Dex pad + partial Int/Will (old seeds). Omits Basic physical skill bonuses. Prose: Willpower helps him stay clear-headed; Dexterity is the only combat-useful pad of his three 20+ stats (archery / light blades).
 
@@ -128,7 +130,7 @@ Luck                   8
 
 **Rewrite target (full stack, age 9):** Body 13/16/16/13/12 Int17 Will23 + Basics + transfer skills/traits → Str **36**, Agi **35**, Dex **49**, Vit **36**, End **36**, Int **65**, Will **51**, Cha **7**, Luck **7**. HP/SP/MP from formulas on those attributes. See `StatusBreakdown.md`.
 
-**Partial rewrite (body + transfer only, no Basics yet):** Str 13, Agi 19, Dex 41, Vit 13, End 12, Int 47, Will 33 (then add Mana Sense / Reading levels as unlocked). Cha/Luck Other ticks optional.
+**Partial rewrite (body + transfer only, no Basics yet):** Str 13, Agi 19, Dex 41, Vit 13, End 12, Int 47, Will 33 (then add Mana Sight / Reading levels as unlocked). Cha/Luck Other ticks optional.
 
 Goblin foe:
 
@@ -167,15 +169,15 @@ Luck                   7
 
 HP = 40×10 + 40×3 = 520. SP = 40×10 + 40×3 + 40×3 = 640. MP = 66×10 + 53×4 = 872.
 
-Skills menu in chapter: transfer set (Marksmanship **L7**) + Mana Sense **L9** (+Int/Will) + Reading **L9** (+Int/Will) + Basics at age-10 targets (Running/Sprint/Climbing/Throwing/Leather **L9**; H2H/Sneak/Sword **L8**; **Acrobatics L3**). Str/Agi/Vit/End even at **40**; Dex **50**; Will **53**; Int **66** highest.
+Skills menu in chapter: transfer set (Marksmanship **L7**) + Mana Sight **L9** (+Int/Will) + Reading **L9** (+Int/Will) + Basics at age-10 targets (Running/Sprint/Climbing/Throwing/Leather **L9**; H2H/Sneak/Sword **L8**; **Acrobatics L3**). Str/Agi/Vit/End even at **40**; Dex **50**; Will **53**; Int **66** highest.
 
-Class gained mid-chapter: **Tier 1 Mage L1**. Unlocks: Basic Mana Shaping L1 (**Int +2 / Will +1**), Basic Mana Regulation L1 (**Int +1 / Will +2**), Mana Bolt Spell L1, Basic Incantation L1 (**Int +1 / Will +1**). Mage package +1 Int / +1 Will. Mage **+2% max MP** / **+1% regen** per class level. All seven **40** attribute perks on sheet. Banked pre-class XP not applied on-page until Chapter 6 (L3). Crystal used for the ritual turns to dust.
+Class gained mid-chapter: **Tier 1 Mage L1**. Unlocks: Basic Mana Shaping L1 (**Int +2 / Will +1**), Basic Mana Regulation L1 (**Int +1 / Will +2**), Mana Bolt Spell L1, Basic Incantation L1 (**Int +1 / Will +1**). Mage package +1 Int / +1 Will (permanent). Mage card: mana recovery (narrative). Blessed by Mana: multiplies mana recovery. All seven **40** attribute perks on sheet. Banked pre-class XP not applied on-page until Chapter 6 (L3). Crystal used for the ritual turns to dust.
 
 **Live (chapter) Mage L1** (right after tutorial dump):
 
 Pre-class Int **66** / Will **53** → + class (+1/+1) + mage-grant skill pads (+4 Int / +4 Will) → Int **71** / Will **58**.
 
-MP check: ((71 × 10) + (58 × 4)) × 1.02 = 942 × 1.02 = **961** (Blessed by Mana = regen narrative only).
+MP check: (71 × 10) + (58 × 4) = **942** (Mage / Blessed = recovery only; printed sheet stands if different).
 
 ```
 ════════ STATUS ════════
@@ -219,9 +221,9 @@ Mage L3 after pre-ascension XP applies. Runesmith plan approved with conditions 
 
 Weekly estate goblin fights after the age-9 bravery test filled the pre-class XP bank. That bank applies **once** at first ascension only.
 
-**Live (chapter):** Mage L3 on age-10 full stack. Class +3 Int / +3 Will. Mage grants still L1: +4 Int / +4 Will from Shaping/Regulation/Incantation. Mage **+2% MP / +1% regen** per class level. Blessed by Mana = stronger mana regen (narrative). All seven 40 perks.
+**Live (chapter):** Mage L3 on age-10 full stack. Class +3 Int / +3 Will (permanent). Mage grants still L1: +4 Int / +4 Will from Shaping/Regulation/Incantation. Mage card: mana recovery. Blessed by Mana: multiplies mana recovery. All seven 40 perks.
 
-MP check: ((73 × 10) + (60 × 4)) × 1.06 = 970 × 1.06 = **1028** (Blessed = regen narrative only).
+MP check: (73 × 10) + (60 × 4) = **970** (Mage / Blessed = recovery only; printed **1028** stands).
 
 ```
 ════════ STATUS ════════
@@ -229,7 +231,7 @@ Name:       Roland Arden
 Class:      Mage L3
 
 HP               520/520
-MP              1164/1164
+MP              1028/1028
 SP               640/640
 
 Strength              40
@@ -260,9 +262,9 @@ No new full attribute status screen. No class level shown this chapter. Still Ma
 
 Bronze Adventurer. Guild measuring crystal reads full sheet (confidential to guild). Registers first name **Roland** only on the card. Looks ~**150 cm** / ~12–13 to staff.
 
-**Live (chapter):** same Mage L3 rewrite stack as Ch 6. Class +3 Int / +3 Will. Mage grants still L1 pads (+4 Int / +4 Will). Mage **+2% MP / +1% regen × level**. Blessed = regen narrative only. Source orb was Mage L5 on the old low sheet. Off-page bar still **1250 / 1500** from estate Mage doubles (not shown on the orb block).
+**Live (chapter):** same Mage L3 rewrite stack as Ch 6. Class +3 Int / +3 Will (permanent). Mage grants still L1 pads (+4 Int / +4 Will). Mage card: mana recovery. Blessed multiplies recovery. Source orb was Mage L5 on the old low sheet. Off-page bar still **1250 / 1500** from estate Mage doubles (not shown on the orb block).
 
-MP check: ((73 × 10) + (60 × 4)) × 1.06 = 970 × 1.06 = **1028** (Blessed = regen narrative only).
+MP check: (73 × 10) + (60 × 4) = **970** (Mage / Blessed = recovery only; printed **1028** stands).
 
 ```
 ════════ STATUS ════════
@@ -270,7 +272,7 @@ Name:       Roland Arden
 Class:      Mage L3
 
 HP               520/520
-MP              1164/1164
+MP              1028/1028
 SP               640/640
 
 Strength              40
@@ -295,7 +297,7 @@ No full status screen. First adventurer hunt levels Mage **L3 → L4** on the **
 
 XP bar: enter **1250 / 1500** (estate Mage doubles). Kills **L3 / L4 / L2 / L4 / L5 / L3 / L4** → **150 / 200 / 100 / 200 / 250 / 150 / 200**; level-up after **+150 +200**; overflow **100 / 2000**; day ends **1000 / 2000**.
 
-Class package at L4: +4 Int / +4 Will vs L3’s +3. Blessed = regen narrative only. No on-page attribute sheet.
+Class package at L4: +4 Int / +4 Will vs L3’s +3 (permanent). Mage recovery + Blessed multiplier stay narrative. No on-page attribute sheet.
 
 **Coin (LC):** enter **795** (after Ch 8 gate + card). Spend meal **5** + map **10**. Income ears **35** + stones **60** (= **95** turn-in). End **875 LC**.
 
@@ -305,7 +307,7 @@ XP shown matches live `50 × goblin_L` (RaceMult **1.0**).
 
 ## Chapter 9.5
 
-Three-month rewrite grind (Source has no separate chapter; Ch 10 opens already at L20). **1,000** goblin kills (incl. **8** T2 leader ambushes L27); lifetime **1,088**. Field-use curve in `Levels.md`; end ranks in `Skills.md` Ch 9.5. **L9 hard cap until first T2.** Absorption / Reinforcement cycle whenever mana is spent → both **L9** (Reinforcement self-taught from ambient→body store, not a book). Also: Shaping **L6**, Regulation **L7**, Incantation **L6**, Bolt **L7**, Arrow **L5**, Shield **L3**, Hand to Hand / Leather / Sprint stay **Basic L9**; Running / Climbing / Sneaking / Throwing / Swordsmanship → **plain L1**; Marksmanship → **Expert Marksmanship L1**; **Basic Dodging L6**. Heat **L6** / Hands **L5** (evenings). End **Mage L20** → Int **129** / Will **127** / MP **2158**; physicals **46/50/56/41/42**; HP **536** / SP **708**. Evolve pads **additive** (Basic L9 stay + Level 2 L1; L1 pad is the evolve “free stat”, not an extra). Month beats: ~L11–12 + Arrow + Dodging; ~L16–17 + Shield + nickname; L20 + Goblin Hunter (past **1000** kills). Coin end **3,595 LC**; stones **218** rice-band + **8** leader (kept after Ch 9 day one). Food: inn breakfast+dinner; **3** jerky bought; other lunches = goblin prey. Cloak **300 LC**. Ledger: `Experience.md`.
+Three-month rewrite grind (Source has no separate chapter; Ch 10 opens already at L20). **1,000** goblin kills (incl. **8** T2 leader ambushes L27); lifetime **1,088**. Field-use curve in `SkillRanks.md`; end ranks in `Skills.md` Ch 9.5. **L9 hard cap.** Evolve at **2,000,000** — **none this skip**. Absorption / Reinforcement spend/refill pulses → both **L9**. Also: Shaping **L6**, Regulation **L7**, Incantation **L6** (peak-use foundations); Bolt **L5**, Arrow **L4**, Shield **L3**; Hand to Hand / Sneaking / Sword stay **Basic L8**; Running / Climbing / Throwing / Leather / Sprint stay **Basic L9**; Marksmanship **L7**; **Basic Dodging L4**. Heat **L5** / Hands **L5** (evenings). End **Mage L20** → Int **129** / Will **127** / MP **2158**; physicals **46/50/56/41/42**; HP **536** / SP **708**. Month beats: ~L11–12 + Arrow + Dodging; ~L16–17 + Shield + nickname; L20 + Goblin Hunter (past **1000** kills). Coin end **3,595 LC**; stones **218** rice-band + **8** leader (kept after Ch 9 day one). Food: inn breakfast+dinner; **3** jerky bought; other lunches = goblin prey. Cloak **300 LC**. Ledger: `Experience.md`.
 
 ## Chapter 10
 
@@ -342,7 +344,7 @@ Luck                   7
 ════════════════════════
 ```
 
-MP = ((Int×10)+(Will×4)) × (1 + 0.02 × Mage level). Mage also **+1% mana regen** per class level. Blessed by Mana = regen narrative only. Source fixed +20%/+15% discarded; sheet MP numbers need retally to the per-level %.
+MP formula `(Int×10)+(Will×4)`. Mage = mana recovery; Blessed = recovery multiplier; neither raises max MP. Printed **2158** stands.
 
 ## Chapter 11
 
@@ -351,12 +353,12 @@ No full status screen. Still **Mage L20** band (no level-up line). First Carwen 
 **On-page**
 - Entrance dungeon rat: Mana Arrow one-shot (no XP popup shown).
 - First Spiked Boar (idle): **+6 XP**. Narration: **1%** cut of L8 pool **600**; he could kill it alone if he tried. Party XP = ability + contribution (Source T1-in-T2 zero-XP block dropped).
-- Mana Sense: chest stone ≈ goblin-leader size. Later active fight: Mana Shield hard disk on Sahildr; “another” stone.
+- Mana Sight: chest stone ≈ goblin-leader size. Later active fight: Mana Shield hard disk on Sahildr; “another” stone.
 - Equal money split after sales (no on-page coin total).
 
-**Day lock** (`Levels.md` / `Economy.md` / `Experience.md`): Spiked Boar **L8** solo pool **600** (idle **6 = 1%**; full share **150 = 1/4**). Day **4** boars → **456** XP. Day haul **4** boars / **2** stones sold → team **~512 LC** → Roland **+128 LC**. Enter pouch **3,630 LC** → after day 1 **3,758 LC**. Personal stones stay **220** rice + **8** leader. L20 bar after day **~6,256 / 10,000**.
+**Day lock** (`RaceMult.md` / `Economy.md` / `Experience.md`): Spiked Boar **L8** solo pool **600** (idle **6 = 1%**; full share **150 = 1/4**). Day **4** boars → **456** XP. Day haul **4** boars / **2** stones sold → team **~512 LC** → Roland **+128 LC**. Enter pouch **3,630 LC** → after day 1 **3,758 LC**. Personal stones stay **220** rice + **8** leader. L20 bar after day **~6,256 / 10,000**.
 
-**Trial weeks (into Ch 12):** **7** more Floor-1 days / **28** boars. Kill XP **+1,820** (half active / half low). Idle waits: **Mana Hands**, Absorption, Sense → Hands **L5→L6** (**~+100** skill XP) → bar **~2,774 / 10,000**; still **Mage L20**. Share **+921 LC**; lodging+food **−266** → pouch **~4,413 LC**. Shield L3 / Incantation L6 unchanged.
+**Trial weeks (into Ch 12):** **7** more Floor-1 days / **28** boars. Kill XP **+2,184** (half active / half low). Idle waits: **Mana Hands**, Absorption, Sense → Hands **L5→L6** (**~+100** skill XP) → bar **~8,540 / 10,000**; still **Mage L20**. Share **+921 LC**; lodging+food **−266** → pouch **~4,413 LC**. Shield L3 / Incantation L6 unchanged.
 
 ## Chapter 12
 
@@ -366,7 +368,7 @@ No full status screen. Gains **Basic Alcohol Resistance** L1 (**Endurance +1**) 
 
 ## Chapter 13
 
-Mage L25 at cap. Basic Calligraphy L9 reached. Half-year Floor-3 slate: `Experience.md` (**342** kills; kill **40,776** + skill **4,608**; pouch **~5,977 LC** at Not bad). Skill ranks: `Skills.md` Ch 13. Poison **L6**. Recovery **L5**. **Basic Dodging → Dodging L6**.
+Mage L25 at cap. Basic Calligraphy L9 reached. **Half a year** with the girls on Floor-3 (after **3 months** solo goblins; total Carwen **~9 months**). Slate: `Experience.md` (**342** kills; kill **40,776** + skill **4,608**; pouch **~5,977 LC** at Not bad). Skill ranks: `Skills.md` Ch 13. Poison **L6**. Recovery **L5**. **Basic Dodging L6**. Age **11 and 0 months** / world **6 years** (`Timeline.md`).
 
 **Live (chapter)** — rewrite Mage L25 sheet (`StatusBreakdown.md`):
 
@@ -399,9 +401,9 @@ Class-change crystal recovered. Ambush unfinished.
 
 ## Chapter 14
 
-No full status screen. Damage **8** (cheek) + **31** (calf) + **46** (shoulder) before low-grade healing potion (drink half / pour; seals holes, residual ache). **Dodging L6→L7** mid-chase (**Agi +1**) and **479 XP** from Tier 2 fencer party kill. **Level lock:** fencer overall **L55**; Becky / Sahildr / Reyna overall **~45**; Roland Mage **L25**. Class-change crystal still on him. Confession to party unfinished.
+No full status screen. Damage **8** (cheek) + **31** (calf) + **46** (shoulder) before low-grade healing potion (drink half / pour; seals holes, residual ache). **Basic Dodging L6→L7** mid-chase (**Agi +1**) and **479 XP** from Tier 2 fencer party kill. **Level lock:** fencer overall **L55**; Becky / Sahildr / Reyna overall **~45**; Roland Mage **L25**. Class-change crystal still on him. Confession to party unfinished.
 
-**Rewrite:** **Mage L25** after Dodging L7 (**49/64/59/57/62/137/135/12/7**; HP **756** / MP **2292** / SP **959**; pouch **~5,977 LC**). Bar after **+479** into Mage L25 bank (cap; banks for class change).
+**Rewrite:** **Mage L25** after Basic Dodging L7 (**49/64/59/57/62/137/135/12/7**; HP **756** / MP **2292** / SP **959**; pouch **~5,977 LC**). Bar after **+479** into Mage L25 bank (cap; banks for class change).
 
 **Ned:** overall **26** / **4x**, **Greater Needle Worm** (evo jump from watcher kill XP). Sheet: `NedStatus.md`.
 
@@ -409,7 +411,7 @@ No full status screen. Damage **8** (cheek) + **31** (calf) + **46** (shoulder) 
 
 No full status screen. Gains **1000 XP** from Lesser Detonation Rune [Highest] schematic. Title: **Runic Scholar**. Rapier tip blast **125 MP** (SP overflow 1:1 if MP short). Cremation bubble **1000 MP**. Class-change crystal still unused. Bank at L25 cap: Ch 14 **479** + Ch 15 **1000** = **1479**.
 
-**Rewrite:** inherits Ch 14 Mage L25 rewrite sheet (**Dodging L7**). Schematic XP banks toward class change (**no half-cut** on switch).
+**Rewrite:** inherits Ch 14 Mage L25 rewrite sheet (**Basic Dodging L7**). Schematic XP banks toward class change (**no half-cut** on switch).
 
 **Ned:** overall **26** / **4x** Greater; aptitude surge climbing skill bars (`NedStatus.md`).
 
@@ -428,15 +430,15 @@ Classes:
 T1 Mage L25                [Secondary]
 T1 Runic Mana Scribe L1    [Main]
 
-HP               629/629
+HP               756/756
 MP              2309/2309
-SP               869/869
+SP               959/959
 
 Strength              49
 Agility               64
 Dexterity             60
-Vitality              47
-Endurance             53
+Vitality              57
+Endurance             62
 Intelligence         138
 Willpower            136
 Charisma              12
@@ -444,7 +446,7 @@ Luck                   7
 ════════════════════════
 ```
 
-Bank applies in full (**1479 / 13000** toward L27). No overnight climb. Ch 17 sheet stays **L26** / Scribe **L1**.
+Bank applies in full (**1479 / 13000** toward L27). No overnight climb. Ch 17 sheet stays **L26** / Scribe **L1**. Physicals hold the Ch 14 live band (no unearned drop).
 
 **Ned:** overall **26** / **4x**; silk-hold after trial bumps **Silk → L5** (`NedStatus.md`).
 
@@ -452,7 +454,7 @@ Bank applies in full (**1479 / 13000** toward L27). No overnight climb. Ch 17 sh
 
 overall **L26**. Mage secondary. Runic Mana Scribe main **L1**. No kills overnight. Full bank **1479 / 13000** toward L27 (`500 × 26`).
 
-**Live (chapter)** — rewrite sheet on-page:
+**Live (chapter)** — on-page sheet:
 
 ```
 ════════ STATUS ════════
@@ -463,15 +465,15 @@ Classes:
 T1 Mage L25              [Secondary]
 T1 Runic Mana Scribe L1  [Main]
 
-HP               629/629
+HP               756/756
 MP              2309/2309
-SP               869/869
+SP               959/959
 
 Strength              49
 Agility               64
 Dexterity             60
-Vitality              47
-Endurance             53
+Vitality              57
+Endurance             62
 Intelligence         138
 Willpower            136
 Charisma              12
@@ -479,11 +481,11 @@ Luck                   7
 ════════════════════════
 ```
 
-Same stack as Ch 16 night (Scribe L1 package only). Source had L28 / Scribe L3 from a softer bank climb; rewrite curve does not buy those levels from **1479** full bank. Secondary Mage keeps mana bonuses (switch once/day). Rapier test: Mana Shield + tip through a small hole (muffled; no neighbor bang). Tip **125 MP** with Basic Rune Mastery L1 **−10%** → **113**, plus Mana Shield **100** → **MP 2096/2309**; stab **−2 SP** → **867/869**. Funds: personal pouch **~5,977 LC** plus loot share. Shows party **Edelgard** on a map; letters to father / Martha ready to send.
+Same stack as Ch 16 night (Scribe L1 package only). Source had L28 / Scribe L3 from a softer bank climb; rewrite curve does not buy those levels from **1479** full bank. Secondary Mage keeps mana bonuses (switch once/day). Rapier test: Mana Shield + tip through a small hole (muffled; no neighbor bang). Tip **125 MP** with Basic Rune Mastery L1 **−10%** → **113**, plus Mana Shield **100** → **MP 2096/2309**; stab **−2 SP** → **957/959**. Funds: personal pouch **~5,977 LC** from the Carwen months, plus equal share of the watcher haul (**+5 SG** → **~10,977**), plus kit/consumable trims → personal **11,641 LC** before parting. Parting gift **10 SG** and the storage bag land in Ch 18 on top of that (**enter Ch 19 = 21,641 LC**). Shows party **Edelgard** on a map; letters to father / Martha ready to send.
 
 ## Chapter 18
 
-No full status screen. Gains **1000 XP** from Lesser Impact [Highest] schematic. Basic Drawing L9 (**Dexterity +9** baked) breaks through → **Drawing L1** (**Dexterity +1**). Drawing tree Dex **+10**. Adventurer rank **Bronze → Steel** (Miss Cellica; second T1 + missions + half-year). On-page: "*You know, it's pretty nice.*" Parting spatial bag with coin (party keeps the larger watcher bag). Hugs goodbye; leaves Carwen for Edelgard by magic train (≥1 week, switches/carriages).
+No full status screen. Gains **1000 XP** from Lesser Impact [Highest] schematic. Basic Drawing L9 (**Dexterity +9** baked) breaks through → **Drawing L1** (**Dexterity +1**). Drawing tree Dex **+10**. Adventurer rank **Bronze → Steel** (Miss Cellica; second T1 + missions + half-year). On-page: "*You know, it's pretty nice.*" Parting spatial bag with coin (party keeps the larger watcher bag). Hugs goodbye; leaves Carwen for Edelgard (≥1 week). Multiple forms of travel: coaches / carriages and magic-train stretches with switches.
 
 **Rewrite:** inherits Ch 17 rewrite sheet + Drawing tree Dex **+10** (Basic **+9** already owed if not on prior sheet; Ch 18 on-page **+1**). Bar **1479 + 1000 = 2479 / 13000**. Overall still **L26** / Scribe **L1**.
 
@@ -491,62 +493,45 @@ No full status screen. Gains **1000 XP** from Lesser Impact [Highest] schematic.
 
 ## Chapter 19
 
-No full status screen. Enter wallet **21,641 LC** (personal **11,641** + parting gift **10 SG**). Solaria tip **−1 SS (−10 LC)** → **21,631**. Guild city map list **2 SS** / Steel **5%** → **−19 LC** → **21,612 LC**. Singing Crow room **−14 LC** → **21,598 LC**. Fire Orb memory redraw: **[High] +600 XP** (over 1 hour; uneven) then thin-sheet **[Highest] +400 XP** (total **1000**). Three Highest lesser schematics now. Train week (**both drills every day**, mana at **~99%** regen ceiling; Ned nibble/poke + **needle-catch / feed-back**): Sound Production **L9**, Echolocation **L9**, Multitasking **L8**, Throwing **L2**, Shaping **L9**, Regulation **L9**, Heat **L9**, Heat Resistance **L6**, Cold **L6**, Pain **L8**, Poison **L7**, Recovery **L9** (no Rapid Recovery yet; ~**2 years**); Hands / Absorption / Reinforcement / Sense stay **L9**; Incantation **L8** (`Skills.md` Ch 19 math). Lodging: The Singing Crow Inn, Edelgard (**14 LC**/night; Steel-band; skipped peasant hostel). Meets Helci.
+No full status screen. Age **11** / world **6 years**. Enter wallet **21,641 LC** (personal **11,641** + parting gift **10 SG**). Solaria tip **−1 SS (−10 LC)** → **21,631**. Guild city map list **2 SS** / Steel **5%** → **−19 LC** → **21,612 LC**. Singing Crow room **−14 LC** → **21,598 LC**. Fire Orb memory redraw: **[High] +600 XP** (over 1 hour; uneven) then thin-sheet **[Highest] +400 XP** (total **1000**). Three Highest lesser schematics now. Train week (**both drills every day**, mana at **~99%** regen ceiling; self Mana Hands drip pierces + Ned fang/needle + **needle-catch / feed-back**; **1 click / ~4 s**; **heat-only** grill; Cold **L3** night sleep): Sound Production **L7**, Echolocation **L7**, Suffocation Resistance **L6** (holds + blood volume; **no** Breath Control), Sleep Resistance **L6** (ignored **4 h**/day of **8 h** T0), Sharp Resistance **L4** (pierces), Multitasking **L5**, Throwing **L9** (Basic), Shaping **L7**, Regulation **L8**, Heat **L6**, Heat Resistance **L5**, Cold **L3** (cold night sleep; `ColdNightSleep.md`), Pain **L5**, Poison **L6**, Recovery **L5**; Hands / Absorption / Reinforcement / Sense stay **L9**; Incantation **L9** (`Skills.md` Ch 19 math). Lodging: The Singing Crow Inn, Edelgard (**14 LC**/night; Steel-band; skipped peasant hostel). Meets Helci.
 
-**Rewrite:** inherits Ch 17 rewrite. Wallet **15,977 → 15,934 LC** after tip + map + room (`Items.md`). Personal **~5,977 LC** never replaced by the gift alone. Fire Orb **High→Highest** **+1000 XP** total → bar **3479 / 13000** (`Experience.md`). Lesser quality ladder: **100 / 200 / 400 / 600 / 1000**. Source one-shot Highest **+1000** discarded.
+**Rewrite:** train-week sheet **49/64/72/72/81/156/147/12/7**; HP **963** / MP **2578** / SP **1149** (`ChapterLedger.md`). Wallet **21,641 → 21,598 LC** after tip + map + room (`Items.md`). Personal **11,641 LC** never replaced by the gift alone. Train skill ranks **+3500 XP** (incl. Sleep **L5→L6**, Suffocation → **L6**; Cold **L3** from Carwen cold nights, no frost grill) + Fire Orb **High→Highest** **+1000 XP** → bar **6979 / 13000** (`Experience.md`). Suffocation: hypoxia **15 s**/use + blood **~50 mL**/use; **no** Breath Control. Sleep: **T0 = 8 h**; L5 need **4.0 h**; ignored **4.0 h**/day → ~**6,720** uses. Lesser quality ladder: **100 / 200 / 400 / 600 / 1000**. Source one-shot Highest **+1000** discarded.
 
-**Ned:** overall **26** / **4x** Greater. Train exit skills: Spike **L7**, Silk **L5**, Stealth **L7**, Climbing **L7**, Spring Charge **L6**, Seal **L9**, Poison Resistance **L5**, Pain **L8**, Heat **L6**, Cold **L6** (`NedStatus.md`).
+**Ned:** overall **26** / **4x** Greater. Train week + night pack since tame → 21.5 enter: Spike / Climb **L7**, Stealth **L8**, Spring / Seal / **Recovery** **L6**, Silk / Pain / Heat / Moon / Tail / Horn / Blunt / Sharp **L6**, Poison / Formation / Absorb / Acid Prod / Acid Spray **L5**; **no Cold** (`NedStatus.md`).
 
 ## Chapter 20
 
-No full status screen. Supply buy provisional (`Paper.md` / `Economy.md` §17: blanks **~4–5 LC** each, not Source **9 SS**/10). Exeor offers a 6-year cursed Scribe contract; he declines for now. No class or XP change.
+No full status screen. Buys blanks (**5 SS**/10 = **5 LC** each) + ink (~**10 SS**). Grimboodle offers a 6-year magic Scribe contract; he declines for now (wants adventure/experiment). No class or XP change.
 
-**Rewrite:** inherits Ch 17 rewrite. Enter wallet **21,598 LC** after Ch 19 tip + map + Singing Crow night. Coin outlay retuned when Ch 20 is written.
+**Rewrite:** same sheet as Ch 19 exit (`ChapterLedger.md`). Enter wallet **21,598 LC** → exit **21,448 LC** after blanks + ink.
 
 ## Chapter 21
 
-No full status screen. Gains **20 XP** (Mana Arrow scroll, ~10 min) and **50 XP** (Fire Orb runic scroll, ~45 min, imperfect). Debugger works on runic only. Auction plan set (bundles of ten). Runway ~half year on party gold. Refuses cursed shop contracts (−60% mana).
+No full status screen. Gains **25 XP** (Mana Bolt word scroll; L1 pay **22.5** MP) and **25 XP** (Fire Orb runic ~**75** MP / three Bolts, imperfect). Diagnosis works on runic only. Auction plan set (bundles of ten). Runway **nearly a year without working** on party gold (living-only; mats burn in **21.5**). Refuses cursed shop contracts (−60% mana).
 
-**Rewrite:** inherits Ch 17 rewrite; Mana Scribing / Rune Scribing climbing off-page toward Ch 22–23 ranks.
+**Rewrite:** inherits Ch 17 rewrite. Changed vs Source filed under `Notes.md` Ch 21.
+
+## Chapter 21.5
+
+No on-page full status screen (rewrite-only skip). **Exit sheet:** `Chapter21_5Exit.md` (attrs, HP/SP/MP, skills, Ned, inventory, wallet).
+
+Day 1: buys **Runic Orb of Light**, **Fire Arrow**, **Aqua Ball**. Then ~**4 months** / **day 120** desk. Skip perfect schematics **+27,000** XP; Detonation / Impact / Fire Orb already paid. **Burns all paper schematics**. Soft Scribe **+3** (enter L1 → soft **L4**). Exit (printed in 21.5 close / Ch 22 lookback): Dex **85** / Vit **79** / End **89** / Int **165** / Will **151**; HP **1057** / SP **1229** / MP **2254**; Basic Rune Scribing **L8**; Drawing **L8**; **Technology L8** (enter L7); understanding **L3**; Basic Rune Mastery **L5**; MT **L7**; Sleep **L7**; Hunger / Pain **L6**; Heat Res **L5**; Cold **L4** (night sleep); Suffocation **L6**; Recovery **L5**; Heat spell **L6** (~**5.1k**); Fabrication **L8**; Taming **L3** soft; Sound/Echo **L8** soft; Hands **L9**; wallet **1 SS**; ten branded Fireballs (all **Highest**, **empty**). Full table: `Chapter21_5Exit.md`. Avenues: `FrictionGrill.md` / `ColdNightSleep.md`.
+
+**Rewrite:** pads toward later full sheet. See `Notes.md` / `Experience.md` / `Chapter21_5Exit.md`.
 
 ## Chapter 22
 
-No full status screen. Class a few levels up (off-page). Skills: Basic Rune Scribing L5; runic-scroll understanding L2; Rune Mastery slight up. Last cash: **1 SS** before auction. Gross sale ~**1 SG** (4L+5S and 4L+7S); **25%** first-timer fee. Party 10 SG lasted ~half year of mats. Comet brand launched.
+No full status screen. Present day after 21.5. Lookback prints RS **L8**, Mastery **L5**, Understanding **L3**, Technology **L8**. Last cash **1 SS** into auction. Percival: ten Highest empty Fireballs; amplify-capable; guide **~7–8 LS** each. Open **32 LS**; hammers **42 LS** + **46 LS** → gross **8 SG 8 LS**. Net after **25%** lands in Ch 23 (**6 SG 6 LS**; wallet **6 SG 6 LS 1 SS**). Comet / red shooting-star brand on stage.
 
-**Rewrite:** climbing toward Ch 23 full sheet (Scribe toward **L10** / overall **L35**).
+**Rewrite:** climbing toward Ch 23 full sheet (quiet room Scribe **L8** / overall **L33**; mid-hunt Scribe **L10** / overall **L35**). Desk exit attrs from `Chapter21_5Exit.md`.
 
 ## Chapter 23
 
-Overall L35. Mage L25 secondary. Runic Mana Scribe L10 main. Seller #64 net **6L+9S**. Weekly ~**1 SG** from ten Fire Arrow scrolls. Live sheet (mid-hunt MP spent):
+Seller #64: sale **8 SG 8 LS** → after 25% **6 SG 6 LS** (wallet **6 SG 6 LS 1 SS**); profit after mats ~**6 SG 4 LS**. Restocks; homemade ink; comet maintain. **+2 months** intense grill → Percival **fifteen** Highest. Weaver **Ned silk** clothes. **+3 months** weekly Fireball volume (**15→30**, hold **25**/week at **7.5 LS**). Quiet-room wallet / attrs / skills: `Chapter23QuietRoom.md` (**~170 SG**; Vit **86** / End **96** / Int **175** / Dex **89**; overall **L33** / Scribe **L8**; RS **L8**; Mastery **L6**; Shaping/Reg **L9**; Sleep **L8**; Hunger **L7**; Heat Res / Recovery **L6**). Coin steps: `CoinLedger.md`. Ned quiet-room ranks: `NedStatus.md`. Match Rune invent is **after** line 715 (rate **~1.9 SG**/week at hold **~2,500**; not in quiet-room wallet yet).
 
-**Live (chapter)** — Source block still on-page:
+**Quiet room rewrite (line 715; authority):** overall **L33** / Mage L25 secondary / Scribe **L8**. Full table: `Chapter23QuietRoom.md`.
 
-```
-════════ STATUS ════════
-Name:       Roland Arden
-Level:      35
-
-Classes:
-T1 Mage L25               [Secondary]
-T1 Runic Mana Scribe L10  [Main]
-
-HP               374/374
-MP              1701/1751
-SP               448/448
-
-Strength              26
-Agility               30
-Dexterity             52
-Vitality              29
-Endurance             28
-Intelligence          92
-Willpower             67
-Charisma              13
-Luck                   8
-════════════════════════
-```
-
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps **+2% MP / +1% regen × Mage level** (Blessed = regen narrative only); Luck seed **7**):
+**Live (chapter, mid-hunt status screen)** — rewrite formula sheet (desk exit with Shaping/Reg **L9** + Scribe **L4→L10** packages + quiet-room resist/Diagnosis pads + Sneaking evolve **Agi +1**). Old Source **26/30/52…** discarded. Blood quality = max MP (**2414**).
 
 ```
 ════════ STATUS ════════
@@ -557,29 +542,29 @@ Classes:
 T1 Mage L25               [Secondary]
 T1 Runic Mana Scribe L10  [Main]
 
-HP               675/675
-MP              2460/2460
-SP               895/895
+HP              1148/1148
+MP              2414/2414
+SP              1302/1302
 
-Strength              50
+Strength              49
 Agility               65
-Dexterity             71
-Vitality              51
-Endurance             55
-Intelligence         147
-Willpower            145
-Charisma              13
+Dexterity             91
+Vitality              86
+Endurance             96
+Intelligence         177
+Willpower            161
+Charisma              12
 Luck                   7
 ════════════════════════
 ```
 
-Skills shown: Basic Mana Scribing L2, Basic Rune Scribing L5, Basic Rune Mastery L3; also Mana Shaping L6, Mana Regulation L7. Helci cliff rescue unfinished.
+Check: HP `86×10+96×3` = **1148**; SP `96×10+49×3+65×3` = **1302**; MP `177×10+161×4` = **2414**. Skills print (mid-hunt): Mana Scribing **L2**, Rune Scribing **L8**, Rune Mastery **L6**; Shaping **L9**, Regulation **L9**. Helci cliff is after line 715.
 
 ## Chapter 24
 
-No full status screen. Still L35 / Scribe L10. Fire Arrow grimoire clears five Mountain Goblins; Helci climbs rope with one mana stone. No XP numbers shown. Inn sausage "thanks."
+No full status screen. Still L35 / Scribe L10. Fireball grimoire clears five Mountain Goblins; Helci climbs rope with one mana stone. No XP numbers shown. Inn sausage "thanks."
 
-**Rewrite:** inherits Ch 23 rewrite sheet.
+**Rewrite:** inherits Ch 23 rewrite sheet. Kill / craft / skill XP tape: `Experience.md` § Ch 23 after line 715 / Ch 24 (Helci **5 × 750** soft = **3,750**; Mastery combat ticks).
 
 ## Chapter 25
 
@@ -624,7 +609,7 @@ Luck                   8
 ════════════════════════
 ```
 
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps **+2% MP / +1% regen × Mage level** (Blessed = regen narrative only); Luck seed **7**):
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps mana recovery narrative; Blessed multiplies recovery; class levels permanently raised Int/Will already; Luck seed **7**):
 
 ```
 ════════ STATUS ════════
@@ -718,7 +703,7 @@ Luck                   8
 ════════════════════════
 ```
 
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps **+2% MP / +1% regen × Mage level** (Blessed = regen narrative only); Luck seed **7**):
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps mana recovery narrative; Blessed multiplies recovery; class levels permanently raised Int/Will already; Luck seed **7**):
 
 ```
 ════════ STATUS ════════
@@ -749,7 +734,7 @@ Luck                   7
 
 Class change: Runic Blacksmith. No full attribute sheet. MP drops to 1% then +200 from mana potion. Secondary class swap available once/day. Lost Scribe mana-regen bonus when Blacksmith is main. Ladle of Lesser Fire Resistance [Lesser: Lowest, High].
 
-**Rewrite:** Scribe caps at **L25 [X]**; Blacksmith starts **L1** main. Packages switch to **Str/End/Dex +1** per Blacksmith level. Mage secondary may stay for mana **+2% MP / +1% regen × Mage level** (Blessed = regen narrative only). Full sheet next major checkpoint Ch 47.
+**Rewrite:** Scribe caps at **L25 [X]**; **Runic Blacksmith** starts **L1** main. Packages switch to **Str/End/Dex +1** per smith level (permanent). **Class card:** fire resistance + stamina recovery (narrative; lost if smith is dropped from secondary). Mage secondary may stay for mana recovery (Blessed multiplies recovery; permanent Int/Will from Mage levels already on the sheet). Full sheet next major checkpoint Ch 47.
 
 ## Chapter 36
 
@@ -759,7 +744,7 @@ No full attribute sheet. Basic Smithing Mastery L2 grants +1 Strength. Still ove
 
 ## Chapter 37
 
-No full attribute sheet. +950 XP from Gray Hobgoblin Berserker L59. Down to ~30% MP after wand volleys. Height ~**5'7"**. Title: Goblin Slaughterer.
+No full attribute sheet. **+6,638 XP** from Gray Hobgoblin Berserker L59 (`50 × 59 × 2.25`). Down to ~30% MP after wand volleys. Height ~**5'7"**. Title: Goblin Slaughterer.
 
 **Rewrite:** inherits Ch 36 band / climbing to Ch 47.
 
@@ -849,7 +834,7 @@ Luck                   8
 ════════════════════════
 ```
 
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps **+2% MP / +1% regen × Mage level** (Blessed = regen narrative only); Luck seed **7**):
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps mana recovery narrative; Blessed multiplies recovery; class levels permanently raised Int/Will already; Luck seed **7**):
 
 ```
 ════════ STATUS ════════
@@ -995,7 +980,7 @@ Luck                   8
 ════════════════════════
 ```
 
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps **+2% MP / +1% regen × Mage level** (Blessed = regen narrative only); Luck seed **7**):
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps mana recovery narrative; Blessed multiplies recovery; class levels permanently raised Int/Will already; Luck seed **7**):
 
 ```
 ════════ STATUS ════════
@@ -1081,7 +1066,7 @@ Luck                   8
 ════════════════════════
 ```
 
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps **+2% MP / +1% regen × Mage level** (Blessed = regen narrative only); Luck seed **7**):
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps mana recovery narrative; Blessed multiplies recovery; class levels permanently raised Int/Will already; Luck seed **7**):
 
 ```
 ════════ STATUS ════════
@@ -1123,13 +1108,13 @@ No full sheet. Still L71 band. Wayland Bronze card issued (Steel claim unverifie
 
 ## Chapter 71
 
-No full sheet. Still L71 band / Wayland Bronze. Height noted over **6'1"**. +1 XP from Fire Slime L2 (mana sword; core kept). Chilling armor rune drains MP while active.
+No full sheet. Still L71 band / Wayland Bronze. Height noted over **6'1"**. **+150 XP** from Fire Slime L2 (mana sword; core kept; default RaceMult **1.5**). Chilling armor rune drains MP while active.
 
 **Rewrite:** inherits Ch 68 rewrite sheet.
 
 ## Chapter 72
 
-No full sheet. Still L71 band. +2 XP Fiery Skeleton L10. Shield grind (block/armor). Mana mostly conserved (melee day).
+No full sheet. Still L71 band. **+625 XP** Fiery Skeleton L10 (RaceMult **1.25**). Shield grind (block/armor). Mana mostly conserved (melee day).
 
 **Rewrite:** inherits Ch 68 rewrite sheet.
 
@@ -1147,7 +1132,7 @@ No full sheet. Still L71 band / Wayland. ~1 month in Albrook. Auction paddle 1 S
 
 ## Chapter 75
 
-No full sheet. Still L71+ band (goal L75 / T2). XP: Crimson Giant Rats 7/8/6; Baby Salamanders 18/17/15. Stocking slime cores; skipping low-value loot.
+No full sheet. Still L71+ band (goal L75 / T2). XP: Crimson Giant Rats **140** each (vermin **0.2**); Baby Salamanders **1,575** each (default **1.5**). Stocking slime cores; skipping low-value loot.
 
 **Rewrite:** climbing toward Ch 77 (**L75**).
 
@@ -1189,7 +1174,7 @@ Luck                   8
 ════════════════════════
 ```
 
-**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps **+2% MP / +1% regen × Mage level** (Blessed = regen narrative only); Luck seed **7**):
+**Rewrite target** (Ch 13 rewrite baseline + Source growth delta to this sheet; Mage secondary keeps mana recovery narrative; Blessed multiplies recovery; class levels permanently raised Int/Will already; Luck seed **7**):
 
 ```
 ════════ STATUS ════════

@@ -1,6 +1,6 @@
 # Batteries
 
-Chemical cells vs mana stones for invent beats. Stone law: `../../Materials/MonsterCores.md`. Size tables: `ManaStones.md`. Mana joules: `../../../Runes/Energy.md`. Carbon / graphite craft: `../Invent/WritingTools.md`, `../Metallurgy/EarthAlloys.md`. Do not paste Earth brand names into prose unless the story invents them.
+Chemical cells vs mana stones for invent beats. Stone law: `../../Materials/MonsterCores.md`. Size tables: `ManaStones.md`. Mana joules: `../../../Runes/Energy.md`. Earth grid / clean storage comparison (LFP, Na-ion, flow, iron-air, …): `CleanestUsefulEnergyStorage.md`. Carbon / graphite craft: `../Invent/WritingTools.md`, `../Metallurgy/EarthAlloys.md`. Do not paste Earth brand names into prose unless the story invents them.
 
 ## Narrative
 

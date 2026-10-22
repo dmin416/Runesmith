@@ -1,6 +1,6 @@
 # Mounts
 
-Riding, draft and companion beasts. Food herds: `../../Food/Food.md`. Ned: `../../People/Ned.md`. Agni: `../../People/Agni.md`. Fat notes: `MountsDesign.md`.
+Riding, draft and companion beasts. Food herds: `../../Food/Food.md`. Ned: `../../People/Ned.md`. Agni: `../../People/Agni.md`. Fat notes: `Design/MountsDesign.md`.
 
 ## Narrative
 
@@ -10,7 +10,7 @@ Horses stay common. Tamed monsters work farms, caravans and war. Companion bonds
 
 ### Trox
 
-Large three-horned draft beast for plowing and farm work. Caravan bulls of the same line exist (three-tailed / three-horned variants). Steady dairy in farm areas from tamed monster herds includes this class of stock.
+Large three-horned draft beast for plowing and farm work. Caravan bulls of the same line exist (three-tailed / three-horned variants). Steady dairy in farm areas from tamed monster herds includes this class of stock. Blood substance (cow/ox Earth map): `../Science/Body/BloodNotes.md` § Trox.
 
 ### Horse
 
@@ -41,7 +41,7 @@ Four-eyed deer, six-legged lizards, wyverns and exotic stable rentals exist in l
 | Pointer | Role |
 |---|---|
 | `../../SourceLoot/Creatures.md` | Source names that include mounts / tames |
-| `MountsDesign.md` | Fat mount loot (absorb when a beat needs it) |
+| `Design/MountsDesign.md` | Fat mount loot (absorb when a beat needs it) |
 
 ## Open
 

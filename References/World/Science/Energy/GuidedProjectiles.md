@@ -1,6 +1,6 @@
 # Guided Projectiles and Turning Limits
 
-Hub: `../Science.md`. Ballistics / throw tables: `Projectiles.md`. Arrowheads: `../Metallurgy/Arrowheads.md`. Earth encyclopedia for invent / munition beats. Do not paste brand programs into Terra prose as local tech unless the story invents them.
+Hub: `../Science.md`. Ballistics / throw tables: `Projectiles.md`. Shapes / flight patterns / stability catalog: `ProjectileShapes.md`. Arrowheads: `../Metallurgy/Arrowheads.md`. Earth encyclopedia for invent / munition beats. Do not paste brand programs into Terra prose as local tech unless the story invents them.
 
 ## EXACTO (.50 BMG guided bullet)
 

@@ -1,6 +1,6 @@
 # Projectiles
 
-Hub: `../Science.md`. Physical arrowhead forge / cast / aero: `../Metallurgy/Arrowheads.md`. Guided munitions / turn limits: `GuidedProjectiles.md`. Flywheel pairs / storage: `Generators.md`. Recoil / countermass: `Kinetic.md`.
+Hub: `../Science.md`. Physical arrowhead forge / cast / aero: `../Metallurgy/Arrowheads.md`. Shapes / flight patterns / stability catalog: `ProjectileShapes.md`. Guided munitions / turn limits: `GuidedProjectiles.md`. Flywheel pairs / storage: `Generators.md`. Recoil / countermass: `Kinetic.md`. Rigid hair AP / slice invent: `../../Materials/UnbreakableHair.md`.
 
 ## Sphere flight randomness
 
@@ -207,6 +207,8 @@ Projectile KE = ½ × 0.145 × v². Compare to the AGI throw budget `E_throw = 2
 A hard throw puts on the order of **70–220 J** into a baseball when stats are matched: a few percent of a sprinting man's **body** KE (1,440 J), but almost all of the **throw-window** AGI energy. The tube converts that small joule budget into high v on 0.145 kg; it does not mint energy past AGI.
 
 ### Roland ages 5–10 (formula stress test)
+
+Ages for these years: `../../../../Story/Notes/Timeline.md` (wake at 5 through ascension at 10). The untrained body curve is `../../../Progression/Training.md` (age 10 baseline STR 15, not 40). The pairs below are the padded sheet used to stress the throw, not a second life clock.
 
 Inputs from `../../../Progression/Progression.md` and `StatusBreakdown.md`:
 

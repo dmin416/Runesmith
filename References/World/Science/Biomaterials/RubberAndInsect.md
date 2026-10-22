@@ -1,6 +1,8 @@
 # Rubber And Insect Materials
 
-Latex rubber, vulcanization and insect-derived craft stocks. Animal-material process: `Biomaterials.md`. Ned harvest: `../../../People/Ned.md`.
+Latex rubber, vulcanization and insect-derived craft stocks. Animal-material process: `Biomaterials.md`. Silk numbers / reel: `BiologicalSilks.md`. Natural adhesive catalog: `BiologicalAdhesives.md`. Clear chitin / chitosan films and glass substitutes: `../../Materials/TranslucentMaterials.md`. Ned harvest: `../../../People/Ned.md`, `Biomaterials.md`. Nav: `Index.md`.
+
+**Owns:** latex / vulcanization, insect toolkit index, Ned strength / sticky **targets**. Full silk catalog → `BiologicalSilks.md`. Full glue catalog → `BiologicalAdhesives.md`.
 
 ## Narrative
 
@@ -32,7 +34,7 @@ Carbon black multiplies abrasion life. Products: rubberized cloth, molded goods,
 | Need | Material | Note |
 |---|---|---|
 | Cord / armor cloth | Silk, spider dragline | Dragline ~steel by thickness, ~5× by weight; bark-spider toughness champion |
-| Spring | Resilin | ~97% energy return (beats rubber) |
+| Spring | Resilin | ~95% energy return (beats rubber) |
 | Hard plate / tip | Sclerotized cuticle; Zn/Mn cuticle | Horn analog; wear edges |
 | Fast glue | Hemolymph phenoloxidase | Crosslinks / melanizes in minutes |
 | Underwater glue | Caddisfly silk | Phosphate–calcium wet bond |
@@ -44,7 +46,7 @@ Carbon black multiplies abrasion life. Products: rubberized cloth, molded goods,
 | Tan / ink | Gall tannins | Leather + iron-gall ink |
 | Wax | Beeswax, insect wax | Candles, lost-wax, waterproof |
 
-**Silk process:** fibroin core + sericin gum (~20–30%). Degum in hot soapy water. One cocoon ~300–900 m reelable. ~2500–3000 cocoons / lb raw. Kill pupa before emerge or the thread breaks. Spun silk from pierced cocoons.
+**Silk / glue deep catalogs:** numbers and reel / degum in `BiologicalSilks.md`. Dry / wet / capture adhesives in `BiologicalAdhesives.md`. Fabricator process (glands, cures, magic polyisoprene) in `PrinterWorm.md`. Toolkit rows above stay as job picks only. The spring row here (~95% resilin) is the working figure.
 
 ### Ned / Needle Worm targets
 
@@ -56,6 +58,7 @@ Anything a spider or insect makes is in scope. Prefer record bands for story pea
 | Armor cloth / pad | Aciniform-style wrap silk |
 | Fine sewing cloth | Cocoon silk ~0.5 GPa |
 | Best spring | Resilin |
+| Bow limb laminate | Low-hysteresis Needle Worm silk in shellac (fiberglass/carbon analog); detail `../../../Combat/Bows.md` |
 | Hard tips | Metal-enriched cuticle |
 | Permanent bond | Phenoloxidase hemolymph |
 | Wet seal | Caddisfly silk |

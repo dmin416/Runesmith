@@ -19,3 +19,5 @@ Agni is Roland's later sacred companion. In the rewrite Agni is a mustelid line,
 **Story pressure:** Church / sacred-beast politics. "Our asset," not only his pet.
 
 **First seen in Source:** Around Chapter 92
+
+**Sense-alarm wishlist:** extra senses when D is blinded or deafened. `Roland/Goals.md`. Not a lock.

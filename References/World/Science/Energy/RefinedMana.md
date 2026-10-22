@@ -27,7 +27,7 @@ Raising **mass / weight / inertia** on an existing object is already canon:
 
 - `../../../PotentialMagic/MassBoost.md` - mass up at fixed speed; Effect = ½ × added mass × v²
 - `../../../Combat/ImpactRune.md` - compressed mana = temporary head mass; stop feeding and it disperses swing-fast
-- Gravity / heavy magic blurbs in Old `Combat/Spells.md` until absorbed
+- Gravity / heavy magic blurbs in `../../../Combat/Spells.md`
 
 That is **not** free permanent matter from energy. Rest-mass E = mc² pricing does not apply; the spell pays the kinetic and hold costs above.
 
@@ -57,7 +57,7 @@ The lattice sets two ways, depending on how the refiner treats it.
 
 ## Stillwire (superconducting form)
 
-**Vs mythril:** mined **mythril** (magically saturated Ag–Cu, pearlish silvery gold) remains the native superconducting path metal (`CraftMetal.md`; Old ManaMaterials until absorbed). **Stillwire** is a **stone-refined wire product**: consumable / unravel-risk stock for lines, windings and flywheels. Same superconducting physics story; different feedstock and economics. Do not invent a third unexplained room-temp superconductor. No metal path-% dial on either.
+**Vs mythril:** converted **mythril** (silver, not a mined element) remains the native superconducting path metal (`../../../Materials/Metals.md`). **Stillwire** is a **stone-refined wire product**: consumable / unravel-risk stock for lines, windings and flywheels. Same superconducting physics story; different feedstock and economics. Do not invent a third unexplained room-temp superconductor. No metal path-% dial on either.
 
 ### How it is made
 
@@ -97,7 +97,7 @@ The lattice sets two ways, depending on how the refiner treats it.
 - Drawing stored structural / coil energy spends the wire.
 - Jc / quench still exist in principle; gear mythril dials stay the safer reusable path for wands and etched weapons.
 
-Winding physics detail: Old `Runes/ManaMaterials.md` until absorbed.
+Winding physics detail: `../../../Runes/ManaMaterials.md`.
 
 ---
 
@@ -143,7 +143,7 @@ Winding physics detail: Old `Runes/ManaMaterials.md` until absorbed.
 | Material | Role | Strength |
 |---|---|---|
 | Mana stone | Stores energy; ambient recharge | ~1,050 Wh/kg. Size tank; Q = amp |
-| Mythril (mined) | Reusable superconducting path / gear | Jc, rare quench, shop Ag–Cu lock |
+| Mythril (converted silver) | Reusable superconducting path / gear | Jc, rare quench, shop silver lock |
 | Stillwire | Moves electricity with zero DC loss; prestige structure | ~10 MW through 1 mm². SC to ~1,000 °C. Unravels if spent or overheated |
 | Lightthread | Moves light and signals | ~300 km before light halves. Survives ~3,500 °C. Optical only |
 | Mass boost / Impact | Temporary weight on existing objects | KE / hold cost. Not summoned matter |

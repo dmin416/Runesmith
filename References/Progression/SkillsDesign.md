@@ -1,39 +1,41 @@
 # Skills
 
-> **Design loot.** Live locks: Progression.md (XP / tiers / reclass), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. Non-canon XP leftovers in Levels.md (RaceMult / class-change half-cut). Diagnosis is the live skill name (Old Debugger).
+> **Design loot.** Live locks: Progression.md (XP / tiers / reclass), AdventurerRanks.md (eight-rank ladder), Attributes.md / Classes.md / Skills.md / Training.md thin hubs. RaceMult live table: `RaceMult.md`. Class-change half-cut stays dead. Diagnosis is the live skill name (Old Debugger).
 
 
 System and class skills and traits named in the story. Companion (Agni) and ally skills included when named. Traits start after the skill catalog under **Traits**.
 
 ## Perception and analysis
 
+Ideas tree (M ladders, fusions, Examine line): `SensingManaSoundSystem.md`. Soft-ok √M / echo M^1/4. Do **not** replace live Diagnosis with a Tier-3 fusion.
+
 ### Diagnosis
 > Old Source name was Debugger. Live canon: **Diagnosis** (D-only). Do not reinstate Debugger as the live skill name.
 
 First seen: Chapter 2
-Passive. Finds and resolves defects; +Intelligence equal to skill level. Roland???s starting skill at L8; later used to reverse-engineer runes and enchantments. Chapter 15 rapier study: magnifying vision of deeper pathway structure / flow-puzzle diagram (costs mana while active); red = faulty paths, green = correct, blue = optimal layout to rewrite toward (blue does not sit on current paths). Hold-test shows tip lock armed until insert. All-green schematic yields [Highest] grade (~**1 hour** Calligraphy redraw). Chapter 19: cut-paper component overlays do not trigger it; the diagram must be drawn as one whole sheet. Chapter 21: blank on regular (non-runic) spell scrolls; runic and word scrolls operate on different laws. Chapter 26: maps shared arrow-body rune across elemental arrows; grafts Smoke Arrow from Fire+Gale; live circuit tests (power-input plug; series/parallel; mana pressure ??? voltage; Fire Orb "resistor" swapped into Orb of Light ??? dimmer light). Rewrite: already a higher-order skill (no Basic form). Caps at L9. **Advanced Diagnosis** is a separate Tier 3 or Tier 4 skill, not an automatic L9 evolution.
+Passive. Finds and resolves defects; +Intelligence equal to skill level. Roland's starting skill at L8; later used to reverse-engineer runes and enchantments. Chapter 15 rapier study: magnifying vision of deeper pathway structure / flow-puzzle diagram (costs mana while active); red = faulty paths, green = correct, blue = optimal layout to rewrite toward (blue does not sit on current paths). Hold-test shows tip lock armed until insert. All-green schematic yields [Highest] grade (~**1 hour** Calligraphy redraw). Chapter 19: cut-paper component overlays do not trigger it; the diagram must be drawn as one whole sheet. Chapter 21: blank on regular (non-runic) spell scrolls; runic and word scrolls operate on different laws. Chapter 26: maps shared arrow-body rune across elemental arrows; grafts Smoke Arrow from Fire+Gale; live circuit tests (power-input plug; series/parallel; mana pressure ≈ voltage; Fire Orb "resistor" swapped into Orb of Light → dimmer light). Rewrite: already a higher-order skill (no Basic form). Caps at L9. **Advanced Diagnosis** is a separate Tier 3 or Tier 4 skill, not an automatic L9 evolution.
 
 ### Technology
 First seen: Chapter 2
-Passive. Bonus to repair and creation of technology or technological equivalents. +Dexterity and +Intelligence equal to skill level. Roland???s transferred skill at L7 (Old Source name Circuitry). Chapter 4 clock: supplies the **conceptual and understanding** side (with Fabrication on physical/mechanical fit). Chapter 15: co-culprit with Diagnosis on rune study; fills rune knowledge gaps on encounter (active use alongside Diagnosis overlay; not only passive).
-**Special skill:** outside the Basic?????????Legendary evolution ladder (`../Ideas.md`). No prefix evolve track.
+Passive. Bonus to repair and creation of technology or technological equivalents. +Dexterity and +Intelligence equal to skill level. Roland's transferred skill at L7 (Old Source name Circuitry). Chapter 4 clock: supplies the **conceptual and understanding** side (with Fabrication on physical/mechanical fit). Chapter 15: co-culprit with Diagnosis on rune study; fills rune knowledge gaps on encounter (active use alongside Diagnosis overlay; not only passive).
+**Special skill:** outside the Basic→Legendary evolution ladder (`../Ideas.md`). No prefix evolve track.
 
 ### Cooking
 First seen: Chapter 2
-Passive. Increased proficiency in preparing food. +Dexterity and +Agility equal to skill level. Roland???s transferred skill at L3.
+Passive. Increased proficiency in preparing food. +Dexterity and +Agility equal to skill level. Roland's transferred skill at L3.
 
 ### Marksmanship
 First seen: Chapter 2
-Passive. Increased proficiency with aimed projectile weapons. +Dexterity equal to skill level. Roland???s transferred skill at **L7** from Earth firearms practice (monthly range + dry fire over ~10 years; see `Progression.md`). Analogue weapons in Caldris still unclear. Caps at L9 then evolves. **Ladder exception:** transfer starts on the plain (Level 2) name with no separate Basic Marksmanship rung on his sheet; evolves Marksmanship ??? **Expert Marksmanship** only (2 rungs for him, not the usual 3).
+Passive. Increased proficiency with aimed projectile weapons. +Dexterity equal to skill level. Roland's transferred skill at **L7** from Earth firearms practice (monthly range + dry fire over ~10 years; see `Training.md`). Analogue weapons in Caldris still unclear. Caps at L9 then evolves. **Ladder exception:** transfer starts on the plain (Level 2) name with no separate Basic Marksmanship rung on his sheet; evolves Marksmanship → **Expert Marksmanship** only (2 rungs for him, not the usual 3).
 
 ### Expert Marksmanship
-First seen: Chapter 10 (Carwen grind evolve)
+Evolve of Marksmanship at **2,000,000** clean uses. Not reached in Ch 9.5–19 (Marksmanship ends Ch 13 at **L9**).
 Evolution of **Marksmanship** after L9. Aimed fire under stress, hold, lead and shot discipline at the next band.
 **Attribute bonus:** **Dexterity +1 per level**, **Willpower +1 per level**.
 
 ### Acting
 First seen: Chapter 2
-Passive. Increased proficiency in assuming roles and controlling expression. +Charisma equal to skill level. Roland???s transferred skill at L4.
+Passive. Increased proficiency in assuming roles and controlling expression. +Charisma equal to skill level. Roland's transferred skill at L4.
 
 ### Identify
 First seen: Chapter 2
@@ -43,9 +45,9 @@ Passive. Identifies names and basic properties of the world. Chapter 9: levels f
 First seen: Chapter 2
 Passive. Analyzes systems, formulas and how things work. First in-Terra unlock when Roland reverse-engineers the status formulas. High Analyze is the upgraded form feared by nobles and spies.
 
-### Mana Sense
+### Mana Sight
 First seen: Chapter 2
-Passive. Sense ambient mana. Attribute bonus: **Intelligence +1 per level** and **Willpower +1 per level** (rewrite; Chapter 4 L4 shows pads). Chapter 9: detects whether a corpse holds a mana stone without butchering.
+Passive. See ambient mana (mist, color, presence). Attribute bonus: **Intelligence +1 per level** and **Willpower +1 per level** (rewrite; Chapter 4 L4 shows pads). Chapter 9: detects whether a corpse holds a mana stone without butchering. Caps **L9**, then evolves to **Mana Sense**.
 
 ### Runic Mana Perception
 First seen: Chapter 548
@@ -75,23 +77,28 @@ Passive. Sense soul energy (Soulsmith path).
 First seen: Chapter 148
 Multi-mind processing Roland relies on for complex runework.
 
+### Mana Hands / Mana Mind / Mana Heart / Mana Soul
+First seen: Chapter 10 (Hands). Self-discovered spell: move objects with mana (lift, fetch, hold, shove, ink). Visible hands optional. Evolves **Mana Hands → Mana Mind → Mana Heart → Mana Soul**. Each level upgrades efficiency (\(R\)), accuracy, precision, stability, and mass/range/grips together. Prior form L9 is a power floor on evolve. Not Mana Control (Regulation track).
+**Canon lock:** `ManaHands.md` (\(R\), mana↔joules, action uses, level/evolve times). Worked joule table: `../World/Science/Energy/ManaCast.md`. Catalog: `../Combat/Spells.md`.
+Roland: Hands **L9** by Ch 13. **Ch 23 forest:** lifts himself higher on jumps for movement while tip-sip omnidirectional Reinforcement pressure runs (`Mana Reinforcement` field lock; `../../Story/Notes/Notes.md` Ch 23).
+
 ### Multitasking
 First seen: Chapter 12
 Gained while holding multiple **Mana Hands** over a cook fire (eight skewers). Lets him split attention across concurrent actions. Roland does not notice the unlock on-page. Hard-caps at **L9**, then evolves.
 **Attribute bonus:** Intelligence +1 per level, Dexterity +1 per level.
-**Ch 19 week:** **L1 ??? L8** on continuous click+locate+Ned track/poke/needle-catch **and** regen-capped grill (`Story/Notes/Skills.md`).
+**Ch 19 week:** **L1 → L8** on continuous click+locate+Ned track/poke/needle-catch **and** regen-capped grill (`../../Story/Notes/Skills.md`).
 
 ### Basic Taming
 First seen: Chapter 12
-Unlocks when Roland binds a core-bearing **Needle Worm** after clearing its pocket: offer food/leaves, stall with stacked Mana Shields, Willpower stare-down until the worm folds its needles, bows and passes out. He wears it as a green scarf. Party has never seen a tamer; process looks like a demonic ritual to them. Separate from Agni???s later egg-imprint bond (no Taming skill required for imprint). Hard-caps at **L9**, then evolves.
+Unlocks when Roland binds a core-bearing **Needle Worm** after clearing its pocket: offer food/leaves, stall with stacked Mana Shields, Willpower stare-down until the worm folds its needles, bows and passes out. He wears it as a green scarf. Party has never seen a tamer; process looks like a demonic ritual to them. Separate from Agni's later egg-imprint bond (no Taming skill required for imprint). Hard-caps at **L9**, then evolves.
 **Attribute bonus:** Charisma +1 per level.
 
 ### Hastened Reading
 First seen: Chapter 2
-Passive. Speeds reading while taking in knowledge. +Intelligence equal to skill level. Roland???s transferred skill at L2.
+Passive. Speeds reading while taking in knowledge. +Intelligence equal to skill level. Roland's transferred skill at L2.
 
 ### Reading Proficiency
-First seen: Chapter 2???3 (grind); age track in `Progression.md`
+First seen: Chapter 2-3 (grind); age track in `Training.md`
 Passive. Reading technique and speed. **Intelligence +level**, **Willpower +level**. Roland hits L9 by age 7 on the transmigrator table.
 
 ### Basic Mathematics
@@ -104,13 +111,15 @@ Already had at transfer from maps, GPS habits and diagrams at L4.
 
 ### Basic Calligraphy
 First seen: Chapter 7 (books packed for grind); L9 on status Chapter 13
-Writing skill. Roland takes calligraphy books when leaving Arden. Grinds months of nightly writing to L9 as a requirement for Mana Scribe (popup Chapter 13). Scroll work later: more mana infused into the writing makes a stronger spell.
+Writing skill. Roland takes calligraphy books when leaving Arden. Grinds months of nightly writing to L9 as a requirement for Mana Scribe (popup Chapter 13). Chapter: more mana into writing makes a stronger spell scroll. Notes: word craft list = full cast; Mana Scribing cuts pay; power designed (`../../Runes/MagicScrollMaking.md`).
 
 ## Resistance and recovery
 
+Ideas ladder (Resistance → Immunity → Fused; M = 1/(1−r); Thermal / Kinetic / Bodily / Mind): `ResistanceImmunitySystem.md`. Live rows below still win. Soft-ok: Resistance % / M framing matches −10%/level; Blunt+Sharp; stopped-sharp→blunt; access gating. Roland also grinds **Acid / Electricity / Blunt / Sharp**: `RolandResistanceTracks.md`.
+
 ### Sleep Resistance
 First seen: Chapter 2
-Passive. **Each level: ???10% sleep needed** vs a normal full night (additive off 100%). Soft fatigue cut scales with that. Still collapses if he pushes past the remaining need for long.
+Passive. **Each level: -10% sleep needed** vs a normal full night (additive off 100%). Soft fatigue cut scales with that. Still collapses if he pushes past the remaining need for long. Earth baseline (adenosine, circadian, naps, debt): `../World/Science/Body/FatigueRestSleep.md`.
 
 | Level | Sleep needed |
 |---|---|
@@ -119,27 +128,27 @@ Passive. **Each level: ???10% sleep needed** vs a normal full night (additive of
 | L5 | 50% |
 | L9 | 10% |
 
-**Vitality +1 per level**, **Endurance +1 per level.** Transfer **L4** ??? Vit **+4** / End **+4**. Chapter 12: climbs **L4 ??? L5** after the Iron Flagon binge. Chapter 19: keeps him awake through a week-long train ride. Chapter 23: levels once during ~half year of inn-room scribing (one meal/day routine).
+**Vitality +1 per level**, **Endurance +1 per level.** Transfer **L4** → Vit **+4** / End **+4**. Baseline full night **T0 = 8 h**; need = **T0 × (1 − 0.10×L)**; ignored = **T0 − need**. Chapter 12: climbs **L4 → L5** after the Iron Flagon binge. Chapter 19: lives on L5 need (**4.0 h**); ignored **4.0 h**/day × **7** → ~**6,720** uses (**15 s**/use) → exit **L6** (**3.2 h** need). Chapter 21.5: **L6 → L7** during ~4 months of inn-room scribing (short nights).
 
 ### Sleep Immunity (evolve)
-Evolves from Sleep Resistance at **L9** when the story timing fits (Source: with first T2 / heavy all-nighter stretch ~Ch123). Same rule: **???10% sleep needed per level** vs baseline, continuing until the floor of **1% of normal sleep** (about one full night every hundred days). Attribute pads stay **Vit +1 / End +1** per level. Not true zero-sleep; short naps still help when near the floor.
+Evolves from Sleep Resistance at **L9** when the story timing fits (Source: with first T2 / heavy all-nighter stretch ~Ch123). Same rule: **-10% sleep needed per level** vs baseline, continuing until the floor of **1% of normal sleep** (about one full night every hundred days). Attribute pads stay **Vit +1 / End +1** per level. Not true zero-sleep; short naps still help when near the floor.
 
 ### Alcohol Resistance / Basic Alcohol Resistance
 First seen: Chapter 12
-Passive. First gained as Basic Alcohol Resistance after forced tavern drinking with Becky / Sahildr / Reyna. **Endurance +1 per level.** Suggests other resistances can unlock via similar exposure (Roland considers mild poison later). Hangover potions exist in town; he skips them as too costly. Party girls recover overnight (built-up Alcohol Resistance). Same family as the other body resistances: soft ???% intoxication / hangover severity is fine later if a scene needs it; not locked here yet.
+Passive. First gained as Basic Alcohol Resistance after forced tavern drinking with Becky / Sahildr / Reyna. **Endurance +1 per level.** Suggests other resistances can unlock via similar exposure (Roland considers mild poison later). Hangover potions exist in town; he skips them as too costly. Party girls recover overnight (built-up Alcohol Resistance). Same family as the other body resistances: soft -% intoxication / hangover severity is fine later if a scene needs it; not locked here yet. Ethanol hangover / liver heal baseline: `../World/Science/Body/ToxinExposureRecovery.md`.
 
 ### Poison Resistance / Basic Poison Resistance (toxin)
 First seen: Chapter 12
-Passive. Covers **poison and toxin** (venom, food toxin, spore, gas) as one track. Unlocks when Roland eats Needle Worm blood and crunches needle spikes for the cumin / red-pepper spice. Popup ignored on-page while he Mana Senses for a core-bearing worm to tame. Hard-caps at **L9**, then evolves.
+Passive. Covers **poison and toxin** (venom, food toxin, spore, gas) as one track. Unlocks when Roland eats Needle Worm blood and crunches needle spikes for the cumin / red-pepper spice. Popup ignored on-page while he uses Mana Sight for a core-bearing worm to tame. Hard-caps at **L9**, then evolves. Earth diet→toxin sequestration (frogs, monarch, puffer): `../World/Fauna/ToxinSequestration.md`. Earth toxin ADME / organ heal / venom / CO / metals: `../World/Science/Body/ToxinExposureRecovery.md`.
 
-**Each level: ???10% poison / toxin effect** (damage, duration, status strength) vs an unresisted dose of the same type. Additive off 100%. L1 = 90% effect ??? L9 = 10% effect. Does not erase the dose; a strong enough hit still lands through the remainder.
+**Each level: -10% poison / toxin effect** (damage, duration, status strength) vs an unresisted dose of the same type. Additive off 100%. L1 = 90% effect → L9 = 10% effect. Does not erase the dose; a strong enough hit still lands through the remainder.
 
 **Attribute bonus:** Vitality +1 per level, Endurance +1 per level.
 
-**Early grind lock:** Ch 12 unlock **L1**. Daily Ned needles / green blood seasoning / parsleaves for the Carwen half-year plus the week to Edelgard (~**187** days, ~6 months + 1 week). Same toxin family, but daily intentional food doses. Pace beats Alcohol???s social **L1???L4** in the same stretch. Exit **Poison Resistance L6** into the train (40% of an unresisted Needle Worm dose still lands; numb/spice flavor can remain). **Ch 19:** shallow Ned tip-pokes / nibbles on the train (same family, soft repeat credit) ??? **L7**. Vit/End pads **+5** from L1???L6 on top of the unlock, then **+1** on the train. Other toxin types still want their own first exposures for full credit.
+**Early grind lock:** Ch 12 unlock **L1**. Daily Ned needles / green blood seasoning / parsleaves for the Carwen half-year plus the week to Edelgard (~**187** days, ~6 months + 1 week). Same toxin family, but daily intentional food doses. Pace beats Alcohol's social **L1-L4** in the same stretch. Exit **Poison Resistance L6** into the train (40% of an unresisted Needle Worm dose still lands; numb/spice flavor can remain). **Ch 19:** shallow Ned tip-pokes / nibbles on the train (same family, soft repeat credit) → **L7**. Vit/End pads **+5** from L1-L6 on top of the unlock, then **+1** on the train. Other toxin types still want their own first exposures for full credit.
 
 ### Poison Immunity (evolve)
-Evolves from Poison Resistance at **L9** when timing fits. Same **???10% per level** vs baseline, continuing until the floor of **1% effect** (near-ignore ordinary toxins; extreme / magical / abyssal doses still bite through). Vit +1 / End +1 per level.
+Evolves from Poison Resistance at **L9** when timing fits. Same **-10% per level** vs baseline, continuing until the floor of **1% effect** (near-ignore ordinary toxins; extreme / magical / abyssal doses still bite through). Vit +1 / End +1 per level.
 
 ### Dance
 First seen: Chapter 12
@@ -153,46 +162,82 @@ Resist stressful pressure; scales with willpower.
 First seen: Chapter 12 (deepened Chapter 197; thermal-grill grind Chapter 19)
 Passive. Reduces felt pain; hard to unlock without sustained suffering. Early unlock from hangover / force-feed night.
 
-**Each level: ???10% felt pain** (and the focus / flinch tax that comes with it) vs the same wound. Additive off 100%. L1 = 90% felt ??? L9 = 10% felt. Does **not** heal HP or stop injury; he can still bleed out while staying coherent.
+**Each level: -10% felt pain** (and the focus / flinch tax that comes with it) vs the same wound. Additive off 100%. L1 = 90% felt → L9 = 10% felt. Does **not** heal HP or stop injury; he can still bleed out while staying coherent.
 
 **Willpower +1 per level**, **Endurance +1 per level.**
 
-**Thermal grill drill (Ch 19):** alternating **real** hot and cold mana patches on the skin in a grid (hot enough to redden/blister, cold enough to frostbite lightly). Earth thermal-grill illusion is the *idea* seed only; training past the harmless band so Heat and Cold Resistance actually rank. Also grinds **Pain Resistance**, **Recovery**, **Heat** (heat dumps) and fine **Mana Shaping / Regulation**. He meters the pool near **~99%** and soaks Regulation regen with grill intensity (soft clicks alone underspend). **Ned** adds shallow intentional nibbles / tip-pokes (Pain + same-family Poison). When Recovery lags he pours a little low-grade potion on the patch and continues so unused regen is not wasted. Keep damage shallow on purpose. Chapter 19 week: **Pain L1 ??? L8**, Heat Resistance/Cold ??? **L6**, Poison **L6 ??? L7**, Recovery **L5 ??? L9** with **no Rapid Recovery** yet (full table: `Story/Notes/Skills.md` Ch 19).
+**Thermal grill drill (Ch 19):** **heat-only** real mana burn patches on the skin in a grid (hot enough to redden/blister). **No** frost half — Cold is night-sleep only (`../../Story/Notes/ColdNightSleep.md`). Also grinds **Pain Resistance**, **Recovery**, **Heat** (heat dumps) and fine **Mana Shaping / Regulation**. He meters the pool near **~99%** and soaks Regulation regen with denser heat + longer holds (soft clicks alone underspend). **Ned** adds shallow intentional nibbles / tip-pokes (Pain + same-family Poison). When Recovery lags he pours a little low-grade potion on the patch and continues so unused regen is not wasted. Keep damage shallow on purpose. Live exit table: `../../Story/Notes/Skills.md` Ch 19.
 
 ### Pain Immunity (evolve)
-Evolves from Pain Resistance at **L9** when timing fits. Same **???10% per level** until floor **1% felt pain**. Will +1 / End +1 per level. Still not a heal; extreme trauma and system / divine backlash can punch through.
+Evolves from Pain Resistance at **L9** when timing fits. Same **-10% per level** until floor **1% felt pain**. Will +1 / End +1 per level. Still not a heal; extreme trauma and system / divine backlash can punch through.
 
 ### Heat Resistance
-First seen: Chapter 19 (thermal grill unlock); later forge / Blacksmith???s Heat Sense deepen it.
+First seen: Chapter 19 (thermal grill unlock); later forge / Blacksmith's Heat Sense deepen it.
 
-**Each level: ???10% heat harm** (burn damage, heat exhaustion, forge-work time before collapse) vs the same exposure. L1 = 90% ??? L9 = 10%. Does not make him fireproof scenery; ambient comfort and short forge shifts scale first.
+**Each level: -10% heat harm** (burn damage, heat exhaustion, forge-work time before collapse) vs the same exposure. L1 = 90% → L9 = 10%. Does not make him fireproof scenery; ambient comfort and short forge shifts scale first.
 
 **Vitality +1 per level**, **Endurance +1 per level** (same pad family as Poison).
 
-**Ch 19 week:** unlock **L1 ??? L6** on the hot half of the damaging grill (real burn patches held with cold; regen-capped intensity).
+**Ch 19 week:** unlock **L1 → L6** on the hot half of the damaging grill (real burn patches held with cold; regen-capped intensity). Earth burn depth / shock / graft / scar: `../World/Science/Body/BurnsHealing.md`.
 
 ### Heat Immunity (evolve)
-From Heat Resistance L9. Same **???10%/level** to floor **1%** heat effect. Extreme magma / spell fire / abyssal heat still threatens the remainder.
+From Heat Resistance L9. Same **-10%/level** to floor **1%** heat effect. Extreme magma / spell fire / abyssal heat still threatens the remainder.
 
 ### Cold Resistance
-First seen: Chapter 13 as ambient **Temperature Resistance** (cold bare inn / cloak+Ned); rewrite track name **Cold Resistance**. Grill deepens it Chapter 19.
+First seen: Chapter 13 as ambient **Temperature Resistance** (cold bare inn / cloak+Ned); rewrite track name **Cold Resistance**.
 
-**Each level: ???10% cold harm** (frostbite, chill fatigue, cold-status strength) vs the same exposure. L1 = 90% ??? L9 = 10%.
+**Each level: -10% cold harm** (frostbite, chill fatigue, cold-status strength) vs the same exposure. L1 = 90% → L9 = 10%.
 
 **Vitality +1 per level**, **Endurance +1 per level.**
 
-**Ch 13:** unlock **L1** (pauper lodging cold). **Ch 19 week:** **L1 ??? L6** on the cold half of the damaging grill (both drills every day; regen-capped intensity). Old notes that said Temperature Resistance with no attr line: use this Cold track instead (Vit/End pads apply).
+**Rewrite lock:** climbs from **cold night sleep** in months that make sense only — not frost grill. Full meter / season table: `../../Story/Notes/ColdNightSleep.md`. **Ch 13:** unlock **L1** (first cold night). Leave Carwen / train **L3**. Desk exit **L4**. No freeze patch / spare-mana cold; former frost-grill energy → Heat / Suffocation / Recovery / Fabrication / Taming. Earth frostbite / trench foot / hypothermia: `../World/Science/Body/FrostbiteColdInjury.md`.
 
 ### Cold Immunity (evolve)
-From Cold Resistance L9. Same **???10%/level** to floor **1%** cold effect. Magical deep-freeze / abyss cold can still land through the remainder.
+From Cold Resistance L9. Same **-10%/level** to floor **1%** cold effect. Magical deep-freeze / abyss cold can still land through the remainder.
+
+### Acid Resistance
+**Rewrite lock:** Roland levels this (`RolandResistanceTracks.md`). Not on early Source sheet as a named track.
+
+**Each level: -10% acid / corrosive harm** (chemical burn, dissolving fluids, acid spit) vs the same exposure. L1 = 90% → L9 = 10%.
+
+**Vitality +1 per level**, **Endurance +1 per level.**
+
+Not Poison (toxin status) and not Heat (thermal). Some dungeon goo may credit both Acid and Poison if the beat says so. Evolve → **Acid Immunity** (floor **1%**) when timing fits. Chemical burn heal baseline: `../World/Science/Body/BurnsHealing.md`.
+
+### Electricity Resistance
+**Rewrite lock:** Roland levels this (`RolandResistanceTracks.md`). Goals wishlist promoted.
+
+**Each level: -10% shock / lightning harm** (damage, stun-arc strength, heart-stop risk from current) vs the same hit. L1 = 90% → L9 = 10%.
+
+**Vitality +1 per level**, **Endurance +1 per level.**
+
+Heat and Cold do not cover this. Paralysis from shock can still want a separate Paralysis track for true binds. Evolve → **Electricity Immunity** (floor **1%**) when timing fits. Earth triggered lightning / harvest yield: `../World/Science/Energy/TriggeredLightning.md`.
+
+### Blunt Resistance
+**Rewrite lock:** Roland levels this (`RolandResistanceTracks.md`). Kinetic pair with Sharp.
+
+**Each level: -10% blunt / crush / impact harm** vs the same hit. L1 = 90% → L9 = 10%.
+
+**Vitality +1 per level**, **Endurance +1 per level.**
+
+Falls, hammers, fists, compression. Head blackout / concussion may stay narrative or a later named skill; tissue crush still uses this track. Evolve → **Blunt Immunity** (floor **1%**) when timing fits. Earth bruise→fracture→concussion heal times: `../World/Science/Body/BluntTraumaHealing.md`.
+
+### Sharp Resistance
+**Rewrite lock:** Roland levels this (`RolandResistanceTracks.md`). Sibling **next to Blunt**. Covers **piercing and slashing** as **one** skill (do not split Piercing vs Slashing on his sheet).
+
+**Each level: -10% cut / thrust / edge / point harm** vs the same hit. L1 = 90% → L9 = 10%.
+
+**Vitality +1 per level**, **Endurance +1 per level.**
+
+Blades, arrows, needles, claws. Ned tip **wounds** can credit Sharp; Ned **toxin** stays Poison. Evolve → **Sharp Immunity** (floor **1%**) when timing fits. Earth cut / puncture / bleed heal times: `../World/Science/Body/PiercingSlicingWounds.md`.
 
 ### Recovery
 First seen: Chapter 13 (half-year)
-Passive. Ordinary body skill (not a Heal spell; not Resilience). Unlocks from **repeated small wounds that are allowed to clot and close**: Roland???s daily Mana Hands skin pokes and **150 mL** whole-blood drips to Ned, then the holes knitting overnight. Harder to unlock without that kind of steady micro-trauma.
+Passive. Ordinary body skill (not a Heal spell; not Resilience). Unlocks from **repeated small wounds that are allowed to clot and close**: Roland's daily Mana Hands skin pokes and **150 mL** whole-blood drips to Ned, then the holes knitting overnight. Harder to unlock without that kind of steady micro-trauma.
 
 **Universal recover speed** for **cuts, wounds, soft-tissue damage and blood loss** (plasma + red-cell restore toward baseline). Same ladder for all of those metrics.
 
-**Each level: ???10% recover time** (equivalently **?? rate** = 1 / remaining fraction). Additive off 100%.
+**Each level: -10% recover time** (equivalently **?? rate** = 1 / remaining fraction). Additive off 100%.
 
 | Level | Time left | Rate vs unskilled |
 |---|---|---|
@@ -204,39 +249,113 @@ Passive. Ordinary body skill (not a Heal spell; not Resilience). Unlocks from **
 
 Base blood/plasma numbers still come from **Vit/End M** in `Attributes.md`. Recovery multiplies those rates (or divides those times). At L5, half the time really is **twice** the blood restored per day off the same M baseline.
 
-**Does not** regrow **missing limbs** or large amputations. Does not purge poison / disease (those stay Resistance / potions / holy). Deep trauma can still need potions or magic on top.
+**Does not** regrow **missing limbs** or large amputations. Does not purge poison / disease (those stay Resistance / potions / holy). Deep trauma can still need potions or magic on top. Soft-tissue baselines: blunt `../World/Science/Body/BluntTraumaHealing.md`; cuts / punctures `../World/Science/Body/PiercingSlicingWounds.md`. Tissue-loss limits and speed-vs-capacity multipliers: `../World/Science/Body/TissueLossRecovery.md`.
 
 **Vitality +1 per level**, **Endurance +1 per level.**
 
-**Early grind lock:** daily Ned feed + skin poke through the Carwen half-year (~180 days). Exit **Recovery L5** (**2??** blood/wound recover). **Ch 19 grill (daily with sound, mana at ~99% regen ceiling):** ??? **L9** (**10??**); potion covers flesh lag so unused regen is not wasted (`Story/Notes/Skills.md`). **Rapid Recovery** evolve is **not** on the train; bank it for the next ~**2 years** of mixed trauma.
+**Early grind lock:** daily Ned feed + skin poke through the Carwen half-year (~180 days). Exit **Recovery L5** (**2×** blood/wound recover). **Ch 19 grill (daily with sound, mana at ~99% regen ceiling):** SkillsDesign plan once aimed **L9**; live Ch 19 exit keeps **L5** (`../../Story/Notes/Skills.md`). **Rapid Recovery** evolve is **not** on the train; bank it for the next ~**2 years** of mixed trauma.
 
 ### Rapid Recovery (evolve)
-Evolves from Recovery at **L9** when timing fits (**~2 years** after Ch 19 in the rewrite plan, not the train week). Same **???10%/level** until floor **1%** close time on small wounds. Deep trauma and missing tissue still need magic, surgery or time. Vit +1 / End +1 per level. Distinct from **Rapid Renewal** (End **40** attribute perk) and from Source **Resilience** (stagger / resolve recovery, not flesh knit).
+Evolves from Recovery at **L9** when timing fits (**~2 years** after Ch 19 in the rewrite plan, not the train week). Same **-10%/level** until floor **1%** close time on small wounds. Deep trauma and missing tissue still need magic, surgery or time. Still **speed only**; does not unlock blastema / scarless capacity (`../World/Science/Body/TissueLossRecovery.md`). Vit +1 / End +1 per level. Distinct from **Rapid Renewal** (End **40** attribute perk) and from Source **Resilience** (stagger / resolve recovery, not flesh knit).
 
 ### Sound Production
 First seen: Chapter 19 (train cabin)
-Active / technique. Make controlled clicks, taps and tones with the body (tongue click, finger snap) or with **mana pressure pulses** shaped in air (Heat???s cousin: pressure instead of heat). Soft cabin volume is nearly free mana. Loud combat ping scales with `../Science/Sound.md` power equations. **Pitch control** is part of the grind: push pulses **above or below** ordinary human hearing so the ping is for the caster???s return map, not for an audience.
+Active / technique. Make controlled clicks, taps and tones with the body (tongue click, finger snap) or with **mana pressure pulses** shaped in air (Heat's cousin: pressure instead of heat). Soft cabin volume is nearly free mana. Loud combat ping scales with `../World/Science/Energy/Sound.md` power equations. **Pitch control** is part of the grind: push pulses **above or below** ordinary human hearing so the ping is for the caster's return map, not for an audience. Ideas depth (Sound Mastery / Resonance): `SensingManaSoundSystem.md`.
 
 **Levels:** cleaner pitch, sharper attack, tighter direction and optional enhancement (louder / thinner / multi-click bursts) without wasting draw.
 
 **Intelligence +1 per level**, **Dexterity +1 per level.**
 
-**Ch 19 week:** unlock **L1 ??? L9** (both drills every day; pulse spam hits technique cap).
+**Ch 19 week:** unlock to **L7**. One click every ~**4 s** during dual drills (~**22,000**). Not spam.
 
 ### Echolocation
 First seen: Chapter 19 (train cabin)
-Passive / sense once unlocked. Build a spatial picture from sound returns. Caps at **L9** (`../Science/Sound.md`). Bottleneck is attention / cortex, not mana.
+Passive / sense once unlocked. Build a spatial picture from sound returns. Caps at **L9** (`../World/Science/Energy/Sound.md`). Bottleneck is attention / cortex, not mana. Space the clicks so each return can be read before the next pulse.
 
 | Band | Rough reps | Feel |
 |---|---|---|
 | L1 | unlock | Full attention; little else while active |
-| L2???L4 | hundreds of pulses | Walk / simple track; miss fine detail |
-| L5???L7 | thousands | Gross detection near-auto; attention for fine ID |
-| L8???L9 | tens of thousands | Automatic spatial sense while fighting / casting |
+| L2–L4 | tens to low hundreds | Walk / defend; poor fight; miss fine detail |
+| L5–L7 | thousands to tens of thousands | Gross detection near-auto; attention for fine ID |
+| L8–L9 | hundred thousand+ | Automatic spatial sense while fighting / casting |
 
 **Willpower +1 per level**, **Intelligence +1 per level.**
 
-**Ch 19 week:** unlock **L1 ??? L9** with Ned as a moving cabin target **and** short needle launches: plant mana click ??? eyes shut ??? catch the tip ??? feed it back into Ned???s mouth (spider-web recycle). Live projectile returns clear the fight-quality gate. Both sound and thermal drills run **every day** at the **regen ceiling** (~99% pool). Full week math: `Story/Notes/Skills.md` Ch 19.
+**Ch 19 week:** unlock to **L7** with Ned as a moving cabin target and short needle launches: plant mana click, eyes shut, catch the tip, feed it back into Ned's mouth (spider-web recycle). Live projectile returns clear the fight-quality gate. Same ~**22,000** spaced clicks as Sound Production. No evolve (**2,000,000**). Both sound and thermal drills run **every day** at the **regen ceiling** (~99% pool). Full week math: `../../Story/Notes/Skills.md` Ch 19.
+
+### Vibration Sense
+Evolves from Echolocation at **2,000,000** clean uses, when the ability surpasses itself. Same favored attributes (Willpower +1, Intelligence +1). Starts at L1. Reads vibration through skin, hair and the ground, so deafness does not blank the map. Not gained on the train.
+
+### Energy Sense
+Evolves from Vibration Sense at **2,000,000** clean uses. General sense of energy: heat, mana, bioelectric and biomagnetic fields, not a separate life-only skill. Same favored attributes. Not gained on the train.
+
+### Breath Control
+First seen: Chapter 19 (train cabin)
+Active / technique. Hold the breath on purpose, then release on a clean exhale. No mana cost. Smoke, vog and toxic gas sit on this same skill later. Poison Resistance stays its own track for the toxin itself.
+
+**Hold length:** body first, then the skill multiplies it.
+
+```
+M = ((Vitality + Endurance) / 2) / 15
+hold = T0 × M × BreathControl_level
+```
+
+`T0` = **1 minute** comfortable seated hold at Vit/End **15** with no skill. Same **M** as blood restore (`Attributes.md`). No skill → use **M** only (`hold = T0 × M`). With the skill, level is a straight multiplier (**L1 = ×1**, **L5 = ×5**, **L9 = ×9**).
+
+| Snapshot | Vit / End | M | Skill | Comfortable hold |
+|---|---|---|---|---|
+| Average adult | 15 / 15 | **1.0** | none | **1 min** |
+| Body only at Roland's band | ~47 / 53 | **~3.3** | none | **~3.3 min** (~3× average) |
+| Roland Ch 19 exit | ~47 / 53 | **~3.3** | **L5** | **~16.7 min** (~5× the body-only band) |
+| Average adult with L5 | 15 / 15 | **1.0** | **L5** | **5 min** |
+
+Panic, combat and bad air cut the comfortable number. Technique can push a bit past it. The skill does not invent a separate duration table per rank. The level **is** the multiplier.
+
+**Leveling unit:** **1 minute** of breath held = **1** clean use on the field-use curve (`SkillRanks.md`). Partial minutes add up. A 3-minute hold is 3 uses. Count real held time, not the theoretical max.
+
+| Reach | Minutes held (cum) |
+|---|---|
+| L1 | **1** |
+| L2 | **10** |
+| L3 | **50** |
+| L4 | **200** |
+| L5 | **1,000** |
+| L6 | **5,000** |
+| L7 | **20,000** |
+| L8 | **100,000** |
+| L9 | **500,000** |
+| Evolve | **2,000,000** |
+
+**Vitality +1 per level**, **Endurance +1 per level.**
+
+**Ch 19 week:** holds between grill sets. About **1,000+** minutes held across the week (grill sting time) → exit **L5**. Comfortable max climbs with the skill as it levels (**M × L**). **L6** needs **5,000** minutes.
+
+Signature recognition grows from reps against specific cues (footsteps, voice, breath, heartbeat). Sighted casters compete with vision for the same processing unless the eyes are closed.
+
+### Sonic identification
+Low-energy diagnostic ping. Same L9 ladder as Echolocation, specialized on structure. Solid rings clean. A crack, void, or foreign mass shifts pitch, decay, or splits the peaks. Q sharpens frequency resolution. Air to stone is fine. Air to tissue still needs coupling. Physics: `../World/Science/Energy/Sound.md`.
+
+| Rank | Feel |
+|---|---|
+| L1 | Solid vs hollow only |
+| L2–L4 | Material type and rough void size |
+| L5–L7 | Cracks, seams, and weak points for a follow-up strike |
+| L8–L9 | Fine detail: natural flaw vs hidden trap, false wall, or concealed lock |
+
+### Gut Check
+Ordinary learnable skill. **One skill, no evolve.** Not Mage-locked. It is noticing the body veto.
+
+**Pads:** Willpower +1, Vitality +1 per level.
+
+| Rank | Feel |
+|---|---|
+| L1–L2 | Loud gut "no" after the fact. Easy to talk down |
+| L3–L4 | Flinch as it happens. Can re-check. Noisy when switched or sick |
+| L5–L6 | Trust in motion (door, food, step back). Tell switched vs a bad thing |
+| L7–L8 | Quiet danger ranking. Weak loads, not only panic |
+| L9 | Reliable veto under stress. Still fails empty puzzles. Load still scrambles until cleared |
+
+Unlock: survive real gut hits and pay attention, or deliberate lean and muscle practice. Does not replace Identify or Analyze. What the ART screen can read stays in `../World/Science/Body/ART.md`.
 
 ### Resilience
 First seen: Chapter 30 (Source deepen ~196)
@@ -269,31 +388,35 @@ Passive. Below roughly 20 to 25% HP, triggers strong health recovery.
 ## Movement and combat
 
 ### Basic Running / Basic Sprint
-First seen: Chapter 4???7
-Passive. Faster run or sprint; less stamina cost. Attribute bonuses: Running **Endurance +level**; Sprint **Vitality +level** and **Endurance +level**. See `Levels.md`.
+First seen: Chapter 4-7
+Passive. Faster run or sprint; less stamina cost. Attribute bonuses: Running **Endurance +level**; Sprint **Vitality +level** and **Endurance +level**. See `ClassPackages.md` / `SkillRanks.md`.
 
 ### Basic Climbing
 First seen: Chapter 4
 Passive. Climb surfaces better. **Strength +level**, **Agility +level**.
 
 ### Basic Acrobatics
-First seen: Chapter 4???5 (age-10 rewrite stack)
-Passive. Balance, rolls, landings and body control. **Agility +level**. Roland trains it on the estate drill loop (vaults, tree landings, dodge-adjacent footwork). Age-10 target **L3** so body AGI **17** + Climbing **9** + Sneaking **8** + Cooking **3** + Acrobatics **3** = displayed Agility **40**.
+First seen: Chapter 4-5 (age-10 rewrite stack)
+Passive. Balance, rolls, landings and body control. **Agility +level**. Roland trains it on the estate drill loop (vaults, tree landings, dodge-adjacent footwork). Age-10 target **L3** so body AGI **17** + Climbing **9** + Sneaking **8** + Cooking **3** + Acrobatics **3** = displayed Agility **40**. Earth proprioception / vestibular / interception limits: `../World/Science/Body/BodySpatialSense.md`.
 
 ### Basic Sneaking / Sneaking
 First seen: Chapter 7
-Passive. Blend in; quieter footsteps. **Agility +level**. Chapter 23: evolves Basic ??? regular Sneaking; advanced form needs a Rogue-class path.
+Passive. Blend in; quieter footsteps. **Agility +level**. Chapter 23: evolves Basic → regular Sneaking; advanced form needs a Rogue-class path.
 
 ### Basic Throwing
 First seen: Chapter 4
 Passive. Thrown projectile. **Dexterity +level**. Unlocked with a rock and training dummy (toy ball does not count).
 
+### Gale Step
+First seen: Chapter 14 (Arden watcher, Tier 2 fencer)
+Wind-assisted movement. Feet glow green. The body blurs, is hard to read, and is much faster. Costs **stamina only**. Spamming it burns a fresh physical Tier 2 out. The detonation tip on that rapier is a separate weapon enchantment (`../Combat/../Combat/Spells.md`).
+
 ### Dodging / Basic Dodging
 First seen: Chapter 9.5 (Source first clear was Chapter 14 ambush)
-Passive. Helps evade attacks. **Agility +level**. Unlocks when he starts clearing swings on purpose in live fights. Climbs through Carwen goblin work (clubs, spears, lobbed rocks). Rewrite: **Basic Dodging** ends skip at **L6**; Ch 13 Floor-3 half-year grind hits **Basic L9** and evolves to plain **Dodging**, then banks ranks off-page through that same Floor-3 stretch; Ch 14 ambush only shows the on-page popup at **Dodging L7** (not a same-scene L1???L7 jump).
+Passive. Helps evade attacks. **Agility +level**. Unlocks when he starts clearing swings on purpose in live fights. Climbs through Carwen goblin work (clubs, spears, lobbed rocks). Rewrite: **Basic Dodging** ends skip at **L4**; Ch 13 Floor-3 half-year → **Basic L6**; Ch 14 ambush popup **Basic Dodging L7**. No evolve through Ch 19.
 
 ### Basic One-handed Swordsmanship / Swordsmanship
-First seen: Chapter 3???4
+First seen: Chapter 3-4
 Sword proficiency. **Strength +level**. Bernir can soul-imbue weapons with this skill.
 
 ### Basic Hand to hand combat
@@ -332,23 +455,25 @@ Synergy with rune-engraved weapons.
 First seen: Chapter 589
 +50% stamina recovery and total stamina while active.
 
-### Intimidation / Overlord???s Intimidation
+### Intimidation / Overlord's Intimidation
 First seen: Chapter 249
 Wide-radius intimidation; can freeze foes when it lands.
 
 ## Mage foundations
 
 ### Mage Class (class card)
-First seen: Chapter 5???6
-Listed on the skills menu with Mage grants. **Class bonus (locked):** **+2% max mana** and **+1% mana regeneration** **per Mage class level** (L1 = +2% MP / +1% regen; L25 = +50% MP / +25% regen). Not a skill. Replaces Source flat **+20%** mana / **+15%** regen. Kept when Mage is secondary.
+First seen: Chapter 5-6
+Listed on the skills menu with Mage grants. **Class card (locked, narrative):** mana recovery. Kept while Mage is primary or secondary; lost when Mage is dropped from the secondary slot (switch secondary **once per day**). Not a skill. Does **not** raise max MP. Source flat **+20%** mana / **+15%** regen discarded. **Class levels** only add the permanent Int/Will package (`ClassPackages.md`).
 
 ### Basic Mana Shaping
 First seen: Chapter 5
 Shape mana into spells; scales with skill. **Intelligence +2 per level**, **Willpower +1 per level** (Int-heavy). Granted with Mage via clone tutorial dump.
+**Use lock:** every finished **spell** cast (Bolt, Arrow, Shield, Heat, and other body spells) awards a clean use to **both** Shaping and Regulation. Desk / craft work that shapes mana into a spell form or runic diagram also ticks Shaping. **Cum = sum of all those spell casts** (not a slower parallel bar). Bolt or Hands at **L9** already forces Shaping **L9**. Name stays **Basic** until evolve at **2,000,000**.
 
 ### Basic Mana Regulation
 First seen: Chapter 5
 Helps regulate body mana; ambient absorption and regen. **Intelligence +1 per level**, **Willpower +2 per level** (Will-heavy). Granted with Mage. Chapter 23: full regen in a couple of hours; faster when still and with more skin uncovered.
+**Use lock:** same as Shaping (sum of all spell casts; both **L9** once any spell tree has **500k**). Spend → refill pulses still also feed Absorption / Reinforcement (`SkillRanks.md`).
 
 ### Basic Incantation
 First seen: Chapter 5
@@ -356,12 +481,15 @@ Faster, better chanting. **Intelligence +1 per level**, **Willpower +1 per level
 
 ### Basic Mana Scribing
 First seen: Chapter 16
-Scribe basic spells onto scrolls. Temporary in the Runic Mana Scribe trial, then permanent at L1. Chapter 21: write the spell's incantation in the correct language while pushing mana through quill and ink (no runic pathways). First Mana Arrow scroll ~10 min, **+20 XP**. Identify on his own scroll returns name only until scribing levels.
+Scribe basic spells onto scrolls. Temporary in the Runic Mana Scribe trial, then permanent at L1. Chapter 21: write the spell's incantation in the correct language while pushing mana through quill and ink (no runic pathways). First **Mana Bolt** word scroll: list **25**, L1 pay **22.5**, **+25 XP**.
+**Cost bonus (locked):** **-10% mana to scribe** a word/magic scroll **per skill level, capped at -90% (L9)** → `paid = cast_cost × (1 − 0.1×L)`. Twin of **Basic Rune Scribing** on runic scrolls. Class learning-ease does not stack on this cost. Craft XP = designed cast (ignore S). Identify on his own scroll returns name only until scribing levels.
+**Status card:** Allows scribing of basic spells onto scrolls. Higher levels use less mana while writing them.
 
 ### Mana Reinforcement
 First seen: Chapter 9.5 (rewrite self-teach); Source Chapter 56 (skill book)
 Reinforce body / stretch mana store by bathing vessels in ambient mana. Source: shop skill book (lotus drill) adds a % of mana to base stats (1% per level, 9% Basic max).
 Rewrite: unlocked early in Carwen by the same air-absorb path as recovery work, without the gnome-sold book. Levels whenever mana is spent and restored (combat and rest). Effect: **+10% of max MP per level** as bonus base stats while reinforced, **capped at 90%**. Bonus fails when MP is empty. Source 1% line discarded.
+**Ch 23 forest field lock:** tip-sip mana as **omnidirectional pressure** through the body (not dead weight alone) for even load, strengthening, resistance training and to maximize skill gain while moving. Jump height assist when needed is **Mana Hands** lifting him, not the Reinforcement %. Live prose: `../../Story/Chapters/19-26.md`. Notes: `../../Story/Notes/Notes.md` Ch 23.
 **Attribute bonus:** **Intelligence +1 per level**, **Willpower +1 per level** (same shape as **Basic Incantation**). Hard-caps at **L9**, then evolves.
 
 ### Mana Absorption
@@ -371,7 +499,7 @@ Ambient pull for recovery (meditation / mana-recover track). Pairs with **Mana R
 
 ### Mana Overflow
 First seen: Chapter 318
-Active. ???50% mana cost, +100% regen for five minutes.
+Active. -50% mana cost, +100% regen for five minutes.
 
 ### Manaflow Authority
 First seen: Chapter 318
@@ -389,8 +517,9 @@ Elemental destruction knowledge. Advanced forms unlock stronger spells.
 
 ### Basic Rune Mastery / Rune Mastery / Runic Mastery
 First seen: Chapter 16
-Comprehend runes. **Activation cost (locked):** **???10% MP to activate** runes / runic scrolls **per skill level**, **capped at ???90%** (L9). L1 = ???10%. Basic form covers **Lesser** only. Not a craft discount (scroll setup is **Basic Rune Scribing** ???10%/level; item setup is later **Runecraft**; Runic Mana Scribe class eases learning only, no mana-cost term). Not a substitute for **Runecraft**. Chapter 17 rapier test: L1 cut shows on tip blast under Mana Shield (muffled hole; MP **2096/2309** with Shield). Chapter 23: levels by **using** runic scrolls or runed weapons in combat (scrap Fire Arrow grimoire). Chapter 27: Roland at **L4**; out-of-combat casts (self/animals) do not level it; aims **L9** before Blacksmith for a possible special class.
-Rewrite: skills max at L9 then evolve. Evolved Mastery forms cover Common ??? Greater ??? Grand ??? Legendary (same ???10%/level, ???90% cap on that rank). Source ~1%/level discarded.
+Comprehend runes. **Activation cost (locked):** **-10% MP to activate** runes / runic scrolls **per skill level**, **capped at -90%** (L9). L1 = -10%. Basic form covers **Lesser** only. Not a craft discount (scroll setup is **Basic Rune Scribing** -10%/level; item setup is later **Runecraft**; Runic Mana Scribe class eases learning only, no mana-cost term). Not a substitute for **Runecraft**. Chapter 17 rapier test: L1 cut shows on tip blast under Mana Shield (muffled hole; MP **2096/2309** with Shield). Chapter 23: levels by **using** runic scrolls or runed weapons in combat (scrap Fire Arrow grimoire). Chapter 27: Roland at **L4**; out-of-combat casts (self/animals) do not level it; aims **L9** before Blacksmith for a possible special class.
+Rewrite: skills max at L9 then evolve. Evolved Mastery forms cover Common → Greater → Grand → Legendary (same -10%/level, -90% cap on that rank). Source ~1%/level discarded.
+**Status card:** Increases comprehension of runes and lowers the mana needed to activate them.
 
 ### Basic Runecraft / Runecraft
 First seen: Chapter 35
@@ -398,8 +527,9 @@ Inscribe magical runes on items. Runic Blacksmith grant (temporary in trial, the
 
 ### Basic Rune Scribing
 First seen: Chapter 16
-Scribe runes to scrolls. Temporary in the Runic Mana Scribe trial, then permanent at L1. Runes have a max working size; the trial forces a compressed fire-orb schematic onto scroll parchment. Chapter 22: Common Fire Arrow grind to **L5**; understanding of runic scroll making noted at **L2** (separate progress line in prose). Chapter 27: can compact commons onto **envelope**-size scrolls (aim: playing-card); power holds but overload headroom drops; Fire Arrow throughput **5???6**/day.
-**Cost bonus (locked):** **???10% mana cost to scribe** a rune onto a scroll **per skill level, capped at ???90% (L9)** ??? the scroll-side twin of Runecraft's setup discount on items (`RuneSetup.md` skill S factor). This is the **only** mana-cost discount on scroll setup; the Runic Mana Scribe class card grants a separate, non-cost learning-ease bonus instead (`Progression/Classes.md`), so the two never stack on the same cost. Unlike the class bonus, this stays on the sheet through any later class change ??? the persistent half of the pair.
+Scribe runes to scrolls. Temporary in the Runic Mana Scribe trial, then permanent at L1. Runes have a max working size; the trial forces a compressed fire-orb schematic onto scroll parchment. Chapter 22: Common Fire Arrow grind to **L5**; understanding of runic scroll making noted at **L2** (separate progress line in prose). Chapter 27: can compact commons onto **envelope**-size scrolls (aim: playing-card); power holds but overload headroom drops; Fire Arrow throughput **5-6**/day.
+**Cost bonus (locked):** **-10% mana cost to scribe** a rune onto a scroll **per skill level, capped at -90% (L9)** → `paid = (cast / η_cond) × S` with that S. Twin of **Basic Mana Scribing** on word scrolls and of Runecraft's item setup discount (`../Runes/RuneSetup.md`). Class learning-ease does not stack on this cost. Stays on the sheet through later class changes.
+**Status card:** Allows scribing of runes onto scrolls. Higher levels use less mana while crafting them.
 
 ### Basic Rune Mending / Rune Mending
 First seen: Chapter 81
@@ -415,7 +545,7 @@ Push a created rune past normal limits; risk of breakage.
 
 ### Upgrade Rune
 First seen: Chapter 171
-Chance to raise a rune???s rank; overuse risks damage.
+Chance to raise a rune's rank; overuse risks damage.
 
 ### Lesser Rune Duplication
 First seen: Chapter 171
@@ -443,7 +573,7 @@ Temporarily imbue a non-living surface with a chosen rune.
 
 ### Invoke Rune
 First seen: Chapter 549
-Rune Arch-Knight: invoke a mastered rune???s power.
+Rune Arch-Knight: invoke a mastered rune's power.
 
 ### Transmute Rune
 First seen: Chapter 557
@@ -483,7 +613,7 @@ Rune Mage analysis and empowerment of complex runes.
 
 ### Runic Mimicry
 First seen: Chapter 684
-Copy a target???s active spell or enchantment as a rune to imbue onto gear.
+Copy a target's active spell or enchantment as a rune to imbue onto gear.
 
 ### Rune Arch-Knight Vow
 First seen: Chapter 549
@@ -495,7 +625,7 @@ Work with magical pathways that connect high-tier runes across separate pieces (
 
 ### Forgefire Control
 First seen: Chapter 318
-Alter forge flames??? potency to suit the work.
+Alter forge flames- potency to suit the work.
 
 ## Blacksmithing and machinery
 
@@ -509,7 +639,7 @@ Proficiency with basic smithing tools. Roland reaches L2 in Chapter 36 (+1 Stren
 
 ### Fabrication
 First seen: Chapter 2
-Passive. Increased proficiency in the creation and repair of various crafts. +Dexterity equal to skill level. Live name Fabrication (Old Source Tinkerer). Roland???s transferred skill at L8. Chapter 4 clock: supplies the **physical and mechanical** side (parts fit); Technology covers conceptual understanding.
+Passive. Increased proficiency in the creation and repair of various crafts. +Dexterity equal to skill level. Live name Fabrication (Old Source Tinkerer). Roland's transferred skill at L8. Chapter 4 clock: supplies the **physical and mechanical** side (parts fit); Technology covers conceptual understanding.
 
 ### Basic Blueprint Fabrication
 First seen: Chapter 253
@@ -531,8 +661,8 @@ Fast assembly or reassembly of machines.
 
 ### Basic Penmanship / Basic Copy Writing / Basic Drawing / Drawing
 First seen: Chapter 18
-Writing and copy skills for scroll work. Roland's Basic Drawing L9 breaks through to Drawing L1 while copying the Lesser Impact schematic with Diagnosis overlay (Chapter 18; credits Runic Mana Scribe). Painting is a separate skill. Clear recall / Diagnosis image ??? automatic hand skill: `../World/Science/Body/MindBodySkill.md`.
-**Attribute bonus:** Dexterity +1 per level (Basic Drawing and Drawing). Additive evolve: Basic L9 **Dex +9** stays baked; Drawing L1 adds **Dex +1** ??? tree **Dex +10** at Ch 18. (The L1 pad is the evolve ???free stat??? line in Ch 13, not an extra point.)
+Writing and copy skills for scroll work. Roland's Basic Drawing L9 breaks through to Drawing L1 while copying the Lesser Impact schematic with Diagnosis overlay (Chapter 18; credits Runic Mana Scribe). Painting is a separate skill. Clear recall / Diagnosis image → automatic hand skill: `../World/Science/Body/MindBodySkill.md`. Absolute vs relative size, pour/cut calibration, magnification vs tremor: `../World/Science/Body/MeasurementPerception.md`.
+**Attribute bonus:** Dexterity +1 per level (Basic Drawing and Drawing). Additive evolve: Basic L9 **Dex +9** stays baked; Drawing L1 adds **Dex +1** → tree **Dex +10** at Ch 18. (The L1 pad is the evolve -free stat- line in Ch 13, not an extra point.)
 
 ### Basic Steady Hand Inscription
 First seen: Chapter 686
@@ -564,11 +694,11 @@ Boost stats of allies or subjects while active.
 First seen: Chapter 318
 Enhance all stats for about five minutes.
 
-### High-Lord???s Aura
+### High-Lord's Aura
 First seen: Chapter 589
 Amplifies aura-based attacks for five minutes.
 
-### High-Lord???s Charisma
+### High-Lord's Charisma
 First seen: Chapter 589
 Easier persuasion and charm.
 
@@ -582,11 +712,11 @@ Speech skills. Inspiring Speech buffs allies.
 
 ## Arch-Knight / Transmuter body passives
 
-### Arch-Knight???s Organs / Muscles / Skeleton / Tendons / Nervous System
+### Arch-Knight's Organs / Muscles / Skeleton / Tendons / Nervous System
 First seen: Chapter 3
 Tier-3 Rune Arch-Knight body passives.
 
-### Transmuter???s Organs / Muscles / Skeleton / Tendons / Nervous System
+### Transmuter's Organs / Muscles / Skeleton / Tendons / Nervous System
 First seen: Chapter 3
 Tier-3 Rune Transmuter body passives.
 
@@ -654,7 +784,7 @@ System traits named in the story. Holder noted when not Roland.
 
 ### Logical Thinker
 First seen: Chapter 2
-Thinks calmly, can analyze problems and come to a rational conclusion. Bonus to Intelligence +5 and Willpower +5. Brought from D???s previous life.
+Thinks calmly, can analyze problems and come to a rational conclusion. Bonus to Intelligence +5 and Willpower +5. Brought from D's previous life.
 
 ### Fast Learning
 First seen: Chapter 2
@@ -666,7 +796,7 @@ Retain more information and at a faster rate. Bonus to Intelligence +3 and Willp
 
 ### Blessed by Mana
 First seen: Chapter 5
-Unlocked if a person has more than **40** Intelligence after reaching the Mage class at the first ascension ritual. **Narrative only:** better **mana regeneration** (feels easier to top the pool back up). No flat MP and no change to the MP formula. Mage class already gives **+2% max MP** and **+1% regen per Mage level**; Blessed is the perk story for why his refill feels strong. Intelligence row of the attribute perk table below.
+Unlocked if a person has more than **40** Intelligence after reaching the Mage class at the first ascension ritual. **Narrative:** multiplies **mana recovery**. Permanent perk once unlocked. No flat MP and no change to the MP formula. Stacks in story with Mage’s recovery card while Mage is held. Intelligence row of the attribute perk table below.
 
 ## Attribute perks (rewrite)
 
@@ -676,7 +806,7 @@ One named perk per core attribute at **40**. Cha/Luck out unless a later trait s
 |---|---|---|---|
 | Strength | Titan's Back | Carry capacity | 40 |
 | Dexterity | Exacting Motion | Accuracy of body movement | 40 |
-| Intelligence | Blessed by Mana | Mana regeneration (narrative) | 40 + Mage |
+| Intelligence | Blessed by Mana | Multiplies mana recovery (narrative) | 40 + Mage |
 | Willpower | Unbroken Focus | Focus | 40 |
 | Agility | Sure Footing | Balance | 40 |
 | Vitality | Defiance of Years | Reduced aging | 40 |
@@ -724,7 +854,7 @@ Earned when all seven main-stat 200 traits are held (the willpower-threshold tra
 
 ## Tier multipliers
 
-Rewrite rule: these are **forward-only growth rates** on new class levels, not a remultiply of the whole sheet. See `Levels.md`. Source text often describes an instant sheet multiply; rewrite scenes should not.
+Rewrite rule: these are **forward-only growth rates** on new class levels, not a remultiply of the whole sheet. See `ClassPackages.md` / `SkillRanks.md`. Source text often describes an instant sheet multiply; rewrite scenes should not.
 
 ### Tier 2 (Lord)
 First seen: Chapter 81
@@ -768,33 +898,33 @@ Agni further evolution. Growth rate ??3.999 on new basic-stat gains except luck 
 
 ## Overlord body
 
-Gained with Runic Battlemaster Overlord (rewrite; Source: Runesmith Overlord) around Chapters 318???319. Hardier or enhanced body systems.
+Gained with Runic Battlemaster Overlord (rewrite; Source: Runesmith Overlord) around Chapters 318-319. Hardier or enhanced body systems.
 
-### Overlord???s Organs
+### Overlord's Organs
 First seen: Chapter 318
 
-### Overlord???s Muscles
+### Overlord's Muscles
 First seen: Chapter 318
 
-### Overlord???s Skeleton
+### Overlord's Skeleton
 First seen: Chapter 318
 
-### Overlord???s Tendons
+### Overlord's Tendons
 First seen: Chapter 318
 Also written Overlords Tendons in gain text.
 
-### Overlord???s Nervous System
+### Overlord's Nervous System
 First seen: Chapter 318
 
-### Overlord???s Skin
+### Overlord's Skin
 First seen: Chapter 319
 
-### Overlord???s Circulatory System
+### Overlord's Circulatory System
 First seen: Chapter 319
 
 ## Bonds and vassals
 
-### Overlord???s Rune Vassal
+### Overlord's Rune Vassal
 First seen: Chapter 555
 Lucille. Temporary bond trait. About +15% mana capacity and regen; Overlord can lend power; hostility penalty applies.
 
@@ -804,7 +934,7 @@ Titles are status cards separate from traits. Some give combat bonuses.
 
 ### Goblin Hunter
 First seen: Chapter 9.5 (month 3; on-sheet Chapter 10)
-Earned by goblin hunting. Unlock threshold **1000** goblin kills (locked; `../Ideas.md` / `Experience.md`). Ch 9.5 grants it once past **1000** into the Carwen skip; end skip **1,000** Carwen / lifetime through skip ~**1,088**; Ch 10 nest **+7** ? ~**1,095** lifetime. Old Source **1,481** quarantined. **All** goblins are hostile toward the holder. Goblins **below** the holder's level exert less force and sometimes become afraid. Innate sense for the location of nearby goblins. Nickname talk: Little Goblin Slayer. Later evolves to Goblin Slaughterer (Chapter 37).
+Earned by goblin hunting. Unlock threshold **1000** goblin kills (locked; `../Ideas.md` / `../../Story/Notes/Experience.md`). Ch 9.5 grants it once past **1000** into the Carwen skip; end skip **1,000** Carwen / lifetime through skip ~**1,088**; Ch 10 nest **+7** ? ~**1,095** lifetime. Old Source **1,481** quarantined. **All** goblins are hostile toward the holder. Goblins **below** the holder's level exert less force and sometimes become afraid. Innate sense for the location of nearby goblins. Nickname talk: Little Goblin Slayer. Later evolves to Goblin Slaughterer (Chapter 37).
 
 ### Runic Scholar
 First seen: Chapter 15
@@ -812,5 +942,5 @@ Gained with the first [Highest] lesser rune schematic (Lesser Detonation Rune). 
 
 ## Notes
 
-- Willpower???s 200-threshold trait is implied (needed for Equilibrium I; Willpower already past 200 earlier) but no on-page name appears in Source.
-- Do not confuse with Passive Skills whose blurbs say ???trait,??? titles such as Tamed Beast I or generic ???racial traits.???
+- Willpower's 200-threshold trait is implied (needed for Equilibrium I; Willpower already past 200 earlier) but no on-page name appears in Source.
+- Do not confuse with Passive Skills whose blurbs say -trait,- titles such as Tamed Beast I or generic -racial traits.-

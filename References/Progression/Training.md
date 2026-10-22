@@ -1,8 +1,8 @@
 # Training
 
-Live physical / mental age tracks, technique ranks and endurance clocks.
+Live physical / mental age tracks, technique ranks and endurance clocks. Simple career picture: appendix at end (was `CareerScale.md`).
 
-XP / tiers / resources: `Progression.md`. Attributes hub: `Attributes.md`. Skills hub: `Skills.md`.
+XP / tiers / resources: `Progression.md`. Attributes hub: `Attributes.md`. Skills hub: `Skills.md`. Skill use curve: `SkillRanks.md`. Packages: `ClassPackages.md`.
 Combat street scale: `../Combat/AttackScale.md`.
 
 Age / technique / endurance tracks. Diagnosis is the live name (Old Debugger).
@@ -237,7 +237,7 @@ Avg of all 7 = (STR + VIT + END + AGI + DEX + INT + WILL) / 7 using the physical
 - **Willpower:** starts at the full adult value and gains **2 per year through age 10**. Each real year of life adds experience while roughly **2,200 novels** of vicarious experience and daily fighting and climbing decisions add more. After age 10 the gain drops to **1 per year** since the reading volume stays constant while returns diminish.
 - **Age 21:** INT **26** is **1.73×** the average adult man and WILL **35** is **2.33×**.
 
-Skills and traits still stack on top (Diagnosis, Technology, Reading, Mana Sense, Logical Thinker, etc.). Class packages add Mage Int/Will on top of this body row.
+Skills and traits still stack on top (Diagnosis, Technology, Reading, Mana Sight, Logical Thinker, etc.). Class packages add Mage Int/Will on top of this body row.
 
 **Rewrite note:** older Chapter 2 notes used bare Int 11 and Will 8. Use this table instead (age 5: Int 12, Will 15). Retcon early sheets when touching those chapters.
 
@@ -361,3 +361,81 @@ Skills that depend almost entirely on body awareness and repetition (climbing, r
 **Rewrite default:** Marksmanship transfers at **L7** (Dexterity +7). Not L3.
 
 **Rewrite note:** older chapter screens that park every Basic combat skill at L9 by age 10, or that used the first softer technique table, are outdated. Retcon those sheets when touching those chapters (e.g. Chapter 7 skill list). Use the transmigrator Reading table for Roland, not the normal-child Reading row. Use Marksmanship **L7** at transfer, not L3.
+
+---
+
+## Appendix: Career Scale (not a lock)
+
+Simple picture for an ordinary human. Packages and pads: `ClassPackages.md`. What a number means on a body: this file above.
+
+```
+Displayed = Body + Class + Skills
+```
+
+Luck and Charisma are the person. They are not on this clock.
+
+### Body (time only)
+
+Every other attribute. Same number on each.
+
+| Effort | Per year of age | Plateau |
+|---|---|---|
+| Lazy | +1 | **15** |
+| Extremely diligent | +2 | **30** at age 15 |
+
+| Age | Lazy | Extremely diligent |
+|---|---|---|
+| 5 | 5 | 10 |
+| 10 | 10 | 20 |
+| 15 and after | 15 | 30 |
+
+After the plateau, time adds nothing. Further gains are class and skills only.
+
+### Class and skills (effort × time)
+
+These move only while the person works the trade.
+
+| Effort | Per year of work |
+|---|---|
+| Lazy | +1 class level, and +1 level on each skill they actually train |
+| Extremely diligent | +2 class levels, and +2 levels on each skill they actually train |
+
+A Tier 1 class stops at **25**. A skill name stops at **L9**, then evolves. The old pad stays, and the new form keeps adding, so the pad still matches levels gained.
+
+Splitting the day across many skills slows each one. The rates above are for skills they really train. A skill they ignore stays where it is.
+
+Each class level and each skill level adds **+1** to its own attributes.
+
+| Trade | Class | Class adds | Usual skill | Skill adds |
+|---|---|---|---|---|
+| Warrior | Warrior | Str, Vit, End | Sword | Str |
+| Archer | Archer | Agi, Dex | Archery | Dex |
+| Rogue | Thief | Agi, Dex | Sneak | Agi |
+| Blacksmith | Blacksmith | Str, End, Dex | Forging | Str |
+| Alchemist | Herbalist | Int, Dex | Herbalism | Int |
+
+Herbalist, Archery, and Forging additions are the working set for this picture. The other rows match `ClassPackages.md`.
+
+### Example (10 years of the trade, age 25)
+
+Body has already plateaued.
+
+**Lazy warrior.** Body 15. Warrior L10. Sword L9 plus the next form at L1 (pad +10 Str).
+
+| | STR | AGI | DEX | VIT | END | INT | WILL |
+|---|---|---|---|---|---|---|---|
+| Body | 15 | 15 | 15 | 15 | 15 | 15 | 15 |
+| Class | 10 | 0 | 0 | 10 | 10 | 0 | 0 |
+| Sword | 10 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Sheet | 35 | 15 | 15 | 25 | 25 | 15 | 15 |
+
+**Extremely diligent warrior.** Body 30. Warrior L20. Sword pad +20 Str.
+
+| | STR | AGI | DEX | VIT | END | INT | WILL |
+|---|---|---|---|---|---|---|---|
+| Body | 30 | 30 | 30 | 30 | 30 | 30 | 30 |
+| Class | 20 | 0 | 0 | 20 | 20 | 0 | 0 |
+| Sword | 20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Sheet | 70 | 30 | 30 | 50 | 50 | 30 | 30 |
+
+Same addition for the other trades: body plateau, plus years × effort on that class's attributes, plus years × effort on the skills they trained.

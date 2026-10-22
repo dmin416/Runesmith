@@ -26,7 +26,7 @@ Willpower **15** at age 5 is the adult mind’s full experience floor (30 years)
 
 ### 2. Class levels
 
-Per-level packages from `Classes.md` / `Levels.md`. Mage: **+1 Intelligence and +1 Willpower** per Mage level. No physical package.
+Per-level packages from `Classes.md` / `ClassPackages.md`. Mage: **+1 Intelligence and +1 Willpower** per Mage level. No physical package.
 
 | Checkpoint | Class | INT | WILL | Notes |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ Per-level packages from `Classes.md` / `Levels.md`. Mage: **+1 Intelligence and 
 | Ch 9.5 | Mage → L20 | climbing | climbing | Town mana grind levels Shaping / Regulation / Incantation / Absorption / Reinforcement |
 | Ch 10 | Mage L20 | +20 | +20 | Inn sheet after timeskip |
 
-**Blessed by Mana** is narrative mana regen only (no flat MP; no attribute pads). **Mage class card (locked):** **+2% max MP** and **+1% mana regen** per Mage class level. `MP = ((Int×10)+(Will×4)) × (1 + 0.02 × Mage level)`. Source fixed +20%/+15% discarded.
+**Class levels** permanently raise attributes (packages). **Class cards** are narrative benefits only. **Mage:** mana recovery (kept as primary/secondary; lost when Mage is dropped). **Blessed by Mana:** multiplies mana recovery (permanent perk; no flat MP). `MP = (Int×10)+(Will×4)`. Source fixed +20%/+15% discarded. Do not retally max MP off Mage.
 
 ### 3. Skills / Traits
 
-Rule: skill attribute bonus = **+1 × current skill level** per favored attribute (`Levels.md`). Traits are flat card values.
+Rule: skill attribute bonus = **+1 × current skill level** per favored attribute (`SkillRanks.md`). Traits are flat card values.
 
 #### Traits (flat, from Ch 2 on)
 
@@ -52,15 +52,15 @@ Rule: skill attribute bonus = **+1 × current skill level** per favored attribut
 | Knowledge Retention | +3 | +5 |
 | **Trait total** | **+13** | **+10** |
 
-Blessed by Mana: regen narrative only (not in MP math). Mage: **+2% MP × class level** after attribute MP.
+Blessed by Mana: recovery multiplier (not in MP math). Mage: mana recovery narrative (not in MP math).
 
 #### Transfer skills (levels held constant unless the story levels them)
 
 | Skill | Level | STR | AGI | DEX | INT | CHA | VIT | END |
 |---|---|---|---|---|---|---|---|---|
-| Debugger | 8 | | | | +8 | | | |
+| Diagnosis | 8 | | | | +8 | | | |
 | Technology | 7 | | | +7 | +7 | | | |
-| Tinkerer | 8 | | | +8 | | | | |
+| Fabrication | 8 | | | +8 | | | | |
 | Cooking | 3 | | +3 | +3 | | | | |
 | Marksmanship | 7 | | | +7 | | | | |
 | Acting | 4 | | | | | +4 | | |
@@ -71,7 +71,7 @@ Blessed by Mana: regen narrative only (not in MP math). Mage: **+2% MP × class 
 
 #### Early Basics (Progression age targets, +1 × level)
 
-Redesign: Running → Endurance. Sprint → Vitality (+ Endurance). Hand to Hand → Strength + Vitality. Leather → Vitality + Endurance. Reading / Mana Sense → Intelligence + Willpower. **Basic Acrobatics → Agility.** Goal at age 10: Str/Agi/Vit/End **40**; Dex/Will higher; Int highest.
+Redesign: Running → Endurance. Sprint → Vitality (+ Endurance). Hand to Hand → Strength + Vitality. Leather → Vitality + Endurance. Reading / Mana Sight → Intelligence + Willpower. **Basic Acrobatics → Agility.** Goal at age 10: Str/Agi/Vit/End **40**; Dex/Will higher; Int highest.
 
 | Skill | Favored | Age 9 lv | Age 9 bonus | Age 10 lv | Age 10 bonus |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@ Redesign: Running → Endurance. Sprint → Vitality (+ Endurance). Hand to Hand
 | Basic One-Handed Swordsmanship | STR | 7 | STR +7 | 8 | STR +8 |
 | Basic Leather Armor | VIT, END | 8 | VIT +8, END +8 | 9 | VIT +9, END +9 |
 | Reading Proficiency | INT, WILL | 9 | INT +9, WILL +9 | 9 | INT +9, WILL +9 |
-| Mana Sense | INT, WILL | 9 | INT +9, WILL +9 | 9 | INT +9, WILL +9 |
+| Mana Sight | INT, WILL | 9 | INT +9, WILL +9 | 9 | INT +9, WILL +9 |
 
 Identify: no attribute line. Basic Mana Shaping → Int +2 / Will +1 per level. Basic Mana Regulation → Int +1 / Will +2 per level. Basic Incantation → Int +1 / Will +1 per level. **Mana Absorption** → Int +1 / Will +2 per level (Will-heavy recover grind). **Mana Reinforcement** → Int +1 / Will +1 per level (same as Incantation) plus the % max-MP → base-stats while active. Spells (Bolt / Arrow / Shield / Heat / Hands) → **no** attribute pads.
 
@@ -156,7 +156,7 @@ Same age-10 body and Basics as pre-class. Class +1 Int / +1 Will. Mage grants L1
 | Skills/Traits | 25 | 23 | 34 | 30 | 31 | 52 | 32 | 4 | 0 |
 | **Total** | **40** | **40** | **50** | **44** | **44** | **71** | **58** | **7** | **7** |
 
-MP = ((71×10)+(58×4)) × 1.02 = 942 × 1.02 = **961** (Mage L1; +2%/level).
+MP = (71×10)+(58×4) = **942** (Mage L1 recovery narrative only; printed sheet stands if different).
 
 All seven **40** attribute perks active (Vit/End already past 40 from Sleep pads).
 
@@ -169,7 +169,7 @@ All seven **40** attribute perks active (Vit/End already past 40 from Sleep pads
 | Skills/Traits | 25 | 23 | 34 | 30 | 31 | 52 | 32 | 4 | 0 |
 | **Total** | **40** | **40** | **50** | **44** | **44** | **73** | **60** | **7** | **7** |
 
-MP = ((73×10)+(60×4)) × 1.06 = 970 × 1.06 = **1028** (Mage L3).
+MP = (73×10)+(60×4) = **970** (Mage L3; printed **1028** stands).
 
 Guild measuring crystal (Ch 8) uses this block. Estate Mage weekly doubles leave the XP bar at **1250 / 1500**. First paid hunt (Ch 9) levels **L3 → L4** (overflow **100 / 2000**, day ends **1000 / 2000**).
 
@@ -182,7 +182,7 @@ Guild measuring crystal (Ch 8) uses this block. Estate Mage weekly doubles leave
 | Skills/Traits | 25 | 23 | 34 | 30 | 31 | 52 | 32 | 4 | 0 |
 | **Total** | **40** | **40** | **50** | **44** | **44** | **74** | **61** | **7** | **7** |
 
-MP = ((74×10)+(61×4)) × 1.06 = 984 × 1.06 = **1043** (Mage L3).
+MP = (74×10)+(61×4) = **984** (Mage package permanent; recovery narrative only).
 
 ### Mage L5 — full stack, still age-10 body (later hunt levels)
 
@@ -197,102 +197,84 @@ MP = ((75×10)+(62×4)) × 1.08 = 998 × 1.08 = **1078** (Mage L4).
 
 ### Mage L20 (Ch 10) — skill ranks after Ch 9.5
 
-Combat math: `Levels.md` field-use curve; table in `Skills.md` Ch 9.5. **L9 hard cap until first T2.**
-
-**Evolves in the skip (plain / Expert start at L1):** Running, Climbing, Sneaking, Throwing, One-Handed Swordsmanship; Marksmanship → **Expert Marksmanship**. Evolved L1 pads only (no second free point). **Stay Basic L9:** Sprint, Hand to Hand, Leather. **Basic Dodging** ends **L6**. Mana skills:
+Combat math: `SkillRanks.md` field-use curve (`SkillRanks.md`); table in `Skills.md` Ch 9.5. **L9 hard cap.** Evolve at **2,000,000** — **none this skip**. Peak-use accelerates foundations.
 
 | Skill | Ch 9 | Ch 10 | Source of levels |
 |---|---|---|---|
-| Basic Mana Shaping | L1 | **L6** | combat casts |
-| Basic Mana Regulation | L1 | **L7** | drain/refill with every fight |
-| Basic Incantation | L1 | **L6** | combat casts |
-| Mana Absorption | — | **L9** | constant pull as mana is spent (combat) |
-| Mana Reinforcement | — | **L9** | held while the pool is working (combat) |
-| Mana Bolt / Arrow / Shield | L1 / — / — | **L7 / L5 / L3** | combat casts |
-| Heat / Mana Hands | self | **L6 / L5** | evenings + light field use |
-| Basic Dodging | — | **L6** | live clears vs clubs/spears/rocks |
-| Reading / Mana Sense | L9 | L9 | unchanged |
+| Basic Mana Shaping | L1 | **L6** | casts + peak evening holds |
+| Basic Mana Regulation | L1 | **L7** | drain/refill at peak ceiling |
+| Basic Incantation | L1 | **L6** | combat + peak chant work |
+| Mana Absorption | — | **L9** | spend/refill pulses (~**500,000**) |
+| Mana Reinforcement | — | **L9** | held on the same cycles |
+| Mana Bolt / Arrow / Shield | L1 / — / — | **L5 / L4 / L3** | combat casts (volume-honest) |
+| Heat / Mana Hands | self | **L5 / L5** | evenings + light field use |
+| Basic Dodging | — | **L4** | live clears vs clubs/spears/rocks (~**320**) |
+| Marksmanship | L7 | **L7** | aimed casts short of **100,000** |
+| Reading / Mana Sight | L9 | L9 | unchanged |
 
-Skills/Traits Int = pre-mage pile **48** + Shaping **12** + Regulation **7** + Incantation **6** + Absorption **9** + Reinforcement **9** = **91**.
-Skills/Traits Will = pre-mage pile **28** + **6** + **14** + **6** + **18** + **9** + Expert Marks **1** = **82**.
+**Mentals (match live sheet):** Skills/Traits Int = pre-mage **48** + Shaping **12** + Regulation **7** + Incantation **6** + Absorption **9** + Reinforcement **9** = **91**. Skills/Traits Will = pre-mage **28** + **6** + **14** + **6** + **18** + **9** = **81** (+**1** live-sheet lock → **82**).
 
-**Physical Skills/Traits after evolve (additive: Basic L9 pads stay + Level 2 L1 pads; L1 pad is the evolve “free stat”, not an extra):**
-- Str: H2H **9** + Climb baked **9** + Sword baked **9** + Climbing L1 **1** + Swordsmanship L1 **1** = **29**
-- Agi: Climb baked **9** + Sneak baked **9** + Cooking **3** + Acrobatics **3** + Dodging **6** + Climbing L1 **1** + Sneaking L1 **1** = **32**
-- Dex: Throw baked **9** + Tech **7** + Tinker **8** + Cooking **3** + Marks baked **9** + Throwing L1 **1** + Expert Marks L1 **1** = **38**
-- Vit: H2H **9** + Sprint **9** + Leather **9** + Sleep **4** = **31**
-- End: Run baked **9** + Sprint **9** + Leather **9** + Running L1 **1** + Sleep **4** = **32**
+**Physicals:** live inn sheet locked (no evolve pads; Vit/End still pre–Sleep retcon on the printed block).
 
 | Bucket | STR | AGI | DEX | VIT | END | INT | WILL | CHA | LUCK |
 |---|---|---|---|---|---|---|---|---|---|
 | Body | 15 | 17 | 16 | 14 | 13 | 18 | 25 | 7 | 7 |
 | Class | 0 | 0 | 0 | 0 | 0 | 20 | 20 | 0 | 0 |
-| Skills/Traits | 29 | 32 | 38 | 31 | 32 | 91 | 82 | 4 | 0 |
-| **Total** | **44** | **49** | **54** | **45** | **45** | **129** | **127** | **11** | **7** |
+| Skills/Traits | 31 | 33 | 40 | 27 | 29 | 91 | 82 | 4 | 0 |
+| **Live total** | **46** | **50** | **56** | **41** | **42** | **129** | **127** | **11** | **7** |
 
-HP = Vit×10 + End×3 = 450 + 135 = **585**.
-MP = ((129×10)+(127×4)) × 1.40 = 1798 × 1.40 = **2517** (Mage L20).
-SP = End×10 + Str×3 + Agi×3 = 450 + 132 + 147 = **729**.
+HP **536** / MP **2158** / SP **708**.
+
+**MP:** formula `(Int×10)+(Will×4)`. Mage / Blessed do **not** multiply max MP. Printed Ch 10–18 sheet figures stand as published; do not retally them off a Mage %.
 
 Reinforcement while active: **+90%** of max MP as bonus base stats (L9 × 10%, 90% cap). Drops when MP is empty.
 
-**Class-only check:** mana skills stuck at L1 → Int **90** / Will **77**. Absorption / Reinforcement at L9 are what push Int/Will into the **129 / 127** band.
+**Estate wound pads (rewrite notes, on sheet by Ch 7–8):** Pain **L3** (Will **+3**, End **+3**); Blunt **L4** (Vit **+4**, End **+4**); Sharp **L2** (Vit **+2**, End **+2**); Recovery **L3** (Vit **+3**, End **+3**). Net vs pre-wound stack: Vit **+9**, End **+12**, Will **+3**. Blunt ≫ Sharp. Detail: `Capabilities/EstateWoundGrind.md`.
 
-**Live Ch 10 inn sheet** still shows Vit **41** / End **42** / HP **536** / SP **708** (pre–Sleep-pad retcon). Rewrite target above. Retcon the inn sheet when that chapter is rewritten.
+**Ch 9.5 wound climbs:** Blunt **L4→L5**, Sharp **L2→L3** at most, Pain **L3→L4**, Recovery **L3→L4** → Vit **+2–3**, End **+2–3**, Will **+1**.
 
-**Ch 12 binge pads (on rewrite stack):** Sleep **L5** (+1 Vit/+1 End vs L4), Alcohol L1 (**End +1**), Dance L1 (**Agi +1**), Pain L1 (**Will +1**, **End +1**) → night **Agi +1 / Vit +1 / End +3 / Will +1**. Floor-2 cook/tame: **Multitasking** L1 (**Int +1**, **Dex +1**); **Poison Resistance** L1 (**Vit +1**, **End +1**); **Basic Taming** L1 (**Cha +1**); **Mana Hands** at least **L7**. Chapter pad total **Agi +1 / Vit +2 / End +4 / Will +1 / Int +1 / Dex +1 / Cha +1**.
+**Ch 12 binge pads:** Sleep **L5** (+1 Vit/+1 End vs L4), Alcohol L1 (**End +1**), Dance L1 (**Agi +1**). Pain already owned (no first-unlock pad). Night **Agi +1 / Vit +1 / End +2 / Will +0**. Floor-2 cook/tame: **Multitasking** L1 (**Int +1**, **Dex +1**); **Poison Resistance** L1 (**Vit +1**, **End +1**); **Basic Taming** L1 (**Cha +1**); **Mana Hands** at least **L7**. Chapter pad total rewrite **Agi +1 / Vit +2 / End +3 / Will +0 / Int +1 / Dex +1 / Cha +1**.
 
-### Mage L25 (Ch 13 half-year end) — rewrite target
+### Mage L25 (Ch 13 half-year end)
 
-Enter Ch 13 as post–Ch 12 stack still **Mage L20**, then **+5** Mage packages (L21–L25) and Floor-3 skill ranks (`Skills.md` Ch 13). Spells still grant **no** attribute pads. **Basic Calligraphy** and **Temperature Resistance** have no attr line. Alcohol **L1→L4** adds **End +3** on top of the Ch 12 L1.
+Enter Ch 13 as post–Ch 12 stack still **Mage L20**, then **+5** Mage packages (L21–L25) and Floor-3 skill ranks (`Skills.md` Ch 13). Spells grant **no** attribute pads.
 
-**Post–Ch 12 (still L20):** Str **44** Agi **50** Dex **55** Vit **47** End **49** Int **130** Will **128** Cha **12** Luck **7**.
+**Post–Ch 12 (still L20):** from live Ch 10 + Ch 12 pads → Int **130** / Will **128** (and physical deltas on the live stack). Rewrite Will already includes estate Pain pads.
 
 **Class L20→L25:** Int **+5**, Will **+5**.
 
-**Ch 13 skill pads:** Sword **L1→L4** Str **+3**; Dodging tree Agi **+9** (Basic **L6→L9** + **Dodging L1→L6**); Sneaking **L1→L3** Agi **+2**; Throwing **L1→L3** Dex **+2**; Incantation **L6→L8** Int **+2** Will **+2**; Alcohol **L1→L4** End **+3**; Poison **L1→L6** Vit **+5** End **+5**; Recovery **L1→L5** Vit **+5** End **+5**.
+**Ch 13 skill pads** (no evolves; **half a year** with the girls): Sword Basic **L8→L9** Str **+1**; Dodging Basic **L4→L6** Agi **+2**; Sneaking Basic **L8→L9** Agi **+1**; Marksmanship **L7→L9** Dex **+2**; Incantation **L6→L9** Int **+3** Will **+3**; Shaping **L6→L7** Int **+2** Will **+1**; Regulation **L7→L8** Int **+1** Will **+2**; Alcohol **L1→L4** End **+3**; Poison **L1→L6** Vit **+5** End **+5**; Recovery **L4→L5** Vit **+1** End **+1**; Sharp **L2→L3** Vit **+1** End **+1**; Blunt holds **L5**; Pain holds **L4**.
 
-| Bucket | STR | AGI | DEX | VIT | END | INT | WILL | CHA | LUCK |
-|---|---|---|---|---|---|---|---|---|---|
-| Body | 15 | 17 | 16 | 14 | 13 | 18 | 25 | 7 | 7 |
-| Class (Mage L25) | 0 | 0 | 0 | 0 | 0 | 25 | 25 | 0 | 0 |
-| Skills/Traits | 32 | 44 | 41 | 43 | 49 | 94 | 85 | 5 | 0 |
-| **Total** | **47** | **61** | **57** | **57** | **62** | **137** | **135** | **12** | **7** |
+**Live Ch 13 sheet (printed, lags rewrite wound pads):** Str **49** / Agi **63** / Dex **59** / Vit **57** / End **62** / Int **137** / Will **135** / Cha **12** / Luck **7**; HP **756** / MP **2292** / SP **956**. Printed MP stands; Mage is recovery only. Rewrite Vit/End/Will sit higher by estate+field wound pads until the sheet is retouched.
 
-HP = 570 + 186 = **756**.
-MP = ((137×10)+(135×4)) × 1.50 = 1910 × 1.50 = **2865** (Mage L25).
-SP = 620 + 141 + 183 = **944**.
+**Ch 14:** **Basic Dodging L6→L7** mid-chase (**Agi +1**). Live **Agi 64** / SP **959**.
 
-**Ch 14:** **Dodging L6→L7** mid-chase (**Agi +1**). Sheet **47/62/57/57/62/137/135/12/7**; SP **947**.
+**Men-metaphor lock (prose):** Intelligence lines use **round(Int / 10)** men (memory / mental capacity). Strength lines use **round(Str / 15)** men. Ch 12 tame Int **130** → thirteen; Ch 14–15 Int **137** → fourteen; Ch 18 Str **49** → about three.
 
-Pouch at `"*Not bad.*"`: **11,641 LC** (`Experience.md`). Skill ranks and kill slate: `Skills.md` / `Experience.md`.
-
-**Live Ch 13 sheet** in chapter / `Status.md` matches this rewrite block.
+Pouch at `"*Not bad.*"`: **~5,977 LC** (`Experience.md`). Wallet into Ch 19: **5,977** → **+5 SG** → **10,977** → **+~664** → **11,641** → **+10 SG** → **21,641**.
 
 ---
 
 ## Gap vs current Status.md
 
-| Checkpoint | Live sheet | Rewrite full stack |
+| Checkpoint | Live sheet | Notes |
 |---|---|---|
-| Ch 2 | Int 41 / Will 18 | Int **42** / Will **25** (new mental body) |
-| Ch 4–5 | Body physicals + transfer Dex + old mental seeds | + Basic STR/AGI/DEX/END pile + rising Int/Will body |
-| Ch 6–8 | Above + Mage packages | Same debts |
-| Ch 10 | Inn sheet **matches** Mage L20 block above | Synced (HP **536** / MP **2158** / SP **708**; Vit/End live still pre–Sleep retcon; physical Skills/Traits no longer add a second evolve point) |
-| Ch 13 | Mage L25 rewrite (**47/61/57/47/52/137/135/12/7**; HP **626** / MP **2292** / SP **844**) | Synced target (chapter / `Status.md` live may still show old free-point pads until retconned) |
+| Ch 2 | Int 41 / Will 18 | Int **42** / Will **25** (new mental body) still a soft gap |
+| Ch 10 | **46/50/56/41/42/129/127/11/7**; HP **536** / MP **2158** / SP **708** | Mentals match peak-use foundations; printed MP stands |
+| Ch 13 | **49/63/59/57/62/137/135/12/7**; HP **756** / MP **2292** / SP **956** | Synced; Mage/Blessed = recovery only |
 
-### Post–Ch 13 rewrite checkpoints (delta method)
+### Post–Ch 13 checkpoints (live spine)
 
-Method: Source live growth from Ch 13 Source sheet → later live full sheet, applied to the **Ch 13 rewrite** baseline. Luck stays rewrite seed **7**. Mage secondary keeps **+2% MP / +1% regen per Mage level** (L25 → +50% MP / +25% regen). **Blessed by Mana** is regen narrative only (not in MP). Full Live + Rewrite blocks: `Status.md`.
+Authoritative Ch 1–20 rows: `ChapterLedger.md` / `Attributes.md`. Luck seed **7**. Printed MP stands through Ch 20 (no Mage max-MP %). Full screens: `Status.md`.
 
-| Ch | Overall | Main | Rewrite (Str/Agi/Dex/Vit/End/Int/Will/Cha/Luck) | HP / MP / SP |
+| Ch | Overall | Main | Live (Str/Agi/Dex/Vit/End/Int/Will/Cha/Luck) | HP / MP / SP |
 |---|---|---|---|---|
-| 13 | L25 | Mage L25 | **47/61/57/47/52/137/135/12/7** | **626 / 2292 / 844** |
-| 14 | L25 | Mage L25 | **47/62/57/47/52/137/135/12/7** | **626 / 2292 / 847** |
-| 16 | L26 | Scribe L1 | **47/62/58/47/52/138/136/12/7** | **626 / 2309 / 847** |
-| 17 | L26 | Scribe L1 | **47/62/58/47/52/138/136/12/7** | **626 / 2309 / 847** (bar **1479 / 13000**) |
-| 18 | L26 | Scribe L1 | **47/62/68/47/52/138/136/12/7** | **626 / 2309 / 847** (Drawing tree Dex **+10**; bar **2479 / 13000**) |
-| 23 | L35 | Scribe L10 | **48/63/79/51/54/147/145/13/7** | **675 / 2460 / 895** |
+| 13 | L25 | Mage L25 | **49/63/59/57/62/137/135/12/7** | **756 / 2292 / 956** |
+| 14–15 | L25 | Mage L25 | **49/64/59/57/62/137/135/12/7** | **756 / 2292 / 959** |
+| 16–17 | L26 | Scribe L1 | **49/64/60/57/62/138/136/12/7** | **756 / 2309 / 959** (bar **1479 / 13000**) |
+| 18 | L26 | Scribe L1 | **49/64/61/57/62/138/136/12/7** | **756 / 2309 / 959** (Drawing **+1**; bar **2479 / 13000**) |
+| 19–20 | L26 | Scribe L1 | **49/64/72/72/81/156/147/12/7** | **963 / 2578 / 1149** (train pads; Sleep **L6**; Suffocation **L6**; Cold **L3** night sleep; bar **6979 / 13000**) |
+| 23 | L35 | Scribe L10 | **49/65/91/86/96/177/161/12/7** | **1148 / 2414 / 1302** |
 | 27 | L45 | Scribe L20 | **49/64/92/52/56/157/154/14/7** | **691 / 2623 / 921** |
 | 34 | L50 | Scribe L25 | **51/66/99/54/57/162/158/14/7** | **714 / 2702 / 943** |
 | 47 | L69 | Blacksmith L19 | **75/71/107/74/86/171/178/16/7** | **1001 / 2906 / 1320** |
@@ -307,7 +289,7 @@ Partial path without Basics (body mental + transfer skills/traits only):
 | Age | INT | WILL |
 |---|---|---|
 | 5 | 12 + 30 = **42** | 15 + 10 = **25** |
-| 9 | 17 + 30 = **47** (+ Reading/Mana Sense when unlocked) | 23 + 10 = **33** |
+| 9 | 17 + 30 = **47** (+ Reading/Mana Sight when unlocked) | 23 + 10 = **33** |
 | 10 | 18 + 30 = **48** (+ Basics Int) | 25 + 10 = **35** |
 
 ---
@@ -325,4 +307,4 @@ Partial path without Basics (body mental + transfer skills/traits only):
 | Willpower | 45% (25) | 5% (3) | 50% (28) |
 | Charisma | 43% (3) | 0% | 57% (4) |
 
-Physicals sit even at **40**. Skills/traits still dominate Dex, Int, Vit and End. Willpower is split about half body (adult mind) and half Reading/Mana Sense + traits.
+Physicals sit even at **40**. Skills/traits still dominate Dex, Int, Vit and End. Willpower is split about half body (adult mind) and half Reading/Mana Sight + traits.

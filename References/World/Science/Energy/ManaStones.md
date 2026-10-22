@@ -2,7 +2,7 @@
 
 Hub: `../Science.md`.
 **Lock file for stone law:** `../../Materials/MonsterCores.md`.
-Street prices: `../../Society/Economy.md`.
+Street prices: `../../Society/Economy/Economy.md`.
 Chemical cells vs stones: `Batteries.md`.
 
 ## Mana stones (size and quality)
@@ -87,13 +87,11 @@ m  = ρ × V                         V in cm³ → m in grams
 
 Identify, a recharge test, or a shop grading device reads Q. Weighing alone does not.
 
-**Market (guild buy):** size still dominates the sticker through the **leader** band (linear with volume; see `../../Society/Economy.md`). **Above leader**, guilds use **stepped size bands** (not linear mm³): a Common **16 mm** marble (~113× rice volume) sells around **1.5–4 LS** (mid **~2 LS**), not the ~2.3 SG a pure volume rule would imply. Quality is a multiplier on that size band:
+**Market (guild buy):** `../../Society/Economy/PriceCatalog.md`. Size physics and the Q ladder stay in this file. A pure volume rule would price a 16 mm marble near 2.3 SG. The catalog does not.
 
-```
-Price ≈ Price_size(V) × Q
-```
+### Powdering (craft / ink)
 
-So a Common marble at ~**2 LS** mid-band becomes ~**20 LS** at dragon Q **10**, same volume and mass.
+Intact stones are extremely hard to grind, like powdering a **Jolly Rancher** (hard candy). In **moist or mana-rich air** (sugar-like feel under Sense) fresh powder **sticks** and clumps. A **mana-voided volume under vacuum** makes grinding easier and keeps grit free. Drain-to-crumbly then grind is the practical ink path; overload shatter is violent and wasteful. Story lock: `../../../../Story/Notes/Chapter21_5.md` · `../../../Runes/MagicScrollMaking.md`.
 
 ### Vs chemical batteries
 

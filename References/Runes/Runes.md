@@ -7,7 +7,7 @@ Named rune catalog and chapter first-seens. Character skills that manipulate run
 | File | Role |
 |---|---|
 | `Runes.md` | Named catalog / first-seens |
-| `Energy.md` | Path / ambient / wear / η_cond host feel |
+| `Energy.md` | Path / ambient / wear; rune-quality η_cond; host feel narrative |
 | `EnergyDesign.md` | Electrical analogy, wear / body-path proposals (path-% non-canon) |
 | `Magic.md` | Enchant vs rune vs scrolls |
 | `Nature.md` | Worldview: segments, pathways, law / causality |
@@ -24,19 +24,31 @@ Named rune catalog and chapter first-seens. Character skills that manipulate run
 
 ## Rune vs enchantment (Chapter 6 book)
 
-Both place lasting effects on gear. Enchantments use a word-like language (Earth analogy: English). Runes use a symbol language (Earth analogy: Japanese / Chinese characters). Runes are harder to master and considered better. Chapter 13 shop talk: regular enchantments are cheaper and weaker and cover more surface area so fewer fit on one item; only runic pieces trigger Roland's pathway attraction. Runesmith and Enchantsmith are the matching Tier 2 craft classes; both need Mana Scribe first. Rune quality leans on the crafter's Intelligence and Dexterity; mana helps making and using them.
+Both place lasting effects on gear. Enchantments use a word-like language (Earth analogy: English). Runes use a symbol language (Earth analogy: Japanese / Chinese characters). Runes are harder to master and considered better. Chapter 13 shop talk: regular enchantments are cheaper and weaker and cover more surface area so fewer fit on one item; only runic pieces trigger Roland's pathway attraction. Runesmith and Enchantsmith are the matching Tier 2 craft classes; both need Mana Scribe first. Rune quality leans on the crafter's Intelligence and Dexterity; mana helps making and using them. Rune quality = how perfect the rune is (`η_cond`). Magic-scroll device grade is a separate designed-strength tag (`ScrollAspects.md`, `MagicScrollMaking.md`).
 
 ## Ranks and grades
 
-Five main rune ranks (see `RuneSystem.md` for ceilings and score). **First-seen dates** are when the story names that band (exposition can name a higher rank before Roland can craft it).
+Five main rune ranks. Worldview: `Nature.md`. Ceilings / score math: `RuneSystem.md`. Named-glyph counts and compound depth: `RuneLexicon.md`. **First-seen dates** are when the story names that band (exposition can name a higher rank before Roland can craft it).
 
-1. **Lesser Rune** - First seen: Chapter 12. Lowest main band. **Basic Rune Mastery** discounts **activation** on this rank only (−10%/level; not setup). Basic Runecraft covers Lesser setup (`RuneSetup.md`).
-2. **Common Rune** - First seen: Chapter 18. Mid rank above Lesser.
-3. **Greater Rune** - First seen: Chapter 17 (named in study before Common items appear on-page). High-tier; major study topic ("Greater Runes 101").
-4. **Grand Rune** - First seen: Chapter 38. Above Greater.
-5. **Legendary Rune** - First seen: Chapter 18 (named before Grand craft is on-page). Top named rank.
+Ranks are a **complexity ladder** (geometry and job home), not only bigger punch. Subgrades glue ranks so peak of N ≈ floor of N+1. Narrative tier feel also folds in lexicon size and how deep glyphs combine — do not invent Uncommon / Rare as separate names.
 
-Each rank uses sub-grades (Lowest / Low / Intermediate / High / Highest). First seen: Chapter 2. Chapter 18: a Lesser rune at Highest is roughly comparable to a Common rune at Lowest (matches score s = 1 in `RuneSystem.md`). Highest on a Common sits near a jump into Greater (Chapter 22 Percival). Comet / shooting-star logo is Roland's early scroll brand.
+| Rank | First seen | Geometry | Job home | Examples (story / Source) |
+|---|---|---|---|---|
+| **Lesser** | Ch 12 | One **linear** chain | Personal kit | Impact, Detonation, Fire Orb, Fire Resistance ladle, Fortitude, Scorching, Sharpness, Mana Slash/Thrust, Slot, Ethereal Pathways, mines |
+| **Common** | Ch 18 | Coupled / **shared modules** | Sellable product | Fire / Frost / Gale Arrow scrolls (Crimson Comet), Hardening + Impact mace, Detect Life / Shadow Veil, elemental shield scrolls, Mana Bolt paddles |
+| **Greater** | Ch 17 (named) | **3D** + ethereal | Machines / armor OS | Greater Runes 101, bulky greater scroll pages, cult monolith / forge primes, levitation plates, full runic armor, turrets / golems, scanning / divine detectors (mid–late Source) |
+| **Grand** | Ch 38 | **Arrays** of greater units | Infrastructure | Vault doors, warp-gate slabs, academy tier-4 doors; bronze melts under grand pour; years per piece; vaulted dwarven secrets |
+| **Legendary** | Ch 18 (named) | Myth / singular | History pieces | Fables; joke promise of legendary daggers; almost never lived craft on-page |
+
+1. **Lesser Rune** - Lowest main band. **Basic Rune Mastery** discounts **activation** on this rank only (−10%/level; not setup). Basic Runecraft covers Lesser setup (`RuneSetup.md`). Solo scrolls weak; metal + timing is where lessers bite. First metal setup pour can rival several common Fire Arrow scrolls in mana (Ch 35 ladle feel).
+2. **Common Rune** - Working economy band. Harder scribing than Lesser; shared arrow-body across elemental arrows. Scribing ~L4 before commons feel manageable. Highest Common ≈ half-step into Greater (Ch 22 Percival).
+3. **Greater Rune** - High-tier; major study topic ("Greater Runes 101"). Hard to shrink; special ink / large parchment. Source: Greater↔Grand parallels Lesser↔Common in complexity. Dwarf feel: at most one greater on whole armor; few charges then burnout.
+4. **Grand Rune** - Above Greater. Infrastructure, not belt knives. Common bronze cannot hold grand (Ch 38 metals talk). Mithril / exotics for greater and grand hosts.
+5. **Legendary Rune** - Top named rank. Mostly fables (Ch 18). Off the normal class syllabus.
+
+Each rank uses sub-grades (Lowest / Low / Intermediate / High / Highest). First seen: Chapter 2. Chapter 18: a Lesser rune at Highest is roughly comparable to a Common rune at Lowest (matches score s = 1 in `RuneSystem.md`). Highest on a Common sits near a jump into Greater (Chapter 22 Percival). Comet / shooting-star logo is Roland's early scroll brand (High/Highest Common Fire Arrows).
+
+**Roland craft reach (rewrite solid through ~Ch 80; later Source):** Lesser and Common production; Greater systems mid–late Source; **no confirmed personal Grand or Legendary forge** through ~700. Studied ≠ made (watcher Detonation, Sahildr Impact, shop borrows).
 
 **Bracket quality on named items:** `[item craft quality, rune quality]` when two tokens appear (e.g. `[Intermediate, Highest]`). A single token is rune quality alone (e.g. `[Highest]` schematic). "High rune on crude iron" style prose is the same split.
 
@@ -46,11 +58,13 @@ Each rank uses sub-grades (Lowest / Low / Intermediate / High / Highest). First 
 First seen: Chapter 14 (on watcher's heavy rapier tip; orange glow; tree explodes on thrust); schematic Chapter 15
 Explosive rune; early schematic. Chapter 14–15: on the watcher's heavy rapier tip (orange glow; internal blast on thrust; **125 MP** as found, more than Mana Arrow or Shield; SP overflow **1:1** if MP short). Hold-test: tip effect **locks armed** until inserted (forced free activate weaker); hold trickles mana and warms the blade. Roland creates the [Highest] quality schematic via Diagnosis pathway analysis (red/green/blue; Technology fills knowledge gaps) and Calligraphy redraw (~**1 hour**). Weak as a solo scroll unless combined (Chapter 18: considers Fire Orb + Detonation grenade). Chapter 37: pressure-trigger scroll mines (dormant until stepped on; ~1 hour active).
 
+**Tip vs blast:** air blast alone barely threatens the point; frag / contact HE / being thrown do. Note: `../Combat/DetonationTipBlast.md`.
+
 ### Lesser Impact Rune
 First seen: Chapter 12
 Impact or force rune. Engraved on Sahildr's new warhammer (bought with monthly savings). Roland is drawn to it and briefly sees glowing pathway lines through the symbol. Chapter 13 combat: timed mana blast can one-shot or incap a Wereboar. Chapter 18 Sahildr: the heavy head **gains weight** when the rune activates (mass or gravity; timing matters). He creates the [Highest] quality schematic in Chapter 18 (Diagnosis overlay; Drawing L1 breakthrough). Current form best on weapons but he fantasizes other component uses; poor as a solo scroll (just makes paper heavier). Chapter 27: speculates Heavy Magic / Heavy Impact Arrow (weight on descent) but paper tests are nearly useless. Chapter 73: common Impact (High) on a mana-iron mace; increases weapon mass/weight mid-swing (timing-sensitive).
 
-**Rewrite science (Sahildr hammer):** compressed mana particles (Fire Piston cousin), not a charged store. **Paid 100 mana** one-shot. Useful output = mana × 10 × η_cond × A (`A = √C`). Earth boar skull crush does **not** need a huge instant boost (street warhammer **200–400 J** already exceeds measured cranial fracture bands). Full note: `../Combat/ImpactRune.md`.
+**Rewrite science (Sahildr hammer):** `../Combat/ImpactRune.md` (100 mana, compressed-particle stroke, strength of 5 men, 640 J baseline).
 
 ### Hardening / Strengthening Rune
 First seen: Chapter 73
@@ -60,11 +74,11 @@ Active common rune. Coats the weapon in a thin mana layer that absorbs physical 
 First seen: Chapter 16
 Fire orb projection rune. Roland's Runic Mana Scribe trial scroll.
 
-**Rewrite (Ch 16 through mid-scribe):** five linked regions on a **linear chain** (simpler than Detonation): fire core fed by mana collector → shape fireball → constrain so it does not explode on form → give velocity. Looks like five large letters while scribing; pathways under the ink. Magical ink + mana-retaining parchment (monster skin). Temporary Basic Mana Scribing / Rune Scribing / Rune Mastery for the trial. No binary, logic gates or chip talk on-page.
+**Rewrite (Ch 16 through mid-scribe):** four linked regions on a **linear chain** (simpler than Detonation): fire core fed by mana collector → shape fireball → constrain so it does not explode on form. Looks like four large letters while scribing; pathways under the ink. Magical ink + mana-retaining parchment (monster skin). Temporary Basic Mana Scribing / Rune Scribing / Rune Mastery for the trial. No binary, logic gates or chip talk on-page. No velocity stage (orb projection, not a thrown shot).
 
 **Source (old model, dropped for rewrite law):** three main parts (fire / orb shape / control "program"); logic gates and binary; transistors/resistors/chips; Circuitry skill; naked-eye three symbols after dry; hard maximal size + compress off a large schematic.
 
-Later: Chapter 19 recreates from **memory** (no Diagnosis source item): first **[High]** (**+600 XP**, ~**1 hour**) then second pass **[Highest]** (**+400 XP**); total **1000**. Lesser quality XP ladder: **100 / 200 / 400 / 600 / 1000**. Chapter 21 first practice scroll ~45 min / +50 XP (still red under Diagnosis); activates fine at **0%** fire affinity. Chapter 36: first reusable metal form, Bronze Plate of the Fire Orb [Lesser: Lowest, High].
+Later: Chapter 19 recreates from **memory** (no Diagnosis source item): first **[High]** (**+600 XP**, ~**1 hour**) then second pass **[Highest]** (**+400 XP**); total **1000**. Lesser quality XP ladder: `../Progression/Progression.md`. Chapter 21 first practice scroll ~45 min / +50 XP (still red under Diagnosis); activates fine at **0%** fire affinity. Chapter 36: first reusable metal form, Bronze Plate of the Fire Orb [Lesser: Lowest, High].
 
 ### Lesser Fire Rune
 First seen: Chapter 194

@@ -3,7 +3,7 @@
 Hub: `../Science.md`.
 **Shared cast / path law:** `../../../Runes/Energy.md` (η(L), μ(INT), η_cond, ambient `A = √C`, mana-in, no-stack rules, voice baselines).
 This file is spell-specific worked tables only (Bolt, Arrow, Shield, Hands, Heat, anchors). Tables below are at open-ground **A = 1** unless a row says otherwise. Multiply Useful by `A` in thicker fields.
-Cast blurbs also in Old `Combat/Spells.md` until absorbed.
+Cast blurbs: `../../../Combat/Spells.md`. Explosive-compression / full kinetic price list (ideas): `../../../Combat/KineticSpellList.md`.
 
 ## Kinetic vs thermal mana (rough guide)
 
@@ -105,7 +105,7 @@ Feel guides for elemental and force effects. Match cast Useful energy to these r
 - 100 J: an injury or a trick. Matches a punch or light gunfire.
 - 10 kJ: a kill shot on an unarmored person or a serious wound on an armored one.
 - 1 MJ: about 100× beyond 10 kJ; destroys a car or collapses a room.
-- 1 GJ: a real lightning bolt; levels a house.
+- 1 GJ: a real lightning bolt; levels a house. Ground-end harvest and trigger methods: `TriggeredLightning.md`.
 
 ## Mana Bolt speaking levels
 
@@ -121,11 +121,10 @@ Ram pressure = ½ ρ v²    (ρ = 2,000 kg/m³)
 
 ### Speaking levels (mana; same spell L)
 
-Voice sets how much mana you feed the cast. Power follows the cast law on that mana. **Overcharging a spell is equal to the mana used** (any amount; loud / very loud are just named rungs on that scale).
+Voice sets how much mana you feed the cast. Power follows the cast law on that mana. **Overcharging a spell is equal to the mana used** (any amount; loud / very loud are just named rungs on that scale). Quiet floor is **whisper**. Mental / true silent never lands (`../../../../Story/Notes/SilentCasting.md`).
 
 | Voice | Mana | L1 @ INT 40 | L1 @ INT 73 | L9 @ INT 40 |
 |---|---|---|---|---|
-| Mental | 10 | 66 J | 106 J | 658 J |
 | Whisper | 15 | 99 J | 160 J | 986 J |
 | Quiet | 20 | 132 J | 213 J | 1,315 J |
 | Normal | 25 | 164 J | 266 J | 1,644 J |
@@ -145,7 +144,7 @@ Voice sets how much mana you feed the cast. Power follows the cast law on that m
 
 ### Goblin kill thresholds (normal voice, 25 mana)
 
-Orbit skull failure ~**32 J** and eye-entry burst ~**63 J** both clear on **L1** from INT 40 up on a normal cast (L1 INT 40 ≈ 164 J). Weakspot aim still matters more than raw joules at low level. Whisper is 0.6× normal mana; mental is 0.4×. Temple hits fail earlier than vault hits.
+Orbit skull failure ~**32 J** and eye-entry burst ~**63 J** both clear on **L1** from INT 40 up on a normal cast (L1 INT 40 ≈ 164 J). Weakspot aim still matters more than raw joules at low level. Whisper is 0.6× normal mana (near-silent floor). Mental / true silent never lands a normal magic spell (`../../../../Story/Notes/SilentCasting.md`). Temple hits fail earlier than vault hits.
 
 Overcharge = mana spent. Named voices are convenience labels, not a separate formula.
 
@@ -182,7 +181,6 @@ Speed = √(2 × Kinetic / 0.04 kg)
 
 | Voice | Mana (Arrow) | vs Bolt |
 |---|---|---|
-| Mental | 20 | 2× |
 | Whisper | 30 | 2× |
 | Quiet | 40 | 2× |
 | Normal | 50 | 2× |
@@ -336,7 +334,7 @@ Element takes share **f** of kinetic K; punch keeps `(1 − f) × K`. At L1 INT 
 
 Katana edge hardness ~**400 MPa** clears R up to **267 MPa** (matches an arrow around INT **25**). A katana swing carries about **125 J**. It cuts through mantis carapace and fails on mail and harder. A goblin neck takes about **56 J** (soft tissue ~11 J and vertebra ~45 J). A mana-infused katana uses the same `H(INT)` curve as the arrow tip.
 
-See also Old `Combat/Spells.md` (Mana Bolt, Mana Arrow) until absorbed.
+See also `../../../Combat/Spells.md` (Mana Bolt, Mana Arrow).
 
 ## Heat
 
@@ -376,6 +374,27 @@ Ignition energy needed at the target. Heat pays Useful joules into heat at a poi
 
 Move objects with mana. Visible hands are optional. Work done by a telekinetic lift, push or throw. Hold rows use continuous drain (J/s).
 
+### Mana ↔ joules (locked)
+
+Hands pay for **physical work** in joules. Intelligence sets how many joules each mana buys. The Mana Hands → Mind → Heart → Soul track sets waste \(R\) (and accuracy / precision / stability / mass-range-grips). Full canon lock: `../../../Progression/ManaHands.md`.
+
+```
+μ(INT) = (INT / 15)^0.8          // INT 15 = 1×; same as Energy.md
+A      = √C                      // open ground A = 1
+
+Useful needed (J) = work from the table / physics
+  lift ≈ m × g × h
+  throw ≈ ½ m v²
+  hold  ≈ (J/s) × seconds
+
+mana_ideal = Useful / (10 × μ(INT) × A)     // 1 mana = 10 J base, × Int
+mana_paid  = mana_ideal × R                // R = Hand-track waste (unskilled 1 → Hand L9 0.1 → …)
+```
+
+**Plain read:** higher Int → fewer mana for the same lift. Higher Hand skill (\(R\) down) → fewer mana again, plus cleaner control. Do **not** also multiply by spell \(\eta(L)\) from Bolt/Arrow — Hands use \(R\) instead of that \(\eta\) table.
+
+**Hold drain:** `mana/s = (J/s) / (10 × μ(INT) × A) × R`. Fast redirects pay KE (\(\propto v^2\)); see `../../../Combat/MageDefense.md`.
+
 | Action | Energy |
 |---|---|
 | Flip a page, snuff a candle | <0.1 J |
@@ -410,38 +429,44 @@ Move objects with mana. Visible hands are optional. Work done by a telekinetic l
 | Pull a 500 kg loaded cart 100 m on road | ~10 kJ |
 | Raise a 500 kg portcullis 3 m | 14.7 kJ |
 | Raise a 2-ton drawbridge | ~40 kJ |
-| Hold 1 kg (proposed rule) | 1 J/s |
-| Hold 20 kg (proposed rule) | 20 J/s |
-| Hold 80 kg (proposed rule) | 78 J/s |
-| Hold 500 kg (proposed rule) | 490 J/s |
+| Hold 1 kg | 1 J/s |
+| Hold 20 kg | 20 J/s |
+| Hold 80 kg | 78 J/s |
+| Hold 500 kg | 490 J/s |
 
-Hold rows are **grip / restraint** only. Airborne hover and flight use the power equations in `Flight.md` (η and μ apply; no separate expensive/cheap fiat).
+Hold rows are **grip / restraint** only. Airborne hover and flight use the power equations in `Flight.md` (μ and Hands \(R\) apply; no separate expensive/cheap fiat).
 
 ## Mana Shield
 
-Barrier hit count from the shared cast law, scaled by shield area and hold time. **Baseline cast = 100 mana** (2× normal Arrow, 4× normal Bolt). Overcharge = mana spent.
+Barrier hit count from the shared cast law, scaled by shield area and hold time. **Baseline cast = 100 mana** (2× normal Arrow, 4× normal Bolt). Street overcharge soft cap **~2×** baseline (scream band). Overcharge = mana spent.
 
-**Fight-scale map** (physical tip KE vs shield pools, worked Ch 14 lock): `../../../Combat/AttackScale.md`.
+**Fight-scale map** (physical tip KE vs shield pools, worked Ch 14 lock): `../../../Combat/AttackScale.md`. Master consolidator (grip, hold drain, extended threat tables): `ManaShield.md`.
 
 ```
-N = floor( 20 × M × η(L) × μ(INT) × S × R × A / J )
+Pool     = 10 × M × η(L) × μ(INT) × S × R × A          // head-on joules
+Hit      = J × sin²(θ)                                  // glancing angle
+G(v)     = 0.2 + 0.8 × v²/(v² + 40²)                    // mundane; skills/spells G = 1
+N        = floor( Pool / (Hit / G) )                    // whole attacks; N = 0 → pierces
 
 M      = shield mana
 J      = threat energy (J)
 η(1)   = 0.3
 η(L)   = 1 + (L - 2) × 2/7              // L2-L9
 μ(INT) = (INT / 15)^0.8
-A      = √C                               // ambient; open ground A = 1
-S      = √(0.2 / area)                    // area = shield face, m²
-R      = 1 - (0.1 × area × t) / M         // t = seconds held
+A      = √C                               // ambient; open ground A = 1; mana paid unchanged
+S      = min(1, √(0.2 / area))            // area = shield face, m²
 ```
 
-The leading **20** is `2 × 10`: paid joules per mana times the focused 45° absorb share (50% of threat). Whole attacks only; round down. Tables at open-ground **A = 1**.
+Default **focused disk settles at 45°** (Hit = J/2). At that angle, N matches the old `20 × M × … / J` counts. Whole attacks only; round down. A stopped hit spends `Hit / G` from the pool; a failed shield collapses and the attack passes whole. Tables at open-ground **A = 1**.
 
-| Shape | area | S | R |
+| Shape | area | S | Notes |
 |---|---|---|---|
-| Focused disk | 0.2 m² | 1 | 1 (no area bleed) |
-| Semicircle | 6.28 m² | 0.178 | 1 - 0.628 t / M |
+| Focused disk | 0.2 m² | 1 | No area bleed. Default face 45°. Give ~0.05 m |
+| Semicircle / body bubble | 6.28 m² | 0.178 | Area bleed 0.1% of starting pool per s per 6.28 m². Give ~0.15 m |
+| Full sphere | 12.57 m² | 0.126 | Airborne / underwater sealed use |
+| Door-sized elemental wall | ~6 m² | ~0.18 | Ch 27 wall faces; same band as a bubble |
+
+**Hold drain:** 0.3 J/s per newton of steady force (resting weight, wind, water, slow blade press). Separate from area bleed. **Momentum** of a stopped hit goes to the caster unless the shield is anchored into the ground. **Selectivity (unsealed):** air, gas, smoke, radiant heat pass; condensed matter and water blocked. Sealing blocks gas and pays full fluid push as hold drain. **Explosive / blast spells** use G = 1 (full pool). Optional multi-shell layering: shell n costs `1.5^(n−1)` of base mana; bonded pools add; spaced shells check separately (`ManaShield.md` Part 11).
 
 ### Threat energies (J)
 
@@ -459,16 +484,18 @@ The leading **20** is `2 × 10`: paid joules per mana times the focused 45° abs
 | Dragon claw | 35,000 |
 | Trebuchet stone | 90,000 |
 
-### Profiles (focused disk, k = 0.8)
+### Profiles (focused disk, head-on)
 
-| Profile | INT | L | Effective pool 50 mana (20 M η μ) | Effective pool 100 mana |
-|---|---|---|---|---|
-| Novice | 15 | 1 | 300 J | 600 J |
-| Apprentice | 40 | 2 | 2,190 J | 4,380 J |
-| Journeyman | 73 | 3 | 4,560 J | 9,120 J |
-| Adept | 100 | 5 | 8,470 J | 16,940 J |
-| Master | 200 | 7 | 19,300 J | 38,600 J |
-| Archmage | 500 | 9 | 49,600 J | 99,200 J |
+| Profile | INT | L | Pool 50 mana head-on | Pool 100 mana head-on | At 45° (vs head-on J) |
+|---|---|---|---|---|---|
+| Novice | 15 | 1 | 150 J | 300 J | 300 J / 600 J |
+| Apprentice | 40 | 2 | 1,095 J | 2,190 J | 2,190 J / 4,380 J |
+| Journeyman | 73 | 3 | 2,280 J | 4,560 J | 4,560 J / 9,120 J |
+| Adept | 100 | 5 | 4,235 J | 8,470 J | 8,470 J / 16,940 J |
+| Master | 200 | 7 | 9,650 J | 19,300 J | 19,300 J / 38,600 J |
+| Archmage | 500 | 9 | 24,800 J | 49,600 J | 49,600 J / 99,200 J |
+
+Whole-attack count tables below assume the default **45° disk** (same N as the old ×20 formula).
 
 ### Whole attacks (focused disk, 50-mana shield)
 
@@ -556,7 +583,7 @@ Match live Bolt / Arrow casts from the cast law (voice mana × 10 × η × μ). 
 
 | Threat | Energy |
 |---|---|
-| Mana Bolt, mental 10 mana (INT 40 L1) | ~66 J |
+| Mana Bolt, whisper 15 mana (INT 40 L1) | ~99 J |
 | Mana Bolt, normal 25 mana (INT 40 L1) | ~164 J |
 | Mana Bolt, normal 25 mana (INT 40 L9) | ~1,644 J |
 | Mana Arrow, normal 50 mana (INT 40 L1) | ~328 J |
@@ -616,4 +643,6 @@ Core rupture rows are **mana cores / mana stones**, not jewelry gems. Unbreakabl
 | 30° | 25% |
 | 15° | 7% |
 
-See also `../../../Combat/Spells.md` (Heat, Mana Hands, Mana Shield).
+**Rune shield hosts:** waste heat into the host follows the shared rune waste law (`../../../Runes/Energy.md`: half of `(1 − η_cond)` into the piece). Lowest-quality silver cooks fastest; allow cooldown or use better conductors / higher quality for rapid re-triggers.
+
+Physics companion: `ManaHandPhysics.md`. See also `../../../Combat/Spells.md` (Heat, Mana Hands, Mana Shield).

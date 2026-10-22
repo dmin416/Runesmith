@@ -92,14 +92,14 @@ First paid hunt day. Gear carried forward: black leather, shortsword, hunting kn
 
 Turn-in line "**95 LC** richer" = income only (35+60), not after meal/map.
 
-**Still carrying:** leather set, shortsword, hunting knife, small mirror, adventurer card, local map, calligraphy books / blank paper, coin pouch (**875 LC**), buried class-up crystal. Lodging not paid. Lodging vows deferred; ends chapter planning baths / more hunts, not “never cabin again.”
+**Still carrying:** leather set, shortsword, hunting knife, small mirror, adventurer card, local map, calligraphy books / blank paper, coin pouch (**875 LC**), buried class-up crystal. Lodging not paid. After turn-in he pays for a proper wash before sleep. Lodging vows deferred; ends chapter planning more hunts, not “never cabin again.” Hygiene: `Cleanliness.md`.
 
 ## Chapter 9.5
 
 Three-month Carwen grind (rewrite bridge; Source has no separate chapter).
 
 **Lodging / kit**
-- Upstairs room at the Ch 9 inn (cabin commute dropped).
+- Upstairs room at the Ch 9 inn (cabin commute dropped). Guest wash becomes part of coming back from hunts; canteen wipes on long forest days (`Cleanliness.md`).
 - First major purchase: nice-ish thick wool cloak (**300 LC**, mattress/comforter).
 - Spare robe bought when the old one reeks of smoke / goblin blood.
 - Leather and shortsword repairs from turn-in leftovers.
@@ -133,7 +133,7 @@ First dungeon day with Becky / Sahildr / Reyna. Carry-in from Ch 10 unchanged un
 
 **Gained / used (party haul; sold and split)**
 - Spiked Boar mats: tusks, spine spikes, leather (meat skipped). Design lock **4** boars mid mats **~312 LC**.
-- Dungeon chest stones **×2** (leader-sized; Mana Sense finds first; “another” on the shield fight) sold **200 LC**.
+- Dungeon chest stones **×2** (leader-sized; Mana Sight finds first; “another” on the shield fight) sold **200 LC**.
 - Team **~512 LC** → equal 4-way → Roland **+128 LC**.
 
 **Party gear noted (not his)**
@@ -143,24 +143,24 @@ First dungeon day with Becky / Sahildr / Reyna. Carry-in from Ch 10 unchanged un
 
 | Step | Change (LC) | Running |
 |---|---|---|
-| Enter from Ch 10 | | **6,035** |
-| Equal 4-way party share | +128 | **6,163** |
+| Enter from Ch 10 | | **3,630** |
+| Equal 4-way party share | +128 | **3,758** |
 
 **Still carrying after Ch 11 day 1:** leather (repaired), shortsword (repaired), hunting knife, thick wool cloak, spare robe, small mirror, adventurer card, local map, calligraphy stock, coin pouch (**3,758 LC**), **220** rice-band + **8** leader mana stones, buried class-up crystal.
 
 ### Ch 11→12 trial weeks (~2 weeks, **7** more Floor-1 days)
 
-Equal-split haul locked in `Experience.md`: mats **~2,184** + **15** stones **1,500** → team **~3,684** → Roland **+921 LC**. Lodging **−126** + food **−140** over **14** days. Pouch **6,163 → ~4,413 LC**. Personal stone bank unchanged.
+Equal-split haul locked in `Experience.md`: mats **~2,184** + **15** stones **1,500** → team **~3,684** → Roland **+921 LC**. Lodging **−126** + food **−140** over **14** days. Pouch **3,758 → ~4,413 LC**. Personal stone bank unchanged. Trial XP: kill **+2,184** + Hands **~+100** → bar **~8,540 / 10,000**.
 
 **Coin ledger**
 
 | Step | Change (LC) | Running |
 |---|---|---|
-| After Ch 11 day 1 | | **6,163** |
-| Trial-week party share | +921 | **7,084** |
-| Lodging (14 days) | −126 | **6,958** |
-| Food (14 days) | −140 | **6,818** |
-| Iron Flagon first round (Ch 12) | −45 | **6,773** |
+| After Ch 11 day 1 | | **3,758** |
+| Trial-week party share | +921 | **4,679** |
+| Lodging (14 days) | −126 | **4,553** |
+| Food (14 days) | −140 | **4,413** |
+| Iron Flagon first round (Ch 12) | −45 | **4,368** |
 
 **Still carrying into Ch 12 binge:** leather (repaired), shortsword (repaired), hunting knife, thick wool cloak, spare robe, small mirror, adventurer card, local map, calligraphy stock, coin pouch (**~4,413 LC** before drink / **~4,368** after first round), **220** rice-band + **8** leader mana stones, buried class-up crystal.
 
@@ -176,9 +176,9 @@ Iron Flagon first round **−45 LC**. Floor-2 Needle Worm cook + tame run. Party
 
 | Step | Change (LC) | Running |
 |---|---|---|
-| Enter (trial weeks end) | | **~6,818** |
-| Iron Flagon first round (3 half-gal weak spirits) | −45 | **~6,773** |
-| Becky lock-repair toss | +? (small; not counted) | **~6,773** |
+| Enter (trial weeks end) | | **~4,413** |
+| Iron Flagon first round (3 half-gal weak spirits) | −45 | **~4,368** |
+| Becky lock-repair toss | +? (small; not counted) | **~4,368** |
 
 **Still carrying into Ch 13:** leather (repaired), shortsword (repaired), hunting knife, thick wool cloak, spare robe, small mirror, adventurer card, local map, calligraphy stock, coin pouch (**~4,368 LC** after drink; later Floor-2 sale share not itemized on-page), **220** rice-band + **8** leader mana stones, buried class-up crystal, **tamed Needle Worm** (green scarf).
 
@@ -238,7 +238,7 @@ Class-change trial night. Carry-in from Ch 15.
 **Gained**
 - Class: **Runic Mana Scribe** (title-gated).
 - Skills: Basic Mana Scribing L1, Basic Rune Scribing L1, Basic Rune Mastery L1.
-- Working trial Fire Orb scroll (five-region linear; fist-sized heat orb on success) left in the trial space.
+- Working trial Fire Orb scroll (four-region linear; fist-sized heat orb on success) left in the trial space.
 
 **Scene props**
 - **Ned** silk-ties him upright in the inn chair on return; eats the silk after chin-scratch.
@@ -253,28 +253,28 @@ Morning after class change. Carry-in from Ch 16. No kills.
 - Detonation rapier tip under Mana Shield (muffled hole blast): tip **~113 MP** (Basic Rune Mastery L1 **−10%** of **125**) + Shield **100** → **MP 2096/2309**; stab **−2 SP** → **867/869**.
 
 **Gained / moved**
-- Assassin loot settled: gear + bag sell **>20 SG** total; Roland already held ~**15 SG**; girls **+5 SG**; Reyna keeps throwing daggers. No red-seal letters.
+- Assassin loot settled: gear + bag sell **>20 SG** total; Roland already held pouch **~5,977 LC** from dungeon months; equal share **+5 SG** → **~10,977 LC**; kit/consumable trims push personal toward **11,641 LC** before parting. Girls keep **+5 SG** framing of their cut. Reyna keeps throwing daggers. No red-seal letters.
 - Unsent letters to **father** and **Martha** ready to send on leaving.
 - Asks to borrow Sahildr's Impact hammer (into Ch 18).
 
-**Still carrying into Ch 18:** worn kit, detonation rapier, **Ned**, parsleaves / needle-blood stocks, ~**15 SG** personal framing + stone bank, Detonation [Highest] schematic, Scribe skills; hammer borrow pending.
+**Still carrying into Ch 18:** worn kit, detonation rapier, **Ned**, parsleaves / needle-blood stocks, personal pouch climbing toward **11,641 LC** + stone bank, Detonation [Highest] schematic, Scribe skills; hammer borrow pending.
 
 ## Chapter 18
 
 Impact copy + farewell. Carry-in from Ch 17.
 
 **Used / borrowed**
-- Sahildr's Impact warhammer (Debugger overlay copy on paper; returned after schematic). Strength of three men and still uncomfortable to hold.
+- Sahildr's Impact warhammer (Diagnosis overlay copy on paper; returned after schematic). Strength of about three men (Str **49**) and still uncomfortable to hold.
 
 **Gained**
 - **Lesser Impact Rune [Highest]** schematic (paper) + **Drawing L1** + **1000 XP**.
 - Adventurer rank **Bronze → Steel** (Miss Cellica).
-- Party's smaller **spatial bag** with starter coin (they keep watcher bag ~2×). Peek deferred alone; Ch 19 locks gift **10 SG** inside **on top of** his personal pouch (**5,977 LC**).
+- Party's smaller **spatial bag** with starter coin (they keep watcher bag ~2×). Peek deferred alone; Ch 19 locks gift **10 SG** inside **on top of** his personal pouch (**11,641 LC**).
 
 **Left behind / farewell**
-- Carwen kit packed into the new bag. Hugs Becky / Sahildr / Reyna; magic train toward Edelgard.
+- Carwen kit packed into the new bag. Hugs Becky / Sahildr / Reyna; coaches and magic-train legs toward Edelgard.
 
-**Still carrying into Ch 19:** Steel card, detonation rapier, **Ned**, parsleaves / needle-blood stocks, Detonation + Impact [Highest] schematics, Scribe skills, personal pouch **5,977 LC** + parting gift **10 SG** (**total 15,977 LC**), stone bank.
+**Still carrying into Ch 19:** Steel card, detonation rapier, **Ned**, parsleaves / needle-blood stocks, Detonation + Impact [Highest] schematics, Scribe skills, personal pouch **11,641 LC** + parting gift **10 SG** (**total 21,641 LC**), stone bank.
 
 ## Chapter 19
 
@@ -285,8 +285,38 @@ Edelgard arrival / guild / Singing Crow.
 - **Lesser Fire Orb Rune** schematic (paper) – memory redraw: first **[High]** (**+600 XP**, **over** 1 hour; uneven); thin-sheet trace → **[Highest]** (**+400 XP**). Total **1000**. Lesser quality ladder: **100 / 200 / 400 / 600 / 1000**. Three Highest lesser schematics now (Detonation + Impact + Fire Orb).
 
 **Spent**
-- Solaria collection plate **−1 SS (−10 LC)** at the station (Source copper; rewrite silver) → **15,977 → 15,967 LC**.
-- City map **−19 LC** → **15,948 LC**.
-- Singing Crow room **−14 LC** (Steel-band pick; a bit above Carwen **1 SS**; **not** the **2 SS** better-inn tier) → wallet **15,934 LC**.
+- Solaria collection plate **−1 SS (−10 LC)** at the station (Source copper; rewrite silver) → **21,641 → 21,631 LC**.
+- City map **−19 LC** → **21,612 LC**.
+- Singing Crow room **−14 LC** (Steel-band pick; a bit above Carwen **1 SS**; **not** the **2 SS** better-inn tier) → wallet **21,598 LC**.
 
-**Still carrying after room / schematic:** Steel card, detonation rapier, **Ned**, Edelgard city map, Detonation + Impact + Fire Orb [Highest] schematics, parsleaves / needle-blood stocks, wallet **15,934 LC**, stone bank.
+**Still carrying after room / schematic:** Steel card, detonation rapier, **Ned**, Edelgard city map, Detonation + Impact + Fire Orb [Highest] schematics, parsleaves / needle-blood stocks, wallet **21,598 LC**, stone bank.
+
+### Chapter 20
+
+- Monster-skin blanks ×**10** (**5 SS**; **5 LC** each; ~A4) + magic ink (~**10 SS** for ten Mana Arrows worth).
+- No pencil; quills/paper only; fountain pens too dear.
+- Wallet **21,598 → 21,448 LC**.
+
+**Still carrying into Ch 21:** Steel card, detonation rapier, **Ned**, Edelgard map, three Highest lesser schematics, blanks + ink, wallet **21,448 LC**, stone bank.
+
+## Chapter 21.5
+
+Rewrite-only ~**4 month** grind.
+
+**Day 1 (morning after Ch 21; chapter prose):** second-shop runic three — **Orb of Light** (**1 LS**), **Fire Arrow** (**2 LS**), **Aqua Ball** (**1 LS**); **4 LS = 400 LC**; wallet **21,448 → 21,048 LC**. **Regular paper**; skips expensive ink. **Cheap ink** thin/dark, rust and dried-iron smell; Mana Sight dank/fetid like goblin / sewer-rat mana. Plans homebrew ink. Ned on silk for clothes (not gel harvest). Thinner paper + prior hides for quill / Hand-as-quill / all-at-once trace drills; imbue after settle.
+
+**Notes (early skip):** full lock in `Chapter21_5.md` (seat-time: Arrow wall **~6 min**, Ball **~21–26 min**; Phase C **~76** MA / **~8** Fireball / **~2** Light Ball per day; prefill **personal / gift** only). Homemade ink = **goblin cores** (bank) + **his and Ned's blood**; Fire Orb lock; shape kit; Technology every rune/tech observe; exit Fireball batch of **10 Highest** **empty**; MA keep (**~20** preloaded); Light Ball few (**~6** preloaded); **last 1 SS**. Stone bank drawn down for ink powder. Perfect schematics this skip **+27,000** XP (`Experience.md`; pure mana Bolt+Arrow+Orb+Ball **+6,000** inside). **Burns all paper schematics** (space); knowledge retained.
+
+**Skip exit carry:** Steel card, detonation rapier, **Ned**, map, ten branded **Fireball** scrolls (all **Highest**, **empty**), Mana Arrow keep pile (**~20** preloaded), a few Light Ball keepers (**~6** preloaded), robe/mask disguise kit, wallet **1 SS**, stone bank (reduced by ink cores). **No** schematic sheets. Full exit sheet: `Chapter21_5Exit.md`.
+
+**Ch 22 Libra (first Fireball sale):** ten **Runic Fireball [Common][Highest]** empty (red comet / shooting-star logo); Amplify if fed (rank-capped). Percival almost trashes low-look hide wrap; guide **~7–8 LS** each (fair Highest empty **7.5 LS**). Bundled two×five; open **32 LS**; hammers **42 LS** + **46 LS** → gross **8 SG 8 LS**; **25%** → net **6 SG 6 LS** (wallet **6 SG 6 LS 1 SS** with kept **1 SS**). Identify: scrolls need the **rune visible**; body need full cloth cover (water-ball self-test).
+
+**Ch 23 early (after payday):** spends into more **monster-skin blanks** and **paper**; still **homemade ink** (no shop ink). Sell-line Fireballs stay **empty** / comet brand. Personal/protection scrolls may take **SP** fills when MP is low. Desk side grind (`FrictionGrill.md`) + Cold nights (`ColdNightSleep.md`) continue. **+2 months intense grill grind:** Percival return stack is **fifteen** comet Fireballs, all **Highest**.
+
+**Ch 23 Ned silk clothes:** weaver makes **threads** for Roland and a **small cape for Ned** (once; fiber his; labor soft **~0.5 SG**). Cloth feel as chapter. Full catalog stays in notes / `BiologicalSilks.md`. Not Earth luxury silk pricing (`EconomyDesign.md`: Needle Worm silk common).
+
+**Ch 23 quiet room (line 715):** wallet **~170 SG** after first sale + fifteen + **~315**-scroll volume span (− lodging/food/weaver/better-mats). Carry: comet sell stock, MA/Light Ball keepers, reject stacks, robe/mask, Ned-silk threads + Ned cape, homemade ink, stone bank, **no** schematic sheets. Full sheet: `Chapter23QuietRoom.md`.
+
+**Ch 23 forest spellbook (outing):** a thick book held together with glue generously provided by Ned, one side coated in that glue. He calls the carried pile his stack of spells and keeps his hand on the makeshift spellbook when he takes aim. The used page crumbles to dust after the first clearing Mana Bolt kill.
+
+**Ch 23 Match Rune (after line 715):** pea-sized paper; one blood drop (Mana Hand); micro Highest Fire Orb lighter; designed **5**; empty (buyer pays **5**); one-shot burn; fluent make **~1 min**. Fair **1 LC** / **1 SS** per ten. Mastery **1**/burn. Market hold **~2,500 / week** (absorb **~2–3k**; drop above **~5k**); net **~1.9 SG / week** after Libra **25%**. Not in quiet-room wallet until invent + sales land in prose. See `Spells.md` / `ScrollEconomy.md` / `CoinLedger.md` / `Notes.md` Ch 23.

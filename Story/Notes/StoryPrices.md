@@ -2,8 +2,8 @@
 
 > **When prices appear in the story.** Chronological ledger of hard coin beats and soft economy moments.
 >
-> Item-only approved prices (no chronology): `../../References/World/Society/PriceCatalog.md`.
-> Prefer that catalog / `EconomyDesign.md` rewrite lock when a scene needs a number. Domain books: Food, Gear, ScrollEconomy, SpatialBagPrices. Early pouch math: `CoinLedger.md`. Source reprice audit: `../../References/SourceLoot/PriceInventory.md`.
+> Item-only approved prices (no chronology): `../../References/World/Society/Economy/PriceCatalog.md`.
+> Prefer that catalog / `EconomyDesign.md` rewrite lock when a scene needs a number. Domain books: Food, Gear, ScrollEconomy, SpatialBagPrices. Pouch math (early + Edelgard Fireball → quiet room + Match rate): `CoinLedger.md`. Source reprice audit: `../../References/SourceLoot/PriceInventory.md`.
 
 ---
 
@@ -46,21 +46,36 @@
 | 19 | Solaria station tip | **1 SS** | Edelgard |
 | 20 | Mana Arrow Intermediate | **3 SS** | Shop shelf |
 | 20 | Fire Arrow Intermediate | **6 SS** | Shop shelf (T2) |
-| 20 | Fireball (shop talk) | **≈1 LS** | Compare |
-| 20 | Blank monster-skin ×10 | **5 SS** (**5 LC** each) | DIY buy |
+| 20 | Fireball (shop talk) | **≈3 LS** (fair **3 LS 2 SS**) | Compare |
+| 20 | Blank monster-skin ×10 | **5 SS** (**5 LC** each; ~A4) | DIY buy |
 | 20 | Ink for ten Mana Arrows | **~10 SS** | DIY margin beat |
-| 20 | Runic Orb of Light | **≥1 LS** | Dusty Exeor |
+| 20 | Runic Orb of Light | **≥1 LS** | Dusty Grimboodle shelf |
 | 20 | Runic Fire Arrow (dusty) | **2 LS** vanity (fair High **10 SS**) | Shelf vs word **6 SS** |
+| 20 | Runic Aqua Ball | ≥**1 LS** band (exact soft) | Same dusty shelf |
 | 21 | Libra entry | **2 SS** | Auction house |
 | 21 | Refused shop contracts | **−60%** mana breach | Cartel talk |
+| 21.5 day 1 | Runic Orb of Light | **1 LS** | Grimboodle dusty floor |
+| 21.5 day 1 | Runic Fire Arrow | **2 LS** | Same shelf |
+| 21.5 day 1 | Runic Aqua Ball | **1 LS** | Same floor band as Orb |
+| 21.5 day 1 | Three-sample total | **4 LS (400 LC)** | Wallet **21448 → 21048** |
 | 22 | Intermediate Fire Arrow | **6 SS** | Appraiser compare |
 | 22 | High Common runic Fire Arrow | up to **~10 SS** | Appraise |
 | 22 | Highest Common | **~12–15 SS** | Appraise |
-| 22 | First auction boxes (2×5) | **4 LS 5 SS** and **4 LS 7 SS** | Sold |
-| 22–23 | Auction gross → net | **9 LS 2 SS** → **6 LS 9 SS** after **25%** | Seller #64 |
+| 22 | Percival guide (Highest empty Fireball) | **~7–8 LS** each | Chapter |
+| 22 | Fair Highest empty Fireball | **7.5 LS** | `ScrollEconomy.md` |
+| 22 | First auction open (box of 5) | **32 LS** | Stage |
+| 22 | First auction boxes (2×5) | **42 LS** and **46 LS** | Sold |
+| 22–23 | Auction gross → net | **8 SG 8 LS** → **6 SG 6 LS** after **25%** | Seller #64; wallet **6 SG 6 LS 1 SS** |
 | 22 | Auction commission ladder | first **25%**, can fall to **10%** | House rules |
 | 22 | Party gift runway | **10 SG** lasted **~half year** of mats | Not ten months |
-| 23 | Weekly Fire Arrow volume | **~10** scrolls ~ **~1 SG** gross | Ongoing |
+| 23 | Highest empty Fireball (ongoing) | **7.5 LS** | Fair lock; volume weeks |
+| 23 | Match Rune (micro Fire Orb lighter) | **1 LC** each; **1 SS** / ten | Pea scrap; empty; designed **5**; ~**1 min**/make; market hold **~2,500**/week |
+| 23 | Match Rune weekly net (after invent) | **~1.9 SG / week** after Libra **25%** (mats ≈ 0) | Hold **~2,500**/week; flood above **~5k**; invent after line 715; `CoinLedger.md` |
+| 23 | Weekly Fireball volume | early **15**; each week **+bundle (5)** → **30**; instead maintain **25**/week | Libra; Ch 23 prose |
+| 23 | First auction profit (10) | sale **8 SG 8 LS** → after 25% **6 SG 6 LS** → after mats ~**6 SG 4 LS** | Seller #64 |
+| 23 | +3 months Fireball profit (~13 weeks) | ~**315** scrolls @ **7.5 LS** → ~**170 SG 9 LS** after 25% + **2 SS**/scroll mats | Soft ledger → quiet room **~170 SG** |
+| 23 | Quiet room wallet (line 715) | **~170 SG** | First sale + fifteen + volume − lodging/food/weaver/mats; `Chapter23QuietRoom.md` / `CoinLedger.md` |
+| 23 | Weekly Fire Arrow volume | **~10** scrolls ~ **~1 SG** gross | Later / Source scrap; rewrite stays Fireball |
 | 25–26 | Grimboodle / Exeor | **15%** cut, **3 years**, **−30%** mana breach | Contract |
 | 26–27 | Quota | **≥10** common scrolls / week | Signed |
 | 27 | Leave | weekends + **25** unpaid days/year | Contract |
@@ -143,7 +158,7 @@ Source dump files under `References/Source/` that conflicted with locks were upd
 | Monthly lodging discount | 5% | **10%** → **270 LC** |
 | Mana Arrow Intermediate | 1 SS | **3 SS** |
 | Fire Arrow Intermediate | 3 SS | **6 SS** |
-| Fireball shop talk | ~6 SS | **≈1 LS** |
+| Fireball shop talk | ~6 SS | **≈3 LS** (fair **3 LS 2 SS**) |
 | Blanks ×10 | 9 SS | **5 SS** |
 | Ship | 1 wee gold | **5 LS** |
 | Farm / home bar | ~100 SG | **~30 SG** |

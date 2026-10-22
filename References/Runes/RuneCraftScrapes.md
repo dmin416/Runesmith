@@ -1,6 +1,6 @@
 # Rune Craft Scrapes
 
-> **Design loot.** Live locks: Energy.md (eta_cond feel order, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md (Ag mythril, Au orihalcum, Cu aurium, Fe/steel dark→star, Ti adamantium). Non-canon here: path-% dials; adamantium as forgeable post-set supersteel.
+> **Design loot.** Live locks: Energy.md (rune-quality η_cond, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md (Ag mythril, Au orihalcum, Cu aurium, Fe/steel dark→star, Ti adamantium). Non-canon here: path-% dials; adamantium as forgeable post-set supersteel.
 
 Chapter prose scrape: how runes / runic enchantments look and how Roland makes them (hand, quill, hammer, chisel). Not a world-law file.
 
@@ -21,7 +21,7 @@ Canonical catalog: `Runes.md`. Nature / worldview: `Nature.md`. Rewrite pathway 
 ### Symbols and size
 
 - **Ch 15 (detonation tip):** Markings run handle→tip (heavier at tip). Surface symbols only; pathway structure runs **deeper** through the blade (electrical diagram / flow puzzle). Fairly **large in scope** and easy to examine.
-- **Ch 16 (trial, rewrite):** Fire Orb is a **simpler linear chain** than Detonation. Naked-eye work looks like writing **five large letters**; ink under them links pathways between **five main regions** (mana collector → fire core → shape fireball → constrain so it does not explode on form → give velocity). Detonation schematic was on a large sheet; the sword original ran inch-thick to a point; the scroll must **fit** the parchment. After infusion, extra pathways sink and cannot be seen. Success glow: crimson wisps compress into a **fist-sized** hot orb. Source said **three** symbols / components, maximal size rule and 1:1 compress; rewrite does not restate max-size law on-page.
+- **Ch 16 (trial, rewrite):** Fire Orb is a **simpler linear chain** than Detonation. Naked-eye work looks like writing **four large letters**; ink under them links pathways between **four main regions** (mana collector → fire core → shape fireball → constrain so it does not explode on form). No velocity stage. Detonation schematic was on a large sheet; the sword original ran inch-thick to a point; the scroll must **fit** the parchment. After infusion, fine pathways **fade into** the host; the surface **rune image** remains (rough “what it does” read if not obscured). Full pathways need Diagnosis / magical vision. Success glow: crimson wisps compress into a **fist-sized** hot orb. Source said **three** symbols / components, maximal size rule and 1:1 compress; rewrite does not restate max-size law on-page.
 - **Ch 16 Source (kept for scrape):** Naked eye **three** symbols (fire / orb / control). Hidden pathways vanish after ink dries. Runes have a **maximal size**; too big and they fail. Success orb ~marble-sized.
 - **Ch 19:** Components sit **buried deeply into** the runic symbols.
 - **Ch 49:** Chisel work can look almost finished; only a Runesmith notices **missing traces**.
@@ -37,9 +37,9 @@ Canonical catalog: `Runes.md`. Nature / worldview: `Nature.md`. Rewrite pathway 
 - **Ch 15:** Mana cost while viewing. Can blink the overlay off. Blue mana from Roland runs the small pathways; tip effect **locks armed** until inserted (forced free activate weaker); hold trickles mana and warms the blade; he pulls mana back to deactivate.
 - **Ch 15:** Diagnosis shows faults; **Technology** fills rune knowledge gaps on encounter (active use; not only passive).
 - **Ch 15–16 rewrite:** Stages / regions with jobs in the flow. No on-page transistors, resistors, chips, logic gates or binary (Source had those in the trial book beat).
-- **Ch 16 rewrite (full trial):** Continuous pass large areas → finer details. Diagnosis does **not** guide mid-draw; only grades a finished piece. First attempt mostly red (no functional activate). Mana-hand overlay onto beast skin cascades (~**1/4 MP**; hand implodes; Pollock scroll). Second success: five symbols; fist-sized heat orb. Urge to fantasize about applications but no time.
+- **Ch 16 rewrite (full trial):** Continuous pass large areas → finer details. Diagnosis does **not** guide mid-draw; only grades a finished piece. First attempt mostly red (no functional activate). Mana-hand overlay onto beast skin cascades (~**1/4 MP**; hand implodes; Pollock scroll). Second success: four symbols; fist-sized heat orb. Urge to fantasize about applications but no time.
 - **Ch 16 Source (fail / success):** Failed scroll **crimson** glow then fizzles / pattern vanishes. Success: **wisps of red light** compress into a small marble-hot orb. Three visible symbols after dry.
-- **Ch 19:** Every rune has **large segments** with different jobs in a **linear** chain. Pathways link stage to stage. All runes and by extension magic follow law / causality they were designed for. Fire Orb's five named regions; other lessers lack books but linear structure and progression imply the same rules. Custom work = rearrange large stages on one whole sheet. **Not** binary / buried chips. Design lock: `Nature.md`.
+- **Ch 19:** Every rune has **large segments** with different jobs in a **linear** chain. Pathways link stage to stage. All runes and by extension magic follow law / causality they were designed for. Fire Orb's four named regions; other lessers lack books but linear structure and progression imply the same rules. Custom work = rearrange large stages on one whole sheet. **Not** binary / buried chips. Design lock: `Nature.md`.
 - **Ch 21:** Diagnosis shows red on imperfect practice scroll. **No lines** on regular (non-runic) spell scrolls.
 - **Ch 33:** Overloaded pelt: center lights; mana in **six directions**; glistering pathways between linked fire-arrow runes.
 - **Ch 50:** Colored lines everywhere under deep Diagnosis (even plants); red / blue / green.
@@ -87,7 +87,7 @@ Rune / craft deltas only. Tone and class-menu personality changes listed when th
 | Runic Mana Scribe name | Complains naming sense (why so long) | Notes Rune Scribe / Runic Scribe would be shorter; keeps **Runic Mana Scribe** as interesting / specific |
 | Why pick it | Better version of Mana Scribe; trial may be harder | Focus on **runes** over pure enchantment that needs **elemental affinity**; better fit with him; murderer speed → specialize |
 | Menu hybrids | Mana Warrior / Mana Archer | **Mana Rogue** / Mana Warrior (pocket-sand joke) |
-| Trial Fire Orb model | **Three** main parts: fire core, orb shape, mana regulation / control "**program**". Logic gates, binary, transistors, resistors, chips. Circuitry skill helps understanding | **Five** main regions: mana collector → fire core → shape fireball → constrain → velocity. **Linear chain**. Drawing like giant letters → notecards. **No** binary / logic-gate / chip talk |
+| Trial Fire Orb model | **Three** main parts: fire core, orb shape, mana regulation / control "**program**". Logic gates, binary, transistors, resistors, chips. Circuitry skill helps understanding | **Four** main regions: mana collector → fire core → shape fireball → constrain. **Linear chain**. No velocity. Drawing like giant letters → notecards. **No** binary / logic-gate / chip talk |
 | Temporary skills timing | After the logic-gate digression | After reading the book, before the assemble beat (**Basic Mana Scribing**, **Basic Rune Scribing**, **Basic Rune Mastery** temporary) |
 | Quill method | Ink splits into many tiny pathways; hover fraction of a mm | Methodical large lines → finer details; one continuous pass; mana bonds ink to skin |
 | Visible letter count while writing | Three large letters | Five large letters |
@@ -135,9 +135,9 @@ Rune / craft deltas only. Tone and class-menu personality changes listed when th
 
 ## Story chapter files (rewrite)
 
-`Story/Chapters/1-9.md` / `10-18.md` through `71-80.md`. Primary LOOK dump: Ch 12–16. Primary MAKE dump: Ch 15–16 (paper), Ch 34 / 37 / 46–49 / 72–73 (hammer / hand / chisel).
+`../../Story/Chapters/1-9.md` / `../../Story/Chapters/10-18.md` through `../../Story/Chapters/71-80.md`. Primary LOOK dump: Ch 12–16. Primary MAKE dump: Ch 15–16 (paper), Ch 34 / 37 / 46–49 / 72–73 (hammer / hand / chisel).
 
-**Ch 16 rewrite note:** through mid-scribe (~L1194) the trial Fire Orb is five-stage linear pathways (`RuneSystem.md`), not Source binary / three-component logic. See **Source → Story (Ch 16)** under Paper / scroll.
+**Ch 16 rewrite note:** through mid-scribe (~L1194) the trial Fire Orb is four-stage linear pathways (`RuneSystem.md`), not Source binary / three-component logic. See **Source → Story (Ch 16)** under Paper / scroll.
 
 ---
 

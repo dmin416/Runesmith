@@ -12,9 +12,11 @@ Food and drink hub. Wealth feel is locked here. Deep cook / camp / ingredient ta
 | `FoodPrices.md` | Inn / tavern / spirits price book |
 | `Hemolymph.md` | Ned / insect hemolymph as complete food (design) |
 | `KitchenKit.md` | Core / full / upgrade cookware gear lists |
+| `CookwareAndKnives.md` | Pan / knife material picks and kitchen physics (no Al / petroleum / synthetic nonstick) |
 | `KitchenCraft.md` | Cookware production methods (Food domain; metal law stays in Materials/Metals) |
 | `MagicalMeatCookware.md` | Potency-preserving pans / vacuum meat cookware; uniform-heat whole-animal cook (proposal) |
 | `MagicalCooking.md` | Kitchen magic outcomes (chill, dry, time, sort, selective heat; design loot) |
+| `SkySaturation.md` | Sky-aged food. Fresh peaks with a slight mana benefit. Preserves upgrade in extreme saturation. Narrative lane is the finished food |
 
 ## Narrative
 
@@ -60,9 +62,9 @@ Same pushed harder: rare game, heavy spice, banquet theater. Out-of-season produ
 
 Potato, tomato, maize, chili, squash, turkey, chocolate and coffee exist where the story needs them. No Earth discovery gate. Plant and process: `CoffeeAndChocolate.md`.
 
-Rough spirits reach the poor. Aged quality spirits mark craftsman / small merchant (tier 3) and up. Distill / liqueur process: `FoodDesign.md` (Steam-era spirits and liqueurs). Tavern prices: `../World/Society/Economy.md`.
+Rough spirits reach the poor. Aged quality spirits mark craftsman / small merchant (tier 3) and up. Distill / liqueur process: `FoodDesign.md` (Steam-era spirits and liqueurs). Tavern prices: `../World/Society/Economy/Economy.md`.
 
-Monster meat tastes good but **spoils fast**. Eat, preserve (smoke/salt), mage-freeze, or use cookware tricks soon after the kill. Ordinary tables can eat game-like cuts when markets move it quickly. **Never eaten:** goblins (and goblin-kin), ghouls, zombies, liches and other undead. Parts and stones only where those drop. Nobody cooks that. Potency-preserving pans (proposal): `MagicalMeatCookware.md`.
+Monster meat tastes good but **spoils fast**. Eat, preserve (smoke/salt), mage-freeze, or use cookware tricks soon after the kill. Ordinary tables can eat game-like cuts when markets move it quickly. **Never eaten:** goblins (and goblin-kin), ghouls, zombies, liches and other undead. Parts and stones only where those drop. Nobody cooks that. Diet-stored toxins (Earth research; why captive / farmed animals go mild): `../World/Fauna/ToxinSequestration.md`. Potency-preserving pans (proposal): `MagicalMeatCookware.md`.
 
 ### Inn rule
 

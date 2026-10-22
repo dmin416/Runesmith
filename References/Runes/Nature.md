@@ -1,6 +1,6 @@
 # Nature of Runes and Magic
 
-> **Design loot.** Live locks: Energy.md (eta_cond feel order, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md (Ag mythril, Au orihalcum, Cu aurium, Fe/steel dark→star, Ti adamantium). Non-canon here: path-% dials; adamantium as forgeable post-set supersteel.
+> **Design loot.** Live locks: Energy.md (rune-quality η_cond, no path-%), Magic.md, Runes.md. Metals: ../World/Materials/Metals.md (Ag mythril, Au orihalcum, Cu aurium, Fe/steel dark→star, Ti adamantium). Non-canon here: path-% dials; adamantium as forgeable post-set supersteel.
 
 Author design lock for how runes and magic work in the rewrite. Engineering detail (ceilings, harmonics, setup, cast law) lives in the companion files below. This note is the worldview layer.
 
@@ -9,8 +9,9 @@ Author design lock for how runes and magic work in the rewrite. Engineering deta
 | `Nature.md` | What runes and magic *are* (this file) |
 | `RuneCauseEffect.md` | Sample → segments → what Roland builds next |
 | `RuneSystem.md` | Stages, ranks, harmonics, layout |
+| `RuneLexicon.md` | Named glyph counts, compounds, combination depth |
 | `RuneSetup.md` | Setup pour costs |
-| `Energy.md` | Activation, path / ambient / wear (eta_cond feel order) |
+| `Energy.md` | Activation, path / ambient / wear (rune-quality η_cond) |
 | `Runes.md` | Named catalog / first-seens |
 | `RuneCraftScrapes.md` | Chapter LOOK/MAKE scrape |
 | `../World/Science/Energy/ManaCast.md` | Spell cast law (1 mana ≈ 10 J) |
@@ -28,7 +29,37 @@ Author design lock for how runes and magic work in the rewrite. Engineering deta
 | Intention | Gives the pattern its purpose and output form |
 | Pathways | Physical or magical routes mana flows through |
 
-5. **Same rules across samples.** A trial book can name Fire Orb's five regions (mana collector → fire core → shape → constrain → velocity). Other lessers may lack that book. If their structure is still linear and progressive, they operate on the same rules.
+5. **Same rules across samples.** A trial book can name Fire Orb's four regions (mana collector → fire core → shape → constrain). Other lessers may lack that book. If their structure is still linear and progressive, they operate on the same rules.
+6. **Ranks are a complexity ladder, not only bigger numbers.** Each main rank adds a geometry and moves jobs off the body. Subgrades (Lowest → Highest) glue the ranks so peak of N ≈ floor of N+1. Detail and examples: `Runes.md` (Ranks), `RuneSystem.md` (Story feel + ceilings).
+7. **Lexicon grows with rank, mostly by compounding.** Soft world counts ~10 → ~40 → ~160 → ~660 → ~3.6k named glyphs; ~100–150 bases cover everyday magic **if** they combine. Higher ranks are mostly compounds and deeper stacks, not five disconnected dictionaries. Full curve: `RuneLexicon.md`. Narrative power = rank × quality × lexicon.
+8. **Look.** Simple machines read like a clean control block diagram (boxes, arrows, optional feedback). Complex ones look like a dense industrial board (modules, conduits, fine pathway traces). Same idea, different density — `RuneLexicon.md` Look.
+
+## Rank ladder (worldview)
+
+Ignoring joule ceilings, Source and early rewrite treat the five ranks as **kinds of machine**:
+
+| Rank | Geometry | Typical job home | Story feel |
+|---|---|---|---|
+| **Lesser** | One **linear** chain | Personal kit: blade, ladle, early scroll | Street tools. Solo paper is weak; metal + timing bites |
+| **Common** | Coupled / **shared modules** | Sellable scrolls, solid weapon runes | Working product band. Highest Common ≈ toe of Greater |
+| **Greater** | **3D stack** + ethereal links | Armor OS, devices, bulky pages, monoliths | Real machines. Hard to shrink. One on a suit is already a lot |
+| **Grand** | **Arrays** of greater units | Vaults, gates, warp slabs, workshop hearts | Infrastructure. Years per piece. Exotic hosts |
+| **Legendary** | Singular / composite myth | Nation / history artifacts | Fable tier. Not a better belt knife |
+
+**Jobs migrate off the body:** Lesser/Common = gear and ammo → Greater = systems and devices → Grand = doors, circles, fortresses → Legendary = politics or geography when it appears.
+
+**Host and charge gate before skill.** Rank outruns the metal and the mana pour long before "he is not smart enough." Class tier tracks loosely (T1 craft era → Lesser/Common; T3 → Greater; T4 culture → Grand).
+
+**Roland's method scales with the ladder:** disassemble sample → isolate stages → reuse components → stack. Rewards reverse engineering and **quality within rank**, not skipping ranks.
+
+### Extrapolations (story feel)
+
+- A Highest Common Fire Arrow should feel like a weak Greater spell scroll, not a toy next to Greater.
+- Hard couples (true frostfire, real spatial, stable armor OS) want Common+ resonance or Greater geometry, not a clever Lesser graft alone.
+- Merging runes (~5% efficiency talk in Source) is flavor early and strategic once packing Greater into Grand arrays.
+- Armor peaks around many Lesser/Common + at most one Greater unless compression / ethereal / better metal rewrite that dwarf rule.
+- If Roland "makes Grand," it should look like a room, gate or workshop heart, not a dagger.
+- Legendary should change politics or geography, or stay rumor.
 
 ## What is dropped
 
@@ -38,7 +69,7 @@ Author design lock for how runes and magic work in the rewrite. Engineering deta
 
 ## How Roland sees it (early arc)
 
-- Ch 15–16: Diagnosis shows large pathway stages in a flow. Technology fills knowledge gaps on encounter. Fire Orb trial = **five large regions** in a **linear chain** (giant letters). No binary / chips on-page.
+- Ch 15–16: Diagnosis shows large pathway stages in a flow. Technology fills knowledge gaps on encounter. Fire Orb trial = **four large regions** in a **linear chain** (giant letters). No binary / chips on-page.
 - Ch 19: segments are **large and linear**; pathways link stage to stage; shared rules across samples. Custom work = rearrange or swap **large stages** on a whole sheet (cut-paper overlays fail). Not a buried-code mystery.
 - Grafts are deliberate stage swaps on this causal model, not blind luck. Full unlock map: `RuneCauseEffect.md` (learn a job → use it immediately).
 
@@ -48,6 +79,7 @@ Enchantments ≈ word language. Runes ≈ symbol language. Runes are harder and 
 
 ## Pointers for numbers
 
+- Rank story feel + examples: `Runes.md` (Ranks and grades)
 - Rank / quality ceilings and stage map: `RuneSystem.md`
 - Mana in → joules out for spells: `../World/Science/Energy/ManaCast.md` and `Energy.md`
 - Schematic XP by quality (lesser): `../Progression/Progression.md` / craft notes (**100 / 200 / 400 / 600 / 1000**)
