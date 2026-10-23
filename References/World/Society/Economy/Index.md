@@ -8,6 +8,7 @@ Coins, prices, catalogs and Earth church fee anchors. Peoples: [Races.md](../Rac
 
 - [CrystalCapitalEconomy.md](CrystalCapitalEconomy.md). Terra macro-economy invent (coin, stones, crystals, corridors, pillars). Not locked law; class crystal wage peg conflicts with Economy.md **2 SG** lock.
 - [ChurchPaidServices.md](ChurchPaidServices.md). Earth design loot. Not Caldris law. Use when pricing Solaria / church services against historical feel. Live prices: Economy.md. Fat economy: EconomyDesign.md.
+- [BoomtownsAndAuctions.md](BoomtownsAndAuctions.md). Earth history / design loot. Rush cycle, medieval to Victorian booms, who gets rich, price spikes and gluts, Albrook mapping and multiplier guide. Auction types, Roman to Victorian history, sale steps, rings and puffing, Ch 22/23 25% fee check, seller strategy.
 - [Economy.md](Economy.md). Monster cores / mana stones: ../../Materials/MonsterCores.md + ../../Science/Energy/ManaStones.md. Size = level (not chief title / Old 1/30). Foundations locked;
 - [EconomyDesign.md](EconomyDesign.md). Design loot / price book. Lean lock: Economy.md. Approved item list: PriceCatalog.md. History vs Recommended (promotion queue): ValueReference.md. Cores:
 - [PriceCatalog.md](PriceCatalog.md). All priced items. Approved locks and design bands first, then the full Source item index (every scrape collapsed to one row per item name). Chronology:

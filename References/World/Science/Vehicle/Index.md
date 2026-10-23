@@ -14,6 +14,7 @@ Suspension, brakes, crew positions, wheels, roads, mobile home, walking house in
 - [MobileHome.md](MobileHome.md). Caravan amenity bands + heat density
 - [WalkingHouse.md](WalkingHouse.md). Earth invent loot. Legged apartment, force rail, repulsion-shield glide, 100 m² shield cost, rune-leg control
 - [Positions.md](Positions.md). Best driving and piloting positions: view, g, harness, controls
+- [SailingShips.md](SailingShips.md). Earth history / design loot. Ship types longship to clipper plus Polynesian double hull, steam transition, real average speeds and passage days, points of sail, navigation tools, rations and hazards, mana propulsion cost.
 - [Roads.md](Roads.md). Road layers; medieval-Victorian era ladder; travel speeds
 - Natural-surface trails: [../Invent/TrailBuilding.md](../Invent/TrailBuilding.md)
 - [Suspension.md](Suspension.md). Caldris ceiling + active nine-part + Earth ladder

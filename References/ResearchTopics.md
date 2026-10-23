@@ -14,6 +14,9 @@
 - Ultrasonics: `World/Science/Energy/Ultrasonics.md`
 - Infrasound: `World/Science/Energy/Infrasound.md`
 - Acoustic levitation: `World/Science/Energy/AcousticLevitation.md`
+- Boomtowns and auctions: `World/Society/Economy/BoomtownsAndAuctions.md`
+- Sailing ships: `World/Science/Vehicle/SailingShips.md`
+- Lava, magma and volcanic heat: `World/Geography/VolcanicIsland/LavaMagmaHeat.md`
 
 ## Top picks for Roland
 
@@ -113,7 +116,7 @@ Electrostatics. Mechanochemistry. Fracture mechanics. Ice houses with radiative 
 81. **Coastal dynamics.** Tides, erosion, harbor design.
 82. **Ocean currents.** Sailing routes, fishing grounds.
 83. **Glaciers and snow.** Avalanche science, ice roads.
-84. **Volcanology.** Eruption warning signs, volcanic soils, obsidian.
+84. **Volcanology.** Eruption warning signs, volcanic soils, obsidian. Done.
 85. **Caves and karst.** Formation, air flow in caves, dungeon geology.
 86. **Soil science.** Soil types, drainage, fertility, erosion.
 87. **Mineral identification.** Hardness, streak, cleavage, field tests.
@@ -181,8 +184,8 @@ Electrostatics. Mechanochemistry. Fracture mechanics. Ice houses with radiative 
 140. **Tunneling.** Ventilation, support, drainage.
 141. **Mining engineering.** Shafts, timbering, ore haulage.
 142. **Waterwheels and windmills.** Power output, gearing.
-143. **Sailing physics.** Tacking, keel design, rigging.
-144. **Shipbuilding.** Hull shapes, caulking, steering.
+143. **Sailing physics.** Tacking, keel design, rigging. Done.
+144. **Shipbuilding.** Hull shapes, caulking, steering. Done.
 145. **Diving gear.** Diving bells, breathing tubes, pressure limits.
 146. **Musical instruments.** Acoustics of strings, horns and drums.
 147. **Bells.** Casting, tuning, sound travel.

@@ -26,6 +26,7 @@ Hotspot / shield-island pack for Dragnis-class places. Places: [Places.md](../Pl
 - [HawaiianWindsBeachGlider.md](HawaiianWindsBeachGlider.md). Island wind atlas, channels, ridge lift; 100 kg beach-glider lift tables. PerfectGlider: ../../Science/Vehicle/PerfectGlider/
 - Island transport network (swing, zip, gondola, canoe): [../../Science/Vehicle/HawaiianTransport.md](../../Science/Vehicle/HawaiianTransport.md)
 - [VolcanicGases.md](VolcanicGases.md). Earth volcanic gas catalog and how each gas files onto the four damage families. Hawaiʻi station geography, not Caldris.
+- [LavaMagmaHeat.md](LavaMagmaHeat.md). Lava types, temperatures and speeds, pāhoehoe / ʻaʻā / tubes, radiant heat by distance, skin and body limits, gear failure temperatures, lava as a resource, Heimaey cooling math, pyroclastic and other hazards, dungeon heat ladder.
 - [HawaiianMinerals.md](HawaiianMinerals.md). Iron routes, element inventory, what Hawaii can/cannot supply. Sands: Sands.md. Ti/Ni metallurgy companions under Science/Metallurgy.
 - [Resources.md](Resources.md). Companion to Ecology.md. Crops, farm sites and waterfowl cross-links. Places: ../Places.md (Dragnis-class islands).
 - [Sands.md](Sands.md). Hotspot sand types, young/old island contrast, silica/Ti scarcity, lab separation. Minerals: HawaiianMinerals.md.
